@@ -1,0 +1,117 @@
+-- This file has been generated from package.yaml by hpack version 0.17.0.
+--
+-- see: https://github.com/sol/hpack
+
+name:           jats2tex
+version:        0.1.0.0
+author:         Pedro Tacla Yamada
+maintainer:     yamada@beijaflor.io
+license:        AllRightsReserved
+license-file:   LICENSE
+build-type:     Simple
+cabal-version:  >= 1.10
+
+extra-source-files:
+    README.md
+
+library
+  hs-source-dirs:
+      src
+  build-depends:
+      base >=4.8 && <5
+    , xml
+    , mtl
+    , containers
+    , HaTeX
+    , HaXml
+    , text
+    , optparse-applicative
+    , bytestring
+    , text-icu
+  exposed-modules:
+      JATSXML.Class
+      JATSXML.HTMLEntities
+      JATSXML.Types
+      Text.JaTex
+  default-language: Haskell2010
+
+executable jats2tex
+  main-is: Main.hs
+  hs-source-dirs:
+      ./bin
+  build-depends:
+      base >=4.8 && <5
+    , xml
+    , mtl
+    , containers
+    , HaTeX
+    , HaXml
+    , text
+    , optparse-applicative
+    , bytestring
+    , text-icu
+    , jats2tex
+  other-modules:
+      DocumentationCompiler
+      Extract
+      JatexWeb
+      XsdToHaskell
+  default-language: Haskell2010
+
+executable jats2tex-web
+  main-is: JatexWeb.hs
+  hs-source-dirs:
+      ./bin
+  build-depends:
+      base >=4.8 && <5
+    , xml
+    , mtl
+    , containers
+    , HaTeX
+    , HaXml
+    , text
+    , optparse-applicative
+    , bytestring
+    , text-icu
+    , jats2tex
+    , Spock
+    , hamlet
+    , http-types
+    , unordered-containers
+    , aeson
+    , shakespeare
+    , blaze-html
+    , here
+    , wai-middleware-static
+  other-modules:
+      DocumentationCompiler
+      Extract
+      Main
+      XsdToHaskell
+  default-language: Haskell2010
+
+test-suite hspec
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  hs-source-dirs:
+      test
+  build-depends:
+      base >=4.8 && <5
+    , xml
+    , mtl
+    , containers
+    , HaTeX
+    , HaXml
+    , text
+    , optparse-applicative
+    , bytestring
+    , text-icu
+    , base
+    , hspec
+    , QuickCheck
+    , jats2tex
+    , here
+  other-modules:
+      SanitySpec
+      Text.JaTexSpec
+  default-language: Haskell2010
