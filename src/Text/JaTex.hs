@@ -78,7 +78,7 @@ convertElem _el@Element {..} = do
       attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
     n = qName elName
     convertChildren = mapM_ convertNode elContent
-    commentEl = comment (Text.pack (n <> ": " <> show elLine))
+    commentEl = return () -- comment (Text.pack (n <> ": " <> show elLine))
     run
       | n == "article" = do
         documentclass [] article
