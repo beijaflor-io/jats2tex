@@ -16,6 +16,19 @@ spec = do
         it "works" pending
 
     describe "jatsXmlToLaTeXText" $ do
+        it "doesn't encode xml version encoding and namespaces" $ do
+            let inp = parseJATS' [here|
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+  </front>
+</article>
+                                      |]
+            jatsXmlToLaTeXText inp `shouldBe`
+                Text.pack ([here|\documentclass{article}
+  \begin{front}
+  \end{front}
+                           |] ++ "\n")
+
         it "works" $ do
             let inp = parseJATS' [here|
 <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">

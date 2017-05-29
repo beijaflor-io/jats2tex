@@ -90,6 +90,8 @@ convertElem _el@Element {..} = do
       | n == "p" = paragraph convertChildren
       | n == "break" = newline
       | n == "code" || n == "codebold" = texttt convertChildren
+      | n == "?xml" = return ()
+      | "?" `isPrefixOf` n = return ()
       | otherwise =
         case elContent of
           [] ->
