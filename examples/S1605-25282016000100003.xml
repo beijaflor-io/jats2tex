@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282016000100003</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Pérdida de carbono por deforestación reciente (2010-2013) en las tierras bajas y Yungas de Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Loss carbon by recent deforestation (2010-2013) in the lowlands and Yungas of Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cuéllar]]></surname>
+<given-names><![CDATA[Saúl]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[Daniel M.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Fundación Amigos de la Naturaleza  ]]></institution>
+<addr-line><![CDATA[Santa Cruz de la Sierra ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<volume>51</volume>
+<numero>1</numero>
+<fpage>15</fpage>
+<lpage>25</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282016000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282016000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282016000100003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[En este estudio, evaluamos la pérdida potencial de carbono causada por la deforestación reciente (2010-2013) ocurrida en las tierras bajas y Yungas de Bolivia. Examinamos de forma específica la magnitud y pérdida de carbono ocurrida en áreas protegidas nacionales y territorios indígenas titulados (TCO o TIOC). Utilizamos como línea de base los resultados de almacenamiento de carbono propuestos por WHRC (Woods Hole Research Center, www.whrc.org) para 2010. Detectamos la deforestación ocurrida entre 2010 y 2013 utilizando una metodología basada en el cálculo de NDFI (Normalized Difference Fraction Index, Souza et al. 2005) y árboles de decisión. Calculamos la pérdida potencial de carbono 2010-2013 sustrayendo la deforestación ocurrida en 2013. Los resultados indican que la pérdida potencial de carbono fue de 62.0 millones de toneladas métricas de carbono (tC) para las tierras bajas y Yungas (aprox. 20.7 millones de tC/año) y entre 2.6-4.4 millones de tC para las áreas protegidas nacionales (aprox. 879 mil tC/año) y territorios indígenas titulados (aprox. 1.5 millones de tC/año), respectivamente. Identificamos tres frentes de pérdida de carbono localizados en las provincias biogeográficas Chiquitana, Chaqueña y Beniana ubicadas en la principal zona de expansión de la frontera agropecuaria del país (el departamento de Santa Cruz). Sugerimos diseñar un programa de monitoreo sobre la capacidad de almacenamiento de carbono de los diferentes tipos de bosque que existen en Bolivia. Este programa de monitoreo podría articularse al Sistema Boliviano de Certificación de Bosques e Incentivos (SBCBI), como una estrategia que ayude a disuadir la conversión del bosque y, por tanto, la pérdida de carbono.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[In this study, we evaluate the potential carbon loss caused by recent deforestation (2010-2013) in the lowlands and Yungas of Bolivia. Specifically, we examine the extent of carbon loss that occurred in national protected areas and officially recognized indigenous territories (in Spanish TIOC or TCO). Models on carbon storage proposed by WHRC (Woods Hole Research Center, www.whrc.org) at a global scale for 2010 as a baseline. In order to detect deforestation occurred from 2010 to 2013, we used a methodology based on the calculation of NDFI (Normalized Difference Fraction Index, Souza et al. 2005) and decision trees. We calculated the potential carbon loss occurred from 2010 to 2013 by deforestation of carbon storage in 2013 that these forests had in 2010. The results show that the potential loss of carbon was 62.0 million tC for the lowlands and the Yungas (about 20.7 million tC/year) and from 2.6 to 4.4 million tC for national protected areas (about 879,000 tC/year) and officially recognized indigenous territories (about 1.5 million tC/year). We identified three fronts of carbon loss in the biogeographic provinces of Chiquitania, Chaco and Beni, which are located in the main area of expansion of the agricultural frontier of the country (Department Santa Cruz). We suggest designing a long-term monitoring program to assess the carbon storage capacity in different types of forests in Bolivia. This monitoring program could link to Bolivian System of Forest Certification and Incentives (SBCBI, in Spanish), as a strategy that helps to diminish the conversion of forest and, thus, prevent carbon loss.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Cambio climático]]></kwd>
+<kwd lng="es"><![CDATA[Frontera agropecuaria]]></kwd>
+<kwd lng="es"><![CDATA[PFNM (Productos Forestales No Maderables)]]></kwd>
+<kwd lng="es"><![CDATA[Servicios ecosistémicos]]></kwd>
+<kwd lng="es"><![CDATA[Yungas]]></kwd>
+<kwd lng="en"><![CDATA[Agricultural frontier]]></kwd>
+<kwd lng="en"><![CDATA[Climate change]]></kwd>
+<kwd lng="en"><![CDATA[Ecosystem services]]></kwd>
+<kwd lng="en"><![CDATA[NTFP (Non Timber Forest Products)]]></kwd>
+<kwd lng="en"><![CDATA[Yungas]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font face="Verdana" size="2"><b>Art&iacute;culo</b></font></p>     <p align="right">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Pérdida de carbono por deforestación reciente (2010-2013) en las tierras bajas y Yungas de Bolivia</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Loss carbon by recent deforestation (2010-2013) in the lowlands and Yungas of Bolivia</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="2">Saúl Cuéllar<sup>1</sup> &amp; Daniel M. Larrea-Alcázar<sup>1,2</sup></font></b></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Fundación Amigos de la Naturaleza, Doble Vía a La Guardia, Km 7½<i>, </i>Casilla 2241,</font> <font face="Verdana" size="2">Santa Cruz de la Sierra, Bolivia, email: <a href="mailto:saguiere@ssdnet.com.ar">scuellar@fan-bo.org</a></font>    <br> <font face="Verdana" size="2"><sup>2</sup>Asociación Boliviana para la Investigación y Conservación de Ecosistemas Andino-Amazónicos,</font> <font face="Verdana" size="2">Pasaje Flores Quintela (entre calles 13 y 14 de Calacoto), La Paz, Bolivia, email: <a href="mailto:larrea.alcazar@gmail.com">larrea.alcazar@gmail.com</a>,</font> <font face="Verdana" size="2"><a href="mailto:dlarrea@conservacionamazonica.org.bo">dlarrea@conservacionamazonica.org.bo</a> * Autor para correspondencia</font></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">En este estudio, evaluamos la pérdida potencial de carbono causada por la deforestación reciente (2010-2013) ocurrida en las tierras bajas y Yungas de Bolivia. Examinamos de forma específica la magnitud y pérdida de carbono ocurrida en áreas protegidas nacionales y territorios indígenas titulados (TCO o TIOC). Utilizamos como línea de base los resultados de almacenamiento de carbono propuestos por WHRC (Woods Hole Research Center, <a href="http://www.whrc.org" target="_blank">www.whrc.org</a>) para 2010. Detectamos la deforestación ocurrida entre 2010 y 2013 utilizando una metodología basada en el cálculo de NDFI (Normalized Difference Fraction Index, Souza <i>et al. </i>2005) y árboles de decisión. Calculamos la pérdida potencial de carbono 2010-2013 sustrayendo la deforestación ocurrida en 2013. Los resultados indican que la pérdida potencial de carbono fue de 62.0 millones de toneladas métricas de carbono (tC) para las tierras bajas y Yungas (aprox. 20.7 millones de tC/año) y entre 2.6-4.4 millones de tC para las áreas protegidas nacionales (aprox. 879 mil tC/año) y territorios indígenas titulados (aprox. 1.5 millones de tC/año), respectivamente. Identificamos tres frentes de pérdida de carbono localizados en las provincias biogeográficas Chiquitana, Chaqueña y Beniana ubicadas en la principal zona de expansión de la frontera agropecuaria del país (el departamento de Santa Cruz). Sugerimos diseñar un programa de monitoreo sobre la capacidad de almacenamiento de carbono de los diferentes tipos de bosque que existen en Bolivia. Este programa de monitoreo podría articularse al Sistema Boliviano de Certificación de Bosques e Incentivos (SBCBI), como una estrategia que ayude a disuadir la conversión del bosque y, por tanto, la pérdida de carbono.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Cambio climático, Frontera agropecuaria, PFNM (Productos Forestales No Maderables), Servicios ecosistémicos, Yungas.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">In this study, we evaluate the potential carbon loss caused by recent deforestation (2010-2013) in the lowlands and Yungas of Bolivia. Specifically, we examine the extent of carbon loss that occurred in national protected areas and officially recognized indigenous territories (in Spanish TIOC or TCO). Models on carbon storage proposed by WHRC (Woods Hole Research Center, <a href="http://www.whrc.org" target="_blank">www.whrc.org</a>) at a global scale for 2010 as a baseline. In order to detect deforestation occurred</font> <font face="Verdana" size="2">from 2010 to 2013, we used a methodology based on the calculation of NDFI (Normalized Difference Fraction Index, Souza <i>et al. </i>2005) and decision trees. We calculated the potential carbon loss occurred from 2010 to 2013 by deforestation of carbon storage in 2013 that these forests had in 2010. The results show that the potential loss of carbon was 62.0 million tC for the lowlands and the Yungas (about 20.7 million tC/year) and from 2.6 to 4.4 million tC for national protected areas (about 879,000 tC/year) and officially recognized indigenous territories (about 1.5 million tC/year). We identified three fronts of carbon loss in the biogeographic provinces of Chiquitania, Chaco and Beni, which are located in the main area of expansion of the agricultural frontier of the country (Department Santa Cruz). We suggest designing a long-term monitoring program to assess the carbon storage capacity in different types of forests in Bolivia. This monitoring program could link to Bolivian System of Forest Certification and Incentives (SBCBI, in Spanish), as a strategy that helps to diminish the conversion of forest and, thus, prevent carbon loss.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Agricultural frontier, Climate change, Ecosystem services, NTFP (Non Timber Forest Products), Yungas.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bolivia se encuentra entre los quince países con mayor superficie de bosques tropicales (FAO 2010). La mayoría de estos bosques se localiza en las denominadas tierras bajas (&lt; 1.000 m), que forman un continuo de bosques húmedos que alcanzan hasta los Yungas <i>per se </i>y los bosques Boliviano-Tucumanos o Yungas del sur, abarcando cerca de 47 millones de hectáreas (Cuéllar <i>et al. </i>2012). La mayoría de estos bosques no son aptos para uso agropecuario (Müller <i>et al. </i>2014a); no obstante, su transformación hacia tierras agrícolas o paisajes pecuarios ha ocurrido desde mediados de los años 80s, alcanzando las 150 mil ha/ año (Killeen <i>et al. </i>2007) o más (270 mil/ ha de acuerdo con Rojas <i>et al. </i>2003) durante la década de los 90s, donde la producción de soya fue la principal causa de deforestación (Müller <i>et al. </i>2012, 2014a). Entre 2000 y 2010, la pérdida anual de bosque disminuyó a menos de 200 mil ha/año (Cuéllar <i>et al. </i>2012, SERNAP 2013), siendo la ganadería la principal causa de conversión de los bosques (Müller <i>et al. </i>2014b). La deforestación implica además una pérdida de biomasa forestal y, por tanto, una disminución progresiva de la capacidad de almacenamiento de carbono de los bosques</font> <font face="Verdana" size="2">afectados (e.g. Numata <i>et al. </i>2010). Tejada <i>et al. </i>(2015) modelaron la pérdida de carbono por deforestación al año 2050 sugiriendo que podría ser hasta cinco veces más (7.65 mil millones de toneladas de carbono, tC) que la ocurrida hasta el año 2008 (1.02 mil millones de tC). Recientemente, Andersen <i>et al. </i>(2016), estimaron que las emisiones netas de CO<sub>2 </sub>entre los años 1990 y 2010 estaría en los 1.6 mil millones de toneladas.</font></p>     <p align="justify"><font face="Verdana" size="2">Walker <i>et al. </i>(2015) reportaron que las áreas protegidas y los territorios indígenas podrían almacenar cerca del 55% del carbono (47 millones de tC) de la Amazonia (86 millones de tC) y que cerca del 43% del carbono en áreas con potenciales actividades agropecuaria, minera, petrolera y de transporte, entre otros, se encontrarían en territorios indígenas y áreas protegidas. En Bolivia, 17 de las 23 áreas protegidas nacionales se encuentran en las tierras bajas o los Yungas cubriendo cerca de 15 millones de ha (13.7% de la superficie de Bolivia). En la misma región, existen 57 territorios indígenas reconocidos legalmente como TCO (Tierras Comunitarias de Origen) o TIOC (Territorio Indígena Originario Campesino) que cubren 12.4 millones de ha (11.3% de la superficie de Bolivia). Áreas protegidas y territorios indígenas han sido </font><font face="Verdana" size="2">sugeridos como barreras sociales que limitan la expansión de la frontera agropecuaria en la Amazonía (e.g. Schwartzman <i>et al. </i>2013). En Bolivia, ambas han experimentado pérdidas de bosque por deforestación (Cuéllar <i>et al. </i>2012); no obstante, las derivaciones potenciales de esta pérdida de bosque en la cantidad de carbono que almacenan no ha sido estimadas.</font></p>     <p align="justify"><font face="Verdana" size="2">Hansen <i>et al. </i>(2013) reportaron a Bolivia y Paraguay como los países sudamericanos que mayor deforestación experimentaron (principalmente en la región del Chaco) entre 2010 y 2012, junto con otros países de clima tropical como Indonesia, Malasia, Angola, entre otros. En contraste, la Autoridad de Fiscalización y Control Social de Bosques y Tierra (ABT) informó que la deforestación ocurrida entre los años 2011 y 2013 habría disminuido a menos de 100 mil ha/año, atribuyendo tal descenso al aumento de la multa por hectárea deforestada (entre USD 70 y 300). La Dirección General de Gestión y Desarrollo Forestal (DGGDF) del Ministerio de Medio Ambiente y Agua (MMAyA) reportó un pérdida total de 487 mil ha de bosque ocurridos entre los años 2010 y 2013 (aprox. 162 mil ha/año), de los cuales cerca del 41% se habrían tratado de bosques amazónicos. Las implicaciones de la deforestación en términos de pérdida de carbono son desconocidas.</font></p>     <p align="justify"><font face="Verdana" size="2">En este estudio, evaluamos la magnitud y pérdida potencial de carbono por la deforestación reciente (2010-2013) ocurrida en las tierras bajas y Yungas de Bolivia. Específicamente, nuestros objetivos fueron: a) identificar los frentes de pérdida potencial de carbono y caracterizar sus patrones geográficos, y b) determinar la pérdida potencial de carbono en áreas protegidas nacionales y territorios indígenas titulados como unidades territoriales asociadas con conservación de biodiversidad y el reconocimiento territorial de derechos indígenas, respectivamente. No incluimos las áreas protegidas subnacionales (departamentales   y   municipales)   y   los </font><font face="Verdana" size="2">territorios indígenas demandados al tratarse de unidades territoriales en procesos de definición o consolidación de límites. Realizamos el análisis para las tierras bajas de Bolivia, que abarca formaciones de bosques amazónicos, chiquitanos y chaqueños por debajo de los 1.000 m de altitud. Incluimos también a los bosques yungueños y una porción del bosques Tucumano-Boliviano ubicado por debajo de los 1.000 m, ambas como las formaciones húmedas representativas de la vertiente oriental de la cordillera de los Andes.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="center"><font face="Verdana" size="2"><b>Almacenamiento de carbono 2010</b></font></p>     <p align="justify"><font face="Verdana" size="2">Recopilamos información disponible sobre densidad de carbono modelado por WHRC (Woods Hole Research Center, <a href="http://www.whrc.org" target="_blank">http://www.whrc.org</a>) para 2010 a una resolución de 500 x 500 m (0.25 km<sup>2</sup>). La metodología usada por WHRC combina mediciones de campo georreferenciadas, con observaciones Lidar (Geoscience Laser Altimeter System, GLAS) e imágenes de satélite MODIS (Moderate Resolution Imaging Spectroradiometer). El modelo genera valores de biomasa aérea que son convertidos en valores de densidad de carbono (toneladas métricas de carbono, tC) usando el coeficiente 0.5 sugerido por Chave <i>et al. </i>(2012). Para mayores detalles de la metodología usada por WHRC ver Baccini <i>et al. </i>(2012). Definimos densidad de carbono como la cantidad total de carbono aéreo contenido en la biomasa leñosa de vegetación viva sobre la tierra <i>(sensu </i>Walker <i>et al. </i>2015). Calculamos la densidad de carbono para las tierras bajas y Yungas de Bolivia (escala regional) y para áreas protegidas nacionales y territorios indígenas titulados (Tierras Comunitarias de Origen, TCO o Territorios Indígena Originario Campesinos, TIOC) (escalas locales).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Deforestación 2010-2013</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Recopilamos y procesamos cuarenta y seis imágenes Landsat 8 de 2013. Tomamos como línea de base el año 2010 usando la información publicada por Cuéllar <i>et al. </i>(2012). Realizamos los análisis usando el software de procesamiento y análisis avanzado de imágenes geoespaciales ENVI (<A href=http://www.exelisvis.com target="_blank"><u>http://www.exelisvis.com</u></A>) y la herramienta ImgTools generada por el Imazon (<A href=http://www.imazon.org.br target="_blank"><u>http://www.imazon.org.br</u></A>). Establecimos un &quot;área común&quot; y un &quot;área efectiva&quot; en las imágenes para la comparación entre periodos. Realizamos la corrección radiométrica y atmosférica utilizando el módulo Radiometric Calibration de ImgTools y el módulo FLAASH (Fast Line of Sight Atmospheric Analysis of Spectral Hypercubes) de ENVI, obteniendo valores de radianza que transformamos a valores de reflectancia. Usamos estos valores para desarrollar un análisis de mezcla espectral (SMA, por sus siglas en inglés) determinando la fracción de suelo, vegetación fotosintética, vegetación no fotosintética y nubes existentes en cada imagen. Con los valores de SMA calculamos el NDFI (Normalized Difference Fraction Index), propuesto por Souza <i>et al. </i>(2005), que permitió diferenciar entre bosques perturbados y bosques intactos. Creamos máscaras de nubes/sombra y agua para apoyar la clasificación. Con estas máscaras, más los valores del SMA y del NDFI, se realizó la clasificación utilizando árboles de decisión, que permitió identificar el área de bosque, no bosque, agua, nubes/ sombras y deforestación en cada imagen. Posteriormente procedimos a la edición de cada imagen y la construcción del mosaico final del análisis. Para el análisis de la deforestación ocurrida, calculamos la pérdida total y la pérdida anual de bosque. Definimos la pérdida total de bosque como la superficie deforestada (ha) en el periodo 2010-2013, mientras que la pérdida anual de bosque estuvo referida a la superficie total deforestada (ha) dividida entre el intervalo de años analizados, en este caso tres: 2011-2013. Calculamos la </font><font face="Verdana" size="2">pérdida total de bosque ocurrida en el periodo 2010-2013 para las tierras bajas y Yungas, áreas protegidas nacionales y territorios indígenas titulados. La resolución del análisis fue 30 m (0.0009 km<sup>2</sup>).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Pérdida de carbono 2010-2013</b></font></p>     <p align="justify"><font face="Verdana" size="2">Para calcular la pérdida de carbono por deforestación, superpusimos el mapa de densidad de carbono (tC) propuesto por WHCR para el año 2010 con el mapa de deforestación 2010-2013. Para estandarizar las diferencias en la resolución realizamos un re escalamiento de las celdas de 500 m (densidad de carbono) a celdas de 30 m (resolución usada para la detección de deforestación). Las celdas que experimentaron pérdida de bosque en 2013 fueron detectadas. Extrajimos el valor de tC de cada celda con deforestación. Asumimos que la perdida de cobertura boscosa detectada con la deforestación implicó pérdida del carbono potencial de cada celda. Calculamos la pérdida de carbono por deforestación para las tierras bajas y Yungas de Bolivia (escala regional) y áreas protegidas nacionales y territorios indígenas titulados (escala local). Todos los análisis cartográficos fueron realizados usando ArcGis 10.2 (<a href="http://www.arcgis.com" target="_blank">www.arcgis.com</a>).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Resultados</b></font></p>     <p align="center"><b><font face="Verdana" size="2">Tierras bajas y Yungas de Bolivia</font></b></p>     <p align="justify"><b><font face="Verdana" size="2"></font></b><font face="Verdana" size="2">La deforestación ocurrida en el periodo 2010-2013 fue de 745.7 mil hectáreas en total (pérdida anual de bosque de aprox. 249 mil ha/año), lo que significó una pérdida de cerca de 62.0 millones de toneladas métricas de carbono (tC) en total. Además la pérdida anual de carbono fue de aprox. 20.7 millones de tC/año, que representó el 0.86% del almacenamiento de carbono estimado para las tierras bajas y Yungas de Bolivia (<a href="#t1">Tabla 1</a>). </font></p>     <p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v51n1/a03_tabla_01.gif" width="646" height="347"></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">La mayor pérdida de carbono fue detectada en las regiones brasileño-paranense y chaqueña propuestas por Navarro &amp; Ferreira (2009, <a href="#f1">Fig. 1</a>).</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v51n1/a03_figura_01.gif" width="675" height="777"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Áreas protegidas nacionales</b></font></p>     <p align="justify"><font face="Verdana" size="2">La deforestación ocurrida en el periodo 2010-2013 al interior de las áreas protegidas nacionales fue de 26 mil ha en total (aprox. 8.7 mil ha/año), lo que significó una pérdida potencial de cerca de 2.6 millones de tC (aprox. 879 mil tC/año, <a href="#t1">Tabla 1</a>). El Territorio Indígena Parque Nacional Isiboro Sécure (TIPNIS) fue el que experimento mayor pérdida con 719 mil tC, resultantes de la pérdida de 5.8 mil ha de bosque en el periodo 2010-2013, le siguió el Parque Nacional Área de Manejo Integrado Amboró (PN-ANMI Amboró) con 416 mil tC (pérdida de bosque 2010-2013: 4.0 mil ha), el ANMI San Matías con 337 mil tC (pérdida de bosque 2010-2013: 3.8 mil ha) y el PN Carrasco con 270 mil tC (pérdida de bosque 2010-2013: 2.4 mil ha). Las áreas protegidas restantes experimentaron pérdidas potenciales de carbono &#8804; 215 mil tC con una deforestación 2010-2013 que osciló entre 83 ha (PN-ANMI Cotapata) y 3.2 mil ha (PN-ANMI Kaa Iya del Gran Chaco). El TIPNIS fue el que experimentó la mayor pérdida porcentual de carbono (1.16% del total estimado), le siguió el</font> <font face="Verdana" size="2">PN-ANMI Amboró y el ANMI San Matias con 0.67% y 0.54%, respectivamente. Las restantes áreas protegidas experimentaron pérdidas &#8804; 0.44% del total del almacenamiento de carbono estimado en cada caso.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Territorios indígenas titulados</b></font></p>     <p align="justify"><font face="Verdana" size="2">La deforestación ocurrida en el periodo 2010-2013 al interior de territorios indígenas titulados (57 en total hasta el año 2013) fue de 44.4 mil ha en total (aprox. 14.8 mil ha/año), lo que significó una pérdida de cerca de 4.4 millones de tC (aprox. 1.5 millones tC/año, <a href="#t1">Tabla 1</a>). Las TCOs Isoso y Guarayos fueron las que experimentaron la mayor pérdida de carbono por deforestación con 795 y 771 mil tC, resultantes de la pérdida de bosque 2010-2013 de 11.8 y 6.5 mil ha, respectivamente. Les siguió la TCO Chimane (TICH) con 350 mil tC (pérdida de bosque 2010-2013: 2.7 mil ha), la TCO Monte Verde con 328 mil tC (pérdida de bosque 2010-2013: 3.2 mil ha) y la TCO Bajo Paragua (CIBAPA) con 292 mil tC (pérdida de bosque 2010-2013: 2.2 mil ha). El resto de los territorios indígenas</font> <font face="Verdana" size="2">experimentó pérdidas de carbono &#8804; 217 mil tC con pérdidas de bosque 2010-2013 que oscilaron entre 8 ha (TCO Tapiete) y 1.6 mil ha (TCO Multiétnico II y Mosetén). La TCO Takovo Mora fue la que experimentó la mayor pérdida porcentual de carbono (7.9% del total estimado). Los restantes territorios indígenas experimentaron perdidas &#8804; 2.8% del total del almacenamiento de carbono estimado en cada caso.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Discusión</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Como ocurre en gran parte de la Amazonía, los impactos directos de la deforestación en Bolivia podrían incluir pérdida de biodiversidad, reducción del ciclo del agua (y posiblemente precipitación) y su contribución al cambio climático a través de las emisiones netas de gases de efecto invernadero <i>(sensu </i>Fearnside 2005, Berenguer <i>et al. </i>2014, Andersen <i>et al. </i>2016). Los resultados muestran un incremento de la pérdida anual de bosque durante el periodo 2010-2013 comparado con lo ocurrido en la década previa 2000-2010 (ver Cuéllar <i>et al. </i>2012, 2015) que significó la pérdida del &lt; 1% del almacenamiento de carbono existente. La deforestación total detectada coincide con la tendencia reportada para Bolivia por Hansen <i>et al. </i>(2013), quienes reportaron una alta deforestación sobre todo en la parte del Chaco de Bolivia. Aquí detectamos que junto con el Chaco, la provincia Chiquitana y la Beniana han experimentado pérdidas de carbono importantes, coincidiendo con la expansión de la frontera agropecuaria y apuntando a que la ganadería con pastos cultivados y la agricultura mecanizada podrían ser las principales causas de la deforestación detectada (Müller <i>et al. </i>2014b). Que significó la deforestación previa en términos de perdida de carbono es una pregunta abierta, por ejemplo, en el periodo 2000-2010 se deforestaron cerca de 1.8 millones de ha (Cuéllar <i>et al. </i>2012), si estimamos una pérdida</font> <font face="Verdana" size="2">de carbono similar a la ocurrida en el periodo 2010-2013, posiblemente esta pérdida de bosque significó una pérdida aproximada entre 145 y 150 millones de tC. De acuerdo con Andersen <i>et al. </i>(2016), esta pérdida de bosque podría haber representado la emisión de 926 millones de tCO<sub>2</sub>, un 42% más de lo ocurrido en el periodo 1990-2000 (653 millones tCO<sub>2</sub>).</font></p>     <p align="justify"><font face="Verdana" size="2">En un futuro inmediato, la deforestación podría incrementarse debido a la denominada &quot;agenda del millón de hectáreas&quot;, mediante la cual se pretende incrementar la frontera agropecuaria en un millón de hectáreas por año hasta el año 2020, que incluye en un futuro inmediato la intención de ampliar la superficie de desmonte de cinco a 20 ha para pequeños productores, comunidades y asentamientos humanos. A ello se suma la reciente certificación de Bolivia como un país libre de aftosa que incentivará la inversión privada para la producción de carne y lácteos. La aprobación de la Ley 337 (Apoyo a la Producción de Alimentos y Restitución de Bosques) permitió regularizar los desmontes ilegales entre 1996 y 2011 y ha generado un marco legal para sancionar futuros desmontes ilegales pero no necesariamente disuadirlos, lo que podría lograrse a través de una política de incentivos que complemente esta norma. Por otro lado, el control de la deforestación ilegal sigue siendo insuficiente. Todo ello configura un escenario poco alentador para la conservación de los bosques remanentes y el carbono que almacenan. Estrategias para reducir la deforestación podrían incluir: a) el establecimiento de un marco sancionatorio más estricto (p.ej., en el marco de la implementación de la Ley 337), b) reformas en la tenencia de tierras y política de asentamientos que respeten las TPFP (Tierras de Producción Forestal Permanente), todavía vigentes en Bolivia, o las prioridades de conservación identificadas por Araujo <i>et al. </i>(2010) o c) establecer un programa de monitoreo sobre la capacidad </font><font face="Verdana" size="2">de almacenamiento y pérdida de carbono de los diferentes tipos de bosque que existen en Bolivia. Este último podría articularse al Sistema Boliviano de Certificación de Bosques e Incentivos (SBCBI) generando información clave para el (Mecanismo Conjunto de Mitigación y Adaptación para el Manejo Integral y Sustentable de los Bosques y la Madre Tierra (=&quot;Mecanismo Conjunto&quot;). Por otra parte, redireccionar la expansión de la frontera agropecuaria hacia tierras degradadas o áreas no boscosas sigue siendo una alternativa en potencia (e.g. Müller <i>et al. </i>2014a, Tejada <i>et al. </i>2015).</font></p>     <p align="justify"><font face="Verdana" size="2">Otras estrategias podrían ser incentivar el uso más eficiente d el suelo o la implementación de políticas que alienten la conservación de los servicios ecosistémicos y sus beneficios. Generar políticas que promuevan actividades de bajo impacto en los bosques en lugar de su conversión a tierras agrícolas o pecuarias será esencial. En ese sentido, promover y fortalecer el aprovechamiento de productos de especies forestales no maderables es clave. Junto con la castaña <i>(Berthollethia excelsa) </i>y el cacao <i>(Theobroma cacao), </i>algunas especies de palmeras son reconocidas como recursos estratégicos para su uso o aprovechamiento a corto plazo (p.ej. el asai, <i>Euterpe precatoria </i>o el majo, <i>Oenocarpus bataua, </i>entre otros). Conocer el potencial productivo de cada especie y sus variantes geográficas, las limitaciones y potencialidades del proceso de transformación que requieren algunos de ellos (p.ej. procesamiento de la pulpa o liofilización del asaí), los mercados locales e internacionales disponibles y compartir experiencias de formas organización local para el aprovechamiento de estas especies, serán los primeros pasos.</font></p>     <p align="justify"><font face="Verdana" size="2">Las áreas protegidas nacionales y territorios indígenas titulados experimentaron un incremento en la superficie deforestada. Para el caso de las primeras, entre 2000 y 2010 la pérdida anual de bosque fue de 5.0 mil ha/</font><font face="Verdana" size="2">año, mientras que los territorios indígenas experimentaron una pérdida anual de 4.7 mil ha/año (Cuéllar <i>et al. </i>2012). Nuestros resultados muestran que para el periodo 2010-2013 la deforestación incrementó entre 1.7 (áreas protegidas) y 3.1 (territorios indígenas) veces. En el caso de áreas protegidas, es necesario analizar si esta pérdida ha ocurrido en zonas de protección estricta o en áreas con alta prioridad de conservación <i>(sensu </i>Araujo <i>et al. </i>2010). Con la promulgación del D.S. 2366 (20/05/2015), el cual permite actividades de exploración y explotación hidrocarburífera (petróleo y gas) independientemente de su categoría o zonificación, es plausible pensar que la deforestación al interior de áreas protegidas podría incrementarse en el corto plazo. El caso de los territorios indígenas no es diferente. Se estima que el 41% (aprox. 979 mil ha) de las áreas hidrocarburíferas en exploración y/o explotación existentes en las tierras bajas y Yungas de Bolivia se encuentran en territorios indígenas (Quintanilla <i>et al., </i>datos no publicados) y podrían ser causa importante de pérdida de bosque y su carbono.</font></p>     <p align="justify"><font face="Verdana" size="2">Finalmente, aunque a la escala de las tierras bajas y Yungas de Bolivia la pérdida de carbono por la deforestación reciente puede ser percibida como baja (&lt; 1% del carbono existente para 2010), si la pérdida de bosque se mantiene constante para los siguientes 20 años - lo que significa la pérdida de aprox. 62 millones de tC/año - es plausible esperar una disminución cercana al 17% del carbono remanente. Las implicaciones de esta pérdida de cobertura vegetal en la capacidad de los bosques remanentes para mitigar las variaciones de temperatura y precipitación esperadas por impacto del cambio climático (ver Seiler <i>et al. </i>2014, 2015) son desconocidas. Un siguiente paso será también estimar qué representó la deforestación ocurrida entre 2010 y 2013 en términos de emisiones netas de CO<sub>2</sub> (e.g. Andersen <i>et al. </i>2016).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusiones</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los resultados sugieren la existencia en Bolivia de tres frentes de pérdida de carbono por deforestación ocurrida entre 2010 y 2013 ubicados en la principal zona de expansión de la frontera agropecuaria (Santa Cruz). Los impactos de esta pérdida de bosque en términos de emisiones netas de gases de efecto invernadero o pérdida de diversidad biológica, servicios ecosistémicos o beneficios son desconocidos. Las políticas para promover actividades de bajo impacto de los bosques no han logrado consolidarse en la práctica. Mantener o, de ser el caso, recuperar el carbono que almacenan los bosques podría ser un criterio que refleje, en parte, la buena gestión técnica y social de los recursos de estos bosques.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El estudio fue realizado gracias a los fondos    en gran parte otorgados a la Fundaci&oacute;n    Amigos de la Naturaleza (FAN) por la    Fundaci&oacute;n Gordon and Betty Moore y la    Fundaci&oacute;n Ford, en el marco de la Red    Amaz&oacute;nica de Informaci&oacute;n Socioambiental    Georreferenciada (RAISG, <a href="http://www.raisg.socioambiental.org" target="_blank">http://www.raisg.socioambiental.org</a>). Sara Espinoza    colabor&oacute; con los an&aacute;lisis cartogr&aacute;ficos del    estudio. Marlene Quintanilla coment&oacute; una   versi&oacute;n preliminar del manuscrito. Las   opiniones expresadas en este estudio son las   de los autores y no necesariamente reflejan   el criterio institucional de FAN Fundaci&oacute;n   Gordon and Betty Moore, Fundaci&oacute;n Ford   y ACEAA (actual afiliaci&oacute;n del autor por   correspondencia). Las sugerencias de dos   revisores an&oacute;nimos ayudaron a mejorar el contenido final del manuscrito.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Andersen, L.E., A.S. Doyle, S. del Granado, J.C. Ledezma, A. Medinaceli, M. Valdivia &amp; P. Weinhold. 2016. Net carbon emissions</font> <font face="Verdana" size="2">from deforestation in Bolivia during 1990-2000 and 2000-2010: results from a carbón book keeping model. Plos ONE 11(3): e0151241. doi: <a href="http://dx.doi.org/10.1371/journal.pone.0151241" target="_blank">10.1371/journal.pone.0151241</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Araujo, N., R. Müller, C. Nowicki &amp; P. Ibisch (eds.). 2010. Prioridades de conservación de la biodiversidad de Bolivia. Fundación Amigos de la Naturaleza (FAN), Asociación Boliviana de Conservación (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia Nórdica para el Desarrollo y la Ecología (NORDECO), Servicio Nacional de Áreas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservación Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN, Santa Cruz. 74 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Baccini, A., S.J. Goetz , W.S.Walker, N.T. Laport0e, M. Sun, D. Sulla-Menashe, J. Hackler, P.S.A. Beck, R. Dubayah, M.A. Friedl, S. Samanta &amp; R.A. Houghton. 2012. Estimated carbon dioxide emissions from tropical deforestation improved by carbon-density maps. Nature Climate Change 2:182-185.</font></p>     <p align="justify"><font face="Verdana" size="2">Berenguer, E., J. Ferreira, T.A. Gardner, L.E. Oliveira, C. Aragão, P.B. De Camargo, C.E., Cerri, M. Durigan, R.C. De Oliveira, C. Guimarães &amp; J. Barlow. 2014. A large-scale field assessment of carbon stocks in human-modified tropical forests. Global Change Biology 20: 3713-3726.</font></p>     <p align="justify"><font face="Verdana" size="2">Chave, J., C. Andalo, S. Brown, M.A. Cairns, J.Q. Chambers, D. Eamus, H. Fölster, F. Fromard, N. Higuchi, T. Kira, J.P. Lescure, B.W. Nelson, H. Ogawa, H. Puig, B. Riéra &amp;T. Yamakura. 2012. Tree allometry and improved estimation of carbon stocks a balance in tropical forests. Oecologia 145: 87-99.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cu&eacute;llar, S., M. Quintanilla  &amp; D. Larrea. 2015. Deforestaci&oacute;n. Pp. 74-81. En: Fundaci&oacute;n Amigos de la  Naturaleza (ed.) Atlas Socioambiental de las Tierras Bajas y Yungas de Bolivia.  Editorial FAN, Santa Cruz de la Sierra.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085023&pid=S1605-2528201600010000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Cuéllar, S., A. Rodríguez, J. Arroyo, S. Espinoza &amp; D.M. Larrea-Alcázar. 2012. Mapa</font> <font face="Verdana" size="2">de deforestación de las tierras bajas y los Yungas de Bolivia 2000-2005-2010. Proyección Sistema de Coordenadas Geográficas, Datum WGS84, Fundación Amigos de la Naturaleza (FAN), Santa Cruz.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">FAO (Food and Agriculture Organization of the United Nations). 2010. Global forest resources assessment 2010. Food and Agriculture Organization of the United Nations, Roma <a href="http://www.fao.org/forestry/fra/fra2010/en/" target="_blank">www.fao.org/forestry/fra/fra2010/en/</a> Revisado en Junio 2015.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085026&pid=S1605-2528201600010000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Fearnside, P.M. 2005. Deforestation in Brazilian Amazonia: history, rates, and consequences. Conservation Biology 19:680-688.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085028&pid=S1605-2528201600010000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Hansen, M.C., P.V Potapov, R. Moore, M. Hancher, S. A. Turubanova, A. Tyukavina, D. Thau, S.V. Stehman, S.J. Goettz, T.R. Loveland, A. Kommareddy, A. Egorov, L. Chini, C.O. Justice &amp; J.R.G. Townshend. 2013. High-resolution global maps of 21 st-century forest cover change. Science 342: 850-853.</font></p>     <p align="justify"><font face="Verdana" size="2">Killeen, T. J., V. Calderon, L. Soria, B. Quezada, M.K. Steininger, G. Harper, L.Solórzano &amp; C. Tucker. 2007. Thirty years of land-cover change in Bolivia. AMBIO 36(7): 600-606.</font></p>     <p align="justify"><font face="Verdana" size="2">Müller R., D. Müller, F. Schierhorn, G. Gerold &amp; P. Pacheco. 2012. Proximate causes of deforestation in the Bolivian lowlands-an analysis of spatial dynamics. Regional Environmental Change 12(3): 445-459.</font></p>     <p align="justify"><font face="Verdana" size="2">Müller R., P. Pacheco &amp; J. C. Montero. 2014a. El contexto de la deforestación y degradación de los bosques en Bolivia: Causas, actores e instituciones. Documentos Ocasionales CIFOR 100, Bogor. 89 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Müller, R., D.M. Larrea-Alcázar, S. Cuéllar &amp; S. Espinoza. 2014b. Causas directas de la deforestación reciente (2000-2010) y modelado de dos escenarios futuros en las tierras bajas de Bolivia. Ecología en Bolivia 49: 20-34.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Navarro, G. &amp; W. Ferreira. 2009. Biogeografía de Bolivia. pp. 23-39. En: Moraes R., M., B. Mostacedo &amp; S. Altamirano (eds.) Libro Rojo de Parientes Silvestres de Cultivos de Bolivia, Viceministerio de Medio Ambiente, Biodiversidad y Cambio Climático (VMABCC), Bioversity, Plural Editores, La Paz.</font></p>     <p align="justify"><font face="Verdana" size="2">Numata, I., M.A. Cochrane, D.A. Roberts, J.V Soares, C.M. Souza &amp; M.H. Sales. 2010. Biomass collapse and carbon emissions from forest fragmentation in the Brazilian Amazon. Journal of Geophysical Research 115, doi: <a href="http://dx.doi.org/10.1029/2009JG00198" target="_blank">10.1029/2009JG00198</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Rojas, D., I. Martínez, W. Cordero &amp; F. Contreras. 2003. Tasa de deforestación de Bolivia: 1993-2000. Superintendencia Forestal. Proyecto BOLFOR. Santa Cruz. 47 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Seiler, C., R.W.A.Hutjes, B. Kruijt, J. Quispe, S. Añez,V.K.Arora,J.R.Melton,T.Hickler&amp; P. Kabat. 2014. Modeling forest dynamics along climate gradients in Bolivia. Journal of Applied Metereology and Climatology. DOI: <a href="http://dx.doi.org/10.1002/2013JG002509" target="_blank">10.1002/2013JG002509</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Seiler, C., R.W.A. Hutjes, B. Kruijt &amp; T. Hickler. 2015. The sensitivity of wet and dry tropical forests to climate change in Bolivia. Journal of Applied Metereology and Climatology. DOI: <a href="http://dx.doi.org/10.1002/2014JG002749" target="_blank">10.1002/2014JG002749</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Schwartzman, S., A.Villas, K. Yucari, M. Gesteira, J. Doblas, B. Zimmerman, P. Junqueira, A. Jerozolimski, M. Salazar, R. Prates &amp; M. Torres. 2013. The natural and social history of the indigenous lands and protected areas corridor of the Xingu river basin. PhilosophicalTransactions of the Royal Society 368:20120164 <a href="http://dx.doi.org/10.1098/rstb.2012.0164" target="_blank">http://dx.doi.org/10.1098/rstb.2012.0164</a></font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">SERNAP (Servicio Nacional de Áreas Protegidas). 2013. Deforestación y regeneración de bosques en Bolivia y en sus áreas protegidas nacionales para los periodos 1990-2000 y 2000-2010. Museo de Historia Natural Noel Kempff</font> <font face="Verdana" size="2">Mercado y Conservación Internacional Bolivia, La Paz. 36 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085041&pid=S1605-2528201600010000300021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Souza Jr., C.M., D.A. Roberts &amp; M.A. Cochrane. 2005. Combining spectral and spatial information to map canopy damage from selective logging and forest fires. Remote Sensing of Environment 98: 329-343.</font></p>     <p align="justify"><font face="Verdana" size="2">Tejada, G., E. Dalla-Nora, D. Cordoba, R. Lafortezza, A. Ovando, T. Assis &amp; A.P. Aguiar.2015.Deforestation scenarios for the Bolivian lowlands. Environmental Research 144: 49-63.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Walker, W., A. Baccini, S. Schwarzman, S. Rios, M.A. Oliveira-Miranda, C.Augusto, M.Romero, C. Soria, B. Ricardo, R. Smith, C. Meyer, J.C. Jintiach &amp; E. Vasquez. 2015. Forest carbon in Amazonia: the unrecognized contribution of indigenous territories and protected areas. Carbon Management, DOI: <a href="http://dx.doi.org/10.1080/17583004.2014.990680" target="_blank">10.1080/17583004.2014.990680</a>.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="2">Artículo recibido en: 4 de septiembre de 2015. </font></p>     <p align="justify"><font face="Verdana" size="2">Manejado por: Katya Romoleroux. </font></p>     <p align="justify"><font face="Verdana" size="2">Aceptado en: 13 de diciembre de 2015.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[L.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Doyle]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[del Granado]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ledezma]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Medinaceli]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valdivia]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weinhold]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Net carbon emissions from deforestation in Bolivia during 1990-2000 and 2000-2010: results from a carbón book keeping model]]></article-title>
+<source><![CDATA[Plos ONE]]></source>
+<year>2016</year>
+<volume>11</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>e0151241</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araujo]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prioridades de conservación de la biodiversidad de Bolivia]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Amigos de la Naturaleza (FAN), Asociación Boliviana de Conservación (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia Nórdica para el Desarrollo y la Ecología (NORDECO), Servicio Nacional de Áreas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservación Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baccini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goetz]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[W.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laporte]]></surname>
+<given-names><![CDATA[N.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sun]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sulla-Menashe]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hackler]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[P.S.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dubayah]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Friedl]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Samanta]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Houghton]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimated carbon dioxide emissions from tropical deforestation improved by carbon-density maps]]></article-title>
+<source><![CDATA[Nature Climate Change]]></source>
+<year>2012</year>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>182-185</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Berenguer]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gardner]]></surname>
+<given-names><![CDATA[T.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[L.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aragão]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Camargo]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cerri]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Durigan]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Oliveira]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guimarães]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barlow]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A large-scale field assessment of carbon stocks in human-modified tropical forests]]></article-title>
+<source><![CDATA[Global Change Biology]]></source>
+<year>2014</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>3713-3726</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chave]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Andalo]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cairns]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chambers]]></surname>
+<given-names><![CDATA[J.Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eamus]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fölster]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fromard]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Higuchi]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kira]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lescure]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nelson]]></surname>
+<given-names><![CDATA[B.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ogawa]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Puig]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Riéra]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yamakura]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Tree allometry and improved estimation of carbon stocks a balance in tropical forests]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2012</year>
+<numero>145</numero>
+<issue>145</issue>
+<page-range>87-99</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuéllar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quintanilla]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larrea]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Deforestación]]></article-title>
+<collab>Fundación Amigos de la Naturaleza</collab>
+<source><![CDATA[Atlas Socioambiental de las Tierras Bajas y Yungas de Bolivia]]></source>
+<year>2015</year>
+<page-range>74-81</page-range><publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuéllar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodríguez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arroyo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[D.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mapa de deforestación de las tierras bajas y los Yungas de Bolivia 2000-2005-2010. Proyección Sistema de Coordenadas Geográficas, Datum WGS84]]></source>
+<year>2012</year>
+<publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Amigos de la Naturaleza (FAN)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<collab>FAO (Food and Agriculture Organization of the United Nations)</collab>
+<source><![CDATA[Global forest resources assessment 2010]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Roma ]]></publisher-loc>
+<publisher-name><![CDATA[Food and Agriculture Organization of the United Nations]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fearnside]]></surname>
+<given-names><![CDATA[P.M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deforestation in Brazilian Amazonia: history, rates, and consequences]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2005</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>680-688</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hansen]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Potapov]]></surname>
+<given-names><![CDATA[P.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moore]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hancher]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Turubanova]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tyukavina]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thau]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stehman]]></surname>
+<given-names><![CDATA[S.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goettz]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loveland]]></surname>
+<given-names><![CDATA[T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kommareddy]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Egorov]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chini]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Justice]]></surname>
+<given-names><![CDATA[C.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Townshend]]></surname>
+<given-names><![CDATA[J.R.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[High-resolution global maps of 21 st-century forest cover change]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2013</year>
+<numero>342</numero>
+<issue>342</issue>
+<page-range>850-853</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calderon]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quezada]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steininger]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harper]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Solórzano]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tucker]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Thirty years of land-cover change in Bolivia]]></article-title>
+<source><![CDATA[AMBIO]]></source>
+<year>2007</year>
+<volume>36</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>600-606</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schierhorn]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gerold]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Proximate causes of deforestation in the Bolivian lowlands-an analysis of spatial dynamics]]></article-title>
+<source><![CDATA[Regional Environmental Change]]></source>
+<year>2012</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>445-459</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montero.]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El contexto de la deforestación y degradación de los bosques en Bolivia: Causas, actores e instituciones]]></source>
+<year>2014</year>
+<month>a</month>
+<page-range>89</page-range><publisher-loc><![CDATA[Bogor ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[D.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cuellar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Causas directas de la deforestación reciente (2000-2010) y modelado de dos escenarios futuros en las tierras bajas de Bolivia]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2014</year>
+<month>b</month>
+<numero>49</numero>
+<issue>49</issue>
+<page-range>20-34</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Biogeografía de Bolivia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mostacedo]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Altamirano]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro Rojo de Parientes Silvestres de Cultivos de Bolivia]]></source>
+<year>2009</year>
+<month>20</month>
+<day>09</day>
+<page-range>23-39</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Viceministerio de Medio Ambiente, Biodiversidad y Cambio Climático (VMABCC), Bioversity, Plural Editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Numata]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cochrane]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roberts]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[J.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sales]]></surname>
+<given-names><![CDATA[M.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biomass collapse and carbon emissions from forest fragmentation in the Brazilian Amazon]]></article-title>
+<source><![CDATA[Journal of Geophysical Research]]></source>
+<year>2010</year>
+<numero>115</numero>
+<issue>115</issue>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rojas]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martínez]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cordero]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Contreras.]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tasa de deforestación de Bolivia: 1993-2000]]></source>
+<year>2003</year>
+<page-range>47</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Superintendencia Forestal. Proyecto BOLFOR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Seiler]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hutjes]]></surname>
+<given-names><![CDATA[R.W.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kruijt]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quispe]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Añez]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arora]]></surname>
+<given-names><![CDATA[V.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Melton]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hickler]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kabat]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modeling forest dynamics along climate gradients in Bolivia]]></article-title>
+<source><![CDATA[Journal of Applied Metereology and Climatology]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Seiler]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hutjes]]></surname>
+<given-names><![CDATA[R.W.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kruijt]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hickler]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The sensitivity of wet and dry tropical forests to climate change in Bolivia]]></article-title>
+<source><![CDATA[Journal of Applied Metereology and Climatology]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schwartzman]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yucari]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gesteira]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Doblas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zimmerman]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Junqueira]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jerozolimski]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Salazar]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Prates]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torres]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The natural and social history of the indigenous lands and protected areas corridor of the Xingu river basin]]></article-title>
+<source><![CDATA[Philosophical transactions of the Royal Society]]></source>
+<year>2013</year>
+<numero>368</numero>
+<issue>368</issue>
+<page-range>20120164</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<collab>SERNAP (Servicio Nacional de Áreas Protegidas)</collab>
+<source><![CDATA[Deforestación y regeneración de bosques en Bolivia y en sus áreas protegidas nacionales para los periodos 1990-2000 y 2000-2010]]></source>
+<year>2013</year>
+<page-range>36</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Museo de Historia Natural Noel Kempff Mercado y Conservación Internacional Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Souza Jr.]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roberts]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cochrane]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Combining spectral and spatial information to map canopy damage from selective logging and forest fires]]></article-title>
+<source><![CDATA[Remote Sensing of Environment]]></source>
+<year>2005</year>
+<numero>98</numero>
+<issue>98</issue>
+<page-range>329-343</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tejada]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dalla-Nora]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cordoba]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lafortezza]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ovando]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Assis]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aguiar]]></surname>
+<given-names><![CDATA[A.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Deforestation scenarios for the Bolivian lowlands]]></article-title>
+<source><![CDATA[Environmental Research]]></source>
+<year>2015</year>
+<numero>144</numero>
+<issue>144</issue>
+<page-range>49-63</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baccini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schwarzman]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rios]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oliveira-Miranda]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Augusto]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Romero]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ricardo]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meyer]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jintiach]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vasquez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Forest carbon in Amazonia: the unrecognized contribution of indigenous territories and protected areas]]></article-title>
+<source><![CDATA[Carbon Management]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

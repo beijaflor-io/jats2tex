@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892007000200009</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Sistemas de Comunicación Inalámbrica MIMO - OFDM]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[V. Vargas]]></surname>
+<given-names><![CDATA[Cesar]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[E. Lopez]]></surname>
+<given-names><![CDATA[Wilson]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[F. da Rocha]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Federal de Santa Catarina  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<volume>3</volume>
+<numero>4</numero>
+<fpage>750</fpage>
+<lpage>760</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892007000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892007000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892007000200009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[En este artículo tutorial, se presenta la fundamentación básica de la técnica de modulación multiportadora OFDM (Orthogonal Frequency Division Multiplexing). Y se realiza una introducción a los sistemas de transmisión MIMO (Multi-Input and Multi-Output). Adicionalmente, se muestra un resumen de las estructuras espaciales de estos sistemas. Finalmente se realiza una revisión, de la estructura obtenida al combinar la estructura MIMO y la técnica de modulación OFDM.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[OFDM]]></kwd>
+<kwd lng="es"><![CDATA[MIMO]]></kwd>
+<kwd lng="es"><![CDATA[Alamouti]]></kwd>
+<kwd lng="es"><![CDATA[diversidad espacial]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center"><strong><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Sistemas de Comunicación Inalámbrica MIMO - OFDM</font></strong></p>     <p align="center"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cesar V. Vargas, Wilson E. Lopez, Carlos F. da Rocha</font></strong></p>     <p align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Grupo de Investigación en Comunicaciones del Departamento de Ingeniería Eléctrica de   la Universidad Federal de Santa Catarina</font>    <br> <font size="1" face="Verdana, Arial, Helvetica, sans-serif">GPqCom - UFSC</font></p>     <p align="left"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">e-mail: <a href="mailto:cesar.vidal@eel.ufsc.br">cesar.vidal@eel.ufsc.br</a>, <a href="mailto:cesar.vidal@eel.ufsc.br">wenriquez@igepn.edu.ec</a>, <a href="mailto:cesar.vidal@eel.ufsc.br">aurelio@eel.ufsc.br</a> </font></p> <hr>     <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este artículo tutorial, se presenta la fundamentación básica de la técnica de modulación multiportadora <i>OFDM (Orthogonal Frequency Division Multiplexing</i>). Y se realiza una introducción a los sistemas de transmisión <i>MIMO (Multi-Input and Multi-Output)</i>. Adicionalmente, se muestra un resumen de las estructuras espaciales de estos sistemas. Finalmente se realiza una revisión, de la estructura obtenida al combinar la estructura <i>MIMO</i> y la técnica de modulación<i> OFDM</i>.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Palabras clave: <i>OFDM, MIMO</i>, Alamouti, diversidad espacial.</font></p> <hr>     <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">1 Introducción</font></strong></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El gran desafío de los sistemas de comunicación inalámbrica es proporcionar una elevada velocidad de transmisión y ofrecer un servicio de calidad garantizada.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En los últimos años se ha observado un incremento en la demanda por servicios inalámbricos de banda ancha, en este sentido se han desarrollado tecnologías que, satisfagan estos requerimientos como se muestra en la figura 1.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El desarrollo de estas tecnologías deben enfrentar dos problemas, que presentan los sistemas de comunicación inalámbricas: i) el espectro de frecuencia es un recurso escaso y limitado, ii) las condiciones de transmisión son hostiles debido al  desvanecimiento provocado por el ambiente y la interferencia provocada debido a la presencia de otros usuarios. En este sentido la utilización de tecnologías que presenten eficiencia espectral y confiabilidad en la transmisión, se torna esencial. </font></p>      <p align="center"><a name="ima1"></a><img src="/img/revistas/ran/v3n4/tabla09_1.gif" width="538" height="336"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estos requerimientos de sistema pueden ser cumplidos por medio de la combinación de dos tecnologías para el proyecto de la capa física: <i>OFDM</i> <i>(Orthogonal Frequency Division Multiplexing)</i> y una estructura de comunicación <i>MIMO (Multi-Input and Multi-Output).</i></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>OFDM</i> técnica de modulación utilizando múltiples portadoras ortogonales sobrepuestas, se torno popular en los 90 con el advenimiento, de los procesadores digitales de señales de alta capacidad. <i>OFDM</i> se esta convertido en una técnica popular para transmisión de señales de banda ancha sobre canales inalámbricos. El cual transforma a un canal selectivo en frecuencia, en un conjunto paralelo de sub-canales, que facilitan el proyecto del receptor. Actualmente <i>OFDM</i> es la interfase aérea para diversos estándares de  transmisión de banda ancha, como los normas de audio digital <i>DAB (Digital Audio Broadcasting),</i> de televisión digital <i>DVB-T (Digital Video Broadcasting Terrestrial)</i> [1] y <i>ISDB-T (Integrated Service of Digital Broadcasting Terrestrial</i>) [2], además de las normas WI-FI [3] y WI-MAX [4] en redes inalámbricas.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Múltiples antenas pueden ser usadas en el transmisor y receptor, ahora denominado sistema <i>MIMO</i>. Un sistema <i>MIMO</i> utiliza las ventajas presentadas en la diversidad espacial. La cual es conseguida debido a la separación espacial, obtenida por las antenas, dentro un ambiente con desvanecimiento multitrayecto. Las configuraciones utilizadas en la implementación de sistemas <i>MIMO</i>, presentan ganancia de diversidad, que permite combatir el desvanecimiento de la señal y también para obtener una ganancia en capacidad del sistema.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este trabajo, se presenta una visión general del sistema de comunicación inalámbrica<i> MIMO</i> – <i>OFDM</i>, el mismo que es utilizado por las tecnologías da transmisión inalámbrica de banda ancha.</font></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    <br> 2 Principio de la Técnica de Modulación OFDM </strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El principio básico de OFDM es dividir la secuencia de datos que debe ser transmitida a una velocidad de transmisión Rs símbolos por segundo, en N sub-canales de datos paralelos, cada uno operando a una tasa de Rs/N símbolos por segundo. Cada sub-canal, modula una sub-portadora de manera que la velocidad de transmisión total del sistema sea equivalente, a la de una sub-portadora. En general, las frecuencias de las sub-portadoras utilizadas para transmitir señales multiplexadas en el dominio de la frecuencia deben ser espaciadas un valor mayor que el ancho de banda de cada sub-portadora [5], o sea:</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="ima2"></a><img src="/img/revistas/ran/v3n4/tabla09_2.gif" width="472" height="97"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Donde <i>BW<sub>SP</sub></i> es el ancho de banda ocupada por una sub-portadora y Rm es la tasa de señalización de una sub-portadora. BWs es definido como:</font></p>      <p align="center"><a name="ima3"></a><img src="/img/revistas/ran/v3n4/tabla09_3.gif" width="474" height="55"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Donde <i>R<sub>b</sub></i> es la tasa de bit necesaria para garantizar la calidad de servicio del sistema, M es el orden de la modulación empleada, <i>R<sub>s</sub></i>  es la velocidad de transmisión en la salida del modulador digital en fase y cuadratura y &#945; es el factor de caída <i>(roll-off)</i> del filtro de <i>Nyquist </i>[6] [7] [8] empleado. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para realizar el espaciamiento entre sub-portadoras, como presentado en (1), es necesario un ancho de banda total sea mucho mayor al ocupado por la señal modulada en una única portadora. Para evitar este problema, es necesario que las sub-portadoras sean sobrepuestas en el espectro de frecuencia sin introducir interferencia entre sub-portadoras <i>ICI (Intercarrier Interference).</i> Para esto, las sub-portadoras deben ser ortogonales entre si, o sea:</font></p>      <p align="center"><a name="ima4"></a><img src="/img/revistas/ran/v3n4/tabla09_4.gif" width="478" height="68"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Donde <i>T=1/R<sub>m</sub></i> es la velocidad de transmisión de cada sub-portadora.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La figura 2, muestra seis espectros de una señal <i>OFDM</i>. </font></p>      <p align="center"><a name="ima5"></a><img src="/img/revistas/ran/v3n4/tabla09_5.gif" width="470" height="272"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Generación y recepción de señales OFDM</strong></font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El primer abordaje para la generación de señales <i>OFDM</i> consistía en utilizar un conversor serial – paralelo para separar la secuencia de entrada en N sub-canales de datos. Cada uno de estos sub-canales modulan una sub-portadora compleja, formada por un seno y un coseno en la misma frecuencia. La suma de todas las formas moduladas resulta en una señal<i> OFDM</i>. El diagrama en bloques de un transmisor utilizando esta técnica es presentado en la figura 3 [5].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el diagrama de la figura 3, la secuencia binaria de datos,<i> m(t)</i>,  es convertida por un modulador digital de fase y cuadratura en una secuencia de símbolos complejos<i> c<sub>n</sub> = i<sub>n</sub> + jq<sub>n</sub></i>. La componente real del símbolo,<i> i<sub>n</sub></i> , que representa la señal digital en fase, modulada por la cosenoide de frecuencia <i>&#969;<sub>n</sub></i> , en cuanto que la componente imaginaria, <i>q<sub>n</sub></i>, que representa la componente en cuadratura, modulada por la senoide también de frecuencia <i>&#969;<sub>n</sub></i>. De esta forma, el símbolo <i>OFDM </i>puede ser expresado por </font></p>      <p align="center"><a name="ima6"></a><img src="/img/revistas/ran/v3n4/tabla09_6.gif" width="475" height="57"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como las funciones seno y coseno son ortogonales entre si, entonces la señal <i>OFDM</i> puede ser detectada utilizando un banco de 2N correlacionadores, tal como se muestra en la figura 4.</font></p>      <p align="center"><a name="ima7"></a><img src="/img/revistas/ran/v3n4/tabla09_7.gif" width="577" height="530"></p>      <p align="center"><a name="ima8"></a><img src="/img/revistas/ran/v3n4/tabla09_8.gif" width="578" height="584"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Suponiendo que, la señal recibida, <i>r(t),</i> sea igual a la señal transmitida, <i>s(t);</i> la información en la k-ésima portadora puede ser recuperada conforme a lo mostrado en (5) [9].</font></p>      <p align="center"><a name="ima9"></a><img src="/img/revistas/ran/v3n4/tabla09_9.gif" width="478" height="205"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para que las sub-portadoras no interfieran entre si, es necesario que todos los osciladores presentados en la figura 3 y figura 4 estén perfectamente espaciados de<i> Rm (Hz) </i>y perfectamente sincronizados. Por otro lado, para que <i>OFDM</i> presente ventajas relevantes sobre el sistema de portadora única, es necesario que el número de portador sea elevado. En la norma <i>Wi-MAX</i>, esta previsto el uso de 256 o 2048 portadores [4]. La implementación de este número de osciladores sincronizados, es inviable para fines comerciales.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Alternativamente, es posible generar la señal <i>OFDM </i>de una manera más fácil, si la teoría de procesamiento digital de señales fuera aplicada. Analizando (4), es posible concluir que la señal <i>OFDM</i> puede ser vista como una serie de <i>Fourier</i> limitada de N elementos, donde las componentes de fase y cuadratura son los coeficientes de esta serie. La ecuación (4) puede ser reescrita de la siguiente forma:</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="ima10"></a><img src="/img/revistas/ran/v3n4/tabla09_10.gif" width="471" height="80"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Muestreando la señal <i>s(t)</i> presentada en (6), a una tasa de Rs  muestras por segundo, es posible representar la señal<i> OFDM</i> como:</font></p>      <p align="center"><a name="ima11"></a><img src="/img/revistas/ran/v3n4/tabla09_11.gif" width="477" height="53"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">donde <i>m</i> es la posición temporal de las muestras, de la señal <i>OFDM</i>.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La ecuación (7) muestra que la señal <i>OFDM</i> discreta, puede ser obtenida realizando la <i>IDFT</i><i> (Inverse Discrete Fourier Transform)</i> de los símbolos <i>c<sub>n</sub></i>. Así, los símbolos <i>c<sub>n</sub> </i>pueden ser vistos como el espectro de amplitud del símbolo <i>OFDM, </i><i>s<sub>m</sub></i>.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para demodular la señal <i>OFDM</i>  es solo necesario aplicar la <i>DFT</i>, de la señal <i>OFDM</i> discreta. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El tiempo necesario para que el procesador digital realice la <i>IDFT</i><i> e</i>n la transmisión, y la <i>DFT</i> en la recepción es de T = <i>1/R<sub>m</sub></i> segundos. Con el aumento del número de portadoras, el tiempo necesario para realizar las operaciones involucradas en la <i>IDFT</i> y en la <i>DFT</i> aumenta linealmente, por lo cual el tiempo total para realizar estas operaciones aumenta exponencialmente [10]. Para un número elevado de portadoras, la velocidad de procesamiento necesaria puede no viabilizar, la generación y la recepción de la señal <i>OFDM.</i> Una manera de minimizar el tiempo de procesamiento es utilizar un algoritmo eficiente para el cálculo de la <i>IDFT</i><i>/DFT</i>. Este algoritmo es denominado de transformada rápida de <i>Fourier FFT (Fast Fourier Transform)</i> y permite que el tiempo de generación/detección de señales <i>OFDM</i> sea reducido, cuando el número de portadoras empleado sea dado por:</font></p>      <p align=center><i>N=2<sup>p</sup></i>                                                                                                   (8)</p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">donde p es un número entero mayor que cero.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Prefijo Cíclico</font></strong></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como el símbolo recibido es compuesto de varias muestras, transmitidas de manera serial, podemos separar la interferencia entre símbolos (ISI) en dos partes. Unas perteneciente a un símbolo <i>OFDM </i>previamente transmitido y otras pertenecientes a versiones atrasadas del propio símbolo que es denominado como <i>ISI</i> auto-interferente. Esta parte auto-interferente resulta en una selectividad en frecuencia dentro de la banda total utilizada. Como esta banda total fue sub-dividida en varios sub-canales planos, estos pueden ser compensados con un único coeficiente multiplicativo en el dominio de la frecuencia para restaurar la fase y la amplitud.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La ISI introducida por las muestras pertenecientes al símbolo anteriormente transmitido puede degradar significativamente la transmisión debido a la quiebra de ortogonalidad de la señal [11], lo que resulta en  <i>ICI (Intercarrier Interference)</i>. Para minimizar, o eliminar este problema, es adicionado un prefijo antes o después del símbolo resultante de la<i> IFFT</i>.  Este prefijo es constituido de la parte final del símbolo resultante de la <i>IFFT</i>, garantizando de esta manera la periodicidad dentro del nuevo símbolo. Debido a esta característica de mantener la periodicidad se da el nombre de prefijo cíclico <i>CP (Cyclic Prefix).</i> La Figura 5, muestra el efecto producido por el prefijo cíclico en la señal transmitida, en la cual se debe cumplir que <i>G&gt;&#964;<sub>max</sub></i>. (máximo atraso de difusión producido por el canal).</font></p>      <p align="center"><a name="ima12"></a><img src="/img/revistas/ran/v3n4/tabla09_12.gif" width="573" height="377"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Estructura del símbolo OFDM</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La estructura del símbolo OFDM esta compuesto por sub-portadoras las cuales pueden ser: de datos; pilotos que son usadas para estimación de canal; sub-portadoras nulas que son utilizadas como bandas de guarda; sub-portadoras no activas y DC. La figura 6, muestra la estructura de un símbolo OFDM.</font></p>      <p align="center"><a name="ima13"></a><img src="/img/revistas/ran/v3n4/tabla09_13.gif" width="569" height="193"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Ventajas de  OFDM</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La técnica de modulación <i>OFDM</i>, comparada con las técnicas de portadora única, tiene las siguientes ventajas: alta eficiencia espectral, simplicidad en la implementación de la <i>FFT</i>, baja complejidad en la implementación del receptor, utilizado en transmisión a velocidades elevadas en entornos con desvanecimiento multitrayecto, elevada flexibilidad en la adaptación de enlaces y una reducida complejidad en la implementación de estructuras de acceso múltiple (<i>OFDMA - Orthogonal Frequency Division Multiple Access).</i></font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">   Desventajas de  OFDM </font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La técnica de modulación OFDM, comparada con las técnicas de portadora única, tiene las siguientes desventajas: alto PAPR (Peak-to-Average Power Ratio), alta sensibilidad a errores producidos por pérdida de sincronización ya sea en frecuencia o tiempo.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    <br> 3 Sistemas de Comunicación MIMO</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>MIMO </i>abre una nueva dimensión, en los sistemas de comunicación que utilizan diversidad, “espacio”. Estos sistemas pueden ser explorados de varias formas, para mejorar el desempeño. El uso de <i>MIMO</i> en los estándares inalámbricos, incluyendo <i>WiMAX </i>, esta principalmente motivado para el incremento en la velocidad de transmisión, obtenida a través de la multiplexación espacial (múltiples antenas). Alternativamente,  <i>MIMO</i> puede ser implementado como acceso de canal <i>HSDPA  (High Speed Downlink Packet Access</i>), el cual es parte de la norma <i>UMTS (Universal Mobile Telecommunication System). </i></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Esfuerzos preliminares están siendo direccionados para definir <i>MIMO</i> como estructura de transmisión en los sistemas <i>WNG (Wíreless Next Generation</i>).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Generalmente hay tres categorías de técnicas <i>MIMO</i>. La primera apunta a mejorar la eficiencia de potencia por maximización de la diversidad espacial. Tales técnicas incluyen diversidad de atraso, <i>STBC (Space Time Block Codec)</i> [12], <i>STTC (Space Time Trellis Codec)</i> [13]. El segundo tipo utiliza aproximaciones en las capas para incrementar la capacidad [14]. Un ejemplo popular de tales sistemas es el <i>V-BLAST (Vertical-Bell Laboratories Layered Space-Time),</i> donde señales son transmitidos sobre antenas para aumentar la velocidad de transmisión, pero usualmente no es alcanzada una diversidad total. El tercer tipo explota el conocimiento del canal en el transmisor. Utiliza información del canal para realizar un pre y post filtraje en el transmisor y receptor, lo cual permite alcanzar una ganancia en capacidad [15]. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El sistema con <i>N</i> antenas transmisoras y <i>M</i> antenas receptoras, observado en la Figura 7, donde cada canal presente entre las antenas transmisoras y receptoras  es descorrelacionado de los demás.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estos sistemas, con múltiples antenas provocan una inclinación en la curva de probabilidad de error de bit (<i>P<sub>e</sub></i>), esta variación es proporcional, al valor de relación señal a ruido (<i>SNR</i>), como está dado en la siguiente relación:</font></p>     <p align="center"><i>P<sub>e</sub>&#945;SNR<sup>-d</sup></i>,                                                                                                     (9) </p> </p>     <p align=left>donde <i>d</i>, esta definida como la ganancia de diversidad del sistema.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para un sistema SISO (<i>Single Input Single Output</i>), <i>d = 1</i>, mientras que para un sistema <i>MIMO</i> con <i>N</i> antenas transmisoras y <i>M</i> antenas receptoras <i>d = NM </i>[16].  </font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="ima14"></a><img src="/img/revistas/ran/v3n4/tabla09_14.gif" width="513" height="356"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Técnica de <i>Alamouti</i></strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finales del año 1998, <i>Siavash M. Alamouti</i> [17] propuso una estructura de comunicación simple, donde, con dos antenas transmisoras y una receptora, consiguió una mejora en la ganancia por diversidad. A través de esta técnica, <i>Alamouti</i> consiguió mejorar el desempeño de los sistemas de comunicación en lo que se refiera a velocidad de transmisión y la capacidad de un sistema. La estructura de este sistema se muestra en la figura 8.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El funcionamiento del sistema propuesto por <i>Alamout</i>i esta resumido en la Tabla 1, el cual transmite en el instante t el símbolo s0 por la antena 0 y el símbolo s1 por la antena 1, en el próximo período de símbolo (<i>t + T</i>) es enviado el símbolo -<i>s<sub>1</sub>*</i> por la antena 0 y <i>s<sub>0</sub>*</i> por la antena 1. De esta forma la señal recibida en la antena receptora será una combinación de dos señales enviados por las antenas transmisoras en los dos instantes de tiempo.</font></p>      <p align="center"><a name="ima15"></a><img src="/img/revistas/ran/v3n4/tabla09_15.gif" width="476" height="154"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La figura 9, muestra resultados obtenidos en simulación  en la cual, se realiza una comparación de desempeño utilizando el <i>BER (Bit Error Rate</i>) como indicador, de las estructuras de <i>Alamouti</i> y <i>Maximal Ratio Receiver Combining</i> (<i>MRRC </i>: en esta técnica la ganancia de cada elemento, tiene modulo y fase ajustado para maximizar la relación señal-ruido correspondiente): <i>1 Tx</i> (transmisor), <i>1 Rx</i> (receptor); <i>MRRC (</i>1 Tx, 2 Rx); <i>Alamouti</i> (2 Tx, 1 Rx); <i>MRRC </i>(1 Tx, 4 Rx) y<i> Alamouti</i> (2Tx, 2 Rx).</font></p>      <p align="center"><a name="ima16"></a><img src="/img/revistas/ran/v3n4/tabla09_16.gif" width="487" height="520"></p>      <p align="center"><a name="ima17"></a><img src="/img/revistas/ran/v3n4/tabla09_17.gif" width="562" height="452"></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    <br> 4 Sistema de Transmisión MIMO – OFDM</strong></font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En una transmisión a velocidades elevadas, la característica multitrayecto del entorno causado por el canal <i>MIMO</i> presentará selectividad en frecuencia. <i>OFDM </i>puede transformar un canal<i> MIMO</i> selectivo en frecuencia, en un conjunto de canales paralelos y planos en frecuencia, lo cual reduce la complejidad del receptor. La combinación de estas dos poderosas técnicas <i>MIMO y OFDM</i>, es muy atractiva, por lo que se ha convertido en el esquema más prometedor para el acceso de sistemas de comunicación inalámbrica de  banda ancha.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Modelo de sistema MIMO-OFDM</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Transmisor</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La Figura 10, muestra un diagrama de bloques de un transmisor <i>MIMO-OFDM</i>. La fuente de bits (<i>bitstream</i>) es codificada utilizando la técnica <i>FEC</i><i> (Forward Error Correction)</i>. Después que el <i>bitstream</i> es codificado, este es convertido en una constelación por medio de un modulador digital, y posteriormente es configurado por un codificador <i>MIMO</i>, donde cada salida corresponde a un flujo de símbolos, que serán modulados utilizando la técnica <i>OFDM</i> y posteriormente transmitidos por una antena. En el modulador <i>OFDM</i>, símbolos piloto son adicionados de acuerdo a un patrón, para facilitar el proyecto de estimadores de canal. Un prefijo cíclico<i> (CP) </i>es adicionado a  cada símbolo <i>OFDM </i>para disminuir el atraso de difusión <i>(delay spread),</i> efecto producido por el canal, y es también adicionado un preámbulo a cada ranura para sincronización. Finalmente el <i>frame</i> de datos construido es transferido a componentes <i>IF/RF (Intermediate Frequency/ Radio Frequency)</i> para su transmisión [18], [19].</font></p>      <p align="center"><a name="ima18"></a><img src="/img/revistas/ran/v3n4/tabla09_18.gif" width="548" height="420"></p>      <p align="center"><a name="ima19"></a><img src="/img/revistas/ran/v3n4/tabla09_19.gif" width="570" height="482"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Receptor</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La Figura 11 muestra, un diagrama en bloques de un receptor <i>MIMO-OFDM</i>. Los símbolos recibidos en las antenas, son inicialmente sincronizadas en frecuencia y en tiempo con ayuda por el preámbulo. Después que el preámbulo y CP son extraídos del flujo de símbolos recibido, los símbolos <i>OFDM</i> restante son demodulados por la <i>FFT</i>. Frecuencias pilotos son extraídas de los símbolos <i>OFDM</i> demodulados en el dominio de la frecuencia. La sincronización fina de frecuencia y la sincronización de portadora son utilizadas para extraer pilotos y datos exactamente para su posterior procesamiento. Las frecuencias piloto extraídas de las señales recibidas son utilizadas, para la estimación de canal  <i>CE  (Channel Estimation</i>). La matriz del canal ayuda al decodificador <i>MIMO</i>, en la obtención de los símbolos OFDM deseados, los cuales son demodulados y decodificados. Finalmente el <i>bitstream</i> llega a su destino [18] [19].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Estructura del <i>Frame</i></strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La Figura 12 muestra un ejemplo del formato de un <i>frame</i> utilizado en un sistema <i>MIMO-OFDM</i>. En el dominio del tiempo, un <i>frame</i> es la unidad de transmisión mínima que esta compuesta 10 ranuras. Cada ranura tiene un preámbulo y ocho para símbolos<i> OFDM</i>. El preámbulo es utilizado para sincronización temporal. A cada ranura de datos (símbolo <i>OFDM</i>) es adicionado un <i>CP</i> que se utiliza para reducir ISI y por tanto simplificar el proyecto del compensador [18] [19].</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="ima20"></a><img src="/img/revistas/ran/v3n4/tabla09_20.gif" width="553" height="464"></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    <br> 5 Tecnologías Cuarta Generación (<i>4G)</i></strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Algunas de las tecnologías requeridas en la 4G se describen brevemente a continuación:</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>OFDMA </i></b><b>(<i>Orthogonal Frequency Division Multiple Access</i>)</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La modulación <i>OFDM</i> también se puede emplear como tecnología de acceso múltiple <i>OFDMA</i>. En este caso, cada símbolo <i>OFDM</i> puede transmitir información a/desde varios usuarios utilizando un conjunto diferente de sub-portadoras (sub-canales). Lo cual, no solo proporciona flexibilidad adicional  para la asignación de recursos (aumentando la capacidad), sino que permite la optimización intercapa del uso del enlace radioeléctrico [20]. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><i>SOFDMA </i></b><b>(<i>Scalable Orthogonal Frequency Division Multiple Access</i>)</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Proporciona la flexibilidad de asignación de recursos adicionales en los en los dominios del tiempo y de la frecuencia. Al asignar dinámicamente el número de subcanales, <i>SOFDMA</i> hace la asignación de capacidad más flexible [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Equipo de radio definido por programa</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SDR (<i>Software Defined Radio</i>) se beneficia de la gran potencia de procesamiento digital actual, para desarrollar terminales y estaciones base multi-banda y multi-estándar. Aunque en el futuro los terminales adaptarán el interfaz aire a la tecnología de acceso de radio disponible, actualmente lo hace la infraestructura. Se esperan de <i>SDR</i> varias ganancias de infraestructura. Por ejemplo, para aumentar la capacidad de red en un momento determinado (por ejemplo un evento deportivo), un operador reconfiguraría su red añadiendo varios módems a una <i>BTS</i> (<i>Base Transceiver Station</i>) determinada. <i>SDR</i> hace esta reconfiguración sencilla [22].</font></p>       ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el contexto de los sistemas <i>4G</i>, <i>SDR</i> se convertirá en un habilitador de agregación de (pico/micro) celdas multi-estándar. Para un fabricante, esto puede ser una potente ayuda para suministrar equipo multi-banda y multi-estándar con costos y esfuerzos de desarrollo reducidos mediante tratamiento multi-canal simultáneo [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Antenas inteligentes y conformación del haz (<i>Beamforming</i>)</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las técnicas de antenas inteligentes y de conformación del haz pueden jugar un papel importante en mejorar las prestaciones para asegurar la compatibilidad, con la cobertura de sitios de radio de los operadores celulares. Las prestaciones alcanzables en términos de distancia dependen de diferentes parámetros, incluyendo el entorno, esquema de modulación, ganancia de la antena, potencia de transmisión, altura de antena y banda de frecuencias [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Están planificadas nuevas evoluciones para mejorar las prestaciones, en particular el área de cobertura y las velocidades. Esto se alcanzará implementando técnicas de antenas <i>MIMO</i> económicas adaptadas a <i>WiMAX</i> e introduciendo mecanismos de transferencia gradual para servicios en tiempo real.</font></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    <br> 6 Conclusiones</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este artículo, se presentó brevemente una descripción de los sistemas de comunicación <i>MIMO-OFDM</i>, los cuales de acuerdo a las características que presentan, serán utilizados como estructura, en un sistema de comunicación inalámbrica de banda ancha. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En <i>MIMO-OFDM</i>,  es muy importante tener cuidado con los siguientes  aspectos relacionados al empleo de esta técnica:</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  Sincronización;</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  Efecto de cresta;</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  Estimación de canal;</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  Intervalo de guarda;</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  Sensibilidad.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La sincronización temporal es utilizada para encontrar el inicio del símbolo y la sincronización en frecuencia es usada para encontrar cada una de las posiciones de las sub-portadoras, por tanto dada la compleja estructura de <i>MIMO-OFDM</i>, esta se torna bastante crítica.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sistemas <i>OFDM </i>generalmente presentan un factor de cresta. Esto ocurre cuando una de las portadoras presenta una potencia mucho mayor que el valor máximo de las amplitudes de las otras portadoras. Tal efecto es muy perjudicial para el sistema, ya que reduce la eficiencia espectral.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estimación de canal requiere de bastantes recursos de precisión y el uso de restricciones. Esto debido al aumento del número de canales. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La utilización del intervalo de guarda reduce la capacidad del sistema y también provoca una perdida de potencia. Esto debido a que durante ese intervalo no se realiza, una transmisión efectiva de información.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sistemas <i>OFDM</i> son bastante robustos a  las variaciones del canal, cuando el número de sub-portadoras es bastante grande comparado con el ancho de banda del canal.  Pero tiene una fuerte sensibilidad al <i>off-set</i> de frecuencia y de fase, en altas frecuencias.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como continuidad a este trabajo, actualmente dentro el grupo de comunicaciones de la <i>UFSC</i>, se esta realizando investigación sobre: estimación de canal en sistemas de comunicación <i>MIMO-OFDM </i>y nuevas alternativas en estructura para realizar transmisiones inalámbricas a tasas elevadas.</font></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>    ]]></body>
+<body><![CDATA[<br> Referencias</strong></font></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[1]      European Broadcasting Union. 2001. <i>Digital Video Broadcasting (DVB)B; Framing structure, channel coding and modulation for digital terrestrial television</i>. ETSI EN 300 744 V1.4.1.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002928&pid=S1683-0789200700020000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[2]      International Telecommunication Union. 1999. <i>Channel Coding, Frame Structure and Modulation Scheme for Terrestrial Integrated Services Digital Broadcasting (ISDB-T)</i>. ITU-R 205/11. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002929&pid=S1683-0789200700020000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[3]      Amundsen, K. 1996. IEEE 802.11 Wireless LAN – Draft Standard. 2<sup>nd</sup> IEEE Workshop on Wireless LANs. October. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002930&pid=S1683-0789200700020000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[4]      Córdova, H.; Boets, P.; Van Biesen, L. 2005. Insight Analysis into WI-MAX Standard and its trends. <i>WWAN2005</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002931&pid=S1683-0789200700020000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[5]      Mendes, L.L.; Baldini, R. 2005. Uma Abordagem sobre Diversidade de Transmissão para Redes WLAN. <i>Revista Cientifica Periódica INATEL – Telecomunicações.</i> Vol. 8, N° 2. Dezembro.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002932&pid=S1683-0789200700020000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[6]      Goldsmith, A. 2005. <i>Wireless Communications</i>. 1a ed. Cambridge. Cambridge University Press.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002933&pid=S1683-0789200700020000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[7]      Sklar, B. 1988. <i>Digital Communication Fundamental a</i><i>nd Applications</i>. Prentice Hall.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002934&pid=S1683-0789200700020000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[8]      Haykin, S. 2001. <i>Communication System</i>. 4<sup>th</sup> Ed. John Wiley.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002935&pid=S1683-0789200700020000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[9]      Mendes, L. 2003. Análise de Desempenho de sistemas Multiportadora em Canais com Ceifamento de Pico. Master Thesis. INATEL.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002936&pid=S1683-0789200700020000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[10]    Bahai, A. R.; Saltzberg, B. R. 1999. Multi-Carrier Digital Communications – Theory and Applications. Plenum Pub Corp. pp 232.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002937&pid=S1683-0789200700020000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[11]    Che-Shen Yeh, Yinyi Lin. 1999. Channel estimation using pilot tones in OFDM systems. <i>IEEE Transactions on Broadcasting</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002938&pid=S1683-0789200700020000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[12]    Tarokh, V.; Jafarkhani, H.; Calderbank, A. R. 1999. Space-Time Block Codes from Orthogonal Designs. <i>IEEE Trans. Info.Theory</i>. Vol. 45, N° 5. July. pp. 1456–1467.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002939&pid=S1683-0789200700020000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[13]    Tarokh, V.; Seshadri, N.; Calderbank, A. R. 1998. Space-time Codes for High Data Rate Wireless Communication: Performance Criterion and Code Construction. <i>IEEE Trans. Info.Theory</i>. Vol. 44, N° 2. March. pp. 744–765.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002940&pid=S1683-0789200700020000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[14]    Golden, G. D. et al. 1999. Detection Algorithm and Initial Laboratory Results Using V-BLAST Space-Time CommunicationArchitecture. <i>Elect. Lett</i>. Vol. 35, N° 1, January. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002941&pid=S1683-0789200700020000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[15]    Ha, J. et al. 2002. LDPC-coded OFDM with Alamouti/SVD Diversity Technique. <i>Wireless Pers. Commun</i>. Vol. 23, N° 1. October. pp. 183–194.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002942&pid=S1683-0789200700020000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[16]    Biglieri, E.; Goldsmith, A.; Muquet, B.; Sari, H. 2007. Diversity, Interference Cancellation and Spatial Multiplexing in MIMO Mobile WiMAX Systems. <i>Mobile WiMAX Symposium, 2007. IEEE</i>. pp. 25-29. March.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002943&pid=S1683-0789200700020000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[17]    Alamouti, S. M. 1998. A simple transmit diversity technique for wireless communications. <i>IEEE J. Select. Areas Commun</i>. Vol. 16, October. pp. 1451–1458.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002944&pid=S1683-0789200700020000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[18]    Sampath, H. S.; Talwar, S.; Tellado, T. J.; Erceg, V. 2002. A Fourth-Generation MIMO-OFDM Broadband Wireless System: Design, Performance, and Field Trial Results. <i>IEEE Communications Magazine</i>, September.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002945&pid=S1683-0789200700020000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[19]    Yang, H.; Alcatel Shanghai Bell Co. Ltd. 2005. A Road to future Broadband Wireless Access: MIMO-OFDM-Based Air Interface. <i>IEEE Communications Magazine</i>, January.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002946&pid=S1683-0789200700020000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[20]    Rouffet, D.; Kerboeuf, S.; Cai, L.; Capdevielle, V. 2005. Móviles 4G. <i>Revista de Telecomunicaciones de Alacatel</i>. 2° trimestre. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002947&pid=S1683-0789200700020000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[21]    Renaudeau, D.; Boettle, D.; Steyaert, H. 2005. WiMAX: desde acceso inalámbrico fijo a internet en el bolsillo. <i>Revista de Telecomunicaciones de Alacatel</i>. 2° trimestre.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002948&pid=S1683-0789200700020000900021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[22]    Reed, J. H. 2002. <i>Software RADIO</i>. Prentice Hall.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002949&pid=S1683-0789200700020000900022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<collab>European Broadcasting Union</collab>
+<source><![CDATA[Framing structure, channel coding and modulation for digital terrestrial television]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<collab>International Telecommunication Union</collab>
+<source><![CDATA[Channel Coding, Frame Structure and Modulation Scheme for Terrestrial Integrated Services Digital Broadcasting]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Amundsen]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Wireless LAN]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Córdova]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boets]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van Biesen]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Insight Analysis into WI-MAX Standard and its trends]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mendes]]></surname>
+<given-names><![CDATA[L.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baldini]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Uma Abordagem sobre Diversidade de Transmissão para Redes WLAN]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Goldsmith]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Wireless Communications]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sklar]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Digital Communication Fundamental and Applications]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Haykin]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Communication System]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mendes]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análise de Desempenho de sistemas Multiportadora em Canais com Ceifamento de Pico]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bahai]]></surname>
+<given-names><![CDATA[A. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saltzberg]]></surname>
+<given-names><![CDATA[B. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multi-Carrier Digital Communications - Theory and Applications]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Che-Shen Yeh]]></surname>
+<given-names><![CDATA[Yinyi Lin]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Channel estimation using pilot tones in OFDM systems]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tarokh]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jafarkhani]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calderbank]]></surname>
+<given-names><![CDATA[A. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Space-Time Block Codes from Orthogonal Designs]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tarokh]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Seshadri]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calderbank]]></surname>
+<given-names><![CDATA[A. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Space-time Codes for High Data Rate Wireless Communication: Performance Criterion and Code Construction]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Golden]]></surname>
+<given-names><![CDATA[G. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Detection Algorithm and Initial Laboratory Results Using V-BLAST Space-Time CommunicationArchitecture]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ha]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[LDPC-coded OFDM with Alamouti/SVD Diversity Technique]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>[16]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Biglieri]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goldsmith]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Muquet]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sari]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diversity, Interference Cancellation and Spatial Multiplexing in MIMO Mobile WiMAX Systems]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>[17]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alamouti]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A simple transmit diversity technique for wireless communications]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>[18]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sampath]]></surname>
+<given-names><![CDATA[H. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Talwar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tellado]]></surname>
+<given-names><![CDATA[T. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Erceg, V. 2002. A Fourth-Generation MIMO-OFDM Broadband Wireless System: Design, Performance, and Field Trial Results]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>[19]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yang]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Road to future Broadband Wireless Access: MIMO-OFDM-Based Air Interface]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<label>[20]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rouffet]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kerboeuf]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cai]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Capdevielle]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Móviles 4G.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<label>[21]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Renaudeau]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boettle]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steyaert]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[WiMAX: desde acceso inalámbrico fijo a internet en el bolsillo]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<label>[22]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reed]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Software RADIO]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282016000100004</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Floodplain fish communities in river systems in Bolivia: Current knowledge and addressing future research challenges]]></article-title>
+<article-title xml:lang="en"><![CDATA[Comunidades de peces de las llanuras de inundación en ríos de Bolivia: El conocimiento actual y direccionamiento de retos en investigación futura]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Muñoz Puelles]]></surname>
+<given-names><![CDATA[Laura]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gill]]></surname>
+<given-names><![CDATA[Andrew B.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Osinaga]]></surname>
+<given-names><![CDATA[Karina]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Perotto-Baldivieso]]></surname>
+<given-names><![CDATA[Humberto L.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Cranfield University School of Energy, Environment and Agrifood ]]></institution>
+<addr-line><![CDATA[Cranfield Bedfordshire]]></addr-line>
+<country>England</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Autónoma Gabriel Rene Moreno Facultad de Ciencias Agrícolas ]]></institution>
+<addr-line><![CDATA[Santa Cruz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2016</year>
+</pub-date>
+<volume>51</volume>
+<numero>1</numero>
+<fpage>26</fpage>
+<lpage>41</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282016000100004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282016000100004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282016000100004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Las comunidades de peces tropicales de agua dulce están amenazadas debido a las presiones antropogénicas, especialmente la alteración del régimen hidrológico que determina el alcance y las características de los canales y los hábitats inundables para peces. Las consecuencias ecológicas de estas modificaciones pueden conllevar cambios importantes en la abundancia y diversidad de peces, limitaciones en la conectividad de las redes tróficas, disminución en la disponibilidad de microhábitats para reproducción y refugio, y modificaciones en los patrones de migración con consecuencias negativas para los servicios ambientales y los recursos pesqueros. La evidencia documentada de estos cambios es escasa y los enfoques actuales sobre inventariado de especies para recolectar datos relacionados con la pesca no consideran los gradientes espaciales y temporales que influyen en las comunidades piscícolas presentes en las llanuras de inundación. En este contexto es necesario proponer enfoques metodológicos adecuados que combinen la información disponible con un análisis de los cambios potenciales antes de que las acciones antrópicas sean irreversibles. En comparación con otros ríos tropicales, los ríos bolivianos están todavía relativamente bien conservados. Sin embargo, los planes de energía hidroeléctrica, la deforestación y la contaminación minera podrían tener efectos devastadores en los patrones hidrológicos y su biodiversidad. Esta revisión resume el conocimiento actual sobre los peces en llanuras de inundación de Bolivia, identifica carencias científicas y propone enfoques de ecología del paisaje para integrar patrones y procesos de los ríos tropicales inundables para contribuir al conocimiento actual y a la conservación de los recursos acuáticos de la región.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Tropical freshwater fish communities are increasingly under threat from anthropogenic pressures, particularly alteration to the hydrological regime (e.g. via deforestation and mining within the watershed and in-stream impoundments) which defines the extent and characteristics of in-channel and floodplain habitats for fishes. The ecological consequences of altered hydrology for tropical floodplain ecosystems are likely to be major declines in fish abundance and diversity, lower food web connectivity, reduced microhabitat availability for reproduction and refuge, modified migration patterns and consequently reduced ecosystem services, e.g. fishery resource. Evidence of change is lacking and the current species inventory approaches of collecting fish-related data do not consider spatial (i.e. river-floodplain distances) and temporal (i.e. flood water levels) gradients that are known to largely influence fish communities present in floodplain waterbodies. In the context of increasing threats, fish diversity and community declines are real and require suitable methodological approaches to combine available information and an informed analysis of likely change before actions are irreversible. Bolivian rivers are relatively undisturbed compared to other tropical rivers, however, plans for hydropower and increased deforestation and mining in the region could have devastating effects on the hydrological patterns and the dependent biodiversity. This review aims to summarize the current knowledge of floodplain freshwater fishes using Bolivian rivers as the example, identify the gaps that exist in the science and to propose a landscape ecology approach to integrate pattern and process understanding of the river-floodplain mosaic to fill knowledge gaps in an appropriate way towards the conservation of fish resources.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Alteraciones hidrológicas]]></kwd>
+<kwd lng="es"><![CDATA[Amenazas antrópicas]]></kwd>
+<kwd lng="es"><![CDATA[Conectividad en ecosistemas fluviales]]></kwd>
+<kwd lng="es"><![CDATA[Tiempos de inundación]]></kwd>
+<kwd lng="en"><![CDATA[Anthropogenic threats]]></kwd>
+<kwd lng="en"><![CDATA[Connectivity in river systems]]></kwd>
+<kwd lng="en"><![CDATA[Flood timing]]></kwd>
+<kwd lng="en"><![CDATA[Hydrological changes]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><b><font face="Verdana" size="2">Reseña</font></b></p>     <p align="right">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="4">Floodplain fish communities in river systems in Bolivia: Current knowledge and addressing future research challenges</font></b></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Comunidades de peces de las llanuras de inundación en ríos de Bolivia: El conocimiento actual y direccionamiento de retos en investigación futura</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="2">Laura Muñoz Puelles<sup>1</sup>, Andrew B. Gill<sup>1,</sup>*, Karina Osinaga<sup>2 </sup>&amp; Humberto L. Perotto-Baldivieso<sup>1,3</sup></font></b></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Cranfield University, School of Energy, Environment and Agrifood, Cranfield, Bedfordshire, England.</font> <font face="Verdana" size="2">*Corresponding author: <a href="mailto:a.b.gill@cranfield.ac.uk">a.b.gill@cranfield.ac.uk</a></font>    <br> <font face="Verdana" size="2"><sup>2</sup>Museo de Historia Natural Noel Kempff Mercado, Facultad de Ciencias Agrícolas, Universidad</font> <font face="Verdana" size="2">Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia. Current address: Laura Muñoz Puelles</font>     ]]></body>
+<body><![CDATA[<br> <font face="Verdana" size="2">University of Valencia, School of Pharmacy, Department of Botany, Burjassot, Valencia, Spain.</font>    <br> <font face="Verdana" size="2"><sup>3</sup>Caesar Kleberg Wildlife Research Institute, Texas A &amp; M University-Kingsville, Kingsville, Texas, U.S.A.</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las comunidades de peces tropicales de agua dulce están amenazadas debido a las presiones antropogénicas, especialmente la alteración del régimen hidrológico que determina el alcance y las características de los canales y los hábitats inundables para peces. Las consecuencias ecológicas de estas modificaciones pueden conllevar cambios importantes en la abundancia y diversidad de peces, limitaciones en la conectividad de las redes tróficas, disminución en la disponibilidad de microhábitats para reproducción y refugio, y modificaciones en los patrones de migración con consecuencias negativas para los servicios ambientales y los recursos pesqueros. La evidencia documentada de estos cambios es escasa y los enfoques actuales sobre inventariado de especies para recolectar datos relacionados con la pesca no consideran los gradientes espaciales y temporales que influyen en las comunidades piscícolas presentes en las llanuras de inundación. En este contexto es necesario proponer enfoques metodológicos adecuados que combinen la información disponible con un análisis de los cambios potenciales antes de que las acciones antrópicas sean irreversibles. En comparación con otros ríos tropicales, los ríos bolivianos están todavía relativamente bien conservados. Sin embargo, los planes de energía hidroeléctrica, la deforestación y la contaminación minera podrían tener efectos devastadores en los patrones hidrológicos y su biodiversidad. Esta revisión resume el conocimiento actual sobre los peces en llanuras de inundación de Bolivia, identifica carencias científicas y propone enfoques de ecología del paisaje para integrar patrones y procesos de los ríos tropicales inundables para contribuir al conocimiento actual y a la conservación de los recursos acuáticos de la región.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Alteraciones hidrológicas, Amenazas antrópicas, Conectividad en ecosistemas fluviales, Tiempos de inundación.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Tropical freshwater fish communities are increasingly under threat from anthropogenic pressures, particularly alteration to the hydrological regime (e.g. via deforestation and mining within the watershed and in-stream impoundments) which defines the extent and characteristics of in-channel and floodplain habitats for fishes. The ecological consequences of altered hydrology for tropical floodplain ecosystems are likely to be major declines in fish abundance and diversity, lower food web connectivity, reduced microhabitat availability for reproduction and refuge, modified migration patterns and consequently reduced ecosystem services, e.g. fishery resource. Evidence of change is lacking and the current species inventory approaches of collecting fish-related data do not consider spatial (i.e. river-floodplain distances) and temporal (i.e. flood water levels) gradients that are known to largely influence fish communities present in floodplain waterbodies. In the context of increasing threats, fish diversity and community declines are real and require suitable methodological approaches to combine available information and an informed analysis of likely change before actions are irreversible. Bolivian rivers are relatively undisturbed compared to other tropical rivers, however, plans for hydropower and increased deforestation and mining in the region could have devastating effects on the hydrological patterns and the dependent biodiversity. This review aims to summarize the current knowledge of floodplain freshwater fishes using Bolivian rivers as the example, identify the gaps that exist in the science and to propose a landscape ecology approach to integrate pattern and process understanding of the river-floodplain mosaic to fill knowledge gaps in an appropriate way towards the conservation of fish resources.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words: </b>Anthropogenic threats, Connectivity in river systems, Flood timing, Hydrological changes.</font></p> <hr noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introduction</b></font></p>     <p align="justify"><font face="Verdana" size="2">Of the estimated 15,000 known species of freshwater fish in the world approximately 50% are found in the tropical regions of South America (Froese &amp; Pauly 2014). When combined with fish diversity in Central America current estimates can reach up to 80% of global freshwater diversity (Helfman 2007, Reis 2013). By far this is the highest freshwater fish diversity of any region globally and new species continue to be described (Junk <i>et al. </i>2007). Available information about the current status of their biodiversity and habitats is critical as there is growing concern that current anthropogenic activities of deforestation, mining, impoundment and overfishing may be causing major declines in the freshwater fish communities and diversity (Barletta <i>et al</i>. 2010).</font></p>     <p align="justify"><font face="Verdana" size="2">Tropical freshwater fishes are vital for the sustenance and maintenance of ecological integrity and thus the provision of multiple ecosystem services at local, national and regional    scales    (Lowe-McConnell    1989,</font> <font face="Verdana" size="2">Ayala <i>et al. </i>2003, Winemiller &amp; Jepsen 2005, Taylor <i>et al. </i>2006, Anderson <i>et al. </i>2009, 2011). Freshwater fish in the tropics occupy a great diversity of ecological niches, and play an essential role in ecosystem functions, such as stream nutrient recycling and productivity (Taylor <i>et al. </i>2006), that are fundamental to the maintenance of aquatic and terrestrial food webs (Ayala <i>et al. </i>2000). Trophic niche characteristics of each species are dependent on their individual morphological variations, reproduction and foraging abilities, and prey-predator dynamics (Sampaio <i>et al. </i>2013). For instance, small for age fishes, through their movement strategies, affect their overall population distribution and biomass concentration, determining energy fluxes between primary producers and top predators and influencing trophic events and adaptation of predators (Yurek <i>et al. </i>2013). The predators in turn regulate the population dynamics of prey species (Ayala <i>et al. </i>2003). Fruit-eating fishes exert strong influences on local plant-recruitment dynamics and regional biodiversity by assisting in their </font><font face="Verdana" size="2">seed dispersal and germination, both critical in the life history of plants (Anderson <i>et al. </i>2009, 2011; Horn <i>et al. </i>2011). These plants form part of the flooded forests, which are central in global ecosystem services such as carbon storage and climate regulation. The excrement of frugivorous and other fishes also contain organic matter that becomes available to detritivorous fishes, which play a significant role in sustaining production through increasing availability of resources in tropical freshwater ecosystems (Ayala <i>et al. </i>2003, Taylor <i>et al. </i>2006).</font></p>     <p align="justify"><font face="Verdana" size="2">Tropical freshwater fishes are also indispensable as a source of animal protein for local human consumption hence loss in their diversity and abundance will bring both ecological and economic losses (Mounic-Silva 2012). For appropriate conservation and management of tropical river floodplain systems, it is essential that there is a significant improvement in understanding many aspects about the ecology of associated floodplain fishes. Declining freshwater fish diversity imposes an urgent need to study the links between fish communities, ecological niches, ecosystem functioning and human activities. Improving current understanding through the application of contemporary methodological research will be indispensable to designing and implementing effective measures of protection for tropical floodplains and other critical fish habitats that benefit ecological functions and the provision of ecosystem services to local communities that depend directly on these resources.</font></p>     <p align="justify"><font face="Verdana" size="2">Bolivia is one of the most diverse countries in terms of freshwater fish species (&gt;700) and fish-related cultures (Andolina <i>et al. </i>2005; Sarmiento <i>et al. </i>2014). Indigenous people make up 36 linguistic groups and 59% of the Bolivian population. Local communities are strongly dependent on the provisioning ecosystem service of fish to sustain their livelihoods (Lauzanne <i>et al. </i>1990, Reinert &amp; Winter 2002, FAO 2011).</font></p>     <p align="justify"><font face="Verdana" size="2">Importantly, indigenous groups have an invaluable ecological understanding of these systems, including the fish communities present, and historically have used their knowledge to obtain fish resources in ways that can be considered as sustainable as they do not disrupt the natural dynamics of the river floodplain system (Pérez-Llorente <i>et al. </i>2013). However new economic activities in the headwaters of the rivers feeding into the Amazon, increased land use changes and potential new developments in energy infrastructure may have a long-term negative impact on tropical freshwater communities in the region. Therefore, it is important to determine the state of the knowledge on freshwater fish in Bolivia to then propose strategic research to inform policy that can effectively contribute to the conservation of such important resources. The aim of this review was to assess the current knowledge of floodplain freshwater fishes, identify the gaps that exist both in science and management and to propose a methodological approach to address the knowledge gaps in a way appropriate to conservation of fish resources. </font></p>     <p align="justify"><font face="Verdana" size="2">We focused our review in the Amazon region of Bolivia due to its current importance as a reference system that has not significantly been affected by human activities and because of the potential negative impact of new economic activities being developed across the watershed in the country and beyond its boundaries. This review is divided into five sections: The first section describes the ecological characteristics of the Amazon region of Bolivia, the second reviews the state of freshwater fish science in Bolivia, the third section refers to major threats to fish of floodplain rivers in the Amazon basin, the fourth provides insights on how landscape ecology can be the next research frontier to provide evidence-based information for effective conservation planning and the fifth section provides some final thoughts and conclusions emerging from this review.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Ecological characteristics of the Amazon region of Bolivia</b></font></p>     <p align="justify"><font face="Verdana" size="2">The Bolivian Amazon basin extends over 67% (~716.021,19 km<sup>2</sup>) of the territory in the country and comprises approximately 10% of the total area of the Amazon basin (Farias <i>et al. </i>2010). The climate is tropical with mean annual temperatures from 10 to 25&deg;C (&plusmn; 5-6&deg;C) and the mean annual precipitation from 1,200 to 2,000 mm across the region (Pouilly <i>et al. </i>2004a, Ronchail <i>et al. </i>2005). The highest temperatures occur in the rainy or wet season (October - March), mostly concentrated from December to March. Overall, the basin contains some 145 main rivers, 37 lakes and 202 permanent lagoons, with a significant proportion of the area being prone to flooding in the wet season (FAO 2005). This basin is characterized by three main floodplain rivers (i.e. Mamoré, Beni and Madre de Dios rivers) that drain from the Andean watersheds and the central plain of the Bolivian Amazon. These rivers are rich in sediments and nutrients from weathering of sedimentary deposits, which leads to waters that are white-coloured, highly turbid with, low transparency, and neutral pH. Additionally, The Itenez river, another important river of the Bolivian Amazon drains from the Brazilian shields carrying clear-waters alongside the northwest of the Mamoré floodplain until both rivers conflux at Guayaramerín (Bourrel <i>et al. </i>2009).</font></p>     <p align="justify"><font face="Verdana" size="2">The central plain of the Bolivian Amazon encompasses the fringing floodplain of the Mamoré River or Llanos de Moxos (Hamilton <i>et al. </i>2004, Duponchelle <i>et al. </i>2007). This is one of the largest floodplain systems of the Amazon and is characterized by gallery forests, abundant floodplain lakes and outlying savannahs that appear to be subject to backwater effects of the Mamoré. The most important floodplain lakes within this area are permanent formed by migrating river channels and several large basins with</font> <font face="Verdana" size="2">rectangular shapes that reflect the underlying alignment of the basement rock (Ogawa <i>et al. </i>2012). In the Mamoré the hydrological dynamics are strongly seasonal and promote spatial and temporal changes that are vital for aquatic organisms. The hydrological processes are well known and described in numerous studies (e.g. Hamilton <i>et al. </i>2004, Pouilly <i>et al. </i>2004a, Bourrel <i>et al. </i>2009). Floodplain waterbodies are closely associated with the hydrological dynamics; some of which dry out as the flood ebbs and others form large floodplain lakes for most of the year. These are permanent lentic waters and can be classified into &quot;lagunas de meandro&quot; (oxbow lakes), &quot;lagunas de depresión&quot; (depression lakes) and &quot;lagos de sabana&quot; (savannah lakes) (Pouilly <i>et al. </i>2004a).</font></p>     <p align="justify"><font face="Verdana" size="2">Oxbow lakes are formed by migrating river channels of the Mamoré river system and are associated with the gallery forest. During the dry season these lakes act as nutrient sinks with inputs from rainfall, runoff and litterfall from the gallery forests. In the wet season fishes are able to move into the oxbow lakes to exploit nutrient resources and then leave to spawn, using the connecting channels between the river and the oxbow lakes that become inundated in the floods (Osorio <i>et al. </i>2011). Depression lakes are formed in floodplains adjacent to the main streams by different rates of sedimentation and receive rainfall and overflow from the Mamoré and its tributaries, favouring connectivity and allowing movement of fish. These lakes are strongly patterned along an environmental gradient and provide extensive shallow water habitats that support diverse fish communities (Pouilly <i>et al. </i>2006). The savannah lakes are characterized by extended surfaces and isolation periods during floods. Instead these lakes are directly connected to the phreatic soil level that maintains water levels and general physical-chemical conditions along the year (Pouilly <i>et al. </i>2004b).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>State of freshwater fish science in Bolivia</b></font></p>     <p align="center"><b><font face="Verdana" size="2">Fish taxonomy</font></b></p>     <p align="justify"><font face="Verdana" size="2">Fish are the most unknown of vertebrate groups in Bolivia and reflect the poor overall state of knowledge of aquatic diversity in the country (Carvajal-Vallejos <i>et al. </i>2014). In the Amazon region of Bolivia, 802 fishes are known to science and new fishes are described annually (Habützel <i>et al. </i>2013, Carvajal-Vallejos <i>et al. </i>2014, Sarmiento <i>et al. </i>2014). Possibly the most documented river of the Bolivian Amazon is the Mamoré (394 spp.), although the ichthyofauna of the river </font><font face="Verdana" size="2">Iténez (430 spp.) is referred as the most diverse (Carvajal-Vallejos et al. 2014). Over 97% of the species fall within five major orders, Characiformes, Siluriformes, Perciformes, Gymnotiformes and Cyprinodontiformes (<a href="#t1">Table 1</a>). </font></p>     <p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v51n1/a04_table_01.gif" width="627" height="543"></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">The remaining 3% is formed by orders with five or less species each (Habützel <i>et al. </i>2013, Carvajal-Vallejos <i>et al. </i>2014). Almost all existing knowledge about the fishes of the Bolivian Amazon comes from inventories and taxonomic studies. Despite all taxonomic efforts, the scientific basis for a complete fish classification and understanding of the fish diversity for the Bolivian Amazon basin remains poor. This is mainly attributed to the remoteness of some areas with difficult access, </font><font face="Verdana" size="2">as well as to the complexity of other regions that require specific methods and techniques to be surveyed. Current checklists and associated publications have been criticized for not considering spatial (i.e. river-floodplain distances) and temporal (i.e. change in water level at different phases of flooding) gradients (Hablützel 2012) that have been seen to largely influence fish communities present in floodplain waterbodies. In addition, some studies are carried out independently and apply their own criteria to inventory fish (Pouilly <i>et al. </i>2004a), favouring discrepancies between naturalists about how to classify the ichthyofauna of Bolivia. An example is the fish genus called <i>Microgeophagus, Papiliochromis </i>or <i>Mikrogeophagus </i>(Morgenstern 2011), which appears in checklists under different names. Lack of consensus hinders the description of newly found specimens that are either duplicated or omitted in taxonomic reviews and other studies. Up to date, existing literature on fishes of Bolivia is perhaps too reliant on publications about the ichthyofauna of other South American countries, mainly Brazil, Venezuela and Peru. Owing to few habitats being sampling correctly (Junk <i>et al. </i>2013), methods for data collection and monitoring of fish populations and communities that combine multiple techniques for sampling and data analysis are increasingly being used to improve accuracy of their results. New methods and tools have been proposed owing to the lack of a standardized protocol for fish sampling in the region (Anjos &amp; Zuanon 2007). However, a perpetual problem is that a number of areas remain difficult to access resulting in insufficient information being available.</font></p>     <p align="justify"><font face="Verdana" size="2">The scientific basis for a complete classification of fish fauna in Bolivia remains ill-defined and the lack of identification keys for the country complicates the verification of surveyed fish to the level of species (Pouilly <i>et al. </i>2004a). It is generally assumed that new collection  efforts  and   taxonomic  reviews</font> <font face="Verdana" size="2">will likely increase the number of known Bolivian fish species considerably in the near future. However, some fishes may still have to be discarded from current checklists due to misidentifications. Future checklists should be more critical regarding false reports and every new report should be accompanied by at least a brief list of identification criteria (Hablützel <i>et al. </i>2013).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Fish communities and habitats</b></font></p>     <p align="justify"><font face="Verdana" size="2">The floodplain landscape of the Bolivian Amazon is characterized by meandering rivers that promote great diversity of habitats for fish (Pouilly <i>et al. </i>2004a). Along the river channel there is a large heterogeneity of hydromorphological and riparian features that create diversity of flow types and a range of habitat opportunities for fish and other aquatic animals. Areas prone to flooding are expansive and productive zones, which are particularly vital as nursery grounds and refuge for fishes on a temporal basis, with this diversity supporting supply of economically valuable species to nearby human settlements throughout the Bolivian Amazon. Existing literature on the floodplain fish of the Mamoré accounts for more than 200 studies mainly focused on the composition of fish communities in this area. Such studies constitute valuable information sources about the relationships between their morphology, distribution, habitats and diets.</font></p>     <p align="justify"><font face="Verdana" size="2">Floodplain fishes are known for displaying ontogenetic shifts in diet and habitat use, specific ecological traits for movement and growth and large-scale migrations in relation to environmental changes (Aldea-Guevara <i>et al. </i>2013). For instance, storage of fats and lipids observed in floodplain migratory fishes allows for the sexual development of gonads and enables large scale reproductive migrations in response to hydrological cues for movement (Yurek <i>et al. </i>2013). It has been suggested that ecological traits of migratory species may </font><font face="Verdana" size="2">be constrained by geographical barriers, such as river rapids (Hubert <i>et al. </i>2006). These potential barriers to fish movement may disrupt genetic connectivity between aquatic species of the Bolivian Amazon and other basins. Although river rapids apparently pose no barrier to reproductive migrations for species belonging to the genus <i>Brachyplatystoma, Pseudoplatystoma and Prochilodus, </i>other species like black pacú <i>(Colossoma macropomum) </i>undertake smaller scale, more localized seasonal movements for feeding and reproduction in within the limits of a geographical region (Farias <i>et al. </i>2010).</font></p>     <p align="justify"><font face="Verdana" size="2">Life histories of fishes in the Bolivian floodplains are complex because environmental conditions are highly variable inducing changes in trophic and reproduction behaviour (Espírito-Santo <i>et al. </i>2013). Some fishes show restricted distributions, which makes them very vulnerable to local changes in habitat conditions, more commonly fish require multiple habitats through their life. Some fish belonging to the Rivulidae family are known for their seasonal life history (Hablützel 2012). They have an annual life history living in temporary habitats and resisting desiccation by laying their eggs on the substratum (Nielsen 2013). Furthermore, some species, such as the economically important, <i>Colossoma macropomum </i>require a suite of habitat types for different life stages making them potentially susceptible to the impacts of habitat fragmentation and alteration (Pouilly <i>et al. </i>2004b, Junk <i>et al. </i>2007, Aldea-Guevara <i>et al. </i>2013). Many life-history strategies of fish are not fully understood. In a number of cases, it is currently unknown how life-history strategies of fishes vary according to environmental variables (e.g. water transparency), floodplain morphology and/ or flood pulse which may play an important role in the structure of fish communities in the Amazon (Duponchelle <i>et al. </i>2007).</font></p>     <p align="justify"><font face="Verdana" size="2">The hydrology across the Mamoré floodplain    causes    predictable    varying </font><font face="Verdana" size="2">environmental conditions over time and space to which fish communities respond. In general, it has been accepted that spatial habitat diversity promotes species diversity in fish communities. However, the seasonal habitat changes are less understood (Ayala <i>et al. </i>2000, 2003, Freitas <i>et al. </i>2010). There is evidence that important structural variations in fish communities occur among hydrological phases (Espírito-Santo <i>et al. </i>2013). During the wet season fishes are dispersed across the flooded forest and become concentrated in freshwater bodies in the dry period, thus fish density and biomass per unit volume are increased as the water levels drop (Pouilly <i>et al. </i>2004b, Rejas &amp; Maldonado 2000).</font></p>     <p align="justify"><font face="Verdana" size="2">Because most ichthyologic surveys are conducted in the dry season many species are not recorded (Hablützel 2012). This is reflected in the difficulties documented in several studies on trophic behaviour and diet of fishes, which refer to diet shifts according to different stages in the development of each species (Barros &amp; Higuchi 2007). In these studies, body size has been shown to be a key parameter in trophic behaviour (Pouilly <i>et al. </i>2004b). Current knowledge on the spatial and temporal changes in floodplain fish communities and habitats can be complemented with studies on individual species with different morphological characters and life history-strategies (Freitas <i>et al. </i>2010, Castello <i>et al. </i>2011, Carvajal-Vallejos <i>et al. </i>2014).</font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Major threats to fish in Bolivian floodplain rivers</b></font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="2"><b>Deforestation</b></font></p>     <p align="justify"><font face="Verdana" size="2">There are over 40 studies concerning deforestation in Bolivia, where the focus has been on socioeconomic and cultural aspects and their effects on terrestrial environments. Scientific evidence exists on the adverse effects of deforestation on terrestrial and aquatic environments (e.g. Killeen <i>et al. </i>2007, Arancibia Arce <i>et al. </i>2013, Müller <i>et al. </i>2014). Increasing deforestation is driven by several factors, mainly construction of road infrastructure, urban development and the intensification of commercial agriculture (Bottazzi &amp; Dao 2013). Despite its low population density, current deforestation rates in Bolivia are 200,000 ha per year. Current estimates indicate that deforestation rates will increase due to mechanized agriculture, cattle ranching, small-scale agriculture supported by strong international investment, increased demand nationally as a result of population growth, road expansion and institutional weaknesses (Steininger <i>et al. </i>2001, Salonen <i>et al. </i>2011, Müller <i>et al. </i>2014). However the impacts of on-going deforestation on the aquatic environments of Bolivia have received little attention. Some of the most important consequences of deforestation for floodplain fish in the country are habitat loss and increasing loads of sediments into the rivers (Fearnside 2013). In particular, fine sediments in excess are known to cause irreversible damage to fish gills and create problems that reduce their reproductive fitness (Swinkels <i>et al. </i>2012), with consequences for species population demographics and community interactions.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Mining and water pollution</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bolivia has traditionally been a mining country (Stassen <i>et al. </i>2012). Over the years large and medium scale mining activities have been intensively developed across the country mostly for gold and zinc extractions. The boom in the mining industry over the past 30 years has raised mercury concentrations in soil and watercourses, with negative consequences on aquatic ecosystems and indigenous communities (Muñoz <i>et al. </i>2013). Of particular concern is mercury bioaccumulation in aquatic food webs affecting people who have a regular fish diet (Maurice-Bourgoin <i>et al. </i></font><font face="Verdana" size="2">1999, Maurice-Bourgoin <i>et al. </i>2000 Pouilly <i>et al. </i>2013). Laffont <i>et al. </i>(2009) and Stassen <i>et al. </i>(2012) have reported reproductive and developmental disorders in native groups in Bolivia due to overexposure of mercury present in fish. The lack of specific regulation for mining activities, has led to increased aurifer production mainly through small scale mining that is currently increasing in extent within the Amazon river basin. Unfortunately, to date there are no published quantitative data on the amount of current mining production and associated impacts on fish and the wider aquatic food web.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Indiscriminate overfishing</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bolivia harbours a great diversity of fish species and fish dependent local communities. However, current fisheries in Bolivia are relatively unmanaged and consequently fish populations are overexploited due to indiscriminate overfishing (Castello <i>et al. </i>2011). Traditionally fishing has been an activity for subsistence, recently converted into a commercial practice that uses advanced fishing equipment and techniques. These improvements allow capturing fish all year around, especially when fish concentrate in floodplain waterbodies (FAO 2005). Indiscriminate fishing practices continue to decrease the abundance of commercially important fishes and have changed the age structure of natural populations. Also overfishing is disrupting a co-evolutionary equilibrium between frugivorous fishes (Anderson 2009, 2011). Limited knowledge of reproductive biology, stock levels and sustainable fishery management render it difficult to adequately manage fish resources (FAO 2005). In addition, economic development is increasing human dependence on fish resources and the consequences of overfishing will be aggravated in the absence of adequate conservation and management of fishery resources (Mounic-Silva 2012).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Impoundment</b></font></p>     <p align="justify"><font face="Verdana" size="2">Construction of dams and reservoirs on rivers can potentially affect ecological and hydrological processes at multiple scales with direct impacts on aquatic and adjacent terrestrial ecosystems (Liu <i>et al. </i>2013). Changes in the water regime modify the flow and alter seasonal and inter-annual variability with impacts on the timing, magnitude and frequency of the floods. It also changes river dynamics from lotic to lentic waters that significantly affect the composition and structure of fish communities (Agostinho <i>et al. </i>2008). Most affected species are those that require distinct habitats to fulfil their life cycles, thus impoundment barriers that interrupt their migration or alter habitat extent and linkage also bring losses to f isheries production (Baigún <i>et al. </i>2012, Fearnside 2013). Hence, conservation of spawning areas is essential for sustainable management of fish resources. Currently, 60% of all dams in Bolivia are in the Amazon region (FAO 2014). Two new river dams will be constructed in Bolivia as part of the Madeira-Complex, a massive programme of hydroelectric dam construction in their Amazonian territories. The rivers will be widened to be navigable, high-voltage electricity transmission lines will be installed, and extensive tracts of land will be flooded, hydrology will be significantly altered with resultant large-scale loss of fish stocks and valuable chestnut forests. The energy produced by the two dams will supply the Brazilian market with Bolivia assuming the role of energy exporter (Antentas 2009). The ecological and socio-economic impacts of impoundments in Bolivia have been little studied, especially in the Amazon basin. Over the past decades some variability in the precipitation trends have affected the hydrological balance in the South American countries like Bolivia on which hydropower production is highly dependent so that environmental impact studies are also </font><font face="Verdana" size="2">required to ensure their management (Switkes 2008, Palomino-Cuya <i>et al. </i>2013).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Landscape ecology for conserving tropical floodplain ecosystems</b></font></p>     <p align="justify"><font face="Verdana" size="2">Landscape ecology theories can improve the understanding of patterns and processes in rivers (Wiens 2002, Carbonneau <i>et al. </i>2012). The foundation principles of river and floodplain patchiness, connectivity, landscape of species relevance to organisms, and the scale over which these aspects influence organisms can be applied to rivers and floodplains in Bolivia, as much as elsewhere. This requires a shift in the paradigm from the river linear system framework to floodplain shifting mosaics of aquatic and terrestrial habitats in a network-based context (Erös <i>et al. </i>2012). The use of new technologies is already challenging some of the traditional paradigms of river systems (Carbonneau <i>et al. </i>2012). Their spatial composition and heterogeneity combined with hydrological connectivity is providing information about their biodiversity and processes that shape these ecosystems (Erös <i>et al. </i>2012, Tonolla <i>et al. </i>2012). Similar to terrestrial patches, riverscapes and floodplain patches should be defined as areas with similar physical and biological attributes from the perspective of individual species or species communities to assess spatial structure and connectivity (Carbonneau <i>et al. </i>2012). With this concept, microhabitat availability for reproduction and movement can be mapped and their spatial patterns can be linked to taxonomy and functional traits, such as reproduction and trophic habits (Pouilly <i>et al. </i>2004b). The resulting information at the patch level can then be complemented with icthyofauna biomass and coupled with life cycle information (Carvajal-Vallejos <i>et al. </i>2014). A good example of the application of this concept is the analysis and quantification of thermal patches to assess spatial heterogeneity and link it to fish communities </font><font face="Verdana" size="2">done by Tonolla <i>et al. </i>(2012). The spatial heterogeneity of the resulting patches can then be used to quantify connectivity and link to species movement and dispersal. Maintaining connectivity has become a standard goal of conservation biology and a primary goal in freshwater conservation planning (Thieme <i>et al. </i>2007). The spatial relationship between habitat patches in riverscapes and floodplains is an important factor for the integration of species populations within a community (Carbonneau <i>et al. </i>2012).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">The importance of longitudinal connectivity in rivers has grown in the last decade, since landscape principles have included the dendritic nature of river networks within models of metapopulation dynamics. (Segurado <i>et al. </i>2013). It is now recognized that longitudinal connectivity affects ecological processes that have an impact at individual and population levels. In recent years, the use of patch-based analysis with graphs has become a very useful tool for modelling stream networks and modelling habitat connectivity (Erös <i>et al. </i>2012). These are also suitable for developing alternative scenarios for landscape design and conservation (Bodin &amp; Saura 2009, Erös <i>et al. </i>2012). Using graph-based approaches, Segurado <i>et al. </i>(2013) developed a general framework to assess the role of river barriers to prioritize connectivity rehabilitation based on quantitative measurements. Connectivity sampling designs are fundamental to achieve ecologically and statistically valid results (Perotto-Baldivieso <i>et al. </i>2009). The value and importance of stream connectivity and directionality within a dendritic river system can also be assessed (Liu <i>et al. </i>2013). The integration of hydrological information, geomorphology data, and vegetation mapping could improve our understanding of connectivity in river systems (Stevaux <i>et al. </i>2013). Also, the integration of data at multiple scales is of fundamental importance to understanding connectivity in river networks </font><font face="Verdana" size="2">at large scales (Arancibia-Arce <i>et al. </i>2013, Van Looy <i>et al. </i>2014). This is often determined by the species being studied and the availability of the biological and ecological data (e.g. reproductive season, home ranges and dispersal) to make sound biological inferences within the spatial models. The use of habitat patches across a hierarchy of spatial scales can further be used to understand connectivity and the related ecological processes in river systems (Erös <i>et al. </i>2012).</font></p>     <p align="justify"><font face="Verdana" size="2">Also, the use of geospatial mapping and analysis has seen significant advances in the last decades (Carbonneau <i>et al. </i>2012). Advances in remote sensing (RS) and geographic information systems (GIS) have provided a unique opportunity to map and quantify the spatial heterogeneity of rivers and floodplains. For example, Tonolla <i>et al. </i>(2012) have used very high resolution thermal infrared imagery to quantity thermal heterogeneity at relevant scales to species in floodplain ecosystems. Others have used Laser Illuminated Detection And Ranging (LIDAR) to assess river topography (Carbonneau <i>et al. </i>2012). The development of technologies to capture data at very high spatial and temporal resolutions is making it possible to move from the conceptual theories of patterns and processes in riverscapes to the testing and practice of such theories (Carbonneau <i>et al. </i>2012). GIS and RS now provide the possibility of assessing river systems at broader spatial scales and hence incorporate condition assessment into conservation planning (Linke <i>et al. </i>2012). These advances, however, are highly dependent on data availability.</font></p>     <p align="justify"><font face="Verdana" size="2">Unfortunately there is a paucity of appropriate methodologies for sampling and capturing information at the relevant spatial and temporal scales for the processes that drive stream and river ecology (Fausch <i>et al. </i>2002, Van Looy <i>et al. </i>2013). Better knowledge about the occurrence and distribution of fish taxa is crucial for effective conservation and further ecological research (Hablützel <i>et al. </i>2013). One </font><font face="Verdana" size="2">of the keys to success in the application of landscape ecology principles and approaches is the availability of data at different scales. Currently one of the major hurdles to achieving freshwater conservation efforts is publicly available and suitable data to understand species dispersal processes, metapopulation structures and population demographics and how these may be affected by anthropogenic activities in floodplain systems (Thieme <i>et al. </i>2007, Carbonneau <i>et al. </i>2012).</font></p>     <p align="justify"><font face="Verdana" size="2">Merging species modeling with systematic conservation planning in river landscapes has provided a successful end user model conservation planning package (Linke <i>et al. </i>2012). However to achieve this level of information data at multiple scales is essential for floodplain river systems in the Bolivian Amazon. There is a desperate need to accurately map river systems, taxonomic data has to be organized and shared amongst scientific communities as well as the public in order to move forward a research agenda that can inform conservation planning that can grow public awareness in the use of natural resources (Perotto-Baldivieso <i>et al. </i>2012). This information combined with biotic and behavioural knowledge of fish species can provide an enhanced chance of successfully developing evidence-based and effective conservation planning for the floodplain river systems in Bolivia as well as other regions in the world. The Geospatial Center for Biodiversity </font><font face="Verdana" size="2">(<a href="http://www.museonoelkempff.org/cgb/" target="_blank">http://www.museonoelkempff.org/cgb/</a> is an important resource as it provides an integrated platform to disseminate both spatial and taxonomic data to provide researchers with information and develop further collaboration (Perotto-Baldivieso <i>et al. </i>2012).</font></p>     <p align="justify"><font face="Verdana" size="2">It is also crucial to incorporate the human dimension to successfully achieve an effective conservation strategy of fish biodiversity. Fish constitute an important part in the diet of indigenous groups, especially during the rainy season, when large areas are flooded and human populations are isolated (Pouilly <i>et al. </i>2004b). Rivers are also important corridors for the exchange and sale of agricultural and non-timber products and a key source for financial income (Salonen <i>et al. </i>2011). Fish diversity loss will undoubtedly have an adverse effect on the survival of local communities; therefore any conservation approach must rely on local knowledge and the participation of local communities to be effective (Reinert &amp; Winter 2002).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusions</b></font></p>     <p align="justify"><font face="Verdana" size="2">Tropical floodplain systems are fundamental for physical and ecological processes that shape many important ecosystem services at multiple scales. Understanding the impact of human activities on aquatic ecosystems (including their adjacent and linked terrestrial systems) is crucial given the significance and value of the Amazon basin and its biological diversity. Freshwater fish are a core component required for ecosystem functioning of tropical floodplain rivers and wetlands. Therefore ensuring their protection is indispensable to maintain and improve local and regional aquatic biodiversity. The current challenges that tropical floodplain ecosystems face are habitat loss and degradation due to multiple human activities and a lack of publicly available information. Landscape ecology principles and approaches can provide a fundamental step change to integrate information, help in addressing many of the questions posed in this article, and ultimately aid the conservation of fish diversity and livelihoods in the Amazon floodplains of Bolivia. Many opportunities for protecting freshwater species and their habitat exist, particularly in the western portion of the Bolivian Amazon basin, where entire river systems are still intact. The use of new technologies to map habitats, track species and monitor ecosystems are available and provide the opportunity to improve the chances of conserving such unique and</font> <font face="Verdana" size="2">valuable ecosystems. Coupled with obtaining new data there is also an urgent need for accessing suitable existing datasets and applying appropriate analytical methods, such as the landscape ecology approach, that specifically deals with scales relevant to the fish and the human communities, to advance the research agenda for freshwater fish and their ecosystems in the region.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>References</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Agostinho, A.A., F. M. Pelicice &amp; L.C. Gomes.</font> <font face="Verdana" size="2">2008.&nbsp; Dams and the fish fauna of the Neotropical region: impacts and management related to diversity and fisheries. Brazilian Journal of Biology 68:1119-1132.</font></p>     <p align="justify"><font face="Verdana" size="2">Aldea-Guevara, M I., J. Hargrove &amp; J.D. Austin. 2013. Diversity and geneflow in a migratory frugivorous fish: Implications for Amazonian habitat connectivity. Conservation Genetics 14: 935-942.</font></p>     <p align="justify"><font face="Verdana" size="2">Anderson, J.T., J. Saldaña-Rojas &amp; A.S. Flecker. </font><font face="Verdana" size="2">2009.&nbsp; High-quality seed dispersal by fruit-eating fishes in Amazonian floodplain habitats. Oecologia 161: 279-290.</font></p>     <p align="justify"><font face="Verdana" size="2">Anderson, J.T., T. Nuttle, J.S. Saldaña-Rojas, T.H. Pendergast &amp; A.S. Flecker. 2011. Extremely long-distance seed dispersal by an overfished Amazonian frugivore. Proceedings of the Royal Society, Series B 278: 3329-3335.</font></p>     <p align="justify"><font face="Verdana" size="2">Anjos, M.B. &amp; J. Zuanon. 2007. Sampling effort and fish species richness in small terra firme forest streams of central Amazonia, Brazil. Neotropical Ichthyology 5:45-52.</font></p>     <p align="justify"><font face="Verdana" size="2">Andolina, R., S. Radcliffe &amp; N. Laurie. 2005. Development and culture: transnational identity making in Bolivia. Political Geography 24: 678-702.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Antentas, J.M. 2009. The Madeira tiver vomplex: docio-environmental impact in Bolivian Amazonia and social resistance. Capitalism, Nature, Socialism20:12-20.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085155&pid=S1605-2528201600010000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Arancibia-Arce, L.R., H.L. Perotto-Baldivieso, J.R. Furlán, M. Castillo-García, L. Soria &amp; K. Rivero-Guzmán. 2013. Spatial and temporal assessment of fragmentation and connectivity analysis for ecotourism activities in a RAMSAR site: Bañados de Isoso (Santa Cruz, Bolivia). Ecología en Bolivia 48: 87-103.</font></p>     <p align="justify"><font face="Verdana" size="2">Ayala, G., K. Zambrana &amp; M. Maldonado. 2000. Trophic structure of the ichthyocoenosis in shallow lakes of the floodplain of the Ichilo and Chapare rivers (Bolivia). Revista Boliviana de Ecología 7: 25-35.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Ayala, R., D. Rejas &amp; S. Declork. 2003. Effects of fish on the phytoplankton of a floodplain lake (Laguna Bufeos, Bolivia). Revista Boliviana de Ecología 14: 57-66.</font></p>     <p align="justify"><font face="Verdana" size="2">Baigún, C.R.M., J.M. Nestler, P. Minotti &amp; N. Oldani. 2012. Fish passage system in an irrigation dam (Pilcomayo river basin). Neotropical Ichthyology 10: 741-750.</font></p>     <p align="justify"><font face="Verdana" size="2">Barletta, M., A.J. Jaureguizar, C. Baigun, N.F.ontoura, A.A. Agostinho, V.M.F. Almeida-Val, A.L. Val, R.A. Torres, L.F. Jimenes-Segura, T. Giarrizzo, N.N. Fabré, V.S. Batista, C. Lasso, D.C. Taphorn, M.F. Costa, P.T. Chaves, J.P. Vieira &amp; M.F.M. Corrêa. 2010. Fish and aquatic habitat conservation in South America: a continental overview with emphasis on Neotropical systems. Journal of Fish Biology 76: 2118-2176.</font></p>     <p align="justify"><font face="Verdana" size="2">Barros, B. &amp; H. Higuchi. 2007. Notes on morphological characters in early developed Amazonian leaffish, <i>Monocirrhuspolyacanthus </i>(Polycentridae, Perciformes). Kempffiana 3:18-22.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Bodin, Ö. &amp; S. Saura. 2010. Ranking individual habitat patches as connectivity providers: integrating network analysis and patch removal experiments. Ecological Modelling 221: 2393-2404.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085163&pid=S1605-2528201600010000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Bourrel, L., L. Phillips &amp; S. Moreau. 2009. The dynamics of floods in the Bolivian Amazon Basin. Hydrological Processes 23: 3161-3167.</font></p>     <p align="justify"><font face="Verdana" size="2">Bottazzi, P. &amp; H. Dao. 2013. On the road through the Bolivian Amazon: a multi-level land governance analysis of deforestation. Land Use Policy 30:137-146.</font></p>     <p align="justify"><font face="Verdana" size="2">Carbonneau, P., M.A. Fonstad, W.A. Marcus &amp; S.J. Dugdale. 2012. Making riverscapes real. Geomorphology 137: 74-86.</font></p>     <p align="justify"><font face="Verdana" size="2">Carvajal-Vallejos, F., R. Bigorne, A.Zeballos Fernández, J. Sarmiento, S. Barrera, T. Yunoki, M. Pouilly, J. Zubieta, E. De La Barra, M. Jegú, M. Maldonado, R Van Damme, R. Céspedes &amp; T. Oberdorff. 2014. Fish-AMAZBOL: a database on freshwater fishes of the Bolivian Amazon. Hydrobiologia 732:19-27.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Castello, L., D.G. McGrath &amp; P.S.A. Beck. 2011. Resource sustainability in small-scale fisheries in the lower Amazon floodplains. Fisheries Research 110: 356-364.</font></p>     <p align="justify"><font face="Verdana" size="2">Duponchelle, E, E Lino, N. Hubert, J. Panfili, J. Renno, E. Bar as, J. P. Torrico, R. Dugue &amp; J. Nuñez. 2007. Environment-related life-history trait variations of the red-bellied piranha<i> Pygocentrus nattereri </i>in two river basins of the Bolivian Amazon. Journal of Fish Biology 71:1113-1134.</font></p>     <p align="justify"><font face="Verdana" size="2">Eros, T., J. Olden, R. Schick, D. Schmera &amp; M.-J. Fortin. 2012. Characterizing connectivity relationships in freshwaters using patch-based graphs. Landscape Ecology 27: 303-317.</font></p>     <p align="justify"><font face="Verdana" size="2">Espírito-Santo, H.M.V., M.A. Rodríguez &amp; J. Zuanon. 2013. Reproductive strategies of Amazonian stream fishes and their fine-scale use of habitat are ordered along a hydrological gradient. Freshwater Biology 58: 2494-2504.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">FAO. 2005. Fishery country profile: The Republic of Bolivia. Available from: <a href="ftp://ftp.fao.org/FI/DOCUMENT/fcp/en/FI_CP_BO.pdf" target="_blank">ftp://ftp.fao.org/FI/DOCUMENT/fcp/en/FI_CP_BO.pdf</a></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085173&pid=S1605-2528201600010000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">FAO. 2011. El consumo de pescado en Bolivia (Fish consumption in Bolivia). Available from: <a href="http://www.fao.org/docrep/015/i2446s/i2446s00.htm" target="_blank">http://www.fao.org/docrep/015/i2446s/i2446s00.htm</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085174&pid=S1605-2528201600010000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">FAO. 2014. Geo-referenced dams database. Available at: <a href="http://www.fao.org/nr/water/aquastat/dams/index.stm" target="_blank">http://www.fao.org/nr/water/aquastat/dams/index.stm</a>.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085176&pid=S1605-2528201600010000400025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Farias, I.P., J. P. Torrico, C. García-Dávila, M.D.C.F. Santos, T. Hrbek &amp; J. Renno. 2010. Are rapids a barrier for floodplain fishes of the Amazon basin? A demographic study of the keystone floodplain species <i>Colossoma macropomum </i>(Teleostei: Characiformes). Molecular Phylogenetics and Evolution 56:1129-1135.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Fausch, K.D., C.E. Torgersen, C.V. Baxte, &amp; H. W. Li. 2002. Landscapes to riverscapes: bridging the gap between research and conservation of stream fishes. Bioscience 52: 483-498.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Fearnside, P.M. 2013. Viewpoint-decision making on amazon dams: politics trumps uncertainty in the Madeira river sediments controversy. Water Alternatives 6:313-325.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085180&pid=S1605-2528201600010000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Freitas, C.E.C., F.K. Siqueira-Souza, A.R. Guimarães, F.A. Santos &amp; I.L.A. Santos. 2010. Interconnectedness during high water maintains similarity in fish assemblages of island floodplain lakes in the Amazonian basin. Zoologia 27: 931-938.</font></p>     <p align="justify"><font face="Verdana" size="2">Froese, R. &amp; D. Pauly. 2015. FishBase. World wide web electronic publication. Available from: <a href="http://www.fishbase.org" target="_blank">www.fishbase.org</a>.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Hablützel, P.I. 2012. A preliminary survey of the fish fauna in the vicinity of Santa Ana del Yacuma in Bolivia (río Mamoré drainage). Biota Neotropica 12:156-165.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085184&pid=S1605-2528201600010000400031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Hablützel, P.I., T. Yunoki &amp; L.T. Velasco. 2013. Update on the checklist of fish species of the Bolivian Amazon. Check List 9: 186-207.</font></p>     <p align="justify"><font face="Verdana" size="2">Hamilton, S.K., S J. Sippel &amp; J.M. Melack. 2004. Seasonal inundation patterns in two large savanna floodplains of South America: the Llanos de Moxos (Bolivia) and the Llanos del Orinoco (Venezuela and Colombia). Hydrological Processes 18: 2103-2116.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Helfman, G.S. 2007. Fish conservation: a guide to understanding and restoring</font> <font face="Verdana" size="2">global aquatic biodiversity and fishery resources. Island Press. Washington D C. 608 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085188&pid=S1605-2528201600010000400034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Horn, M.H., S.B. Correa, P. Parolin,B. J. A. Pollux, J. T. Anderson, C. Lucas, P. Widmann, A. Tjiu, M. Galetti &amp; M. Goulding. 2011. Seed dispersal by fishes in tropical and temperate fresh waters: the growing evidence. Acta Oecologica 37:561-577.</font></p>     <p align="justify"><font face="Verdana" size="2">Hubert, N. &amp; J. Renno. 2006. Historical biogeography of South American freshwater fishes. Journal of Biogeography 33:1414-1436.</font></p>     <p align="justify"><font face="Verdana" size="2">Junk, W.J., M.G.M. Soares &amp; P.B. Bayley. 2007. Freshwater fishes of the Amazon river basin: their biodiversity, fisheries, and habitats. Aquatic Ecosystem Health and Management 10:153-173.</font></p>     <p align="justify"><font face="Verdana" size="2">Junk, W.J., S. An, C.M. Finlayson, B. Gopal, J. Kvet, S.A. Mitchell, W.J. Mitsch &amp; R.D. Robarts. 2013. Current state of knowledge regarding the world's wetlands and their future under global climate change: s synthesis. Aquatic Sciences 75:151-167.</font></p>     <p align="justify"><font face="Verdana" size="2">Killeen, T.J., V. Calderón, L. Soria, B. Quezada, M.K. Steininger, G. Harper, L.A. Solórzano &amp; C.J. Tucker. 2007. Thirty years of land-cover change in Bolivia. AMBIO 36: 600-606.</font></p>     <p align="justify"><font face="Verdana" size="2">Laffont, L., J.E. Sonke, L. Maurice, H. Hintelmann, M. Pouilly, Y.S. Bacarreza, T. Perez &amp; P. Behra. 2009. Anomalous mercury isotopic compositions of fish and human hair in the Bolivian Amazon. Environmental Science and Technology 43: 8985-8990.</font></p>     <p align="justify"><font face="Verdana" size="2">Lauzanne, L., G. Loubens &amp; B. Le Guennec. 1990. Pesca y biologia pesquera en el Mamoré medio (región de Trinidad, Bolivia). Interciencia 15: 452-460.</font></p>     <p align="justify"><font face="Verdana" size="2">Liu, J<i>., </i>J. Soininen, B.-P. Han &amp; S.A.J. Declerck. 2013. Effects of connectivity, dispersal directionality and functional traits on the metacommunity structure of river benthic diatoms. Journal of Biogeography 40: 2238-2248.</font></p>     <p align="justify"><font face="Verdana" size="2">Linke, S., M.J. Kennard, V. Hermoso, J.D. Olden, J. Stein &amp; B.J. Pusey. 2012. Merging connectivity rules and large-scale condition assessment improves conservation adequacy in river systems. Journal of Applied Ecology 49:1036-1045.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Lowe-McConnell, R.H. 1989. Ecological studies in tropical fish communities. Cambridge University Press, Cambridge. 382 p.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085199&pid=S1605-2528201600010000400044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Maurice-Bourgoin, L., I. Quiroga, J. Chincheros &amp; P. Courau. 2000. Mercury distribution in waters and fishes of the upper Madeira rivers and mercury exposure in riparian Amazonian populations. Science of the Total Environment 260: 73-86.</font></p>     <p align="justify"><font face="Verdana" size="2">Maurice-Bourgoin, L., I. Quiroga, O. Malm &amp; J. Chincheros. 1999. Mercury contamination in water, fish and human hair as a result of gold mining in the Amazonian Basin of Bolivia. Revista Boliviana de Ecología 6: 239-246.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Morgenstern, R. 2011. <i>Microgeophagus, Papiliochromis </i>oder <i>Mikrogeophagus -</i>endlich Klarheit? DCG-Informationen 47: 74-82.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085203&pid=S1605-2528201600010000400047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Mounic-Silva, C.E. 2012. Sobrepesca do tambaqui <i>(Colossoma macropomum) </i>na Amazônia Central: histórico, situação atual e perspectivas. pp.19-39. em: Scarlato,F.C.,R.A. de Oliveira Evangelista &amp; W.F. Araújo (eds.) Amazônia Terra &amp; Água: Degradação e Desenvolvimento Sustentável. Editorada UFRR, Paricarana.</font></p>     <p align="justify"><font face="Verdana" size="2">Müller, R., P. Pacheco &amp; J.C. Montero. 2014. The context of deforestation and forest degradation in Bolivia: drivers, agents and institutions. Occasional Paper 108. CIFOR, Bogor. 80 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Muñoz, M.A., A. Faz, J.A. Acosta, S. Martínez-Martínez &amp; J M. Arocena. 2013. Metal content and environmental risk assessment around high-altitude mine sites. Environmental Earth Sciences 69:141-149.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Nielsen, D.T.B. 2013. <i>Spectrolebias brousseaui </i>(Cyprinodontiformes: Rivulidae: Cynolebiatinae), a new annual fish from </font><font face="Verdana" size="2">the upper río Mamoré basin, Bolivia. Neotropical Ichthyology 11: 81-84.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085208&pid=S1605-2528201600010000400051&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Ogawa, S., H. Miyasaka &amp; N. Okada. 2012. Extraction of artificial lakes in the Mojos culture from satellite images. Forma 27: 77-82.</font></p>     <p align="justify"><font face="Verdana" size="2">Osorio, D., J.Terborgh, A. Alvarez, H. Ortega, R. Quispe, V. Chipollini &amp; L.C. Davenport. 2011. Lateral migration of fish between an oxbow lake and an Amazonian headwater river. Ecology of Freshwater Fish 20: 619-627.</font></p>     <p align="justify"><font face="Verdana" size="2">Palomino-Cuya, D.G., L. Brandimarte, I. Popescu, J. Alterach &amp; M. Peviani. 2013. A GIS-based assessment of maximum potential hydropower production in La Plata basin under global changes. Renewable Energy 50:103-114.</font></p>     <p align="justify"><font face="Verdana" size="2">Pérez-Llorente, I., J. Paneque-Gálvez, A.C. Luz, M.J. Macía, M. Guèze, J.A. Domínguez-Gómez &amp; V. Reyes-García. 2013. Changing indigenous cultures, economies and landscapes: the case of the Tsimane', Bolivian Amazon. Landscape and Urban Planning 120:147-157.</font></p>     <p align="justify"><font face="Verdana" size="2">Perotto-Baldivieso, H.L., E. Meléndez-Ackerman, M.A. García, P. Leimgruber, S.M. Cooper, A. Martínez, P. Calle, O.M. Ramos Gónzales, M. Quiñones, C.A.Christen, &amp; G. Pons. 2009. Spatial distribution, connectivity, and the influence of scale: habitat availability for the endangered Mona Island rock iguana. Biodiversity and Conservation 18: 905-917.</font></p>     <p align="justify"><font face="Verdana" size="2">Perotto-Baldivieso, H.L., K. Rivero, J. Pinto-Ledezma, &amp; A. B. Gill. 2012. Distributing biodiversity data through the web: the geospatial center for biodiversity in Bolivia. Simpósio de Geotecnologias no Pantanal 4:1252-1258.</font></p>     <p align="justify"><font face="Verdana" size="2">Pouilly, M., D. Rejas, T. Pérez, J. Duprey, C.I. Molina, C. Hubas &amp; J.D. Guimarães. 2013. Trophic structure and mercury biomagnification in Tropical fish assemblages, Iténez river, Bolivia. PLoS ONE 8: e65054.</font></p>     <p align="justify"><font face="Verdana" size="2">Pouilly, M., S. Barrera &amp; C. Rosales. 2006. Changes of taxonomic and trophic </font><font face="Verdana" size="2">structure of fish assemblages along an environmental gradient in the upper Beni watershed (Bolivia). Journal of Fish Biology 68:137-156.</font></p>     <p align="justify"><font face="Verdana" size="2">Pouilly, M., S.G. Beck, M. Moraes R. &amp; C. Ibañez (eds.). 2004a. Diversidad biológica en la llanura de inundación del Río Mamoré. Importancia ecológica de la dinámica fluvial. Centro de Ecología, Fundación Simón I. Patiño, Santa Cruz. 383 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Pouilly, M., T. Yunoki, C. Rosales &amp; L. Torres. 2004b. Trophic structure of fish assemblages from Mamoré river floodplain lakes (Bolivia). Ecology of Freshwater Fish 13: 245-257.</font></p>     <p align="justify"><font face="Verdana" size="2">Reinert, T.R. &amp; K.A. Winter. 2002. Sustainability of harvested pacú <i>(Colossomamacropomum) </i>populations in the northeastern Bolivian Amazon. Conservation Biology 16: 1344-1351.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Reis, R.E. 2013. Conserving the freshwater fishes of South America. International Zoo Yearbook 47: 65-70.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085221&pid=S1605-2528201600010000400063&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Rejas, D. &amp; M. Maldonado. 2000. Variaciones espacio-temporales de la composición de la comunidad de peces de una laguna de la várzea del río Ichilo (Cochabamba, Bolivia). Revista Boliviana de Ecología y Conservación 7: 37-46.</font></p>     <p align="justify"><font face="Verdana" size="2">Ronchail, J., L. Bourrel, G. Cochonneau, P. Vauchel, L. Phillips, A. Castro, J. Guyot &amp; E. De Oliveira. 2005. Inundations in the Mamoré basin (south-western Amazon -Bolivia) and sea-surface temperature in the Pacific and Atlantic Oceans. Journal of Hydrology 302: 223-238.</font></p>     <p align="justify"><font face="Verdana" size="2">Salonen, M., T. Toivonen, J.-M. Cohalan &amp; O.T. Coomes. 2011. Critical distances: comparing measures of spatial accessibility in the riverine landscapes of Peru vian Amazonia. Applied Geography 32: 501-513.</font></p>     <p align="justify"><font face="Verdana" size="2">Sampaio, A.L. A, J. A.P. Pagotto &amp; E. Goulart. 2013. Relationships between morphology, diet and spatial distribution: testing the ef f ects of intra and interspecific morphological </font><font face="Verdana" size="2">variations on the patterns of resource use in two Neotropical cichlids&quot;. Neotropical Ichthyology 11: 351360.</font></p>     <p align="justify"><font face="Verdana" size="2">Sarmiento, J., R. Bigorne, F. Carvajal-Vallejos, M. Maldonado &amp; T. Oberdorff (eds). 2014. Peces de Bolivia/Bolivian Fishes. Book IRD. BioFresh (EU), Plural Editores, La Paz. 221 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Segurado, P., P. Branco &amp; M. Ferreira. 2013. Prioritizing restoration of structural connectivity in rivers: a graph based approach. Landscape Ecology 28: 1231-1238.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Stassen, M.J.M., N.L. Preeker, A.M.J. Ragas, M.W.P.M. van de Ven, A.J.P. Smolders &amp; N. Roeleveld. 2012. Metal exposure and reproductive disorders in indigenous communities living along the Pilcomayo river, Bolivia. Science of the Total Environment 427-428: 26-34.</font></p>     <p align="justify"><font face="Verdana" size="2">Steininger, M.K., C.J. Tucker, J.R.G. Townshend, T.J. Killeen, A. Desch, V. Bell &amp; P. Ersts. 2001. Tropical deforestation in the Bolivian Amazon. Environmental Conservation 28:127-134.</font></p>     <p align="justify"><font face="Verdana" size="2">Stevaux, J.C., F.A. Corradini &amp; S. Aquino. 2013. Connectivity processes and riparian vegetation of the upper Paraná river, Brazil. Journal of South American Earth Sciences 46:113-121.</font></p>     <p align="justify"><font face="Verdana" size="2">Swinkels, L. H., M.W.P.M. Van de Ven, M.J.M. Stassen, G. Van der Velde, H.J.R. Lenders &amp; A.J.P. Smolders. 2014. Suspended sediment causes annual acute fish mortality in the Pilcomayo river (Bolivia). Hydrological Processes 28: 8-15.</font></p>     <p align="justify"><font face="Verdana" size="2">Switkes, G. 2008. A pedra fundamental da IIRSA. Pages?? In: Switkes, G. &amp; P. Bonilha (eds.) Águas Turvas: Alertas sobre as Consecuencias de Barrar o Maior Afluente do Amazonas (Muddy Waters: </font><font face="Verdana" size="2">Impacts of Damming the Amazonas Principal Tributary). International Rivers, São Paulo.</font></p>     <p align="justify"><font face="Verdana" size="2">Taylor, B.W., A.S. Flecker, &amp; R.O. Hall. 2006. Loss of a harvested fish species disrupts carbon flow in a diverse tropical river. Science 313: 833-836.</font></p>     <p align="justify"><font face="Verdana" size="2">Thieme, M., B. Lehner, R. Abell, S. K. Hamilton, J. Kellndorfer, G. Powell &amp; J.C. Riveros. 2007. Freshwater conservation planning in data-poor areas: An example from a remote Amazonian basin (Madre de Dios River, Peru and Bolivia). Biological Conservation 135: 500-517.</font></p>     <p align="justify"><font face="Verdana" size="2">Tonolla, D., C. Wolter, T. Ruhtz &amp; K. Tockner. 2012. Linking fish assemblages and spatiotemporal thermal heterogeneity in a river-floodplain landscape using high-resolution airborne thermal infrared remote sensing and in-situ measurements. Remote Sensing of Environment 125:134-146.</font></p>     <p align="justify"><font face="Verdana" size="2">Van Looy, K., J. Piffady, C. Cavillon, T. Tormos, P. Landry &amp; Y. Souchon. 2014. Integrated modelling of functional and structural connectivity of river corridors for European otter recovery. Ecological Modelling 273: 228-235.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Wiens, J.A. 2002. Riverine landscapes: taking landscape ecology into the water. Freshwater Biology 47: 501-515.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=085238&pid=S1605-2528201600010000400079&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --></font></p>     <p align="justify"><font face="Verdana" size="2">Winemiller, K.O. &amp; D.B. Jepsen. 2005. Effects of seasonality and fish movement on tropical river food webs. Journal of Fish Biology 53: 267-296.</font></p>     <p align="justify"><font face="Verdana" size="2">Yurek, S., D.L. De Angelis, J. C. Trexler, F. Jopp &amp; D.D. Donalson. 2013. Simulating mechanisms for dispersal, production and stranding of small forage fish in temporary wetland habitats. Ecological Modelling 250: 391-401.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="2">Reseña recibida en: 3 de febrero de 2016. </font></p>     <p align="justify"><font face="Verdana" size="2">Manejado por: Melina Campero. </font></p>     <p align="justify"><font face="Verdana" size="2">Aceptado en: 12 de marzo de 2016.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Agostinho]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pelicice]]></surname>
+<given-names><![CDATA[F.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Dams and the fish fauna of the Neotropical region: impacts and management related to diversity and fisheries]]></article-title>
+<source><![CDATA[Brazilian Journal of Biology]]></source>
+<year>2008</year>
+<numero>68</numero>
+<issue>68</issue>
+<page-range>1119-1132</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aldea-Guevara]]></surname>
+<given-names><![CDATA[M.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hargrove]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Austin]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diversity and geneflow in a migratory frugivorous fish: Implications for Amazonian habitat connectivity]]></article-title>
+<source><![CDATA[Conservation Genetics]]></source>
+<year>2013</year>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>935-942</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[J.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saldaña-Rojas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flecker]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[High-quality seed dispersal by fruit-eating fishes in Amazonian floodplain habitats]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2009</year>
+<numero>161</numero>
+<issue>161</issue>
+<page-range>279-290</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[J.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nuttle]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saldaña-Rojas]]></surname>
+<given-names><![CDATA[J.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pendergast]]></surname>
+<given-names><![CDATA[T.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flecker]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Extremely long-distance seed dispersal by an overfished Amazonian frugivore]]></article-title>
+<source><![CDATA[Proceedings of the Royal Society]]></source>
+<year>2011</year>
+<numero>278</numero>
+<issue>278</issue>
+<page-range>3329-3335</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anjos]]></surname>
+<given-names><![CDATA[M.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuanon]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sampling effort and fish species richness in small terra firme forest streams of central Amazonia, Brazil]]></article-title>
+<source><![CDATA[Neotropical Ichthyology]]></source>
+<year>2007</year>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>45-52</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andolina]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Radcliffe]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laurie]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Development and culture: transnational identity making in Bolivia]]></article-title>
+<source><![CDATA[Political Geography]]></source>
+<year>2005</year>
+<numero>24</numero>
+<issue>24</issue>
+<page-range>678-702</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Antentas]]></surname>
+<given-names><![CDATA[J.M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Madeira tiver vomplex: docio-environmental impact in Bolivian Amazonia and social resistance]]></article-title>
+<source><![CDATA[Capitalism, Nature, Socialism]]></source>
+<year>2009</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>12-20</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arancibia-Arce]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perotto-Baldivieso]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Furlán]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Castillo-García]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rivero-Guzmán]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial and temporal assessment of fragmentation and connectivity analysis for ecotourism activities in a RAMSAR site: Bañados de Isoso (Santa Cruz, Bolivia)]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2013</year>
+<numero>48</numero>
+<issue>48</issue>
+<page-range>87-103</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ayala]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zambrana]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trophic structure of the ichthyocoenosis in shallow lakes of the floodplain of the Ichilo and Chapare rivers (Bolivia)]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología]]></source>
+<year>2000</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>25-35</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ayala]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rejas]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Declork]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of fish on the phytoplankton of a floodplain lake (Laguna Bufeos, Bolivia)]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología]]></source>
+<year>2003</year>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>57-66</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baigún]]></surname>
+<given-names><![CDATA[C.R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nestler]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Minotti]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oldani]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Fish passage system in an irrigation dam (Pilcomayo river basin)]]></article-title>
+<source><![CDATA[Neotropical Ichthyology]]></source>
+<year>2012</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>741-750</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barletta]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jaureguizar]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baigun]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ontoura]]></surname>
+<given-names><![CDATA[N.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Agostinho]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Almeida-Val]]></surname>
+<given-names><![CDATA[V.M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Val]]></surname>
+<given-names><![CDATA[A.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torres]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jimenes-Segura]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Giarrizzo]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fabré]]></surname>
+<given-names><![CDATA[N.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Batista]]></surname>
+<given-names><![CDATA[V.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lasso]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taphorn]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Costa]]></surname>
+<given-names><![CDATA[M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chaves]]></surname>
+<given-names><![CDATA[P.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Corrêa]]></surname>
+<given-names><![CDATA[M.F.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Fish and aquatic habitat conservation in South America: a continental overview with emphasis on Neotropical systems]]></article-title>
+<source><![CDATA[Journal of Fish Biology]]></source>
+<year>2010</year>
+<numero>76</numero>
+<issue>76</issue>
+<page-range>2118-2176</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barros]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Higuchi]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Notes on morphological characters in early developed Amazonian leaffish, Monocirrhuspolyacanthus (Polycentridae, Perciformes)]]></article-title>
+<source><![CDATA[Kempffiana]]></source>
+<year>2007</year>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>18-22</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bodin]]></surname>
+<given-names><![CDATA[Ö.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saura]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ranking individual habitat patches as connectivity providers: integrating network analysis and patch removal experiments]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2010</year>
+<numero>221</numero>
+<issue>221</issue>
+<page-range>2393-2404</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bourrel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Phillips]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moreau]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The dynamics of floods in the Bolivian Amazon Basin]]></article-title>
+<source><![CDATA[Hydrological Processes]]></source>
+<year>2009</year>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>3161-3167</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bottazzi]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dao]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the road through the Bolivian Amazon: a multi-level land governance analysis of deforestation]]></article-title>
+<source><![CDATA[Land Use Policy]]></source>
+<year>2013</year>
+<numero>30</numero>
+<issue>30</issue>
+<page-range>137-146</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carbonneau]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fonstad]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marcus]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dugdale]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Making riverscapes real]]></article-title>
+<source><![CDATA[Geomorphology]]></source>
+<year>2012</year>
+<numero>137</numero>
+<issue>137</issue>
+<page-range>74-86</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carvajal-Vallejos]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bigorne]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zeballos Fernández]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sarmiento]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barrera]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yunoki]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zubieta]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De La Barra]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jegú]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van Damme]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Céspedes]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oberdorff]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Fish-AMAZBOL: a database on freshwater fishes of the Bolivian Amazon]]></article-title>
+<source><![CDATA[Hydrobiologia]]></source>
+<year>2014</year>
+<numero>732</numero>
+<issue>732</issue>
+<page-range>19-27</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Castello]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McGrath]]></surname>
+<given-names><![CDATA[D.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[P.S.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Resource sustainability in small-scale fisheries in the lower Amazon floodplains]]></article-title>
+<source><![CDATA[Fisheries Research]]></source>
+<year>2011</year>
+<numero>110</numero>
+<issue>110</issue>
+<page-range>356-364</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Duponchelle]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lino]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hubert]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Panfili]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renno]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baras]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torrico]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dugue]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Environment-related life-history trait variations of the red-bellied piranha Pygocentrus nattereri in two river basins of the Bolivian Amazon]]></article-title>
+<source><![CDATA[Journal of Fish Biology]]></source>
+<year>2007</year>
+<numero>71</numero>
+<issue>71</issue>
+<page-range>1113-1134</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eros]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olden]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schick]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmera]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fortin]]></surname>
+<given-names><![CDATA[M.-J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Characterizing connectivity relationships in freshwaters using patch-based graphs]]></article-title>
+<source><![CDATA[Landscape Ecology]]></source>
+<year>2012</year>
+<numero>27</numero>
+<issue>27</issue>
+<page-range>303-317</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Espírito-Santo]]></surname>
+<given-names><![CDATA[H.M.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodríguez]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuanon]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reproductive strategies of Amazonian stream fishes and their fine-scale use of habitat are ordered along a hydrological gradient]]></article-title>
+<source><![CDATA[Freshwater Biology]]></source>
+<year>2013</year>
+<numero>58</numero>
+<issue>58</issue>
+<page-range>2494-2504</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<collab>FAO</collab>
+<source><![CDATA[Fishery country profile: The Republic of Bolivia]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="">
+<collab>FAO</collab>
+<source><![CDATA[El consumo de pescado en Bolivia (Fish consumption in Bolivia)]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<collab>FAO</collab>
+<source><![CDATA[Geo-referenced dams database]]></source>
+<year>2014</year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Farias]]></surname>
+<given-names><![CDATA[I.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torrico]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García-Dávila]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[M.D.C.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hrbek]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renno]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Are rapids a barrier for floodplain fishes of the Amazon basin? A demographic study of the keystone floodplain species Colossoma macropomum (Teleostei: Characiformes)]]></article-title>
+<source><![CDATA[Molecular Phylogenetics and Evolution]]></source>
+<year>2010</year>
+<numero>56</numero>
+<issue>56</issue>
+<page-range>1129-1135</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fausch]]></surname>
+<given-names><![CDATA[K.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torgersen]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baxte]]></surname>
+<given-names><![CDATA[C.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Li]]></surname>
+<given-names><![CDATA[H.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Landscapes to riverscapes: bridging the gap between research and conservation of stream fishes]]></article-title>
+<source><![CDATA[Bioscience]]></source>
+<year>2002</year>
+<numero>52</numero>
+<issue>52</issue>
+<page-range>483-498</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fearnside]]></surname>
+<given-names><![CDATA[P.M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Viewpoint-decision making on amazon dams: politics trumps uncertainty in the Madeira river sediments controversy]]></article-title>
+<source><![CDATA[Water Alternatives]]></source>
+<year>2013</year>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>313-325</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Freitas]]></surname>
+<given-names><![CDATA[C.E.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Siqueira-Souza]]></surname>
+<given-names><![CDATA[F.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guimarães]]></surname>
+<given-names><![CDATA[A.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[I.L.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Interconnectedness during high water maintains similarity in fish assemblages of island floodplain lakes in the Amazonian basin]]></article-title>
+<source><![CDATA[Zoologia]]></source>
+<year>2010</year>
+<numero>27</numero>
+<issue>27</issue>
+<page-range>931-938</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Froese]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pauly]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[FishBase]]></source>
+<year>2015</year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hablützel]]></surname>
+<given-names><![CDATA[P.I]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A preliminary survey of the fish fauna in the vicinity of Santa Ana del Yacuma in Bolivia (río Mamoré drainage)]]></article-title>
+<source><![CDATA[Biota Neotropica]]></source>
+<year>2012</year>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>156-165</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hablützel]]></surname>
+<given-names><![CDATA[P.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yunoki]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Velasco]]></surname>
+<given-names><![CDATA[L.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Update on the checklist of fish species of the Bolivian Amazon]]></article-title>
+<source><![CDATA[Check List]]></source>
+<year>2013</year>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>186-207</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hamilton]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[J. Sippel]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Melack]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seasonal inundation patterns in two large savanna floodplains of South America: the Llanos de Moxos (Bolivia) and the Llanos del Orinoco (Venezuela and Colombia)]]></article-title>
+<source><![CDATA[Hydrological Processes]]></source>
+<year>2004</year>
+<numero>18</numero>
+<issue>18</issue>
+<page-range>2103-2116</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Helfman]]></surname>
+<given-names><![CDATA[G.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fish conservation: a guide to understanding and restoring global aquatic biodiversity and fishery resources]]></source>
+<year>2007</year>
+<page-range>608</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Island Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Horn]]></surname>
+<given-names><![CDATA[M.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Correa]]></surname>
+<given-names><![CDATA[S.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parolin]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pollux]]></surname>
+<given-names><![CDATA[B.J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[J.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lucas]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Widmann]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tjiu]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galetti]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goulding]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seed dispersal by fishes in tropical and temperate fresh waters: the growing evidence]]></article-title>
+<source><![CDATA[Acta Oecologica]]></source>
+<year>2011</year>
+<numero>37</numero>
+<issue>37</issue>
+<page-range>561-577</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hubert]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renno]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Historical biogeography of South American freshwater fishes]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2006</year>
+<numero>33</numero>
+<issue>33</issue>
+<page-range>1414-1436</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Junk]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soares]]></surname>
+<given-names><![CDATA[M.G.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bayley]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Freshwater fishes of the Amazon river basin: their biodiversity, fisheries, and habitats]]></article-title>
+<source><![CDATA[Aquatic Ecosystem Health and Management]]></source>
+<year>2007</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>153-173</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Junk]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[An]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Finlayson]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gopal]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kvet]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mitchell]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mitsch]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Robarts]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Current state of knowledge regarding the world's wetlands and their future under global climate change: s synthesis]]></article-title>
+<source><![CDATA[Aquatic Sciences]]></source>
+<year>2013</year>
+<numero>75</numero>
+<issue>75</issue>
+<page-range>151-167</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calderón]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quezada]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steininger]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harper]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Solórzano]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tucker]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Thirty years of land-cover change in Bolivia]]></article-title>
+<source><![CDATA[AMBIO]]></source>
+<year>2007</year>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>600-606</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laffont]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sonke]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maurice]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hintelmann]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bacarreza]]></surname>
+<given-names><![CDATA[Y.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perez]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Behra]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Anomalous mercury isotopic compositions of fish and human hair in the Bolivian Amazon]]></article-title>
+<source><![CDATA[Environmental Science and Technology]]></source>
+<year>2009</year>
+<numero>43</numero>
+<issue>43</issue>
+<page-range>8985-8990</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lauzanne]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loubens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le Guennec]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Pesca y biologia pesquera en el Mamoré medio (región de Trinidad, Bolivia)]]></article-title>
+<source><![CDATA[Interciencia]]></source>
+<year>1990</year>
+<numero>15</numero>
+<issue>15</issue>
+<page-range>452-460</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liu]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soininen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Han]]></surname>
+<given-names><![CDATA[B.-P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Declerck]]></surname>
+<given-names><![CDATA[S.A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of connectivity, dispersal directionality and functional traits on the metacommunity structure of river benthic diatoms]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2013</year>
+<numero>40</numero>
+<issue>40</issue>
+<page-range>2238-2248</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Linke]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kennard]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hermoso]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olden]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stein]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pusey]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Merging connectivity rules and large-scale condition assessment improves conservation adequacy in river systems]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>2012</year>
+<numero>49</numero>
+<issue>49</issue>
+<page-range>1036-1045</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lowe-McConnell]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecological studies in tropical fish communities]]></source>
+<year>1989</year>
+<page-range>382</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maurice-Bourgoin]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chincheros]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Courau]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mercury distribution in waters and fishes of the upper Madeira rivers and mercury exposure in riparian Amazonian populations]]></article-title>
+<source><![CDATA[Science of the Total Environment]]></source>
+<year>2000</year>
+<numero>260</numero>
+<issue>260</issue>
+<page-range>73-86</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maurice-Bourgoin]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Malm]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chincheros]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mercury contamination in water, fish and human hair as a result of gold mining in the Amazonian Basin of Bolivia]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología]]></source>
+<year>1999</year>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>239-246</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morgenstern]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Microgeophagus, Papiliochromis oder Mikrogeophagus -endlich Klarheit?]]></article-title>
+<source><![CDATA[DCG-Informationen]]></source>
+<year>2011</year>
+<numero>47</numero>
+<issue>47</issue>
+<page-range>74-82</page-range></nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mounic-Silva]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Sobrepesca do tambaqui (Colossoma macropomum) na Amazônia Central: histórico, situação atual e perspectivas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Scarlato]]></surname>
+<given-names><![CDATA[F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Oliveira Evangelista]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Araújo]]></surname>
+<given-names><![CDATA[W.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Amazônia Terra & Água: Degradação e Desenvolvimento Sustentável]]></source>
+<year>2012</year>
+<month>20</month>
+<day>12</day>
+<page-range>19-39</page-range><publisher-loc><![CDATA[Paricarana ]]></publisher-loc>
+<publisher-name><![CDATA[Editorada UFRR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montero.]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The context of deforestation and forest degradation in Bolivia: drivers, agents and institutions]]></source>
+<year>2014</year>
+<page-range>80</page-range><publisher-loc><![CDATA[Bogor ]]></publisher-loc>
+<publisher-name><![CDATA[CIFOR]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Muñoz]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Faz]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Acosta]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martínez-Martínez]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arocena]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Metal content and environmental risk assessment around high-altitude mine sites]]></article-title>
+<source><![CDATA[Environmental Earth Sciences]]></source>
+<year>2013</year>
+<numero>69</numero>
+<issue>69</issue>
+<page-range>141-149</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nielsen]]></surname>
+<given-names><![CDATA[D.T.B]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectrolebias brousseaui (Cyprinodontiformes: Rivulidae: Cynolebiatinae), a new annual fish from the upper río Mamoré basin, Bolivia]]></article-title>
+<source><![CDATA[Neotropical Ichthyology]]></source>
+<year>2013</year>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>81-84</page-range></nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ogawa]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miyasaka]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Okada]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Extraction of artificial lakes in the Mojos culture from satellite images]]></article-title>
+<source><![CDATA[Forma]]></source>
+<year>2012</year>
+<numero>27</numero>
+<issue>27</issue>
+<page-range>77-82</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Osorio]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Terborgh]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alvarez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ortega]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quispe]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chipollini]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davenport]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Lateral migration of fish between an oxbow lake and an Amazonian headwater river]]></article-title>
+<source><![CDATA[Ecology of Freshwater Fish]]></source>
+<year>2011</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>619-627</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Palomino-Cuya]]></surname>
+<given-names><![CDATA[D.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brandimarte]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Popescu]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alterach]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peviani]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A GIS-based assessment of maximum potential hydropower production in La Plata basin under global changes]]></article-title>
+<source><![CDATA[Renewable Energy]]></source>
+<year>2013</year>
+<numero>50</numero>
+<issue>50</issue>
+<page-range>103-114</page-range></nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pérez-Llorente]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Paneque-Gálvez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Luz]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Macía]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guèze]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Domínguez-Gómez]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reyes-García]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Changing indigenous cultures, economies and landscapes: the case of the Tsimane', Bolivian Amazon]]></article-title>
+<source><![CDATA[Landscape and Urban Planning]]></source>
+<year>2013</year>
+<numero>120</numero>
+<issue>120</issue>
+<page-range>147-157</page-range></nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Perotto-Baldivieso]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meléndez-Ackerman]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leimgruber]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cooper]]></surname>
+<given-names><![CDATA[S.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martínez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Calle]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramos Gónzales]]></surname>
+<given-names><![CDATA[O.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiñones]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Christen]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pons]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial distribution, connectivity, and the influence of scale: habitat availability for the endangered Mona Island rock iguana]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2009</year>
+<numero>18</numero>
+<issue>18</issue>
+<page-range>905-917</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Perotto-Baldivieso]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rivero]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pinto-Ledezma]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gill]]></surname>
+<given-names><![CDATA[A.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distributing biodiversity data through the web: the geospatial center for biodiversity in Bolivia]]></article-title>
+<source><![CDATA[Simpósio de Geotecnologias no Pantanal]]></source>
+<year>2012</year>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1252-1258</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rejas]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pérez]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Duprey]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Molina]]></surname>
+<given-names><![CDATA[C.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hubas]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guimarães]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trophic structure and mercury biomagnification in Tropical fish assemblages, Iténez river, Bolivia]]></article-title>
+<source><![CDATA[PLoS ONE]]></source>
+<year>2013</year>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>e65054</page-range></nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barrera]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rosales]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Changes of taxonomic and trophic structure of fish assemblages along an environmental gradient in the upper Beni watershed (Bolivia)]]></article-title>
+<source><![CDATA[Journal of Fish Biology]]></source>
+<year>2006</year>
+<numero>68</numero>
+<issue>68</issue>
+<page-range>137-156</page-range></nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibañez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diversidad biológica en la llanura de inundación del Río Mamoré. Importancia ecológica de la dinámica fluvial]]></source>
+<year>2004</year>
+<month>a</month>
+<page-range>383</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Ecología, Fundación Simón I. Patiño]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yunoki]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rosales]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torres]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trophic structure of fish assemblages from Mamoré river floodplain lakes (Bolivia)]]></article-title>
+<source><![CDATA[Ecology of Freshwater Fish]]></source>
+<year>2004</year>
+<month>b</month>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>245-257</page-range></nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reinert]]></surname>
+<given-names><![CDATA[T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Winter]]></surname>
+<given-names><![CDATA[K.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sustainability of harvested pacú (Colossomamacropomum) populations in the northeastern Bolivian Amazon]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2002</year>
+<numero>16</numero>
+<issue>16</issue>
+<page-range>1344-1351</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reis]]></surname>
+<given-names><![CDATA[R.E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Conserving the freshwater fishes of South America]]></article-title>
+<source><![CDATA[International Zoo Yearbook]]></source>
+<year>2013</year>
+<numero>47</numero>
+<issue>47</issue>
+<page-range>65-70</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rejas]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Variaciones espacio-temporales de la composición de la comunidad de peces de una laguna de la várzea del río Ichilo (Cochabamba, Bolivia)]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología y Conservación]]></source>
+<year>2000</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>37-46</page-range></nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ronchail]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bourrel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cochonneau]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vauchel]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Phillips]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guyot]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Oliveira]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Inundations in the Mamoré basin (south-western Amazon -Bolivia) and sea-surface temperature in the Pacific and Atlantic Oceans]]></article-title>
+<source><![CDATA[Journal of Hydrology]]></source>
+<year>2005</year>
+<numero>302</numero>
+<issue>302</issue>
+<page-range>223-238</page-range></nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Salonen]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Toivonen]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cohalan]]></surname>
+<given-names><![CDATA[J.-M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coomes]]></surname>
+<given-names><![CDATA[O.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Critical distances: comparing measures of spatial accessibility in the riverine landscapes of Peru vian Amazonia]]></article-title>
+<source><![CDATA[Applied Geography]]></source>
+<year>2011</year>
+<numero>32</numero>
+<issue>32</issue>
+<page-range>501-513</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sampaio]]></surname>
+<given-names><![CDATA[A.L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pagotto]]></surname>
+<given-names><![CDATA[J.A.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goulart]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Relationships between morphology, diet and spatial distribution: testing the ef f ects of intra and interspecific morphological variations on the patterns of resource use in two Neotropical cichlids]]></article-title>
+<source><![CDATA[Neotropical Ichthyology]]></source>
+<year>2013</year>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>351360</page-range></nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sarmiento]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bigorne]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carvajal-Vallejos]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oberdorff.]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Peces de Bolivia/Bolivian Fishes]]></source>
+<year>2014</year>
+<page-range>221</page-range><page-range>221</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Plural Editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B69">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segurado]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Branco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Prioritizing restoration of structural connectivity in rivers: a graph based approach]]></article-title>
+<source><![CDATA[Landscape Ecology]]></source>
+<year>2013</year>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>1231-1238</page-range></nlm-citation>
+</ref>
+<ref id="B70">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stassen]]></surname>
+<given-names><![CDATA[M.J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Preeker]]></surname>
+<given-names><![CDATA[N.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ragas]]></surname>
+<given-names><![CDATA[A.M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van de Ven]]></surname>
+<given-names><![CDATA[M.W.P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smolders]]></surname>
+<given-names><![CDATA[A.J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roeleveld]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Metal exposure and reproductive disorders in indigenous communities living along the Pilcomayo river, Bolivia]]></article-title>
+<source><![CDATA[Science of the Total Environment]]></source>
+<year>2012</year>
+<numero>427-428</numero>
+<issue>427-428</issue>
+<page-range>26-34</page-range></nlm-citation>
+</ref>
+<ref id="B71">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Steininger]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tucker]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Townshend]]></surname>
+<given-names><![CDATA[J.R.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Desch]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bell]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ersts]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Tropical deforestation in the Bolivian Amazon]]></article-title>
+<source><![CDATA[Environmental Conservation]]></source>
+<year>2001</year>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>127-134</page-range></nlm-citation>
+</ref>
+<ref id="B72">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stevaux]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Corradini]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aquino]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Connectivity processes and riparian vegetation of the upper Paraná river, Brazil]]></article-title>
+<source><![CDATA[Journal of South American Earth Sciences]]></source>
+<year>2013</year>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>113-121</page-range></nlm-citation>
+</ref>
+<ref id="B73">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Swinkels]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van de Ven]]></surname>
+<given-names><![CDATA[M.W.P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stassen]]></surname>
+<given-names><![CDATA[M.J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van der Velde]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lenders]]></surname>
+<given-names><![CDATA[H.J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smolders]]></surname>
+<given-names><![CDATA[A.J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Suspended sediment causes annual acute fish mortality in the Pilcomayo river (Bolivia)]]></article-title>
+<source><![CDATA[Hydrological Processes]]></source>
+<year>2014</year>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>8-15</page-range></nlm-citation>
+</ref>
+<ref id="B74">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Switkes]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[A pedra fundamental da IIRSA]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Switkes]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bonilha]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Águas Turvas: Alertas sobre as Consecuencias de Barrar o Maior Afluente do Amazonas (Muddy Waters: Impacts of Damming the Amazonas Principal Tributary)]]></source>
+<year>2008</year>
+<month>20</month>
+<day>08</day>
+<publisher-loc><![CDATA[São Paulo ]]></publisher-loc>
+<publisher-name><![CDATA[International Rivers]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B75">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Taylor]]></surname>
+<given-names><![CDATA[B.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flecker]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hall]]></surname>
+<given-names><![CDATA[R.O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Loss of a harvested fish species disrupts carbon flow in a diverse tropical river]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2006</year>
+<numero>313</numero>
+<issue>313</issue>
+<page-range>833-836</page-range></nlm-citation>
+</ref>
+<ref id="B76">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thieme]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lehner]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abell]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hamilton]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kellndorfer]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Powell]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Riveros]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Freshwater conservation planning in data-poor areas: An example from a remote Amazonian basin (Madre de Dios River, Peru and Bolivia)]]></article-title>
+<source><![CDATA[Biological Conservation]]></source>
+<year>2007</year>
+<numero>135</numero>
+<issue>135</issue>
+<page-range>500-517</page-range></nlm-citation>
+</ref>
+<ref id="B77">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tonolla]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wolter]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ruhtz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tockner]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Linking fish assemblages and spatiotemporal thermal heterogeneity in a river-floodplain landscape using high-resolution airborne thermal infrared remote sensing and in-situ measurements]]></article-title>
+<source><![CDATA[Remote Sensing of Environment]]></source>
+<year>2012</year>
+<numero>125</numero>
+<issue>125</issue>
+<page-range>134-146</page-range></nlm-citation>
+</ref>
+<ref id="B78">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Van Looy]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Piffady]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavillon]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tormos]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Landry]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Souchon]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Integrated modelling of functional and structural connectivity of river corridors for European otter recovery]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2014</year>
+<numero>273</numero>
+<issue>273</issue>
+<page-range>228-235</page-range></nlm-citation>
+</ref>
+<ref id="B79">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wiens]]></surname>
+<given-names><![CDATA[J.A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Riverine landscapes: taking landscape ecology into the water]]></article-title>
+<source><![CDATA[Freshwater Biology]]></source>
+<year>2002</year>
+<numero>47</numero>
+<issue>47</issue>
+<page-range>501-515</page-range></nlm-citation>
+</ref>
+<ref id="B80">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Winemiller]]></surname>
+<given-names><![CDATA[K.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jepsen]]></surname>
+<given-names><![CDATA[D.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of seasonality and fish movement on tropical river food webs]]></article-title>
+<source><![CDATA[Journal of Fish Biology]]></source>
+<year>2005</year>
+<numero>53</numero>
+<issue>53</issue>
+<page-range>267-296</page-range></nlm-citation>
+</ref>
+<ref id="B81">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yurek]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Angelis]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Trexler]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jopp]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Donalson]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Simulating mechanisms for dispersal, production and stranding of small forage fish in temporary wetland habitats]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2013</year>
+<numero>250</numero>
+<issue>250</issue>
+<page-range>391-401</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300004</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Caracterizar la migración altitudinal de las comunidades vegetales altoandinas frente al calentamiento global mediante cronosecuencias post-glaciales recientes]]></article-title>
+<article-title xml:lang="en"><![CDATA[Characterizing the upward migration of high-Andean plant communities under the effects of global warming with early post-glacial chronosequences]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Zimmer]]></surname>
+<given-names><![CDATA[Anaïs]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa I.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[Antoine]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[Alvaro]]></given-names>
+</name>
+<xref ref-type="aff" rid="A05"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[Fabien]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Institut de Recherche pour le Développement (IRD) UMR AMAP ]]></institution>
+<addr-line><![CDATA[Montpellier-Cedex ]]></addr-line>
+<country>Francia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Mayor San Andrés Instituto de Ecología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE) UMR AMAP ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+<country>France</country>
+</aff>
+<aff id="A05">
+<institution><![CDATA[,Universidad Mayor San Andrés Instituto de Geología y del Medio Ambiente ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>27</fpage>
+<lpage>41</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El acelerado retroceso glaciar debido al actual calentamiento global conlleva nuevos desafíos para las comunidades vegetales altoandinas, especialmente durante el establecimiento de nuevos bofedales. Existe una confusión de ritmo entre el tiempo necesario para la colonización vegetal y el tiempo requerido para desarrollarse en ese tipo de ambiente, posterior al retroceso glaciar (específicamente la formación de suelos). Como resultado, hacemos la hipótesis que las nuevas comunidades sean diferentes de las existentes y empobrecidos en especies estrictamente altoandinas. Este artículo propone y discute metodologías de investigación para examinar las modalidades de formación de nuevas comunidades vegetales altoandinas, posterior al acelerado retroceso glaciar en los Andes tropicales. Se utilizan cuatro cronosecuencias post-glaciales recientes (cada una entre 0 y 38 años después del retroceso glaciar) para estudiar los primeros pasos de sucesión primaria bajo los efectos del calentamiento global. Para evaluar la vegetación se propone utilizar cuadrantes de 1 m² y realizar por lo menos 15 repeticiones en cada banda de desglaciación (cuatro bandas en cada cronosecuencia). Discutimos mediciones bióticas y abióticas que permiten examinar los efectos 1) de los límites de dispersión de cada especie, 2) del estrés abiótico (temperatura, humedad, viento) a lo largo del retroceso glaciar y 3) de la presencia/ausencia de organismos nodrizas como plantas y costra biológica, sobre la sucesión primaria. La comprobación de estos métodos en campo nos permitió discutir la pertinencia de cada una y de proponer métodos complementarios para estudios futuros en la misma temática.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Accelerated glacial retreat consecutive to global warming represents a challenging situation for alpine plant communities, especially high-Andean wetland communities (bofedales). Actually, such migration is expected to require much more time than the time frame available between glacial retreat and the development of proper environmental parameters for colonization (especially soil weathering/formation). Accordingly it is expected that new alpine communities will suffer a strong re-organization, with impoverished high Andean species pool. This contribution provides and discusses methods to examine the modalities of primary succession following accelerated glacial recession in the Tropical Andes. We suggest using four post-glacial chronosequences (0-38 yrs after glacial retreat) to infer early patterns of primary succession after glacial retreat under the effects of rapid warming. Vegetation can be examined with plots 1 m² in size, using at least 15 repetitions within each deglaciation band (four for each chronosequence). We describe a series of biotic and abiotic measurements designed to estimate the effects of (1) dispersal limitation of each plant species, (2) abiotic stress (temperature, water, wind), and (3) the presence/absence of nurse organisms such as plants and the soil biological crust, on the earlier steps of primary succession. Testing these methods in the context of the project BIOTHAW allowed us to discuss the relevance of each of them and to propose complementary methods worth being tested in future studies with a similar objective.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Cambio climático]]></kwd>
+<kwd lng="es"><![CDATA[Costra biológica]]></kwd>
+<kwd lng="es"><![CDATA[Ecosistemas alto-andinos]]></kwd>
+<kwd lng="es"><![CDATA[Organismos nodriza]]></kwd>
+<kwd lng="es"><![CDATA[Sucesión primaria]]></kwd>
+<kwd lng="en"><![CDATA[Climate change]]></kwd>
+<kwd lng="en"><![CDATA[High-Andean ecosystems]]></kwd>
+<kwd lng="en"><![CDATA[Nurse organisms]]></kwd>
+<kwd lng="en"><![CDATA[Primary succession]]></kwd>
+<kwd lng="en"><![CDATA[Soil biological crust]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Caracterizar la migración altitudinal de las comunidades</font></b> <font size="4"><b><font face="Verdana">vegetales altoandinas frente al calentamiento global mediante</font> <font face="Verdana">cronosecuencias post-glaciales recientes</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Characterizing the upward migration of high-Andean plant communities under the effects of global warming with early post-glacial chronosequences</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Anaïs Zimmer<sup>1,2,3</sup>*, Rosa I. Meneses<sup>2,3</sup>, Antoine Rabatel<sup>4</sup>, Alvaro Soruco<sup>5</sup> &amp;</b></font> <font face="Verdana" size="2"><b>Fabien Anthelme<sup>1,2,3</sup>*</b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>UMR AMAP, Institut de Recherche pour le Développement (IRD), Boulevard de la Lironde,</font> <font face="Verdana" size="2">TA A-51/PS2, 34398 Montpellier Cedex 5, Francia <sup>    <br> 2</sup>Instituto de Ecología, Universidad Mayor San Andrés, Calle 27, Cota Cota,</font> <font face="Verdana" size="2">Campus Universitario, La Paz, Bolivia. <sup>    ]]></body>
+<body><![CDATA[<br> 3</sup>Museo Nacional de Historia Natural, Herbario Nacional de Bolivia (LPB),</font> <font face="Verdana" size="2">Cota Cota, Casilla 8706, La Paz, Bolivia <sup>    <br> 4</sup>Laboratoire de Glaciologie et Géophysique de l'Environnement (LGGE) UMR 5183,</font> <font face="Verdana" size="2">Université Grenoble/CNRS, Grenoble, 38041, France <sup>    <br> 5</sup>Instituto de Geología y del Medio Ambiente, Universidad Mayor San Andrés,</font> <font face="Verdana" size="2">Calle 27, Cota Cota, Campus Universitario, La Paz, Bolivia.     <br> <b> * Autores para correspondencia:</b> <a href="mailto:azimmer@mountain.org">azimmer@mountain.org</a>; </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="mailto:fabien.anthelme@ird.fr">fabien.anthelme@ird.fr</a></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">El acelerado retroceso glaciar debido al actual calentamiento global conlleva nuevos desafíos para las comunidades vegetales altoandinas, especialmente durante el establecimiento de nuevos bofedales. Existe una confusión de ritmo entre el tiempo necesario para la colonización vegetal y el tiempo requerido para desarrollarse en ese tipo de ambiente, posterior al retroceso glaciar (específicamente la formación de suelos). Como resultado, hacemos la hipótesis que las nuevas comunidades sean diferentes de las existentes y empobrecidos en especies estrictamente altoandinas. Este artículo propone y discute metodologías de investigación para examinar las modalidades de formación de nuevas comunidades vegetales altoandinas, posterior al acelerado retroceso glaciar en los Andes tropicales. Se utilizan cuatro cronosecuencias post-glaciales recientes (cada una entre 0 y 38 años después del retroceso glaciar) para estudiar los primeros pasos de sucesión primaria bajo los efectos del calentamiento global. Para evaluar la vegetación se propone utilizar cuadrantes de 1 m<sup>2</sup> y realizar por lo menos 15 repeticiones en cada banda de desglaciación (cuatro bandas en cada cronosecuencia). Discutimos mediciones bióticas y abióticas que permiten examinar los efectos 1) de los límites de dispersión de cada especie, 2) del estrés abiótico (temperatura, humedad, viento) a lo largo del retroceso glaciar y 3) de la presencia/ausencia de organismos nodrizas como plantas y costra biológica, sobre la sucesión primaria. La comprobación de estos métodos en campo nos permitió discutir la pertinencia de cada una y de proponer métodos complementarios para estudios futuros en la misma temática. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras claves: </b>Cambio climático, Costra biológica, Ecosistemas alto-andinos, Organismos nodriza, Sucesión primaria.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Accelerated glacial retreat consecutive to global warming represents a challenging situation for alpine plant communities, especially high-Andean wetland communities (bofedales). Actually, such migration is expected to require much more time than the time frame available between glacial retreat and the development of proper environmental parameters for colonization (especially soil weathering/formation). Accordingly it is expected that new alpine communities will suffer a strong re-organization, with impoverished high Andean species pool. This contribution provides and discusses methods to examine the modalities of primary succession following accelerated glacial recession in the Tropical Andes. We suggest using four post-glacial chronosequences (0-38 yrs after glacial retreat) to infer early patterns of primary succession after glacial retreat under the effects of rapid warming. Vegetation can be examined with plots 1 m<sup>2</sup> in size, using at least 15 repetitions within each deglaciation band (four for each chronosequence). We describe a series of biotic and abiotic measurements designed to estimate the effects of (1) dispersal limitation of each plant species, (2) abiotic stress (temperature, water, wind), and (3) the presence/absence of nurse organisms such as plants and the soil biological crust, on the earlier steps of primary succession. Testing these methods in the context of the project BIOTHAW allowed us to discuss the relevance of each of them and to propose complementary methods worth being tested in future studies with a similar objective.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key-words:</b> Climate change, High-Andean ecosystems, Nurse organisms, Primary succession, Soil biological crust.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">En los ambientes alpinos y árcticos <i>(sensu </i>Körner 2003), bajo el efecto del calentamiento global la velocidad del retroceso glaciar se acelera, generando nuevos espacios vírgenes, propicios para la colonización vegetal. Se espera que estas nuevas comunidades vegetales irán reemplazando las comunidades alpinas de menor altitud, las cuales están amenazadas por el calentamiento global (Gottfried <i>et al. </i>2012). Entender los patrones y mecanismos responsables de la formación de los nuevos ecosistemas alpinos a mayor altitud, constituye un gran desafío científico, relacionado con la conservación de la biodiversidad y los servicios ecosistémicos que proveen al ser humano (Chen <i>et al. </i>2011, Anthelme <i>et al. </i>2014a). En los Andes tropicales ese objetivo tiene aún mayor importancia porque (1) los Andes tropicales son considerados como un &quot;punto caliente&quot; de biodiversidad en el mundo (Myers <i>et al. </i>2000, Jørgensen <i>et al. </i>2011) y (2) en estas regiones </font><font face="Verdana" size="2">se presenta un contexto social crítico, debido a la diminución de los recursos naturales (mayormente hídricos) y a un aumento de la presión demográfica (Buytaert <i>et al. </i>2011). Entre los diferentes ecosistemas altoandinos, los &quot;bofedales&quot;, i.e. ecosistemas altoandinos semi-acuáticos azonales, albergan una biodiversidad muy superior a la de los ecosistemas vecinos y proveen servicios ecosistémicos cruciales, como recursos hídricos, forraje para ganadería, o almacenamiento de carbono en el suelo (Squeo <i>et al. </i>2006, Segnini <i>et al. </i>2014, Dangles <i>et al. </i>en este número especial). Estos ecosistemas húmedos están muy fragmentados dentro de una matriz ambiental seca, lo que les rinde más vulnerables frente a los cambios climáticos (en inglés: <i>continental insularity; </i>Anthelme <i>et al. </i>2014b).</font></p>     <p align="justify"><font face="Verdana" size="2">En comparación con otros sistemas alpinos fuera de los trópicos, los ecosistemas altoandinos dentro de los trópicos podrían ser afectados de manera más pronunciada por el calentamiento global que a latitudes más bajas, debido a sus ubicaciones a altitud superior (Körner 2003, </font><font face="Verdana" size="2">Bradley <i>et al. </i>2006, Anthelme <i>et al. </i>2014a). Entre 1975 y 2006, las superficies de los glaciares de la Cordillera Real (centro) han disminuido en 48% (Soruco <i>et al. </i>2009), una tendencia que se confirma a escala de todos los glaciares tropicales (Rabatel <i>et al. </i>2013). Bajo estas condiciones, la mayoría de las especies vegetales altoandinas se ve obligada a poner en marcha una migración altitudinal para responder a los efectos del cambio climático y poder aprovechar estos espacios libres, mientras que una minoría se adapta a las nuevas limitaciones ambientales o encuentra refugios ambientales, localmente (Anthelme <i>et al. </i>2014a). Dada la gran velocidad del calentamiento, se espera que las comunidades de plantas migratorias no vayan a tener suficiente tiempo para instalarse a altitud más alta, específicamente por el hecho que necesitan la presencia de suelos alpinos, los cuales se desarrollan en varias décadas. De esta forma, las plantas con menor habilidad para migrar a mayores altitudes, serian amenazadas por plantas más competitivas (Herzog <i>et al. </i>2011, Cuesta <i>et</i> <i>al. </i>2012, Gottfried <i>et</i> <i>al. </i>2012). El análisis de esos patrones y mecanismos de sucesión primaria <i>(sensu </i>Walker &amp; del Moral 2003) se puede hacer con varios tipos de métodos. Lo ideal consiste en el monitoreo a largo plazo de la distribución de las especies a lo largo de un gradiente altitudinal, lo cual permite obtener datos de gran calidad, sin embargo, requiere mucho tiempo para ser relevante (varias décadas; Matthews 1992). Una alternativa es utilizar los datos de retroceso glaciar para definir bandas de desglaciación y así trabajar a la escala de &quot;cronosecuencias post glaciales&quot;. Este método reemplaza datos temporales por datos espaciales de alta calidad (Walker <i>et al. </i>2010, Cannone <i>et al. </i>2008, Erschbamer &amp; Mayer 2011). Sin embargo, este método solo se puede aplicar teniendo datos precisos de retroceso glaciar a nivel decenal. Una tercera opción sería de trasplantar plantas a altitudes más elevadas, sin embargo este método no toma en cuenta las capacidades de dispersión de cada especie (p.e., Cavieres &amp; Sierra-Almeida 2012).</font></p>     <p align="justify"><font face="Verdana" size="2">El objetivo de este artículo es de proponer un método basado en las cronosecuencias post-glaciales para caracterizar los patrones y mecanismos de sucesión primaria frente a los efectos del calentamiento global. La metodología de trabajo debe comprobar tres hipótesis: 1) la gran velocidad del calentamiento agrava la limitación de dispersión, empobreciendo las nuevas comunidades vegetales altoandinas; 2) el estrés abiótico particularmente importante después del retroceso glaciar, particularmente por la ausencia de suelo, tendría efectos negativos exacerbados sobre el proceso de colonización vegetal (Walker &amp; Del Moral 2003); y 3) los mecanismos de protección por piedras y rocas, de facilitación planta-plantas y costra biológica-plantas podrían jugar un papel importante en la estructuración de las comunidades vegetales (Bertness &amp; Callaway 1994, Breen &amp; Levesque 2008, Cavieres <i>et al. </i>2014). Sin embargo, a través de la tercera hipótesis se plantea que la facilitación planta-plantas es casi-ausente por falta de plantas nodrizas, las cuales necesitan mayor tiempo para desarrollarse (Anthelme <i>et al. </i>2014a). Por otra parte, la costra biológica podría tener ambos roles, tanto como facilitador y como competidor. Intentamos describir de manera sencilla pero detallada como se ha logrado desarrollar estos métodos, para que otras personas puedan replicar el protocolo propuesto. Cabe la pena mencionar, que el propósito de este artículo es doble: además de divulgar las grandes líneas del estudio se trata mayormente de difundir una metodología y las técnicas asociadas. En este sentido, esta investigación no trata acerca de los métodos y las herramientas estadísticas descriptivas tradicionales. Finalmente, se discuten los límites de nuestros métodos y como se podrían mejorarlos, tomando en cuenta los límites materiales como límites de presupuesto, meteorología u otros eventos que cada uno puede enfrentar.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Área y sitios de estudio</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Los Andes tropicales alberguen el 99% de las áreas cubiertas por glaciares dentro de la zona intertropical, principalmente arriba de 4.800 m (Kaser 1999). El 20% se encuentran en territorio boliviano y el 71% en el Perú (Jordan 1985, 1991, Kaser 1999) y los últimos 9% se reparten entre Ecuador, Colombia y Venezuela. Para optimizar la representatividad de los resultados y así obtener una regionalización en los Andes Tropicales, proponemos tomar en cuenta dos países andinos, Bolivia (Cordillera Real) y Perú (Cordillera Blanca; <a href="#f1">Fig. 1</a>). Recientemente se realizaron estudios de balance de masa y retroceso glaciar, mediante fotogrametría en 21 glaciares sobre la Cordillera Real en base a fotografías aéreas de 1956, 1963, 1975(-1976), 1983, 1997 y 2006 (Soruco <i>et al. </i>2009). En Perú, la Cordillera Blanca se ubica en la región de Ancash. La utilización y procesamiento de</font> <font face="Verdana" size="2">información aérea, satelital y directa de los dos Cordilleras ha permitido obtener datos precisos y regionales de retroceso glaciar durante los últimas décadas (Jordan 1985, Rabatel 2005, Soruco <i>et al. </i>2009).</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a04_figura_01.jpg" width="737" height="502"></p>     <p align="justify"><font face="Verdana" size="2">Se sugiere realizar el seguimiento de cuatro cronosecuencias post glaciales. Para disminuir variaciones ambientales no deseadas en nuestro diseño, los glaciares asociados a las cronosecuencias pueden ser seleccionados de acuerdo a características similares (forma de la lengua, superficie mediana, sustrato de roca, pendiente baja a regular, entre otros). En nuestro caso, los glaciares seleccionados corresponden a: 1) el Glaciar Zongo (referencia internacional WGS 84: D5150), 2) el Glaciar Tarija (D4960) y 3) el Glaciar &quot;10&quot; (D5100), ubicados en la Cordillera Real (Bolivia) y 4) el Glaciar Yanamarey (E9654), ubicado en la Cordillera Blanca (Perú).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Cronosecuencia post-glacial</b></font></p>     <p align="justify"><font face="Verdana" size="2">Una cronosecuencia post-glacial permite proveer espacialmente una sucesión vegetal primaria a lo largo de varias décadas o más, utilizando una serie de bandas de desglaciación en orden cronológico <i>(Time-for-space substitution, </i>Walker <i>et al. </i>2010; <a href="#f2">Fig. 2</a>). La mayoría de las investigaciones sobre la colonización vegetal posterior al retroceso glaciar, se desarrollaron con cronosecuencias centradas entre 50 y 350 años (F. Anthelme, obs.pers. 2014). Sin embargo, los estudios cuantitativos centrados sobre los primeros pasos de la colonización (cronosecuencias de 0-50 años) son poco frecuentes, exceptuando la taxonomía microbiana (Schmidt <i>et al. </i>2008, Sattin <i>et al. </i>2009, Bradley <i>et al. </i>2014).</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a04_figura_02.gif" width="734" height="238"></p>     <p align="justify"><font face="Verdana" size="2">Proponemos utilizar cronosecuencias post glaciales de 0-38 años - zonas correspondientes a los 400-900 primeros metros derretidos. Cada cronosecuencia se compone de cuatro bandas de desglaciación bien marcadas debidos a eventos climáticos específicos: 0-7 años, 7-16 años, 16-30 años y 30-38 años (<a href="#f3">Fig. 3</a>). Los límites entre cada banda fueron definidos por glaciólogos (análisis de fotografías satelitales y aéreas, medidas GPS directamente en el campo, reconocimiento de morenas) y corresponden a los años 1975-1976, 1983, 1997, 2006 y 2013 (<a href="#f3">Fig. 3</a>; Soruco <i>et al. </i>2009, Rabatel <i>et al. </i>2013).</font></p>     <p align="justify"><a name="f3"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/reb/v49n3/a04_figura_03.jpg" width="738" height="523"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Unidad florística de base: el cuadrante</b></font></p>     <p align="justify"><font face="Verdana" size="2">El estudio de la vegetación se realizó utilizando cuadrantes de aluminio. Cada cuadrante tiene una dimensión de 1 m<sup>2</sup> que se considera como área representativa de la diversidad de comunidades herbáceas alto-andinas. El cuadrante se subdivide en 100 sub-cuadrantes de 100 cm<sup>2</sup>, mediante los mismos se obtiene una mayor precisión en cuanto a la estimación de los índices de vegetación tomados en cuenta (<a href="#f4">Fig. 4</a>; más detalles en García <i>et al. </i>en este número especial, Meneses <i>et al. </i>en este número especial). En cada banda de desglaciación de cada cronosecuencia, proponemos realizar a lo mínimo 15 cuadrantes separados por más de 10 m de distancia, con el objetivo de disminuir efectos de pseudo-replicación (Hurlbert 1985). Los cuadrantes serán geo-referenciados por GPS. El número de cuadrantes depende de la diversidad vegetal presente y de la superficie de las bandas.</font></p>     <p align="justify"><a name="f4"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a04_figura_04.jpg" width="704" height="525"></p>     <p align="justify"><font face="Verdana" size="2">Para disponer de la mejor representatividad posible de la zona dentro de cada banda de desglaciación, la colecta de datos debe ser realizada en sectores con sustrato compuesto mayoritariamente fino (arena o gravas), que permiten el establecimiento de la sucesión primaria. Este razonamiento integra una primera fase de definición de zonas adecuadas a la realización de cuadrante, por eso se </font><font face="Verdana" size="2">excluye las grandes zonas de substrato de rocas grandes, precipicios y lagunas post glaciares y ríos. Luego, para reducir al mínimo el factor de exposición (este-oeste-norte-sur), que puede generar un efecto en los procesos de colonización vegetal, los cuadrantes deben beneficiar de exposiciones relativamente similares a lo largo del día. Más allá de estas limitaciones, los cuadrantes están ubicados en las aéreas restantes de manera aleatoria, así que el rol de los otros factores ambientales no deseados sea reducido al máximo.</font></p>     <p align="justify"><font face="Verdana" size="2">El conocimiento de la flora de cada cronosecuencia resulte posible por la bibliografía existente (libros, artículos científicos) o con la ayuda de los especialistas de la flora local cuando los datos no están publicados. En el caso de Bolivia se hizo en colaboración con el Herbario Nacional de Bolivia, permitiendo tener listas de especies para cada sitio y estrategias </font><font face="Verdana" size="2">de dispersión para cada especie encontrada. En el caso de Perú, hemos hecho la lista florística en colaboración con la Universidad Nacional Santiago Antúnez de Mayolo y ayudándonos con una flora local (Kolff &amp; Kolff 2005).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Patrones de sucesión primaria</b></font></p>     <p align="justify"><font face="Verdana" size="2">En primer lugar, dentro de cada cuadrante se debe identificar y localizar, según los sub-cuadrantes, a cada individuo. Para esto se asigna un determinado código a cada sub-cuadrante (A1,...A10, B1...B10,...) (<a href="#f4">Fig. 4</a>). Ese protocolo permite 1) obtener un índice de riqueza específica y también otros índices de diversidad <i>a (e.g., </i>Simpson, Shannon) por cuadrante, 2) un índice de diversidad [3 a tres niveles espaciales (entre cuadrantes de la misma banda de desglaciación, entre bandas de desglaciación y entre cronosecuencias) a</font> <font face="Verdana" size="2">través de la comparación de la composición vegetal entre unidades de estudio (ver más detalles en Meneses <i>et al. </i>2014), y 3) ver cuales formas de vidas son los mejores colonizadores (ver Ramsay &amp; Oxley 1997 para una descripción detallada de las formas de vidas en ecosistemas alto-andinos). Los datos obtenidos permiten identificar cuáles son las plantas las más representativas de cada banda de desglaciación, y de esta forma se puede identificar las especies con más capacidad de colonización post-glacial. Luego se propone medir, con regla, la altura (distancia vertical del suelo a la punta vegetativa de la planta), el largo (mayor distancia horizontal entre hojas opuestas) y el ancho (menor distancia horizontal entre hojas opuestas) de cada individuo. Gracias a la suma de los productos 'ancho por altura y por largo' de cada planta de un cuadrante se obtiene la cobertura vegetal relativa en cada cuadrante (%).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Alternativamente, una estimación rápida de la cobertura vegetal se puede obtener sumando el número de sub-cuadrantes, contando con una cobertura cercana de 100% (agrupando dos sub-cuadrantes de cobertura de 50% para tener uno de 100%): cada sub-cuadrante con una cobertura vegetal de 100% representa uno por ciento de la cobertura vegetal total del cuadrante.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Limitación de dispersión</b></font></p>     <p align="justify"><font face="Verdana" size="2">Gracias a la lista de plantas observadas en cada sitio y a un buen conocimiento de la flora local se puede hacer una lista de los modos de dispersión de cada especie (principalmente anemócoras, zoócoras e hidrocoras; Anexo 1). Esta lista, permite estudiar los límites de la dispersión durante la colonización vegetal a través de la tasa de cada tipo de dispersión observada en las distintas bandas de desglaciación. Por ejemplo, </font><font face="Verdana" size="2">una tasa del 90% de especies anemócoras en la banda 0-7 años y 80% en la banda 30-38 años reflejara que las primeras especies capaces de colonizar corresponderían a las anemócoras, sin embargo, poco a poco otras estrategias de dispersión de especies se lograron instalar.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Estrés abiótico</b></font></p>     <p align="justify"><font face="Verdana" size="2">En los ambientes tropicales alpinos como en los Andes, el estrés abiótico sobre plantas se define mayormente por las temperaturas extremas, sequías, vientos fuertes y falta de nutrientes a través de suelos poco desarrollados (Anthelme &amp; Dangles 2012). Bajo la hipótesis que el estrés abiótico afecta las plantas en áreas recientemente derretidas es exacerbado, proponemos primero estimar ese estrés a través de 1) las medidas de altura de cada individuo tomadas previamente, 2) un índice de fertilidad (presencia de frutos y otros órganos de reproducción), 3) un índice de necromasa relativa, gracias a la estimación visual de la tasa de tejidos muertos de cada individuo (%) y 4) de índices fisiológicos indirectos tipo SLA <i>(specific leaf area) </i>y LDMC <i>(leaf dry mass content) </i>que traducen la producción de biomasa de cada especie (Cornelissen <i>et al. </i>2003; más detalles aplicados a los bofedales en Meneses <i>et al. </i>en este número especial). Para realizar una comparación de varios estados fisiológicos, no es adecuado el estudio en común de los individuos juveniles y maduros, porque podrían resultar de generaciones diferentes, es decir de diferentes fases de colonización. De esta forma, las mediciones de necromasa y SLA deben ser realizadas solo en los individuos maduros.</font></p>     <p align="justify"><font face="Verdana" size="2">En una segunda fase, proponemos profundizar la relación entre el estrés abiótico y la distribución de plantas a través de las estrategias de Grime (1977). Según Grime, la distribución de las plantas se explica por tres estrategias generales de tolerancia (1) al estrés abiótico (especies de tipo &quot;S&quot;, ver párrafo previo), (2) a la competencia con otras </font><font face="Verdana" size="2">plantas (&quot;C&quot;) y (3) a la perturbación (especies ruderales &quot;R&quot;). Inicialmente diseñadas para describir estrategias de plantas en ambientes templados, fueron más tarde utilizadas con éxito en ecosistemas alpinos (Caccianiga <i>et al. </i>2006, Cerabolini <i>et al. </i>2010). Diseñamos una metodología para comprobar una hipótesis de adaptación de estrategias a lo largo de la cronosecuencia (<a href="#f5">Fig. 5</a>). A cada especie se atribuye valores de estrategias osea coordenadas (C; S; R), ubicadas entre 0 y 1. Por ejemplo una planta 100% estrés tolerante, no ruderal y no competidora tiene por coordenadas (0; 1; 0). Otra planta estrés tolerante, competidora y ruderal tiene por coordenadas (0.33; 0.33; 0.33). Una tercera planta, medio ruderal y media competidora tiene por coordenadas (0.5; 0; 0.5). Esas coordenadas traducen la posición de cada especie en el triángulo de Grime, en donde cada vértice del triángulo representa una estrategia (Fig. 5). Gracias al dibujo de la línea de baricentro de los tres puntos de porcentajes obtenidos, se obtiene un punto central, el cual determina la estrategia relativa de cada especie. Así, para cada banda de desglaciación de cada glaciar se calcula el promedio del porcentaje de cada estrategia (tres porcentajes: C, S y R), esto para la totalidad de los individuos presentes en dichas banda. Además, los triángulos de Grime, permiten analizar las estrategias vegetales a lo largo de las cronosecuencias.</font></p>     <p align="justify"><a name="f5"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a04_figura_05.gif" width="738" height="687"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Patrones de facilitación</b></font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="2">Asociaciones entre plantas vasculares</font></p>     <p align="justify"><font face="Verdana" size="2">En ambientes alpinos, la organización de las comunidades vegetales está sumamente influenciada por interacciones positivas entre plantas (facilitación; Callaway 2007), específicamente dentro de los trópicos (Anthelme &amp; Dangles 2012). Gracias a la espacialización por sub-cuadrantes de los individuos se puede examinar asociaciones espaciales entre plantas, las cuales traducen en general interacciones positivas. Dos plantas </font><font face="Verdana" size="2">se consideran como asociadas espacialmente en cuanto sus partes aéreas están en contacto. Toda asociación espacial entre plantas debe ser identificada, especificando en lo posible si se trata de una interacción positiva o no (i.e cuando se observa que una de las dos especies alojaba a la otra, e.g. entre Poaceae: una alta <i>Deyeuxianitidula </i>(30 cm) que facilita la presencia de varias <i>Belloa pickeringii </i>de baja altura (1 cm). Esas medidas permiten calcular índices de asociaciones y facilitaciones entre plantas nodrizas o no, a lo largo de la cronosecuencia.</font></p>     <p align="center"><font face="Verdana" size="2">Asociaciones entre plantas vasculares y costra biológica</font></p>     <p align="justify"><font face="Verdana" size="2">Según la definición de Breen &amp; Levesque (2008) los &quot;micro-organismos pioneros como las cianobacterias, algas verdes, líquenes, musgos, hongos y bacterias heterótrofas son generalmente los primeros organismos que colonizan la superficie de áreas vírgenes de toda vida y pueden asociarse para formar una matriz orgánica visible en la superficie del suelo, llamada costra biológica&quot; del suelo <i>(soil biological</i></font> <font face="Verdana" size="2"><i>crust, </i>SBC, por sus siglas en ingles). Bajo la hipótesis que la SBC puede interactuar con las plantas colonizadoras (Breen &amp; Levesque 2008), igualmente se tomó en cuenta cada asociación entre plantas y costra biológica del suelo, i.e cuando un individuo se desarrolló sobre una alfombra de musgo y/o líquenes. De la misma manera que se estima la cobertura vegetal en un cuadrante se estima la cobertura de SBC, adicionando los sub-cuadrantes que contienen costra biológica.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Relaciones entre patrones y mecanismos ecológicos</b></font></p>     <p align="justify"><font face="Verdana" size="2">La medición de variables ambientales abióticas permite entender los patrones de distribución de la vegetación identificada (ver arriba) a través de los mecanismos ecológicos involucrados a lo largo de las cronosecuencias. Proponemos aquí 1) relacionar las formas de vida de plantas y el estrés abiótico y 2) examinar el papel jugado por la presencia de refugios bióticos (plantas, SBC) y abióticos (rocas y piedras) sobre la sucesión primaria.</font></p>     <p align="center"><font face="Verdana" size="2">Estrés abiótico</font></p>     <p align="justify"><font face="Verdana" size="2">Proponemos estudiar variaciones de humedad y de temperatura del suelo entre bandas de desglaciación. La humedad relativa del sustrato sedimentario se puede medir directamente con muestras de sustrato sedimentario de aproximadamente 300-500 g de sedimento fino por muestra. Como mínimo proponemos medir 12 muestras por banda, esto durante un máximo de dos días de muestreo, asegurando pequeñas variaciones de humedad que podrían depender de la meteorología. El sedimento recogido se guarda en bolsas &quot;ziploc&quot;, expulsando el contenido de aire para no alterar la humedad de la muestra. En primer lugar, las muestras de suelos se pesan húmedas al día siguiente del muestreo, en una balanza electrónica (en nuestro caso: Balance TU-OI FA-2104, Mhand, Fuzhou, China). En segundo </font><font face="Verdana" size="2">lugar, las bolsas de suelo se guardan abiertas para que se sequen al aire libre en un medio ambiente abierto durante dos semanas (de preferencia en días secos). En tercer lugar, se pesan las muestras secas nuevamente. Se debe hacer notar que es necesario registrar el peso individual de una bolsa vacía, permitiendo de esta forma, pesar el conjunto bolsa-sedimento directamente, para no perder sedimento al traspasar la muestra en recipientes. Igualmente, la temperatura del suelo puede ser registrada de manera precisa mediante 10 data loggers (Onset HOBO: TidbiT v2) por cada banda de desglaciación y para cada glaciar. Cada data logger se debe enterrar a 3 cm bajo la superficie del suelo, lugar de intercambios mayores entre el sustrato y el sistema radicular de las plantas. En nuestro caso, los data loggers fueron instalados por un intervalo de 27 días, duración suficientemente amplia para obtener resultados representativos.</font></p>     <p align="center"><font face="Verdana" size="2">Efecto de organismos facilitadores</font></p>     <p align="justify"><font face="Verdana" size="2">Para entender los mecanismos de facilitación y provecho por plantas, rocas o SBC nodrizas se pueden realizar varias mediciones abióticas (ver Yang <i>et al. </i>2010, Anthelme <i>et al. </i>2012). En nuestro caso, nos ha interesado el efecto de la SBC sobre la temperaturas del suelo, con la hipótesis, que la presencia de SBC genera un &quot;efecto tampón <i>(buffering effect </i>en inglés)&quot; sobre las temperaturas. En este sentido, 10 pares de data loggers se utilizaron por cada banda. Cada par de data loggers fue distribuido de la siguiente forma: 1) uno de los data logger fue enterrado a 3 cm debajo de la superficie de la costra biológica y 2) el otro data logger fue enterrado también a 3 cm debajo de la superficie de un suelo sin ninguna presencia de SBC, calificado como &quot;suelo desnudo&quot;. Se utilizó una distancia de 30 cm para separar a los dos data loggers, para asegurar ambientes diferentes de medición. También, se instalaron los data loggers en lugares de baja pendiente y con relieves idénticos.</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="2"><b>Límites y mejoras</b></font></p>     <p align="justify"><font face="Verdana" size="2">Durante la comprobación de los métodos descritos líneas arriba, se encontraron algunas limitaciones. En primer lugar, con el propósito de profundizar el estudio de composición del suelo, nos hemos dado cuenta que sería relevante identificar los microorganismos presentes en el sustrato, como hongos, bacterias y cianobacterias, para medir la biomasa microbiana, la respiración y la mineralización del nitrógeno por ejemplo. Esos microorganismos son excelentes testigos de una buena actividad biológica del suelo (Winding <i>et al. </i>2005) y participan en el establecimiento de la costra biológica (SBC) (Breen &amp; Levesque 2008). Sin embargo una alta concentración de microorganismos podría llevar a una monopolización de los recursos, así dejando un sustrato pobre para la colonización vegetal (Schmidt <i>et al. </i>2008, Sattin <i>et al. </i>2009). </font></p>     <p align="justify"><font face="Verdana" size="2">Estos datos permiten entender con más precisión los mecanismos de los patrones de distribución vegetal observados. Sugerimos también estudiar la composición en nutrientes del sustrato sedimentario la cual se espera estar relacionada a la presencia o ausencia de microorganismos (Sattin <i>et al. </i>2009). En el caso del presente estudio no se realizó por falta de fondos, sin embargo serian datos muy relevantes relativos a una posible variación del estrés abiótico a lo largo de las cronosecuencias. </font></p>     <p align="justify"><font face="Verdana" size="2">Para ir más allá en la comprensión de los mecanismos de sucesión primaria, sugerimos desarrollar experimentos <i>in situ, </i>con trasplantes. Se trata de trasplantar las especies vegetales pertenecientes a las comunidades cercanas (colonizadores del medio ambiente antes de la aceleración del retroceso glaciar de 1974-1975), crecidas en condiciones controladas desde su germinación (ver por ejemplo Cavieres &amp; Sierra-Almeida 2012). En comparación al presente estudio que se enfocó en la población establecida, esta otra metodología permitiría entender de manera más completa las dificultades de las comunidades vegetales a </font><font face="Verdana" size="2">desarrollarse en esos ambientes, a través de un mejor conocimiento de la historia de vida de las plantas estudiadas (se conoce particularmente edad y altura inicial de cada trasplante).</font></p>     <p align="justify"><font face="Verdana" size="2">Los resultados preliminares obtenidos demuestran que el papel jugado por la SBC sobre la estructuración de las comunidades de plantas es crucial. Por lo tanto, sugerimos que se tiene que desarrollar más la investigación sobre la SBC con el objetivo de entender si la SBC provee un mejoramiento del estado físico de las especies durante la sucesión primaria y si luego tiene un rol de competidor (después de 30 años de desglaciación). Se tendría que estudiar las características de las plantas en presencia y ausencia de SBC (altura, necromasa, contenido en elementos N, Cu, K, Mg y Zn,...). Estas mediciones deberían desarrollarse tomando en cuenta los tipos de SBC (líquenes o musgos) y la composición del suelo, la cual podría ser un factor de presencia de SBC. Los efectos de otros organismos, como herbívoros domésticos (llamas están presente en nuestros sitios) merecen ser tomado en cuenta igualmente.</font></p>     <p align="justify"><font face="Verdana" size="2">Finalmente, este método de estudio de colonización vegetal primaria merece ser estudiado al nivel regional para validar los resultados ampliando con diferentes sitios de la Cordillera Real y de la Cordillera Blanca en Perú. De la misma manera se debería relacionar cada estudio con la biodiversidad circundante (bofedales y otras comunidades, corredor vegetal u aislamiento) y con los factores biogeográfico y meso climáticos.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos a A. Lliully y A. N. Palabral Aguilera por su apoyo en el campo en Bolivia, a J. Chincheros Paniagua del Laboratorio de Calidad Ambiental del Instituto de Ecología por su aporte en la análisis de datos de suelos, a E. J. Palomino Cadenas por su colaboración en el sitio peruano y a J.E. Sicart, T. Condom y L. Davila por sus discusiones útiles sobre datos de glaciología y de clima. Este estudio es parte </font><font face="Verdana" size="2">del programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F., L. A. Cavieres &amp; O. Dangles. 2014a. Facilitation among plants in alpine environments in the face of climate change. Frontiers in Plant Science 5:387. doi: <a href="http://dx.doi.org/10.3389/fpls.2014.00387" target="_blank"> 10.3389/fpls.2014.00387</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F., D. Jacobsen, P. Macek, R. I. Meneses, P. Moret, S. Beck &amp; O. Dangles. 2014b. Biodiversity patterns and continental insularity in the high tropical Andes. Arctic, Antarctic and Alpine Research 46: 611-628.</font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F. &amp; O. Dangles. 2012. Plant-plant interactions in tropical alpine environments. Perspectives in Plant Ecology Evolution and Systematics 14: 363-372.</font></p>     <p align="justify"><font face="Verdana" size="2">Bertness, M.D. &amp; Ragan Callaway. 1994. Positive interactions in communities. Trends in Ecology &amp; Evolution 9(5): 191-193.</font></p>     <p align="justify"><font face="Verdana" size="2">Bradley, J. A., J. S. Singarayer &amp; A. M. Anesio. 2014. Microbial community dynamics in the forefield of glaciers. Proceedings of the Royal Society-B. 281:2014 0882. </font> <font face="Verdana" size="2"><a href="http://dx.doi.org/10.1098/rspb.2014.0882" target="_blank">http://dx.doi.org/10.1098/rspb.2014.0882</a></a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Bradley R. S., M. Vuille M, H. F. Diaz &amp; W. Vergara. 2006. Threats to water supply in the tropical Andes. Science 312:1755-1756.</font></p>     <p align="justify"><font face="Verdana" size="2">Breen, K. &amp; E. Lévesque. 2008. The influence of biological soil crusts on soil characteristics along a High Arctic glacier foreland, Nunavut, Canada. Arctic, Antarctic, and Alpine Research 40: 287-297.</font></p>     <p align="justify"><font face="Verdana" size="2">Buytaert, W., F. Cuesta-Camacho &amp; C. Tobón. 2011. Potential impacts of climate change on the environmental services of humid </font><font face="Verdana" size="2">tropical alpine regions. Global Ecology and Biogeography 20:19-33.</font></p>     <p align="justify"><font face="Verdana" size="2">Caccianiga, M., A. Luzzaro, S. Pierce, R. M. Ceriani &amp; B. Cerabolini. 2006. The functional basis of a primary succession resolved by CSR dassification. Oikos 112:10-20.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Callaway, R. M. 2007. Positive interactions and interdependence in plant communities. Springer, Dordrecht. 415 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081865&pid=S1605-2528201400030000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Cannone, N., G. Diolaiuti, M. Guglielmin &amp; C. Smiraglia. 2008. Accelerating climate change impacts on alpine glacier forefield ecosystems in the European Alps. Ecological Applications 18: 637-648.</font></p>     <p align="justify"><font face="Verdana" size="2">Cavieres, L.A. &amp; A. Sierra-Almeida A. 2012. Facilitative interactions do not wane with warming at high elevations in the Andes. Oecologia 170: 575-584.</font></p>     <p align="justify"><font face="Verdana" size="2">Cavieres, L. A., R. W. Brooker, B. J. Butterfield, B. J. Cook, Z. Kikvidze, C. J. Lortie, R. Michalet, F.I. Pugnaire, C. Schöb, S. Xiao, F. Anthelme, R. G. Björk, K. Dickinson, B. H. Cranston, R. Gavilan, A. Gutiérrez-Girón, R. Kanka, J. P. Maalouf, A. Mark, J. Noroozi, R. Parajuli, G. K. Phoenix, A. Reid, W. M. Ridenour, C. Rixen, S. Wipf, L. Zhao, A. Escudero, B. F. Zaitchik, E. Lingua, E. T. Aschehoug &amp; R. M. Callaway. 2014. Facilitative plant interactions and climate simultaneously drive alpine plant diversity. Ecology Letters 17(2): 193-202.</font></p>     <p align="justify"><font face="Verdana" size="2">Cerabolini, B. E., G. Brusa, R. M. Ceriani, R. De Andreis, A. Luzzaro &amp; S. Pierce. 2010. Can CSR classification be generally applied outside Britain? Plant Ecology 210: 253-261.</font></p>     <p align="justify"><font face="Verdana" size="2">Chen, I. C., J. K. Hill, R. Ohlemüller, D. B. Roy &amp; C. D. Thomas. 2011. Rapid range shifts of species associated with high levels of climate warming. Science 333:1024-1026.</font></p>     <p align="justify"><font face="Verdana" size="2">Cornelissen J., S. Lavorel, E. Garnier, S. Diaz, N. Buchmann, D. Gurvich, P. Reich, H. Steege, H. Morgan, M. van der Heijden, J. Pausas &amp; H. Poorter. 2003. A handbook </font><font face="Verdana" size="2">of protocols for standardized and easy measurement of plant functional traits worldwide. Australian Journal of Botany 51: 335-380.</font></p>     <p align="justify"><font face="Verdana" size="2">Cuesta, F., P. Muriel, S. Beck, R. I. Meneses, S. Halloy, S. Salgado, E. Ortiz &amp; M. T. Becerra, 2012. Biodiversidad y cambio climático en los Andes tropicales - Conformación de una red de investigación para monitorear sus impactos y delinear acciones de adaptación. Red Gloria-Andes, Lima-Quito. 180 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Erschbamer,B. &amp; R. Mayer. 2011. Can successional species groups be discriminated based on their life history traits? A study from a glacier foreland in the Central Alps. Plant Ecology &amp; Diversity 4: 341-351.</font></p>     <p align="justify"><font face="Verdana" size="2">Gottfried M., H. Pauli, A. Futschik, M. Akhalkatsi, P. Barancok, J. L. Benito Alonso, G .Coldea, J. Dick, B. Erschbamer, M. R. Fernandez Calzado, G. Kazakis, J. Krajci, P. Larsson, M. Mallaun, O. Michelsen, D. Moiseev, P. Moiseev, U. Molau, A. Merzouki, L. Nagy, G. Nakhutsrishvili, B. Pedersen, G. Pelino, M. Puscas, G. Rossi, A. Stanisci, J.-P. Theurillat, M. Tomaselli, L. Villar, P. Vittoz, I. Vogiatzakis &amp; G. Grabherr. 2012. Continent-wide response of mountain vegetation to climate change. Nature Climate Change 2:111-115.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Grime, J. P. 1977. Evidence for the existence of three primary strategies in plants and its relevance to ecological and evolutionary theory. American Naturalist 111: 1169-1194.</font></p>     <p align="justify"><font face="Verdana" size="2">Herzog, S. K., R. Martinez, P. M. Jørgensen &amp; H. Tiessen. 2011. Climate Change and Biodiver sity in the Tropical Andes. Inter-American Institute for Global Change Research (IAI) and Scientific Committee on Problems of the Environment (SCOPE), Sao José dos Campos. 348 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Hurlbert, S.H. 1985. Pseudoreplication and the design of ecological field experiments. Ecological Monographs 54:187-211.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Jordan, E. 1985.Die Gletscher der bolivianischen Anden. Habilschrift, Hannover. 393 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081878&pid=S1605-2528201400030000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Jordan, E. 1991. Die Gletscher der bolivianischen Anden. Steiner Verlag, Stuttgart. 365 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081879&pid=S1605-2528201400030000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Jørgensen, P. M., C. U. Ulloa, B. León, S. León-Yánez, S. G. Beck, M. Nee &amp; R. Gradstein. 2011. Regional patterns of vascular plant diversity and endemism. Climate change and biodiversity in the Tropical Andes 13:192-203.</font></p>     <p align="justify"><font face="Verdana" size="2">Kaser, G. 1999. A review of the modern fluctuations of tropical glaciers. Global and Planetary Change 22(1): 93-103.</font></p>     <p align="justify"><font face="Verdana" size="2">Kaser, G., J. G. Cogley, M. B. Dyurgerov, M. F. Meier &amp; A. Ohmura. 2006. Mass balance of glaciers and ice caps: Consensus estimates for 1961-2004. Geophysical Research Letters 33: L19501, DOI: <a href="http://dx.doi.org/10.1029/2006GL027511" target="_blank">10.1029/2006GL027511</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Kolff, H. &amp; K. Kolff. 1997. Flores silvestres de la Cordillera Blanca. Instituto de Montaña, Huaraz. 284 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Körner, C. 2003. Alpine plant life: functional plant ecology of high mountain ecosystems. Springer, Berlin. 344 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081884&pid=S1605-2528201400030000400029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Matthews, J.A. 1992. The ecology of recently deglaciated terrain. A geological approach to glacier forelands and primary succession. Cambridge University Press, Cambridge. 386 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081885&pid=S1605-2528201400030000400030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Myers, N., R. A. Mittermeier, C. G. Mittermeier, G. A. Da Fonseca &amp; J. Kent. 2000. Biodiversity hotspots for conservation priorities. Nature 403(6772): 853-858.</font></p>     <p align="justify"><font face="Verdana" size="2">Rabatel, A. 2005. Chronologie et interprétation paléoclimatique des fluctuations des glaciers dans les Andes de Bolivie (16&deg; S) depuis le maximum du Petit Age Glaciaire (17 ème siècle). Tesis de doctorado, Université Joseph-Fourier-Grenoble I, ciudad?. 196 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Rabatel, A., B. Francou, A. Soruco, J. Gomez, B. Caceres, J. L. Ceballos, R. Basantes, M. Vuille, J.-E. Sicart, C. Huggel, M. Scheel, Y. Lejeune, Y. Arnaud, M. Collet, T. Condom, G. Consoli, V. Favier, V. Jomelli,</font> <font face="Verdana" size="2">R. Galarraga, P. Ginot, L. Maisincho, J. Mendoza, M. Ménégoz, E. Ramirez, P. Ribstein, W. Suarez, M. Villacis &amp; P. Wagnon. 2013. Current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change. The Cryosphere 7(1): 81-102.</font></p>     <p align="justify"><font face="Verdana" size="2">Ramsay, P.M. &amp; E.R.B. Oxley. 1997. The growth form composition of plant communities in the Ecuadorian páramos. Plant Ecology 131:173-192.</font></p>     <p align="justify"><font face="Verdana" size="2">Sattin, S. R., C. Cleveland, E. Hood, S. C. Reed, A. J. King, S. K. Schmidt, M. S. Robeson, N. Ascarrunz &amp; D. R. Nemergut. 2009. Functional shifts in unvegetated, perhumid, recently-deglaciated soils do not correlate with shifts in soil bacterial community composition. The Journal of Microbiology 47(6): 673-681.</font></p>     <p align="justify"><font face="Verdana" size="2">Schmidt, S.K., S.C. Reed, D.R. Nemergut, A.S. Grandy, C.C. Cleveland, M.N. Weintraub, A.W. Hill, E.K. Costello, A.F. Meyer, J.C. Neff &amp; A.M. Martin. 2008. The earliest stages of ecosystem succession in high-elevation(5000metres above sea level), recently deglaciated soils. Proceedings of the Royal Society B: Biological Sciences 275: 2793-2802.</font></p>     <p align="justify"><font face="Verdana" size="2">Segnini, A., A. Posadas, R. Quiroz, D.M. B. P. Milori, S.C. Saab, L. M. Neto &amp; C. M. P. Vaz. 2010. Spectroscopic assessment of soil organic matter in wetlands from the high Andes. Soil Science Society of America Journal 74(6): 2246-2253.</font></p>     <p align="justify"><font face="Verdana" size="2">Soruco, A., C. Vincent, B. Francou &amp; J. F. Gonzalez. 2009. Glacier decline between 1963 and 2006 in the Cordillera Real, Bolivia. Geophysical Research Letters 36: L03502.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Walker, L. R. &amp; R. Del Moral. 2003. Primary succession and ecosystem rehabilitation. </font><font face="Verdana" size="2">Cambridge University Press, Cambridge. 442 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Walker, L. R., D. A. Wardle, R. D. Bardgett &amp; B. D. Clarkson. 2010. The use of chronosequences in studies of ecological succession and soil development. Journal of Ecology 98: 725-736.</font></p>     <p align="justify"><font face="Verdana" size="2">Winding, A., K. Hund-Rinke &amp; M. Rutgers. 2005. The use of microorganisms in ecological soil classification and assessment concepts. Ecotoxicology and Environmental Safety 62(2): 230-248.</font></p>     <p align="justify"><font face="Verdana" size="2">Yang, L. H. &amp; V. H. W. Rudolf. 2010. Phenology, ontogeny and the effects of climate change on the timing of species interactions. Ecology Letters 13:1-10.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caviares]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitation among plants in alpine environments in the face of climate change]]></article-title>
+<source><![CDATA[Frontiers in Plant Science]]></source>
+<year>2014</year>
+<month>a</month>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>387</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jacobsen]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Macek]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moret]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity patterns and continental insularity in the high tropical Andes]]></article-title>
+<source><![CDATA[Arctic, Antarctic and Alpine Research]]></source>
+<year>2014</year>
+<month>b</month>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>611-628</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant-plant interactions in tropical alpine environments]]></article-title>
+<source><![CDATA[Perspectives in Plant Ecology Evolution and Systematics]]></source>
+<year>2012</year>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>363-372</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bertness]]></surname>
+<given-names><![CDATA[M.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[Ragan]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Positive interactions in communities]]></article-title>
+<source><![CDATA[Trends in Ecology & Evolution]]></source>
+<year>1994</year>
+<volume>9</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>191-193</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bradley]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Singarayer]]></surname>
+<given-names><![CDATA[J.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anesio]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Microbial community dynamics in the forefield of glaciers]]></article-title>
+<source><![CDATA[Proceedings of the Royal Society-B.]]></source>
+<year>2014</year>
+<numero>281</numero>
+<issue>281</issue>
+<page-range>0882</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bradley]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vuille M]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[H.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vergara]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threats to water supply in the tropical Andes]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2006</year>
+<numero>312</numero>
+<issue>312</issue>
+<page-range>1755-1756</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Breen]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lévesque]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The influence of biological soil crusts on soil characteristics along a High Arctic glacier foreland, Nunavut, Canada]]></article-title>
+<source><![CDATA[Arctic, Antarctic, and Alpine Research]]></source>
+<year>2008</year>
+<numero>40</numero>
+<issue>40</issue>
+<page-range>287-297</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buytaert]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cuesta-Camacho]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tobón]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Potential impacts of climate change on the environmental services of humid tropical alpine regions]]></article-title>
+<source><![CDATA[Global Ecology and Biogeography]]></source>
+<year>2011</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>19-33</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Caccianiga]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Luzzaro]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pierce]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceriani]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cerabolini]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The functional basis of a primary succession resolved by CSR dassification]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2006</year>
+<numero>112</numero>
+<issue>112</issue>
+<page-range>10-20</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Positive interactions and interdependence in plant communities]]></source>
+<year>2007</year>
+<page-range>415</page-range><publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cannone]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diolaiuti]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guglielmin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smiraglia]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Accelerating climate change impacts on alpine glacier forefield ecosystems in the European Alps]]></article-title>
+<source><![CDATA[Ecological Applications]]></source>
+<year>2008</year>
+<numero>18</numero>
+<issue>18</issue>
+<page-range>637-648</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sierra-Almeida A]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitative interactions do not wane with warming at high elevations in the Andes]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2012</year>
+<numero>170</numero>
+<issue>170</issue>
+<page-range>575-584</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Butterfield]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cook]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schöb]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Xiao]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Björk]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dickinson]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cranston]]></surname>
+<given-names><![CDATA[B.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gavilan]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gutiérrez-Girón]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kanka]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maalouf]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mark]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Noroozi]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parajuli]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Phoenix]]></surname>
+<given-names><![CDATA[G.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reid]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ridenour]]></surname>
+<given-names><![CDATA[W.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rixen]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wipf]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zhao]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Escudero]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zaitchik]]></surname>
+<given-names><![CDATA[B.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lingua]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aschehoug]]></surname>
+<given-names><![CDATA[E.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitative plant interactions and climate simultaneously drive alpine plant diversity]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2014</year>
+<volume>17</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>193-202</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cerabolini]]></surname>
+<given-names><![CDATA[B.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brusa]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceriani]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Andreis]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Luzzaro]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pierce]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Can CSR classification be generally applied outside Britain?]]></article-title>
+<source><![CDATA[Plant Ecology]]></source>
+<year>2010</year>
+<numero>210</numero>
+<issue>210</issue>
+<page-range>253-261</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chen]]></surname>
+<given-names><![CDATA[I.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hill]]></surname>
+<given-names><![CDATA[J.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ohlemüller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roy]]></surname>
+<given-names><![CDATA[D.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[C.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rapid range shifts of species associated with high levels of climate warming]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2011</year>
+<numero>333</numero>
+<issue>333</issue>
+<page-range>1024-1026</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cornelissen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lavorel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buchmann]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gurvich]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steege]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morgan]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van der Heijden]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pausas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A handbook of protocols for standardized and easy measurement of plant functional traits worldwide]]></article-title>
+<source><![CDATA[Australian Journal of Botany]]></source>
+<year>2003</year>
+<numero>51</numero>
+<issue>51</issue>
+<page-range>335-380</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuesta]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Muriel]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Salgado]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ortiz]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Becerra]]></surname>
+<given-names><![CDATA[M.T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiversidad y cambio climático en los Andes tropicales - Conformación de una red de investigación para monitorear sus impactos y delinear acciones de adaptación]]></source>
+<year>2012</year>
+<page-range>180</page-range><publisher-loc><![CDATA[Lima-Quito ]]></publisher-loc>
+<publisher-name><![CDATA[Red Gloria-Andes]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Erschbamer]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mayer]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Can successional species groups be discriminated based on their life history traits? A study from a glacier foreland in the Central Alps]]></article-title>
+<source><![CDATA[Plant Ecology & Diversity]]></source>
+<year>2011</year>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>341-351</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gottfried]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pauli]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Futschik]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Akhalkatsi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barancok]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Benito Alonso]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[.Coldea]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dick]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Erschbamer]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernandez Calzado]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kazakis]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Krajci]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larsson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mallaun]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michelsen]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moiseev]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moiseev]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Molau]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Merzouki]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nagy]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nakhutsrishvili]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pedersen]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pelino]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Puscas]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rossi]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stanisci]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Theurillat]]></surname>
+<given-names><![CDATA[J.-P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tomaselli]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villar]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vittoz]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vogiatzakis]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grabherr]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Continent-wide response of mountain vegetation to climate change]]></article-title>
+<source><![CDATA[Nature Climate Change]]></source>
+<year>2012</year>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>111-115</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grime]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evidence for the existence of three primary strategies in plants and its relevance to ecological and evolutionary theory]]></article-title>
+<source><![CDATA[American Naturalist]]></source>
+<year>1977</year>
+<numero>111</numero>
+<issue>111</issue>
+<page-range>1169-1194</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martinez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tiessen]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Climate Change and Biodiver sity in the Tropical Andes]]></source>
+<year>2011</year>
+<page-range>348</page-range><publisher-loc><![CDATA[Sao José dos Campos ]]></publisher-loc>
+<publisher-name><![CDATA[Inter-American Institute for Global Change Research (IAI) and Scientific Committee on Problems of the Environment (SCOPE)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hurlbert]]></surname>
+<given-names><![CDATA[S.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Pseudoreplication and the design of ecological field experiments]]></article-title>
+<source><![CDATA[Ecological Monographs]]></source>
+<year>1985</year>
+<numero>54</numero>
+<issue>54</issue>
+<page-range>187-211</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jordan]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Die Gletscher der bolivianischen Anden]]></source>
+<year>1985</year>
+<page-range>393</page-range><publisher-loc><![CDATA[Hannover ]]></publisher-loc>
+<publisher-name><![CDATA[Habilschrift]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jordan]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Die Gletscher der bolivianischen Anden]]></source>
+<year>1991</year>
+<page-range>365</page-range><publisher-loc><![CDATA[Stuttgart ]]></publisher-loc>
+<publisher-name><![CDATA[Steiner Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ulloa]]></surname>
+<given-names><![CDATA[C.U.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[León]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[León-Yánez]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nee]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gradstein]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regional patterns of vascular plant diversity and endemism]]></article-title>
+<source><![CDATA[Climate change and biodiversity in the Tropical Andes]]></source>
+<year>2011</year>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>192-203</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kaser]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A review of the modern fluctuations of tropical glaciers]]></article-title>
+<source><![CDATA[Global and Planetary Change]]></source>
+<year>1999</year>
+<volume>22</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>93-103</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kaser]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cogley]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dyurgerov]]></surname>
+<given-names><![CDATA[M.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meier]]></surname>
+<given-names><![CDATA[M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ohmura]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mass balance of glaciers and ice caps: Consensus estimates for 1961-2004]]></article-title>
+<source><![CDATA[Geophysical Research Letters]]></source>
+<year>2006</year>
+<numero>33</numero>
+<issue>33</issue>
+<page-range>L19501</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kolff]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kolff]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Flores silvestres de la Cordillera Blanca]]></source>
+<year>1997</year>
+<page-range>284</page-range><publisher-loc><![CDATA[Huaraz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Montaña]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Körner]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Alpine plant life: functional plant ecology of high mountain ecosystems]]></source>
+<year>2003</year>
+<page-range>344</page-range><publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Matthews]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The ecology of recently deglaciated terrain: A geological approach to glacier forelands and primary succession]]></source>
+<year>1992</year>
+<page-range>386</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Myers]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[C.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Da Fonseca]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kent]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity hotspots for conservation priorities]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2000</year>
+<volume>403</volume>
+<numero>6772</numero>
+<issue>6772</issue>
+<page-range>853-858</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Chronologie et interprétation paléoclimatique des fluctuations des glaciers dans les Andes de Bolivie (16° S) depuis le maximum du Petit Age Glaciaire (17 ème siècle)]]></source>
+<year>2005</year>
+<page-range>196</page-range><publisher-loc><![CDATA[Grenoble ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Francou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gomez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caceres]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceballos]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Basantes]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vuille]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sicart]]></surname>
+<given-names><![CDATA[J.-E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huggel]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scheel]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lejeune]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arnaud]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Collet]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Condom]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Consoli]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Favier]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jomelli]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galarraga]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ginot]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maisincho]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mendoza]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ménégoz]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramirez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ribstein]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Suarez]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villacís]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wagnon]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change]]></article-title>
+<source><![CDATA[The Cryosphere]]></source>
+<year>2013</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>81-102</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ramsay]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oxley]]></surname>
+<given-names><![CDATA[E.R.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The growth form composition of plant communities in the Ecuadorian páramos]]></article-title>
+<source><![CDATA[Plant Ecology]]></source>
+<year>1997</year>
+<numero>131</numero>
+<issue>131</issue>
+<page-range>173-192</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sattin]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cleveland]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hood]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reed]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[King]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmidt]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Robeson]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ascarrunz]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nemergut]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Functional shifts in unvegetated, perhumid, recently-deglaciated soils do not correlate with shifts in soil bacterial community composition]]></article-title>
+<source><![CDATA[The Journal of Microbiology]]></source>
+<year>2009</year>
+<volume>47</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>673-681</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schmidt]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reed]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nemergut]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grandy]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cleveland]]></surname>
+<given-names><![CDATA[C.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weintraub]]></surname>
+<given-names><![CDATA[M.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hill]]></surname>
+<given-names><![CDATA[A.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Costello]]></surname>
+<given-names><![CDATA[E.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meyer]]></surname>
+<given-names><![CDATA[A.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neff]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martin]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The earliest stages of ecosystem succession in high-elevation(5000metres above sea level), recently deglaciated soils]]></article-title>
+<source><![CDATA[Proceedings of the Royal Society B: Biological Sciences]]></source>
+<year>2008</year>
+<numero>275</numero>
+<issue>275</issue>
+<page-range>2793-2802</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Posadas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milori]]></surname>
+<given-names><![CDATA[D.M.B.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saab]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neto]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vaz]]></surname>
+<given-names><![CDATA[C.M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectroscopic assessment of soil organic matter in wetlands from the high Andes]]></article-title>
+<source><![CDATA[Soil Science Society of America Journal]]></source>
+<year>2010</year>
+<volume>74</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2246-2253</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vincent]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Francou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzalez]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Glacier decline between 1963 and 2006 in the Cordillera Real, Bolivia]]></article-title>
+<source><![CDATA[Geophysical Research Letters]]></source>
+<year>2009</year>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>L03502</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Del Moral]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Primary succession and ecosystem rehabilitation]]></source>
+<year>2003</year>
+<page-range>442</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wardle]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bardgett]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clarkson]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The use of chronosequences in studies of ecological succession and soil development]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2010</year>
+<numero>98</numero>
+<issue>98</issue>
+<page-range>725-736</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Winding]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hund-Rinke]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rutgers]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The use of microorganisms in ecological soil classification and assessment concepts]]></article-title>
+<source><![CDATA[Ecotoxicology and Environmental Safety]]></source>
+<year>2005</year>
+<volume>62</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>230-248</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yang]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rudolf]]></surname>
+<given-names><![CDATA[V.H.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phenology, ontogeny and the effects of climate change on the timing of species interactions]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2010</year>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>1-10</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

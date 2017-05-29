@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892007000200004</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Epilithic diatoms (Bacillariophyta) from cloud forest and alpine streams in Bolivia, South America II: A preliminary report on the diatoms from Sorata, Department of La Paz]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[A. Morales]]></surname>
+<given-names><![CDATA[Eduardo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[L. Vis]]></surname>
+<given-names><![CDATA[Morgan]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[Erika]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Kociolek]]></surname>
+<given-names><![CDATA[J. Patrick]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Department of Environmental and Plant Biology  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidad Mayor de San Simón  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,California Academy of Sciences  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<volume>3</volume>
+<numero>4</numero>
+<fpage>680</fpage>
+<lpage>696</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892007000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892007000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892007000200004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[A total of seven epilithic samples were collected from streams along an altitudinal gradient within the Bolivian Cloud Forest region near the capital La Paz. The diatom flora is diverse and no clear altitudinal trends were found. The flora is composed of cosmopolitan species and taxa restricted in distribution to the Andes with the genera Gomphonema, Nitzschia, Encyonopsis, and Encyonema containing the greatest number of species and individuals with higher frequencies in samples. Diatoms from this region are also represented by several alkaliphilous and alkalibiont taxa reflecting the high pH of the streams. General characteristics of the sampled sites as well as a list of taxa and figures of representative taxa are presented herein.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="es"><p><![CDATA[Un total de siete muestras de epiliton fueron colectadas en ríos dentro de un gradiente altitudinal en el bosque nublado de Bolivia, cerca de la capital La Paz. La flora diatomológica es diversa y no se encontraron patrones altitudinales claros. Tal flora está compuesta por especies cosmopolitas y taxa restringidos a los Andes con los géneros Gomphonema, Nitzschia, Encyonopsis y Encyonema agrupando al mayor número de especies e individuos con mayores frecuencias. La flora está también representada por varios taxa alcalifilos y alcalibiontes, reflejando los altos valores de pH de los ríos. Las características de los sitios muestreados, así como una lista de taxa y figuras representativas se presentan en este trabajo.]]></p></abstract>
+<kwd-group>
+<kwd lng="en"><![CDATA[Diatoms]]></kwd>
+<kwd lng="en"><![CDATA[Bacillariophyta]]></kwd>
+<kwd lng="en"><![CDATA[Taxonomy]]></kwd>
+<kwd lng="en"><![CDATA[Sorata]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+<kwd lng="es"><![CDATA[Diatomeas]]></kwd>
+<kwd lng="en"><![CDATA[Bacillariophyta]]></kwd>
+<kwd lng="es"><![CDATA[Taxonomía]]></kwd>
+<kwd lng="es"><![CDATA[Sorata]]></kwd>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><strong>Epilithic diatoms (Bacillariophyta) from cloud forest and   alpine streams in Bolivia, South America II: A preliminary report on the   diatoms from Sorata, Department of La Paz</strong></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Eduardo A. Morales<sup>1,2,3</sup> Morgan L. Vis<sup>4</sup>, Erika Fernández<sup>5</sup>, J. Patrick Kociolek<sup>6</sup></strong></font></p>      <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><sup>1</sup> Herbario Criptogámico, Departamento de Ciencias Exactas e Ingenierias Universidad Católica Boliviana, <sup>2</sup> Patrick Center for Environmental Research, The Academy of Natural Sciences of Philadelphia, <sup>3</sup> Unidad de Limnología y Recursos Acuáticos Renovables, Universidad Mayor de San Simón, <sup>4</sup> Department of Environmental and Plant Biology, <sup>5</sup> Centro de Biodiversidad y Genética, Universidad Mayor de San Simón, <sup>6</sup> Diatom Collection, California Academy of Sciences.  </font></p>     <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">e-mail: <a href="mailto:morales@acnatsci.org">morales@acnatsci.org</a>,   <a href="mailto:vis-chia@ohio.edu">vis-chia@ohio.edu</a>, <a href="mailto:erika_fer2003@yahoo.es">erika_fer2003@yahoo.es</a>, <a href="mailto:pkociolek@calacademy.org">pkociolek@calacademy.org</a>.  </font></p>   <hr>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Abstract</strong></font>  </p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A total of seven epilithic samples were collected from streams along an altitudinal gradient within the Bolivian Cloud Forest region near the capital La Paz. The diatom flora is diverse and no clear altitudinal trends were found.  The flora is composed of cosmopolitan species and taxa restricted in distribution to the Andes with the genera <i>Gomphonema, Nitzschia, Encyonopsis</i>, and <i>Encyonema</i> containing the greatest number of species and individuals with higher frequencies in samples.  Diatoms from this region are also represented by several alkaliphilous and alkalibiont taxa reflecting the high pH of the streams. General characteristics of the sampled sites as well as a list of taxa and figures of representative taxa are presented herein.</font></p>      <p align="justify"><font size="2"><strong><font face="Verdana, Arial, Helvetica, sans-serif">Key words:</font></strong><font face="Verdana, Arial, Helvetica, sans-serif"> Diatoms, Bacillariophyta, Taxonomy, Sorata, Bolivia.</font></font></p>      <p><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Resumen</font></b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Un total de siete muestras de <i>epiliton</i> fueron colectadas en ríos dentro de un gradiente altitudinal en el bosque nublado de Bolivia, cerca de la capital La Paz. La flora diatomológica es diversa y no se encontraron patrones altitudinales claros. Tal flora está compuesta por especies cosmopolitas y taxa restringidos a los Andes con los géneros <i>Gomphonema</i>, <i>Nitzschia</i>, <i>Encyonopsis</i> y <i>Encyonema</i> agrupando al mayor número de especies e individuos con mayores frecuencias. La flora está también representada por varios taxa alcalifilos y alcalibiontes, reflejando los altos valores de pH de los ríos. Las características de los sitios muestreados, así como una lista de taxa y figuras representativas se presentan en este trabajo.</font></p>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong> Palabras clave:</strong> Diatomeas, Bacillariophyta, Taxonomía, Sorata, Bolivia.</font></p> <hr> <strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">1 Introduction</font></strong>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diatoms are photosynthetic, diploid, eukaryotic organisms placed in the Kingdom Chromista, along with brown algae, chrysophytes and other <i>c-</i>chlorophyll bearing microbionts, and slime molds [2].  Diatom communities have been extensively used in the assessment of past and present ecological conditions in the aquatic habitats in which they live [29].  Their indicative utility resides in that they are ubiquitous, their taxonomically diagnostic, hard siliceous cell walls are well preserved in sediments and many species form characteristic assemblages under different trophic or diversely contaminated conditions [12] [25] [26].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bolivian diatoms have been poorly studied and a review of the literature (in preparation) shows that most research has been restricted to the Altiplano.  Only a fraction of this literature is taxonomic in nature, which hinders the potential use of diatoms for bioindication. Only a few articles have focused on the diatoms from the Bolivian Cloud Forest [21] [28], which are insufficient to cover this extensive ecosystem. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The South American Cloud Forest (or Yungas) is one of the most biologically diverse ecosystems in South America [5] [23] located between 13°-17°S and 69°-63°W and running along the Eastern Cordillera of the Andes in Bolivia and Peru, between the high Puna or Altiplano and the Amazonian lowlands. In Bolivia, the Yungas has a wide altitudinal range (200-3500 m), and a wide range in temperature (annual means: 7°-30°C) and humidity (800-7000 mm per year).  The geology of the Yungas is also varied, composed of four different geological formations [23], resulting in a mixture of landscapes with great influence on the vegetation and fauna of the region.  Navarro & Maldonado [23] state that the Yungas is dominated by riverine systems with few lakes.  First order streams with fast flowing waters of varied chemical composition predominate at higher altitudes while there is a predominance of second and third order streams with increased load of particulates at lower elevations.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Biologically, the diversity of plants and certain groups of animals such as birds, mammals and amphibians in the Yungas is the best documented [3] [22] [24] and shows high endemism in these groups e.g., Birds [1], Ferns [6] [7].  Within the algae, Thérézien [31] reported 243 soft algae taxa from a few samples collected in a small region of the Yungas, 8 of them being taxa new to science.  McClintic <i>et al.</i> [15] studied 13 samples collected from different sites and reported more than 40 taxa of soft-bodied algae, of which 17 were new records for Bolivia.  A study of the diatoms present in 6 of these 13 samples showed that about a quarter of the species are not found in any bibliographical reference for South America or similar regions of the world [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The current paper presents a taxonomic assessment of the periphytic diatom flora in seven streams located in Sorata, Province of Larecaja, Department of La Paz and it constitutes a preliminary contribution before the initiation of a larger sampling project throughout the Yungas region.</font></p>      <p><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">2 Materials and Methods</font></strong> </p>     <p><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2.1 Study area</font> </strong></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Collection of samples took place in the vicinity of Sorata, about 100 km from the capital La Paz.  Seven  streams  were   sampled  from  an   altitudinal  range  of  ca.        2 600-4 060 m. Coordinates and physico-chemical characteristics of each sampling point are presented in Table 1 (samples 27-33) in McClintic <i>et al.</i> [15]. Four of the streams fell within the altitudinal range given for the Yungas by Navarro & Maldonado [23], while the remaining three correspond to the elevation usually given for the Puna. Despite the altitude difference there are no clear patterns in the physical and chemical characteristics of the streams, except for specific conductance which is lower in the higher streams [15].</font></p>      <p align="center"><a name="t1"></a><img src="/img/revistas/ran/v3n4/tabla04_1.gif"></p>     <p align="center"><a name="t2"></a><img src="/img/revistas/ran/v3n4/tabla04_2.gif"></p>     ]]></body>
+<body><![CDATA[<p align="center"><a name="t3"></a><img src="/img/revistas/ran/v3n4/tabla04_3.gif"></p>     <p align="center"><a name="t4"></a><img src="/img/revistas/ran/v3n4/tabla04_4.gif"></p>     <p align="center"><a name="t5"></a><img src="/img/revistas/ran/v3n4/tabla04_5.gif"></p>     <p align="center"><a name="t6"></a><img src="/img/revistas/ran/v3n4/tabla04_6.gif"></p>     <p align="center"><a name="t7"></a><img src="/img/revistas/ran/v3n4/tabla04_7.gif"></p>     <p align="center"><a name="t8"></a><img src="/img/revistas/ran/v3n4/tabla04_8.gif"></p>       <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>2.2 Methods</strong></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">At each site, five rocks were randomly selected and scraped with a stiff toothbrush.  Scraped material from the rocks was rinsed with stream water, collected as a composite sample, and preserved with 2.5% CaCO<sub>3</sub>-buffered glutaraldehyde. Data for the first two samples (27 and 28) was presented in [21] and are pooled here in order to provide a more complete list of diatoms.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For light microscopy (LM) analysis, a 10 ml periphyton subsample was extracted and cleaned using 30% H<sub>2</sub>O<sub>2</sub> and concentrated HNO<sub>3</sub> [30]. Cleaned samples were suspended in glass-distilled water and air-dried. Dried samples were mounted on glass slides using NAPHRAX®. A Nikon Microphot-FXA microscope equipped with DIC was used to identify and measure diatoms at a magnification of 1 250X.  A Spot Insight color digital camera was used to capture images of selected specimens. Identification of specimens present in two preparations from each sample was performed to the lowest taxonomic level possible using pertinent literature [14] [16] [17] [18] [27].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">For scanning electron microscopy (SEM) studies, aliquots of clean material were air dried onto 15 X 15 cm pieces of aluminum foil. Smaller pieces were trimmed and mounted on aluminum stubs with double-sided tape. The stubs were coated with gold-palladium using a Polaron Sputter Coater for ca. 1 min at 1.8 kV. A Leo-Zeiss 982-DSM electron microscope was used for SEM analyses. LM and SEM digital images were directly captured into a computer file and plates were assembled using Adobe Photoshop v. 7.0.</font></p>      ]]></body>
+<body><![CDATA[<p><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">3  Results and Discussion</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A list of all taxa encountered is presented in Table 1. In total, 190 infrageneric taxa were identified. Of these, 53 entities could not be determined based on the literature for the region or from other parts of the world [8] [9] [10] [11]. Many of these entities probably represent taxa new to science, but none were sufficiently abundant to permit detailed studies.  The majority of the undetermined species belonged to <i>Gomphonema</i> (20%), <i>Nitzschia</i> (16%), <i>Encyonopsis</i> (9%), and <i>Encyonema (</i>6%). These four genera were also the most common in samples.  <i>Navicula </i>taxa accounted for 9% of the undetermined species, due to the inclusion of small unknowns whose features were not clear in LM and may be placed in <i>Adlafia, Eolimna</i> and <i>Mayamaea </i>after thorough SEM analysis.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The streams were clear, small (width 0.85-8.3 m), and shallow (max. depth 12-40 cm).  The smaller streams located at higher altitudes had a periphytic flora, which is characteristic of montane regions worldwide with cosmopolitan taxa, such as <i>Encyonema</i> <i>minutum</i> (Hilse) Mann, <i>Hannaea arcus</i> (Ehrenberg) Patrick and <i>Tabellaria flocculosa</i> (Roth) Kützing.  Stream water specific conductance was generally low (20-210 µS/cm), with higher values potentially representing more human activity.  In streams located at lower elevations, cosmopolitan taxa characteristic of more elevated trophic conditions were present (e.g., <i>Encyonema silesiacum</i> (Bleisch) Mann, <i>Melosira varians </i>Agardh<i>, Reimeria sinuata</i> (Gregory) Kociolek et Stoermer, <i>Rhoicosphenia abbreviata</i> (Agardh) Lange-Bertalot).  The stream water pH was alkaline (7.4-8.6) with no clear altitudinal trend.  Alkaliphilous (occurring at pH &gt; 7 [32]) taxa were present: <i>Achnanthidium exiguum</i> var. <i>heterovalvum </i>(Krasske) Czarnecki<i>, Frustulia vulgaris</i> (Thwaites) De Toni, and <i>Planothidium lanceolatum</i> (Brébisson ex Kützing) Lange-Bertalot.  In addition, several alkalibionts (living exclusively at pH &gt; 7) were collected such as <i>Epithemia adnata</i> (Kützing) Brébisson, <i>Pleurosira laevis</i> (Ehrenberg) Compère, <i>Stephanodiscus </i>cf.<i> minutulus</i> (Kützing) Cleve et Möller.  A few taxa, reported only from the Andes (possible endemics), were present in the Sorata flora as follows: <i>Encyonema</i> <i>jemtlandicum </i>var<i>. venezolanum </i>Krammer, <i>Gomphonema punae</i> Lange-Bertalot et Rumrich and <i>Staurosira laucensis </i>var.<i> vulpina</i> Lange-Bertalot et Rumrich, a species herein transferred to <i>Pseudostaurosira </i>(see later).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In general, the streams at higher altitudes (streams 29 and 30) harbored more diverse floras (81 and 78 taxa, respectively) and lower streams (No. 27, 28 and 31) contained fewer taxa (range 37-45 taxa) (Table 1).  Stream 33 is located at higher elevation, but contained fewer taxa (21).  Water temperature (16°C) and pH (8.4) were higher in stream 33 than in streams of similar altitude, while the current velocity (6.1 cm/sec) and conductivity (20 µS/cm) were lower.  These conditions might favor the development of other groups of algae since McClintic <i>et al.</i> [15] reported high numbers of soft-bodied macro- and microalgae in this stream. In contrast, stream 32 was lower in elevation, but contained high diatom diversity (61 taxa). This stream was the shallowest (12 cm) of all streams sampled and had the fastest current velocity (52.6 cm/sec). Apart from these two factors, the stream appears similar in conditions to the other lower altitude streams and, thus, it is difficult to pinpoint the reason for its high diversity.  For this same stream, McClintic<i> et al.</i> [15] report only three species of macroalgae.</font></p>      <p><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Taxonomic section</font></strong></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The taxa listed in Table 1 represent the finest level of taxonomic resolution we can provide to date.  Several of these are represented in Figures 1-68.  Of interest is the presence of taxa whose specific epithets cannot yet be determined, and may represent species new to science.  The identity and distribution of these potentially new taxa, in addition to a broader perspective on the diatoms from lotic systems throughout the Bolivian Yungas region, will be the focus of future collaborative research, funded in part by the California Academy of Sciences.</font></p>      <p align="center"><a name="i1"></a><img src="/img/revistas/ran/v3n4/imagen04_01.gif"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Figure 1-43: </b>LM images of diatoms from Sorata. 1<i>. Orthoseira roseana. 2. Melosira varians. 3. Stephanodiscus cf. minutulus. 4. Diatoma moniliformis. 5. Diatoma hyemalis. 6-7. Frankophila similioides. 8. Staurosirella leptostauron. 9. Pseudostaurosira laucensis var. vulpina. 10-11. Tabellaria ventricosa. 12-13. Tabellaria flocculosa. 14-15. Achnanthidium modestiforme. 16-17. Achnanthidium minutissimum var. jackii. 18-19. Eucocconeis quadratarea. 20. Psammothidium subatomoides. 21-22. Psammothidium grischunum. 23. Eunotia tecta. 24. Eunotia boreoalpina. 25-26. Eunotia tenella. 27. Eunotia paludosa. 28. Mayamaea atomus var. permitis. 29. Mayamaea cf. atomus var. alcimonica. 30. Adlafia minuscula. 32. Adlafia suchlandtii. 32. Cavinula pseudoscutiformis. 33. Brachysira lehmanniae. 34. Brachysira neoexilis. 35. Kobayasiella cf. parasubtilissima</i>. <i>36. Diploneis kahlii. 37-38. Encyonopsis cf. krammerioides. 39. Encyonopsis cf. krammeri. 40. Gomphonema exilissimum. 41. Gomphonema parvulum. 42. Gomphonema punae. 43. Gomphonema micropus</i>.</font></p>      <p align="center"><a name="i2"></a><img src="/img/revistas/ran/v3n4/imagen04_02.gif"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Figures 44-62</b>. LM images of diatoms from Sorata. 44. <i>Navicula angusta</i>. 45. <i>Navicula trivialis</i>. 46. <i>Navicula rhynchocephala</i>. 47. <i>Navicula arkona</i>. 48. <i>Navicula libonensis</i>. 49. <i>Navicula cryptocephala</i>. 50. <i>Navicula</i> cf. <i>lundii</i>. 51. <i>Navicula reichardtiana</i>. 52. <i>Caloneis molaris.</i> 53. <i>Caloneis hendeyi</i>. 54. <i>Pinnularia divergens</i> var. <i>linearis</i>. 55. <i>Pinnularia obscura</i>. 56-57. <i>Chamaepinnularia soehrensis</i> var. <i>hassiaca</i>. 58. <i>Chamaepinnularia evanida</i>. 59. <i>Cymbella excisa</i>. 60. <i>Encyonema neogracile</i>. 61. <i>Encyonema schneideri</i>. 62. <i>Cymbella peraspera</i>.</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="i3"></a><img src="/img/revistas/ran/v3n4/imagen04_03.gif"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Figures 63-68</b>. SEM images of diatoms from Sorata. 63. <i>Adlafia minuscula</i>. 64. <i>Navicula arkona</i>. This taxon has been misidentified in Morales & Vis [21] as <i>Navicula capitatoradiata</i> (Figs 103, 104, and 122). 65. <i>Neidium longiceps</i>. 66. <i>Pinnularia obscura</i>. 67. <i>Gomphonema micropus</i>. 68. <i>Surirella angusta</i>.</font></p>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Presence of one taxon in our samples requires a nomenclatural transfer. We present:</font></p>      <p><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><em>Pseudostaurosira   laucensis var. vulpina</em> </font></strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">(Lange-Bertalot et Rumrich) Morales comb. nov.  (Fig. 9).</font></p>     <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Basionym: <i>Staurosira laucensis </i>var.<i> vulpina </i>Lange-Bertalot et Rumrich in Rumrich <i>et al.</i>, 2000, Diatoms of the Andes from Venezuela to Patagonia/Tierra del Fuego, Iconographia Diatomologica 9, p. 223-224, Plate 10, Figs 1-11.</font></p>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Morales & Vis [21] presented a new combination for <i>Staurosira laucensis</i> Lange-Bertalot et Rumrich within the genus <i>Pseudostaurosira </i>Williams et Round [33] based on the resemblance of this taxon with other species included in the latter genus.  The combination presented herein is a follow up to that work.  Based on the discussion presented by Morales & Vis [21], several species recently described and transferred by Lange-Bertalot and collaborators within <i>Staurosira</i> Ehrenberg must be moved into other genera.  This is because the concept of <i>Staurosira</i> handled by Lange-Bertalot is untenable and does not comply with extensive studies presented by several subsequent authors regarding the distinctiveness of genera erected and resurrected by Williams & Round [33] to better delimit the formerly widely circumscribed genus <i>Fragilaria </i>Lyngbye ([4] [13] [19] [20], among others).</font></p>      <p><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">4 Conclusion</font></strong></p>      <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The diatom flora from Sorata, Bolivia is diverse and comprises a variety of cosmopolitan and geographically restricted diatoms with many species adapted to alkaline habitats. This is in agreement with two previous studies showing high diversity for different localities within the Yungas [21] [28].  Many of the diatoms observed in collected samples could be new, but their description should be postponed until additional data are collected.</font></p>      <p><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">References</font></strong></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[1]      BirdLife International. 2003. <i>BirdLife's online World Bird Database: the site for bird conservation. </i>Version 2.0. Cambridge, UK. <i>http://www.birdlife.org</i> (Accessed July 2007).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002323&pid=S1683-0789200700020000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[2]      Cavalier-Smith, T. 1986. <i>The kingdom Chromista: Origin and systematics. Progress in Phycological </i>Research 4: 309-347.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002324&pid=S1683-0789200700020000400002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[3]      Fan-Bolivia. 2006. <i>http://www.fan-bo.org/ingles/biodiversidad.html/</i>(Accessed July 2007).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002325&pid=S1683-0789200700020000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[4]      Flower, R. J.; Jones, V.J.; Round, F. E. 1996. <i>The distribution and classification of the problematic</i> Fragilaria (virescens v.) exigua <i>Grun</i>./Fragilaria exiguiformis (<i>Grun</i>.) <i>Lange-Bertalot: a new species or a new genus? </i>Diatom Research 11:41-57.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002326&pid=S1683-0789200700020000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[5]      Ibisch, P.; Mérida, G. (eds.) 2003. <i>Biodiversidad: La riqueza de Bolivia. Estado del conocimiento y conservación. </i>Editorial Fundación Amigos de la Naturaleza (FAN). Santa Cruz, Bolivia. 638 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002327&pid=S1683-0789200700020000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[6]      Kessler, M. 2001. <i>Pteridophyte species richness in Andean forests in Bolivia. </i>Biodiversity and Conservation 10: 1473-1495.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002328&pid=S1683-0789200700020000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[7]      Kessler, M.; Parris, B. S.; Kessler, E. 2001. <i>A comparison of the tropical montane pteridophyte floras of Mount Kinabalu, Borneo, and Parque Nacional Carrasco, Bolivia. </i>Journal of Biogeography 28: 611-622.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002329&pid=S1683-0789200700020000400007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[8]      Krammer, K.; Lange-Bertalot, H. 1986. <i>Bacillariophyceae. 1.</i>   <i>Teil: Naviculaceae</i>. En: Ettl, H; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(1): 1-876. Gustav Fisher Verlag, Germany.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002330&pid=S1683-0789200700020000400008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[9]      Krammer, K.; Lange-Bertalot, H. 1988. <i>Bacillariophyceae. 2</i>.     <i>Teil: Bacillariaceae</i>, <i>Epithemiaceae, Surirellaceae</i>. En: Ettl, H.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(2): 1-596. Gustav Fisher Verlag, Germany.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002331&pid=S1683-0789200700020000400009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[10]    Krammer, K.; Lange-Bertalot, H. 1991a. <i>Bacillariophyceae. 3.</i>   <i>Teil: Centrales, Fragilariaceae, Eunotiaceae. </i>En: Ettl, H.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(3): 1-576. Gustav Fisher Verlag, Germany.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002332&pid=S1683-0789200700020000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[11]    Krammer, K.; Lange-Bertalot, H. 1991b. <i>Bacillariophyceae. 4</i>.     <i>Teil: Achnanthaceae.  Kritische Ergänzungen zu Navicula (Lineolatae) und </i>Gomphonema. En: Ettl, H.; Gärtner, G.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(4): 1-437. Gustav Fisher Verlag, Germany.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002333&pid=S1683-0789200700020000400011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[12]    Lange-Bertalot, H. 1979. <i>Pollution tolerance of diatoms as a criterion for water quality estimation</i>. Nova Hedwigia, Beiheft 64 : 285-305.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002334&pid=S1683-0789200700020000400012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[13]    Le Cohu, R. 1999. <i>Révision des principales espèces de Fragilariales (Bacillariophyta) des îles Kerguelen</i>. Canadian Journal of Botany 77: 821-834.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002335&pid=S1683-0789200700020000400013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[14]    Manguin, E. 1964. <i>Contribution a la connaissance des diatomées des Andes du Pérou.  </i>Mémoires du Muséum d’Histoire Naturelle. Série B, Botanique 23(2) : 41-98 (plus 25 plates).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002336&pid=S1683-0789200700020000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[15]    McClintic, A. S.; Casamatta, D. A.; Vis, M. L. 2003. <i>A survey of algae from montane cloud forest and alpine streams in Bolivia: Macroalgae and associated microalgae</i>.  Nova Hedwigia 76: 363-379.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002337&pid=S1683-0789200700020000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[16]    Metzeltin, D.; García-Rodríguez, F. 2003. Las Diatomeas Uruguayas. D.I.R.A.C., Facultad de Ciencias, Universidad de la República. Montevideo, Uruguay. 210 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002338&pid=S1683-0789200700020000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[17]    Metzeltin, D.; Lange-Bertalot, H. 1998. <i>Tropical Diatoms of South America: About 700 predominantly rarely known or new taxa representative of the Neotropical flora. </i>Iconographia Diatomologica 5: 1-695.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002339&pid=S1683-0789200700020000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[18]    Metzeltin, D.; Lange-Bertalot, H.; García-Rodríguez, F. 2005. <i>Diatoms of Uruguay.</i>  Iconographia Diatomologica 15: 1-737.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002340&pid=S1683-0789200700020000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[19]    Morales, E. A. 2001. <i>Morphological studies in selected fragilarioid diatoms (Bacillariophyceae) from Connecticut waters, USA.  </i>Proceedings of the Academy of Natural Sciences of Philadelphia 151: 39-54.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002341&pid=S1683-0789200700020000400019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[20]    Morales, E. A. 2002. <i>Studies in selected fragilarioid diatoms of potential indicator value from Florida (USA) with notes on the genus Opephora Petit (Bacillariophyceae)</i>. Limnologica 32:102-113.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002342&pid=S1683-0789200700020000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[21]    Morales, E. A.; Vis. M. L. 2007. <i>Epilithic diatoms (Bacillariophyceae) from cloud forest and alpine streams in Bolivia, South America</i>. Proceedings of the Academy of Natural Sciences of Philadelphia 156: 43-75.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002343&pid=S1683-0789200700020000400021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[22]    Nature Conservancy. 2006. <i>http://www.nature.org/wherewework/southamerica/bolivia/</i> (Accessed July 2007).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002344&pid=S1683-0789200700020000400022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[23]    Navarro, G.; Maldonado. M. 2004. <i>Geografía Ecológica de Bolivia.  Vegetación y Ambientes Acuáticos. </i>Centro de Ecología Simón I. Patiño-Departamento de Difusión. Santa Cruz, Bolivia. 719 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002345&pid=S1683-0789200700020000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[24]    ParksWatch.  2005. <i>http://www.parkswatch.org/main.php</i>  (Accessed July 2007).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002346&pid=S1683-0789200700020000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[25]    Patrick, R. 1949. A <i>proposed biological measure of stream conditions based on a survey of Conestoga Basin, Lancaster County, Pennsylvania</i>. Proceedings of the Academy of Natural Sciences of Philadelphia 101:277-341.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002347&pid=S1683-0789200700020000400025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[26]    Patrick, R. 1951. <i>A proposed biological measure of stream conditions. </i>Verhadlungen Internationale Vereinigung für Theoretische und Angewandte Limnologie 11:299-307.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002348&pid=S1683-0789200700020000400026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[27]    Rumrich, U.; Lange-Bertalot, H.; Rumrich, M. 2000. <i>Diatoms of the Andes (from Venezuela to Patagonia/Tierra del Fuego)</i>.  Iconographia Diatomologica 9: 1-673.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002349&pid=S1683-0789200700020000400027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[28]    Servant-Vildary, S. 1986. <i>Les diatomées actuelles des Andes de Bolivie (Taxonomie, écologie). </i>Cahiers de Micropaléontologie, CNRS 1(3-4): 99-124.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002350&pid=S1683-0789200700020000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[29]    Stoermer, E. F.; Smol, J. P. 1999. <i>The diatoms. Applications for the environmental and earth sciences</i>. Cambridge University Press, Cambridge, UK. 469 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002351&pid=S1683-0789200700020000400029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[30]    Stoermer, E. F.; Pilskaln, C. H.; Schelske, C. L. 1995. <i>Siliceous microfossil distribution in the surficial sediments of Lake Baikal</i>. Journal of Paleolimnology 14: 69-82.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002352&pid=S1683-0789200700020000400030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[31]    Thérézien, Y. 1991. <i>D’Algues d’Eau douce des mares de “La Siberia” en Bolivie</i>. Bibliotheca Phycologica 88 : 1-129.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002353&pid=S1683-0789200700020000400031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[32]    Van Dam, H.; Mertens, A.; Sinkeldam, J. 1994. <i>A coded checklist and ecological indicator values of freshwater diatoms from the Netherlands</i>. Netherlands Journal of Aquatic Ecology 28(1): 117-133.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002354&pid=S1683-0789200700020000400032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[33]    Williams, D. M.; Round, F. E. 1987. <i>Revision of the genus Fragilaria</i>. Diatom Research 2:267-88.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002355&pid=S1683-0789200700020000400033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<collab>BirdLife International</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavalier-Smith]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The kingdom Chromista: Origin and systematics.: Progress in Phycological Research 4: 309-347.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<collab>Fan-Bolivia. 2006.</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Flower]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jones]]></surname>
+<given-names><![CDATA[V.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Round]]></surname>
+<given-names><![CDATA[F. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The distribution and classification of the problematic Fragilaria (virescens v.) exigua Grun./Fragilaria exiguiformis (Grun.) Lange-Bertalot: a new species or a new genus?]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mérida]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiversidad: La riqueza de Bolivia. Estado del conocimiento y conservación. Editorial Fundación Amigos de la Naturaleza (FAN)]]></source>
+<year></year>
+<edition>2003</edition>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pteridophyte species richness in Andean forests in Bolivia.: Biodiversity and Conservation 10: 1473-1495.]]></source>
+<year></year>
+<edition>2001</edition>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parris]]></surname>
+<given-names><![CDATA[B. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A comparison of the tropical montane pteridophyte floras of Mount Kinabalu, Borneo, and Parque Nacional Carrasco, Bolivia.]]></source>
+<year></year>
+<edition>2001</edition>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Krammer]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bacillariophyceae. 1. Teil: Naviculaceae. En: Ettl, H; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(1): 1-876. Gustav Fisher Verlag, Germany.]]></source>
+<year></year>
+<edition>1986</edition>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Krammer]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bacillariophyceae. 2. Teil: Bacillariaceae, Epithemiaceae, Surirellaceae. En: Ettl, H.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(2): 1-596. Gustav Fisher Verlag, Germany.]]></source>
+<year></year>
+<edition>1988</edition>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Krammer]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bacillariophyceae. 3. Teil: Centrales, Fragilariaceae, Eunotiaceae. En: Ettl, H.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(3): 1-576. Gustav Fisher Verlag, Germany.]]></source>
+<year></year>
+<edition>1991a</edition>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Krammer]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bacillariophyceae. 4. Teil: Achnanthaceae. Kritische Ergänzungen zu Navicula (Lineolatae) und Gomphonema. En: Ettl, H.; Gärtner, G.; Gerloff, J.; Heynig, H.; Mollenhauer, D. (eds.). Süsswasserflora von Mitteleuropa. 2(4): 1-437. Gustav Fisher Verlag, Germany.]]></source>
+<year></year>
+<edition>1991b</edition>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pollution tolerance of diatoms as a criterion for water quality estimation.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Le Cohu]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Révision des principales espèces de Fragilariales (Bacillariophyta) des îles Kerguelen.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Manguin]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Contribution a la connaissance des diatomées des Andes du Pérou. Mémoires du Muséum d’Histoire Naturelle.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McClintic]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Casamatta]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vis]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A survey of algae from montane cloud forest and alpine streams in Bolivia: Macroalgae and associated microalgae.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>[16]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Metzeltin]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García-Rodríguez]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diatomeas Uruguayas. D.I.R.A.C.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>[17]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Metzeltin]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tropical Diatoms of South America: About 700 predominantly rarely known or new taxa representative of the Neotropical flora.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>[18]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Metzeltin]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García-Rodríguez]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diatoms of Uruguay.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>[19]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morales]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Morphological studies in selected fragilarioid diatoms (Bacillariophyceae) from Connecticut waters, USA.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<label>[20]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morales]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Studies in selected fragilarioid diatoms of potential indicator value from Florida (USA) with notes on the genus Opephora Petit (Bacillariophyceae).]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<label>[21]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morales]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vis]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Epilithic diatoms (Bacillariophyceae) from cloud forest and alpine streams in Bolivia, South America.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<label>[22]</label><nlm-citation citation-type="">
+<collab>Nature Conservancy</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<label>[23]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Geografía Ecológica de Bolivia.: Vegetación y Ambientes Acuáticos.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<label>[24]</label><nlm-citation citation-type="">
+<collab>ParksWatch</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<label>[25]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Patrick]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A proposed biological measure of stream conditions based on a survey of Conestoga Basin, Lancaster County, Pennsylvania.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<label>[26]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Patrick]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A proposed biological measure of stream conditions.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<label>[27]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rumrich]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lange-Bertalot]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rumrich]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diatoms of the Andes (from Venezuela to Patagonia/Tierra del Fuego).]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<label>[28]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Servant-Vildary]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Les diatomées actuelles des Andes de Bolivie (Taxonomie, écologie).]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<label>[29]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stoermer]]></surname>
+<given-names><![CDATA[E. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smol]]></surname>
+<given-names><![CDATA[J. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The diatoms. Applications for the environmental and earth sciences.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<label>[30]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stoermer]]></surname>
+<given-names><![CDATA[E. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pilskaln]]></surname>
+<given-names><![CDATA[C. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schelske]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Siliceous microfossil distribution in the surficial sediments of Lake Baikal.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<label>[31]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thérézien]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[D’Algues d’Eau douce des mares de “La Siberia” en Bolivie.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<label>[32]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Van Dam]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mertens]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sinkeldam]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A coded checklist and ecological indicator values of freshwater diatoms from the Netherlands.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<label>[33]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Williams]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Round]]></surname>
+<given-names><![CDATA[F. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revision of the genus Fragilaria.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

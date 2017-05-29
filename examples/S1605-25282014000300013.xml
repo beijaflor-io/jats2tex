@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300013</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Un modelo socio-ecológico para establecer escenarios de dinámica de bofedales frente a los cambios globales]]></article-title>
+<article-title xml:lang="en"><![CDATA[Methods for building scenarios of wetland dynamics facing global changes: a social-ecological modeling approach]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[François]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[Olivier]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Institut de Recherche pour le Développement (IRD) Laboratoire Evolution, Génomes et Spéciation ]]></institution>
+<addr-line><![CDATA[Gif-sur-Yvette Cedex ]]></addr-line>
+<country>France</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>141</fpage>
+<lpage>153</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300013&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300013&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300013&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los bofedales constituyen sistemas socio-ecológicos donde los aspectos físicos, ecológicos y sociológicos están intrínsecamente interrelacionados para la comprensión de su dinámica frente al cambio global. Una manera de representar la complejidad de los bofedales es de representarla desde la perspectiva de sus componentes y así proponer una descripción natural del sistema donde los conocimientos de distintos campos pueden estar integrados y conectados. La modelización multi-agentes permite esta perspectiva, además de ofrecer una herramienta para considerar las dinámicas espaciales y temporales. El uso de modelos se justifica plenamente cuando no se pueden realizar experimentaciones por razones éticas o logísticas, como en sistemas socio-ecológicos. Los modelos describiendo la dinámica de los bofedales tienen que tomar en cuenta no solamente sus distintos componentes, pero también las interacciones entre ellos, la interface entre los campos científicos. De esta forma, se integran las características de los bofedales como sistemas complejos, con non-linealidad de las dinámicas y umbrales, bucles de retroactividad y heterogeneidad. Este artículo describe el uso de modelos multi-agentes para el caso específico de los bofedales de la Cordillera Real en Bolivia frente al efecto del cambio climático. Además, propone métodos de comunicación del modelo para que la representación del sistema sea compartida entre los distintos campos científicos y para que sea útil para la gran parte de la audiencia.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Wetlands are socio-ecological systems where the physical, ecological and sociological aspects are intrinsically related. These relations are critical to understand their dynamic face of global change. One way to represent the complexity of the wetlands is to represent them from the perspective of the core components and propose a natural description of the system where the knowledge of the different scientific disciplines can be integrated and connected. The agent-based modeling approach allows this perspective, and provides a tool to consider both the spatial and temporal dynamics. Using models is justified when experiments cannot be performed for ethical or logistical reasons, such as in socio-ecological systems. Models describing the dynamics of the wetlands have to take into account not only their different components, but also the interactions between them, at the interface between scientific disciplines and knowledge. Thus the characteristics of the wetlands as complex systems demonstrate non-linearity of the dynamics, thresholds, retroactive loops, and heterogeneity. This article describes the use of agent-based models for the specific case of the wetlands of the Cordillera Real in Bolivia facing climate change. It also proposes methods for communicating the model in order to get a shared representation of the system, but also to be useful for a broad audience.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bofedales]]></kwd>
+<kwd lng="es"><![CDATA[Cambio global]]></kwd>
+<kwd lng="es"><![CDATA[Modelos]]></kwd>
+<kwd lng="es"><![CDATA[Multi-agentes]]></kwd>
+<kwd lng="es"><![CDATA[Sistema socio-ecológico]]></kwd>
+<kwd lng="en"><![CDATA[Global change]]></kwd>
+<kwd lng="en"><![CDATA[Models]]></kwd>
+<kwd lng="en"><![CDATA[Multi-agent]]></kwd>
+<kwd lng="en"><![CDATA[Social-ecological system]]></kwd>
+<kwd lng="en"><![CDATA[Wetlands]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Un modelo socio-ecológico para establecer escenarios de dinámica de bofedales frente a los cambios globales</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Methods for building scenarios of wetland dynamics facing global changes: a social-ecological modeling approach</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>François Rebaudo<sup>1</sup>* &amp; Olivier Dangles<sup>1,2</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Institut de Recherche pour le Développement (IRD), UR 072, Laboratoire Evolution,</font> <font face="Verdana" size="2">Génomes et Spéciation, UPR 9034, Centre National de la Recherche Scientifique (CNRS),</font> <font face="Verdana" size="2">91198 Gif-sur-Yvette Cedex, France et Université Paris-Sud 11, 91405 Orsay Cedex, Francia.</font>    <br>   <font face="Verdana" size="2">*<b>Autora para correspondencia: </b><a href="mailto:francois.rebaudo@ird.fr">francois.rebaudo@ird.fr</a>    ]]></body>
+<body><![CDATA[<br>   <sup>2</sup>IRD, Whimper N30-62 y Coruña, Apartado postal 17-12-857, Quito, Ecuador</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales constituyen sistemas socio-ecológicos donde los aspectos físicos, ecológicos y sociológicos están intrínsecamente interrelacionados para la comprensión de su dinámica frente al cambio global. Una manera de representar la complejidad de los bofedales es de representarla desde la perspectiva de sus componentes y así proponer una descripción natural del sistema donde los conocimientos de distintos campos pueden estar integrados y conectados. La modelización multi-agentes permite esta perspectiva, además de ofrecer una herramienta para considerar las dinámicas espaciales y temporales. El uso de modelos se justifica plenamente cuando no se pueden realizar experimentaciones por razones éticas o logísticas, como en sistemas socio-ecológicos. Los modelos describiendo la dinámica de los bofedales tienen que tomar en cuenta no solamente sus distintos componentes, pero también las interacciones entre ellos, la interface entre los campos científicos. De esta forma, se integran las características de los bofedales como sistemas complejos, con non-linealidad de las dinámicas y umbrales, bucles de retroactividad y heterogeneidad. Este artículo describe el uso de modelos multi-agentes para el caso específico de los bofedales de la Cordillera Real en Bolivia frente al efecto del cambio climático. Además, propone métodos de comunicación del modelo para que la representación del sistema sea compartida entre los distintos campos científicos y para que sea útil para la gran parte de la audiencia. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Bofedales, Cambio global, Modelos, Multi-agentes, Sistema socio-ecológico.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Wetlands are socio-ecological systems where the physical, ecological and sociological aspects are intrinsically related. These relations are critical to understand their dynamic face of global change. One way to represent the complexity of the wetlands is to represent them from the perspective of the core components and propose a natural description of the system where the knowledge of the different scientific disciplines can be integrated and connected. The agent-based modeling approach allows this perspective, and provides a tool to consider both the spatial and temporal dynamics. Using models is justified when experiments cannot be performed for ethical or logistical reasons, such as in socio-ecological systems. Models describing the dynamics of the wetlands have to take into account not only their different components, but also the interactions between them, at the interface between scientific disciplines and knowledge. Thus the characteristics of the wetlands as complex systems demonstrate non-linearity of the dynamics, thresholds, retroactive loops, and heterogeneity. This article describes the use of agent-based models for the specific case of the wetlands of the Cordillera Real in Bolivia facing climate change. It also proposes methods for communicating the model in order to get a shared representation of the system, but also to be useful for a broad audience. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Global change, Models, Multi-agent, Social-ecological system, Wetlands.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="center"><font face="Verdana" size="2"><b>Los sistemas socio-ecológicos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Vivimos en un mundo dominado por el ser humano, donde los cambios que operan son más rápidos que nuestra capacidad para entender sus consecuencias (Vitousek <i>et al. </i>1997). Para estudiar la resiliencia, vulnerabilidad y adaptación de los sistemas que modificamos, los estudios sociales y ecológicos han evolucionado hacia un enfoque conectado, el de los sistemas socio-ecológicos. Los sistemas socio-ecológicos (SSE), también denominados sistemas acoplados naturales y humanos (Liu <i>et al. </i>2007a, An 2012) están compuestos de por lo menos dos subsistemas: un subsistema social (p.e., una comunidad de agricultores, una familia) y uno ecológico (p.e., una cuenca, un valle, una laguna). El aspecto clave de esos subsistemas es que interactúan entre ellos. En otros términos, existen influencias recíprocas entre los subsistemas. De esas interacciones resultan atributos a nivel del sistema global, que permiten caracterizar los sistemas socio-ecológicos. Los atributos principales de los sistemas socio-ecológicos, que a veces no se pueden observar en los subsistemas que lo componen, son 1) la no-linealidad de las dinámicas, 2) propiedades emergentes, 3) la existencia de varias escalas y 4) bucles de retroactividad (Chapin <i>et al. </i>2009, <a href="#f1">Fig. 1</a>).</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a13_figura_01.gif" width="733" height="350"></p>     <p align="justify"><font face="Verdana" size="2">La no-linealidad de las dinámicas se define por los cambios bruscos a partir de umbrales. Por ejemplo, en un gradiente de presión de pastoreo, el estado del sistema cambia de manera abrupta desde un estado sostenible hacia uno </font><font face="Verdana" size="2">no-sostenible (Kéfi <i>et al. </i>2007). Esos umbrales a veces son desconocidos y puede suceder que se encuentran solo sobrepasándolos. Para evitar esas situaciones, la experimentación en condiciones controladas es esencial, pero en los sistemas socio-ecológicos, suele pasar que la experimentación resulte difícil por razones éticas, logísticas o económicas. Un ejemplo es el impacto de la deforestación: del lado ecológico resulta difícil deforestar solo con el propósito de experimentar (ver el proyecto &quot;Biological dynamics of forest fragments&quot; cerca de Manaus en Brasil, Gascon &amp; Bierregaard 2001) y del lado ético, es imposible si hay poblaciones que dependen de los recursos forestales. Al nivel del sistema, resulta en incertidumbres sobre las dinámicas de los elementos del sistema.</font></p>     <p align="justify"><font face="Verdana" size="2">Las propiedades emergentes son propiedades que resultan de las interacciones entre elementos del sistema, de manera imprevisible. Atrás tenemos la idea de que &quot;el todo es más que la suma de las partes&quot;, para expresar el hecho que esas propiedades son poco o no deducibles gracias a los componentes del sistema. Por ejemplo, el crecimiento de plantas resulta de las interacciones con otras plantas y el medio ambiente, lo que permite explicar los patrones observados de distribución espacial de las plantas. Al contrario, algunos patrones no se pueden explicar sin considerar de manera conjunta los sistemas naturales y sociales (p.e., Kéfi <i>et al. </i>2007, donde la desertificación es descrita como una propiedad emergente del crecimiento de las plantas por la presión del pastoreo). De la misma manera, en el caso de los bofedales, el pastoreo y las preferencias de los camélidos por ciertas plantas resultan en </font><font face="Verdana" size="2">patrones de repartición espacial de plantas que emergen de las interacciones entre los sistemas sociales y naturales.</font></p>     <p align="justify"><font face="Verdana" size="2">La existencia de varias escalas se refiere a los mecanismos u observaciones que pueden observarse a una dicha escala y no a otra. Un ejemplo común es la distribución de los pulgones en los árboles (Townsend <i>et al. </i>2008): al nivel de la hoja, los pulgones están repartidos de manera regular, al nivel de la rama de manera aleatoria y al nivel del árbol, de manera agrupada. Según la escala, podemos describir la repartición de los pulgones de tres maneras distintas y cada subsistema hace parte del subsistema mayor. Cada escala tiene propiedades propias (como la repartición de pulgones), que en realidad están relacionadas. La consecuencia es que los sistemas socio-ecológicos deben tomar en cuenta varias escalas de manera simultánea. En el caso de los bofedales, las plantas están repartidas de manera regular al nivel de unos metros cuadrados dentro de un bofedal, agrupadas en el bofedal al nivel de unos kilómetros y aleatoria al nivel de decenas de kilómetros, cuando se consideran varios valles.</font></p>     <p align="justify"><font face="Verdana" size="2">Los bucles de retroactividad se refieren a los cambios iniciados por si mismos y quienes los</font> <font face="Verdana" size="2">afectan (Liu <i>et al. </i>2007b). Por ejemplo, a través de sus actividades, los humanos afectan los procesos ecológicos y al mismo tiempo están afectados por esos cambios (Cumming <i>et al. </i>2006). En el caso de los bofedales, por ejemplo, la ganadería puede afectar la disponibilidad de plantas y ésta puede afectar la capacidad de retención de agua, luego afecta al ganado.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">En un contexto de multidisciplinaridad en los estudios científicos, el enfoque en sistemas socio-ecológicos toma más importancia, subrayando la idea que un sistema social no puede ser estudiado sin considerar la parte ecológica y viceversa, que un sistema ecológico no puede ser estudiado sin considerar la parte social, a través de varias escalas temporales y espaciales (Carpenter &amp; Brock 2004). Los sistemas socio-ecológicos proveen servicios a los actores del sistema (p.e., pastos, agua), pero estos servicios están limitados y puede generarse una intensa competencia por ellos. En el caso de los bofedales, si un agricultor ocupa toda la zona de pasto, no estará disponible para los demás. En este caso se trata de &quot;recursos comunes&quot;, porque existe este potencial de rivalidad y al mismo tiempo, resulta difícil limitar el acceso a los recursos. El entender </font><font face="Verdana" size="2">la dinámica de los sistemas socio-ecológicos requiere identificar las características del sistema y las interacciones entre elementos del sistema en el espacio y tiempo (Ostrom 2009). Debido a las dificultades éticas y logísticas para realizar experimentaciones con poblaciones humanas, el estudio y la exploración de la complejidad de los sistemas socio-ecológicos se hacen a través de modelos de simulación, como representaciones simplificada del sistema estudiado.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Representación de los sistemas socio-ecológicos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Un modelo es una representación simplificada de la realidad. Como representación, no toma en cuenta todos los aspectos del sistema estudiado, pero solo los aspectos que permiten responder a una (o varias) preguntas específicas. Así, un modelo es construido con un propósito determinado y responde a una problemática en un contexto determinado. Si el contexto científico requiere responder a varias preguntas, entonces se establecerán varios modelos. En el caso de los modelos clásicos, las recomendaciones serán utilizar los elementos claves de un sistema, que se podría expresar para mantener lo más simple posible (en inglés: KISS, <i>Keep It Simple Stupid!, </i>Edmonds &amp; Moss 2005). Sin embargo, si este principio de diseño funciona para construir modelos simples, en el caso de sistema socio-ecológico no se puede aplicar justamente porque no se puede predecir cuáles son los elementos e interacciones claves del sistema que conducen a lo que observamos sobre el terreno. La alternativa consensuada en la esfera científica en el caso de los sistemas socio-ecológicos es de considerar los elementos y interacciones que se pueden describir y tomar en cuenta solamente si las simplificaciones se justifican (Edmonds &amp; Moss 2005).</font></p>     <p align="justify"><font face="Verdana" size="2">Un modelo de simulación es dinámico: el sistema representado evoluciona con el tiempo. Así, un modelo de simulación representa la dinámica de elementos en el tiempo, con la </font><font face="Verdana" size="2">posibilidad de también tomar en cuenta el espacio. Debido a las características de los sistemas socio-ecológicos, donde el resultado de las interacciones no se puede predecir antes que sucedan, se utilizan representaciones dinámicas de los elementos y entonces son modelos de simulación. En los modelos de simulación, un enfoque para el estudio de los sistemas socio-ecológicos es el enfoque ascendente. En este enfoque, desde las características de los elementos y de las interacciones, se observa el todo (el sistema en su globalidad) en comparación con el descendente, en el cual desde la observación del todo, se deducen los elementos y las interacciones (Crespi <i>et al. </i>2008). El enfoque descendente corresponde al análisis de un sistema con el objetivo de deducir los subsistemas que lo componen; en uno descendente, una visión general del sistema está formulado y especificado, pero sin detallar los subsistemas. Después, cada subsistema se refina en mayor detalle hasta que toda la especificación se reduce a los elementos e interacciones. Al contrario, el enfoque ascendente consiste en unir los elementos e interacciones del sistema para dar lugar a sistemas más complejos, emergentes de los elementos e interacciones iniciales.</font></p>     <p align="justify"><font face="Verdana" size="2">Un tipo de modelo de simulación ascendente son los modelos multi-agentes (MMA). Este toma en cuenta los elementos del sistema en forma de entidades autónomas que interactúan las unas con las otras y con el medio ambiente (Bonabeau 2002). Los MMA permiten hacer hipótesis sobre los mecanismos e interacciones que conducen a los resultados que se pueden observar al nivel global, mediante una construcción artificial de agentes. Debido a esas particularidades, los MMA están presentidos como un desarrollo revolucionario en muchas esferas científicas, como en las ciencias sociales (Bankes 2002). Se encuentran muchos ejemplos del uso de los MMA en la literatura, desde ciencias económicas hasta ecológicas (Grimm 1999), como para la exploración de los sistemas socio-ecológicos. Por ejemplo, en el caso de estudios sobre los cambios antrópicos del uso </font><font face="Verdana" size="2">y cobertura del suelo, los MMA permitieron un enfoque sobre las interacciones humano-medio ambiente, para proponer escenarios y disponer de una herramienta para los tomadores de decisión (Parker <i>et al. </i>2003). En un contexto agrícola, otros autores los usaron para estudiar la difusión de innovaciones tecnológicas (Berger 2001) o para la dispersión de plagas invasoras (Crespo-Pérez <i>et al. </i>2011, Rebaudo &amp; Dangles 2011). Otros autores los usaron para explicar los patrones de establecimiento de poblaciones humanas alrededor del Lago Titicaca (Griffin &amp; Stanish 2007) y para entender la dinámica de la enfermedad de chagas (Devillers <i>et al. </i>2008, Rebaudo <i>et al. </i>2014b).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Los bofedales como sistemas socio-ecológicos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Por la complejidad de las interacciones socio-ecológicas de los bofedales, constituyen obras de estudio multidisciplinarias, la interface entre los campos científicos y tipos de conocimiento (Dangles <i>et al. </i>en este número especial). Con </font><font face="Verdana" size="2">una dinámica espacial bajo la influencia de los glaciares, precipitaciones y características físicas (Zeballos <i>et al. </i>en este número especial), de los bofedales depende las comunidades acuáticas (Gonzales <i>et al. </i>en este número especial), aves (Naoki <i>et al. </i>en este número especial) y vegetación (Meneses <i>et al. </i>en este número especial). Además, los bofedales proveen a las poblaciones humanas locales servicios como las áreas de pastoreo (Cochi <i>et al. </i>en este número especial), los cuales afectan las comunidades vegetales (García <i>et al. </i>en este número especial) y retroactivamente en las decisiones de los humanos respecto al manejo (Hoffmann <i>et al. </i>en este número especial). Este funcionamiento con sistemas intrínsecamente conectados - incluyendo interacciones entre subsistemas físicos, ecológicos y sociales - tiene las características de sistemas complejos. Desde esta perspectiva, el paradigma agente parece adaptado para conectar datos de glaciología, ecología, agronomía y sociología (ver <a href="#f2">Fig. 2</a> donde los actores del sistema perciben el medio ambiente, tienen una acción y están</font> <font face="Verdana" size="2">afectando los procesos ecológicos a varias escalas temporales y espaciales y donde los procesos pueden estudiarse desde el individuo hasta las metacomunidades). El objetivo de este artículo es de presentar la metodología para construir modelos multi-agentes en el caso de las bofedales de la Cordillera Real de Bolivia como sistemas socio-ecológicos. Estos modelos serán usados para estudiar el efecto del cambio climático sobre los bofedales y sus servicios ecológicos inherentes. Más allá de los bofedales, la metodología podría ser usada en otros estudios relacionados con el manejo de sistemas socio-ecológicos.</font></p>     <p align="justify"><a name="f2"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/reb/v49n3/a13_figura_02.gif" width="725" height="424"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="justify"><font face="Verdana" size="2">El modelamiento socio-económico consiste de nueve fases: 1) definir los objetivos, 2) describir el sistema y definir los elementos, 3) determinar las escalas temporales y espaciales, 4) evaluar la presencia de los elementos, 5) construir un modelo conceptual, 6) implementar el modelo, 7) verificary validar el modelo, 8) hacer análisis de sensibilidad y 9) comunicar el modelo.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Definir los objetivos científicos atrás de los modelos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Como hemos indicado, un modelo está desarrollado en un contexto específico para responder a una problemática definida (definición <i>a priori </i>en el contexto de un programa científico; en nuestro caso el programa científico BIOTHAW; <a href="http://www.biothaw.ird.fr" target="_blank">www.biothaw.ird.fr</a>). En el caso de los bofedales, el objetivo es estudiar el efecto del cambio climático sobre los bofedales y sus servicios inherentes. Otro objetivo es reunir, organizar y estructurar el conocimiento sobre los bofedales para que sea compartido, accesible y transferible con el fin de tener una visión común de los bofedales entre los campos científicos (ver <a href="#f3">Fig. 3</a> para una representación de los métodos). Según la compatibilidad entre los objetivos, se puede desarrollar uno o varios modelos.</font></p>     <p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a13_figura_03.gif" width="732" height="682"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Describir el sistema y definir los elementos constitutivos del sistema</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Conjuntamente con los científicos de los distintos campos, en un proceso de modelización participativa (Voinov &amp; Bousquet 2010); esta fase consiste en la descripción del sistema con sus distintos subsistemas y elementos. Un enfoque importante en la descripción del subsistema social es el de tomar en cuenta los elementos de importancia para los actores aunque puedan no estar directamente relacionados con las dinámicas ecológicas. La participación de los actores para describir el sistema es clave para incluir los elementos que determinan las acciones, por ejemplo usando encuestas (Walker <i>et al. </i>2002). En el caso de los bofedales, las oportunidades de trabajo en la ciudad o en el cultivo de papa, pueden influenciar la disponibilidad de los actores para manejarlos (Hoffmann <i>et al. </i>en este número especial) y como tal debe aparecer en los modelos desarrollados. Debido al enfoque ascendente, el tipo de datos considera el nivel individual de la unidad familiar, así que cuando existe heterogeneidad en los comportamientos, se la puede integrar en los modelos.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Definir las escalas temporales y espaciales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Una fase del desarrollo de MMA es definir los límites de las escalas temporales y espaciales. Este cuestionamiento permite limitar la complejidad del modelo a los objetivos científicos, con la idea que un modelo está desarrollado para responder a una problemática definida. La definición de límites no impide la co-existencia de varias escalas temporales y espaciales. En nuestro caso, la dinámica de los invertebrados acuáticos en las pozas requiere una escala temporal en semanas (Gonzales <i>et al. </i>en este número especial), mientras que la dinámica de las plantas puede requerir una escala temporal en décadas (Meneses <i>et al. </i>en este número especial).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Caracterizar los elementos y las relaciones entre ellos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Una vez que están definidos los distintos subsistemas y elementos, se pueden caracterizar los elementos respecto a las escalas temporales y espaciales definidas. El objetivo de esta fase es de determinar las variables que pueden ser cuantitativas o cualitativas. En este momento se puede clasificar las variables según estén controladas por acciones humanas (y como tal </font><font face="Verdana" size="2">que pueden cambiar) o por características del medio ambiente. Al mismo tiempo, se puede describir las conocidas con exactitud y las desconocidas. En esta fase se define también como un elemento o un subsistema la influencia de otro elemento o subsistema. Esas relaciones permiten el desarrollo del modelo conceptual. Por ejemplo, la biodiversidad de vegetación está relacionada con potencial productivo para la ganadería, la cual está manejada por los agricultores (<a href="#f4">Fig. 4</a>).</font></p>     <p align="justify"><a name="f4"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a13_figura_04.gif" width="733" height="432"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Co-construir un modelo conceptual</b></font></p>     <p align="justify"><font face="Verdana" size="2">El modelo conceptual es una representación del sistema que permite intercambiar los puntos de vista sobre los subsistemas, elementos y escalas del sistema. Es una representación de la estructura de la información, desde su punto de vista y con las distintas relaciones entre ellas. Suele representarse mediante una herramienta física como un diagrama, p.e., diagrama de clases con UML (Bersini 2011), un dibujo o un texto (ver <a href="#f4">Fig. 4</a> para una representación simplificada del modelo conceptual de bofedales). Debido a la complejidad de los sistemas socio-ecológicos, el soporte físico no es suficiente para realizar simulaciones. Para eso la siguiente etapa es la de implementar el modelo en un soporte informático.</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="2"><b>Implementar el modelo</b></font></p>     <p align="justify"><font face="Verdana" size="2">La implementación de MMA puede hacerse con cualquier lenguaje de programación. En</font> <font face="Verdana" size="2">la programación tradicional, los programas se componen de un conjunto de instrucciones ejecutadas una tras otra. En la programación orientada a objetos, los programas consisten en un conjunto de bloques de código independientes llamados objetos. Cada objeto se caracteriza por sus atributos y métodos. Así, las similitudes entre el paradigma agente y los lenguajes de programación orientados a objetos hacen que esos últimos sean preferidos para la implementación. Con el uso exponencial de los MMA en los últimos 15 años, están disponibles y confiables plataformas específicas para el desarrollo de MMA. Esas plataformas de programación permiten simplificar el trabajo de implementación. Para el manejo de recursos naturales y sistemas socio-ecológicos, existen las plataformas CORMAS (<a href="http://cormas.cirad.fr/" target="_blank">http://cormas.cirad.fr/</a>) (Bousquet <i>et al. </i>1998), GAMA </font> <font face="Verdana" size="2">(<a href="https://code.google.com/p/gama-platform/" target="_blank">https://code.google.com/p/gama-platform/</a>)(Grignardetal. 2013) y NetLogo (<a href="http://ccl.northwestern.edu/netlogo/" target="_blank">http://ccl.northwestern.edu/netlogo/</a>) (Wilensky 1999) (ver Klügl &amp; Bazzan 2012 para una descripción de otras plataformas para MMA).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Verificar y validar el modelo</b></font></p>     <p align="justify"><font face="Verdana" size="2">Un aspecto importante de la modelización es de poder confiar en los resultados del modelo para usarlos. Con este propósito, resulta fundamental el verificar y validar los modelos. La verificación se refiere a la demostración que el formalismo del modelo es correcto o en otros términos, que lo implementado corresponde con lo que se hubiera debido implementar (Rykiel Jr. 1996). La validación se refiere a la demostración que el modelo se comporta con un nivel aceptable de precisión en su rango de aplicabilidad, para responder al cuestionamiento científico específico (Rykiel Jr. 1996). En el caso de los bofedales como en muchos casos relacionados con datos empíricos, una manera de validar un modelo es utilizar una parte de los datos para calibrar el modelo y otra para validarlo (en nuestro caso, calibrar el modelo con la mitad del muestreo de invertebrados acuáticos y luego validarlo con la otra mitad). En el caso de MMA, la modelización orientada bajo patrones (del inglés: <i>pattern-oriented modelling, </i>Grimm &amp; Railsback 2012) es una estrategia para validar modelos tomando en cuenta distintas escalas y niveles de organización. Desde la descripción del sistema, se han observado patrones que caracterizan al sistema estudiado. El propósito de la modelización orientada bajo patrones es el de verificar que el modelo reproduce esos patrones espaciales y/o temporales. En el caso de los bofedales puede ser el nivel de biodiversidad al nivel de 1) un bofedal, de 2) dos bofedales o de 3) un valle entero, respecto a los invertebrados acuáticos (Gonzales <i>et al. </i>en este número especial) o de la vegetación (Meneses <i>et al. </i>en este número especial). Una primera fase consiste en enumerar los patrones observados a distintos niveles de observación (tanto espacial como temporal) y después en una segunda para comprobar que el modelo reproduce esos patrones. En el caso de las aves, se puede tratar de la relación entre número de especies y área de muestreo (Naoki <i>et al. </i>en este número especial).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Análisis de sensibilidad y resultados</b></font></p>     <p align="justify"><font face="Verdana" size="2">Aunque el modelo sea verificado y validado, quedan variables por que el nivel de incertidumbre es alto o por los cuales la cuantificación resulta difícil (en particular para subsistemas sociales). Para conocer el efecto en los resultados de las variaciones de esas variables, se realizan análisis de sensibilidad. Estos se realizan por múltiples repeticiones de simulación con distintas inicializaciones. Este proceso necesita poder correr en paralelo con varias simulaciones en una red de computadoras o un servidor. Con este propósito existe la herramienta OpenMole (<A href=http://www.openmole.org/)>http://www.openmole.org/)</A> (Reuillon <i>et al. </i>2013), que permite automatizar este proceso y enfocarse en la ciencia. Al final, los análisis de sensibilidad permiten cuantificar el efecto de una variable sobre el sistema y de establecer un rango de las variables de interés, como en este caso será el efecto del cambio climático sobre los bofedales y sus servicios inherentes. Así, los análisis de sensibilidad indican las variables que más influyen en los resultados del modelo. En una segunda fase y conociendo las variables sobre las cuales las acciones o incentivos pueden realizarse y las que van a cambiar por el cambio climático, se puede establecer escenarios de la dinámica temporal de los bofedales. Esos escenarios permiten estudiar las acciones que podrían favorecer o al contrario disminuir determinado servicio de los bofedales.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Comunicar el modelo</b></font></p>     <p align="justify"><font face="Verdana" size="2">Para comunicar sobre los resultados y convencer sobre la pertinencia de esos resultados, se necesita reproducirlos (Peng 2011), pero también documentar el modelo para que sea entendible. Existen varios protocolos para documentar un modelo (ver Müller <i>et al. </i>2014). Para los MMA, un protocolo de referencia es el resumen, conceptos de diseño y detalles (en inglés: <i>Overview, Design concepts, and Details), </i>que se propone como un formato común para </font><font face="Verdana" size="2">la descripción de los MMA (Grimm <i>et al. </i>2010). En el caso de los bofedales como para cualquier modelo, la documentación es un elemento clave no solamente para convencer sobre la pertinencia de los resultados, sino para que la información sobre el sistema estudiado sea compartida, accesible y transferible con el fin de procurar una visión común del sistema a nivel científico.</font></p>     <p align="justify"><font face="Verdana" size="2">Otra manera de comunicar los resultados de los modelos es utilizarlos como soporte de discusión, a través de juegos de roles (Barreteau <i>et al. </i>2001). En los juegos de roles cada participante toma el papel de un actor del sistema estudiado con el objetivo de comunicar sobre el funcionamiento del sistema, pero también para entender las obligaciones y posibilidades de los demás y así acordarse sobre maneras de gestionar el sistema estudiado (<a href="#f5">Fig. 5</a>). Cuando la complejidad del sistema lo necesita, el juego de roles puede basarse en un modelo informático, para facilitar el análisis de las consecuencias de acciones de los participantes del juego de roles (Rebaudo <i>et al. </i>2014a). En nuestro caso, los actores </font><font face="Verdana" size="2">de los bofedales pueden ser los ganaderos, pero también instituciones comunitarias o gubernamentales. Los destinatarios del juego de roles pueden ser los ganaderos e instituciones y estudiantes para sensibilizar al manejo de recursos comunes, pero también políticos y científicos para analizar métodos o alternativas de gestión.</font></p>     <p align="justify"><a name="f5"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/reb/v49n3/a13_figura_05.jpg" width="722" height="426"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusión</b></font></p>     <p align="justify"><font face="Verdana" size="2">Como para cualquier tipo de representación simplificada, el uso de los MMA tiene límites. Un modelo está implementado para responder a una pregunta científica, aunque dentro de un programa científico, como BIOTHAW existen varias preguntas propias a cada materia. Para superar este límite, un método consiste en reunir a los colaboradores alrededor de una orientación científica consensual. En nuestro caso, el objetivo es de establecer escenarios de la dinámica de los bofedales frente a los cambios globales, con sus causantes y consecuencias socio-ecológicas. Otro método puede consistir en el desarrollo de varios modelos, cada uno enfocado a una </font><font face="Verdana" size="2">pregunta particular. El desarrollar modelos para conectar datos de distintos campos científicos queda como uno de los retos más importantes para los sistemas socio-ecológicos, debido a la complejidad de esos sistemas y la diversidad de los conocimientos en cada materia. Este reto no es específico de los MMA, sino de todo tipo de modelización (Filatova <i>et al. </i>2013). Una de las ventajas de los MMA es que permiten integrar más información, en particular para los sistemas sociales (An 2012). La conexión con modelos sociales aporta beneficios para trabajar con actores de los sistemas estudiados y definir métodos para la modelización participativa (p.e., método ARDI para los recursos naturales en Etienne <i>et al. </i>2011 aplicado a los bofedales, la integración del subsistema social permite construir escenarios usando variables sobre los cuales incentivos humanos (comunidades, gobierno) podrían tomar un papel importante para evaluar y reducir el efecto del cambio climático sobre los bofedales y sus servicios inherentes. De manera general, en sistemas socio-ecológicos suele pasar que las únicas variables sobre las cuales se incentiva son posibles y están relacionadas con el subsistema social, subrayando la importancia de trabajar con actores locales para la comprensión de la dinámica de funcionamiento del sistema. Los MMA permiten este enfoque para conectar datos multidisciplinarios y construir modelos para estudiar el comportamiento del sistema; a través de este comportamiento, evaluar la capacidad del sistema a adaptarse frente a cambios climáticos, p.e., evaluar la resiliencia del sistema.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los protocolos presentados en este artículo han sido desarrollados y aplicados en estudios financiados por el programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la </font><font face="Verdana" size="2">Fondation pour la Recherche sur la Biodiversité (FRB). Agradecemos a los editores de este número especial de Ecología en Bolivia por la invitación.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">An, L. 2012. Modeling human decisions in coupled human and natural systems: Review of agent-based models. Ecological Modelling 229: 25-36.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Bankes, S. C. 2002. Agent-based modeling: A revolution? Proceedings of the National Academy of Sciences of the USA 99: 7199-7200.</font></p>     <p align="justify"><font face="Verdana" size="2">Barreteau, O., F. Bousquet &amp; J.-M. Attonaty. 2001. Role-playing games for opening the blackbox of multi-agent systems: method and lessons of its application to Senegal River. Journal of Artificial Societies and Social Simulation 4(2): 5.</font></p>     <p align="justify"><font face="Verdana" size="2">Berger, T. 2001. Agent-based spatial models applied to agriculture: a simulation tool for technology diffusion, resource use changes and policy analysis. Agricultural Economics 25(2-3): 245-260.</font></p>     <p align="justify"><font face="Verdana" size="2">Bersini, H. 2011. UML for ABM. Journal of Artificial Societies and Social Simulation 15(1): 9.</font></p>     <p align="justify"><font face="Verdana" size="2">Bonabeau, E. 2002. Agent-based modeling: methods and techniques for simulating human systems. Proceedings of the National Academy of Sciences 99(90003): 7280-7287.</font></p>     <p align="justify"><font face="Verdana" size="2">Bousquet, F., I. Bakam, H. Proton &amp; C. Le Page. 1998. Cormas: common-pool resources and multi-agent systems. Lecture Notes in Computer Science 1416: 826-837.</font></p>     <p align="justify"><font face="Verdana" size="2">Carpenter, S.R. &amp; W. A. Brock. 2004. Spatial complexity, resilience, and policy diversity: fishing on lake-rich landscapes. Ecology and Society 9(1): 8.</font></p>     <p align="justify"><font face="Verdana" size="2">Chapin, F. S., G. P. Kofinas, C. Folke, S. R. Carpenter, P. Olsson, N. Abel, R. Biggs, R. L. Naylor, E. Pinkerton, D. M. S. Smith, W. Steffen, B. Walker &amp; O. R. Young. 2009. Resilience-based stewardship: strategies for navigating sustainable pathways in a </font><font face="Verdana" size="2">changing world. pp. 319-337. En: Folke, C., G. P. Kofinas &amp; F. S. Chapin (eds). Principles of Ecosystem Stewardship. Springer, Nueva York.</font></p>     <p align="justify"><font face="Verdana" size="2">Crespi, V., A. Galstyan &amp; K. Lerman. 2008. Top-down vs bottom-up methodologies in multi-agent system design. Autonomous Robots 24(3): 303-313.</font></p>     <p align="justify"><font face="Verdana" size="2">Crespo-Pérez, V., F. Rebaudo, J.-F. Silvain &amp; O. Dangles. 2011. Modeling invasive species spread in complex landscapes: the case of potato moth in Ecuador. Landscape Ecology 26(10): 1447-1461.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Cumming, G. S., D. H. M. Cumming &amp; C. L. Redman. 2006. Scale mismatches in social-ecological systems: causes, consequences, and solutions. Ecology and Society 11(1): 14.</font></p>     <p align="justify"><font face="Verdana" size="2">Devillers, H., J. R. Lobry &amp; F. Menu. 2008. An agent-based model for predicting the prevalence of <i>Trypanosoma cruzi </i>I and II in their host and vector populations. Journal of Theoretical Biology 255(3): 307-315.</font></p>     <p align="justify"><font face="Verdana" size="2">Edmonds, B. &amp; S. Moss. 2005. From KISS to KIDS - an &quot;anti-simplistic&quot; modelling approach. pp. 130-144. En: Davidsson, P., B. Logan &amp; K. Takadama (eds.) Multi-Agent and Multi-Agent-Based Simulation. Lecture Notes in Computer Science. Springer, Berlin-Heidelberg.</font></p>     <p align="justify"><font face="Verdana" size="2">Etienne, M., D. R. Du Toit &amp; S. Pollard. 2011. ARDI: a co-construction method for participatory modeling in natural resources management. Ecology and Society 16(1): 44.</font></p>     <p align="justify"><font face="Verdana" size="2">Filatova, T., P. H. Verburg, D. C. Parker &amp; C. A. Stannard. 2013. Spatial agent-based models for socio-ecological systems: challenges and prospects. Environmental Modelling &amp; Software 45:1-7.</font></p>     <p align="justify"><font face="Verdana" size="2">Gascon, C., &amp; R. O. Bierregaard Jr. 2001. The Biological Dynamics of Forest Fragments Project. pp. 31-42. En: Bierregaard, R. O. Jr., C. Gascon, T. E. Lovejoy &amp;R.Mesquita (eds.) Lessons from Amazonia. Yale University Press, New Haven.</font></p>     <p align="justify"><font face="Verdana" size="2">Griffin, A. F. &amp; C. Stanish. 2007. An agent-based model of prehistoric settlement patterns and political consolidation in the Lake Titicaca basin of Perú and Bolivia. Structure and Dynamics 2(2). <a href="https://escholarship.org/uc/item/2zd1t887" target="_blank">https://escholarship.org/uc/item/2zd1t887</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Grignard, A. P. Taillandier, B. Gaudou . D. H. Vo, N. Q. Huynh , A. Drogoul, G. Boella, E. Elkind, B. T. R. Savarimuthu, Dignum F. &amp; M. K. Purvis. 2013. GAMA 1.6: Advancing the art of complex agent-based modeling and simulation. pp. 117-131. En: Boella, G, E. Elkind , B. T. R. Savarimuthu, F. Dignum &amp; M. K. Purvis (eds.) PRIMA2013: Principles and Practice of Multi-Agent Systems, Lecture Notes in Computer Science. Springer, Berlin-Heidelberg.</font></p>     <p align="justify"><font face="Verdana" size="2">Grimm, V. 1999. Ten years of individual-based modelling in ecology: what have we learned and what could we learn in the future? Ecological Modelling 115(2-3): 129-148.</font></p>     <p align="justify"><font face="Verdana" size="2">Grimm, V., U. Berger, D. L. DeAngelis, J. G. Polhill, J. Giske &amp; S. F. Railsback. 2010. The ODD protocol: A review and first update. Ecological Modelling 221(23): 2760-2768.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Grimm, V. &amp; S.F. Railsback. 2012. Pattern-oriented modelling: a &quot;multi-scope&quot; for predictive systems ecology. Philosophical Transactions of the Royal Society B: Biological Sciences 367(1586): 298-310.</font></p>     <p align="justify"><font face="Verdana" size="2">Kéfi, S., M. Rietkerk, C. L. Alados, Y. Pueyo, V. P. Papanastasis, A. ElAich &amp; P. C. de Ruiter. 2007. Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems. Nature 449(7159): 213-217.</font></p>     <p align="justify"><font face="Verdana" size="2">Klügl F. &amp; A. L. C. Bazzan. 2012. Agent-based modeling and simulation. AI Magazine 33(3): 29.</font></p>     <p align="justify"><font face="Verdana" size="2">Liu, J., T. Dietz, C. R. Carpenter, M. Alberti, C. Folke, E. Moran, A. N. Pell, P. Deadman, T. Kratz, J. Lubchenco, E. Ostrom, Z. Ouyang, W. Provencher, C. L. Redman, S. H. Schneider &amp; W. W. Taylor. 2007a. Complexity of coupled human and natural systems. Science 317(5844): 1513-1516.</font></p>     <p align="justify"><font face="Verdana" size="2">Liu, J., T. Dietz, S. R. Carpenter, C. Folke, M. Alberti, C. L. Redman, S. H. Schneider, E. Ostrom, A. N. Pell, J. Lubchenco, W. W. Taylor, Z. Ouyang, P. Deadman, T. Kratz &amp; W. Provencher. 2007b. Coupled human and natural systems. AMBIO: A Journal of the Human Environment 36(8): 639-649.</font></p>     <p align="justify"><font face="Verdana" size="2">Müller, B., S. Balbi, C. M. Buchmann, L. de Sousa, G. Dressler, J. Groeneveld, C. J. Klassert, Q. B. Le , J. D. A. Millington, H. Nolzen, D. C. Parker, J. G. Polhill, M. Schlüter, J. Schulze, N. Schwarz, Z. Sun, P. Taillandier &amp; A. Weise. 2014. Standardised and transparent model descriptions for agent-based models: current status and prospects. Environmental Modelling &amp; Software 55(0): 156-163.</font></p>     <p align="justify"><font face="Verdana" size="2">Ostrom, E. 2009. A general framework for analyzing sustainability of social-ecological systems. Science 325(5939): 419-422.</font></p>     <p align="justify"><font face="Verdana" size="2">Parker, D. C., S. M. Manson, J. A. Janssen, M. J. Hoffmann &amp; P. Deadman. 2003. Multi-agent systems for the simulation of land-use and land-cover change: a review. Annals of the Association of American Geographers 93(2): 314-337.</font></p>     <p align="justify"><font face="Verdana" size="2">Peng, R. D. 2011. Reproducible research in computational science. Science 334(6060): 1226-1227.</font></p>     <p align="justify"><font face="Verdana" size="2">Rebaudo, F., C. Carpio, V. Crespo-Pérez, M. Herrera, M. A. de Scurrah, R. C. Canto, A. G. Montañez, A. Bonifacio, M. Mamani, R. Saravia &amp; O. Dangles. 2014a. Agent-based Models and integrated pest management diffusion in small scale farmer communities. pp. 367-383. En: Peshin, R. &amp;D. Pimentel (eds.) Integrated Pest Management. Springer, Dordrecht.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Rebaudo, F., J. Costa, C. E. Almeida, J.-F. Silvain, M. Harry &amp;O. Dangles. 2014b. Simulating </font><font face="Verdana" size="2">population genetics of pathogen vectors in changing landscapes: guidelines and application with <i>Triatoma brasiliensis. </i>PLoS Neglected Tropical Diseases 8(8). DOI:<a href="http://dx.doi.org/10.1371/journal.pntd.0003068" target="_blank">10.1371/journal.pntd.0003068</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Rebaudo, F. &amp; O. Dangles. 2011. Coupled information diffusion-pest dynamics models predict delayed benefits of farmer cooperation in pest management programs.PLoS Computational Biology 7(10).DOI:10.1371/journal.pcbi.1002222.</font></p>     <p align="justify"><font face="Verdana" size="2">Reuillon, R., M. Leclaire &amp; S. Rey-Coyrehourcq. 2013. OpenMOLE, a workflow engine specifically tailored for the distributed exploration of simulation models. Including Special sections: Advanced Cloud Monitoring Systems &amp; The fourth IEEE International Conference on e-Science2011 — e-Science Applications and Tools &amp; Cluster, Grid, and Cloud Computing, 29:1981-1990.</font></p>     <p align="justify"><font face="Verdana" size="2">Rykiel, Jr. E. J. 1996. Testing ecological models: the meaning of validation. Ecological Modelling 90(3): 229-244.</font></p>     <p align="justify"><font face="Verdana" size="2">Townsend, C. R., M. Begon &amp; J. L. Harper. 2008. Essentials of ecology. Blackwell, Malden. 510 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Vitousek, P. M., H. A. Mooney, J. Lubchenco &amp; J. M. Melillo. 1997. Human domination of earth's ecosystems. Science 277(5325): 494-499<i>.</i></font></p>     <p align="justify"><font face="Verdana" size="2">Voinov, A. &amp; F. Bousquet. 2010. Modelling with stakeholders. Environmental Modelling &amp; Software 25(11): 1268-1281.</font></p>     <p align="justify"><font face="Verdana" size="2">Walker, B., S. R. Carpenter, J. M. Anderies, N. Abel, G. Cumming, J. A. Janssen, L. Lebel, J. Norberg, G. D. Peterson &amp; R. Pritchard. 2002. Resilience management in social-ecological systems: a working hypothesis for a participatory approach. Conservation Ecology 6(1): 14.</font></p>     <p align="justify"><font face="Verdana" size="2">Wilensky, U. 1999. NetLogo. <a href="http://ccl.northwestern.edu/netlogo/" target="_blank">http://ccl.northwestern.edu/netlogo/</a>. Center for connected learning and computer-based modeling, Northwestern University. Evanston.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[An]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modeling human decisions in coupled human and natural systems: Review of agent-based models]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2012</year>
+<numero>229</numero>
+<issue>229</issue>
+<page-range>25-36</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bankes]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based modeling: A revolution?]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences of the USA]]></source>
+<year>2002</year>
+<numero>99</numero>
+<issue>99</issue>
+<page-range>7199-7200</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barreteau]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bousquet]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Attonaty]]></surname>
+<given-names><![CDATA[J.-M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Role-playing games for opening the blackbox of multi-agent systems: method and lessons of its application to Senegal River]]></article-title>
+<source><![CDATA[Journal of Artificial Societies and Social Simulation]]></source>
+<year>2001</year>
+<volume>4</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>5</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Berger]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based spatial models applied to agriculture: a simulation tool for technology diffusion, resource use changes and policy analysis]]></article-title>
+<source><![CDATA[Agricultural Economics]]></source>
+<year>2001</year>
+<volume>25</volume>
+<numero>2-3</numero>
+<issue>2-3</issue>
+<page-range>245-260</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bersini]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[UML for ABM]]></article-title>
+<source><![CDATA[Journal of Artificial Societies and Social Simulation]]></source>
+<year>2011</year>
+<volume>15</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>9</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bonabeau]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based modeling: methods and techniques for simulating human systems]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences]]></source>
+<year>2002</year>
+<volume>99</volume>
+<numero>90003</numero>
+<issue>90003</issue>
+<page-range>7280-7287</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bousquet]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bakam]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Proton]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le Page]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cormas: common-pool resources and multi-agent systems]]></article-title>
+<source><![CDATA[Lecture Notes in Computer Science]]></source>
+<year>1998</year>
+<numero>1416</numero>
+<issue>1416</issue>
+<page-range>826-837</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brock]]></surname>
+<given-names><![CDATA[W.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial complexity, resilience, and policy diversity: fishing on lake-rich landscapes]]></article-title>
+<source><![CDATA[Ecology and Society]]></source>
+<year>2004</year>
+<volume>9</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>8</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chapin]]></surname>
+<given-names><![CDATA[F.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kofinas]]></surname>
+<given-names><![CDATA[G.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Folke]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olsson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abel]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Biggs]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Naylor]]></surname>
+<given-names><![CDATA[R.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pinkerton]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[D.M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steffen]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Young]]></surname>
+<given-names><![CDATA[O.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Resilience-based stewardship: strategies for navigating sustainable pathways in a changing world.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Folke]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kofinas]]></surname>
+<given-names><![CDATA[G.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chapin]]></surname>
+<given-names><![CDATA[F.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principles of Ecosystem Stewardship]]></source>
+<year>2009</year>
+<page-range>319-337</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Crespi]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galstyan]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lerman]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Top-down vs bottom-up methodologies in multi-agent system design]]></article-title>
+<source><![CDATA[Autonomous Robots]]></source>
+<year>2008</year>
+<volume>24</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>303-313</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Crespo-Pérez]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silvain]]></surname>
+<given-names><![CDATA[J.-F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modeling invasive species spread in complex landscapes: the case of potato moth in Ecuador]]></article-title>
+<source><![CDATA[Landscape Ecology]]></source>
+<year>2011</year>
+<volume>26</volume>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>1447-1461</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cumming]]></surname>
+<given-names><![CDATA[G.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cumming]]></surname>
+<given-names><![CDATA[D.H.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redman]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Scale mismatches in social-ecological systems: causes, consequences, and solutions]]></article-title>
+<source><![CDATA[Ecology and Society]]></source>
+<year>2006</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>14</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Devillers]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lobry]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Menu]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An agent-based model for predicting the prevalence of Trypanosoma cruzi I and II in their host and vector populations]]></article-title>
+<source><![CDATA[Journal of Theoretical Biology]]></source>
+<year>2008</year>
+<volume>255</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>307-315</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Edmonds]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moss]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[From KISS to KIDS - an "anti-simplistic" modelling approach.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Davidsson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Logan]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Takadama]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Multi-Agent and Multi-Agent-Based Simulation]]></source>
+<year>2005</year>
+<page-range>130-144</page-range><publisher-loc><![CDATA[Berlin-Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Etienne]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Du Toit]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pollard]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[ARDI: a co-construction method for participatory modeling in natural resources management]]></article-title>
+<source><![CDATA[Ecology and Society]]></source>
+<year>2011</year>
+<volume>16</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>44</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Filatova]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Verburg]]></surname>
+<given-names><![CDATA[P.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parker]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stannard]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial agent-based models for socio-ecological systems: challenges and prospects]]></article-title>
+<source><![CDATA[Environmental Modelling & Software]]></source>
+<year>2013</year>
+<numero>45</numero>
+<issue>45</issue>
+<page-range>1-7</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gascon]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bierregaard Jr]]></surname>
+<given-names><![CDATA[R.O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Biological Dynamics of Forest Fragments Project.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Bierregaard]]></surname>
+<given-names><![CDATA[R.O. Jr.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gascon]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovejoy]]></surname>
+<given-names><![CDATA[T.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mesquita]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lessons from Amazonia]]></source>
+<year>2001</year>
+<page-range>31-42</page-range><publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Griffin]]></surname>
+<given-names><![CDATA[A.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stanish]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An agent-based model of prehistoric settlement patterns and political consolidation in the Lake Titicaca basin of Perú and Bolivia]]></article-title>
+<source><![CDATA[Structure and Dynamics]]></source>
+<year>2007</year>
+<volume>2</volume>
+<numero>2</numero>
+<issue>2</issue>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grignard]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taillandier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gaudou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vo]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huynh]]></surname>
+<given-names><![CDATA[N.Q.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Drogoul]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boella]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elkind]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Savarimuthu]]></surname>
+<given-names><![CDATA[B.T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[F.]]></surname>
+<given-names><![CDATA[Dignum]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Purvis]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[GAMA 1.6: Advancing the art of complex agent-based modeling and simulation.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Boella]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elkind]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Savarimuthu]]></surname>
+<given-names><![CDATA[B.T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dignum]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[PRIMA 2013: Principles and Practice of Multi-Agent Systems, Lecture Notes in Computer Science]]></source>
+<year>2013</year>
+<page-range>117-131</page-range><publisher-loc><![CDATA[Berlin-Heidelberg ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grimm]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ten years of individual-based modelling in ecology: what have we learned and what could we learn in the future?]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>1999</year>
+<volume>115</volume>
+<numero>2-3</numero>
+<issue>2-3</issue>
+<page-range>129-148</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grimm]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Berger]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Angelis]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Polhill]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Giske]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Railsback]]></surname>
+<given-names><![CDATA[S.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The ODD protocol: A review and first update]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2010</year>
+<volume>221</volume>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>2760-2768</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grimm]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Railsback]]></surname>
+<given-names><![CDATA[S.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Pattern-oriented modelling: a "multi-scope" for predictive systems ecology]]></article-title>
+<source><![CDATA[Philosophical Transactions of the Royal Society B: Biological Sciences]]></source>
+<year>2012</year>
+<volume>367</volume>
+<numero>1586</numero>
+<issue>1586</issue>
+<page-range>298-310</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kéfi]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rietkerk]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alados]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pueyo]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Papanastasis]]></surname>
+<given-names><![CDATA[V.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ElAich]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Ruiter]]></surname>
+<given-names><![CDATA[P.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial vegetation patterns and imminent desertification in Mediterranean arid ecosystems]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2007</year>
+<volume>449</volume>
+<numero>7159</numero>
+<issue>7159</issue>
+<page-range>213-217</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Klügl]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bazzan]]></surname>
+<given-names><![CDATA[A.L.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based modeling and simulation]]></article-title>
+<source><![CDATA[AI Magazine]]></source>
+<year>2012</year>
+<volume>33</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>29</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liu]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dietz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alberti]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Folke]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moran]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pell]]></surname>
+<given-names><![CDATA[A.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Deadman]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kratz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lubchenco]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ostrom]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ouyang]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Provencher]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redman]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schneider]]></surname>
+<given-names><![CDATA[S.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taylor]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Complexity of coupled human and natural systems]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2007</year>
+<month>a</month>
+<volume>317</volume>
+<numero>5844</numero>
+<issue>5844</issue>
+<page-range>1513-1516</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liu]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dietz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Folke]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alberti]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redman]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schneider]]></surname>
+<given-names><![CDATA[S.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ostrom]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pell]]></surname>
+<given-names><![CDATA[A.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lubchenco]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taylor]]></surname>
+<given-names><![CDATA[W.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ouyang]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Deadman]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kratz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Provencher]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Coupled human and natural systems]]></article-title>
+<source><![CDATA[AMBIO: A Journal of the Human Environment]]></source>
+<year>2007</year>
+<month>b</month>
+<volume>36</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>639-649</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Balbi]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buchmann]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Sousa]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dressler]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Groeneveld]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Klassert]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le]]></surname>
+<given-names><![CDATA[Q.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Millington]]></surname>
+<given-names><![CDATA[J.D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nolzen]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parker]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Polhill]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schlüter]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schulze]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schwarz]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sun]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taillandier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weise]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Standardised and transparent model descriptions for agent-based models: current status and prospects]]></article-title>
+<source><![CDATA[Environmental Modelling & Software]]></source>
+<year>2014</year>
+<volume>55</volume>
+<numero>0</numero>
+<issue>0</issue>
+<page-range>156-163</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostrom]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A general framework for analyzing sustainability of social-ecological systems]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2009</year>
+<volume>325</volume>
+<numero>5939</numero>
+<issue>5939</issue>
+<page-range>419-422</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Parker]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Manson]]></surname>
+<given-names><![CDATA[S.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Janssen]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Deadman]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Multi-agent systems for the simulation of land-use and land-cover change: a review]]></article-title>
+<source><![CDATA[Annals of the Association of American Geographers]]></source>
+<year>2003</year>
+<volume>93</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>314-337</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peng]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reproducible research in computational science]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2011</year>
+<volume>334</volume>
+<numero>6060</numero>
+<issue>6060</issue>
+<page-range>1226-1227</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crespo-Pérez]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrera]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Scurrah]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Canto]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montañez]]></surname>
+<given-names><![CDATA[A.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bonifacio]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mamani]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saravia]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based Models and integrated pest management diffusion in small scale farmer communities.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Peshin]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pimentel]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integrated Pest Management]]></source>
+<year>2014</year>
+<month>a</month>
+<page-range>367-383</page-range><publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Costa]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Almeida]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silvain]]></surname>
+<given-names><![CDATA[J.-F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harry]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Simulating population genetics of pathogen vectors in changing landscapes: guidelines and application with Triatoma brasiliensis]]></article-title>
+<source><![CDATA[PLoS Neglected Tropical Diseases]]></source>
+<year>2014</year>
+<month>b</month>
+<volume>8</volume>
+<numero>8</numero>
+<issue>8</issue>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Coupled information diffusion-pest dynamics models predict delayed benefits of farmer cooperation in pest management programs]]></article-title>
+<source><![CDATA[PLoS Computational Biology]]></source>
+<year>2011</year>
+<volume>7</volume>
+<numero>10</numero>
+<issue>10</issue>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reuillon]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leclaire]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rey-Coyrehourcq]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[OpenMOLE, a workflow engine specifically tailored for the distributed exploration of simulation models]]></article-title>
+<source><![CDATA[Grid, and Cloud Computing,]]></source>
+<year>2013</year>
+<numero>29</numero>
+<issue>29</issue>
+<page-range>1981-1990</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rykiel]]></surname>
+<given-names><![CDATA[Jr. E.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing ecological models: the meaning of validation]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>1996</year>
+<volume>90</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>229-244</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Townsend]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Begon]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harper]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Essentials of ecology]]></source>
+<year>2008</year>
+<page-range>510</page-range><publisher-loc><![CDATA[Malden ]]></publisher-loc>
+<publisher-name><![CDATA[Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vitousek]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mooney]]></surname>
+<given-names><![CDATA[H.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lubchenco]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Melillo]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Human domination of earth's ecosystems]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>1997</year>
+<volume>277</volume>
+<numero>5325</numero>
+<issue>5325</issue>
+<page-range>494-499</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Voinov]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bousquet]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modelling with stakeholders]]></article-title>
+<source><![CDATA[Environmental Modelling & Software]]></source>
+<year>2010</year>
+<volume>25</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>1268-1281</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderies]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abel]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cumming]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Janssen]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lebel]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Norberg]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[G.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pritchard]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Resilience management in social-ecological systems: a working hypothesis for a participatory approach]]></article-title>
+<source><![CDATA[Conservation Ecology]]></source>
+<year>2002</year>
+<volume>6</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>14</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilensky]]></surname>
+<given-names><![CDATA[U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[NetLogo: Center for connected learning and computer-based modeling]]></source>
+<year>1999</year>
+<publisher-loc><![CDATA[Evanston ]]></publisher-loc>
+<publisher-name><![CDATA[Northwestern University]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

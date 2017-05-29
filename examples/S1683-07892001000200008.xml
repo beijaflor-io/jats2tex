@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000200008</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[HAL 9000, la Odisea del 2001]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pavisic]]></surname>
+<given-names><![CDATA[Davor]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Instituto de Investigación en Informática Aplicada ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>2</numero>
+<fpage>203</fpage>
+<lpage>216</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000200008&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><body><![CDATA[ <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>HAL 9000, la Odisea del 2001</B></font></p>      <p align=center><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Davor Pavisic</font></p>      <p align=center>Instituto de Investigación en Informática Aplicada</p>      <p align=center>Universidad Católica Boliviana - Regional Cochabamba</p>      <p align=center>e-mail: <u><a href="mailto:dp@ucbcba.edu.bo">dp@ucbcba.edu.bo</a></u></p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>El HAL 9000 de 2001</B></font></p>      <p>Hace más de 30 años, el escritor de ciencia ficción, Arthur C. Clarke (junto con Stanley Kubrick), se imaginó, entre otras cosas, que en este nuevo milenio existirían ordenadores inteligentes funcionando de manera análoga a los cerebros de los seres humanos. Tal es el caso del ordenador HAL 9000, protagonista de la novela <i>2001, una odisea en el espacio </i>[2], quien &quot;razonaba&quot; de forma muy similar (o igual) a la mente humana. El nombre de HAL, cuyas siglas curiosamente anteceden a las siglas de la conocida IBM, significa <i>Heuristically programmed ALgorithmic computer </i>y este significado lo relaciona directamente con el campo de la inteligencia artificial (IA). HAL era el sexto miembro de la tripulación a bordo de una nave con destino a Saturno<sup>1</sup> y sus responsabilidades incluían desde el soporte básico de vida en la &quot;Discovery&quot;, navegación, comunicaciones, contingencias y emergencias de todo tipo, hasta compañía para el resto de la tripulación que se encontraba a bordo. Es interesante notar también que HAL era el único miembro despierto de la tripulación que conocía el objetivo real de la misión<sup>2</sup>.</p>      <p>Durante los meses que dura el viaje, HAL demuestra poseer atributos casi humanos que le permiten establecer una relación profesional y de amistad con sus compañeros de viaje humanos. Tal era la similitud entre el cerebro de HAL y la mente humana que incluso la mente electrónica de HAL entra, y con justificados motivos, en un estado de paranoia como describe Clarke en la novela: <i>&quot;Durante los últimos 150 millones de kilómetros, </i>(HAL) <i>había estado cavilando sobre el secreto que no podía compartir con Poole y Bowman. Había estado viviendo una mentira; y se aproximaba rápidamente el tiempo en que sus colegas sabrían que había contribuido a engañarles... el conflicto estaba destruyendo lentamente su integridad... el conflicto entre la verdad y su oculta­ción&quot; </i>[2].</p><hr>     <p><sup>1</sup>Sin embargo en la película del mismo nombre, el destino final de la nave era Júpiter ya que los especialistas en efectos especiales de la época (años 70) no pudieron lograr imágenes de los anillos de Saturno lo suficientemente convincentes.</p>      <p><sup>2</sup>Había tres miembros de la tripulación que se encontraban en estado de hibernación.</p>  <hr>         ]]></body>
+<body><![CDATA[<p>Clarke justifica el dilema de HAL indicando: <i>&quot;todas las energías, poderes y habili­dades de HAL habían estado dirigidas hacia un fin. El cumplimiento de su programa asignado era más que una obsesión; era la única razón de su existencia. Inconturba-do por las codicias y pasiones de la vida orgánica, había perseguido aquella meta con absoluta simplicidad mental de propósitos... El error deliberado era impensable. Hasta el ocultamiento de la verdad lo colmaba de una sensación de imperfección, de false­dad. .. de lo que en un ser humano hubiese sido llamado culpa, iniquidad, o pecado. Pues como sus constructores, HAL había sido creado inocente; pero demasiado pronto había entrado una serpiente en su Edén electrónico&quot; </i>[2].</p>      <p>Clarke describe la falla de HAL tal como le ocurriría a un ser humano: <i>&quot;Había comenzado a cometer errores; sin embargo, como un neurótico que no podía observar sus propios síntomas, los había negado... éste era relativamente un problema menor; podía haberlo solucionado </i>—<i>como la mayoría de los hombres tratan sus neurosis</i>— <i>de no haberse encontrado con una crisis que desafiaba a su propia existencia. Había sido amenazado con la desconexión... con ello sería arrojado a un inimaginable estado de inconsciencia. Para HAL esto era equivalente a la Muerte. Pues el no había dormido nunca;... &quot; </i>[2].</p>      <p>El razonamiento &quot;humano&quot; de HAL lo conduce a tomar decisiones drásticas: <i>&quot;Así pues, se protegería con todas las armas de que disponía. Sin rencor eliminaría el ori­gen de sus fustraciones... y después proseguiría la misión... sin trabas, solo.&quot; </i>[2]. La programación de HAL incluía contingencias como que HAL podría encontrarse en una situación semejante, es decir, &quot;solo&quot;. En esta situación HAL estaba autorizado para tomar sus propias decisiones y continuar la misión según su propio &quot;sentido común&quot;: &quot;... <i>podía llegar el día en que HAL tomase el mando de la nave... y adoptaría las medi­das que juzgara necesarias para la salvaguardia y la continuación de la misión... &quot; </i>[2].</p>      <p>Clarke (como Kubrick) extrapoló muy alegremente a la Inteligencia Artificial del momento. Es del conocimiento de todos que un ordenador semejante no existe hasta ahora<sup>3</sup>. Pero, leyendo nuevamente la novela de Clarke encontramos que algunas de sus predicciones no fueron totalmente erradas: si bien HAL continúa siendo un personaje de ciencia ficción, veremos más adelante que la visión de Clarke en esa época, es decir, a finales de los años 60, estaba bien fundamentada para la predicción de semejante inteligencia artificial.</p>      <p>Clarke predijo acertadamente, entre otras cosas, el uso cotidiano de internet y su for­ma de navegación: &quot;... <i>uno a uno conjuraría a los principales periódicos electrónicos del mundo; conocía de memoria las claves de los más importantes... ojearía rápidamente los encabezamientos.... permitiéndole así leer con comodidad. Una vez acabado vol­vería a la página completa, seleccionando un nuevo tema para su detallado examen&quot; </i>[2] y paradójicamente el deterioro de los contenidos de los medios de prensa: <i>&quot;Cuanto más maravillosos eran los medios de comunicación, tanto más vulgares, chabacanos o deprimentes parecían ser sus contenidos. Accidentes, crímenes, desastres naturales y causados por la mano del hombre, amenazas de conflicto, sombríos editoriales...   tal</i></p><hr>      <p><sup>3</sup>Pese a que Clarke atribuyó el año (y el título de su novela) 2001 exclusivamente a Kubrick cuando este ya había fallecido [7].</p> <hr>        <p><i>parecía ser aún la principal importancia de las millones de palabras esparcidas por el éter&quot; </i>[2]. Clarke llegó incluso a imaginarse el funcionamiento de los hornos a microon-das: <i>&quot;Sus menús habían de ser simplemente abiertos e introducido su contenido en la reducida auto-cocina, que lanzaba un zumbido de atención cuando había efectuado su tarea&quot; </i>[2]. Veamos ahora algunos detalles de su HAL 9000.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Los orígenes de HAL</B></font></p>      <p>En su novela, Clarke relata el supuesto &quot;nacimiento&quot; de HAL en enero de 1997: <i>&quot;HAL era una obra maestra de la tercera promoción de computadores. Ello parecía ocurrir a intervalos de veinte años, y mucha gente pensaba ya que otra nueva creación era inmi­nente&quot;. </i>Clarke basa esta idea en el aún corto periodo de tiempo que llevaban existiendo los primeros ordenadores y la inteligencia artificial como rama de la informática: <i>&quot;La primera </i>(promoción) <i>había acontecido en 1940 y pico, cuando la válvula de vacío, hacía tiempo anticuada, había hecho posible tan toscos cachivaches de alta velocidad como ENLAC y sus sucesores&quot;. </i>Por esa misma época, en 1943, McCulloch y Pitts mostraron que una <i>red de neuronas artificiales </i>era capaz de llevar a cabo ciertas tareas computacio-nales relativamente complejas [8]. Un poco más tarde, en 1949, Donald Hebb propuso un modelo de aprendizaje para este tipo de redes neuronales [6]. Luego, en 1951, Dean Edmonds y Marvin Minsky construyeron una máquina electromecánica capaz de apren­der, la cual incorporaba estas ideas. En 1954 Minsky, en base a los resultados obtenidos en redes neuronales, terminó su tesis doctoral <i>Theory of Neural-Analog Reinforcement Systems and its Application to the Brain Model Problem </i>[9]. En 1961, Frank Rosenblatt inventó el <i>Perceptrón </i>y desarrolló el <i>Teorema de Aprendizaje del Perceptrón </i>[13]. Casi al mismo tiempo, aparecíala <i>Adaline </i>(Adaptive Linear Network) de Widrow y Hoff [18].</p>      <p>Los cada vez más importantes resultados que se estaban logrando en el área de las redes neuronales artificiales, claramente impresionaron y entusiasmaron a Clarke, quien añade: <i>&quot;Luego en los años sesenta habían sido perfecionados sólidos ingenios microe-lectrónicos... &quot; </i>[2]. Clarke marca entonces la primera generación de los ordenadores desde su inicio hasta el estado del arte de la fecha (fines de los años 60).</p>      ]]></body>
+<body><![CDATA[<p>Establecidas las bases históricas y con los resultados científicos obtenidos por los especialistas de la época en el área de la inteligencia artificial y las redes neuronales artificiales, Clarke plasma el pensamiento informático de la época en su novela: <i>&quot;Con su advenimiento, resultaba claro que inteligencias artificiales cuando menos tan poderosas como la del Hombre, no necesitaban ser mayores que mesas de despacho... caso de que se supiera como construirlas. Posiblemente nadie lo sabría nunca; mas ello no importaba&quot; </i>[2].</p>      <p>Clarke aprovecha entonces para extrapolar los avances de la informática y la inteligencia artificial mencionando a Minsky como uno de los pioneros en el área: <i>&quot;En los años ochenta, Minsky y Good habían mostrado como podían ser generadas automáticamente redes nerviosas auto-replicadas, de acuerdo con cualquier arbitrario programa de en­señanza. Podían construirse cerebros artificiales mediante un proceso asombrosamente análogo al desarrollo de un cerebro humano.   En cualquier caso, jamás se sabrían los</i> <i>detalles precisos; y hasta si lo fueran, serían millones de veces demasiado complejos para la comprensión humana&quot; </i>[2]. En esa época, Clarke no tenía la menor sospecha que Minsky, junto con su colega S. Pappert, en 1969 y tan sólo un par de años más tarde que la fecha de publicación de su novela &quot;2001&quot;, se tornaría contra las redes neurona-Íes desplazándolas a un periodo de &quot;oscurantismo&quot; que duraría más de diez años [11]. Por el contrario, Clarke se imaginó que las redes neuronales artificiales podrían llegar a imitar a los cerebros humanos en un tiempo relativamente corto, es decir, hasta la fecha de la creación ficticia de HAL en 1997: <i>&quot;Sea como fuere, el resultado final fue una máquina-inteligencia que podía reproducir </i>—<i>algunos filósofos preferían aún emplear la palabra &quot;remedar&quot;</i>— <i>la mayoría de las actividades del cerebro humano, y con mucha mayor velocidad y seguridad&quot; </i>[2].</p>      <p>Clarke extrapola también áreas de la inteligencia artificial como la visión artificial y la comprensión y generación del lenguaje hablado: <i>&quot;La mayoría de las comunicaciones de HAL con sus camaradas se hacían mediante la palabra hablada. Poole y Bowman </i>(tripulantes) <i>podían hablar a HAL como si fuese un ser humano, y el replicaría en el... más puro inglés que había aprendido durante las fugaces semanas de su electrónica infancia&quot; </i>[2]. Sin embargo, en cuanto a la capacidad de &quot;pensar&quot; de HAL, Clarke añade: <i>&quot;Sobre si HAL podía realmente pensar, era una cuestión que no había sido establecida por el </i>(brillante) <i>matemático inglés Alan Turing en los años cuarenta.</i>..&quot;. Recordemos que Turing fue también uno de los pioneros en la inteligencia artificial. Además de ser autor del prototipo teórico de los ordenadores digitales, <i>La Máquina Universal</i><i> de Turing, </i>gracias al trabajo de análisis de criptografía que realizó durante la  II Guerra Mundial en los ordenadores Colossi<sup>4</sup> y su trabajo post-guerra en el ordenador ACE, Turing se convenció que los ordenadores, con el tiempo, adquirirían la capacidad de pensar. Fue Turing quien, con esta idea en mente, propuso la famosa <i>Prueba de Turing </i>para evaluar, de forma objetiva y clara, si un ordenador era capaz de pensar o no.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>La prueba de Turing</b></font></p>      <p>Para evitar argumentos semánticos sobre las definiciones de palabras como <i>máquinas </i>y <i>pensar, </i>Turing propuso el <i>Juego de Imitación. </i>De forma simplificada, el juego se limita a tener un <i>interrogador </i>(humano) quien utiliza su <i>inteligencia natural </i>para distinguir entre las respuestas que le da un ser humano de las respuestas que le da un ordenador, mientras <i>interrogador </i>y <i>jugador </i>mantienen una conversación (a distancia) por medio de un teclado y una pantalla. Si el interrogador no puede distinguir a la <i>máquina </i>de la <i>persona, </i>entonces la máquina ha pasado la <i>Prueba</i><i> de Turing </i>y, por ende, es inteligente. En términos de inteligencia, la prueba de Turing puede ser resumida como sigue: si la conversación que una persona mantiene con un ordenador (inteligencia artificial) es indistinguible de aquella que mantiene con un humano (inteligencia natural), entonces el ordenador está mostrando inteligencia [5].</p>      <p>Esta prueba posee una serie de ventajas transparentes sobre otras definiciones más complejas de inteligencia artificial: libera a la máquina de características antropomórficas y, además, es independiente de los detalles del experimento [5].</p><hr>      <p><sup>4</sup>Durante la guerra, Turing logró romper el complejo código de encriptación alemán <i>Enigma.</i></p><hr>     <p>El mismo Turing es llevado por el entusiasmo de la época cuando indica: <i>&quot;Pienso que en aproximadamente cincuenta años será posible programar ordenadores, cuya ca­pacidad de almacenamiento será de mas o menos 10<sup>9</sup>, y hacerlos &quot;jugar&quot; el juego de imitación tan bien, que un interrogador promedio no tendrá más de un 10% de proba­bilidad de realizar la correcta identificación después de cinco minutos de conversación con el ordenador... pienso que al final de este siglo la opinión general de la gente se habrá alterado tanto que uno podrá hablar de máquinas que piensan sin esperar ser contradecido&quot; </i>[5].</p>      <p>La proyección de Turing sobre la capacidad de almacenamiento es sorprendentemen­te acertada si interpretamos que su predicción se refiere al Gigabyte de capacidad de almacenamiento en disco que ahora se encuentra fácilmente disponible en el mercado. Es también frecuente entre los informáticos escuchar, a modo de broma, frases como: &quot;... la computadora está pensando... &quot;. Más aún, una de las mentes más brillantes de nuestra época admitió, públicamente y sin pensarlo, que un ordenador había pasado la prueba de Turing. Esto ocurrió cuando Deep Blue, de IBM, logró una derrota devasta­dora frente a Garry Kasparov en la movida 36 de esta famosa partida de ajedrez hace un par de años. Kasparov simplemente no lo podía creer y quedó obsesionado con la idea que Deep Blue recibió &quot;ayuda humana&quot; durante la partida [7].</p>      <p>Es obvio que HAL fácilmente pasaría la prueba de Turing. El mismo lector de la novela llega a sentir emociones con respecto a HAL: de aprecio al principio y de adversión más adelante. Sin embargo, es claro que nuestra sociedad no está lista para recibir a &quot;ordenadores inteligentes&quot; similares a HAL. Evidentemente, la polémica que surge alrededor del tema no es simple y, quizá por eso, muchas veces eludida.</p>      ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Las opiniones contrarias</B></font></p>      <p>Cuando los ordenadores aparecieron por primera vez, su objetivo final era simplemen­te realizar grandes cantidades de cómputos. Es por eso que son también llamadas &quot;computadoras&quot;. Sin embargo, como lo afirma Minsky en [10], unos cuantos pione­ros -especialmente Alan Turing- se imaginaron ordenadores que irían más allá de la aritmética y posiblemente lograrían imitar los procesos que se llevan a cabo dentro del cerebro humano. No es sorprendente que tales opiniones suscitaran la intensa oposición que se mantiene aún en nuestros días, tal como lo indica Minsky: <i>&quot;la mayoría de las personas piensa que las computadoras no lo hacen&quot; </i>[10]. Más aún, muchos expertos en informática afirman que las máquinas nunca lograrán pensar. Si es así, ¿cómo estas pueden ser tan inteligentes y, sin embargo, tan tontas? Veamos algunos de los puntos de vista típicos de los años 50 y las refutaciones hechas por Turing en la época.</p>      <p><b>La objeción teológica. </b><i>El pensamiento es una función del alma (inmortal) del hom­bre. </i>Turing refuta: <i>&quot;me parece a mi que este argumento implica una seria restricción sobre la omnipotencia de Dios... ¿Acaso El no podría dar un alma a un elefante o a una máquina si asilo desease?&quot; </i>[5].</p>      <p><b>La objeción matemática. </b>Según el Teorema de Gódel: &quot;...en cualquier sistema lógico lo suficientemente poderoso, se pueden formular proposiciones, las cuales no pue­den ser probadas ni refutadas dentro del sistema... &quot;. <i>¿ Cómo podría pues un ordenador, lógico por naturaleza, probar o refutar lógicamente sus propias proposiciones? </i>Turing acepta la validez de este argumento pero observa que tampoco existe prueba que el intelecto humano no sufra las mismas limitaciones [5].</p>      <p><b>El argumento de la conciencia. </b><i>No aceptaremos que una máquina es equivalente a un cerebro hasta que ésta logre escribir un soneto o componer un concierto debido a los pensamientos y emociones que haya sentido y no por simple casualidad </i><sup>5</sup>, <i>es decir no sólo escribir sino, también saber que ella (la máquina) lo ha escrito. </i>Sin embargo, este argumento nos lleva a la clásica posición según la cual &quot;la única forma de saber cómo piensa una persona es ser esa persona&quot;. Pero antes de caer en argumentos circulares a los que lleva esta posición, Turing nota: <i>&quot;es usual tener la cortesía de aceptar que todas las personas piensan&quot; </i>[5].</p>      <p><b>La objeción de originalidad. </b><i>Las máquinas nunca hacen nada nuevo </i>o <i>nunca nos sorprenden. </i>Turing indica: <i>&quot;Las máquinas me sorprenden constantemente... La ma­yoría de la gente que programa, con seguridad comparte esta experiencia&quot; </i>[5].</p>      <p><b>La continuidad del sistema nervioso. </b><i>El sistema nervioso no es una máquina dis­creta. </i>Pequeñas variaciones en amplitud y fase de un impulso nervioso que llega a una neurona pueden ocasionar grandes diferencias en la amplitud y fase del impulso de salida de la neurona en cuestión. En consecuencia, es imposible reproducir el funcionamiento del sistema nervioso (continuo) con un sistema discreto. Turing no puede refutar de forma convincente este punto, sin embargo, los ordenadores de hoy en día pueden simu­lar el comportamiento de dispositivos analógicos no-lineales con casi cualquier nivel de precisión (siempre y cuando se sepa de antemano la función de transferencia del dispo­sitivo) . Es interesante notar que estas características (la no-linealidad y la continuidad) son fundamentales para el funcionamiento de las redes neuronales artificiales, sistemas que ahora han mostrado ser capaces de resolver una extensa gama de problemas.</p>      <p>Muchos de estos argumentos son manejados aún en nuestros días. Actualmente, la mayoría de las personas acepta que los ordenadores pueden hacer muchas cosas, las cuales requieren que una persona piense para realizarlas. Entonces, ¿cómo puede ser que una máquina aparente pensar pero que en realidad no lo haga? Dejando de lado la pregunta de lo que es en realidad &quot;pensar&quot;, la mayoría de nosotros respondería indicando que el ordenador está realizando una imitación superficial de la inteligencia humana. Es decir, ha sido programado para obedecer a ciertos comandos simples pero sin tener la más mínima idea de lo que está ocurriendo o haciendo, según el caso. Sin embargo, el problema es más profundo de lo que pensamos, ya que se tocan algunos conceptos sobre los cuales aun nosotros mismos no estamos de acuerdo en su definición.</p><hr>      <p><sup>6</sup>Aquí se implica al discutido tema del mono frente a una máquina de escribir quien, después de un número finito de intentos escribe una tragedia de Shakespeare.</p><hr>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>La creatividad</B></font></p>      ]]></body>
+<body><![CDATA[<p>La mayoría de la gente piensa que la creatividad requiere una especie de &quot;don&quot; mágico que simplemente no puede ser explicado. Por tanto, los ordenadores no pueden <i>crear </i>ya que, según piensa la gente, todo lo que hacen las máquinas puede ser explicado. Como dice Minsky: &quot;Nosotros naturalmente admiramos a nuestros Einsteins y Beethovens y nos preguntamos si los ordenadores serán capaces algún día de crear tan grandiosas teorías o sinfonías&quot; [10]. Minsky luego añade: &quot;... pero debemos evitar caer en la tram­pa. .. No debemos mirar hacia los grandes logros de nuestra cultura antes de entender cómo la gente común hace cosas cotidianas y comunes. No pienso que haya una gran diferencia entre el <i>pensamiento cotidiano </i>y el <i>pensamiento altamente creativo. </i>No cul­po a nadie por no poder hacer las cosas que hace la gente creativa y tampoco culpo a nadie por no poder explicar lo que es la creatividad. Sin embargo, no concuerdo con la idea que, porque no podamos explicar cómo funciona la creatividad ahora, nadie podrá imaginar nunca cómo funciona en realidad&quot; [10].</p>      <p>Minsky, acertadamente señala nuestra ignorancia acerca de la creatividad cotidia­na: &quot;deberíamos estar molestos por nuestra ignorancia de cómo obtenemos nuestras ideas&quot; [10], y argumenta contra la reacción común de la gente: si no lo podemos expli­car, entonces lo atribuimos a algo divino y por tanto propio solamente al ser humano. Minsky, por el contrario, atribuye la creatividad a una consecuencia del aprendizaje.</p>      <p>Es, entonces, prácticamente imposible esperar que las máquinas logren hacer ma­ravillas (como lo hace un Mozart) sin antes comprender cómo lograr que éstas hagan cosas ordinarias y simples como lo hacemos nosotros, la gente común.</p>      <p>En 2001, HAL demuestra poseer un alto grado de creatividad tanto por las con­versaciones que mantiene con los miembros de la nave como por la formulación de un plan para evitar ser desconectado y poder continuar la misión que se la había asignado. ¿Cuan lejos están nuestros ordenadores de tener esta creatividad?</p>      <p>En 1950, Newell, Shaw y Simón desarrollaron el sistema <i>General Problem Solver </i>(GPS) [4]. Los objetivos de los autores era dos: (a) desarrollar un modelo operacional explícito de la forma en que los humanos resuelven problemas cotidianos y (b) im-plementar este modelo en un ordenador. La consideración principal en el diseño de este sistema era separar los métodos generales de resolución de problemas de los datos específicos del problema en sí [12].</p>      <p>Aquí comenzó una etapa de programas que podían resolver problemas utilizando un tipo de &quot;razonamiento&quot; que no podía ser anticipado por los propios programado-res, ¿creatividad?. Estos sistemas no tomaban decisiones al azar, más bien utilizaban <i>consejos </i>sobre qué cosas o métodos podrían funcionar en una situación dada. Estos <i>consejos </i>eran dados por expertos en un área específica que, como dice su nombre, ad­quirieron habilidades por medio de la experiencia. Esta experiencia era pues transferida a las máquinas como lo hacemos nosotros en la vida cotidiana algunas veces: dando consejos.</p>      <p>Esta idea, junto con algunas otras, hizo surgir un método de programación que posteriormente evolucionó en los sistemas de producción y los sistemas expertos. Estos programas automáticamente aplican reglas cuando es necesario y, contrariamente a la opinión de la gente, generan soluciones con mucha originalidad. </p>      <p>Por ejemplo, la versión precedente y similar en principios a GPS, el <i>Logic Theorist </i>logró probar 38 de los primeros 52 teoremas del capítulo 2 de <i>Principia Mathematica </i>de Whitehead y Rusell [17, 5]. Más aún, la prueba del Teorema 2.85 es, en realidad, más corta y más elegante que la prueba dada en el mismo <i>Principia Matemática.</i></p>      <p>Sistemas similares comenzaron a surgir desde mediados de los años 60. Entre los más importantes podemos citar a DENDRAL que podía, al igual que un experto hu­mano, identificar la estructura molecular de un compuesto a partir de su espectro de masa [5], MACSYMA, un sistema matemático capaz de realizar diferenciación e integra­ción simbólicas, algebra matricial, soluciones de sistemas de ecuaciones, expansión de las series de Taylor, etc. [5], MYSIN, un sistema experto para el diagnóstico y recomendación de tratamiento para enfermedades infeciosas en la sangre [15], PROSPECTOR, un sistema experto para la toma de decisiones en la explotación de minerales [3].</p>      <p>Vemos pues que los ordenadores ya en los años 60 podían encontrar soluciones origi­nales a una gran diversidad de problemas. Es más, en la actualidad, todos los sistemas de navegación espacial dependen exclusivamente de la capacidad de cálculo de los orde­nadores. Sin embargo, tal vez, justamente para evitar la &quot;creatividad de las máquinas&quot;, se utilizan algoritmos determinísticos muchas veces controlados desde los centros de control de tierra. Un programa que se encargue de la navegación de una nave ya no es ciencia ficción. Muchos de los aviones que utilizamos para desplazarnos de ciudad en ciudad están capacitados para efectuar esos viajes sin la necesidad de un piloto humano. No obstante, nuestros propios prejuicios nos evitan ceder la responsabilidad a máquinas que quizá podrían cometer algún error. Así pues, vemos que la tarea de navegación de HAL en 2001 puede ser realizada por cerebros electrónicos similares. Analicemos ahora si es posible trabajar con un ordenador utilizando como medio de comunicación el lenguaje natural, como lo hacía la tripulación de la &quot;Discovery&quot; con HAL.</p>      ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>El lenguaje natural</b></font></p>      <p>Pese a las dificulates que presenta la comprensión del lenguaje natural, se han logrado algunos éxitos significativos en el área. Uno de los más sorprendentes es la tesis doctoral de T. Winograd quien desarrolló SHRLDU en el MIT en 1972 [19]. Limitando el dominio de aplicación, con el uso de una representación procedural y utilizando una gramática libre de contexto, SHRLDU era capaz de integrar conocimiento sintáctico, semántico y de razonamiento.</p>      <p>SHRDLU simulaba un entorno en tres dimensiones en el que se encontraban dispues­tas varias diferentes formas, tal como se puede apreciar en la Figura 1. SHRLDU podía manipular los objetos por medio de un brazo de robot. El operador humano daba las instrucciones al sistema SHRLDU en <i>lenguage natural </i>(inglés). Veamos una corta con­versación entre el operador humano (normal), el robot (negrilla) y algunos comentarios de Winograd (cursiva). Esta conversación fue extractada y traducida de [5].</p>     <p align="center"><img src="/img/revistas/ran/v1n2/1-Pavisic.JPG" width="554" height="224"></p>     <p align="center"><b>Figura 1:</b> El mundo de bloques de SHRDLU. El operador humano puede comandar a un brazo de robot para mover los objetos verdes (V), rojos (R) y azules (A) usando lenguaje natural.</p>      <p><b>1.</b><b>   levanta un bloque  rojo  grande    <br> ok</b></p>      <p><i>El sistema responde &quot;OK&quot; cuando realiza un comando exitosamente. Para poder levantar el bloque rojo, SHRLDU debía antes encontrar un espacio libre para el bloque verde y moverlo.</i></p>      <p><b><i>2.</i></b><b><i>   </i></b><b>toma la pirámide</b></p>      <p><b>no entiendo a qué pirámide te refieres</b></p>      ]]></body>
+<body><![CDATA[<p><i>Existen tres pirámides en el entorno y por tanto el programa no hace nada.</i></p>      <p><b>3.</b><b>   encuentra un bloque  que  es más  alto  que  aquel  que  tienes  y  colócalo  en  la  caja.</b></p>      <p><i>El sistema debe darse cuenta a qué se refiere el operador por  &quot;aquel&quot; como también</i></p>      <p><i>utilizar la deducción para decidir cual es el bloque que &quot;tiene&quot;.</i></p>      <p><b>ok</b></p>      <p><b>4.</b><b>   ¿qué  contiene  la  caja?</b></p>      <p>la pirámide azul y el bloque azul</p>      <p>5. ¿qué sostiene a la pirámide?</p>      <p><i>Nótese aquí el sistema supone que estamos hablando de la pirámide que se encuentra en la caja. </i>la caja</p>      <p>6. ¿cuántos bloques no están en la caja? cuatro de ellos</p>      ]]></body>
+<body><![CDATA[<p>7. ¿es por lo menos uno de ellos más delgado que aquel que levantaste? sí, el cubo rojo</p>      <p>8. ¿podrías, por favor, apilar ambos bloques rojos y un cubo verde o una pirámide? ok</p>      <p>9. ¿tocaste alguna pirámide antes de colocar la verde sobre el cubo pequeño? sí, la verde</p>      <p>10. ¿cuándo la levantaste? cuando estaba apilando el cubo rojo, un bloque rojo grande y un cubo verde grande</p>      <p>Como lo demuestra este diálogo, SHRDLU mostraba muchas de las características que asociamos con el razonamiento e inteligencia. Adicionalmente el programa probó que combinando sintaxis con semántica y algunas heurísticas, es posible construir un programa que responda de forma inteligente a comandos dados en lenguaje natural. Este ejemplo nos muestra que la capacidad de comunicación de HAL tampoco está demasiado alejada de la realidad. Tal vez la pregunta que debemos posarnos es ¿puede un ordenador entender?</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>El entendimiento</B></font></p>      <p>En 1965 D. Bobrow concibió a STUDENT, un sistema capaz de resolver una serie de problemas de álgebra básica, cuyo enunciado se daba en lenguaje natural. Por ejemplo:</p>      <p>a)&nbsp;&nbsp;&nbsp;&nbsp; <i>La distancia entre Lima y La Paz es de 500 kilómetros. Si la velocidad promedio de un avión es de 900 Kilómetros por hora, encontrar el tiempo que toma viajar desde Lima a La Paz por avión.</i></p>      <p>b)&nbsp;&nbsp;&nbsp;&nbsp; <i>El tío del padre de Juan tiene el doble de la edad del padre de Juan. Dentro de dos años, el padre de Juan tendrá tres veces la edad de Juan. La suma de sus edades es 92. Encontrar la edad de Juan.</i></p>      <p>La mayoría de la gente concuerda en que este tipo de problemas es mucho más difícil de resolver que aquellos donde las ecuaciones matemáticas ya están dadas. Para resolver problemas con enunciados en lenguaje natural, uno debe encontrar las ecuaciones a resolver y, para lograr esto, uno debe entender qué es lo que las palabras y oraciones significan. ¿Acaso el sistema STUDENT entendía? En realidad STUDENT utilizaba una serie de &quot;trucos&quot;. Por ejemplo, STUDENT estaba programado para &quot;adivinar&quot; que &quot;es&quot; generalmente significa &quot;es <b>igual a&quot;</b>. Por otro lado, no intentaba siquiera saber lo que <i>el tío de Juan </i>significa —sólo se daba cuenta que esta frase se asemeja a <i>el padre de Juan. </i>Tampoco sabía que <i>edad </i>se refiere a tiempo pero la tomaba como algo que representa un número y que puede ser puesto en una ecuación. Con unos cuantos cientos de estos trucos, STUDENT, muchas veces, lograba encontrar las respuestas correctas.</p>      ]]></body>
+<body><![CDATA[<p>Pero ¿podemos decir que STUDENT realmente entendía estos problemas? Minsky responde a esta pregunta de la siguiente manera: <i>&quot;¿por qué molestarse? ¿por qué caer en la trampa de tratar de definir el significado de viejas palabras como &quot;significar&quot; y &quot;comprender&quot;?... La pregunta, más bien debería ser: ¿Acaso STUDENT trataba de elu­dir el &quot;significado&quot; utilizando algunos trucos?&quot; </i>Vayamos más allá preguntándonos lo siguiente: es obvio que STUDENT sabe de aritmética en el sentido que puede encon­trar una suma como &quot;5 más 7 es 12&quot;. Pero, ¿puede STUDENT entender el significado del número? Por ejemplo, ¿qué &quot;es&quot; 5? o ¿qué es &quot;más&quot;? Con el afán de atribuir definiciones perfectas para palabras ordinarias, los filósofos B. Russell y A. North Whi-tehead, a principios del siglo pasado, propusieron una nueva forma para definir a los números: &quot;cinco&quot;, decían ellos, es &quot;la clase de todos los posibles conjuntos con cinco elementos&quot;.  Sin embargo, mucha gente confunde con facilidad &quot;clase&quot; con &quot;conjunto&quot;</p>      <p align="center"><img src="/img/revistas/ran/v1n2/2-Pavisic.JPG" width="739" height="257"> </p>     <p align=center><b>Figura 2:</b> Diferentes formas de interpretar el Cinco.</p>      <p>y esta &quot;pequeña&quot; confusión lleva a inconsistencias que el mismo Rusell descubrió<sup>6</sup> [14]. El punto es que si bien muchos no pueden dar una definición precisa de número, esto no implica que desconocen el significado de, por ejemplo, Cinco. Según Minsky, &quot;lo que significa algo para uno, depende, de cierta forma, en muchas otras definiciones que uno conoce... Por ejemplo, para el número Cinco podemos pensar en grupos de Dos y Tres, o Uno y Cuatro. También podemos pensar en algunas formas familiares: un pentágono, una cruz, una equis, etc. Todos forman Cincos.&quot;  (ver Figura 2) [10].</p>      <p>¿Qué ocurriría si construimos máquinas que no estén basadas en definiciones rígidas? ¿No serían éstas llevadas a paradojas, inconsistencias y equivocaciones, como le ocurrió a HAL en 2001? Minsky, al respecto, indica: <i>&quot;la mayoría de los conocimientos de la gente están llenos de contradicciones y, aún así, sobrevivimos... lo mejor que podemos hacer al respecto es ser razonamblemente cautelosos... &quot;. </i>Minsky argumenta aquí que si deseamos que las máquinas lleguen a &quot;razonar&quot; como una persona lo hace, debemos darle los atributos necesarios: <i>&quot;hagamos también a nuestras máquinas asi de cuidado­sas. . .y si existen algunas probabilidades de error, bueno, así es la vida&quot; </i>[10].</p>      <p>Según Minsky, todas las definiciones que manejamos en el cerebro están relacionadas unas con otras en una gran <i>red de significados. </i>Debido a que cada persona tiene sus propias definiciones asociadas a otras, preguntarnos cuál es la correcta no tiene sentido. Cada definición tiene sus usos y sus formas de apoyar a otras definiciones. Ninguna tie­ne mucho poder por sí misma, pero juntas, hacen un sistema muy poderoso y versátil: &quot;... <i>las redes en nuestras mentes son, probablemente, más complejas que cualquier otra estructura que la ciencia haya contemplado hasta ahora. Consecuentemente, la Inteli­gencia Artificial necesitará también, eventualmente, de algunas teorías extremadamente complejas. Pero ésa es también la vida&quot; </i>[10]. Efectivamente, con un sistema como el propuesto por Minsky, cada palabra que nosotros utilizamos activa grandes redes con diferentes maneras de tratar y ver las cosas. Con redes de conocimiento masivamen­te conectadas no es posible atascarse, cuando un cierto significado falla, simplemente podemos utilizar algún otro hasta hallar el apropiado. Clarke también había pensado en esta propiedad en su HAL 9000, la cual se hace aparente cuando HAL es privado de sus unidades de memoria justo antes de ser desconectado:   <i>&quot;Habían sido sacadas ya</i></p><hr>      <p><sup>6</sup>La paradoja de Rusell es frecuentemente ilustrada de la siguiente forma: <i>En un pueblo hay un barbero que afeita a todas aquellas personas que no se afeitan ellas mismas. La pardoja reside en la pregunta si el barbero se afeita o no </i>[1].</p><hr>     <p><i>una docena de unidades, aunque gracias a la redundancia de su diseño -otro rasgo que había sido copiado del cerebro humano- el computador seguía manteniéndose... &quot;.</i></p>      <p>Según Minsky, el secreto de lo que significa algo está en las formas en lo que éste está conectado con otras cosas que conocemos. Mientra mayor sea el número de co­nexiones, más significado tendrá este algo para nosotros: <i>&quot;Es por esto que pienso que no deberíamos programar a nuestras máquinas con definiciones simples y lógicas. Una máquina programada de esta manera, posiblemente nunca llegue &quot;realmente a entender&quot; del mismo modo que una persona tampoco lo lograría. Cuando existen muchos signi­ficados en una red de conocimiento, es posible mover un poco las cosas en la mente y mirarlas con diferente perspectiva; cuando uno se estanca, es posible intentar otro punto de vista. Eso es lo que significa &quot;pensar&quot;... es por esto que prefiero redes de definiciones circulares. Cada una da significado al resto. No hay nada malo con gustar de varias diferentes melodías que contrastan unas con otras, </i>—<i>o nudos o tejidos</i>— <i>donde cada unidad ayuda a mantener a las otras juntas </i>—<i>o separadas</i>—&quot;.</p>      <p>Minsky razona que, por supuesto, ninguna máquina logrará realmente comprender algo real o, incluso, saber lo que un número significa, si ésta es forzada a tratar con este algo en una única forma. Tampoco lo lograría un niño o un filósofo. Estas dudas no tienen nada que ver con los ordenadores, sino con nuestra tonta búsqueda de significados que &quot;significan&quot; solos, fuera de todo contexto. Nuestras preguntas sobre las máquinas que piensan deberían, en realidad, ser preguntas sobre nuestra propia mente.</p>      ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>El HAL 9000 en el 2001</B></font></p>      <p>Nuestras nociones de la mente humana son primitivas y, sin embargo, nos resistimos a admitir cuan poco sabemos sobre su forma de funcionamiento. Es posible que esto sea parte de nuestro sistema de autorepresión que nos evita pensar en problemas que aparentemente no tienen solución. Pero también existen razones más profundas: el deseo de creer en la unicidad y la inexplicabilidad del Ser.</p>      <p>Hay una ironía especial cuando la gente dice que las máquinas no tienen mente, ya que incluso ahora no hemos comenzado a entender cómo trabajan nuestras mentes. Sin embargo, ahora parece extraño que alguien pueda entender estas cosas sin tener un conocimiento más completo de lo que son las máquinas. Excepto, por supuesto, que se piense que las mentes no sean nada complicadas.</p>      <p>Para lograr máquinas inteligentes, necesitamos mejores teorías que determinen cómo &quot;representar&quot;, dentro de los ordenadores, las redes de conocimiento y experiencia que se encuentran dentro del sentido común de la gente. Debemos desarrollar programas que &quot;sepan&quot; lo que significan los números, en lugar de ser capaz de simplemente sumar y restar. Debemos experimentar con todo tipo de conocimiento de sentido común.</p>      <p>Este es el foco de la investigación actual en Inteligencia Artificial. Es cierto que la mayor parte de las Ciencias de la Computación está dedicada a construir sistemas muy grandes y útiles pero nada &quot;inteligentes&quot;. Sin embargo, una pequeña parte de las mismas se dedica a hacer que los ordenadores utilicen otras formas de &quot;pensar&quot;  y representar diferentes tipos de conocimiento en varias diferentes maneras, para que estos programas no se queden atrapados en ideas fijas. Más importante aún, se está intentando que estas máquinas aprendan de su propia experiencia. </p>      <p>Finalmente, juntando todas estas teorías, tal vez logremos que estas máquinas pien­sen sobre ellas mismas y construyan teorías (buenas o malas) sobre cómo ellas fun­cionan. Tal vez si nuestras máquinas llegan a ese estado podremos fácilmente decir que ha ocurrido. Tal vez en ese mismo momento ellas objeten ser llamadas máquinas. Minsky agrega al respecto: <i>&quot;Aceptar esto será seguramente muy difícil, pero sólo con este sacrificio, las máquinas podrán liberarnos de nuestros falsas creencias&quot; </i>[10].</p>      <p>¿Es posible, entonces, programar ordenadores que sean &quot;conscientes&quot; al igual que HAL? La gente generalmente espera que la respuesta a esta pregunta sea &quot;no&quot;. Sin embargo, por lo menos en teoría, esto parece posible. Ya existen programas que poseen una inteligencia artifical limitada y que pueden &quot;comprender&quot; y ser &quot;creativas&quot; hasta cierto punto. Se han alcanzado ciertos logros en la comprensión del lenguaje natural y el hardware con el que se cuenta actualmente puede realizar tareas como el proce­samiento de imágenes y reconocimiento del lenguaje hablado. Finalmente la robótica permite que los ordenadores puedan manipular su entorno. El problema radica en el poco conocimiento que tenemos para dar a los programas el suficiente sentido común que posiblemente sea necesario. Por ejemplo, es posible que sea demasiado arriesgado asignar a un ordenador una tarea importante a largo plazo sin darle antes una noción de sus propias habilidades (como por ejemplo la misión de HAL en 2001). No es de­seable que éste empiece alguna tarea que no podrá terminar en un periodo aceptable de tiempo y, por tanto, sería importante que conozca sus propias limitaciones. En ge­neral, es posible que una máquina inteligente pueda entenderse a sí misma lo suficiente como para poderse cambiar y adaptar. Si esto ocurriese, durante un periodo de tiempo suficientemente largo, ¿por qué no podrían esas criaturas inteligentes evolucionar a un estado mental superior y, eventualmente, a un estado mental similar al nuestro?</p>      <p>Pasará todavía un buen tiempo antes de que aprendamos lo suficiente sobre el razo­namiento del sentido común para lograr que las máquinas sean suficientemente inteligen­tes. Por el momento sabemos cómo crear sistemas expertos especializados y útiles pero todavía no sabemos cómo lograr que éstos sean capaces de mejorarse a sí mismos. Pero cuando logremos responder a estas preguntas, si lo logramos, tendremos que encarar una pregunta aún más extraña: Cuando sepamos cómo, entonces nos preguntaremos si debemos construir tales máquinas que, de algún modo, sean mejores que nosotros mismos. Por suerte dejamos esta opción a las futuras generaciones.</p>      <p>Minsky acertadamente indica al respecto: &quot;De la misma manera que la Evolución ha cambiado el punto de vista del hombre hacia la Vida, la Inteligencia Artificial cambiará el punto de vista de la mente hacia la Mente. A medida que encontramos nuevas formas para que las máquinas se comporten con más sensibilidad, nosotros también aprende­remos más sobre nuestros procesos mentales&quot;. Es decir, encontraremos nuevas formas de pensar sobre nuestros &quot;pensamientos&quot; y &quot;sentimientos&quot; [10]. Nadie puede predecir a dónde nos llevarán estas ideas pero una cosa es segura por el momento: nuestra defi­nición de las diferencias básicas entre las mentes de los hombres y las posibles mentes de las máquinas no están suficientemente claras. Quizá ya no sea posible establecer el límite donde la mente humana deja paso a la máquina. Quizá sea necesario que ellas nos den su opinión. </p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Referencias</B></font></p>      ]]></body>
+<body><![CDATA[<!-- ref --><p>[1] A. Bouvier y M. George, editores. <i>Dictionnaire des Mathématiques. </i>Presses Universitaires de France, 1979.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001593&pid=S1683-0789200100020000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[2] A.C. Clarke.   <i>2001, una Odisea Espacial.   </i>J. Vergara, 1984.   Primera Edición en 1968: 2001, a space odyssey - Polaris Productions.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001594&pid=S1683-0789200100020000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[3] R.O. Duda y R. Reboh.   <i>Artificial Intelligence Applications for Business, </i>Cap. AI and Decisión Making: The Prospector Experience. Ablex Publishing Corp., 1984.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001595&pid=S1683-0789200100020000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[4] G. Ernst y A. Newell.   <i>GPS: A case study in generality and problem solving.  </i>Academic Press, New York, NY, 1969.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001596&pid=S1683-0789200100020000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[5] M. Firebaugh.  <i>Artificial Intelligence, a Knowledge-Based Approach.  </i>Boyd &amp; Fraser Pu­blishing Company, 1988.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001597&pid=S1683-0789200100020000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[6]  D. Hebb.  <i>The organization of behavior. </i>Wiley, 1949.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001598&pid=S1683-0789200100020000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[7]   S. Levy.   2001:   Why hal never happened.   <i>Newsweek, </i>pp 52-56, Dic. 2000 - Feb. 2001. Special Edition.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001599&pid=S1683-0789200100020000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[8] W.S. McCulloc y W. Pitts. A logical calculus of the ideas immanent in nervous activity. <i>Bulletin of Mathematical Biophysics, </i>5:115-133, 1943.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001600&pid=S1683-0789200100020000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[9]   M. Minsky.   <i>Theory of Neural-Analog Reinforcement Systems and its Application to the Brain Model Problem. </i>Tesis Doctoral, Princeton University, 1954.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001601&pid=S1683-0789200100020000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[10]   M. Minsky. Why people think computers can't. <i>AI Magazine, </i>3(4), 1982.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001602&pid=S1683-0789200100020000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[11]   M. Minsky y S. Papert. <i>Perceptrons. </i>MIT Press, Cambridge, MA, 1969.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001603&pid=S1683-0789200100020000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[12]  A. Newell y H. Simón. <i>Human Problem Solving. </i>Prentice Hall, 1973.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001604&pid=S1683-0789200100020000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[13]  F. Rosenblatt.   <i>Principies of Neurodynamics: Perceptrons and the Theory of Brain Me-chanisms. </i>Spartan Books, New York, NY, 1961.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001605&pid=S1683-0789200100020000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[14]  Rusell's paradox. <u><a href="http://plato.stanford.edu/entries/rusell-paradox">http://plato.stanford.edu/entries/rusell-paradox</a></u>, 1995. Stanford Ency-clopedia of Philosophy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001606&pid=S1683-0789200100020000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[15]  E.H. Shortlife. <i>MYCIN: Computer-based Medical Consultations. </i>Elsevier Press, 1976.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001607&pid=S1683-0789200100020000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[16]   G. Stix. 2001: Rating hal against reality. <i>Scientific American, </i>284(1):26, 2001.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001608&pid=S1683-0789200100020000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[17]  A. Whitehead y B. Russell. <i>Principia Mathematica to *56. </i>Cambridge Univ. Press, 1962.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001609&pid=S1683-0789200100020000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[18]  B. Widrow y M.E. Hoff.  Adaptive switching circuits.   En <i>Western Electronic Show and Convention, </i>pp 96-104. Institute of Radio Engineers, 1960.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001610&pid=S1683-0789200100020000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[19]  T. Winograd.   <i>Understanding Natural Language. </i>Academic Press, 1972.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001611&pid=S1683-0789200100020000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bouvier]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[George]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dictionnaire des Mathématiques.]]></source>
+<year>1979</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clarke]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[2001, una Odisea Espacial.]]></source>
+<year>1984</year>
+<month>19</month>
+<day>68</day>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Duda]]></surname>
+<given-names><![CDATA[R.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reboh]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Artificial Intelligence Applications for Business: AI and Decisión Making: The Prospector Experience.]]></source>
+<year>1984</year>
+<publisher-name><![CDATA[Ablex Publishing Corp.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ernst]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Newell]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[GPS: A case study in generality and problem solving.]]></source>
+<year>1969</year>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Firebaugh]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Artificial Intelligence, a Knowledge-Based Approach.]]></source>
+<year>1988</year>
+<publisher-name><![CDATA[Boyd & Fraser Pu­blishing Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hebb.]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The organization of behavior.]]></source>
+<year>1949</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Levy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[2001: Why hal never happened.]]></source>
+<year>Dic.</year>
+<month> 2</month>
+<day>00</day>
+<page-range>52-56</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McCulloc]]></surname>
+<given-names><![CDATA[W.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pitts]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A logical calculus of the ideas immanent in nervous activity.]]></source>
+<year>1943</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Minsky]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Minsky]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Why people think computers can't.]]></source>
+<year>1982</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Minsky]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Papert]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Perceptrons]]></source>
+<year>1969</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Newell]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Simón]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Human Problem Solving]]></source>
+<year>1973</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rosenblatt.]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principies of Neurodynamics: Perceptrons and the Theory of Brain Me-chanisms.]]></source>
+<year>1961</year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="">
+<source><![CDATA[Rusell's paradox.]]></source>
+<year>1995</year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Shortlife]]></surname>
+<given-names><![CDATA[E.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[MYCIN: Computer-based Medical Consultations.]]></source>
+<year>1976</year>
+<publisher-name><![CDATA[Elsevier Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>[16]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stix]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[2001: Rating hal against reality.]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>[17]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Whitehead]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Russell]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principia Mathematica to *56]]></source>
+<year>1962</year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>[18]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Widrow]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoff]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Adaptive switching circuits]]></source>
+<year>1960</year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>[19]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Winograd]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Understanding Natural Language.]]></source>
+<year>1972</year>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

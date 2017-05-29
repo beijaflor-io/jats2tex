@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282003000100007</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Densidad de la ardilla roja amazónica (Familia Sciuridae, Sciurus spadiceus) en el valle del río Tuichi (Parque Nacional y Area Natural de Manejo Integrado Madidi, La Paz, Bolivia)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Southern Amazon Red Squirrel (Sciurus spadiceus) density in the Tuichi valley (Madidi National Park and Natural Area of Integrated Management, La Paz, Bolivia)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[Humberto]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ayala]]></surname>
+<given-names><![CDATA[Guido]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[Robert B.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[Fortunato]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Wildlife Conservation Society Programa de los Paisajes Vivientes Proyecto Paisaje]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Wildlife Conservation Society  ]]></institution>
+<addr-line><![CDATA[Bronx ]]></addr-line>
+<country>Nueva York</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2003</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2003</year>
+</pub-date>
+<volume>38</volume>
+<numero>1</numero>
+<fpage>79</fpage>
+<lpage>88</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282003000100007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282003000100007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282003000100007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Durante una evaluación de diversidad y abundancia de mamíferos grandes y medianos en el área baja del río Tuichi, en el Parque Nacional y Área Natural de Manejo Integrado Madidi, recolectamos información suficiente para estimar la densidad de la ardilla roja amazonica (Sciurus spadiceus). La densidad promedio entre dos épocas de evaluación fue de 12.2 individuos/km². Aunque no existen otras estimaciones de densidad en el área protegida la zona evaluada presenta una mayor tasa de encuentro con relación a otros tres sitios evaluados. Encontramos una variación en la abundancia entre épocas que podría estar relacionada a la disponibilidad de recursos alimenticios disponibles entre las dos épocas evaluadas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[During a biodiversity and abundance survey for medium and large size mammals in the lower basin of Tuichi river, in Madidi National Park and Natural Area of Integrated Management, we collected information in order to estimate the density of the Southern Amazon red squirrel (Sciurus spadiceus). The average density including both seasons was 12.2 individuals/km². Densitity estimations do not exist for other areas of the protected area, however encounter rates demonstrate that squirrels are particularly abundant in Tuichi region. We also found a variation in abundance between seasons, probably related to the seed fruit availability.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Ardilla roja amazonica]]></kwd>
+<kwd lng="es"><![CDATA[Sciurus spadiceus]]></kwd>
+<kwd lng="es"><![CDATA[Sciuridae]]></kwd>
+<kwd lng="es"><![CDATA[Rodentia]]></kwd>
+<kwd lng="es"><![CDATA[Palmae]]></kwd>
+<kwd lng="es"><![CDATA[transectos lineales]]></kwd>
+<kwd lng="es"><![CDATA[Madidi]]></kwd>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[Southern Amazonian red squirrel]]></kwd>
+<kwd lng="en"><![CDATA[Sciurus spadiceus]]></kwd>
+<kwd lng="en"><![CDATA[Sciuridae]]></kwd>
+<kwd lng="en"><![CDATA[Rodentia]]></kwd>
+<kwd lng="en"><![CDATA[Palmae]]></kwd>
+<kwd lng="en"><![CDATA[line transects]]></kwd>
+<kwd lng="en"><![CDATA[Madidi]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>ART&Iacute;CULO</b></font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="4"><b><font face="Verdana, Arial, Helvetica, sans-serif"> Densidad de la ardilla roja amaz&oacute;nica (Familia Sciuridae, <i>Sciurus spadiceus</i>) en el valle del r&iacute;o Tuichi (Parque Nacional y Area Natural de Manejo Integrado Madidi, La Paz, Bolivia) </font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="3"><b><font face="Verdana, Arial, Helvetica, sans-serif">Southern Amazon Red Squirrel (<i>Sciurus spadiceus</i>) density in the    Tuichi valley (Madidi National Park and Natural Area    of Integrated Management, La Paz, Bolivia) </font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Humberto G&oacute;mez<sup>1</sup>*, Guido Ayala<sup>1</sup>, Robert B. Wallace<sup>1,2</sup> &amp; Fortunato Espinoza<sup>1 </sup></font></b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup></sup></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>1</sup>Wildlife Conservation Society &ndash; Programa de los Paisajes Vivientes, Proyecto Paisaje, <br />   Casilla 3-35181, San Miguel, La Paz, Bolivia. e-mail: <a href="mailto:wcslands@caoba.entelnet.bo">wcslands@caoba.entelnet.bo</a></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>2</sup>Wildlife Conservation Society, 185th Street and Southern Boulevard, Bronx, Nueva York. <br />   e&ndash;mail: <a href="mailto:wcsmadidi@zuper.net">wcsmadidi@zuper.net</a> * Autor de correspondencia</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <hr noshade="noshade" />     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b> </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Durante una evaluaci&oacute;n de diversidad y abundancia de mam&iacute;feros grandes y medianos en el &aacute;rea baja del r&iacute;o Tuichi, en el Parque Nacional y &Aacute;rea Natural de Manejo Integrado Madidi, recolectamos informaci&oacute;n suficiente para estimar la densidad de la ardilla roja amazonica (<i>Sciurus spadiceus</i>). La densidad promedio entre dos &eacute;pocas de evaluaci&oacute;n fue de 12.2 individuos/km<sup>2</sup>. Aunque no existen otras estimaciones de densidad en el &aacute;rea protegida la zona evaluada presenta una mayor tasa de encuentro con relaci&oacute;n a otros tres sitios evaluados. Encontramos una variaci&oacute;n en la abundancia entre &eacute;pocas que podr&iacute;a estar relacionada a la disponibilidad de recursos alimenticios disponibles entre las dos &eacute;pocas evaluadas. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Palabras clave:</b> Ardilla roja amazonica, <i>Sciurus spadiceus</i>, Sciuridae, Rodentia, Palmae, transectos lineales, Madidi, Bolivia. </font></p> <hr noshade="noshade" />     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract</b> </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> During a biodiversity and abundance survey for medium and large size mammals in the lower basin of Tuichi river, in Madidi National Park and Natural Area of Integrated Management, we collected information in order to estimate the density of the Southern Amazon red squirrel (<i>Sciurus spadiceus</i>). The average density including both seasons was 12.2 individuals/km<sup>2</sup>. Densitity estimations do not exist for other areas of the protected area, however encounter rates demonstrate that squirrels are particularly abundant in Tuichi region. We also found a variation in abundance between seasons, probably related to the seed fruit availability. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Key words:</b> Southern Amazonian red squirrel, <i>Sciurus spadiceus</i>, Sciuridae, Rodentia, Palmae, line transects, Madidi, Bolivia. </font></p> <hr noshade="noshade" />     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Introducci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las ardillas son uno de los grupos m&aacute;s ampliamente distribuidos en el mundo (Macdonald 1984) as&iacute; como en el neotr&oacute;pico (Eisenberg &amp; Redford 1999, Emmons 1999). Sin embargo, han habido pocos estudios de ardillas neotropicales (Heaney &amp; Thorington 1995, Glanz et al. 1982, Glanz 1984, Glanz et al. 1990, Paschoal &amp; Galetti 1995), la historia natural de la mayor parte de las especies es poco conocida y la sistem&aacute;tica no es clara en varios casos (Emmons 1999). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Las ardillas del g&eacute;nero <i>Sciurus</i> tienden a ser altamente variables geogr&aacute;ficamente en cuanto a patrones de coloraci&oacute;n y muchas especies tienen individuos o poblaciones con pigmentaci&oacute;n mel&aacute;nica (Eisenberg &amp; Redford 1999, Emmons 1999). En nuestro sitio de estudio hemos encontrado dos fenotipos de <i>Sciurus spadiceus</i>: uno con coloraci&oacute;n rojiza en el pecho y otro con coloraci&oacute;n blanca: Aunque no tenemos certeza si se trata de dos especies, en la presente publicaci&oacute;n tratamos a ambos fenotipos como <i>S. spadiceus</i>. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En general, las ardillas del g&eacute;nero <i>Sciurus</i> est&aacute;n especializadas en el uso de plantas que producen nueces duras cada a&ntilde;o, las cuales no son consumidas por otros depredadores de semillas (Paschoal &amp; Galletti 1995, Wallace et al. 2000); particularmente, <i>S. spadiceus</i> es especialista en nueces grandes con endocarpos extremadamente delgado y duro: el 98% de su dieta consiste en 3 g&eacute;neros de plantas, <i>Astrocaryum, Attalea</i> y <i>Dipteryx </i>(Emmons 1984). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Estudios sobre <i>S. granatensis</i> en la isla Barro Colorado (Panam&aacute;) (Heaney &amp; Thorington 1995, Glanz 1984) establecieron una estrecha relaci&oacute;n entre la densidad poblacional con la disponibilidad de frutos de semillas duras. Estudios adicionales postularon una alta tasa reproductiva: dos camadas al a&ntilde;o con un promedio de dos cr&iacute;as por camada y una tasa de supervivencia del 60% anual. En base a estos estudios, se estableci&oacute; una densidad poblacional inusualmente alta con un aumento de casi diez veces entre 1965 a 1971 (Glanz et al.<br />   1990).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Desde el punto de vista de su aporte a la comunidad de mam&iacute;feros no voladores en bosques neotropicales, el gremio de los frug&iacute;voros/gran&iacute;voros arb&oacute;reos, de los cuales los sci&uacute;ridos forman parte, conforman m&aacute;s del 50% de la biomasa , siendo por lo tanto uno de los grupos m&aacute;s importantes dentro de la diversidad de estos bosques (Peres 1999a). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En este art&iacute;culo presentamos datos sobre la densidad de la ardilla roja boliviana y su relaci&oacute;n con la disponibilidad de frutos en una regi&oacute;n del valle bajo del r&iacute;o Tuichi dentro del Parque Nacional y &Aacute;rea Natural de Manejo Integrado Madidi (PN y ANMI Madidi), La Paz, Bolivia. </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>&Aacute;rea de estudio </b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El sitio de estudio fue la cuenca baja del r&iacute;o Tuichi (14&ordm;34&rsquo;S &ndash; 67&ordm;44&rsquo;O). El &aacute;rea es predominantemente plana y presenta serran&iacute;as bajas, las cuales representan las &uacute;ltimas estribaciones de la cordillera andina (<a href="#f1">Fig. 1</a>). La estaci&oacute;n clim&aacute;tica m&aacute;s cercana (Rurrenabaque) tiene un promedio de precipitaci&oacute;n anual de 2.228 mm, que se produce mayormente entre noviembre a marzo; la temperatura media anual alcanza los 23&ordm;C (Pachecho et al. 2002). </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f1" id="f1"></a></p>     <p align="center"><a href="/img/revistas/reb/v38n1/a07_figura_01_.gif"><img src="/img/revistas/reb/v38n1/a07_figura_01.gif" width="650" height="418" border="0" title="Click para agrandar la imagen" /></a></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Debido a las condiciones fisiogr&aacute;ficas en el &aacute;rea se encuentran dos tipos de bosque. El bosque de llanura, que presenta un estrato dominante discontinuo de 15 a 30 m de altura, con &aacute;rboles emergentes que llegan a 35 m de altura. Presenta gran abundancia de bejucos o lianas como la u&ntilde;a de gato (<i>Macfadyena unguiscati</i>) y otras bignoni&aacute;ceas. Entre las especies arb&oacute;reas se encuentran el bi (<i>Genipa americana</i>), el nui (<i>Pseudomelia laevis</i>), pacay (<i>Inga spp</i>.), el chocolatillo (<i>Virola sebifera</i>), el isigo (<i>Tetragatris panamensis</i>), el chicle (<i>Clarisia racemosa</i>), el ambaibillo (<i>Pouruma </i>sp.) y bibosis (<i>Ficus</i> spp.) </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El bosque de serran&iacute;a, que se presenta en &aacute;rea con fuerte relieve, forma un bosque pendiente y vegetaci&oacute;n densa con bejucos o lianas, como la u&ntilde;a de gato (<i>M. unguis-cati</i>). Presenta un estrato discontinuo de 20 a 25 m de altura, con &aacute;rboles emergentes que llegan hasta 35 m de altura. Predominan el nui (<i>P. laevis</i>), el isigo (<i>T. panamensis</i>), el ambaibillo (<i>Pouruma</i> sp.) y bibosis (<i>Ficus</i> spp.). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Entre las palmeras predominantes en ambos tipos de vegetaci&oacute;n se encuentran el motac&uacute; (<i>Attalea phalerata</i>), el asa&iacute; (<i>Euterpe precatoria</i>) y la copa (<i>Iriartea deltoidea</i>), tambi&eacute;n est&aacute;n presentes la pachiuba (<i>Socratea exorhiza</i>), la jatata (<i>Geonoma deversa</i>), la chonta (<i>Astrocaryum murumuru</i>), el majo (<i>Oenocarpus bataua</i>) y el majillo (<i>O. mapora</i>). </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos </b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Las estimaciones de abundancia fueron realizadas de manera continua entre el 1 al 13 de marzo de 2001 (1&ordf; campa&ntilde;a) y el 30 de agosto al 2 de noviembre de 2001 (2&ordf; campa&ntilde;a). Abrimos 10 sendas (<a href="#f1">Fig. 1</a>) y las usamos como transectas lineales (Buckland et al. 1993); las mismas fueron recorridas por dos observadores entre las 7:00 a 14:00 h. Los detalles sobre la longitud de cada transecta, n&uacute;mero de r&eacute;plicas (las repeticiones de los recorridos en las sendas) y longitud recorrida se encuentran en la <a href="#t1">tabla 1</a>. </font></p>     <p align="justify"><a name="t1" id="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v38n1/a07_tabla_01.gif" width="627" height="420" /></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Cada senda fue considerada independiente ya que como m&iacute;nimo dos d&iacute;as transcurrieron entre las r&eacute;plicas. La velocidad a la cual las sendas fueron recorridas vari&oacute; alrededor de 1 km/h, dependiendo de las condiciones del terreno. Los per&iacute;odos de caminata fueron regularmente intercalados con breves paradas para escuchar, aumentando as&iacute; la probabilidad de detecci&oacute;n (Peres 1999b, Wallace 1999). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Tomamos la informaci&oacute;n de acuerdo a la gu&iacute;a de Wallace (1999), incluyendo: n&uacute;mero de transecta, n&uacute;mero de observaci&oacute;n, hora, grupo o individuo, n&uacute;mero observado y distancia perpendicular al individuo/grupo observado. Con esta informaci&oacute;n calculamos la densidad de S. <i>spadiceus</i> con el programa Distance 4.0 (Thomas et al. 2001). Aunque no ten&iacute;amos muestras altas, tambi&eacute;n calculamos las densidades para las dos campa&ntilde;as por separado (n = 38, 1&ordf; campa&ntilde;a; n = 27, 2&ordf; campa&ntilde;a). Los dos fenotipos encontrados estuvieron presentes por igual en ambas &eacute;pocas y se encontraban distribuidos en ambos tipos de vegetaci&oacute;n por igual. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para evaluar la disponibilidad de alimento, contamos y medimos el DAP de todos los &aacute;rboles con frutos a un metro, a cada lado de las transectas. Posteriormente, calculamos el &aacute;rea basal por senda como indicador de la oferta alimenticia de &aacute;rboles y comparamos entre &eacute;pocas, usando la prueba U de Mann Whitney. En el caso de las palmas, contamos el n&uacute;mero de racimos de cada palmera a un metro a cada lado de la transecta, siendo el n&uacute;mero total de racimos el indicador de la oferta alimenticia. Comparamos la oferta alimenticia de palmas entre &eacute;pocas usando una prueba de chi-cuadrado. </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Permitimos que el programa DISTANCE calculara una variedad de posibles estimadores y agrupaciones de datos; posteriormente, bas&aacute;ndonos en el &ldquo;criterio de informaci&oacute;n de Akaike&rdquo; y usando un test de chi-cuadrado, seleccionamos el estimador cuyo modelo de probabilidad de detecci&oacute;n no fuera significativamente diferente de la distribuci&oacute;n de las observaciones reales (siguiendo las recomendaciones de Buckland et al. (1993) (<a href="#f2">Fig. 2</a>). Todas las estimaciones fueron realizadas en base a una funci&oacute;n &ldquo;half-normal&rdquo; con una serie de expansi&oacute;n de coseno. </font></p>     <p align="justify"><a name="f2" id="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v38n1/a07_figura_02.gif" width="620" height="886" /></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los detalles sobre las estimaciones de densidades encontradas se encuentran en la <a href="#t2">tabla 2</a>. Existe una disminuci&oacute;n de la densidad poblacional estimada entre ambos per&iacute;odos de evaluaci&oacute;n hacia el final de la &eacute;poca de lluvias, encontr&aacute;ndose pr&aacute;cticamente el doble de ardillas en la 1&ordf; campa&ntilde;a que en la 2&ordf; campa&ntilde;a, &eacute;poca seca de transici&oacute;n a h&uacute;meda, aunque estad&iacute;sticamente esta diferencia no pudo ser detectada (t=1.94, p&gt;0.05) por los altos coeficientes de variaci&oacute;n asociados. </font></p>     <p align="justify"><a name="t2" id="t2"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><img src="/img/revistas/reb/v38n1/a07_tabla_02.gif" width="624" height="217" /></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El mismo patr&oacute;n de variaci&oacute;n en la abundancia puede verse usando la tasa de encuentro (<a href="#t3">tabla 3</a>), con una mayor abundancia en la 1&ordf; campa&ntilde;a respecto a la 2&ordf; campa&ntilde;a (t=2.37, P&gt;0.05). </font></p>     <p align="justify"><a name="t3" id="t3"></a></p>     <p align="center"><img src="/img/revistas/reb/v38n1/a07_tabla_03.gif" width="625" height="401" /></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No encontramos diferencias en la disponibilidad de frutos de &aacute;rboles entre ambas campa&ntilde;as (expresado como el &aacute;rea basal por transecta; U=2, p=0.143). Mientras que, durante la 1&ordf; campa&ntilde;a hubieron m&aacute;s racimos con frutos de palmeras disponibles que en la 2&ordf; campa&ntilde;a (X<sup>2</sup>=312, p&lt;0.01, g.l.: 3). </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n </b></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Sobre la densidad </b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La densidad de ardilla roja boliviana que encontramos en el valle bajo del r&iacute;o Tuichi es alta (12.2 ind/km<sup>2</sup>), si la comparamos con la que Peres (1999a) estim&oacute; en el bosque de Uruc&uacute; (Brasil) donde encontr&oacute; una densidad de 2.2 individuos/km<sup>2</sup>, en un bosque sin perturbaciones humanas, pero con diferente tipo de h&aacute;bitat (bosque de tierra firme y, por tanto con menor cantidad de palmas). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Otras estimaciones de densidad de ardillas del mismo g&eacute;nero en el Neotr&oacute;pico son muy variables, de 9 individuos/km<sup>2 </sup>en Tikal (Guatemala) hasta 180 individuos/km<sup>2 </sup>en la isla Barro Colorado (Panam&aacute;) (Glanz 1990). Seg&uacute;n Glanz (1990), las razones para esta alta variaci&oacute;n en la densidad de ardillas no son claras, ya que los depredadores no son una limitante; en el caso de la isla Barro Colorado, los recursos preferidos por las ardillas podr&iacute;an serlo. La dieta principal de este grupo est&aacute; constituido por nueces duras (Glanz 1982, Glanz </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">et al. 1990, Emmons 1984), y son recursos que otros animales arb&oacute;reos no utilizan, por lo que la abundancia de las ardillas parece estar fuertemente relacionada a las tasas de producci&oacute;n espec&iacute;ficas de estos recursos. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Al igual que Glanz (1990), Emmons (1984) describi&oacute; la dificultad de predecir los patrones de densidad de mam&iacute;feros peque&ntilde;os en bosques neotropicales debido a una gran variaci&oacute;n entre sitios, que es el reflejo del patr&oacute;n de disponibilidad de recursos clave. Sin embargo, Emmons (1984) asegura que existe una relaci&oacute;n entre la diversidad y la abundancia de los diferentes grupos de mam&iacute;feros; por tanto, la menor equitatividad presente en la isla Barro Colorado, reflejar&iacute;a una alta </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">abundancia de algunos grupos relacionados con la disponibilidad inmediata de recursos, como las ardillas. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Las evaluaciones de la diversidad de mam&iacute;feros en el &aacute;rea del r&iacute;o Tuichi (Pacheco et al. 2002, Ayala et al. 2002) muestran una similitud con otros sitios en bosques neotropicales en cuanto a su composici&oacute;n y estructura, es decir, una equitatividad similar. Por lo que creemos que la abundancia encontrada es un reflejo de la disponibilidad inmediata de recursos alimenticios en el &aacute;rea. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A nivel del PN y ANMI Madidi no contamos con otras estimaciones de densidad de la ardilla roja boliviana. Sin embargo, s&iacute; podemos utilizar la tasa de encuentro como un indicador de abundancia y comparando esta &aacute;rea con otros sitios evaluados en y alrededor del PN y ANMI Madidi, encontramos que tiene la mayor abundancia relativa reportada en el &aacute;rea protegida (<a href="#t3">Tabla 3</a>). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los cuatro sitios evaluados representan diferente grado de disturbio causado por actividades humanas. En Undumo actualmente hay una intensa actividad humana de explotaci&oacute;n forestal y cacer&iacute;a (G&oacute;mez et al. 2001); en Asariamas, hasta hace 5 a&ntilde;os hab&iacute;a explotaci&oacute;n forestal y cacer&iacute;a asociada a esta actividad (R&iacute;os-Uzeda et al. 2001); en Chalal&aacute;n, hasta 5 a&ntilde;os hab&iacute;a explotaci&oacute;n forestal y cacer&iacute;a asociada e independiente; y finalmente, en el &aacute;rea de estudio, hasta hace 7 a&ntilde;os tuvo exploraci&oacute;n petrolera, explotaci&oacute;n forestal y cacer&iacute;a asociada a &eacute;sta, aunque &uacute;nicamente de piezas grandes, que nunca incluyeron ardillas </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">(F. Espinoza, L. Ocampo, 2002 com. pers.). L&oacute;gicamente, no ser&iacute;a cabal especular que la diferencia en abundancias relativas es debida a los diferentes grados de intervenci&oacute;n humana, pues como hemos anotado antes parece haber una fuerte relaci&oacute;n con los recursos disponiblesen-el-sitio. Pero la presencia de actividades humanas es un criterio para tomar en cuenta a la hora de realizar comparaciones entre sitios. Sin embargo, el &aacute;rea de Chalal&aacute;n se encuentra muy cerca y probablemente presenta la misma disponibilidad de frutos, pero tiene una abundancia relativa mucho menor, por lo que esta diferencia podr&iacute;a ser el reflejo de un mayor impacto pasado de actividades humanas sobre Chalal&aacute;n que en el &aacute;rea de estudio evaluada m&aacute;s al sur. Resulta, por tanto evidente la necesidad de realiza estudios sobre la variaci&oacute;n en abundancia entre sitios entre diferentes &eacute;pocas, sobre todo en el caso de mam&iacute;feros medianos y peque&ntilde;os. </font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Sobre la variaci&oacute;n estacional en la densidad </b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> No encontramos diferencias en las distancias de detecci&oacute;n entre &eacute;pocas (M1 = 5 m; M2 = 7 m; U = 341, p = 0.34), as&iacute; como tampoco en la altura de detecci&oacute;n entre &eacute;pocas (M1 = 4 m; M2 = 4 m; </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">U = 190.5, P = 0.307), por lo que la probabilidad de detecci&oacute;n en ambas &eacute;pocas, fue similar. Siendo las probabilidades de detecci&oacute;n las mismas entre ambas &eacute;pocas las explicaciones sobre la variaci&oacute;n en abundancia pueden deberse a causas del comportamiento o la ecolog&iacute;a de la especie. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Al ser las ardillas un grupo que responde a la disponibilidad local de recursos es de esperar que su abundancia var&iacute;e tambi&eacute;n de acuerdo a la variaci&oacute;n en la disponibilidad de recursos. Este aspecto ya fue verificado con otras especies como <i>S. granatensis</i> en la isla Barro Colorado (Glanz et al. 1990) y aunque no tenemos la misma cantidad de informaci&oacute;n para llegar a las mismas conclusiones, creemos que existe el mismo patr&oacute;n en la variaci&oacute;n en la densidad de ardillas en el valle bajo del r&iacute;o Tuichi. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La reducci&oacute;n en la disponibilidad de frutos duros (espec&iacute;ficamente palmeras) entre las dos campa&ntilde;as de evaluaci&oacute;n podr&iacute;an explicar por tanto la diferencia en la abundancia de ardillas entre &eacute;pocas, afirmando la relaci&oacute;n entre la abundancia de ardillas y la disponibilidad de frutos duros se&ntilde;alada por otros autores (Emmons 1984, Glanz et al. 1990). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Otro aspecto para tomar en cuenta son los eventos reproductivos, las ardillas hacen nidos (Emmons 1999) y la reproducci&oacute;n es alrededor de agosto (Anderson 1997), por lo que la reducci&oacute;n en la abundancia poblacional podr&iacute;a tambi&eacute;n deberse a eventos reproductivos (cr&iacute;a de reci&eacute;n nacidos). Sin embargo, no hemos podido comprobar esta hip&oacute;tesis. Adicionalmente, hay que se&ntilde;alar que en el caso de la isla Barro Colorado las ardillas exhiben altas tasa reproductivas (2 a 4 cr&iacute;as por a&ntilde;o) y una mortalidad alta (60% de supervivencia anual). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Es importante recordar que las ardillas son un componente importante en la estructura de la mastofauna de los bosques tropicales cumpliendo un rol como depredadores de semillas. Adicionalmente, esta evaluaci&oacute;n sirve para ilustrar la importancia de tomar en cuenta la variaci&oacute;n temporal en la densidad, en especial de peque&ntilde;os mam&iacute;feros, as&iacute; como la importancia de recopilar informaci&oacute;n m&iacute;nima sobre la disponibilidad de recursos alimenticios a la hora de realizar relevamientos poblacionales de fauna. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este trabajo forma parte del componente de relevamientos de biodiversidad del proyecto &ldquo;Conservaci&oacute;n de Biodiversidad a Nivel Paisaje&rdquo; de la Wildlife Conservation Society financiado por USAID Global y WCS International Programs, a trav&eacute;s del Acuerdo Cooperativo LAG-A-00-99-00047-00. Las opiniones aqu&iacute; expresadas representan a los autores y no necesariamente reflejan los criterios de USAID. Ernesto C&aacute;ceres, V&iacute;ctor Hugo C&aacute;ceres, Jairo C&aacute;ceres e Irguen Janco participaron como gu&iacute;as durante el trabajo de campo. Agradecemos a Dami&aacute;n Rumiz, quien hizo comentarios en la versi&oacute;n inicial de este trabajo, a Teresa Tarifa, Luis Pacheco y un revisor an&oacute;nimo que nos ayudaron a mejorar mucho el presente art&iacute;culo. </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias </b></font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Anderson, S. 1997. Mammals of Bolivia, taxonomy and distribution. American Museum of Natural History, Nueva York, USA. 652 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060002&pid=S1605-2528200300010000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ayala, G., H. G&oacute;mez, R. B. Wallace &amp; F. Espinoza. 2002. Estructura y composici&oacute;n de mam&iacute;feros grandes y medianos en un bosque de pie de monte (Parque Nacional y &Aacute;rea Natural de Manejo Integrado Madidi, La Paz, Bolivia). Manuscrito no publicado. 32 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060003&pid=S1605-2528200300010000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Buckland, S. T., D. R. Anderson, K. P. Burnham &amp; J. L. Laake. 1993. Distance sampling: estimating abundance of biological populations. Chapman &amp; Hall. 446 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060004&pid=S1605-2528200300010000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Eisenberg, J. &amp; K. Redford. 1999. Mammals of the neotropics: Volume 3, Ecuador, Peru, Bolivia, Brazil. The University of Chicago Press, USA. 609 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060005&pid=S1605-2528200300010000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Emmons, L. H. 1984. Geographic variation in densities and diversities of non-flying mammals in Amazonia. Biotropica 16 (3): 210-222. </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Emmons, L. 1999. Mam&iacute;feros de los bosques h&uacute;medos de Am&eacute;rica tropical. Editorial FAN, Santa Cruz. 298 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060007&pid=S1605-2528200300010000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Glanz, W. E. 1984. Food and habitat use by two sympatric <i>Sciurus</i> species in Central Panama. J. Mammal. 65: 342-347. </font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Glanz, W. E. 1990. Neotropical mammal densities: how unusual is the community on Barro Colorado Island, Panama? pp. 287-31. En: A. Gentry (Ed.). Four Neotropical Rainforest. Yale University Press, Nueva York. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060009&pid=S1605-2528200300010000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Glanz, W. E., R. W. Thoringtohn, J. Giacalone Madden &amp; L. Heaney. 1982. Seasonal food use and demographic trends in <i>Sciurus</i> granatensis. P&aacute;ginas 239-252 en The ecology of a tropical forest (E. G. Leigh, A. S. Rand &amp; D. M. Windsor, eds.) Smithsonian Institution Press, Washington, D. C. </font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Glanz, W. E., R. W. Thoringtohn, J. Giacalone Madden &amp; L. Heaney. 1990. Utilizaci&oacute;n estacional de alimentos y tendencies demogr&aacute;ficas de <i>Sciurus</i> granatensis. pp. 317-335. En: E. G. Leigh, A. S. Rand &amp; D. </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">M. Windsor, (Eds.). Ecolog&iacute;a de un Bosque Tropical: Ciclos Estacionales y Cambios a Largo Plazo. Smithsonian Institution Press, Washington. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060011&pid=S1605-2528200300010000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> G&oacute;mez, H., R.B. Wallace &amp; C. Veitch. 2001. Diversidad y abundancia de mam&iacute;feros medianos y grandes en el noreste del &aacute;rea de influencia del Parque Nacional Madidi durante la &eacute;poca h&uacute;meda. Ecolog&iacute;a en Bolivia 36: 17-29. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Heaney, L. R. &amp; R. W. Thorington. 1995. Ecology of neotropical red-tailed squirrels, </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">H. G&oacute;mez, G. Ayala, R. B. Wallace &amp; F. Espinoza </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><i>Sciurus</i> granatensis, in the Panama Canal Zone. J. Mammal. 59: 846-851. </font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Macdonald, D. 1989. The encyclopedia of Mammals: 2. Equinox-Oxford, Inglaterra. 895 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060014&pid=S1605-2528200300010000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Pacheco, L. F., T. Tarifa, M. Hinojosa &amp; E. Aliaga. 2002. Composici&oacute;n y abundancia de aves y mam&iacute;feros en una zona afectada por exploraci&oacute;n petrolera en el Parque Nacional Madidi, Bolivia. Manuscrito no publicado, 32 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060015&pid=S1605-2528200300010000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Paschoal, M. &amp; M. Galetti. 1995. Seasonal food use by the neotropical squirrel <i>Sciurus</i> ingrami in Southeastern Brazil. Biotropica 27(2): 268-273. </font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Peres, C. A. 1999a. The structure of nonvolant mammal communities in different Amazonian forest types. pp. 564-581. En: J. F. Einsenberg &amp; K. H. Redford (eds.). Mammals of the Neotropics: the Central Tropics. Volume 3, Ecuador, Peru, Bolivia, Brazil. The University of Chicago Press, Chicago. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060017&pid=S1605-2528200300010000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Peres, C. A. 1999b. General guidelines for standarzing line-transect surveys of tropical forest primates. Neotropical Primates 7(1): 11-16. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> R&iacute;os-Uzeda, B., R.B. Wallace, H. Aran&iacute;bar &amp; C. Veitch. 2001. Evaluaci&oacute;n de mam&iacute;feros </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">medianos y grandes en el bosque semideciduo del alto Tuichi (PN y ANMI Madidi, Depto. La Paz). Ecolog&iacute;a en Bolivia 36: 31-38. </font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Thomas, L., Laake, J.L., Strindberg, S., Marques, F., Borchers, D.L., Buckland, S.T., Anderson, D.R., Burnham, K.P., Hedley, </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">S.L. &amp; Pollard, J.H. 2001. Distance 4.0. Beta 2. Research unit for wildlife population assessment. University of St. Andrews, St. Andrews, Escocia. <a href="http:// www.ruwpa.st-and.ac.uk/distance/" target="_blank">http:// www.ruwpa.st-and.ac.uk/distance/</a> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=060020&pid=S1605-2528200300010000700019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Wallace, R. B. 1999. Transectas lineales: Recomendaciones sobre dise&ntilde;o, pr&aacute;ctica y an&aacute;lisis. pp. VI 1-14. En: L. Painter, D. Rumiz, D. Guinart, R. Wallace, B. Flores &amp; W. Townsend (eds.). T&eacute;cnicas de Investigaci&oacute;n para el Manejo de Fauna Silvestre: un Manual del Curso Dictado. III Congreso Internacional sobre Manejo de Fauna Silvestre en la Amazonia, Santa Cruz de la Sierra. BOLFOR Documento t&eacute;cnico 82/1999, Santa Cruz. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Wallace, R. B., R. L. E. Painter, D. I. Rumiz &amp; J. </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">C. Herrera. 2000. La estacionalidad y el manejo de vida silvestre en los bosques de producci&oacute;n del oriente de Bolivia. Rev. Bol. Ecol. 8: 65-81. </font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo manejado por: Luis F. Pacheco </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Recibido en: Abril de 2002. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Octubre de 2002.</font></p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of Bolivia, taxonomy and distribution]]></source>
+<year>1997</year>
+<page-range>652</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[American Museum of Natural History]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ayala]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estructura y composición de mamíferos grandes y medianos en un bosque de pie de monte (Parque Nacional y Área Natural de Manejo Integrado Madidi, La Paz, Bolivia)]]></source>
+<year>2002</year>
+<page-range>32</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[K. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distance sampling: estimating abundance of biological populations]]></source>
+<year>1993</year>
+<page-range>446</page-range><publisher-name><![CDATA[Chapman & Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redford]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of the neotropics]]></source>
+<year>1999</year>
+<volume>3</volume>
+<page-range>609</page-range><publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Emmons]]></surname>
+<given-names><![CDATA[L.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Geographic variation in densities and diversities of non-flying mammals in Amazonia]]></article-title>
+<source><![CDATA[Biotropica]]></source>
+<year>1984</year>
+<volume>16</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>210-222</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Emmons]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mamíferos de los bosques húmedos de América tropical]]></source>
+<year>1999</year>
+<page-range>298</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Glanz]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Food and habitat use by two sympatric Sciurus species in Central Panama]]></article-title>
+<source><![CDATA[J. Mammal.]]></source>
+<year>1984</year>
+<volume>65</volume>
+<page-range>342-347</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Glanz]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Neotropical mammal densities: how unusual is the community on Barro Colorado Island, Panama?]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Gentry]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Four Neotropical Rainforest]]></source>
+<year>1990</year>
+<page-range>287-31</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Yale University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Glanz]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thoringtohn]]></surname>
+<given-names><![CDATA[R. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Giacalone Madden]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Heaney]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seasonal food use and demographic trends in Sciurus granatensis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Leigh]]></surname>
+<given-names><![CDATA[E. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rand]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Windsor]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The ecology of a tropical forest]]></source>
+<year>1982</year>
+<page-range>239-252</page-range><publisher-loc><![CDATA[Washington^eD. C. D. C.]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Glanz]]></surname>
+<given-names><![CDATA[W. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thoringtohn]]></surname>
+<given-names><![CDATA[R. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Giacalone Madden]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Heaney]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Utilización estacional de alimentos y tendencies demográficas de Sciurus granatensis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Leigh]]></surname>
+<given-names><![CDATA[E. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rand]]></surname>
+<given-names><![CDATA[A. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Windsor]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecología de un Bosque Tropical: Ciclos Estacionales y Cambios a Largo Plazo]]></source>
+<year>1990</year>
+<page-range>317-335</page-range><publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Veitch]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Diversidad y abundancia de mamíferos medianos y grandes en el noreste del área de influencia del Parque Nacional Madidi durante la época húmeda]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2001</year>
+<volume>36</volume>
+<page-range>17-29</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Heaney]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thorington]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecology of neotropical red-tailed squirrels, Sciurus granatensis, in the Panama Canal Zone]]></article-title>
+<source><![CDATA[J. Mammal.]]></source>
+<year>1995</year>
+<volume>59</volume>
+<page-range>846-851</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Macdonald]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The encyclopedia of Mammals]]></source>
+<year>1989</year>
+<volume>2</volume>
+<page-range>895</page-range><publisher-loc><![CDATA[Inglaterra ]]></publisher-loc>
+<publisher-name><![CDATA[Equinox-Oxford]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hinojosa]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aliaga]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Composición y abundancia de aves y mamíferos en una zona afectada por exploración petrolera en el Parque Nacional Madidi, Bolivia]]></source>
+<year>2002</year>
+<page-range>32</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Paschoal]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galetti]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seasonal food use by the neotropical squirrel Sciurus ingrami in Southeastern Brazil]]></article-title>
+<source><![CDATA[Biotropica]]></source>
+<year>1995</year>
+<volume>27</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>268-273</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peres]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The structure of nonvolant mammal communities in different Amazonian forest types]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Einsenberg]]></surname>
+<given-names><![CDATA[J. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redford]]></surname>
+<given-names><![CDATA[K. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of the Neotropics: the Central Tropics]]></source>
+<year>1999</year>
+<month>a</month>
+<volume>3</volume>
+<page-range>564-581</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peres]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[General guidelines for standarzing line-transect surveys of tropical forest primates]]></article-title>
+<source><![CDATA[Neotropical Primates]]></source>
+<year>1999</year>
+<month>b</month>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>11-16</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ríos-Uzeda]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Araníbar]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Veitch]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluación de mamíferos medianos y grandes en el bosque semideciduo del alto Tuichi (PN y ANMI Madidi, Depto. La Paz)]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2001</year>
+<volume>36</volume>
+<page-range>31-38</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Strindberg]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Borchers]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[S.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[K.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hedley]]></surname>
+<given-names><![CDATA[S.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pollard]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distance 4.0. Beta 2. Research unit for wildlife population assessment]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Escocia ]]></publisher-loc>
+<publisher-name><![CDATA[University of St. Andrews, St. Andrews]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R. B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Transectas lineales: Recomendaciones sobre diseño, práctica y análisis]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Painter]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rumiz]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guinart]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flores]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Townsend]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Técnicas de Investigación para el Manejo de Fauna Silvestre: un Manual del Curso Dictado]]></source>
+<year>1999</year>
+<conf-name><![CDATA[III Congreso Internacional sobre Manejo de Fauna Silvestre en la Amazonia, Santa Cruz de la Sierra]]></conf-name>
+<conf-date>1999</conf-date>
+<conf-loc>Santa Cruz </conf-loc>
+<page-range>VI 1-14</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Painter]]></surname>
+<given-names><![CDATA[R.L.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rumiz]]></surname>
+<given-names><![CDATA[D.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrera]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La estacionalidad y el manejo de vida silvestre en los bosques de producción del oriente de Bolivia]]></article-title>
+<source><![CDATA[Rev. Bol. Ecol.]]></source>
+<year>2000</year>
+<volume>8</volume>
+<page-range>65-81</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000100003</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Causas directas de la deforestación reciente (2000-2010) y modelado de dos escenarios futuros en las tierras bajas de Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Proximate causes of recent deforestation (2000-2010) in the Bolivian lowlands and modeling of future scenarios]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[Robert]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[Daniel M.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cuéllar]]></surname>
+<given-names><![CDATA[Saul]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[Sara]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad de Göttingen Instituto de Geografía Departamento de Ecología del Paisaje]]></institution>
+<addr-line><![CDATA[Berlin ]]></addr-line>
+<country>Alemania</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Fundación Amigos de la Naturaleza  ]]></institution>
+<addr-line><![CDATA[Santa Cruz de la Sierra ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>1</numero>
+<fpage>20</fpage>
+<lpage>34</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000100003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000100003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Se presentan los resultados de un estudio detallado sobre la dinámica de deforestación en las tierras bajas de Bolivia ocurrida entre 2000 y 2010. Específicamente se analizaron los tres usos del suelo que constituyen las principales causas de deforestación (ganadería en pastos sembrados, agricultura mecanizada y agricultura a pequeña escala). Si bien la agricultura mecanizada (producción de soya) fue la principal causa de deforestación en los 90&rsquo;s, los resultados presentados aquí sugieren que en la última década la ganadería fue la principal causa de deforestación, causando más del 50% de la deforestación con un impacto muy fuerte en la Chiquitanía. La agricultura mecanizada contribuyó con un 30% a la pérdida de bosques, mientras que aquella de pequeña escala fue responsable del ca. 18% de la deforestación. Las tendencias futuras de expansión agropecuaria fueron evaluadas utilizando un modelo espacial de regresión logística, basado en variables independientes ambientales (como climáticas), socioeconómicas (accesibilidad de mercados) y políticas (presencia de áreas protegidas). Fueron elaborados dos escenarios de deforestación hasta 2040, uno negativo sin cambios en las dinámicas de deforestación y uno positivo o conservacionista. Se identificaron áreas con alto valor de conservación amenazadas por la posible expansión de la deforestación al norte del departamento de Santa Cruz y al pie de la Cordillera Oriental norte. Los resultados apuntan a la gran importancia de controlar la expansión de la ganadería, por ejemplo, mediante la aplicación más consecuente de las leyes existentes y la aplicación de técnicas pecuarias para un aprovechamiento más eficiente del suelo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[We present a detailed study of the dynamics of deforestation in the Bolivian lowlands between 2000 and 2010. In the first analysis, we evaluate the contributions of the three main proximate causes of deforestation: Mechanized agriculture, small-scale agriculture and cattle ranching in replacement of forests. The impact of cattle ranching was strong and incrementing, causing over 50% of deforestation between 2000 and 2010, with a very strong impact in the Chiquitania region. Mechanized agriculture, mainly for soy production, expanded with a lower intensity than in the 1990s, causing some 30% of forest conversion between 2000-2010. The contribution of small-scale agriculture was about 18%. We also evaluated possible future trends of agricultural expansion, applying a multinomial spatial model of logistic regression, based on a series of independent variables representing environmental factors (such as rainfall), socioeconomic factors (such as access to markets) and political factors (such as the presence of protected areas). The results were compared with different classifications that represent the conservation value of the threatened forests, allowing for the identification of possible priority areas for the mitigation of deforestation. Such areas are mainly found in the north of the department of Santa Cruz and at the northern Andean foothills. The results suggest that for the reduction of deforestation, it will be crucial to control the expansion of cattle ranching, for example by an enforcement of existing legislation, but also by applying practices that allow for a more efficient use of pastures.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="es"><![CDATA[Deforestación]]></kwd>
+<kwd lng="es"><![CDATA[Causas directas]]></kwd>
+<kwd lng="es"><![CDATA[Modelado de escenarios]]></kwd>
+<kwd lng="es"><![CDATA[Prioridades de conservación]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[Deforestation]]></kwd>
+<kwd lng="en"><![CDATA[Proximate Causes]]></kwd>
+<kwd lng="en"><![CDATA[Modeling future Scenarios]]></kwd>
+<kwd lng="en"><![CDATA[Conservation Priorities]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Causas directas de la deforestaci&oacute;n reciente (2000-2010) y modelado de dos escenarios futuros en las tierras bajas de Bolivia</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Proximate causes of recent deforestation (2000-2010) in the Bolivian lowlands and modeling of future scenarios</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Robert M&uuml;ller<sup>1,2*</sup>, Daniel M. Larrea-Alc&aacute;zar<sup>2</sup>, Saul Cu&eacute;llar<sup>2</sup> &amp; Sara Espinoza<sup>2</sup></font></b></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <sup>1</sup>Departamento de Ecolog&iacute;a del Paisaje, Instituto de Geograf&iacute;a, Universidad de G&ouml;ttingen, Markgrafenstrasse 5, 10969 Berlin, Alemania, *Autor para correspondencia: <a href="mailto:robemule@yahoo.com">robemule@yahoo.com</a> <br />       <sup>2</sup>Fundaci&oacute;n Amigos de la Naturaleza (FAN), Casilla 2241, Santa Cruz de la Sierra, Bolivia</font></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p> <hr noshade="noshade" />     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Resumen</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Se presentan los resultados de un estudio detallado sobre la din&aacute;mica de deforestaci&oacute;n en las tierras bajas de Bolivia ocurrida entre 2000 y 2010. Espec&iacute;ficamente se analizaron los tres usos del suelo que constituyen las principales causas de deforestaci&oacute;n (ganader&iacute;a en pastos sembrados, agricultura mecanizada y agricultura a peque&ntilde;a escala). Si bien la agricultura mecanizada (producci&oacute;n de soya) fue la principal causa de deforestaci&oacute;n en los 90&rsquo;s, los resultados presentados aqu&iacute; sugieren que en la &uacute;ltima d&eacute;cada la ganader&iacute;a fue la principal causa de deforestaci&oacute;n, causando m&aacute;s del 50% de la deforestaci&oacute;n con un impacto muy fuerte en la Chiquitan&iacute;a. La agricultura mecanizada contribuy&oacute; con un 30% a la p&eacute;rdida de bosques, mientras que aquella de peque&ntilde;a escala fue responsable del  18% de la deforestaci&oacute;n. Las tendencias futuras de expansi&oacute;n agropecuaria fueron evaluadas utilizando un modelo espacial de regresi&oacute;n log&iacute;stica, basado en variables independientes ambientales (como clim&aacute;ticas), socioecon&oacute;micas (accesibilidad de mercados) y pol&iacute;ticas (presencia de &aacute;reas protegidas). Fueron elaborados dos escenarios de deforestaci&oacute;n hasta 2040, uno negativo sin cambios en las din&aacute;micas de deforestaci&oacute;n y uno positivo o conservacionista. Se identificaron &aacute;reas con alto valor de conservaci&oacute;n amenazadas por la posible expansi&oacute;n de la deforestaci&oacute;n al norte del departamento de Santa Cruz y al pie de la Cordillera Oriental norte. Los resultados apuntan a la gran importancia de controlar la expansi&oacute;n de la ganader&iacute;a, por ejemplo, mediante la aplicaci&oacute;n m&aacute;s consecuente de las leyes existentes y la aplicaci&oacute;n de t&eacute;cnicas pecuarias para un aprovechamiento m&aacute;s eficiente del suelo. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Palabras clave:</b> Bolivia, Deforestaci&oacute;n, Causas directas, Modelado de escenarios, Prioridades de conservaci&oacute;n.</font></p> <hr noshade="noshade" />     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Abstract</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> We present a detailed study of the dynamics of deforestation in the Bolivian lowlands between 2000 and 2010. In the first analysis, we evaluate the contributions of the three main proximate causes of deforestation: Mechanized agriculture, small-scale agriculture and cattle ranching in replacement of forests. The impact of cattle ranching was strong and incrementing, causing over 50% of deforestation between 2000 and 2010, with a very strong impact in the Chiquitania region. Mechanized agriculture, mainly for soy production, expanded with a lower intensity than in the 1990s, causing some 30% of forest conversion between 2000-2010. The contribution of small-scale agriculture was about 18%. We also evaluated possible future trends of agricultural expansion, applying a multinomial spatial model of logistic regression, based on a series of independent variables representing environmental factors (such as rainfall), socioeconomic factors (such as access to markets) and political factors (such as the presence of protected areas). The results were compared with different classifications that represent the conservation value of the threatened forests, allowing for the identification of possible priority areas for the mitigation of deforestation. Such areas are mainly found in the north of the department of Santa Cruz and at the northern Andean foothills. The results suggest that for the  reduction of deforestation, it will be crucial to control the expansion of cattle ranching, for example by an enforcement of existing legislation, but also by applying practices that allow for a more efficient use of pastures. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> Key words:</b> Bolivia, Deforestation, Proximate Causes, Modeling future Scenarios, Conservation</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Priorities.</font></p> <hr noshade="noshade" />     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Bolivia se encuentra entre los diez pa&iacute;ses con mayor cobertura de bosque tropical, pero al mismo tiempo est&aacute; entre los que experimentan las mayores p&eacute;rdidas por deforestaci&oacute;n (FAO 2010). Hasta mediados de los a&ntilde;os 80s hubo muy poca deforestaci&oacute;n en las tierras bajas de Bolivia; luego, la p&eacute;rdida de bosques a gran escala empez&oacute; con el auge de la producci&oacute;n soyera en el contexto de la apertura de la econom&iacute;a boliviana a los mercados internacionales (Hecht 2005, Pacheco 2006, Killeen <i>et al</i>. 2007). Estas din&aacute;micas cambiaron despu&eacute;s de 2000, como se analizar&aacute; en este art&iacute;culo, pero sin que la deforestaci&oacute;n se haya reducido. Hasta el a&ntilde;o 2010, se perdieron aproximadamente 4.6 millones de hect&aacute;reas de bosque en las tierras bajas de Bolivia, correspondiendo a un 10% del &aacute;rea originalmente cubierta por bosque aqu&iacute; (M&uuml;ller <i>et al</i>. 2014).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Actualmente, las principales causas directas de la deforestaci&oacute;n en Bolivia pueden agruparse en tres tipos generalizados de uso del suelo: la agricultura mecanizada (referida a la producci&oacute;n intensiva de cultivos industriales anuales, principalmente soya (o soja), ca&ntilde;a de az&uacute;car y arroz), la agricultura a peque&ntilde;a escala (que incluye diferentes formas de producci&oacute;n manual, principalmente se cultivan arroz, ma&iacute;z y cultivos perennes como el pl&aacute;tano) y la ganader&iacute;a en pastos cultivados (la cual lleva al reemplazo de los bosques por pastizales, mayormente para la producci&oacute;n de carne para el mercado nacional). Estas categor&iacute;as han sido usadas en M&uuml;ller <i>et al</i>. (2012), pero tambi&eacute;n en varios otros estudios (Kirby <i>et al</i>. 2006) para caracterizar patrones de deforestaci&oacute;n detectados. Otras causas directas, como por ejemplo la miner&iacute;a, juegan un rol mucho menor en Bolivia (M&uuml;ller <i>et al</i>. 2014).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para estudiar la din&aacute;mica de la deforestaci&oacute;n, se pueden aplicar modelos espaciales de regresi&oacute;n log&iacute;stica los que permiten generar mapas de probabilidades de conversi&oacute;n futura de bosque (Mertens <i>et al</i>. 2004, M&uuml;ller <i>et al</i>. 2012). Usando tales modelos, M&uuml;ller <i>et al</i>. (2011, 2012) caracterizaron los patrones de deforestaci&oacute;n ocurridos entre 1992-2004 y proyectaron la expansi&oacute;n agropecuaria para  el a&ntilde;o 2030, sugiriendo la expansi&oacute;n de la agricultura mecanizada hacia bosques amaz&oacute;nicos h&uacute;medos ubicados al norte del departamento de Santa Cruz, junto con dos nuevas &aacute;reas o fronteras de expansi&oacute;n ubicadas en San Buenaventura (La Paz) y Puerto Su&aacute;rez (Santa Cruz). Dichos autores resaltaron la necesidad de analizar peri&oacute;dicamente la din&aacute;mica de cambio de uso del suelo y resaltaron a la ganader&iacute;a como una posible amenaza futura para los bosques en casi todas las tierras bajas de Bolivia. En ese sentido, Cu&eacute;llar <i>et al</i>. (2012) reportaron que entre 2000-2010, 1.8 millones de hect&aacute;reas de bosque  se habr&iacute;an perdido por deforestaci&oacute;n. Estos datos ofrecen la oportunidad de examinar en detalle la din&aacute;mica reciente y proyecciones futuras de conversi&oacute;n del bosque, actualizando la informaci&oacute;n publicada por M&uuml;ller <i>et al</i>. (2012).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En general, los an&aacute;lisis de deforestaci&oacute;n en Bolivia consideran &uacute;nicamente p&eacute;rdidas de bosque, sin considerar la recuperaci&oacute;n de &aacute;reas deforestadas en el pasado (Killeen <i>et al</i>. 2007, Cu&eacute;llar <i>et al</i>. 2012). Esto parece justificado, ya que Bolivia puede clasificarse como un pa&iacute;s en la primera y segunda fase de transici&oacute;n de bosques (Angelsen &amp; Rudel 2013, M&uuml;ller <i>et al</i>. 2014), es decir que cuenta con grandes superficies de bosque parcialmente estables (fase 1), los cuales est&aacute;n afectados en gran parte por un r&aacute;pido avance de deforestaci&oacute;n (fase 2) con poca recuperaci&oacute;n de bosques. Un trabajo publicado en 2013 del Servicio Nacional de &Aacute;reas Protegidas (SERNAP) distingue &aacute;reas con bosque en recuperaci&oacute;n. Sin embargo, &eacute;sta se presenta como un fen&oacute;meno disperso, sin que se identifiquen grandes &aacute;reas continuas en proceso de recuperaci&oacute;n, por lo que es dif&iacute;cil definir din&aacute;micas de recuperaci&oacute;n de manera sistem&aacute;tica.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Como objetivo superior, el estudio busca generar insumos t&eacute;cnicos y cient&iacute;ficos que contribuyan al dise&ntilde;o de planes y programas de uso sostenible del suelo en las tierras bajas. Los objetivos de este estudio fueron: a) establecer las causas directas de deforestaci&oacute;n ocurrida entre 2000-2010 en las tierras bajas de Bolivia, b) explorar las din&aacute;micas recientes y futuras de la deforestaci&oacute;n mediante la elaboraci&oacute;n e interpretaci&oacute;n de dos escenarios probables, y c) establecer las &aacute;reas con alto valor de conservaci&oacute;n identificadas por Araujo <i>et al</i>. (2010) que estar&iacute;an amenazadas por la posible expansi&oacute;n de la deforestaci&oacute;n.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>&Aacute;rea de estudio</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El &aacute;rea de estudio incluy&oacute; todas las tierras bajas de Bolivia ubicadas por debajo de los 500 m que estuvieron cubiertas por bosques hasta el a&ntilde;o 2000. Estos bosques son altamente diversos en cuanto a riqueza de especies y n&uacute;mero de ecosistemas (Navarro &amp; Ferreira 2007), mostrando tres principales tipos de bosque: 1) bosques amaz&oacute;nicos ubicados al norte, compuestos por especies siempreverdes perennes y presencia de &aacute;rboles emergentes de hasta 45 m de altura, 2) bosques secos chiquitanos con importante presencia de especies caducifolias, que pueden alcanzar unos 35 m de altura y cubren la parte oriental de las tierras bajas, mayormente en suelos pobres del Escudo Prec&aacute;mbrico, y 3) bosques chaque&ntilde;os ubicados al sur que consisten de especies deciduas con un dosel abierto a ralo y que puede alcanzar los 20 m de altura; estos est&aacute;n caracterizados por la presencia de cact&aacute;ceas y otras especies espinosas, as&iacute; como de le&ntilde;osas de madera dura y adicionalmente tienen influencia de elementos andinos al pie de monte en la Cordillera de los Andes, donde tambi&eacute;n existe una mayor humedad en comparaci&oacute;n con otras zonas. El &aacute;rea de Alto Beni y otras zonas localizadas entre las monta&ntilde;as de la cordillera andina fueron excluidas, debido a que las pendientes llevan a diferentes din&aacute;micas de expansi&oacute;n agr&iacute;cola.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>M&eacute;todos</b></font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> Identificaci&oacute;n de causas directas de la deforestaci&oacute;n entre 2000-2010</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El mapa de deforestaci&oacute;n 2000-2005-2010 elaborado por Cu&eacute;llar <i>et al</i>. (2012) fue reclasificado, asignando cada pixel deforestado (resoluci&oacute;n 30 x 30 m) a una de las tres causas directas de conversi&oacute;n de bosque sugeridas por M&uuml;ller <i>et al</i>. (2012): Agricultura mecanizada, agricultura a peque&ntilde;a escala y ganader&iacute;a en pastos sembrados. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En un primer paso, una clasificaci&oacute;n gruesa y preliminar del &aacute;rea de estudio fue realizada partiendo de los usos asignados a las &aacute;reas deforestadas en el periodo 1992-2004 por M&uuml;ller <i>et al</i>. (2012). Las &aacute;reas dentro del departamento de Santa Cruz fueron clasificadas en base al mapa de uso de suelo del a&ntilde;o 2005 (MHNNKM &amp; PSC 2008). Las &aacute;reas deforestadas en el &aacute;rea del Chapare de Cochabamba fueron clasificadas como agricultura a peque&ntilde;a escala, debido a que los actores prevalecientes son colonos de origen andino que practican la agricultura manual. El resto de las &aacute;reas deforestadas fuera del departamento de Santa Cruz fue clasificado como ganader&iacute;a en este primer paso. Los an&aacute;lisis fueron realizados utilizando el programa ArcGis 10.1.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En un segundo paso, el mapa resultante fue superpuesto con datos del Instituto de Reforma Agraria (INRA) sobre identificaci&oacute;n de propiedades ganaderas. La informaci&oacute;n del INRA fue considerada como parcial debido a que contin&uacute;a el proceso de saneamiento; no obstante, permiti&oacute; identificar &aacute;reas ganaderas en el Chapare y en otras &aacute;reas dentro del departamento de Santa Cruz. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En un tercer paso, el mapa resultante fue corregido a trav&eacute;s de una evaluaci&oacute;n visual usando im&aacute;genes de Google Earth de alta resoluci&oacute;n (entre 0.5-2.5 m de resoluci&oacute;n). Este paso represent&oacute; la parte m&aacute;s detallada y exacta del an&aacute;lisis de clasificaci&oacute;n. Este an&aacute;lisis fue realizado en el programa Quantum GIS (QGIS, <a href="http://www.qgis.org/" target="_blank">http://www.qgis.org/</a>), el cual permiti&oacute; proyectar un mapa Google Earth georreferenciado como fondo. El mapa preliminar de uso de suelo y el mapa de deforestaci&oacute;n de Cu&eacute;llar <i>et al</i>. (2012) fueron convertidos a formato shapefile (.shp) para su an&aacute;lisis en el programa QGIS. Los an&aacute;lisis fueron realizados a una escala de 1:100.000. Las causas directas de deforestaci&oacute;n fueron identificadas usando los criterios sugeridos por M&uuml;ller <i>et al</i>. (2012), espec&iacute;ficamente las siguientes: a) &Aacute;reas de agricultura mecanizada se caracterizaron por claros extensos con formas geom&eacute;tricas, muchas veces con surcos y cortinas rompevientos claramente distinguibles (aunque tambi&eacute;n existen desmontes para ganader&iacute;a en callejones parecidos a estas cortinas). Adem&aacute;s las reflectancias en &aacute;reas de agricultura mecanizada pueden variar considerablemente, debido al mosaico de diferentes fases en el calendario agr&iacute;cola, b) &Aacute;reas convertidas a agricultura a peque&ntilde;a escala generalmente consisten de &aacute;reas rectangulares de diferentes tama&ntilde;os y reflectancias. Finalmente, c) Pastizales para ganader&iacute;a, los cuales tienden a ser largos, uniformes y con &aacute;rboles remanentes aislados y pozos de agua distinguibles en las im&aacute;genes de Google Earth. Cientos de pol&iacute;gonos fueron dibujados definiendo zonas donde las &aacute;reas desmontadas tuvieron que cambiar su clasificaci&oacute;n en comparaci&oacute;n con el mapa preliminar obtenido despu&eacute;s del segundo paso. Varios ciclos de correcci&oacute;n fueron realizados para depurar los resultados. Para la aproximaci&oacute;n de la deforestaci&oacute;n causada por colonias menonitas, se analizaron diferentes fuentes, mayormente referidas a los patrones espaciales de la agricultura intensiva que realizan, caracterizados por muchas parcelas rectangulares juntas y casi sin remanentes de bosque. El mapa resultante fue reclasificado a una resoluci&oacute;n de 500 m para su uso en las proyecciones futuras descritas en la secci&oacute;n siguiente.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Modelado de causas directas de deforestaci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para la proyecci&oacute;n a futuro de las causas directas de deforestaci&oacute;n se aplic&oacute; un modelo log&iacute;stico multinomial espacialmente expl&iacute;cito apto para este tipo de an&aacute;lisis, ya que la variable dependiente (causas directas de deforestaci&oacute;n) tiene una forma discreta (Menard 2002, Long &amp; Freese 2006) con varias categor&iacute;as no continuas, espec&iacute;ficamente: remanente de bosque o bosque estable, conversi&oacute;n de bosque por agricultura mecanizada, conversi&oacute;n de bosque por agricultura a peque&ntilde;a escala y conversi&oacute;n de bosque a pastizales sembrados para ganader&iacute;a. Para detalles sobre el m&eacute;todo aplicado, v&eacute;ase M&uuml;ller <i>et al</i>. (2012). El an&aacute;lisis de regresi&oacute;n permiti&oacute; explicar las diferentes categor&iacute;as de la variable dependiente en funci&oacute;n de un conjunto de variables independientes. La regresi&oacute;n log&iacute;stica se realiz&oacute; en el programa estad&iacute;stico Stata 9.2 (<a href="http://www.stata.com/" target="_blank">http://www.stata.com/</a>). Las variables utilizadas fueron las mismas que aplicaron M&uuml;ller <i>et al</i>. (2012), siendo la humedad en exceso (&aacute;reas con precipitaci&oacute;n promedio anual &gt;1.700 mm), riesgo de sequ&iacute;a (&aacute;reas con precipitaci&oacute;n promedio anual &lt;1.100 mm), suelos f&eacute;rtiles aluviales de la planicie del r&iacute;o Grande, suelos ferral&iacute;ticos en el Escudo Prec&aacute;mbrico, pendiente por encima de 5&deg; en forma gradual, costo de transporte a mercados de exportaci&oacute;n por hidrov&iacute;as (Arica en Chile o Puerto Ilo o Puerto Maldonado en el Per&uacute;), en US$ por tonelada m&eacute;trica (US$/t), costo de transporte a mercados locales (representados por centros poblados &gt;5.000 habitantes), en US$/t; territorios ind&iacute;genas (Tierras Comunitarias de Origen, TCO o Territorios Ind&iacute;genas Originario Campesinos, TIOC), &aacute;reas protegidas de inter&eacute;s nacional; y concesiones forestales. No se consideraron las &aacute;reas protegidas de inter&eacute;s subnacional para calibrar el modelo, ya que en su mayor&iacute;a carec&iacute;an de gesti&oacute;n durante el periodo 2000-2010.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El modelo gener&oacute; coeficientes de regresi&oacute;n para cada una de las causas directas de deforestaci&oacute;n, las cuales indicaron la direcci&oacute;n y la fuerza de la influencia de cada variable independiente sobre la conversi&oacute;n del bosque. Coeficientes positivos mostraron un impacto positivo (p.e., una mayor probabilidad de expansi&oacute;n agr&iacute;cola sobre suelos f&eacute;rtiles), mientras que los negativos indicaron lo contrario (p.e., una decreciente probabilidad de deforestaci&oacute;n en &aacute;reas m&aacute;s alejadas de los mercados). Para su interpretaci&oacute;n, los coeficientes fueron estandarizados (M&uuml;ller <i>et al</i>. 2011); coeficientes estandarizados no tienen un significado absoluto, pero permiten identificar la importancia relativa del impacto de las diferentes variables independientes. A partir de los coeficientes de regresi&oacute;n (no estandarizados), tambi&eacute;n se obtuvo una ecuaci&oacute;n de regresi&oacute;n que permiti&oacute; calcular la probabilidad de conversi&oacute;n futura para cada pixel.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mientras que M&uuml;ller <i>et al</i>. (2012) excluyeron las variables de distancia a la deforestaci&oacute;n pasada, en este estudio se opt&oacute; por incluirlas aplicando un m&eacute;todo nuevo, distinguiendo entre las distancias espec&iacute;ficas a los tres principales usos de suelo. La inclusi&oacute;n de estas variables se realiz&oacute; fuera del modelo de regresi&oacute;n. Espec&iacute;ficamente, basado en M&uuml;ller <i>et al</i>. (2011), un odds ratio de 0.5 fue aplicado, lo que indic&oacute; que con un aumento de la distancia por el factor e (2.72), la probabilidad de conversi&oacute;n se redujo a la mitad. Un factor de probabilidad del 100% en distancias de 0-1 km fue asumido y factores de probabilidad que se reducen del 100% al 13% fueron calculados en funci&oacute;n del aumento de la distancia hasta llegar a una distancia de 20 km. Los c&aacute;lculos de distancias fueron realizados en el programa ArcGis 10.1. Las probabilidades calculadas fueron multiplicadas dentro del programa Stata. Para distancias por encima de 20 km, se asumi&oacute; que la probabilidad alcanzada se mantiene constante. Un factor del 13% fue aplicado para todas esas &aacute;reas. Esta forma de incluir las variables de distancia fuera del modelo de regresi&oacute;n evit&oacute; problemas de correlaci&oacute;n que se generan con la inclusi&oacute;n de una sola variable de distancia relacionada con las &aacute;reas deforestadas (M&uuml;ller <i>et al</i>. 2011) y que har&iacute;an imposible la inclusi&oacute;n de varias variables de distancia a usos espec&iacute;ficos en modelos multinomiales (p.e., el modelo evaluar&iacute;a autom&aacute;ticamente el efecto de distancia a &aacute;reas de ganader&iacute;a en la expansi&oacute;n de la agricultura a peque&ntilde;a escala). Todas las variables independientes fueron homogenizadas en ArcGis 10.1, convirti&eacute;ndolas en esri-grids con una resoluci&oacute;n de 500 m, cubriendo todas las tierras bajas de Bolivia. Estos archivos fueron exportados a formato ascii, convertidos a formato data e importados al programa estad&iacute;stico Stata. Mapas de probabilidad de expansi&oacute;n fueron generados para cada tipo de uso del suelo, los cuales permitieron localizar los bosques con mayor probabilidad de ser convertidos por una de las principales causas directas de deforestaci&oacute;n. Estos mapas ofrecen una representaci&oacute;n relativa en el espacio y no dan probabilidades absolutas.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Modelado de escenarios futuros de deforestaci&oacute;n</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La expansi&oacute;n de las tres principales causas directas de deforestaci&oacute;n hasta 2040 fue proyectada considerando dos escenarios posibles: un escenario negativo (business as usual) que no consider&oacute; cambios en las tendencias actuales que determinan la din&aacute;mica de la deforestaci&oacute;n; y un escenario positivo o conservacionista que consider&oacute; el cumplimiento de las pol&iacute;ticas p&uacute;blicas que definen zonas de bosque para usos estrictamente forestales, as&iacute; como la existencia de espacios de conservaci&oacute;n donde la conversi&oacute;n del bosque a suelos con uso agropecuario est&aacute; limitada. Para el escenario negativo, se asumi&oacute; que las tasas futuras de deforestaci&oacute;n para los tres usos generalizados ser&aacute;n iguales a las observadas en promedio entre 2000 y 2010. Para cada uso, la superficie esperada a ser deforestada fue calculada y localizada en un mapa de probabilidad de conversi&oacute;n de bosque (<a href="#f3">Fig. 3</a>). Las celdas a ser convertidas se seleccionaron consecutivamente seg&uacute;n su probabilidad de conversi&oacute;n hasta llegar a la superficie total de deforestaci&oacute;n esperada. Si una misma celda fue seleccionada para su conversi&oacute;n a varios usos al mismo tiempo, la conversi&oacute;n del bosque a agricultura mecanizada fue priorizada debido a su mayor rentabilidad, seguida por agricultura a peque&ntilde;a escala y finalmente la ganader&iacute;a en pastizales sembrados (ver M&uuml;ller <i>et al</i>. 2013 para una estimaci&oacute;n y comparaci&oacute;n de rentabilidad).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para la proyecci&oacute;n del escenario negativo no se incorporaron factores limitantes, mientras que para el positivo se asumi&oacute; que no habr&iacute;a deforestaci&oacute;n en las siguientes celdas: Tierras de Producci&oacute;n Forestal Permanente (TPFP), &aacute;reas con alto valor para la conservaci&oacute;n (vac&iacute;os prioritarios de conservaci&oacute;n identificados por Araujo <i>et al</i>. 2010) y &aacute;reas protegidas de inter&eacute;s nacional y subnacional, incluyendo adem&aacute;s la reserva forestal El Chor&eacute; en Santa Cruz. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En un &uacute;ltimo an&aacute;lisis, se compararon las &aacute;reas prioritarias para la conservaci&oacute;n seg&uacute;n Araujo <i>et al</i>. (2010) con las &aacute;reas deforestadas en el escenario negativo, para identificar &aacute;reas prioritarias para mitigar la deforestaci&oacute;n. (Pero hay que tener en cuenta que los bosques montanos con sus tasas excepcionales de endemismo no fueron parte del &aacute;rea de estudio.)</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Resultados </b></font></p>     <p align="center"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Causas directas de la deforestaci&oacute;n    entre 2000-2010</font></b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En general, una alta contribuci&oacute;n de la ganader&iacute;a a la deforestaci&oacute;n fue registrada para el periodo analizado, incluyendo un fuerte crecimiento despu&eacute;s del a&ntilde;o 2005. Su contribuci&oacute;n a la deforestaci&oacute;n ocurrida entre 2000-2005 fue del 44% y cerca del 60% para el periodo 2005-2010. Esta deforestaci&oacute;n ocurri&oacute; mayormente a trav&eacute;s de grandes desmontes en la Chiquitan&iacute;a (p.e., en San Ignacio de Velasco, San Jos&eacute; de Chiquitos y Puerto Su&aacute;rez, entre otros), as&iacute; como en el norte amaz&oacute;nico (sur de Guayaramer&iacute;n &ndash; Beni - y norte de Puerto Rico &ndash; Pando - en la frontera con Brasil). La agricultura mecanizada fue la segunda causa de deforestaci&oacute;n, concentrada al sureste de su &aacute;rea tradicional cerca de la laguna Concepci&oacute;n, con alg&uacute;n crecimiento hacia el camino entre Ascensi&oacute;n de Guarayos (Santa Cruz) y Trinidad (Beni). La contribuci&oacute;n de la agricultura a peque&ntilde;a escala fue mucho menor en comparaci&oacute;n con las otras causas, impactando mayormente &aacute;reas al norte del departamento de Santa Cruz (<a href="#t1">Tabla 1</a>, <a href="#f1">Fig. 1</a>).</font></p>     <p align="justify"><a name="t1" id="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a03_tabla_01.gif" width="642" height="354" /></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><a name="f1" id="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a03_figura_01.jpg" width="720" height="591" /></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br />       <b>Modelado de las causas directas de la deforestaci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La interpretaci&oacute;n de coeficientes estandarizados de regresi&oacute;n (ver <a href="#t2">Tabla 2</a>) muestra que la  ganader&iacute;a pareci&oacute; expandirse de manera independiente a las condiciones ambientales y su distribuci&oacute;n estar&iacute;a explicada sobre todo por el acceso a mercados locales. La expansi&oacute;n de la agricultura mecanizada estuvo asociada a &aacute;reas con suelos f&eacute;rtiles, una precipitaci&oacute;n intermedia y con un buen acceso a los mercados de exportaci&oacute;n. La expansi&oacute;n de la agricultura a peque&ntilde;a escala correspondi&oacute; mayormente a &aacute;reas con un clima m&aacute;s h&uacute;medo, suelos f&eacute;rtiles y planos as&iacute; como la cercan&iacute;a a mercados locales. Restricciones de uso de suelo, como ocurre en las &aacute;reas protegidas, parecieron prevenir la expansi&oacute;n de la agricultura mecanizada, pero mostraron poco efecto en la expansi&oacute;n de la agricultura manual y la ganader&iacute;a (<a href="#t2">Tabla 2</a>, <a href="#f2">Fig. 2</a>).</font></p>     <p align="justify"><a name="t2" id="t2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a03_tabla_02.gif" width="641" height="366" /></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="f2" id="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a03_figura_02.jpg" width="674" height="722" /></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los mapas de probabilidad de expansi&oacute;n de usos de suelo mostraron que la ganader&iacute;a tendr&iacute;a un potencial generalizado de expansi&oacute;n, alcanzando casi todas las &aacute;reas accesibles (<a href="#f3">Fig. 3</a>). La agricultura mecanizada se ver&iacute;a restringida a algunas zonas con suelos m&aacute;s favorables, excluyendo las &aacute;reas ubicadas en el Escudo Prec&aacute;mbrico y en el norte amaz&oacute;nico. Adem&aacute;s del &aacute;rea adyacente al &aacute;rea actualmente ocupada por este uso de suelo, fueron identificadas posibles &aacute;reas de expansi&oacute;n hacia el norte de Santa Cruz y sur del Beni, as&iacute; como al pie del sur de la Cordillera Oriental (Puerto Su&aacute;rez y San Buenaventura). En las dos &uacute;ltimas zonas todav&iacute;a no existen &aacute;reas destinadas a la agricultura mecanizada; no obstante en el &aacute;rea de San Buenaventura actualmente, se construye un complejo agroindustrial azucarero (ver Ministerio de Desarrollo Productivo y Econom&iacute;a Plural, <a href="http://easba.produccion.gob.bo" target="_blank">http://easba.produccion.gob.bo</a>).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f3" id="f3"></a></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/reb/v49n1/a03_figura_03.jpg" width="789" height="466" /></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La agricultura a peque&ntilde;a escala tendr&iacute;a su mayor potencial de expansi&oacute;n hacia el pie de la cordillera oriental norte y al noroeste de Santa Cruz, donde la humedad tiende a ser alta. Otras zonas de expansi&oacute;n de este tipo de uso fueron identificadas hacia el norte amaz&oacute;nico y hacia el norte de Concepci&oacute;n y San Ignacio de Velasco.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Modelado de escenarios futuros de deforestaci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Bajo el escenario negativo se ubicaron las siguientes &aacute;reas amenazadas por la expansi&oacute;n de las tres causas principales de deforestaci&oacute;n: (a) la ganader&iacute;a en pastos sembrados presionar&iacute;a a los bosques de la Chiquitan&iacute;a por San Ignacio de Velasco, Guarayos, Concepci&oacute;n, San Jos&eacute; y Puerto Su&aacute;rez, pero tambi&eacute;n a los bosques amaz&oacute;nicos ubicados en las cercan&iacute;as de Cobija y Riberalta, as&iacute; como tambi&eacute;n a los bosques chaque&ntilde;os ubicados al pie del sur de la Cordillera Oriental, (b) la agricultura mecanizada tender&iacute;a a expandirse al sureste de la zona integrada, entre Pail&oacute;n y San Jos&eacute;, as&iacute; como al norte en el camino a Trinidad. Existir&iacute;an tambi&eacute;n posibles zonas de expansi&oacute;n por Puerto Su&aacute;rez y alrededores de la colonia Menonita al norte de San Jos&eacute; y (c) para la agricultura a peque&ntilde;a escala, las &aacute;reas de expansi&oacute;n se concentrar&iacute;an cerca de las &aacute;reas que ya est&aacute;n bajo este uso, particularmente en el Chapare, el camino Yucumo-Rurrenabaque y el camino Ascensi&oacute;n de Guarayos-Trinidad.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El escenario positivo o conservacionista mostr&oacute; una reducci&oacute;n del 40% de deforestaci&oacute;n comparada con el escenario negativo. La diferencia relativa entre ambos escenarios fue mayor para la agricultura a peque&ntilde;a escala, la cual en el escenario negativo tender&iacute;a a expandirse a zonas de bosque con alto valor de conservaci&oacute;n ubicadas en los bordes de &aacute;reas deforestadas en el Chapare y en el camino Yucumo - Rurrenabaque. En cifras absolutas, la diferencia entre ambos escenarios fue mayor para la ganader&iacute;a con &aacute;reas grandes de expansi&oacute;n proyectada en TPFP existentes al norte de la Chiquitan&iacute;a y Guayaramer&iacute;n, entre otros.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En cuanto a la agricultura mecanizada, la diferencia entre ambos escenarios fue relativamente baja. Gran parte de su probable expansi&oacute;n se localizar&iacute;a en &aacute;reas cercanas al uso existente que no tienen estatus de TPFP ni fueron identificadas como &aacute;reas con alto valor conservaci&oacute;n; no obstante, un &aacute;rea importante de expansi&oacute;n hacia los bosques de alto valor de conservaci&oacute;n ubicados en el camino Ascensi&oacute;n de Guarayos-Trinidad fue identificado (<a href="#t3">Tabla 3</a>).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t3" id="t3"></a></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/reb/v49n1/a03_tabla_03.gif" width="549" height="201" /></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A partir de la comparaci&oacute;n de la deforestaci&oacute;n futura bajo el escenario negativo y las &aacute;reas con alto valor para la conservaci&oacute;n, las siguientes &aacute;reas con mayor sensibilidad fueron localizadas: (a) &aacute;reas al norte de la Chiquitan&iacute;a entre Ascensi&oacute;n de Guarayos y Concepci&oacute;n, amenazadas por la ganader&iacute;a (<a href="#f4">Fig. 4</a>), (b) &aacute;reas al este y sureste de Trinidad, amenazadas por la expansi&oacute;n de la agricultura mecanizada, y (c) &aacute;reas al sur de la reserva forestal El Chor&eacute;, as&iacute; como al pie de los parques nacionales Ambor&oacute; y Carrasco, amenazadas por la agricultura a peque&ntilde;a escala.  La mayor&iacute;a del bosque se ver&iacute;a amenazado por la expansi&oacute;n de la ganader&iacute;a.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f4" id="f4"></a></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/reb/v49n1/a03_figura_04.jpg" width="556" height="603" /></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br />       <font size="3"><b>Discusi&oacute;n</b> </font></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Es importante notar que los resultados presentados en este estudio se basan en an&aacute;lisis aproximativos. Se podr&iacute;a llegar a un mayor nivel de exactitud con la definici&oacute;n de clases adicionales a las tres causas de deforestaci&oacute;n analizadas, lo que implicar&iacute;a un estudio adicional. Especialmente entre las categor&iacute;as de agricultura mecanizada y agricultura a peque&ntilde;a escala existe una transici&oacute;n, por ejemplo en los casos de mecanizaci&oacute;n incipiente en colonias andinas. Tambi&eacute;n se debe tener en cuenta que la localizaci&oacute;n de &aacute;reas menonitas en la Figura 1 representa una aproximaci&oacute;n muy gruesa, debido a que datos oficiales sobre el tema no est&aacute;n disponibles.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Un posible sesgo causado por los peque&ntilde;os tama&ntilde;os de los parches deforestados por agricultura a peque&ntilde;a escala en comparaci&oacute;n con la agricultura mecanizada y la ganader&iacute;a podr&iacute;a esperarse. Sin embargo, el an&aacute;lisis visual para asignar los tipos de uso se realiz&oacute; con im&aacute;genes de alta resoluci&oacute;n de 0.5-2.5 m. Adem&aacute;s, los datos originales de deforestaci&oacute;n (bosque - no bosque) tienen una resoluci&oacute;n de 30 m, equivalente a 0.09 hect&aacute;reas, de forma que incluyen expl&iacute;citamente informaci&oacute;n sobre los desmontes ocurridos en parches peque&ntilde;os. La reclasificaci&oacute;n a una resoluci&oacute;n m&aacute;s gruesa (pixeles de 500 m) pudo originar una p&eacute;rdida de informaci&oacute;n. No obstante, no hubo un sesgo sistem&aacute;tico, ya que estad&iacute;sticamente existi&oacute; un equilibrio entre errores que sobre y subestimaron la contribuci&oacute;n de la agricultura a peque&ntilde;a escala.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El modelo espacial representa din&aacute;micas generalizadas. Por esto, algunas tendencias recientes probablemente no fueron representadas. Por ejemplo, parece probable que la futura expansi&oacute;n de la agricultura a peque&ntilde;a escala se concentre m&aacute;s al norte de Yapacan&iacute; y no tanto en el zona del Chapare, como lo indica el modelo. Tambi&eacute;n es probable que este tipo de uso de suelo siga expandi&eacute;ndose hacia el norte de la Chiquitan&iacute;a, con mayor intensidad a la sugerida por los resultados del modelo. En ese sentido, los escenarios proyectados y analizados en este estudio deben interpretarse como patrones generales, ya que no toman en cuenta factores como decisiones pol&iacute;ticas o cambios en la exportaci&oacute;n de productos agr&iacute;colas o pecuarios.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Perspectivas - pautas para el dise&ntilde;o de pol&iacute;ticas de conservaci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El escenario conservacionista se puede entender como una opci&oacute;n de planificaci&oacute;n de uso de suelo con la finalidad de mantener un bajo impacto sobre bosques y biodiversidad. Este escenario implicar&iacute;a que, para una futura expansi&oacute;n agropecuaria, se deber&iacute;an priorizar bosques chaque&ntilde;os de un valor relativamente bajo de conservaci&oacute;n de acuerdo con Araujo <i>et al</i>. (2010), mientras se deber&iacute;a restringir la expansi&oacute;n agr&iacute;cola y ganadera hacia el norte. Esto llevar&iacute;a consigo una fuerte restricci&oacute;n a la posible expansi&oacute;n de agricultura a peque&ntilde;a escala, la cual parece no adaptarse bien a zonas m&aacute;s &aacute;ridas. Una posible respuesta ser&iacute;a la intensificaci&oacute;n de la peque&ntilde;a producci&oacute;n en &aacute;reas ya deforestadas, procurando una mayor productividad.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La medida m&aacute;s efectiva para reducir la deforestaci&oacute;n en el futuro ser&aacute; probablemente una aplicaci&oacute;n m&aacute;s estricta de la legislaci&oacute;n existente (M&uuml;ller <i>et al</i>. 2013), en primer lugar mediante un fortalecimiento de la ABT (Autoridad de Fiscalizaci&oacute;n y Control Social de Bosques y Tierras), entidad a cargo de controlar el uso de suelo. Muchos grandes desmontes ganaderos actualmente ocurren dentro de TPFP (Tierras de Producci&oacute;n Forestal Permanente) en la Chiquitan&iacute;a y en el norte amaz&oacute;nico y podr&iacute;an por ende ser evitados con un control m&aacute;s eficaz. Tambi&eacute;n ser&iacute;a recomendable la promoci&oacute;n de una producci&oacute;n m&aacute;s eficiente (ver Merry <i>et al</i>. 2002), es decir medidas que permitan aumentar la carga animal, por ejemplo mediante una mejor aplicaci&oacute;n del pastoreo rotativo o silaje de forraje para la &eacute;poca seca (M&uuml;ller <i>et al</i>. 2013). Tambi&eacute;n habr&iacute;a que cuestionar la visi&oacute;n de convertir Bolivia en un pa&iacute;s exportador de carne de res.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Con respecto a la conservaci&oacute;n de las zonas ecol&oacute;gicamente m&aacute;s valiosas en las tierras bajas de Bolivia, deber&iacute;a enfocarse en la reserva El Chor&eacute;, en los alrededores del camino Ascensi&oacute;n de Guarayos-Trinidad y en las &aacute;reas de Chapare y Yucumo-Rurrenabaque. El proyecto del complejo agroindustrial San Buenaventura aparentemente amenaza a &aacute;reas ecol&oacute;gicamente valiosas. Mientras la mayor porci&oacute;n de la esperada expansi&oacute;n agropecuaria al norte de las tierras bajas est&aacute; dentro de TPFP y deber&iacute;a por esto no ser legalizada, es una cuesti&oacute;n abierta c&oacute;mo el gobierno tratar&aacute; a la expansi&oacute;n agropecuaria (muchas veces menonita) al sur y sureste del &aacute;rea integrada de Santa Cruz, en bosques no clasificados como TPFP. Una gran parte de los bosques en Bolivia se encuentra en propiedades colectivas o con restricci&oacute;n de uso (M&uuml;ller <i>et al</i>. 2014). Mayormente estas &aacute;reas enfrentan poca amenaza actual, pero pueden representar un factor muy importante para la mitigaci&oacute;n de deforestaci&oacute;n en el futuro.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A pesar de los avances recientes en la definici&oacute;n de pol&iacute;ticas de una vida en armon&iacute;a con la madre tierra, se puede constatar que dentro del gobierno actual existen dos visiones oficiales pero contrarias sobre el desarrollo de pa&iacute;s - una visi&oacute;n ambientalista y otra agrarista (M&uuml;ller <i>et al</i>. 2014). La reciente ley 337 (Apoyo a la Producci&oacute;n de Alimentos y Restituci&oacute;n de Bosques) ofrece la posibilidad de legalizar posteriormente desmontes ilegales entre 1996 y 2011, lo que muestra quiz&aacute;s una reducida predisposici&oacute;n del gobierno actual a aumentar el control de deforestaci&oacute;n.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Conclusiones</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El hecho de que la ganader&iacute;a recientemente caus&oacute; el mayor impacto en los bosques de las tierras bajas de Bolivia indica un cambio en las din&aacute;micas de deforestaci&oacute;n, ya que en los a&ntilde;os 1990, fue el cultivo de la soya que represent&oacute; la primera causa de deforestaci&oacute;n (M&uuml;ller <i>et al</i>. 2012, <a href="#f1">Fig. 1</a>). Actualmente, el mayor impacto es causado por desmontes ganaderos grandes en la Chiquitan&iacute;a y en el norte amaz&oacute;nico (p.e., alrededor de San Ignacio de Velasco) en tierras que en muchos casos no est&aacute;n tituladas. La expectativa de una futura exportaci&oacute;n de carne de res, despu&eacute;s de solucionar el problema de la fiebre aftosa, juega un rol importante en esta zona (El Deber 2012). La cercan&iacute;a al Brasil es un factor tambi&eacute;n importante, posiblemente debido a un significativo comercio ganadero informal con este pa&iacute;s vecino.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La decreciente contribuci&oacute;n de la agricultura mecanizada a la deforestaci&oacute;n podr&iacute;a explicarse por la abundancia de suelos f&eacute;rtiles en la planicie del r&iacute;o Grande antes del a&ntilde;o 2000, con una alta aptitud para la agricultura mecanizada. La mayor parte de estos suelos ya estuvo bajo uso agr&iacute;cola en el a&ntilde;o 2000, por lo que la expansi&oacute;n de este tipo de uso de suelo fue menos intensa entre 2000-2010, siguiendo un patr&oacute;n espacial de parches m&aacute;s peque&ntilde;os. Dentro de esta &uacute;ltima d&eacute;cada, la expansi&oacute;n de la agricultura mecanizada se traslad&oacute; desde el norte de la ciudad de Santa Cruz, donde estaba centrada entre 2000 y 2005, hacia un &aacute;rea al oeste de San Jos&eacute; de Chiquitos (cerca de la laguna Concepci&oacute;n) entre 2006-2010, donde aparentemente una nueva colonia menonita estar&iacute;a desmontando un &aacute;rea muy grande (ver <a href="#f1">Fig. 1</a>). Es evidente que la formaci&oacute;n de nuevas colonias menonitas juega un rol importante en los eventos de deforestaci&oacute;n reciente.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La agricultura a peque&ntilde;a escala tendr&iacute;a una contribuci&oacute;n baja en la deforestaci&oacute;n reciente. Mientras detect&oacute; poca conversi&oacute;n de bosques en las &aacute;reas establecidas de colonizaci&oacute;n andina (Chapare y norte de La Paz), destac&oacute; la apertura de nuevas colonias andinas al norte de la Chiquitan&iacute;a, as&iacute; como la expansi&oacute;n dentro de la reserva forestal El Chor&eacute;.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Este estudio procura dar insumos para la planificaci&oacute;n sostenible del uso de suelo en Bolivia, posiblemente en el contexto de la definici&oacute;n de una visi&oacute;n de uso espacial a nivel nacional - la cual todav&iacute;a no existe. </font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Agradecimientos</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El estudio fue realizado gracias a los fondos otorgados a la Fundaci&oacute;n Amigos de la Naturaleza (FAN-Bolivia) por World Wildlife Fund, Inc. (WWF-Bolivia, Programa Cerrado Pantanal) y la Embajada del Reino de los Pa&iacute;ses Bajos en Bolivia. El estudio fue realizado en el marco de la Red Amaz&oacute;nica de Informaci&oacute;n Socioambiental Georreferenciada (RAISG, <a href="http://www.raisg.socioambiental.org" target="_blank">http://www.raisg.socioambiental.org</a>). Las opiniones expresadas en este documento son las de los autores y no necesariamente reflejan el criterio institucional de WWF o de la Embajada del Reino de los Pa&iacute;ses Bajos. Victor Hugo Magallanes, Lila Sainz y Alfonso Llobet y dos revisores an&oacute;nimos comentaron versiones preliminares del manuscrito, ayudando a mejorar sustancialmente el contenido final del art&iacute;culo. </font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Referencias</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Angelsen, A. &amp; T. Rudel. 2013. Designing and implementing effective REDD+ policies: a dorest rransition approach. Review of Environmental Economics and Policy 7(1): 91-113.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Araujo, N., R. M&uuml;ller, C. Nowicki &amp; P. Ibisch (eds). 2010. Prioridades de conservaci&oacute;n de la biodiversidad de Bolivia. Fundaci&oacute;n Amigos de la Naturaleza (FAN), Asociaci&oacute;n Boliviana de Conservaci&oacute;n (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia N&oacute;rdica para el Desarrollo y la Ecolog&iacute;a (NORDECO), Servicio Nacional de &Aacute;reas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservaci&oacute;n Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN, Santa Cruz. 74 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Cu&eacute;llar, S., A. Rodr&iacute;guez, J. Arroyo, S. Espinoza&amp; D. M. Larrea. 2012. Mapa de deforestaci&oacute;n de las tierras bajas y los Yungas de Bolivia 2000-2005-2010. Proyecci&oacute;n Sistema de Coordenadas Geogr&aacute;ficas, Datum WGS84, Fundaci&oacute;n Amigos de la Naturaleza (FAN), Santa Cruz. 2 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El Deber. 2012. Invierten $us 6.5 millones en el frigor&iacute;fico Chiquitano. Art&iacute;culo de prensa en El Deber, 20 de Mayo 2012, Santa Cruz, 1 p. <a href="http://www.eldeber.com.bo/vernotaeconomia.php?id=120519203648" target="_blank">www.eldeber.com.bo/vernotaeconomia.php?id=120519203648</a></font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> FAO (Food and Agriculture Organization of the United Nations). 2010. Global forest resources assessment 2010. Food and Agriculture Organization of the United Nations, Roma <a href="http://www.fao.org/forestry/fra/fra2010/en/" target="_blank">www.fao.org/forestry/fra/fra2010/en/</a> Revisado en noviembre 2012.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080422&pid=S1605-2528201400010000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Hecht, S. 2005. Soybeans, development and conservation on the Amazon frontier. Development and Change 36(2): 375&ndash;404.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Long, J. S. &amp; J. Freese.2006. Regression models for categorical dependent variables using stata. Stata Press, College Station. 311 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Killeen, T. J., V.Calderon, , L. Soria, B. Quezada, M. K. Steininger, , G. Harper, L. Sol&oacute;rzano, &amp; C. Tucker. 2007. Thirty years of land-cover change in Bolivia. AMBIO 36(7): 600-606.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Kirby, K. R., W. F. Laurance, A. K. Albernaz, G. Schroth, P. M. Fearnside, S. Bergen, E. M. Venticinque &amp; C. da Costa. 2006. The future of deforestation in the Brazilian Amazon. Futures 38(4): 432-453.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Menard, S. 2002. Applied logistic regression analysis (2nd edition). Sage Publications, Thousand Oaks. 111 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Merry, F. D., P. E. Hildebrand, P. Pattie &amp; D. R. Carter. 2002. An analysis of land conversion from sustainable forestry to pasture. A case study in the Bolivian lowlands. Land Use Policy 19(3): 207&ndash;219.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mertens, B., D. Kaimowitz, A. Puntodewo, J. Vanclay &amp; P. Mendez. 2004. Modeling deforestation at distinct geographic scales and time periods in Santa Cruz, Bolivia. International Regional Science Review 27(3): 271-296.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> M&uuml;ller, R., D. M&uuml;ller, F. Schierhorn &amp; G. Gerold. 2011. Spatiotemporal modeling of the expansion of mechanized agriculture in the Bolivian lowland forests. Applied Geography 31(2): 631-640. <a href="http://www.sciencedirect.com/science/article/pii/S0143622810001669" target="_blank">http://www.sciencedirect.com/science/article/pii/S0143622810001669</a></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> M&uuml;ller, R., D. M&uuml;ller, F. Schierhorn, G. Gerold &amp; P. Pacheco. 2012. Proximate causes of deforestation in the Bolivian lowlands &ndash; an analysis of spatial dynamics. Regional Environmental Change 12(3): 445-459. <a href="http://link.springer.com/article/10.1007%2Fs10113-011-0259-0" target="_blank">http://link.springer.com/article/10.1007%2Fs10113-011-0259-0</a>.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> M&uuml;ller, R., P. Pacheco &amp; J. C. Montero. 2014. El contexto de la deforestaci&oacute;n y degradaci&oacute;n de los bosques en Bolivia: Causas, actores e instituciones. Documentos Ocasionales CIFOR 100, Bogor. 89 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> M&uuml;ller, R., T. Pistorius, S. Rohde, G. Gerold &amp; P. Pacheco. 2013. Policy options to reduce deforestation based on a systematic analysis of drivers and agents in lowland Bolivia. Land Use Policy 30(1): 895-907. <a href="http://dx.doi.org/10.1016/j.landusepol.2012.06.019" target="_blank">http://dx.doi.org/10.1016/j.landusepol.2012.06.019</a></font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> MHNNKM (Museo de Historia Natural Noel Kempff Mercado) &amp; PSC (Prefectura de Santa Cruz). 2008. Cobertura y uso actual de la tierra. Land use map of the Santa Cruz department. Santa Cruz. <a href="http://www.museonoelkempff.org/sitio/descargar_archivo.php?id=3134" target="_blank">www.museonoelkempff.org/sitio/descargar_archivo.php?id=3134</a>. Accedido Junio 2011.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080434&pid=S1605-2528201400010000300017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Navarro, G. &amp; W. Ferreira. 2007. Mapa de vegetaci&oacute;n de Bolivia a escala 1:250.000. On CD-ROM. The Nature Conservancy (TNC), RUMBOL, Cochabamba.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080435&pid=S1605-2528201400010000300018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Pacheco, P. 2006. Agricultural expansion and deforestation in lowland Bolivia: the import substitution versus the structural adjustment model. Land Use Policy 23: 205-225.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> SERNAP (Servicio Nacional de &Aacute;reas Protegidas). 2013. Deforestaci&oacute;n y regeneraci&oacute;n de bosques en Bolivia y en sus &aacute;reas protegidas nacionales para los periodos 1990-2000 y 2000-2010. Junto al Museo de Historia Natural Noel Kempff Mercado y Conservaci&oacute;n Internacional Bolivia, La Paz. 36 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080437&pid=S1605-2528201400010000300020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify">&nbsp;</p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Noviembre de 2013. <br />   Aceptado en: Abril de 2014.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Angelsen]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rudel]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Designing and implementing effective REDD+ policies: a dorest rransition approach]]></article-title>
+<source><![CDATA[Review of Environmental Economics and Policy]]></source>
+<year>2013</year>
+<volume>7</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>91-113</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araujo]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prioridades de conservación de la biodiversidad de Bolivia]]></source>
+<year>2010</year>
+<page-range>74</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Amigos de la Naturaleza (FAN), Asociación Boliviana de Conservación (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia Nórdica para el Desarrollo y la Ecología (NORDECO), Servicio Nacional de Áreas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservación Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cuéllar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodríguez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arroyo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larrea]]></surname>
+<given-names><![CDATA[D.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mapa de deforestación de las tierras bajas y los Yungas de Bolivia 2000-2005-2010. Proyección Sistema de Coordenadas Geográficas, Datum WGS84]]></source>
+<year>2012</year>
+<page-range>2</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Amigos de la Naturaleza (FAN)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<collab>El Deber</collab>
+<article-title xml:lang="es"><![CDATA[Invierten $us 6.5 millones en el frigorífico Chiquitano]]></article-title>
+<source><![CDATA[El Deber]]></source>
+<year>2012</year>
+<month>20</month>
+<day> d</day>
+<page-range>1</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>FAO (Food and Agriculture Organization of the United Nations)</collab>
+<source><![CDATA[Global forest resources assessment 2010]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Roma ]]></publisher-loc>
+<publisher-name><![CDATA[Food and Agriculture Organization of the United Nations]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hecht]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Soybeans, development and conservation on the Amazon frontier]]></article-title>
+<source><![CDATA[Development and Change]]></source>
+<year>2005</year>
+<volume>36</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>375-404</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Long]]></surname>
+<given-names><![CDATA[J.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Freese]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Regression models for categorical dependent variables using stata]]></source>
+<year>2006</year>
+<page-range>311</page-range><publisher-loc><![CDATA[College Station ]]></publisher-loc>
+<publisher-name><![CDATA[Stata Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[L. Soria]]></surname>
+<given-names><![CDATA[V.Calderon,]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quezada]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steininger]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harper]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Solórzano]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tucker]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Thirty years of land-cover change in Bolivia]]></article-title>
+<source><![CDATA[AMBIO]]></source>
+<year>2007</year>
+<volume>36</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>600-606</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kirby]]></surname>
+<given-names><![CDATA[K.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laurance]]></surname>
+<given-names><![CDATA[W.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Albernaz]]></surname>
+<given-names><![CDATA[A.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schroth]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fearnside]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bergen]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Venticinque]]></surname>
+<given-names><![CDATA[E.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[da Costa]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The future of deforestation in the Brazilian Amazon]]></article-title>
+<source><![CDATA[Futures]]></source>
+<year>2006</year>
+<volume>38</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>432-453</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Menard]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied logistic regression analysis]]></source>
+<year>2002</year>
+<edition>2</edition>
+<page-range>111</page-range><publisher-loc><![CDATA[Thousand Oaks ]]></publisher-loc>
+<publisher-name><![CDATA[Sage Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Merry]]></surname>
+<given-names><![CDATA[F.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hildebrand]]></surname>
+<given-names><![CDATA[P.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pattie]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carter]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An analysis of land conversion from sustainable forestry to pasture]]></article-title>
+<source><![CDATA[A case study in the Bolivian lowlands. Land Use Policy]]></source>
+<year>2002</year>
+<volume>19</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>207-219</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mertens]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kaimowitz]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Puntodewo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vanclay]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mendez]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modeling deforestation at distinct geographic scales and time periods in Santa Cruz, Bolivia]]></article-title>
+<source><![CDATA[International Regional Science Review]]></source>
+<year>2004</year>
+<volume>27</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>271-296</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schierhorn]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gerold]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatiotemporal modeling of the expansion of mechanized agriculture in the Bolivian lowland forests]]></article-title>
+<source><![CDATA[Applied Geography]]></source>
+<year>2011</year>
+<volume>31</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>631-640</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schierhorn]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gerold]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Proximate causes of deforestation in the Bolivian lowlands - an analysis of spatial dynamics]]></article-title>
+<source><![CDATA[Regional Environmental Change]]></source>
+<year>2012</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>445-459</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montero]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El contexto de la deforestación y degradación de los bosques en Bolivia: Causas, actores e instituciones]]></source>
+<year>2014</year>
+<page-range>89</page-range><publisher-loc><![CDATA[Bogor ]]></publisher-loc>
+<publisher-name><![CDATA[Cifor]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pistorius]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rohde]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gerold]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Policy options to reduce deforestation based on a systematic analysis of drivers and agents in lowland Bolivia]]></article-title>
+<source><![CDATA[Land Use Policy]]></source>
+<year>2013</year>
+<volume>30</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>895-907</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<collab>MHNNKM (Museo de Historia Natural Noel Kempff Mercado)</collab>
+<collab>PSC (Prefectura de Santa Cruz)</collab>
+<source><![CDATA[Cobertura y uso actual de la tierra. Land use map of the Santa Cruz department]]></source>
+<year>2008</year>
+<publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mapa de vegetación de Bolivia a escala 1:250.000]]></source>
+<year>2007</year>
+<publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[The Nature Conservancy (TNC), RUMBOL]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agricultural expansion and deforestation in lowland Bolivia: the import substitution versus the structural adjustment model]]></article-title>
+<source><![CDATA[Land Use Policy]]></source>
+<year>2006</year>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>205-225</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<collab>SERNAP (Servicio Nacional de Áreas Protegidas)</collab>
+<source><![CDATA[Deforestación y regeneración de bosques en Bolivia y en sus áreas protegidas nacionales para los periodos 1990-2000 y 2000-2010]]></source>
+<year>2013</year>
+<page-range>36</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Museo de Historia Natural Noel Kempff Mercado y Conservación Internacional Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

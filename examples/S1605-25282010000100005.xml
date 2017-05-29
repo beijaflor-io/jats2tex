@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282010000100005</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Transectos lineales como opción para estimar abundancia de vicuñas (Vicugna vicugna): Estudio de caso en el Parque Nacional Sajama, Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Line transects as an alternative to estímate vicuna (Vicugna vicugna) abundance: case study at the Sajama National Park, Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gallardo]]></surname>
+<given-names><![CDATA[Giovana]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[Angela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[Luis F.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Centro de Estudios en Biología Teórica y Aplicada - BIOTA  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Centro de Estudios en Biología Teórica y Aplicada - BIOTA Ministerio de Medio Ambiente y Agua, Bolivia Dirección General de Biodiversidad y Áreas Protegidas]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Biología Instituto de Ecología]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2010</year>
+</pub-date>
+<volume>45</volume>
+<numero>1</numero>
+<fpage>64</fpage>
+<lpage>72</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282010000100005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282010000100005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282010000100005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El método actualmente usado para estimar la abundancia de vicuñas (Vicugna vicugna) en Bolivia y en otros países es el de conteo directo y total por superficie (censo). En este trabajo se propone una alternativa al censo, que permite bajar los costos y que genera información comparable en precisión y exactitud. Empleamos el método de conteos en transectos lineales, que ha sido ampliamente utilizado para estimar densidad de animales silvestres y específicamente para especies similares a la vicuña en tamaño y tipos de habitat. Se localizaron y luego recorrieron a pie 20 transectos lineales (una vez cada uno) en el Parque Nacional Sajama, inmediatamente después del censo anual (2004), obteniendo un total de 96 observaciones de grupos de vicuñas. La comparación entre la abundancia de vicuñas (1.764 animales) resultantes del conteo en transectos lineales con la obtenida por el censo (1.751 animales) para la misma superficie muestreada, sugiere que el método de transectos lineales representa una interesante alternativa al censo; considerando que es menos costoso en términos de número de vehículos y de combustible que lo empleado para el censo; por otra parte, requirió un esfuerzo levemente mayor en términos de horas-hombre. El método de transectos lineales resultaría también ventajoso al momento de evaluar áreas de gran extensión, dado que el esfuerzo requerido tiende a disminuirse para áreas más grandes (usando procedimientos de muestreo correctos) en comparación con el censo, cuyo esfuerzo aumentará directamente con el área muestreada.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The method currently used to estimate vicuna (Vicugna vicugna) abundance in Bolivia and other countries is the total direct count in a given area (census). An alternative method to censuses was tested since it would be cheaper and provide comparable information in terms of precision and accuracy. Thus, we evaluated the line transect method which has been widely used to estimate wildlife density, particularly with species similar to vicuna in open habitats. Twenty transects were located in Sajama National Park and later walked (once each) immediately after the yearly census (2004), resulting in 96 observations of vicuna groups. A comparison of the abundance of vicunas (1,764 animals) derived from line transect counts with that obtained via a census over the same area (1,751 animals), suggested that the line transect method may be used as the preferred method because of its cost effectiveness in terms of vehicle and fuel use, though it required a slightly higher effort in terms of personnel measured as man-hours. The line transect method may also be more advantageous for estimates over large areas, given that the effort required tends to decrease with area surveyed (using correct sampling procedures) in contrast to censuses which require greater effort for larger areas surveyed.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Censo]]></kwd>
+<kwd lng="es"><![CDATA[Monitoreo]]></kwd>
+<kwd lng="es"><![CDATA[Sajama]]></kwd>
+<kwd lng="es"><![CDATA[Transectos lineales]]></kwd>
+<kwd lng="es"><![CDATA[Vicuña]]></kwd>
+<kwd lng="en"><![CDATA[Census]]></kwd>
+<kwd lng="en"><![CDATA[Line transects]]></kwd>
+<kwd lng="en"><![CDATA[Monitoring]]></kwd>
+<kwd lng="en"><![CDATA[Sajama]]></kwd>
+<kwd lng="en"><![CDATA[Vicuna]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></p>     <p align="justify">&nbsp;</p>     <p align="center"><b><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Transectos lineales como opción para   estimar abundancia de vicuñas (<i>Vicugna vicugna</i>): Estudio de caso   en el Parque Nacional Sajama, Bolivia</font></b></p>     <p align="center">&nbsp;</p>      <p align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Line transects as an alternative to estímate vicuna (<i>Vicugna vicugna</i>) abundance: case study at the Sajama National Park, Bolivia</font></b></p>      <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Giovana Gallardo <sup>1,2</sup>, Angela Nuñez <sup>1,3</sup>&amp; Luis F. Pacheco <sup>1,4</sup></font></b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup></sup></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>1</sup>Centro de Estudios en Biología Teórica y Aplicada - BIOTA, Casilla 4778, La Paz, Bolivia <sup>    ]]></body>
+<body><![CDATA[<br> 2</sup>Magíster en Ciencias, Producción, Manejo y Conservación de Recursos Naturales, Universidad de Los Lagos, Avda. Fuchslocher 1305, Casilla 933, Osorno-Chile. Dirección actual: 11300 Av. Royale, G0A 1E0, Québec, Canadá, Email: <u><a href="mailto:giovanagallardo@yahoo.com">giovanagallardo@yahoo.com     <br> </a></u><sup>3</sup>Dirección General de Biodiversidad y Áreas Protegidas - Ministerio de Medio Ambiente y Agua, Bolivia, Calle Capitán Castrillo 434, Zona San Pedro, La Paz, Bolivia     <br> <sup>4</sup>Centro de Postgrado en Ecología y Conservación y Unidad de Conservación y Manejo de Fauna, Instituto de Ecología, Carrera de Biología, Universidad Mayor de San Andrés, Campus Universitario, Calle 27 s/n Cota Cota, La Paz, Bolivia</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El método actualmente usado para estimar la abundancia de vicuñas (<i>Vicugna vicugna</i>) en Bolivia y en otros países es el de conteo directo y total por superficie (censo). En este trabajo se propone una alternativa al censo, que permite bajar los costos y que genera información comparable en precisión y exactitud. Empleamos el método de conteos en transectos lineales, que ha sido ampliamente utilizado para estimar densidad de animales silvestres y específicamente para especies similares a la vicuña en tamaño y tipos de habitat. Se localizaron y luego recorrieron a pie 20 transectos lineales (una vez cada uno) en el Parque Nacional Sajama, inmediatamente después del censo anual (2004), obteniendo un total de 96 observaciones de grupos de vicuñas. La comparación entre la abundancia de vicuñas (1.764 animales) resultantes del conteo en transectos lineales con la obtenida por el censo (1.751 animales) para la misma superficie muestreada, sugiere que el método de transectos lineales representa una interesante alternativa al censo; considerando que es menos costoso en términos de número de vehículos y de combustible que lo empleado para el censo; por otra parte, requirió un esfuerzo levemente mayor en términos de horas-hombre. El método de transectos lineales resultaría también ventajoso al momento de evaluar áreas de gran extensión, dado que el esfuerzo requerido tiende a disminuirse para áreas más grandes (usando procedimientos de muestreo correctos) en comparación con el censo, cuyo esfuerzo aumentará directamente con el área muestreada.</font></p>      <p align=justify><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras clave: </b>Censo, Monitoreo, Sajama, Transectos lineales, Vicuña.</font></p>  <hr noshade>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The method currently used to estimate vicuna (<i>Vicugna vicugna</i>) abundance in Bolivia and other countries is the total direct count in a given area (census). An alternative method to censuses was tested since it would be cheaper and provide comparable information in terms of precision and accuracy. Thus, we evaluated the line transect method which has been widely used to estimate wildlife density, particularly with species similar to vicuna in open habitats. Twenty transects were located in Sajama National Park and later walked (once each) immediately after the yearly census (2004), resulting in 96 observations of vicuna groups. A comparison of the abundance of vicunas (1,764 animals) derived from line transect counts with that obtained via a census over the same area (1,751 animals), suggested that the line transect method may be used as the preferred method because of its cost effectiveness in terms of vehicle and fuel use, though it required a slightly higher effort in terms of personnel measured as man-hours. The line transect method may also be more advantageous for estimates over large areas, given that the effort required tends to decrease with area surveyed (using correct sampling procedures) in contrast to censuses which require greater effort for larger areas surveyed.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> Keywords:</b> Census, Line   transects, Monitoring, Sajama, Vicuna.</font></p> <hr noshade> <font size="2">     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> </font>     <p align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Introducción</font></b></p> <font size="2">     <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">Para conservar una especie es necesario   conocer las tendencias de sus poblaciones, para lo cual debe implementarse un   programa de monitoreo que permita detectar dichas tendencias y, en lo posible, estimar la densidad de   la población (Gibbs 2000). En el caso de los programas de aprovechamiento de   vicuñas en el altiplano sudamericano, la información sobre abundancia y   densidad del recurso es necesaria para dos fines: a) planificar la captura de   las vicuñas y b) hacer un seguimiento a las tendencias poblacionales a lo largo del tiempo, como forma de evaluar el efecto del manejo sobre la especie.</font></p> </font>    <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El método utilizado en Bolivia para estimar la abundancia de vicuñas a   nivel nacional es el de conteo directo y total por superficie (censo), como   forma de &quot;censo poblacional&quot; (DNCB 1997), siguiendo el protocolo   estandarizado en otros países para la especie (Rodríguez &amp; Nuñez 1987), que   implica básicamente realizar recuentos de individuos en áreas delimitadas e ir   sumando los individuos por área de censo para obtener una estimación de   abundancia para el sitio de interés. El primer censo a nivel nacional se   realizó en 1986 y el segundo en 1996, desde entonces no se realizó otro que   abarque todo el rango de distribución de la vicuña en Bolivia. Se registran   casos particulares de censos periódicos anuales al interior de áreas protegidas   donde actualmente se aprovecha la fibra de vicuña, como el Área Natural de   Manejo Integrado Nacional Apolobamba, que cuenta con datos a partir de 1986 hasta la actualidad y el Parque Nacional Sajama, que cuenta con datos de 1986, 1993, 1996, 2001 y a partir del 2004 hasta la fecha.</font></p> <font size="2">    <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">El censo se basa en el supuesto de que se   logra registrar todos los individuos de la población, lo que es improbable   (Rodríguez &amp; Nuñez 1987, Ojasti 2000, E. Mamani 2007, com. pers.). Además,   el censo implica gran movilización de personal, con apoyo de vehículos y   estrecha coordinación entre grupos de personas que realizan los recuentos. Por   esta razón buscamos una alternativa que fuera más eficiente en términos de   costos, sin perder precisión y exactitud. El método escogido para la   comparación con los datos obtenidos en un censo fue el de conteos en transectos   lineales, que ha sido ampliamente utilizado para estimar la densidad de   animales silvestres, desde aves (Gale <i>et al</i>. 2009), primates   (Burgoa &amp; Pacheco 2009) y varios ungulados, tanto en ambientes   mediterráneos (Focardi <i>et al</i>. 2002), desérticos   (Seddon et al 2003), como tropicales (Hill <i>et al</i>. 1997, Wegge y Storaas 2009).   El método ha sido útil para especies similares a la vicuña en tamaño y tipos de   habitat, como las gacelas mongolianas (Olson <i>et al</i>. 2005) y más   recientemente ha sido utilizado para estimar densidad de vicuñas en Argentina   (Baigún <i>et al</i>. 2008). El método cuenta además cuenta con   una sólida base matemática y permite estimaciones de varianza (Buckland <i>et al</i>. 2001). Este es el primer reporte de su uso en vicunas de Bolivia.</font></p>     <p align="justify">&nbsp;</p> </font>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Área de estudio</b></font></p> <font size="2">     <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">La investigación se llevó a cabo en el   Parque Nacional Sajama (PNS) ubicado en la provincia Sajama del departamento de   Oruro, Bolivia. El PNS, abarca una superficie aproximada de 1.000 km<sup>2</sup>,   con un rango de alturas de 4.200-&gt; 6.500 m. Se diferencian dos estaciones al   año: La de lluvias de noviembre a marzo o abril y la seca, de abril a octubre.   La temperatura media anual es de 3.4°C con una máxima media de 17.2°C y una   mínima media de -12.9°C. La precipitación media anual es de 400 mm. El Parque   corresponde a la eco-región de puna sureña y a la subecoregión de puna desértica con pisos nivales y subnivales de la Cordillera Occidental de Bolivia (Ibisch <i>et al</i>. 2003).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">La vegetación predominante son gramíneas   duras y arbustos como <i>Festuca orthophylla, Parastrephia quadrangularis,   Baccharis santelicis</i>; árboles y arbustos de queñua (Polylepis   tarapacana), que llegan hasta los 5.200 m (Ribera-Arismendi 1999).   Existen áreas de bofedales, en los cuales predominan los cojines de vegetación   hidrófita como <i>Distichia muscoides y Calamagrostis   curvula</i>, y especies en roseta que crecen en zonas rocosas como <i>Azorella compacta, Parastrephia quadrangularis y Poa kurtzii</i>.</font></p> </font>     <p align="justify">&nbsp;</p>      <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Métodos</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con la colaboración de los guardaparques del PNS, se d elimitaron zonas según la abund ancia aparente de vicuñas: 1) abundante; 2) menos abundante (Buckland <i>et al</i>. 2001). Con esta información y empleando un diseño al azar estratificado, trazamos 11 transectos lineales para las zonas categorizadas como &quot;abundante&quot; y nueve en zonas categorizadas como &quot;menos abundante&quot; (<a href="#f1">Fig. 1</a>). La dirección, longitud y posición de cada transecto se definió al azar, seleccionando bolillos con puntos cardinales y coordenadas geográficas obtenidas en cartas topográficas.</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v45n1/a05_figura01.gif" width="556" height="505"></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La toma de datos se realizó por uno o dos grupos, dependiendo si se recorrían uno o dos transectos por día, conformados siempre por uno de los autores (GG o AN) y una persona más. La distancia recorrida, dirección del transecto y la ubicación del mismo fue demarcada con un GPS (<i>Global Positioning System</i>) modelo GARMIN 12X y una brújula. Cada transecto fue recorrido una sola vez entre el 14 y 30 de abril de 2004. En agosto del mismo año se realizó el censo de vicuñas apoyado por MAPZA (Proyecto de Áreas Protegidas y Zonas de Amortiguamiento) y el personal del PNS, con cuyos resultados se comparó la estimación de vicuñas obtenida por el método de los transectos lineales.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El estado del tiempo permitió siempre una adecuada visibilidad de los animales. Todos los transectos fueron recorridos a pie entre 10:00­18:00 h, evitando las horas de menor actividad y agregación de los animales a cuerpos de agua entre 13:00-15:00 h, a una velocidad de 3- 4 km/h, con un esfuerzo promedio de 2 h 13 min h 16 min por transecto. En cada uno de los 20 transectos, se contaron todas las vicuñas observadas y se clasificaron en una de tres categorías: GF=grupo familiar, conformado por un macho, varias hembras y crías, con un territorio definido; T = tropilla de machos jóvenes sin territorio; S = solitarios, individuos relegados de las otras agrupaciones. Cada grupo de vicuñas representó una observación para el análisis.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con el GPS se tomaron los siguientes datos en campo: Punto inicial y final del transecto; punto sobre el transecto en dirección perpendicular al animal o grupo observado y punto donde se observó inicialmente al animal, en caso de un grupo se tomó un punto medio entre los individuos. La superficie de muestreo cubrió un total de 110 km<sup>2</sup>, de los cuales 56 km<sup>2</sup> correspondieron a las zonas categorizadas como &quot;abundante&quot; y 54 km<sup>2</sup> a las zonas &quot;menos</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">abundante&quot;. La longitud de cada transecto y la distancia   perpendicular de cada observación en el transecto se midió en una imagen   satelital LANDSAT empleando el programa ArcView GIS versión 3.2 y la extensión &quot;<i>Angle</i>&quot;.   La   longitud promedio y desviación estándar de los transectos en zonas   categorizadas como &quot;abundante&quot; fue de 2.34 (±1.26) km y de 3.24 (±1.05) km en zonas &quot;menos abundante&quot;.</font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los datos se analizaron utilizando el programa &quot;<i>Distance</i>&quot;   versión   4.1, siguiendo el diseño estratificado (Buckland <i>et al</i>. 2001, Thomas <i>et al</i>. 2003). Dado que   las observaciones de vicuñas pueden realizarse desde distancias muy grandes   (&gt;1.000 m), las observaciones fueron agrupadas en intervalos de 220 m para   graficar la probabilidad de detección. La selección del modelo matemático, se   basó en el AIC (<i>Akaike's Information Criterion</i>) más pequeño   (Buckland <i>et al</i>. 2001). El censo 2004 abarcó una superficie   total de 711 km<sup>2</sup>, pero para que los resultados obtenidos por ambos   métodos sean comparables, únicamente se tomaron en cuenta las vicuñas contadas   en el censo 2004 correspondientes a las mismas zonas evaluadas con el método de   transectos lineales (110 km<sup>2</sup>); es decir, la comparación se   restringió al área efectivamente muestreada por transectos lineales y que fue también trabajada con el método del censo.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se registró un total de 96 observaciones   de grupos de vicuñas en los 20 transectos recorridos en una sola oportunidad.   El esfuerzo de muestreo en las áreas categorizadas como &quot;abundante&quot;   fue de 25.723,6 m lineales (11 transectos), logrando 66 observaciones y en las   áreas categorizadas como &quot;menos abundante&quot; fue de 28.078,3 m lineales   (9 transectos), alcanzando 30 observaciones. El ancho efectivo de los transectos,   estimado con <i>Distance</i> 4.1 fue de 423.4 m para la zona   &quot;abundante&quot; y de 305.6 m para las zonas &quot;menos abundante&quot;   (<a href="#f2">Figuras 2a</a> y <a href="#f2">2b</a>). La densidad de vicuñas fue 1,4 veces mayor en la categoría   &quot;abundante&quot; que en la &quot;menos abundante&quot;. El número total de vicuñas estimado para el área muestreada fue de 1.764 individuos (<a href="#t1">Tabla 1</a>).</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v45n1/a05_figura02.gif" width="549" height="754"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v45n1/a05_tabla01.gif" width="579" height="264"></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Una comparación de la estimación con base   en transectos lineales con el resultado del censo 2004 por recuento total para   la misma superficie muestreada muestra una coincidencia a nivel global (<a href="#t2">Tabla   2</a>). Sin embargo, <i>Distance 4.1</i> estimó una densidad mayor en la zona de menor abundancia y una densidad menor </font><font face="Verdana, Arial, Helvetica, sans-serif"><font size="2">en la de mayor abundancia, en relación a los resultados del censo. Por   otra parte, el censo requirió mayor cantidad de combustible y número de   personas y vehículos que el método de transectos lineales, pero abarcó un área de muestreo mayor (<a href="#t3">Tabla 3</a>).</font></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="t2"></a></p>     <p align="center"><img src="/img/revistas/reb/v45n1/a05_tabla02.gif" width="569" height="197"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="t3"></a></p>     <p align="center"><img src="/img/revistas/reb/v45n1/a05_tabla03.gif" width="580" height="388"></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusión</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acuerdo a Buckland <i>et al</i>. (2001), se requieren entre 40 y 80 observaciones para lograr una estimación confiable con el programa <i>Distance 4.1</i>. Al trabajar con 96 observaciones confiábamos que teníamos una muestra adecuada para lograr una estimación precisa, pero el programa <i>Distance 4.1</i> señaló que el tamaño de muestra en este estudio era insuficiente para una estimación de alta precisión; lo cual se evidencia en la amplitud de los intervalos de confianza de las estimaciones de densidad. En todo caso, si aceptamos que la estimación global es válida, esta fue muy cercana a la obtenida por el método de recuento total (censo), lo que sugiere que el método de transectos lineales representa una interesante alternativa al censo.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sin embargo, es preocupante que la estimación por transectos lineales haya diferido de la del censo al hacer la comparación entre zonas de mayor y menor abundancia aparente de vicuñas. El método de conteos en transectos lineales, utilizado recientemente en Argentina</font><font size="2"><font face="Verdana, Arial, Helvetica, sans-serif">(Baigún <i>et al</i>. 2008), también dio resultados distintos   entre la aplicación de transectos de ancho fijo y transectos lineales,   analizados con <i>Distance 5.0</i>. Los resultados obtenidos con   transectos lineales y análisis de distancias dieron estimaciones de densidad mayores que el método de transectos de ancho fijo.</font></font></p>  <font size="2">     <p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">Consideramos que existen tres explicaciones posibles para estas   diferencias: a) el censo es exacto y la estimación global obtenida por los   transectos lineales coincidió con el mismo por casualidad; b) el método del   recuento total (censo) es inexacto y coincidió con la estimación por transectos   lineales por casualidad; c) La situación particular d el estudio esta   relacionada a los movimientos diarios que las vicuñas realizan dentro su   territorio, lo cual podría haber afectado el resultado de ambos métodos por zonas de mayor o menor abundancia, pero no así los resultados globales.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana, Arial, Helvetica, sans-serif">No contamos con suficiente información en   este momento para discernir entre estas tres explicaciones. Por este motivo   estamos planificando realizar una calibración del método a través de una campaña simultánea de censos y transectos lineales a nivel nacional.</font></p> </font>    <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otro elemento que debe mejorarse es la precisión de la estimación. Para   ello será necesario incrementar el tamaño de la muestra, especialmente en zonas   categorizadas como &quot;menos abundante&quot;. Una varianza menor permitirá no   solamente mayor confianza en los resultados, sino también disminuirá la   probabilidad de cometer el error de Tipo I (aceptar que existe una tendencia,   cuando en realidad no existe) en un programa de monitoreo de largo plazo (Gibbs   2000, Pacheco 2004). El censo no da información de variabilidad, se asume que   es un conteo total, aunque la evidencia indica que no lo es. Por ejemplo, en   2001 se realizó el censo en el PNS en dos ocasiones consecutivas y los   resultados difirieron en un 18% (4.406 vicuñas contadas en la primera ocasión y 3.597 vicuñas en la segunda),   diferencia que seria considerada alta en el contexto de un programa de   monitoreo (Gibbs 2000). La calibración y mejora en la exactitud de las   estimaciones derivadas del método de transectos lineales es importante sobre   todo como posible alternativa para la evaluación de áreas de gran extensión ya   que a diferencia del censo el esfuerzo requerido disminuye a medida que se   incrementa la superficie evaluada (Baigún <i>et al</i>. 2008). Una ventaja   adicional del método de transectos lineales es que puede ser realizado, sin   gasto adicional, por los guardaparques y comunarios del área protegida durante   los recorridos de patrullaje siguiendo un protocolo estandarizado. En   contraposición, el censo requiere de una organización especial que permita   cubrir toda la región a ser censada de manera simultánea. La principal   dificultad para el uso del método de transectos lineales es el análisis de   datos que requiere de experiencia en el manejo del programa <i>Distance</i>; sin embargo, esto   puede resolverse con una fase de capacitación o, de otra manera, haciendo un   convenio con alguna institución académica que se ocupe del análisis de los datos y las series de tiempo.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Recientemente, el método de transectos   lineales ha sido puesto a prueba a gran escala y con éxito en Argentina (Baigún   <i>et al</i>. 2008). Para el caso boliviano, el censo de vicuñas 2009/2010 se   planificó de manera que incluyera una estimación con base en transectos   lineales y su calibración al método tradicional de &quot;censo&quot;; de manera   que el monitoreo de las tendencias poblacionales de la especie a nivel nacional   pueda realizarse con un método sencillo, de fácil aplicación y factible de   realizarse con mayor frecuencia que un censo. El presente trabajo es una primera aproximación a lograr que esto sea realidad a nivel nacional.</font></p>     <p align="justify">&nbsp;</p>      <p align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Conclusión</font></b></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El método de transectos lineales es una alternativa muy interesante para la estimación de abundancia de vicuñas, por su menor costo y aparentemente similar desempeño. Su uso a gran escala, bajo un adecuado diseño, podría ser una opción para el monitoreo de largo plazo de las poblaciones de vicuña, tanto a nivel nacional, como regional; esto requiere de una calibración del método.</font></p>      <p align="justify">&nbsp;</p>      <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Agradecemos la colaboración de la administración y del Cuerpo de Guardaparques del PNS y en especial a nuestras guías de campo Teresa Marin y Clotilde Choque. También a Humberto Gómez y Frangois Landry por sus consejos a la hora de analizar los datos. Este trabajo fue financiado por la Wildlife Conservation Society a BIOTA. Las sugerencias y comentarios de los revisores ayudaron a aclarar el manuscrito.</font></p>      <p align="justify">&nbsp;</p>      ]]></body>
+<body><![CDATA[<p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias</b></font></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Baigún, R. J., M. L. Bolkovic, M. B. Aued, M. C. Li Puma &amp; R. P. Scandalo. 2008. Manejo de fauna silvestre en la Argentina. Primer censo nacional de camélidos silvestres al norte del Río Colorado. 1a ed. Secretaría de Ambiente y Desarrollo Sustentable de la Nación, Buenos Aires. 104 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074230&pid=S1605-2528201000010000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Buckland, S. T., D. R. Anderson, K. P. Burnham, J. L. Laake, D. L. Borchers &amp; L. Thomas. 2001. Introduction to <i>Distance</i> Sampling Estimating abundance of biological populations. OXFORD Nombre de editorial o institución o ciudad? Debe indicar editorial o institución, luego ciudad. 432 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074231&pid=S1605-2528201000010000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Burgoa, N. &amp; L.F. Pacheco. 2008. Densidad y uso de habitat de Cebus apella en un bosque yungueño de Bolivia. Mastozoología Neotropical 15: 273-283.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074232&pid=S1605-2528201000010000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DNCB (Dirección Nacional de Conservación de la Biodiversidad). 1997. Censo nacional de la vicuña en Bolivia. Ministerio de Desarrollo Sostenible y Medio Ambiente, Secretaría Nacional de</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Recursos Naturales y Medio Ambiente, Unidad de Vida Silvestre, La Paz. 60 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074233&pid=S1605-2528201000010000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Focardi, S., R. Isotti &amp; A. Tinelli. 2002.</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Line transect estimates of ungulate populations in a Mediterranean forest. The Journal of Wildlife Management</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">66: 48-58.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074234&pid=S1605-2528201000010000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gale, G.A., P.D. Round, A. J. Pierce, S. Nimnuan,</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">A. Pattanavibool&amp;W.Y. Brockelman.2009.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">A field test of <i>distance</i> sampling methods</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">for a tropical Forest bird community. The</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Auk 126: 439- 448.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074235&pid=S1605-2528201000010000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Gibbs, J. P. 2000. Monitoring populations. pp.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">213-252. En: Boitani, L. &amp; T.K. Fuller (eds.)</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Research Techniques in Animal Ecology.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Controversies and Consequences.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Columbia University Press, Nueva</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">York.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074236&pid=S1605-2528201000010000500007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hill, D., D. Hockin, D. Price, P. Tucker, R. Morris &amp; J. Treweek. 1997. Bird disturbance: improving the quality and utility of disturbance research. Journal of Applied Ecology 34: 275-288.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074237&pid=S1605-2528201000010000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ibisch, P. L., S. G. Beck, B. Gerkmann &amp; A.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Carretero. 2003. La diversidad biológica.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">pp. 47-88. En: Ibisch, P. L. &amp; G. Mérida</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">(eds) Biodiversidad: La Riqueza de Bolivia. Estado de Conocimiento y Conservación Ministerio de Desarrollo Sostenible - Editorial FAN, Santa Cruz. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074238&pid=S1605-2528201000010000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ojasti, J. 2000. Manejo de fauna silvestre neotropical. Pp. 73 - 106. En:   Dallmeier,</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">F. (ed.) SIMAB Series (5), Smithsonian</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Institution/MAB Program, Smith Lith. Corp., Washington DC.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074239&pid=S1605-2528201000010000500010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Olson, K. A, T. K. Fuller, G. B. Schaller, D. Odonkhuu &amp; M. G. Murray. 2005.</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estimating the population density of Mongolian gazelles Procapra gutturosa by driving long-distance transects. Oryx</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">39: 164-169.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074240&pid=S1605-2528201000010000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pacheco, L.F. 2004. Monitoreo de mamíferos grandes en praderas altoandinas y bosque nublados de Bolivia. Ecología</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Austral 14: 121-133.</font></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ribera-Arismendi, M. 1999. Evaluación integral del impacto de depredación del puma (Felis concolor) y el zorro (Pseudalopex culpaeus), sobre el ganado camélido en el Parque Nacional Sajama. Servicio Nacional de Áreas Protegidas. Ministerio de Desarrollo Sostenible y Panificación, La Paz.. Informe no publicado 121 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074242&pid=S1605-2528201000010000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Rodríguez, R. &amp; R. Nuñez. 1987. El censo de poblaciones de vicuña. Pp. 33-56. En: Torres, H. (ed.) Técnicas para el</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejo de la Vicuña. UICN, PNUMA,</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Santiago.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074243&pid=S1605-2528201000010000500014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Seddon, P.J., K. Ismail, M. Shobrak, S. Ostrowski &amp; C. Magin. 2003. A comparison of derived population estimate, mark-resighting and distance sampling methods to determine the population size of a desert ungulate, the Arabian</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">oryx. Oryx 37: 286- 294.</font></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Thomas, L., J.L., Laake, S., Strindberg, F. F. C., Marques, S. T., Buckland, D. L., Borchers, D. R., Anderson, K. P., Burnham, S. L.,</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hedley &amp; J. H., Pollard. 2003. Distance</font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">4.1 Release 2. Research Unit for Wildlife Population Assessment, University of St. Andrews. <u><a href="http://www.ruwpa.stand.ac.uk/distance/" target="_blank">http://www.ruwpa.stand.ac.uk/distance/</a></u> [accedido 24 agosto 2004]. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074245&pid=S1605-2528201000010000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Wegge, P. &amp; T. Storaas. 2009. Sampling tiger ungulate prey by   the distance method: lessons learned in Bardia National Park, Nepal. Animal   Conservation 12: 78-84.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=074246&pid=S1605-2528201000010000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify">&nbsp;</p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Artículo recibido en: Septiembre de 2009.     ]]></body>
+<body><![CDATA[<br> Manejado por: Lilian Painter     <br> Aceptado en: Marzo de 2010.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baigún]]></surname>
+<given-names><![CDATA[R. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bolkovic]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aued]]></surname>
+<given-names><![CDATA[M. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Li Puma]]></surname>
+<given-names><![CDATA[M. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scandalo]]></surname>
+<given-names><![CDATA[R. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manejo de fauna silvestre en la Argentina. Primer censo nacional de camélidos silvestres al norte del Río Colorado]]></source>
+<year>2008</year>
+<edition>1</edition>
+<page-range>104</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Secretaría de Ambiente y Desarrollo Sustentable de la Nación]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[K. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Borchers]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to Distance Sampling Estimating abundance of biological populations]]></source>
+<year>2001</year>
+<page-range>432</page-range><publisher-loc><![CDATA[OXFORD ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Burgoa]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Densidad y uso de habitat de Cebus apella en un bosque yungueño de Bolivia]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>2008</year>
+<volume>15</volume>
+<page-range>273-283</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<collab>DNCB (Dirección Nacional de Conservación de la Biodiversidad)</collab>
+<source><![CDATA[Censo nacional de la vicuña en Bolivia]]></source>
+<year>1997</year>
+<page-range>60</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Desarrollo Sostenible y Medio Ambiente, Secretaría Nacional deRecursos Naturales y Medio Ambiente, Unidad de Vida Silvestre]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Focardi]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Isotti]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tinelli]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Line transect estimates of ungulate populations in a Mediterranean forest]]></article-title>
+<source><![CDATA[The Journal of Wildlife Management]]></source>
+<year>2002</year>
+<volume>66</volume>
+<page-range>48-58</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gale]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Round]]></surname>
+<given-names><![CDATA[P.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pierce]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nimnuan]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pattanavibool]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brockelman]]></surname>
+<given-names><![CDATA[W.Y.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A field test of distance sampling methods for a tropical Forest bird community]]></article-title>
+<source><![CDATA[The Auk]]></source>
+<year>2009</year>
+<volume>126</volume>
+<page-range>439- 448</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Monitoring populations]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Boitani]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fuller]]></surname>
+<given-names><![CDATA[T.K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Research Techniques in Animal Ecology. Controversies and Consequences]]></source>
+<year>2000</year>
+<page-range>213-252</page-range><publisher-loc><![CDATA[NuevaYork ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hill]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hockin]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Price]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tucker]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morris]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Treweek]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bird disturbance: improving the quality and utility of disturbance research]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>1997</year>
+<volume>34</volume>
+<page-range>275-288</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gerkmann]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carretero]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La diversidad biológica]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mérida]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiversidad: La Riqueza de Bolivia. Estado de Conocimiento y Conservación Ministerio de Desarrollo Sostenible]]></source>
+<year>2003</year>
+<page-range>47-88</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ojasti]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Manejo de fauna silvestre neotropical]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dallmeier]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[SIMAB Series (5)]]></source>
+<year>2000</year>
+<page-range>73 - 106</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution/MAB Program, Smith Lith. Corp]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Olson]]></surname>
+<given-names><![CDATA[K. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fuller]]></surname>
+<given-names><![CDATA[T. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schaller]]></surname>
+<given-names><![CDATA[G. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Odonkhuu]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Murray]]></surname>
+<given-names><![CDATA[M. G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Estimating the population density of Mongolian gazelles Procapra gutturosa by driving long-distance transects]]></article-title>
+<source><![CDATA[Oryx]]></source>
+<year>2005</year>
+<volume>39</volume>
+<page-range>164-169</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ismail]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shobrak]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ostrowski]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Magin]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Monitoreo de mamíferos grandes en praderas altoandinas y bosque nublados de Bolivia]]></article-title>
+<source><![CDATA[Ecología Austral]]></source>
+<year>2004</year>
+<volume>14</volume>
+<page-range>121-133</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribera-Arismendi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evaluación integral del impacto de depredación del puma (Felis concolor) y el zorro (Pseudalopex culpaeus), sobre el ganado camélido en el Parque Nacional Sajama]]></source>
+<year>1999</year>
+<page-range>121</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Servicio Nacional de Áreas Protegidas. Ministerio de Desarrollo Sostenible y Panificación]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rodríguez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[El censo de poblaciones de vicuña]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Torres]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Técnicas para el Manejo de la Vicuña]]></source>
+<year>1987</year>
+<page-range>33-56</page-range><publisher-loc><![CDATA[Santiago ]]></publisher-loc>
+<publisher-name><![CDATA[UICN, PNUMA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Seddon]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A comparison of derived population estimate, mark-resighting and distance sampling methods to determine the population size of a desert ungulate, the Arabian oryx]]></article-title>
+<source><![CDATA[Oryx]]></source>
+<year>2003</year>
+<volume>37</volume>
+<page-range>286- 294</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Strindberg]]></surname>
+<given-names><![CDATA[F. F. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[S. T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Borchers]]></surname>
+<given-names><![CDATA[D. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[K. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[S. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pollard]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distance 4.1 Release 2]]></source>
+<year>2003</year>
+<publisher-name><![CDATA[Research Unit for Wildlife Population Assessment, University of St. Andrews]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wegge]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Storaas]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sampling tiger ungulate prey by the distance method: lessons learned in Bardia National Park, Nepal]]></article-title>
+<source><![CDATA[Animal Conservation]]></source>
+<year>2009</year>
+<volume>12</volume>
+<page-range>78-84</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

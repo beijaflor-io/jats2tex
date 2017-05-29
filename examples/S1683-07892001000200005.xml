@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000200005</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Modelo de Planeación de la Producción para una Empresa Agroindustrial]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Peña]]></surname>
+<given-names><![CDATA[Ivailo]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Santa Cruz]]></surname>
+<given-names><![CDATA[Rene]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Departamento de Ingeniería Industrial ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>2</numero>
+<fpage>181</fpage>
+<lpage>189</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000200005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000200005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000200005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Para alcanzar los objetivos de producción y utilizar de forma adecuada sus recursos, las organizaciones requieren planificar y controlar adecuadamente sus actividades productivas. El presente artículo describe un modelo de planeación de la producción desarrollado para una empresa agroindustrial dedicada a la produc­ción de frutas deshidratadas, harinas y mazamorras para el mercado nacional y de exportación. El modelo utiliza programación matemática para determinar las variables de decisión que minimizan una función de costos incurridos en las corres­pondientes actividades establecidas en el plan de producción. El artículo termina mostrando los resultados del modelo, requerimientos y niveles de utilización de planta.]]></p></abstract>
+<kwd-group>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Modelo de Planeación de la Producción para una Empresa Agroindustrial</B></font></p>      <p align=center><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Ivailo Peña, Rene Santa Cruz</font></p>      <p align=center>Departamento de Ingeniería Industrial</p>      <p align=center>Universidad Católica Boliviana, Regional Cochabamba</p>      <p align=center>e-mail: <u><a href="mailto:santacrz@ucbcba.edu.bo">santacrz@ucbcba.edu.bo</a></u></p>      <p><b>Resumen</b></p>      <p>Para alcanzar los objetivos de producción y utilizar de forma adecuada sus recursos, las organizaciones requieren planificar y controlar adecuadamente sus actividades productivas. El presente artículo describe un modelo de planeación de la producción desarrollado para una empresa agroindustrial dedicada a la produc­ción de frutas deshidratadas, harinas y mazamorras para el mercado nacional y de exportación. El modelo utiliza programación matemática para determinar las variables de decisión que minimizan una función de costos incurridos en las corres­pondientes actividades establecidas en el plan de producción. El artículo termina mostrando los resultados del modelo, requerimientos y niveles de utilización de planta.</p>      <p><b>Palabras  Clave:   </b>Planeación de la Producción,  Productividad,  Programación Matemática.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1 Introducción</B></font></p>      <p>El nuevo escenario económico en el que vive el país como consecuencia de la globali-zación, caracterizado por la apertura de los mercados nacionales de bienes, servicios y financiero a inversiones extranjeras, trae aparejado una serie de repercusiones en la economía nacional.</p>      ]]></body>
+<body><![CDATA[<p>Las implicaciones para el sector productivo regional son múltiples. La participación en mercados abiertos, altamente competitivos, muy exigentes y dinámicos, requiere un gran esfuerzo de los productores en el mejoramiento de la infraestructura, la aplica­ción de mecanismos mucho más eficientes de gestión y varios otros elementos que son necesarios para crear condiciones suficientes de competitividad.</p>      <p>En ese contexto la profunda revisión y optimización de la propia práctica industrial, en términos generales la gestión integral de la producción, constituye una etapa prácticamente obligatoria para alcanzar niveles mínimos de competitividad.</p>      <p>El sector productivo se depara con la necesidad y el reto de utilizar recursos limitados de producción (equipos, materiales, materia prima, etc.) para ofrecer al mercado productos con calidad adecuada, en el plazo previsto, en la cantidad requerida y a un precio competitivo.</p>      <p>Eso pone de manifiesto la importancia de la Gestión de la Producción en la adecuada planeación y control de las operaciones de transformación, de materiales, tecnología, recursos humanos y económicos.</p>      <p>Consecuentemente,  la Planeación y Control de la Producción son factores determinantes de la productividad industrial, toda vez que las organizaciones productivas requieren adaptarse constantemente a las condiciones dinámicas y fluctuantes de los mercados globales.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>2 La función planeación y control de la producción</B></font></p>      <p>La Planeación de la Producción tiene como objetivo prever y movilizar todos los recursos necesarios para la producción de un bien, o para la prestación de un servicio, en el plazo adecuado y en las cantidades correctas. Eso implica la determinación y cálculo de todos los recursos necesarios a la ejecución de las órdenes de producción [5].</p>      <p>Un conjunto reducido de factores, denominados internos, son los que pueden ser modificados para obtener un plan de producción, y otro grupo mayor de factores, denominados externos, están fuera de control directo de quienes planifican la producción (ver Figura 1) [1].</p>      <p>La planeación de la producción presenta tres procesos básicos: planeación agregada, programa maestro de producción y planeación de los requerimientos de materiales. El proceso normal de la planeación consiste en desarrollar planes agregados con el objetivo de equilibrar la demanda con los niveles de capacidad e inventario disponibles. Por su parte el programa maestro de producción toma las demandas previstas y determina un programa de actividades de producción que se utiliza como insumo para las planeación de requerimiento de materiales, que proporciona los requerimientos de las partidas de materiales y materias primas.</p>      <p>Se recurre a métodos cualitativos y cuantitativos para formular planes, programas y controles de producción [5]. Los métodos cualitativos comprenden el consenso entre los grupos y las razones de inventario; los métodos cuantitativos incluyen técnicas gráficas, diagramación, programación matemática, estrategias específicas de prueba y error, simulación, reglas de decisión, y un conjunto de métodos heurísticos [4].</p>      ]]></body>
+<body><![CDATA[<p>La programación lineal es un método de optimización matemático que permite obtener un adecuado plan de producción que minimiza un conjunto de costos (mano de obra, materiales, inventarios, mantenimiento, producción, etc.) sujeto a restricciones de capacidad de planta y disponibilidad de recursos de producción.</p>     <p align="center"><img src="/img/revistas/ran/v1n2/1-Penia.JPG" width="694" height="329"></p>     <p align=center><strong>Figura 1:</strong> Entorno de la planeación de la producción.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>3 Modelo de planeación de la producción</B></font></p>      <p>La formulación de la planeación de la producción como un problema de programación lineal (P.L.)<sup>1</sup> constituye un procedimiento efectivo para elaborar un óptimo plan de producción.</p>      <p>Un modelo de programación lineal consta de tres elementos básicos: una función obtetivo a optimizar, un conjunto de restricciones denominadas estructurales o funcionales y las restricciones de no negatividad [6].</p>      <p>Para describir el problema de planeación de la producción se utiliza un modelo matemático bajo la suposición que todas las funciones matemáticas son lineales [3]. La función objetivo en este caso es la minimización del costo total del plan caracterizado por costos unitarios asociados a cada variable considerada en el modelo; las variables utilizadas representan aspectos como la capacidad de planta, los materiales, la mano de obra, los niveles de inventario, los tiempos de preparación, los plazos de entrega, etc.; y las restricciones están formadas por las disponibilidades de los recursos de producción.</p>      <p>La solución del problema correspondiente de P.L. posibilita evaluar un gran número de estrategias de producción al encontrar la alternativa con el costo menor, permite realizar análisis de sensibilidad y proporciona amplia información adicional a partir de las variables duales del problema.</p>      <p>Debido a esas características particulares, el modelo de planeación de la producción descrito a seguir fue desarrollado utilizando P.L. para una empresa agroindustrial de Cochabamba, de origen campesino, dedicada a la elaboración de productos orgánicos deshidratados como banano, pina, papaya, kiwi y manzana, y de harinas y mazamorras como api, tojorí, avena, refresco de quinua, refresco de willkaparo, harinas de frutas (manzana, pina, limón, naranja y babano) y harina de zanahoria.</p>      <p>La principal demanda de la empresa actualmente está constituida por desayunos escolares en los municipios rurales de Tiquipaya y Cliza, los mercados regionales y nacionales y la exportaci&oacute;n al mercado europeo.</p> <hr>      ]]></body>
+<body><![CDATA[<p>[1]Uno de los primeros trabajos en este área fue desarrollado por Hanssmann en 1960 [2].</p><hr>     <p>Un aspecto importante a ser destacado en el proceso de producción es la utilización de secadores solares tipo invernadero, caracterizados por un sistema de convección natural que permite alcanzar temperaturas en el interior de alrededor 40 a 50 °C. El sis­tema de producción utilizado por la empresa es de tipo modular y su entorno producto - mercado puede ser considerado como de &quot;ensamble por pedido&quot;.</p>      <p>El modelo de planeación se basa en los siguientes parámetros:</p>      <p align="center"><img src="/img/revistas/ran/v1n2/2-Penia.JPG" width="775" height="566"><img src="/img/revistas/ran/v1n2/3-Penia.JPG"></p>     <p align="center"><img src="/img/revistas/ran/v1n2/4-Penia.JPG" width="811" height="614"></p>     <p align="center"><img src="/img/revistas/ran/v1n2/5-Penia.JPG" width="768" height="591"></p>     <p align="center"><img src="/img/revistas/ran/v1n2/6-Penia.JPG" width="784" height="307"></p>     <p align=center><b>Tabla 1:</b> Nivel de producción (kilogramos de fruta).</p>     <p align=center><img src="/img/revistas/ran/v1n2/7-Penia.JPG" width="652" height="373"></p>     <p align=center><b>Tabla 2:</b> Nivel de   inventario (kilogramos de fruta deshidratada).</p>     ]]></body>
+<body><![CDATA[<p>Restricciones de estacionalidad:</p>      <p align="center"><img src="/img/revistas/ran/v1n2/8-Penia.JPG" width="792" height="353"></p>     <p align="center"><img src="/img/revistas/ran/v1n2/9-Penia.JPG" width="567" height="349"></p>     <p align="center"><b>Tabla 3: </b>Nivel de fuerza de trabajo.</p>      <p>La Tabla 1 detalla el nivel de producción mensual en kilogramos de fruta deshidra­tada. Así por ejemplo, para el módulo 1 se debe producir 3274 kgr. el mes de marzo utilizando el proceso 1 y 2840 kgr. el mes de agosto utilizando el proceso 2.</p>      <p>Para esos niveles de producción establecidos, la Tabla 2 muestra el correspondiente nivel de inventario de fruta deshidratada en kilogramos. Por ejemplo, el mes de noviembre y diciembre se registran inventarios únicamente del módulo 2. Por el contrario, para el mes de enero se observa niveles elevados de inventario de todos los módulos. La solución considera un valor de inventario inicial.</p>      <p>La Tabla 3 muestra el nivel de fuerza de trabajo mensual correspondiente al plan de producción. Como se observa en la tabla, la disponibilidad actual de 12 trabajadores es insuficiente los meses de junio y noviembre. Eso indica que se deben contratar 12 y 4 trabajadores respectivamente.</p>      <p>El costo mínimo determinado por el plan de producción asciende a 30.345 Sus.</p>      <p>En las Figuras 2(a), 2(b), 3(a) y 3(b) se muestra la utilización porcentual de los se­cadores solar y convencional así como la utilización de la mano de obra correspondientes a las Tablas 1,  2 y 3.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>4 Conclusión</B></font></p>      ]]></body>
+<body><![CDATA[<p>La determinación y cálculo de los recursos necesarios a la ejecución de las órdenes de producción es una de las tareas decisivas de la Planeación de la Producción. La administración de los recursos necesarios para la producción de un bien en el plazo adecuado y en las cantidades correctas y con las características deseadas son factores determinantes de la productividad, más aún cuando el sector productivo requiere asignar recursos limitados (equipos, materiales, materia prima, etc.).</p>      <p>La elaboración de un plan de producción basado en un enfoque de optimización (programación lineal) permite obtener la combinación óptima de niveles de producción,</p>     <p align="center"><img src="/img/revistas/ran/v1n2/10-Penia.JPG" width="616" height="474"></p>     <p align="center"><b>Figura 2:</b>  (a) Utilización mensual del proceso 1.   (b) Utilización mensual de la mano de obra necesaria para satisfacer el plan de producción.</p>      <p align="center"><img src="/img/revistas/ran/v1n2/11-Penia.JPG" width="626" height="512"></p>     <p><b>Figura 3:</b> (a) Utilización mensual de la mano de obra necesaria para satisfacer el plan de producción, (b) Distribución porcentual de los costos presentes en el plan de producción.<br clear=all> </p>      <p>inventario, fuerza de trabajo, recursos de producción, etc., que minimizan los costos relacionados con las actividades de producción. La flexibilidad del modelo permite actualizaciones constantes de los parámetros utilizados, lo que facilita un análisis a profundidad de cada una de las variables consideradas. El análisis de sensibilidad y de los precios sombra permite también obtener suficientes elementos de juicio para tomar decisiones estratégicas en la Gestión de la Producción.</p>      <p><b>Referencias</b></p>      <!-- ref --><p>[1] R. Chase y N. Aquilano.   <i>Dirección y Administración de la Producción y de las Operaciones. </i>Irwin, 1994.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001361&pid=S1683-0789200100020000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[2] F. Hanssmann y W. Hess. <i>A Linear Programming Approach to Production Employ-ment Scheduling, </i>Vol. 1. Management Technology, 1960.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001362&pid=S1683-0789200100020000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[3] F. Hillier y G. Lieberman. <i>Introducción a la Investigación de Operaciones. </i>McGraw Hill, México, 1982.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001363&pid=S1683-0789200100020000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[4] R. Schroeder. <i>Administración de Operaciones. </i>McGraw Hill, México, 1992.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001364&pid=S1683-0789200100020000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[5] D. Sipper y R. Bulfin. <i>Planeación y Control de la Producción. McGraw Hill, México, 1998.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001365&pid=S1683-0789200100020000500005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[6] H. Taha. <i>Investigación de Operaciones. </i>Alfaomega, México, 1994.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001366&pid=S1683-0789200100020000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chase]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aquilano]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dirección y Administración de la Producción y de las Operaciones]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hanssmann]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hess]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Linear Programming Approach to Production Employ-ment Scheduling]]></source>
+<year>1960</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hillier]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lieberman]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducción a la Investigación de Operaciones]]></source>
+<year>1982</year>
+<publisher-name><![CDATA[McGraw Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schroeder]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Administración de Operaciones]]></source>
+<year>1992</year>
+<publisher-name><![CDATA[McGraw Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sipper]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bulfin]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Planeación y Control de la Producción]]></source>
+<year>1998</year>
+<publisher-name><![CDATA[McGraw Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Taha]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investigación de Operaciones.]]></source>
+<year>1994</year>
+<publisher-name><![CDATA[Alfaomega]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

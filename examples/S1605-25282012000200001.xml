@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282012000200001</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[El pasado, presente y futuro en el uso de la estadística en estudios ecológicos en Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[The past, present, and future of the statistical tests in ecological studies in Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Naoki]]></surname>
+<given-names><![CDATA[Kazuya]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología Centro de Análisis Espacial]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2012</year>
+</pub-date>
+<volume>47</volume>
+<numero>2</numero>
+<fpage>79</fpage>
+<lpage>87</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282012000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282012000200001&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282012000200001&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><body><![CDATA[ <p align="right"><font face="Verdana" size="2"><b>Editorial</b></font></p>     <p align="right">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>El pasado, presente y futuro en el uso de la estadística en estudios</b></font> <b><font face="Verdana" size="4">ecológicos en Bolivia</font></b><font face="Verdana" size="4"></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>The past, present, and future of the statistical tests in ecological studies in</b></font> <b><font face="Verdana" size="3">Bolivia</font></b><font face="Verdana" size="3"></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Kazuya Naoki</b></font></p>     <p align="center"><font face="Verdana" size="2">Centro de Análisis Espacial, Instituto de Ecología, Universidad Mayor de San Andrés, Casilla 10077 -</font> <font face="Verdana" size="2">Correo Central, La Paz, Bolivia     <br> E-mail: <a href="mailto:kazuya.naoki@gmail.com">kazuya.naoki@gmail.com</a></font></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center">&nbsp;</p>     <p align="justify"><font face="Verdana" size="2"><b>¿Por qué usar la estadística en ecología?</b></font></p>     <p align="justify"><font face="Verdana" size="2">La estadística es una ciencia que estudia la recolección, análisis e interpretación de datos, describiendo la variación natural y evaluando objetivamente la confiabilidad de las conclusiones derivadas (Sokal &amp; Rohlf 1995, Zar 1996). Desde el siglo pasado, la estadística se ha convertido en una herramienta indispensable para respaldar estudios científicos. Sin embargo, aprenderla es una tarea difícil para muchos estudiantes y ecólogos jóvenes que frecuentemente se preguntan ¿para qué tenemos que usar la estadística en la ecología? o ¿cuántos cursos de estadística debemos llevar para lograr trabajar como ecólogos? Este ensayo trata de responder estas preguntas y proyectar el futuro del uso de la estadística en las ciencias ecológicas en Bolivia.</font></p>     <p align="justify"><font face="Verdana" size="2">Los ecólogos tienen dos tareas principales: 1. Identificar los patrones inherentes a los sistemas naturales y 2. dilucidar aquellos procesos que los generan. Por ejemplo, MacArthur &amp; Wilson (1967) en su famosa &quot;Teoría de biogeografía de islas&quot; describieron un patrón: Las islas de mayor extensión poseen el mayor número de especies y se explica mediante la extinción local e inmigración. De aquí surgen diversas dudas: ¿Los ecólogos perciben los mismos patrones? y ¿se creen que los mismos procesos son causas de estos patrones? Los ecólogos frecuentemente están en desacuerdo con los patrones que se observan respecto al mismo sistema ecológico, incluso con el mismo juego de datos. Uno de los ejemplos más conocidos es sobre la interpretación acerca del patrón de distribución de aves en el archipiélago de Bismarck (Nueva Guinea); Diamond (1975) propuso una serie de reglas de ensamblaje, después de percibir un patrón de &quot;tablero de damas&quot; en la distribución de varias especies de aves en este archipiélago y deducir la competencia interespecífica como el proceso responsable de este patrón. Por otro lado y analizando el mismo juego de datos, Connor &amp; Simberloff (1979) argumentaron que el patrón percibido por Diamond era producto del azar en la distribución de varias especies, en las que no se halló influencia entre ellas.</font></p>     <p align="justify"><font face="Verdana" size="2">¿Por qué ocurre este tipo de desacuerdo entre ecólogos? Para responder esta pregunta hay que entender la diferencia entre el patrón en un juego de datos (muestra) y el patrón en un sistema natural (población), así como las características y fuentes de variación de los datos en la ecología. Supongamos que un ecólogo está interesado en examinar el efecto del área de cuerpos de agua en la riqueza de especies de fitoplancton del Altiplano boliviano. Para esto escogió aleatoriamente 20 cuerpos de agua y cuantificó el número de especies y áreas de cada cuerpo de agua (<a href="#f1">Fig. 1</a>). </font></p>     <p align="justify"><a name="f1"></a></p> <table width="444" border="0" align="center">   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a01_figura_01.gif" width="438" height="336"></td>   </tr>   <tr>     <td width="62" valign="top"><font face="Verdana" size="2"><b>Figura 1. </b></font></td>     <td width="372" valign="top">    <p align="justify"><font face="Verdana" size="2">Relaci&oacute;n entre riqueza de fitoplancton y &aacute;rea de los cuerpos de agua en el Altiplano boliviano. La l&iacute;nea en la figura fue elaborada por el m&eacute;todo de los m&iacute;nimos cuadrados (Los valores son ficticios).</font> </td>   </tr> </table>     <p align="justify"><font face="Verdana" size="2">Ambas variables parecen tener una relación lineal positiva como predice la teoría de biogeografía de islas (<a href="#f1">Fig. 1</a>). En primer lugar debemos entender que <i>&quot;lo que es un juego de datos&quot; </i>no es lo</font> <font face="Verdana" size="2">mismo que <i>&quot;lo que es el sistema natural&quot; </i>y los </font><font face="Verdana" size="2">datos obtenidos en general <b>no</b> constituyen la respuesta directa a la pregunta original de la investigación, al contrario de lo que menciona Feinsinger (2012). Los ecólogos se preguntan acerca de los parámetros que describen los patrones y procesos inherentes a los sistemas naturales. En el caso del estudio de fitoplancton, se cuestionarían si existe una relación entre el área y el número de especies en cuerpos de agua del Altiplano boliviano. Como no se puede cuantificar todos los miles de cuerpos de agua en el Altiplano, se seleccionaron algunos cuerpos de agua (muestra) y se obtuvieron datos de esta muestra para calcular los valores estadísticos requeridos (p.e. la pendiente de la relación lineal entre 20 cuerpos de agua), los cuales se usan para estimar los parámetros (p.e. la pendiente de la relación de todos los cuerpos de agua en el Altiplano). Entonces, </font><font face="Verdana" size="2">se puede inferir <i>&quot;lo que es el sistema natural&quot; </i></font><font face="Verdana" size="2">mediante la aplicación de la estadística, pues los datos representan sólo parte de la realidad del sistema natural y no se puede responder</font> <font face="Verdana" size="2">la pregunta de investigación sin aplicar una inferencia estadística. En segundo lugar, los sistemas ecológicos son muy complejos y los datos son mayormente obtenidos por observaciones en campo que por experimentos en el laboratorio bajo condiciones estrictamente controladas. Por tanto, los datos provenientes de sistemas naturales, como los que cuantifica la ecología, contienen dos fuentes de variación: a. variación determinística o variación asociada a factores examinados y b. variación estocástica, lo cual contiene variación asociada a factores no examinados (factores alineados) y variación intrínseca (Feinsinger 2003, Kéry 2010). Como se puede observar en la <a href="#f1">figura 1</a>, pocos cuerpos de agua caen exactamente sobre la línea; la mayoría se encuentran por encima o debajo ésta. Esta diferencia entre cada cuerpo de agua respecto a la línea (&epsilon;<sub>¡</sub> en <a href="#f1">Fig. 1</a>) es la variación estocástica. Parte de esta diferencia podría estar asociada a factores no examinados; por ejemplo, profundidad, pH y nivel de contaminación de cada cuerpo de agua; por otra parte, podría provenir de la variación</font> <font face="Verdana" size="2">intrínseca del sistema; por ejemplo, la variación del número de especies de fitoplancton entre diferentes muestras del mismo cuerpo de agua (que implica un error de muestreo) o al cambio estocástico de la comunidad de fitoplancton. La variación estocástica produce ruido o error en los datos, que encubre el patrón principal que los ecólogos buscan. Esto podría causar un desacuerdo entre los ecólogos acerca del patrón observado.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Entonces ¿cómo podemos llegar a un acuerdo acerca del patrón del sistema natural? y ¿cómo podemos asegurar que el patrón percibido por un investigador no es una ilusión producida por el ruido de datos y simplemente el deseo de quien trata de descubrir un secreto de la naturaleza? La respuesta es simple y se encuentra en la aplicación de la estadística. La estadística juega un papel de juez, ya que evalúa con cierto grado de objetividad la confiabilidad de las conclusiones que provienen de los datos (Zar 1996). Las pruebas estadísticas mejor conocidas - como el análisis de varianza y la regresión - están basadas en la comparación entre la variación determinística y la estocástica.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Problemas de la estadística frecuentista</b></font></p>     <p align="justify"><font face="Verdana" size="2">Entendiendo la necesidad de aplicar la estadística para llegar a la imparcialidad en estudios ecológicos, es importante plantear la siguiente interrogante ¿por qué hay cierta resistencia al uso de pruebas estadísticas en los estudios ecológicos en Bolivia? La gran mayoría de inferencias estadísticas aplicadas actualmente tiene su origen en la filosofía del método hipotético-deductivo propuesto por Popper (1992) y al concepto de probabilidad de Fisher (1922, 1935). Popper argumentó que no se pueden aceptar las hipótesis, sino sólo se pueden rechazar; por tanto Fisher, Pearson y Neyman desarrollaron la teoría de estadística para rechazar la hipótesis nula (Hilborn &amp; Mangel 1997). Este tipo de estadística se llama prueba de significancia de hipótesis nula (NHST por sus siglas en inglés), inferencia o estadística</font> <font face="Verdana" size="2">frecuentista. La estadística frecuentista funciona aplicando los siguientes pasos: 1. Elaborar una ó más hipótesis (alternativa) como posibles respuestas a una pregunta, 2. plantear una hipótesis nula para cada hipótesis alternativa, 3. calcular una probabilidad representada por <i>P </i>(datos | hipótesis nula) y definida como la probabilidad de obtener un juego de datos igual o más extremos que el patrón dado en una hipótesis nula y 4. decidir si se rechaza la hipótesis nula y se acepta la alternativa o no se rechaza la hipótesis nula, con base en el valor de significancia de <i>&quot;P&quot;.</i></font></p>     <p align="justify"><font face="Verdana" size="2">La estadística frecuentista tiene una serie de falencias (Johnson 1999, Feinsinger 2012, más de 400 citas en <a href="http://warnercnr.colostate.edu/~anderson/thompson1.htm" target="_blank">http://warnercnr.colostate.edu/~anderson/thompson1.htm</a>l). En este editorial no trataré los problemas que ocurren por el mal uso o mala interpretación de los resultados estadísticos, sino los principales problemas inherentes y filosóficos en la inferencia basada en estadística frecuentista, a continuación:</font></p>     <blockquote>       <p align="justify"><font face="Verdana" size="2">-&nbsp; <u>Una de las dos hipótesis no se puede aceptar</u>: Se realiza la inferencia acerca de dos hipótesis mutuamente excluyentes, la hipótesis alternativa (H<sub>A</sub>) y la hipótesis nula (H<sub>0</sub>) con base en el valor de <i>&quot;P&quot;. </i>Cuando el valor de <i>&quot;P&quot; </i>es suficientemente pequeño (digamos menor a 0.05) se considera poco probable que la población cumpla la hipótesis nula y así se rechaza la hipótesis nula y se acepta la alternativa. Entonces, ¿si el valor de <i>&quot;P&quot; </i>no es suficientemente menor, es posible aceptar la hipótesis nula? No, simplemente se puede concluir que el juego de datos no ofrece suficiente evidencia para rechazar la hipótesis nula; es decir, nunca se puede aceptar la hipótesis nula (H<sub>0</sub>), pese a contar con dos hipótesis mutuamente excluyentes (H<sub>0</sub> y H<sub>A</sub>).</font></p>       <p align="justify"><font face="Verdana" size="2">-&nbsp; <u>No se permite evaluar varias hipótesis en un análisis</u>: Una pregunta frecuentemente plantea varias hipótesis (alternativas) (p.e. regresión múltiple). Se requiere proponer una hipótesis nula para cada hipótesis alternativa y puede evaluar sólo una hipótesis alternativa en</font> <font face="Verdana" size="2">cada prueba estadística. Por lo que no permite comparar varias hipótesis alternativas dentro de una prueba.</font></p>       <p align="justify"><font face="Verdana" size="2">-&nbsp;<u>La hipótesis nula tiene poco valor ecológico</u>: La mayoría de las hipótesis nulas en estadística frecuentista declara que los parámetros son iguales <i>(</i>&#956;<sub>1</sub><i> = </i>&#956;<i><sub>2</sub> = </i>&#956;<i><sub>3</sub> </i>en ANOVA) o el valor del parámetro es igual a cero (&#946;<sub>1</sub> = 0 en regresión). Estas hipótesis nulas son poco realistas y es conocido que no pueden ser verdaderas sin la necesidad de colectar los datos (Savage 1957, Johnson 1995 cit. en Johnson 1999). Entonces, cuando las hipótesis nulas no pueden ser rechazadas, es debido al insuficiente tamaño de la muestra más que a la falta de un patrón (Johnson 1999). En general, estas hipótesis no tienen una relación directa con las científicas.</font></p>       <p align="justify"><font face="Verdana" size="2"><u>-</u>&nbsp;<u>El valor crítico para rechazar la hipótesis nula es arbitrario</u>: ¿Cuál es el valor de <i>&quot;P&quot; </i>que sería suficiente para concluir que el patrón observado es verdadero? Se usa el valor de <i>&quot;P&quot; </i>menor a 0.05 como un acuerdo convencional (</font><font size="2">&alpha;</font><font face="Verdana" size="2"> = 0.05). Entonces uno se preguntará ¿si un resultado del análisis con el valor de <i>&quot;P&quot; </i>de 0.051, el patrón observado es falso, mientras que el valor de <i>&quot;P&quot; </i>de 0.049 garantiza que el patrón observado es verdadero? No parece tener un sentido que una diferencia en el valor de <i>&quot;P&quot; </i>tan pequeña pueda cambiar la conclusión del estudio en dos extremos.</font></p> </blockquote>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Alternativas a la estadística frecuentista</b></font></p>     <p align="justify"><font face="Verdana" size="2">¿Existe alguna manera de solucionar estos problemas? Se han propuesto al menos tres estadísticas alternativas (Hilborn &amp; Mangel 1997, Johnson 1999, Anderson 2000, Hobbs &amp; Hilborn 2006, Stephens <i>et al. </i>2007, Hurlbert &amp; Lombardi 2009):</font></p>     <p align="center"><font face="Verdana" size="2"><b>1. Valoración de significancia neofisheriana (NFSA)</b></font></p>     <p align="justify"><font face="Verdana" size="2">Utiliza la misma filosofía del método hipotético-deductivo y la misma probabilidad <i>P </i>(datos | hipótesis nula) de la estadística</font> <font face="Verdana" size="2">frecuentista para decidir si se rechaza o no la hipótesis nula y se acepta la alternativa. Las diferencias entre NFSA y la estadística frecuentista están en la interpretación del valor de <i>&quot;P&quot; </i>y en su mayor enfoque a la importancia ecológica de los resultados más que a la significancia estadística (Hurlbert &amp; Lombardi 2009). Primero, el NFSA no propone un valor crítico de a y no utiliza la palabra &quot;significante&quot;. Al describir los resultados del análisis estadístico; así evita llegar a una conclusión dicotómica según una menor diferencia del valor de <i>&quot;P&quot; </i>(El valor crítico para rechazar la hipótesis nula es arbitrario). Segundo, el NFSA reconoce la importancia de presentar el estadístico del efecto o el intervalo de confianza en los resultados. El estadístico del efecto <i>(effect statistics </i>en inglés) cuantifica la magnitud del efecto de la variable examinada y el intervalo de confianza indica la precisión de la estimación de la magnitud del efecto (Nakagawa &amp; Cuthill 2007). Estos valores son más útiles para entender la importancia de una variable examinada en el sistema ecológico que el valor de <i>&quot;P&quot;, </i>solucionando así parcialmente el tercer problema (La hipótesis nula tiene poco valor ecológico).</font></p>     <p align="center"><font face="Verdana" size="2"><b>2. Comparación de modelos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Está basada en la filosofía de Lakatos (1980, cit. en Hilborn &amp; Mangel 1997), quien argumentó que no se puede rechazar una hipótesis, a menos que aparezca otra mejor para reemplazarla. Entonces la prueba siempre se realiza para seleccionar la hipótesis que se ajuste mejor con los datos entre varias alternativas (Hilborn &amp; Mangel 1997). Como carece del concepto de la hipótesis nula, no se puede utilizar la probabilidad de Fisher, P (datos | hipótesis nula). La comparación de modelos se puede realizar por varios métodos (Johnson &amp; Omland 2004); sin embargo, la mayoría utiliza un índice derivado de verosimilitud como el Criterio de Información de Akaike (AIC en inglés) (Burnham &amp; Anderson 2002,</font> <font face="Verdana" size="2">Anderson 2008). El AIC se calcula como AIC = -2log [L(hipótesis | datos)] + <i>2K, </i>donde, L (hipótesis | datos)=verosimilitud (que indica la credibilidad de un modelo o una hipótesis en base a los datos) y <i>&quot;K&quot; = </i>número de parámetros en el modelo. Cuando un modelo representa más cercano ala realidad con menor número de parámetros, el AIC será menor; así comparando los valores de AICs, se permite seleccionar el mejor modelo.</font></p>     <p align="center"><font face="Verdana" size="2"><b>3. Estadística bayesiana</b></font></p>     <p align="justify"><font face="Verdana" size="2">Utiliza la probabilidad inversa, derivada de la verosimilitud para evaluar una hipótesis o comparar varias. La probabilidad inversa P (hipótesis | datos<sub>obs</sub>) considera que la hipótesis sea verdadera en base a los datos observados (llamada también probabilidad <i>a posteriori), </i>mientras que en la estadística frecuentista y el NFSA se usa P (datos<sub>obs</sub> | hipótesis nula): La probabilidad de obtener datos observados si la hipótesis nula fuese verdadera. La probabilidad inversa indica la medida directa del grado de confiabilidad de la hipótesis en base a los datos obtenidos, y su interpretación es más directa y sencilla que la probabilidad en la estadística frecuentista. La probabilidad inversa es calculada por la aplicación del teorema de Bayes (Bayes 1763): P (hipótesis | datos<sub>obs</sub>) = f(datos<sub>obs</sub> | hipótesis) * p(hipótesis) / P(datos<sub>obs</sub>), dondef(datos<sub>obs</sub> | hipótesis) = verosimilitud de la hipótesis en base a los datos observados (=L(hipótesis | datos<sub>obs</sub>)), p(hipótesis) = probabilidad <i>a priori </i>que refleja información disponible acerca de la hipótesis fuera del estudio y P (datos) = constante que normaliza la probabilidad <i>a posteriori </i>(Ellison 2004). La estadística bayesiana permite evaluar la hipótesis ecológicamente representativa sin necesidad de establecer un valor crítico arbitrario. El análisis bayesiano también permite comparar más de dos hipótesis simultáneamente por medio de un criterio de información (p.e. BIC, DIC en Kadane &amp; Lazar 2004, Link &amp; Barker 2006). Así la estadística bayesiana parece solucionar los</font> <font face="Verdana" size="2">cuatro problemas de la estadística frecuentista. La transición desde la estadística frecuentista a estas estadísticas modernas no acaba con sólo el cambio de herramientas para realizar ciencia, sino implica el cambio en la forma de pensar sobre la ciencia, desde la filosofía del método hipotético-deductivo de Popper a la de la confrontación directa de múltiple hipótesis por datos de Lakatos y también desde la probabilidad tradicional de Fisher al criterio o la probabilidad inversa derivados de la verosimilitud. La aplicación de la comparación de modelos en la ecología comenzó hace 20 años (Johnson &amp; Omland 2004) y fue incorporada en software para estudios de captura-recaptura (White &amp; Burnham 1999) y para la estimación de densidades de vida silvestre (Laake <i>et al. </i>1993). La estadística bayesiana se conoce desde el principio del siglo XX y desde 1995 está disponible BUGS, un software para aplicar la estadística bayesiana (Gilks <i>et al. </i>1994, Spiegelhalter <i>et al. </i>2003, Lunn <i>et al. </i>2009). A pesar de eso, actualmente más del 80% de pruebas estadísticas publicadas en las revistas ecológicas internacionales aplica la estadística frecuentista (Hobbs &amp; Hilborn 2006, Stephens <i>et al. </i>2007). Esto parece implicar que es lenta la transición desde la estadística frecuentista a las nuevas alternativas y que estas filosofías y métodos estadísticos van a coexistir al menos por un tiempo más.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Aplicación de análisis estadísticos en la revista &quot;Ecología en Bolivia&quot;</b></font></p>     <p align="justify"><font face="Verdana" size="2">Después de revisar la filosofía, el uso y limitaciones de diversos tipos de métodos estadísticos, analicé la tendencia de la aplicación de pruebas estadísticas en estudios ecológicos realizados en Bolivia. Para este objetivo, se examinaron todos los artículos publicados en la revista &quot;Ecología en Bolivia&quot; (excepto los números especiales) desde 1982 hasta 2011. En cada artículo, se revisó la aplicación de algún análisis estadístico, y en los casos que se hayan usado, se registró el tipo de análisis estadístico</font> <font face="Verdana" size="2">empleado. Para visualizar la tendencia, los análisis estadísticos fueron categorizados en cinco tipos que usan el criterio de la complejidad del análisis: 1.Prueba estadística univariante con sólo una variable independiente (p.e. Prueba de <i>t, </i>ANOVA unifactorial, regresión simple, prueba de Wilcoxon), 2. prueba univariante con más de una variable independiente (p.e., ANOVA multifactorial, ANCOVA, Regresión múltiple), 3. estadística multivariante y métodos de Monte Carlo (p.e. análisis de componentes principales, análisis de correspondencia canónica, prueba de Mantel), 4. análisis basados en la comparación de modelos y 5. análisis bayesianos. Estos datos fueron agrupados cada dos años para que cada grupo tenga por lo mínimo 10 artículos.</font></p>     <p align="justify"><font face="Verdana" size="2">En general, en la revista &quot;Ecología en Bolivia&quot; se observa un fuerte incremento en la aplicación de análisis estadísticos en las publicaciones (<a href="#f2">Fig. 2</a>). </font></p>     <p align="justify"><a name="f2"></a></p> <table width="444" border="0" align="center">   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a01_figura_02.gif" width="473" height="318"></td>   </tr>   <tr>     <td width="62" valign="top"><font face="Verdana" size="2"><b>Figura 2. </b></font></td>     <td width="372" valign="top">    <p align="justify"><font face="Verdana" size="2">Porcentaje de art&iacute;culos publicados en la revista &quot;Ecolog&iacute;a en Bolivia&quot; que aplic&oacute; al</font> <font face="Verdana" size="2">menos un an&aacute;lisis estad&iacute;stico. No fueron considerados la estad&iacute;stica descriptiva de</font> <font face="Verdana" size="2">una variable, como el c&aacute;lculo de media y desviaci&oacute;n est&aacute;ndar ni el c&aacute;lculo de &iacute;ndices,</font> <font face="Verdana" size="2">como la diversidad de Shannon. Los art&iacute;culos fueron agrupados cada dos a&ntilde;os</font> <font face="Verdana" size="2">consecutivos. El n&uacute;mero de art&iacute;culos revisados por grupo fueron 11-22.</font></td>   </tr> </table>     <p align="justify"><font face="Verdana" size="2">Los artículos publicados antes de 1995 muestran poco uso de las pruebas estadísticas, pues la mayor parte trataron sobre la descripción de sistemas biológicos, como descripción física, climática y geográfica de</font> <font face="Verdana" size="2">una región, inventarios florísticos y faunísticos de un área, descripciones taxonómicas, nuevos registros o datos sobre historia natural de una especie o un grupo. Entre 1995 y 2005, la mayoría de las pruebas utilizadas aplicó estadísticas simples (<a href="#f3">Fig. 3</a>) y la mayoría de los estudios se basó en preguntas comparativas y analíticas, además de la descripción de sistemas ecológicos. Por ejemplo, trataron de explicar el patrón encontrado mediante un gradiente ambiental (p.e. la temperatura en Loayza &amp; Rios 1999) o diferencias de una condición ambiental (p.e. dos niveles de luz en Hayashida-Oliver et al. 2001). Después de 2005, se incrementó el uso de análisis estadísticos más complejos, especialmente con la estadística multivariante (<i>x</i><sup>2</sup> = 18,1, gl = 2, P&lt; 0.001, <a href="#f3">Fig. 3</a>), probablemente asociada con el aumento de la complejidad de preguntas y el diseño de las investigaciones. Muchos estudios trataron de medir más de una variable para caracterizar sus organismos o sistemas ecológicos y de evaluar simultáneamente el efecto de más de una variable o proceso. Se encontraron </font><font face="Verdana" size="2">pocos estudios que aplicaron el análisis por la comparación de modelos y ninguno con análisis bayesiano. Todas las publicaciones con la aplicación de la comparación de modelos trataron de estimar la densidad de algunas especies de vida silvestre mediante el programa &quot;Distance&quot;, el cual utiliza el AIC para seleccionar la mejor función de detección (Thomas <i>et al. </i>2010).</font></p>     <p align="justify"><a name="f3"></a></p> <table width="536" border="0" align="center">   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a01_figura_03.gif" width="440" height="358"></td>   </tr>   <tr>     <td width="61" valign="top"><font face="Verdana" size="2"><b>Figura 3. </b></font></td>     <td width="465" valign="top">    <p align="justify"><font face="Verdana" size="2">Cambio de tipos de an&aacute;lisis estad&iacute;sticos utilizados en la revista &quot;Ecolog&iacute;a en Bolivia&quot;.</font>    <br>         <font face="Verdana" size="2">Abreviaciones: Univ + 1 var. ind. = Estad&iacute;sticas univariantes con s&oacute;lo una variable</font> <font face="Verdana" size="2">independiente (variable predictora), Univ + &gt;1 var. ind. = estad&iacute;sticas univariantes</font> <font face="Verdana" size="2">con m&aacute;s de una variable independiente, Multivariante: estad&iacute;sticas multivariantes y</font> <font face="Verdana" size="2">m&eacute;todos de Monte Carlo, CM = comparaci&oacute;n de modelos.</font></td>   </tr> </table>     <p align="justify"><font face="Verdana" size="2">Según este análisis, la tendencia y el futuro son claros, tanto en la aplicación de análisis estadístico en los estudios ecológicos, como en la dirección de las investigaciones ecológicas en Bolivia. Por lo visto, es una dirección natural e inevitable que las investigaciones ecológicas vayan a ser cada vez más orientadas a preguntas teóricas y aplicadas que a las descriptivas y que se incrementen la frecuencia de la aplicación de estadística y la complejidad de los análisis estadísticos. A pesar de su importancia y utilidad, los estudios descriptivos sin la</font> <font face="Verdana" size="2">aplicación de inferencias estadísticas adecuadas no aportan significativamente a los dos roles principales de los ecólogos: Identificar patrones inherentes a los sistemas naturales y elucidar aquellos procesos que los generan.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="3"><b>Consideraciones finales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Como se demuestra en el principio de este editorial, el uso de inferencias estadísticas no sólo es indispensable para comparar los efectos de diferentes procesos, sino también es necesario para describir los patrones de una manera objetiva. Esto no implica de ninguna manera que la calidad de una investigación dependa de la aplicación de análisis estadísticos más complejos; obviamente la calidad de una investigación depende de la calidad de la pregunta científica que trata de responder y las ideas nuevas que aportan sus resultados. Esto tampoco significa que los estudios descriptivos</font> <font face="Verdana" size="2">no sean importantes, ya que sin duda sin ellos, no sería posible realizar estudios más teóricos y aplicados gracias a la acumulación de la información acerca de los ecosistemas, sus especies y dinámicas asociadas. Como uno de los países más megabiodiversos del mundo, en Bolivia afortunadamente todavía hay mucho por descubrir y describir. Sin embargo, como ecólogos científicos, se debe tratar de realizar indagaciones científicas del nivel internacional, siguiendo los métodos científicos y utilizando los análisis estadísticos apropiados. Para eso, es recomendable y necesario que los ecólogos en Bolivia se informen y actualicen sobre las herramientas vigentes y adecuadas para interpretar las tendencias de las ciencias ecológicas.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="3"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradezco a Rodrigo Ríos por la revisión de manuscrito y la discusión provechosa acerca del desarrollo de la estadística y a Luis Alfredo Guizada y Rodrigo Tarquino por la corrección del manuscrito.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Anderson, D. R. 2000. Null hypothesis testing:</font> <font face="Verdana" size="2">problems, pervalence, and an alternative.</font> <font face="Verdana" size="2">Journal of Wildlife Management 64:</font> <font face="Verdana" size="2">912-923. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077709&pid=S1605-2528201200020000100001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Anderson, D. R. 2008. Model based inference</font> <font face="Verdana" size="2">in the life sciences: a primer on evidence.</font> <font face="Verdana" size="2">Springer Science, Nueva York. 184 p. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077710&pid=S1605-2528201200020000100002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Bayes, T. 1763. An essay towards solving a</font> <font face="Verdana" size="2">problem in the doctrine of chances.</font> <font face="Verdana" size="2">Philosophical Transactions 53: 370-418. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077711&pid=S1605-2528201200020000100003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Burnham, K. P. &amp; D. R. Anderson. 2002. Model</font> <font face="Verdana" size="2">selection and multimodel inference: a</font> <font face="Verdana" size="2">practical information-theoretic approach,</font> <font face="Verdana" size="2">2da Edic. Springer-Verlag, Nueva York.</font> <font face="Verdana" size="2">488 p. </font></p>     <p align="justify"><font face="Verdana" size="2">Connor, E. F. &amp; D. Simberloff. 1979. The</font> <font face="Verdana" size="2">assembly of species communities: chance</font> <font face="Verdana" size="2">or competition? Ecology 60:1132-1140.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Diamond, J. M. 1975. Assembly of species communities. pp. 342-444. En: Cody, M. L. &amp; J. M. Diamond (eds.) Ecology and Evolution of Communities. Harvard University Press, Cambridge.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077714&pid=S1605-2528201200020000100006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Ellison, A. M. 2004. Bayesian inference in ecology. Ecology Letters 7: 509-520.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077715&pid=S1605-2528201200020000100007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Feinsinger, P. 2003. El diseño de estudios de campo para la conservación de la biodiversidad. Editorial FAN, Santa Cruz. 242 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077716&pid=S1605-2528201200020000100008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Feinsinger, P. 2012. Lo que es, lo que podría ser y el análisis e interpretación de los datos de un estudio de campo. Ecología en Bolivia 47:1-6.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077717&pid=S1605-2528201200020000100009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Fisher, R. A. 1922. On the mathematical foundations of theoretical statistics. Phil. Trans. R. Soc. Lond. A 222: 309-368.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077718&pid=S1605-2528201200020000100010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Fisher, R. A. 1935. The design of experiments. Oliver &amp; Boyd, Oxford. 251 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077719&pid=S1605-2528201200020000100011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Gilks, W. R., A. Thomas &amp; D. J. Spiegelhalter. 1994. A language and program for complex Bayesian modelling. Statistician 43:169-178.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Hayashida-Oliver, Y., R. G. A. Boot &amp; L. Poorter. 2001. Influencia de la disponibilidad de agua y luz en el crecimiento y la morfología de plantines de <i>Swietenia </i></font><font face="Verdana" size="2"><i>macrophylla, Cedrela odorata </i>y <i>Bertholletia </i></font><font face="Verdana" size="2"><i>excelsa. </i>Ecología en Bolivia 35: 51-60.</font></p>     <p align="justify"><font face="Verdana" size="2">Hilborn, R. &amp; M. Mangel. 1997. The ecological detective: confronting models with data. Princeton University Press, Princeton. 315 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Hobbs, N. T. &amp; R. Hilborn. 2006. Alternatives to statistical hypothesis testing in ecology: a guide to self teaching. Ecological Applications 16: 5-19.</font></p>     <p align="justify"><font face="Verdana" size="2">Hurlbert, S. H. &amp; C. M. Lombardi. 2009. Final collapse of the Neyman-Pearson decision theoretic framework and rise of the neoFisherian. Experimental Psychology 2450: 311-349.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Johnson, D. H. 1995. Statistical sirens: the allure of nonparametrics. Ecology 76: 1998-2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077725&pid=S1605-2528201200020000100017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Johnson, D. H. 1999. The insignificance of statistical significance testing. Journal of Wildlife Management 63: 763-772.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077726&pid=S1605-2528201200020000100018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Johnson, J. B. &amp; K. S. Omland. 2004. Model selection in ecology and evolution. Trends in Ecology &amp; Evolution 19:101-108.</font></p>     <p align="justify"><font face="Verdana" size="2">Kadane, J. B. &amp; N. A. Lazar. 2004. Methods and criteria for model selection. Journal of the American Statistical Association 99: 279-290.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Kéry, M. 2010. Introduction to Win BUGS for ecologists. Academic Press, Burlington. 302 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077729&pid=S1605-2528201200020000100021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Laake, J. L., S. T. Buckland, D. R. Anderson &amp; K. P. Burnham. 1993. DISTANCE user's guide V2.0. Colorado Cooperative Fish and Wildlife Research Unit, Colorado State University, Fort Collins. 72 p.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Lakatos, I. 1980. The methodology of scientific research programmes: vol. 1: Philosophical papers. Cambridge University Press, Cambridge. 260 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077731&pid=S1605-2528201200020000100023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Link, W. A. &amp; R. J. Barker. 2006. Model weights and the foundations of multimodel inference. Ecology 87: 2626-2635.</font></p>     <p align="justify"><font face="Verdana" size="2">Loayza, A. &amp; R. Rios. 1999. Características del néctar y visitas de insectos a flores de <i>Nicotiana glauca </i>L. (Solanaceae): ¿Asociadas a cambios de la temperatura y humedad del ambiente? Ecología en Bolivia 33: 51-61.</font></p>     <p align="justify"><font face="Verdana" size="2">Lunn, D., D. Spiegelhalter, A. Thomas &amp; N. Best. 2009. The BUGS project: evolution, critique and future directions. Statistics in Medicine 28: 3049-3067.</font></p>     <p align="justify"><font face="Verdana" size="2">MacArthur, R. H. &amp; E. O. Wilson. 1967. The theory of island biogeography. Princeton University Press, Princeton. 203 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Nakagawa, S. &amp; I. C. Cuthill. 2007. Effect size, confidence interval and statistical significance: a practical guide for biologists. Biological reviews of the Cambridge Philosophical Society 82: 591-605.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Popper, K. 1992. The logic of scientific discovery (publicación original en aleman en 1935). Routledge Clasics, Londores. 513 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077737&pid=S1605-2528201200020000100029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Savage, I. R. 1957. Nonparametric statistics. Journal of the American Statistical Association 52: 331-344.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077738&pid=S1605-2528201200020000100030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Sokal, R. R. &amp; F. J. Rohlf. 1995. Biometry, 3ra Edic. W. H. Freeman and Company, Nueva York. 887 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Spiegelhalter, D., A. Thomas &amp; N. G. Best. 2003. WinBUGS usermanual, Version1.4. MCR Biostatistics Unit, Cambridge.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Stephens, P. A., S. W. Buskirk &amp; C. M. d. Rio. 2007. Inference in ecology and evolution. Trends in Ecology &amp; Evolution 22:192-197.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=077741&pid=S1605-2528201200020000100033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Thomas, L., S. T. Buckland, E. A. Rexstad, J. L. Laake, S. Strindberg, S. L. Hedley, J. R. B. Bishop, T. A. Marques &amp; K. P. Burnham. 2010. Distance software: design and analysis of distance sampling surveys for estimating population size. Journal of Applied Ecology 47: 5-14.</font></p>     <p align="justify"><font face="Verdana" size="2">White, G. C. &amp; K. P. Burnham. 1999. Program MARK: survival estimation from populations of marked animals. Bird Study 46(suppl.): 120-138.</font></p>     <p align="justify"><font face="Verdana" size="2">Zar, J. H. 1996. Biostatistical analysis, 3ra Edic. Prentice-Hall, Inc., Upper Saddle River. 662 p.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[D.R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Null hypothesis testing: problems, pervalence, and an alternative]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>2000</year>
+<volume>64</volume>
+<page-range>912-923</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[DR]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Model based inference in the life sciences: a primer on evidence]]></source>
+<year>2008</year>
+<page-range>184</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Science]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bayes]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[An essay towards solving a problem in the doctrine of chances]]></article-title>
+<source><![CDATA[Philosophical Transactions]]></source>
+<year>1763</year>
+<volume>53</volume>
+<page-range>370-418</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[KP]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[DR]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Model selection and multimodel inference: a practical information-theoretic approach]]></source>
+<year>2002</year>
+<edition>2</edition>
+<page-range>488</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Connor]]></surname>
+<given-names><![CDATA[EF]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Simberloff]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The assembly of species communities: chance or competition?]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1979</year>
+<volume>60</volume>
+<page-range>1132-1140</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Diamond]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Assembly of species communities]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Cody]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diamond]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology and Evolution of Communities]]></source>
+<year>1975</year>
+<page-range>342-444</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Harvard University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bayesian inference in ecology]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2004</year>
+<volume>7</volume>
+<page-range>509-520</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Feinsinger]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El diseño de estudios de campo para la conservación de la biodiversidad]]></source>
+<year>2003</year>
+<page-range>242</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Feinsinger]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Lo que es, lo que podría ser y el análisis e interpretación de los datos de un estudio de campo]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2012</year>
+<volume>47</volume>
+<page-range>1-6</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fisher]]></surname>
+<given-names><![CDATA[RA]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the mathematical foundations of theoretical statistics]]></article-title>
+<source><![CDATA[Phil. Trans. R. Soc. Lond. A]]></source>
+<year>1922</year>
+<volume>222</volume>
+<page-range>309-368</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fisher]]></surname>
+<given-names><![CDATA[RA]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The design of experiments]]></source>
+<year>1935</year>
+<page-range>251</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oliver & Boyd]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gilks]]></surname>
+<given-names><![CDATA[WR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Spiegelhalter]]></surname>
+<given-names><![CDATA[DJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A language and program for complex Bayesian modelling]]></article-title>
+<source><![CDATA[Statistician]]></source>
+<year>1994</year>
+<volume>43</volume>
+<page-range>169-178</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hayashida-Oliver]]></surname>
+<given-names><![CDATA[Y]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boot]]></surname>
+<given-names><![CDATA[RGA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Porter]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Influencia de la disponibilidad de agua y luz en el crecimiento y la morfología de plantines de Swietenia macrophylla, Cedrela odorata y Bertholletia excelsa]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2001</year>
+<volume>35</volume>
+<page-range>51-60</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hilborn]]></surname>
+<given-names><![CDATA[R, Mangel M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The ecological detective: confronting models with data]]></source>
+<year>1997</year>
+<page-range>315</page-range><publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hobbs]]></surname>
+<given-names><![CDATA[NT]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hilborn]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Alternatives to statistical hypothesis testing in ecology: a guide to self teaching]]></article-title>
+<source><![CDATA[Ecological Applications]]></source>
+<year>2006</year>
+<volume>16</volume>
+<page-range>5-19</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hurlbert]]></surname>
+<given-names><![CDATA[SH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lombardi]]></surname>
+<given-names><![CDATA[CM]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Final collapse of the Neyman-Pearson decision theoretic framework and rise of the neoFisherian]]></article-title>
+<source><![CDATA[Experimental Psychology]]></source>
+<year>2009</year>
+<volume>2450</volume>
+<page-range>311-349</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Johnson]]></surname>
+<given-names><![CDATA[DH]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical sirens: the allure of nonparametrics]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1995</year>
+<volume>76</volume>
+<page-range>1998-2000</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Johnson]]></surname>
+<given-names><![CDATA[DH]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The insignificance of statistical significance testing]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>1999</year>
+<volume>63</volume>
+<page-range>763-772</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Johnson]]></surname>
+<given-names><![CDATA[JB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Omland]]></surname>
+<given-names><![CDATA[KS]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Model selection in ecology and evolution]]></article-title>
+<source><![CDATA[Trends in Ecology & Evolution]]></source>
+<year>2004</year>
+<volume>19</volume>
+<page-range>101-108</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kadane]]></surname>
+<given-names><![CDATA[JB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lazar]]></surname>
+<given-names><![CDATA[NA]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Methods and criteria for model selection]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>2004</year>
+<volume>99</volume>
+<page-range>279-290</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kéry]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introduction to Win BUGS for ecologists]]></source>
+<year>2010</year>
+<page-range>302</page-range><publisher-loc><![CDATA[Burlington ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[JL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[ST]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[DR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[KP]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Research Unit DISTANCE user's guide V2.0. Colorado Cooperative Fish and Wildlife]]></source>
+<year>1993</year>
+<page-range>72</page-range><publisher-loc><![CDATA[Fort Collins ]]></publisher-loc>
+<publisher-name><![CDATA[Colorado State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lakatos]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The methodology of scientific research programmes]]></source>
+<year>1980</year>
+<volume>1</volume>
+<page-range>260</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Link]]></surname>
+<given-names><![CDATA[WA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barker]]></surname>
+<given-names><![CDATA[RJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Model weights and the foundations of multimodel inference]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2006</year>
+<volume>87</volume>
+<page-range>2626-2635</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loayza]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rios]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Características del néctar y visitas de insectos a flores de Nicotiana glauca L. (Solanaceae): ¿Asociadas a cambios de la temperatura y humedad del ambiente?]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>1999</year>
+<volume>33</volume>
+<page-range>51-61</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lunn]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Spiegelhalter]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Best]]></surname>
+<given-names><![CDATA[N]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The BUGS project: evolution, critique and future directions]]></article-title>
+<source><![CDATA[Statistics in Medicine]]></source>
+<year>2009</year>
+<volume>28</volume>
+<page-range>3049-3067</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MacArthur]]></surname>
+<given-names><![CDATA[RH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[EO]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The theory of island biogeography]]></source>
+<year>1967</year>
+<page-range>203</page-range><publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nakagawa]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cuthill]]></surname>
+<given-names><![CDATA[IC]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effect size, confidence interval and statistical significance: a practical guide for biologists]]></article-title>
+<source><![CDATA[Biological reviews of the Cambridge Philosophical Society]]></source>
+<year>2007</year>
+<volume>82</volume>
+<page-range>591-605</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Popper]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The logic of scientific discovery]]></source>
+<year>1992</year>
+<page-range>513</page-range><publisher-loc><![CDATA[Londores ]]></publisher-loc>
+<publisher-name><![CDATA[Routledge Clasics]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Savage]]></surname>
+<given-names><![CDATA[IR]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nonparametric statistics]]></article-title>
+<source><![CDATA[Journal of the American Statistical Association]]></source>
+<year>1957</year>
+<volume>52</volume>
+<page-range>331-344</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sokal]]></surname>
+<given-names><![CDATA[RR, Rohlf FJ]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biometry]]></source>
+<year>1995</year>
+<edition>3</edition>
+<page-range>887</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[ W. H.Freeman and Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Spiegelhalter]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Best]]></surname>
+<given-names><![CDATA[NG]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[WinBUGS usermanual,Version 1.4.]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[MCR Biostatistics Unit]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stephens]]></surname>
+<given-names><![CDATA[P. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buskirk]]></surname>
+<given-names><![CDATA[S. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rio]]></surname>
+<given-names><![CDATA[C. M. d.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Inference in ecology and evolution]]></article-title>
+<source><![CDATA[Trends in Ecology & Evolution]]></source>
+<year>2007</year>
+<volume>22</volume>
+<page-range>192-197</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buckland]]></surname>
+<given-names><![CDATA[ST]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rexstad]]></surname>
+<given-names><![CDATA[EA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laake]]></surname>
+<given-names><![CDATA[JL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Strindberg]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hedley]]></surname>
+<given-names><![CDATA[SL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bishop]]></surname>
+<given-names><![CDATA[JRB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marques]]></surname>
+<given-names><![CDATA[TA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[KP]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distance software: design and analysis of distance sampling surveys for estimating population size]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>2010</year>
+<volume>47</volume>
+<page-range>5-14</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[White]]></surname>
+<given-names><![CDATA[GC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burnham]]></surname>
+<given-names><![CDATA[KP]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Program MARK: survival estimation from populations of marked animals]]></article-title>
+<source><![CDATA[Bird Study]]></source>
+<year>1999</year>
+<volume>46</volume>
+<page-range>120-138</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zar]]></surname>
+<given-names><![CDATA[JH]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biostatistical analysis]]></source>
+<year>1996</year>
+<page-range>662</page-range><publisher-loc><![CDATA[Upper Saddle River ]]></publisher-loc>
+<publisher-name><![CDATA[Prentice-Hall Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

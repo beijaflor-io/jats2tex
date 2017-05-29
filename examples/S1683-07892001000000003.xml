@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000000003</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[ÚLTIMOS AVANCES EN TECNOLOGÍA DE INFORMACIÓN: ¿CUÁN REQUERIDOS EN NUESTRO MEDIO?]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Peredo Saavedra]]></surname>
+<given-names><![CDATA[Marco]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A03">
+<institution><![CDATA[,Sisteco Ltda.  ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>1</numero>
+<fpage>01</fpage>
+<lpage>25</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000000003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000000003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000000003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El artículo proporciona una visión general de la manera en la cual las nuevas tecnologías integradoras, producto de la convergencia entre las áreas de Telecomunicaciones y Tecnología de Información, pueden ser susceptibles de explotación y aceptación en nuestro medio. Se indica así mismo las modalidades de uso de dichas tecnologías en el ámbito internacional. Adicionalmente, se muestra que la designación &#8220;Tecnología de Información&#8221; (T.I., o I.T. como equivalente inglés) engloba de manera cada vez más obvia el soporte a las Telecomunicaciones, sin necesidad de indicar explícitamente este hecho.]]></p></abstract>
+<kwd-group>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"> <!-- Created from PDF via Acrobat SaveAsXML --> <!-- Mapping table version: 28-February-2003 --> <HTML> <HEAD>      </HEAD>     <P   align="center" ><B>&Uacute;LTIMOS AVANCES EN TECNOLOG&Iacute;A DE INFORMACI&Oacute;N:</B> <B  align="center" >&iquest;CU&Aacute;N REQUERIDOS EN NUESTRO MEDIO? </B >     <P   align="center" ><B>Ing. Marco Peredo Saavedra </B></P >     <P   align="center" ><B>Sisteco Ltda. </B></P >     <P   align="center" ><B>Edif. &ldquo;Sisteco&rdquo;, Piso 2 </B></P >     <P   align="center" ><B>Av. Salamanca 675 Cochabamba, Bolivia</B> </P >     <P   align="center" >Tel.:  (591) 4-525252 </P >     <P   align="center" >FAX: (591) 4-525050 </P >     <P   align="center" ><U>mperedo@sisteco-bo.com peredom@ucbcba.edu.bo</U></P >     <P   align="justify" ><U><B>RESUMEN</B></U>: El art&iacute;culo proporciona una visi&oacute;n general de la manera en la cual las nuevas tecnolog&iacute;as integradoras, producto de la convergencia entre las &aacute;reas de Telecomunicaciones y Tecnolog&iacute;a de Informaci&oacute;n, pueden ser susceptibles de explotaci&oacute;n y aceptaci&oacute;n en nuestro medio. Se indica as&iacute; mismo las modalidades de uso de dichas tecnolog&iacute;as en el &aacute;mbito internacional. Adicionalmente, se muestra que la designaci&oacute;n &ldquo;Tecnolog&iacute;a de Informaci&oacute;n&rdquo; (T.I., o I.T. como equivalente ingl&eacute;s) engloba de manera cada vez m&aacute;s obvia el soporte a las Telecomunicaciones, sin necesidad de indicar expl&iacute;citamente este hecho. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><U><B>PALABRAS CLAVE</B></U>:  Entorno boliviano y tecnolog&iacute;a; convergencia tecnol&oacute;gica.</P >     <P   align="justify" >Desde que a principios de 1996 se introdujo abierta y masivamente la filosof&iacute;a JAVA en el &aacute;mbito internacional, el modelo o paradigma de procesamiento electr&oacute;nico de informaci&oacute;n ha expandido definitiva e irreversiblemente su horizonte y proyecciones. </P >     <P   align="justify" >Recordando la reacci&oacute;n m&aacute;s bien esc&eacute;ptica con la cual grandes sectores de la industria inform&aacute;tica mundial y, naturalmente, el entorno inform&aacute;tico de nuestro pa&iacute;s, recibieron entonces la revoluci&oacute;n JAVA, es f&aacute;cilmente comprensible una reacci&oacute;n similar cuando el siguiente paso (JINI) se halla hoy en un estado incipiente similar al de los primeros a&ntilde;os de JAVA. </P >    <P   align="justify" >&iquest;Qu&eacute; son las denominadas &ldquo;redes impromptu&rdquo;? &iquest;Cu&aacute;n &uacute;tiles pueden resultar en la pr&aacute;ctica, dentro de nuestro medio, estas tecnolog&iacute;as de punta?  &iquest;Estamos localmente preparados para la nueva revoluci&oacute;n que el resto del mundo ha comenzado a vivir? </P >     <P align="justify" >Para contestar estos interrogantes es preciso analizar la filosof&iacute;a de dise&ntilde;o subyacente, m&aacute;s importante que la producci&oacute;n comercial de productos espec&iacute;ficos. JINI trata de lograr independencia no solamente respecto a arquitectura de computadoras, como en el caso JAVA, sino tambi&eacute;n respecto al tipo de dispositivo inteligente. Trata tambi&eacute;n de intercambiar inteligentemente y procesar (transformar) informaci&oacute;n entre dispositivos electr&oacute;nicos en general, sin necesidad de requerir que los mismos sean computadoras propiamente dichas. </P >     <P   align="justify" >&ldquo;Selecci&oacute;n m&uacute;ltiple: Cualquiera. En cualquier parte. En cualquier momento. Con cualquier dispositivo&hellip; En realidad no es una pregunta&mdash;Es LA RESPUESTA.&rdquo; reza la propaganda en el sitio Internet del creador de JAVA y JINI (www.sun.com). As&iacute;, imaginamos f&aacute;cilmente un entorno en el cual, mientras vamos de vuelta a casa luego de un agitado d&iacute;a, usamos el tel&eacute;fono celular para pagar (por d&eacute;bito autom&aacute;tico sobre nuestra tarjeta de cr&eacute;dito) la nueva carga de combustible para el autom&oacute;vil; escribimos apresuradamente&mdash;siempre usando el mismo &ldquo;celular&rdquo;&mdash;un mensaje de correo electr&oacute;nico para coordinar el pr&oacute;ximo viaje con nuestros amigos en el extranjero; hacemos una consulta bibliogr&aacute;fica en la peque&ntilde;a pantalla del dispositivo, navegando eficientemente hacia nuestro sitio favorito en Internet; y terminamos programando el horno de microondas de la casa, para poder contar con una deliciosa cena caliente tan pronto como lleguemos all&iacute;. </P >    <P   align="justify" >&iquest;Fantas&iacute;a? En realidad, lo m&aacute;s alejado de la verdad en el escenario anteriormente expuesto, es nuestra excepcional habilidad para conducir sin accidentes, usando una sola mano y la mitad de nuestra atenci&oacute;n, mientras empleamos la otra mitad de tales recursos para guiar el &ldquo;celular&rdquo; a lo largo de todas las actividades descritas: ese escenario tecnol&oacute;gico ya est&aacute; presente, aunque a&uacute;n no masivamente difundido, en el mundo de hoy. </P >    <P   align="justify" >Intuitivamente comprendemos, entonces, que una &ldquo;red impromptu&rdquo; es un conjunto integrado de dispositivos electr&oacute;nicos, actuando como un todo en base a nuestras necesidades del momento. </P >    <P   align="justify" >Uni&eacute;ndose en red, por as&iacute; decir, de acuerdo a nuestras demandas, sin que hubiese existido una planificaci&oacute;n previa y espec&iacute;fica que conciba precisamente ese conjunto de dispositivos como un todo en red.  A prop&oacute;sito, este ejemplo no contempla, evidentemente, la mera interconexi&oacute;n de computadoras para el intercambio y procesamiento de informaci&oacute;n: &iexcl;se da tambi&eacute;n la independencia respecto al tipo de dispositivo electr&oacute;nico inteligente involucrado! </P >    <P   align="justify" >En una &ldquo;red impromptu&rdquo; con tecnolog&iacute;a JINI, cualquier nuevo &ldquo;objeto&rdquo; (se trata, por lo tanto, de una tecnolog&iacute;a &ldquo;orientada a objetos&rdquo;) se conecta a la red en cualquier parte y en cualquier momento. La red cuenta con la capacidad de explotar los nuevos servicios ofrecidos por dicho objeto: El objeto ha publicado sobre la red la forma de manejarlo, las capacidades que tiene, y los servicios que ofrece. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >Naturalmente, es f&aacute;cil augurar a tal filosof&iacute;a una vigencia omnipresente incluyendo por supuesto nuestro entorno local: no se trata de una innovaci&oacute;n m&aacute;s de alg&uacute;n fabricante en particular. Se trata m&aacute;s bien de una mentalidad nueva para la explotaci&oacute;n de la tecnolog&iacute;a, mejorando en general la calidad de vida seg&uacute;n entendemos este concepto en nuestro modelo occidental. </P >    <P   align="justify" >El autor entiende que la pregunta que plantea el t&iacute;tulo del presente art&iacute;culo queda impl&iacute;citamente contestada en el desarrollo expuesto hasta aqu&iacute;: en la medida en que coincidamos con el modelo occidental para nuestra forma de vida, cualquier tecnolog&iacute;a resulta tan requerida en nuestro medio como en cualquier sociedad mucho m&aacute;s avanzada t&eacute;cnicamente, y su adopci&oacute;n masiva es s&oacute;lo cuesti&oacute;n de tiempo. </P >    <P   align="justify" >Puesto que el art&iacute;culo no emplea referencias bibliogr&aacute;ficas propiamente dichas, para informaci&oacute;n complementaria sobre los temas tratados, se sugiere visitar directamente el sitio Internet p&uacute;blico del creador de JAVA y JINI:  www.sun.com </P >    </body> </HTML>      ]]></body>
+</article>

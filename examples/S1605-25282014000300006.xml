@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Propuesta metodológica para estimar la heterogeneidad ambiental, diversidad y estructura de comunidades acuáticas de pozas de agua en bofedales altoandinos]]></article-title>
+<article-title xml:lang="en"><![CDATA[Method for the estimation of environmental heterogeneity, diversity and structure of aquatic communities in ponds of high-Andean bofedales]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gonzales]]></surname>
+<given-names><![CDATA[Rosario Karina]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Quenta]]></surname>
+<given-names><![CDATA[Estefania]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Molina-Rodriguez]]></surname>
+<given-names><![CDATA[Jorge]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[Olivier]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Jacobsen]]></surname>
+<given-names><![CDATA[Dean]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor San Andrés Instituto de Ecología Unidad de Limnología]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Institut de Recherche pour le Développement (IRD)  ]]></institution>
+<addr-line><![CDATA[Orsay Cedex ]]></addr-line>
+<country>Francia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,University of Copenhagen Dept. of Biology Freshwater Biological Laboratory]]></institution>
+<addr-line><![CDATA[Copenhagen ]]></addr-line>
+<country>Dinamarca</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>56</fpage>
+<lpage>72</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Uno de los principales objetivos del proyecto BIOTHAW es el estudio de los patrones de diversidad de las comunidades acuáticas en pozas de bofedales altoandinos en relación con su extensión, características ambientales, influencia glacial y uso antropogénico para pastoreo. De este modo, se describen los métodos para la colecta y análisis de las comunidades acuáticas metafiton, zooplancton, macroinvertebrados bentónicos y macrófitas (consideradas como variables de respuesta), analizados a diferentes escalas espaciales. A escala regional se considera al bofedal como unidad de evaluación, donde se analizan factores como: área de bofedal, heterogeneidad ambiental (una medida de similitud ambiental entre pozas), porcentaje de influencia glaciar, altitud, densidad de heces de ganado y cantidad de agua en los humedales (frecuencia de pozas, ríos y pantanos por unidad de área). A escala intermedia (entre bofedal y poza) se pueden considerar la distancia geográfica y la distancia ambiental (similitud físico-química y morfométricas entre pares de pozas). A escala local (poza) se consideran la cobertura de macrófitas, las características morfométricas de las pozas y físico-químicas del agua. El objetivo para proveer esta metodología es facilitar la elaboración de un futuro plan de monitoreo con indicadores clave que permitan evaluar los cambios en la biodiversidad por efecto del retroceso de los glaciares.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Among the objectives of the BIOTHAW project, the aquatic ecology part aims at characterizing the organization of aquatic communities living in high Andean bofedales with regards to several environmental and social factors that are rapidly changing under climate change. In this paper we propose a methodological framework for the analysis of aquatic communities (zooplankton, metaphyton, macrophytes and benthic invertebrates) at different spatial scales. At a bofedal scale several factors affecting aquatic community structure can be considered, such as habitat area, environmental heterogeneity (average of environmental similarity between pools), percentage of glacier in the watershed, altitude, density of cattle dungs and wetland humidity (e.g., the frequency of streams, fens and pools per unit area). At the pond level, we propose to consider the coverage of macrophytes and the morphometric and physico-chemical characteristics of the water pools. At an intermediate scale (between bofedal and pond), the geographical and environmental distances (physical-chemical and morphometric similarity between pairs of pools) can also be estimated. Our aim in providing such methodology is to facilitate the development of future monitoring plan whit key indicators that can assess the influence of glacier retreat in relation to the biodiversity of ponds in high Andean bofedales.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Cambio climático]]></kwd>
+<kwd lng="es"><![CDATA[Comunidades acuáticas]]></kwd>
+<kwd lng="es"><![CDATA[Factores locales y regionales]]></kwd>
+<kwd lng="en"><![CDATA[Aquatic communities]]></kwd>
+<kwd lng="en"><![CDATA[Climate change]]></kwd>
+<kwd lng="en"><![CDATA[Local and regional factors]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="justify">&nbsp;</p>     <p align="center"><b><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Propuesta metodológica para estimar la heterogeneidad</font></b> <font size="4"><b><font face="Verdana">ambiental, diversidad y estructura de comunidades acuáticas de</font> <font face="Verdana">pozas de agua en bofedales altoandinos</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Method for the estimation of environmental heterogeneity, diversity and structure of aquatic communities in ponds of high-Andean bofedales</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Rosario Karina Gonzales<sup>1</sup>*, Estefania Quenta<sup>1</sup>, Jorge Molina-Rodriguez<sup>1</sup>, Olivier Dangles<sup>2</sup> &amp; Dean Jacobsen<sup>3</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Instituto de Ecología, Unidad de Limnología, Universidad Mayor San Andrés, Casilla 10077, Correo</font> <font face="Verdana" size="2">Central, La Paz, Bolivia.     <br>     <b>*Autora de correspondencia: </b><a href="mailto:karinagonzalesp@gmail.com">karinagonzalesp@gmail.com</a>    ]]></body>
+<body><![CDATA[<br>   <sup>2</sup>Institut de Recherche pour le Développement (IRD), UR 072, LEGS, UPR 9034, CNRS 91198 Gif-sur-</font><font face="Verdana" size="2">Yvette Cedex, France and Université Paris-Sud, Orsay Cedex, Francia.</font>    <br>   <font face="Verdana" size="2"><sup>3</sup>Freshwater Biological Laboratory, Dept. of Biology, University of Copenhagen, Universitetsparken, 2100</font> <font face="Verdana" size="2">Copenhagen, Dinamarca.</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Uno de los principales objetivos del proyecto BIOTHAW es el estudio de los patrones de diversidad de las comunidades acuáticas en pozas de bofedales altoandinos en relación con su extensión, características ambientales, influencia glacial y uso antropogénico para pastoreo. De este modo, se describen los métodos para la colecta y análisis de las comunidades acuáticas metafiton, zooplancton, macroinvertebrados bentónicos y macrófitas (consideradas como variables de respuesta), analizados a diferentes escalas espaciales. A escala regional se considera al bofedal como unidad de evaluación, donde se analizan factores como: área de bofedal, heterogeneidad ambiental (una medida de similitud ambiental entre pozas), porcentaje de influencia glaciar, altitud, densidad de heces de ganado y cantidad de agua en los humedales (frecuencia de pozas, ríos y pantanos por unidad de área). A escala intermedia (entre bofedal y poza) se pueden considerar la distancia geográfica y la distancia ambiental (similitud físico-química y morfométricas entre pares de pozas). A escala local (poza) se consideran la cobertura de macrófitas, las características morfométricas de las pozas y físico-químicas del agua. El objetivo para proveer esta metodología es facilitar la elaboración de un futuro plan de monitoreo con indicadores clave que permitan evaluar los cambios en la biodiversidad por efecto del retroceso de los glaciares. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Cambio climático, Comunidades acuáticas, Factores locales y regionales.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Among the objectives of the BIOTHAW project, the aquatic ecology part aims at characterizing the organization of aquatic communities living in high Andean bofedales with regards to several environmental and social factors that are rapidly changing under climate change. In this paper we propose a methodological framework for the analysis of aquatic communities (zooplankton, metaphyton, macrophytes and benthic invertebrates) at different spatial scales. At a bofedal scale several factors affecting aquatic community structure can be considered, such as habitat area,</font> <font face="Verdana" size="2">environmental heterogeneity (average of environmental similarity between pools), percentage of glacier in the watershed, altitude, density of cattle dungs and wetland humidity (e.g., the frequency of streams, fens and pools per unit area). At the pond level, we propose to consider the coverage of macrophytes and the morphometric and physico-chemical characteristics of the water pools. At an intermediate scale (between bofedal and pond), the geographical and environmental distances (physical-chemical and morphometric similarity between pairs of pools) can also be estimated. Our aim in providing such methodology is to facilitate the development of future monitoring plan whit key indicators that can assess the influence of glacier retreat in relation to the biodiversity of ponds in high Andean bofedales. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Keywords:</b> Aquatic communities, Climate change, Local and regional factors.</font></p> <hr noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Desde el punto de vista limnológico, entendemos por bofedal a masas de agua que atraviesan o emergen entre una matriz compleja de vegetación geli turbada (Earle <i>et al. </i>2003, Squeo <i>et al. </i>2006), donde se desarrollan comunidades de bacterias, metafiton, microcrustáceos, macroinvertebrados, macrófitas y peces (Coronel <i>et al. </i>2004). Estas masas de agua se originan por escorrentía de ríos glaciares, aguas subterráneas y/o precipitaciones en la época de lluvias (Alzérreca <i>et al. </i>2001).</font></p>     <p align="justify"><font face="Verdana" size="2">Estas características dan lugar a la presencia de &quot;pozas&quot; de diferentes formas, tamaños y colores, evidenciándose de esta manera la gran heterogeneidad ambiental de los cuerpos de agua dentro de cada bofedal (Declerck <i>et al. </i>2011). Esta heterogeneidad ambiental, podría incrementar la probabilidad de colonización de nuevas especies por un efecto de la diversificación de hábitats. Sin embargo, este incremento podría alcanzar un umbral donde la heterogeneidad disminuiría la riqueza de especies (relación unimodal), tal como postula Allouche <i>et al. </i>(2012). Esta relación se da porque los nichos y el tamaño efectivo de los hábitats para algunas especies puede ser más pequeño, por tanto, los tamaños poblacionales de estas especies son más pequeñas haciéndolas más susceptibles a la extinción estocástica.</font></p>     <p align="justify"><font face="Verdana" size="2">En este sentido, los estudios realizados en sistemas de &quot;pozas&quot; poco profundas e interconectadas (Cottenie <i>et</i> <i>al. </i>2003, Florencio <i>et </i></font><font face="Verdana" size="2"><i>al. </i>2013) similares a las de bofedales, mencionan que los factores locales (variables ambientales) regulan la estructura de la comunidad de zooplancton más que los factores regionales, de este modo las comunidades se adaptan al modelo de dispersión de <i>&quot;species sorting&quot; </i>(concepto que sugiere que las especies se distribuyen en ambientes heterogéneos, lo cual causa fuertes diferencias en la demografía local y también en las interacciones entre las especies locales, la calidad del parche y la dispersión efectiva, que van a afectar en conjunto en la composición de una comunidad local (Leibold <i>et al. </i>2004).</font></p>     <p align="justify"><font face="Verdana" size="2">Uno de los primeros estudios sobre la ecología de bofedales, que relaciona la heterogeneidad ambiental con los patrones de dispersión de la comunidad de cladóceros de diferentes escalas espaciales de este modo Declerck <i>et al. </i>(2011), determinaron que a escalas espaciales grandes (bofedales de diferentes valles separados por una distancia promedio de 19.7 km) los procesos regionales, como la limitación de dispersión, son los que regulan la estructuración de las comunidades de cladócera. Sin embargo, a escalas espaciales pequeñas (entre pozas dentro de cada bofedal separados por una distancia de algunas decenas de metros), los procesos locales son los que generan mayor diversidad &beta; y son los más importantes en la estructuración de comunidades de cladócera. </font></p>     <p align="justify"><font face="Verdana" size="2">Los trabajos anteriormente citados muestran que a escala regional el estimador más empleado es la diversidad gamma (</font><font size="2">&gamma;</font><font face="Verdana" size="2">) que se obtiene</font> <font face="Verdana" size="2">de la sumatoria de riqueza de especies en las unidades de evaluación a nivel regional (Whittaker <i>et al. </i>2001). A escala local (&quot;pozas&quot; de agua), la diversidad alpha (</font><font size="2">&alpha;</font><font face="Verdana" size="2">), es calculada a través de la riqueza de especies e índices que consideran la abundancia taxonómica (Whittaker <i>et al. </i>2001, Winemiller <i>et al. </i>2010). </font></p>     <p align="justify"><font face="Verdana" size="2">Recientemente, la diversidad &#946; se ha convertido en un estimador importante de la biodiversidad, debido a que permite describir el recambio de la composición de especies a lo largo de múltiples escalas espaciales (Barton <i>et al. </i>2012). </font></p>     <p align="justify"><font face="Verdana" size="2">La diversidad &#946; está muy ligada a la relación número de especies / área del hábitat, porque una mayor pendiente de la relación (factor z), se relaciona con tasas elevadas de recambio de especies (es decir &#946; alto) (Legendre <i>et al. </i>2005, Koleff <i>et al. </i>2003, Calderón-Patrón <i>et al. </i>2012). Por tanto, la heterogeneidad ambiental, la relación especie/área y la diversidad &#946; son conceptos clave para entender la dinámica de ambientes heterogéneos como las pozas de bofedales. Además, son propicios para la toma de decisiones en planes de conservación, debido a que si las especies se encuentran en regiones heterogéneas de tamaño reducido y difieren en la composición de especies, la diversidad &#946; es alta; entonces, el área de conservación de este ecosistema deberá ser mayor (Rodríguez <i>et al. </i>2003, Olivier &amp; van Aarde 2014; <a href="#f1">Fig. 1</a>).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a06_figura_01.jpg" width="731" height="668"></p>     <p align="justify"><font face="Verdana" size="2">Sin embargo, no resulta sencillo analizar si las pozas de agua de los bofedales son considerados homogéneos o heterogéneos ambientalmente y cómo operan estas variables en diferentes escalas espaciales sobre la estructura de las comunidades acuáticas de pozas presentes en bofedales. Es así que para cuantificar de forma efectiva este análisis, es necesario un muestreo completo y efectivo, de lo contrario se corre el riesgo de sesgar los valores de la diversidad &#946; (Legendre <i>et al. </i>2005). De este modo, los objetivos del presente artículo son: 1) proponer una metodología para la colecta y evaluación en laboratorio de comunidades acuáticas de pozas presentes en bofedales altoandinos de la Cordillera Real, 2) proponer métricas para </font><font face="Verdana" size="2">el análisis regional y local de la diversidad de las comunidades acuáticas de pozas. La propuesta presentada en este artículo surge de las experiencias obtenidas dentro el proyecto BIOTHAW.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="center"><b><font face="Verdana" size="2">Unidades de evaluación</font></b></p>     <p align="justify"><font face="Verdana" size="2">A escala regional se sugiere como unidad de evaluación al bofedal, ya que cuenta con gran cantidad de pozas, ríos y pantanos que a simple vista difieren en hábitat y, por tanto, pueden ser heterogéneos. Así, se propone elegir los que se encuentren sobre 4.000 m de altitud, con diferentes tamaños, formas y grados de influencia glaciar; también se pueden considerar con diferentes grados de disturbio. En el caso del Proyecto BIOTHAW se eligieron 20 bofedales distribuidos en cinco valles glaciares: Huayna Potosí, Tuni, Condoriri, Hichu Khota y Palcoco.</font></p>     <p align="justify"><font face="Verdana" size="2">En una escala local se puede considerar a la poza, ya que al interior de esta (en un posible nivel de microhábitat) las comunidades acuáticas de Cladóceros y macroinvertebrados no tuvieron diferencias significativas entre el centro y el borde (Quenta 2013). Las pozas pueden ser aisladas o conectadas entre sí, también deben tener diferentes tamaños, colores y formas. En nuestro caso, se eligieron 10 pozas por bofedal, haciendo un total de 200 pozas, siguiendo el protocolo definido por plantas terrestres por Meneses <i>et al. </i>(en este número especial).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Factores ambientales</b></font></p>     <p align="justify"><font face="Verdana" size="2">A nivel regional se puede considerar los factores obtenidos en cada bofedal: heterogeneidad ambiental regional, porcentaje de influencia glaciar, altitud, densidad de heces de ganado, densidad de humedales (frecuencia de pozas, ríos y pantanos por transecto); todos estos </font><font face="Verdana" size="2">parámetros generalmente operan más a una escala regional (Quenta 2013). El cálculo y los criterios de evaluación de estas variables se describen en la <a href="#t1">Tabla 1</a>.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="t1"></a></p>     <p align="center"><a href="/img/revistas/reb/v49n3/a06_tabla_01.jpg"><img src="/img/revistas/reb/v49n3/a06_tabla_01_.jpg" alt="Haga Click sobre el grafico para ver una version ampliada" width="750" height="878"></a></p>     <p align="justify"><font face="Verdana" size="2">A nivel local, es posible considerar las características intrínsecas de cada poza como las condiciones de heterogeneidad ambiental local, variables físico-químicas y morfométricas (<a href="#t2">Tabla 2</a>). Específicamente, para el nitrógeno total y fósforo total, los resultados de Loza (2013) y Quenta (2013) para aguas de los bofedales de</font> <font face="Verdana" size="2">la Cordillera Real muestran niveles por debajo del límite de detección, por tanto deben ser evaluados por otras técnicas no descritas para este artículo. Por otra parte, es importante describir otros posibles factores alineados que pueden influir en las comunidades biológicas de pozas, por ejemplo: el color, el tipo de sustrato, la presencia de predadores (peces y anfibios), la cobertura general de masas de algas, la conectividad entre pozas y la temporalidad (<a href="#a1">Anexo 1</a>).</font></p>     <p align="justify"><a name="t2"></a></p>     <p align="center"><a href="/img/revistas/reb/v49n3/a06_tabla_02.jpg"><img src="/img/revistas/reb/v49n3/a06_tabla_02_.jpg" alt="Haga Click sobre el grafico para ver una version ampliada" width="750" height="708"></a></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Colecta y evaluación de comunidades acuáticas</b></font></p>     <p align="justify"><font face="Verdana" size="2">En las pozas de bofedales habitan las comunidades de metafiton (algas planctónicas y bentónicas), zooplancton, macroinvertebrados y macrófitas. Se sugiere el análisis de al menos dos de estas comunidades, ya que se conoce que todas las comunidades mencionadas son sensibles al uso y alteración de su entorno y pueden servir de indicadoras de cambio climático (Hylander <i>et al. </i>2011). Además, existen interacciones tróficas entre estas comunidades, lo que puede generar efectos indirectos sobre la heterogeneidad ambiental. Las evaluaciones de estos grupos pueden ser tomadas en el centro y el borde de la poza (como submuestras). Así, se obtiene la heterogeneidad completa de la comunidad dentro de la poza.</font></p>     <p align="justify"><font face="Verdana" size="2">Para la colecta de muestras de comunidades acuáticas se adaptaron varios métodos limnológicos tradicionales debido a que las particularidades de pozas en bofedales (baja profundidad, alto contenido de materia orgánica, áreas y perímetros pequeños) impiden el uso del equipo usado en la toma de estas muestras. En la <a href="#t3">Tabla 3</a> se resumen las técnicas de muestreo y laboratorio más importantes por comunidad analizada.</font></p>     <p align="justify"><a name="t3"></a></p>     ]]></body>
+<body><![CDATA[<p align="center"><a href="/img/revistas/reb/v49n3/a06_tabla_03.jpg"><img src="/img/revistas/reb/v49n3/a06_tabla_03_.jpg" alt="Haga Click sobre el grafico para ver una version ampliada" width="750" height="663"></a></p>     <p align="justify"><font face="Verdana" size="2">Para el caso del metafiton y el zooplancton no se pueden usar las botellas Ruttner o Van dorn como método cuantitativo debido a la baja profundidad de las pozas, por ello se propone el filtrado de un volumen determinado de agua con una jarra volumétrica. Para el metafiton una muestra de 500 ml (colectando 250 ml en el centro y en el borde) es suficiente para la evaluación de esta comunidad, con este volumen se minimiza el efecto de pozas con alta y baja cantidad de algas. En el caso del zooplancton, se considera prudente evaluar 8 l de agua (cuatro en el centro y en el borde), de este modo se homogeniza el factor ancho y profundidad de las pozas (Quenta 2013), la muestra obtenida, debe ser filtrada en un tamiz de diámetro de poro de 65 <i>&#956;.</i></font></p>     <p align="justify"><font face="Verdana" size="2">En ambas comunidades es necesario evitar la remoción de las aguas para evitar colectar las masas algales características de pozas de agua de bofedales, ya que dificultan el análisis de las muestras en laboratorio. No se recomienda evaluar las masas de algas de la superficie del agua, debido a que estas migran desde el fondo de las pozas, por efecto de la producción de burbujas de oxígeno; de ese modo, si colectamos una muestra de agua sin matas algales se pueden encontrar una composición similar a las algas flotantes (Loza 2013), de esta manera se evitan largos periodos de análisis de muestras en el laboratorio.</font></p>     <p align="justify"><font face="Verdana" size="2">En el caso de macroinvertebrados no es recomendable el uso de draga o testigos (corer sampler) debido a que se colecta demasiado sustrato y logísticamente es dificultosa su evaluación, de ese modo se sugiere el uso de una D_net, de 20 cm de ancho, con una base raspadora y se define un recorrido de red no mayor a diez centímetros y en sólo tres ocasiones; de esta forma se regula la cantidad de muestra obtenida. Respecto al nivel taxonómico de los grupos se puede emplear el género o especie, ya que la mayor parte de los grupos son poco diversos a niveles de familia (Quenta 2013).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Métricas para el análisis local y regional de comunidades acuáticas</b></font></p>     <p align="justify"><font face="Verdana" size="2">Dada la importancia de evaluar las comunidades acuáticas de bofedales en diferentes escalas espaciales, a continuación se proponen métricas que pueden emplearse para el análisis de las comunidades acuáticas en diferentes niveles. A escala regional, se puede analizar el efecto de la influencia glaciar, el área y la heterogeneidad ambiental regional sobre la diversidad </font><font size="2"><i>&gamma;</i></font><font face="Verdana" size="2"><i>. </i>La diversidad </font><font size="2"><i>&gamma;</i></font><font face="Verdana" size="2"> puede obtenerse a partir del número total de especies que existe en cada bofedal:</font></p>     <p align="center"><font size="2"><i>&gamma;</i></font><font size="2" face="Verdana"> = N&deg; taxones o especies registradas por bofedal</font></p>     <p align="justify"><font face="Verdana" size="2">Para probar si los bofedales más grandes contienen mayor diversidad de especies que las áreas más pequeñas se puede analizar la relación entre la diversidad</font><font size="2"><i> &gamma;</i></font><font face="Verdana" size="2"> (<u>S</u>) con el área de los bofedales a través de una regresión univariada:</font></p>     <p align="center"><font face="Verdana" size="2">log S = z log A+ log c (función power-law).</font></p>     <p align="justify"><font face="Verdana" size="2">,donde S = Número de especies, A = área de cada bofedal, z = pendiente de la relación y c = constante.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Para comprobar si otros factores alineados (<a href="#a1">Anexo 1</a>) afectan en la distribución de las especies de bofedal, puede emplearse el Modelo Linear Generalizado (GLM) entre la diversidad g con la altitud, la densidad de heces de ganado, la densidad de humedales y el porcentaje de influencia glaciar. El mejor modelo se elige en base a los criterios de información de Akaike (AIC), los niveles de significancia y el valor de la prueba de razón de verosimilitud (LRT).</font></p>     <p align="justify"><font face="Verdana" size="2">Para las métricas a nivel local (poza), la diversidad </font><font size="2"><i>&#945;</i></font><font face="Verdana" size="2"> de cada comunidad en cada poza es la riqueza taxonómica (S). Otras medidas adicionales de uniformidad y equilibrio son: el índice Inverso de Simpson y el índice de Shannon. El índice de Simpson <i>(C<sub>inv</sub>.), </i>expresa la probabilidad de extraer de la comunidad dos individuos al azar que sean de la misma especie, en este caso las especies comunes tienen mucho peso respecto a las especies raras:</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a06_ecuacion_01.gif" width="127" height="75"></p>     <p align="justify"><font face="Verdana" size="2">,donde pi= Proporción entre la abundancia parcial de la especie i entre la abundancia total de cada sitio.</font></p>     <p align="justify"><font face="Verdana" size="2">El índice Inverso de Shannon (H'), puede resultar más favorable a la hora de comparar las especies de alta abundancia respecto a las de baja abundancia por el efecto del logaritmo que emplea, de ese modo se puede analizar a las especies raras que son frecuentes en casi todas las comunidades acuáticas:</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a06_ecuacion_02.gif" width="234" height="57"></p>     <p align="justify"><font face="Verdana" size="2">,donde pi= Proporción entre la abundancia parcial de la especie i entre la abundancia total de cada sitio, ln pi = logaritmo natural de la proporción.</font></p>     <p align="justify"><font face="Verdana" size="2">Para analizar las relaciones entre las características ambientales de cada poza (pH, conductividad, turbidez, oxígeno, profundidad, área y volumen de la poza) con las medidas de diversidad</font><font size="2"><i> &#945; </i></font><font face="Verdana" size="2">de las pozas también se puede emplear la prueba modelo linear generalizado (GLM), su empleo está sujeto a las consideraciones mencionadas arriba.</font></p>     <p align="justify"><font face="Verdana" size="2">Por último, el análisis de diversidad &#946; permite describir el recambio de la composición de especies a lo largo de múltiples escalas espaciales (Barton <i>et al. </i>2012). En bofedales esta composición puede ser calculada usando la partición aditiva de diversidad (Diversidad &#946; por bofedal= Diversidad </font><font size="2">&gamma;</font><font face="Verdana" size="2"> del bofedal Diversidad </font><font size="2">&#945;</font><font face="Verdana" size="2"> media de las diversidades </font><font size="2">&#945;</font><font face="Verdana" size="2"> de las pozas), ya que es más efectiva para trabajar en diferentes escalas espaciales porque puede incluir a especies raras que son poco consideradas con la tradicional fórmula multiplicativa (&#946;=</font><font size="2">&gamma;</font><font face="Verdana" size="2">/</font><font size="2">&#945;</font><font face="Verdana" size="2">) de Whittaker (1977) (Veech <i>et al. </i>2002, Gering <i>et al. </i>2003).</font></p>     <p align="justify"><font face="Verdana" size="2">Los métodos de análisis de diversidad &#946; descritos arriba sólo analizan el número de especies y no la procedencia del recambio, Para Baselga <i>et al. </i>(2007) y Baselga (2010) este dato es importante, ya que la diversidad &#946; puede proceder de dos fenómenos diferentes: Los procesos de &quot;recambio&quot;, que se refieren a cambios en la composición y estructura de las comunidades de una unidad de muestreo a otra a lo largo de un gradiente espacial, temporal o ambiental (heterogeneidad espacial o temporal); y, al contrario, los procesos de &quot;anidamiento&quot;, ocurren cuando la composición en comunidades con pocas especies son un subgrupo de comunidades más ricas en especies (Calderón-Patrón <i>et al. </i>2012).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">De este modo, la diversidad &#946; basada en la disimilitud de Sorensen, puede ser complementada y separada en dos componentes, tal como lo describe Baselga (2010): la diversidad &#946; de remoción para múltiples sitios (&#946;<i><sub>SIM</sub></i>) y anidamiento (&#946;<i><sub>NES</sub></i>) conforman (&#946;<i><sub>S0R</sub></i>) y resulta la fórmula &#946;<i><sub>SOR</sub></i>=&#946;<sub>SÍM</sub>+&#946;<i><sub>NES</sub></i>. Este análisis estadístico se puede realizar utilizando datos de presencia y ausencia de las especies de las pozas en cada bofedal. Los datos se analizan con el comando &quot;beta.multi&quot; del paquete &quot;betapart&quot; en el programa R versión 3.0.1.</font></p>     <p align="justify"><font face="Verdana" size="2">Por último, para probar si existe relación entre la diversidad &#946; con el área y la heterogeneidad ambiental local (promedio de las distancias euclidianas entre pozas de las variables ambientales, <a href="#t2">tabla 2</a>) se puede emplear regresiones simples entre estas variables. Además, para determinar si la disimilitud de las características ambientales entre pozas de cada bofedal son generadoras de la disimilitud </font><font face="Verdana" size="2">de las comunidades, se puede emplear la prueba Mantel, la cual compara la relación entre matrices de la distancia ambiental local y la diversidad beta medida a partir de la disimilitud de Bray-Curtis entre pares de pozas (<a href="#t2">Tabla 2</a>). Este mismo análisis se puede emplear para probar si las pozas más cercanas son más similares respecto a pozas más lejanas.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusiones y aplicaciones del método</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bajo los conceptos descritos anteriormente, las implicaciones que tienen los métodos propuestos podrían ser aplicados para otros trabajos en bofedales, ya que el diseño metodológico empleado por el proyecto BIOTH AW resultó efectivo, tal como se muestra en el ejemplo de la comunidad de macrófitas (<a href="#f2">Fig. 2</a>). En este caso, las curvas de rarefacción muestran que diez pozas por bofedal fueron suficientes para alcanzar el mayor porcentaje</font> <font face="Verdana" size="2">de acumulación de las especies de macrófitas; si bien este patrón puede cambiar de una comunidad acuática a otra, el ejemplo muestra la eficiencia del método en general.</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_02.gif" width="736" height="498"></p>     <p align="justify"><font face="Verdana" size="2">Con este método propuesto es posible además estudiar las metacomunidades acuáticas desde una escala regional (bofedal) a local (pozas). Sin embargo, se podría incluir un nivel superior al bofedal: &quot;el valle&quot;, que podría operar de forma significativa en la organización de las comunidades de pozas de agua.</font></p>     <p align="justify"><font face="Verdana" size="2">Los estudios presentados sobre las relaciones entre influencia glaciar, área y heterogeneidad ambiental permiten responder a una pregunta importante en conservación: ¿Cuál es el efecto sobre la diversidad de comunidades acuáticas, si disminuye o aumenta el área y la heterogeneidad ambiental del bofedal por efecto del retroceso glaciar? Responder esta pregunta requiere de un análisis a largo plazo con un marco efectivo de evaluación, así se podrán definir los verdaderos efectos del cambio climático sobre las especies acuáticas de bofedales.</font></p>     <p align="justify"><font face="Verdana" size="2">Además, al incluir el aspecto antropogénico del uso de los bofedales, podemos evaluar las interacciones entre el impacto que proviene de los poblados locales y las posibles alteraciones ocasionadas por el cambio climático (por ejemplo a través de los cambios de escorrentía glacial). Posiblemente, si sumamos ambos factores, el daño sobre los servicios ecosistémicos que brindan los bofedales serían drásticamente afectados.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">De este modo, se sugiere iniciar el estudio de comunidades acuáticas en otros bofedales bajo las medidas y protocolos descritos en este artículo, sobre todo para mantener una plataforma base de trabajo que permita una comparación inmediata en futuros estudios de este ecosistema.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los protocolos presentados en este artículo han sido desarrollados y aplicados en estudios financiados por el proyecto <i>&quot;Modeling BIOdiversity </i></font><font face="Verdana" size="2"><i>and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; </i>(BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB). Agradecemos también al Laboratorio de Limnología de la Universidad Mayor de San Andrés, por su apoyo en la realización de este trabajo.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Allouche, O., M. Kalyuzhny, G. Moreno-Rueda, M. Pizarro &amp; R. Kadmon. 2012. Area-heterogeneity tradeoff and the diversity of ecological communities. Proceedings of the National Academy of Sciences 109: 17495-17500.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Alzerreca, H., Prieto, G., Laura, J., Luna, D., Laguna, S. 2001. Características y distribución de los bofedales en el ámbito boliviano. Autoridad Binacional del Lago Titicaca (ALT) y Programa de las Naciones Unidas para el Desarrollo (PNUD), La Paz. 190 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082198&pid=S1605-2528201400030000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Barton, P., S. Cunnigham, A. Manning, H. Gibb, B. Lindenmayer &amp; R. Didham. 2012. The spatial scaling of beta diversity. Global Ecology and Biogeography 22: 639-647.</font></p>     <p align="justify"><font face="Verdana" size="2">Baselga, A., A. Jimenez &amp; G. Niccolini. 2007. A multiple-site similarity measure independent of richness. Biology Letters 3: 642-645.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Baselga, A. 2010. Partitioning the turn over and nestedness components of beta diversity. Global Ecology and Biogeography 19: 134-143.</font></p>     <p align="justify"><font face="Verdana" size="2">Bellinger, E. &amp;D. C. Sigee. 2010. Freshwater algae: identification and use as bioindicators. John Wiley &amp; Sons (eds.),Chichester. 285 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Benzie, J. A. 2005. Cladocera: the genus <i>Daphnia </i>(including <i>Daphniopsis). </i>pp. 1-383. En: Dumont H. J. (eds.) Guides to the Identification of the Microinvertebrates of the Continental Waters of the World. Backhuys, Leiden.</font></p>     <p align="justify"><font face="Verdana" size="2">Bourelly, P. 1966. Les algues déau douce. Vol. 1: Les algues vertes. Editorial Boubée &amp; Cie, Paris. 399 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Bourelly, P. 1968. Les algues déau douce. Vol. 2: Les algues jaunes et brunes. Editorial Boubée &amp; Cie, Paris. 453 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Bourelly, P. 1968.. Les algues déau douce. Vol. 3: Les algues bleues et rouges. Editorial Boubée &amp; Cie, Paris. 475 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Calderón-Patrón, J., C. Moreno &amp; I. Zuria. 2012. La diversidad beta: medio siglo de avances. Revista Mexicana de Biodiversidad 83: 879-891.</font></p>     <p align="justify"><font face="Verdana" size="2">Churchill, S. &amp; E. Linares. 1995. Prodromus Bryologiae Novo-Granatensis. Introducción a la flora de musgos de Colombia. Biblioteca &quot;José Jerónimo Triana&quot;, Vol. 12, Santa Fe de Bogotá. 921 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Coronel, J., S. Declerck, M. Maldonado, F. Ollevier &amp; L. Brendonck. 2004. Temporary shallow pools in high-Andes &quot;bofedal&quot; peatlands: a limnological characterization at different spatial scales. Archives Des Sciences 57: 85-96.</font></p>     <p align="justify"><font face="Verdana" size="2">Coronel, J., N. De la Barra, &amp; X. Aguilera. 2009. Bofedales altoandinos de Bolivia: vegetación acuática y factores ambientales. Revista Boliviana de Ecología y Conservación Ambiental 26:23-34.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Cottenie, K., E. Michels, N. Nuytten &amp; L. De Meester. 2003. Zooplankton metacommunity structure: regional vs. local processes in highly interconnected ponds. Ecology 84: 991-1000.</font></p>     <p align="justify"><font face="Verdana" size="2">Declerck, S., J. Coronel, P. Legendre &amp; L. Brendonck. 2011. Scale dependency of processes structuring metacommunities of cladocerans in temporary pools of high-Andes wetlands. Ecography 34: 296-305.</font></p>     <p align="justify"><font face="Verdana" size="2">Dole-Olivier, M., J. D. Galassi, P. Marmonier &amp; M. Creuzé Des Châtelliers. 2000. The biology and ecology of lotic microcrustaceans. Freshwater Biology 44: 63-91.</font></p>     <p align="justify"><font face="Verdana" size="2">Domínguez, E. &amp; H. Fernández. 2009. Macroinvertebrados bentónicos </font><font face="Verdana" size="2">sudamericanos. Editorial Fundación Miguel Lillo, Tucumán. 340 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Earle, L., B. Warner &amp; R. Aravena. 2003. Rapid development of unusual peat-accumulating ecosystem in the Chilean Altiplano. Quaternary Research 29: 2-11.</font></p>     <p align="justify"><font face="Verdana" size="2">Florencio, M., C. Díaz-Paniagua, R. Gómez, &amp; L. Serrano. 2013. Biodiversity patterns in a macroinvertebrate community of a temporary pond network. Insect Conservation and Diversity (on line), doi: <a href="http://dx.doi.org/10.1111/icad.12029" target="_blank">10.1111/icad.12029</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Gering, T., O. Critst &amp; J. A. Veech. 2003. Additive partitioning of species diversity across multiple spatial scales: implications for regional. Conservation Biology 17: 488-499.</font></p>     <p align="justify"><font face="Verdana" size="2">Hylander, S., T. Jephson, K. Lebret, J. Von Einem, T. Fagerberg, E. Balseiro, B. Modenutti, M. Souza, C. Laspoumaderes, M. Nsson, P. Ljungberg, A. Nicolle, P. Nilsson, L. Ker &amp;L. Hansson. 2011. Climate-induced input of turbid glacial meltwater affects vertical distribution and community composition of phyto and zooplankton. Journal of Plankton Research 33: 1239-1248.</font></p>     <p align="justify"><font face="Verdana" size="2">Koleff, P., K. Gaston &amp; J. Lennon. 2003. Measuring beta diversity for presence-absence data. Journal of Animal Ecology 72:367-382.</font></p>     <p align="justify"><font face="Verdana" size="2">Kotov, A., A. Sinev &amp; L. Berrios. 2010. The cladocera (Crustacea: Branchiopoda) of six high altitude water bodies in the north Chilean Andes, with discussion of Andean endemism. Monograph Zoo Taxa 2430:1-66.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Legendre, P., D. Borcard &amp; R. Peres-Neto. 2005. Analyzing beta diversity: Partitioning the spatial variation of community composition data. Ecological Monographs 75: 435-450.</font></p>     <p align="justify"><font face="Verdana" size="2">Leibold, M. A., M. Holyoak, N. Mouquet, P. Amarasekare, J. Chase, M. F. Hoopes, R. D. Holt, J. B. Shurin, R. Law, D. Tilman, M. Loreau &amp; A. Gonzales. 2004. The metacommunity concept: a framework for multi-scale community ecology. Ecology Letters 7: 601-613.</font></p>     <p align="justify"><font face="Verdana" size="2">Lopretto, E. &amp; G. Tell. 1995. Ecosistemas de aguas continentales. Metodologías para su estudio. Editorial Sur, Buenos Aires. 570 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Loza, S. 2013. Diversidad, composición y abundancia de macrófitas y macroalgas filamentosas en los bofedales de dos microcuencas en Tuni-Condoriri y su relación con las variables ambientales en las épocas seca, de transición y húmeda. Departamento de La Paz. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 71 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082224&pid=S1605-2528201400030000600028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Maldonado, C. 2007. Guía ilustrada de las principales macrófitas del Tuni-Condoriri. Instituto de Ecología, Universidad Mayor de San Andrés, La Paz. 35 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082225&pid=S1605-2528201400030000600029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Olivier, P. &amp; R. van Aarde. 2014. Multi-scale sampling boosts inferences from beta diversity patterns in coastal forests of South Africa. Journal of Biogeography 41:1428-1439.</font></p>     <p align="justify"><font face="Verdana" size="2">Orlova-Bienkowskaja, M. 2001. Cladocera: Anomopoda. Daphniidae: genus <i>Simocephalus. </i>pp. 385-513. En: Dumont H. J. (eds.) Guides to the Identification of the Microinvertebrates of the Continental Waters of the World. Backhuys, Leiden.</font></p>     <p align="justify"><font face="Verdana" size="2">Pagui, J. C. 1995. Crustácea-cladócera. pp. 909-951. En: Lopretto, E. &amp; G. Tell (eds.) Ecosistemas de Aguas Continentales. Metodologías para su Estudio. Sur, La Plata.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Quenta, E. 2013. Estructuración espacial de metacomunidades de cladócera en los humedales altoandinos de la Cordillera Real. Tesis de maestría, Universidad Mayor de San Andrés, La Paz. 48 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082229&pid=S1605-2528201400030000600033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Sinev, A. 2001. Redescription of <i>Alona glabra </i>Sars, 1907, a South American species of the pulchella-group (Branchiopoda: </font><font face="Verdana" size="2">Anomopoda: Chydoridae). Arthropoda Selecta 10: 273-280.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Sinev, A. &amp; J. Coronel. 2006. A new species of genus <i>Alona </i>Baird, 1843 (Cladocera: Anomopoda: Chydoridaw from the Bolivian Andes). Archiv für Hydrobiolgie 151:395-408.</font></p>     <p align="justify"><font face="Verdana" size="2">Smirnov, N. N. 1992. The Macrothricidae of the World. pp. 1-143. En: Dumont H. J. (ed.) Guides to the Identification of the Microinvertebrates of the Continental Waters of the World. Backhuys, Leiden.</font></p>     <p align="justify"><font face="Verdana" size="2">Smirnov, N. N. 1996. Cladocera: the Chydoridae and Sayciinae (Chydoridae) of the world. pp. 1-197. En: Dumont (ed.) Guides to the Identification of the Microinvertebrates of the Continental Waters of the World, Backhuys, Leiden.</font></p>     <p align="justify"><font face="Verdana" size="2">Smirnov, N. N. 1998. A revision of the genus <i>Camptocercus </i>(Anomopoda, Chydoridae, Aloninae). Hydrobiologia 386: 63-68.</font></p>     <p align="justify"><font face="Verdana" size="2">Smirnov, N. N., A. A. Kotov &amp; J. Coronel. 2006. Partial revision of the aduncus-like species of <i>Pleuroxus </i>Baird, 1893 (Chydoridae, cladoera) from the southern hemisphere with comments on subgeneric differentiation within the genus. Journal of Natural History 40:1617-1656.</font></p>     <p align="justify"><font face="Verdana" size="2">Smith, J. &amp; M. Mather. 2013. Beaver dams maintain fish biodiversity by increasing habitat heterogeneity throughout alow-gradient stream network. Freswater Biology 58:1523-1538.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F., B .Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79: 245-255.</font></p>     <p align="justify"><font face="Verdana" size="2">Stevenson, J., M. Rex &amp; L. Lowe. 1996. Algal ecology freshwater benthic ecosystems. Academic Press, California. 769 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Van Damme, K. &amp; H. Dumont. 2010. Cladocera of the Lençóis Maranhenses (NE -Brazil): faunal composition and a reappraisal of Sars method. Brazil Journal of Biology 70: 755-779.</font></p>     <p align="justify"><font face="Verdana" size="2">Veech, J. A., K. S. Summerville, T. O. Crist &amp; J. C. Gering. 2002. The additive partitioning of species diversity: recent revival of an old idea. Oikos 99: 3-9.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Whittaker, R. 1977. Evolution of species diversity in land communities. pp. 250-268. En: Hecht, M. &amp; B. Wallace (eds.) Evolutionary Biology. Plenum, Nueva York.</font></p>     <p align="justify"><font face="Verdana" size="2">Whittaker, R.J., K. J. Willis &amp; R. Field. 2001. Scale and species richness: Towards a general, hierarchical theory of species diversity. Journal of Biogeography 28: 453-470.</font></p>     <p align="justify"><font face="Verdana" size="2">Winemiller K., A. Flecker &amp; D. Hoeinghaus. 2010. Patch dynamics and environmental heterogeneity in lotic ecosystems. The North American Benthological Society 29:84-99.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><a name="a1"></a></p>     <p align="center"><a href="/img/revistas/reb/v49n3/a06_anexo_01.gif"><img src="/img/revistas/reb/v49n3/a06_anexo_01_.gif" alt="Haga Click sobre el grafico para ver una version ampliada" width="750" height="588"></a></p>     <p align="center">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Allouche]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kalyuzhny]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moreno-Rueda]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pizarro]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kadmon]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Area-heterogeneity tradeoff and the diversity of ecological communities]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences]]></source>
+<year>2012</year>
+<numero>109</numero>
+<issue>109</issue>
+<page-range>17495-17500</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Alzerreca]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Prieto]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laura]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Luna]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laguna]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Características y distribución de los bofedales en el ámbito boliviano]]></source>
+<year>2001</year>
+<page-range>190</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Autoridad Binacional del Lago Titicaca (ALT) y Programa de las Naciones Unidas para el Desarrollo (PNUD)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barton]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cunnigham]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Manning]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gibb]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lindenmayer]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Didham]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The spatial scaling of beta diversity]]></article-title>
+<source><![CDATA[Global Ecology and Biogeography]]></source>
+<year>2012</year>
+<numero>22</numero>
+<issue>22</issue>
+<page-range>639-647</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baselga]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jiménez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Niccolini]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A multiple-site similarity measure independent of richness]]></article-title>
+<source><![CDATA[Biology Letters]]></source>
+<year>2007</year>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>642-645</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baselga]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Partitioning the turn over and nestedness components of beta diversity]]></article-title>
+<source><![CDATA[Global Ecology and Biogeography]]></source>
+<year>2010</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>134-143</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bellinger]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sigee]]></surname>
+<given-names><![CDATA[D.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Freshwater algae: identification and use as bioindicators]]></source>
+<year>2010</year>
+<page-range>285</page-range><publisher-loc><![CDATA[Chichester ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Benzie]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cladocera: the genus Daphnia (including Daphniopsis).]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dumont]]></surname>
+<given-names><![CDATA[H.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guides to the Identification of the Microinvertebrates of the Continental Waters of the World]]></source>
+<year>2005</year>
+<month>20</month>
+<day>05</day>
+<page-range>1-383</page-range><publisher-loc><![CDATA[Leiden ]]></publisher-loc>
+<publisher-name><![CDATA[Backhuys]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bourelly]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Les algues déau douce: Les algues vertes]]></source>
+<year>1966</year>
+<volume>1</volume>
+<page-range>399</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Boubée & Cie]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bourelly]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Les algues déau douce: Les algues jaunes et brunes]]></source>
+<year>1968</year>
+<volume>2</volume>
+<page-range>453</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Boubée & Cie]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bourelly]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Les algues déau douce: Les algues bleues et rouges]]></source>
+<year>1968</year>
+<volume>3</volume>
+<page-range>475</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Boubée & Cie]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Calderón-Patrón]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moreno]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuria]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La diversidad beta: medio siglo de avances]]></article-title>
+<source><![CDATA[Revista Mexicana de Biodiversidad]]></source>
+<year>2012</year>
+<numero>83</numero>
+<issue>83</issue>
+<page-range>879-891</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Churchill]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Linares]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prodromus Bryologiae Novo-Granatensis: Introducción a la flora de musgos de Colombia]]></source>
+<year>1995</year>
+<page-range>921</page-range><publisher-loc><![CDATA[Santa Fe de Bogotá ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Declerck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ollevier]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brendonck]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Temporary shallow pools in high-Andes "bofedal" peatlands: a limnological characterization at different spatial scales]]></article-title>
+<source><![CDATA[Archives Des Sciences]]></source>
+<year>2004</year>
+<numero>57</numero>
+<issue>57</issue>
+<page-range>85-96</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De la Barra]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aguilera]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales altoandinos de Bolivia: vegetación acuática y factores ambientales]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología y Conservación Ambiental]]></source>
+<year>2009</year>
+<numero>26</numero>
+<issue>26</issue>
+<page-range>23-34</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cottenie]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michels]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nuytten]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Meester]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Zooplankton metacommunity structure: regional vs]]></article-title>
+<source><![CDATA[local processes in highly interconnected ponds. Ecology]]></source>
+<year>2003</year>
+<numero>84</numero>
+<issue>84</issue>
+<page-range>991-1000</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Declerck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Legendre]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brendonck]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Scale dependency of processes structuring metacommunities of cladocerans in temporary pools of high-Andes wetlands]]></article-title>
+<source><![CDATA[Ecography]]></source>
+<year>2011</year>
+<numero>34</numero>
+<issue>34</issue>
+<page-range>296-305</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dole-Olivier]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galassi]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marmonier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Creuzé Des Châtelliers]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The biology and ecology of lotic microcrustaceans]]></article-title>
+<source><![CDATA[Freshwater Biology]]></source>
+<year>2000</year>
+<numero>44</numero>
+<issue>44</issue>
+<page-range>63-91</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Domínguez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Macroinvertebrados bentónicos sudamericanos]]></source>
+<year>2009</year>
+<page-range>340</page-range><publisher-loc><![CDATA[Tucumán ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Fundación Miguel Lillo]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Earle]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rapid development of unusual peat-accumulating ecosystem in the Chilean Altiplano]]></article-title>
+<source><![CDATA[Quaternary Research]]></source>
+<year>2003</year>
+<numero>29</numero>
+<issue>29</issue>
+<page-range>2-11</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Florencio]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Díaz-Paniagua]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Serrano]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity patterns in a macroinvertebrate community of a temporary pond network]]></article-title>
+<source><![CDATA[Insect Conservation and Diversity]]></source>
+<year>2013</year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gering]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Critst]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Veech]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Additive partitioning of species diversity across multiple spatial scales: implications for regional]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>488-499</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hylander]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jephson]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lebret]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Von Einem]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fagerberg]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Balseiro]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Modenutti]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Souza]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laspoumaderes]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nsson]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ljungberg]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nicolle]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nilsson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ker]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hansson]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Climate-induced input of turbid glacial meltwater affects vertical distribution and community composition of phyto and zooplankton]]></article-title>
+<source><![CDATA[Journal of Plankton Research]]></source>
+<year>2011</year>
+<numero>33</numero>
+<issue>33</issue>
+<page-range>1239-1248</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Koleff]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gaston]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lennon]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Measuring beta diversity for presence-absence data]]></article-title>
+<source><![CDATA[Journal of Animal Ecology]]></source>
+<year>2003</year>
+<numero>72</numero>
+<issue>72</issue>
+<page-range>367-382</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kotov]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sinev]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Berrios]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The cladocera (Crustacea: Branchiopoda) of six high altitude water bodies in the north Chilean Andes, with discussion of Andean endemism]]></article-title>
+<source><![CDATA[Monograph Zoo Taxa]]></source>
+<year>2010</year>
+<numero>2430</numero>
+<issue>2430</issue>
+<page-range>1-66</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Legendre]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Borcard]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peres-Neto]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analyzing beta diversity: Partitioning the spatial variation of community composition data]]></article-title>
+<source><![CDATA[Ecological Monographs]]></source>
+<year>2005</year>
+<numero>75</numero>
+<issue>75</issue>
+<page-range>435-450</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Leibold]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holyoak]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mouquet]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Amarasekare]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chase]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoopes]]></surname>
+<given-names><![CDATA[M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holt]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shurin]]></surname>
+<given-names><![CDATA[J.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Law]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tilman]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loreau]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzales]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The metacommunity concept: a framework for multi-scale community ecology]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2004</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>601-613</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lopretto]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tell]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecosistemas de aguas continentales: Metodologías para su estudio]]></source>
+<year>1995</year>
+<page-range>570</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Sur]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loza]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diversidad, composición y abundancia de macrófitas y macroalgas filamentosas en los bofedales de dos microcuencas en Tuni-Condoriri y su relación con las variables ambientales en las épocas seca, de transición y húmeda. Departamento de La Paz]]></source>
+<year>2013</year>
+<page-range>71</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guía ilustrada de las principales macrófitas del Tuni-Condoriri]]></source>
+<year>2007</year>
+<page-range>35</page-range><publisher-loc><![CDATA[Universidad Mayor de San Andrés, La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Ecología]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Olivier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van Aarde]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Multi-scale sampling boosts inferences from beta diversity patterns in coastal forests of South Africa]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2014</year>
+<numero>41</numero>
+<issue>41</issue>
+<page-range>1428-1439</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Orlova-Bienkowskaja]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cladocera: Anomopoda. Daphniidae: genus Simocephalus.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dumont]]></surname>
+<given-names><![CDATA[H.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guides to the Identification of the Microinvertebrates of the Continental Waters of the World]]></source>
+<year>2001</year>
+<month>20</month>
+<day>01</day>
+<page-range>385-513</page-range><publisher-loc><![CDATA[Leiden ]]></publisher-loc>
+<publisher-name><![CDATA[Backhuys]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pagui]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Crustácea-cladócera.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Lopretto]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tell]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecosistemas de Aguas Continentales: Metodologías para su Estudio]]></source>
+<year>1995</year>
+<month>19</month>
+<day>95</day>
+<page-range>909-951</page-range><publisher-loc><![CDATA[La Plata ]]></publisher-loc>
+<publisher-name><![CDATA[Sur]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quenta]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estructuración espacial de metacomunidades de cladócera en los humedales altoandinos de la Cordillera Real]]></source>
+<year>2013</year>
+<page-range>48</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sinev]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Redescription of Alona glabra Sars, 1907, a South American species of the pulchella-group (Branchiopoda: Anomopoda: Chydoridae)]]></article-title>
+<source><![CDATA[Arthropoda Selecta]]></source>
+<year>2001</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>273-280</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sinev]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A new species of genus Alona Baird, 1843 (Cladocera: Anomopoda: Chydoridaw from the Bolivian Andes)]]></article-title>
+<source><![CDATA[Archiv für Hydrobiolgie]]></source>
+<year>2006</year>
+<numero>151</numero>
+<issue>151</issue>
+<page-range>395-408</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smirnov]]></surname>
+<given-names><![CDATA[N.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Macrothricidae of the World.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dumont]]></surname>
+<given-names><![CDATA[H.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guides to the Identification of the Microinvertebrates of the Continental Waters of the World]]></source>
+<year>1992</year>
+<month>19</month>
+<day>92</day>
+<page-range>1-143</page-range><publisher-loc><![CDATA[Leiden ]]></publisher-loc>
+<publisher-name><![CDATA[Backhuys]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smirnov]]></surname>
+<given-names><![CDATA[N.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cladocera: the Chydoridae and Sayciinae (Chydoridae) of the world.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Dumont]]></surname>
+<given-names><![CDATA[H.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Guides to the Identification of the Microinvertebrates of the Continental Waters of the World]]></source>
+<year>1996</year>
+<month>19</month>
+<day>96</day>
+<page-range>1-197</page-range><publisher-loc><![CDATA[Leiden ]]></publisher-loc>
+<publisher-name><![CDATA[Backhuys]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smirnov]]></surname>
+<given-names><![CDATA[N.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A revision of the genus Camptocercus (Anomopoda, Chydoridae, Aloninae)]]></article-title>
+<source><![CDATA[Hydrobiologia]]></source>
+<year>1998</year>
+<numero>386</numero>
+<issue>386</issue>
+<page-range>63-68</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smirnov]]></surname>
+<given-names><![CDATA[N.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kotov]]></surname>
+<given-names><![CDATA[A.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Partial revision of the aduncus-like species of Pleuroxus Baird, 1893 (Chydoridae, cladoera) from the southern hemisphere with comments on subgeneric differentiation within the genus]]></article-title>
+<source><![CDATA[Journal of Natural History]]></source>
+<year>2006</year>
+<numero>40</numero>
+<issue>40</issue>
+<page-range>1617-1656</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mather]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Beaver dams maintain fish biodiversity by increasing habitat heterogeneity throughout alow-gradient stream network]]></article-title>
+<source><![CDATA[Freswater Biology]]></source>
+<year>2013</year>
+<numero>58</numero>
+<issue>58</issue>
+<page-range>1523-1538</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stevenson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rex]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lowe]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Algal ecology freshwater benthic ecosystems]]></source>
+<year>1996</year>
+<page-range>769</page-range><publisher-loc><![CDATA[California ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Van Damme]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dumont]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Cladocera of the Lençóis Maranhenses (NE -Brazil): faunal composition and a reappraisal of Sars method]]></article-title>
+<source><![CDATA[Brazil Journal of Biology]]></source>
+<year>2010</year>
+<numero>70</numero>
+<issue>70</issue>
+<page-range>755-779</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Veech]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Summerville]]></surname>
+<given-names><![CDATA[K.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crist]]></surname>
+<given-names><![CDATA[T.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gering]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The additive partitioning of species diversity: recent revival of an old idea]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2002</year>
+<numero>99</numero>
+<issue>99</issue>
+<page-range>3-9</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Whittaker]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evolution of species diversity in land communities.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Hecht]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evolutionary Biology]]></source>
+<year>1977</year>
+<month>19</month>
+<day>77</day>
+<page-range>250-268</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Plenum]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Whittaker]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Willis]]></surname>
+<given-names><![CDATA[K.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Field]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Scale and species richness: Towards a general, hierarchical theory of species diversity]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2001</year>
+<numero>28</numero>
+<issue>28</issue>
+<page-range>453-470</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Winemiller]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flecker]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoeinghaus]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Patch dynamics and environmental heterogeneity in lotic ecosystems]]></article-title>
+<source><![CDATA[The North American Benthological Society]]></source>
+<year>2010</year>
+<numero>29</numero>
+<issue>29</issue>
+<page-range>84-99</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

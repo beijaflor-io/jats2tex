@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892010000200009</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[Famous numbers on a Chessboard]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meijer]]></surname>
+<given-names><![CDATA[Johannes W]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A">
+<institution><![CDATA[,  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2010</year>
+</pub-date>
+<volume>4</volume>
+<numero>4</numero>
+<fpage>589</fpage>
+<lpage>598</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892010000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892010000200009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892010000200009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[In this article it is shown how famous numbers like Pascal’s triangle, the Fibonacci numbers, Catalan’s triangle, Delannoy’s square array, the Pell numbers and Schröder’s triangle can be constructed on a chessboard with a rook, knight, bishop, king or queen. Furthermore, several new triangle sums, which are all named after chess pieces that are leapers and add up numbers according to the way they leap, are introduced. Finally a new theory of how Hipparchus, who lived around 150 BC, might have calculated his two famous numbers with the aid of a ‘chessboard’ is presented.]]></p></abstract>
+</article-meta>
+</front><body><![CDATA[  <h1 align="center"><font size="4" face="Verdana"><b>Famous numbers on a Chessboard</b></font></h1>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align=center><font size="2" face="Verdana"><b>Johannes W. Meijer</b></font></p>     <p align="center"><font size="2" face="Verdana">Casilla de Correo 2219, Cochabamba,    Bolivia</font></p>     <p align="center"><font size="2" face="Verdana">e-mail:  <a href="mailto:meijgia@hotmail.com">meijgia@hotmail.com</a></font></p>     <p align="justify"><font size="2" face="Verdana">&nbsp;</font></p>     <p align="justify"><font size="2" face="Verdana">&nbsp;</font></p> <hr align="JUSTIFY" noshade>     <p align="justify"><font size="2" face="Verdana"><b>Abstract</b></font></p>     <p align="justify"><font size="2" face="Verdana">In this article it is shown how    famous numbers like Pascal&#8217;s triangle, the Fibonacci numbers, Catalan&#8217;s    triangle, Delannoy&#8217;s square array, the Pell numbers and Schröder&#8217;s    triangle can be constructed on a chessboard with a rook, knight, bishop, king    or queen. Furthermore, several new triangle sums, which are all named after    chess pieces that are leapers and add up numbers according to the way they leap,    are introduced. Finally a new theory of how Hipparchus, who lived around 150    BC, might have calculated his two famous numbers with the aid of a &#8216;chessboard&#8217;    is presented.</font></p> <hr align="JUSTIFY" noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <div align="justify"><font size="3" face="Verdana"><b>1.&nbsp;&nbsp;Introduction</b></font>  </div>     <p align="justify"><font size="2" face="Verdana">Chess has been a source of inspiration    for mathematicians throughout history but the mathematics that rules the movements    of the thirty-two pieces on a chessboard remains at large. Wouldn&#8217;t it    be nice to have a book with some formulae that enable us to calculate what to    do in a particular position on the chessboard? Of course, no such book exists.    We can ask a chess computer what to play in a particular position but, as long    as there are more than six pieces on the board, this is only a second best solution.    So what can be said about the intersection of the domains of chess and mathematics?</font></p>     <p align="justify"><font size="2" face="Verdana">Let’s start with a deceptively    simple classical example. Leonhard Euler, one of the greatest mathematicians    of all time, wrote in 1759: ‘I found myself one day in company where, on the    occasion of a game of chess, someone proposed this question: to move with a    knight through all the squares of a chessboard without ever arriving twice at    the same square, and commencing from a given square.’ Later that year Euler    presented a paper on knight’s tours to the members of the Academy of Sciences    in Berlin. A brilliant paper but one of his statements, no closed knight’s tours    are possible on 3 x 2n boards, was wrong. Many authors echoed this statement    until Ernest Bergholt exhibited a solution for a 3 x 10 board in the <i>British    Chess Magazine</i> (1918). The full set of sixteen solutions for a 3 x 10 board    was published by Maurice Kraitchik in 1927 and the complete solution for 3 x    2n boards was obtained independently by Donald Knuth and Noam Elkies in 1994    (A070030; for all A-numbers in this article see Neil Sloane&#8217;s amazing    <i>On-line Encyclopedia of Integer Sequences</i> at www.oeis.org). So it took    some of the best minds in mathematics almost 250 years to solve this simple    problem. That doesn&#8217;t bide well for the general solution of the game of    chess.</font></p>     <p align="justify"><font size="2" face="Verdana">What other chess related questions    could we ask ourselves? There are many but in this article I restrict myself    to the question which famous numbers can be constructed on a chessboard with    a rook, knight, bishop, king or queen. The first answers to this question turned    out to be quite surprising. I will show how four simple questions lead to Pascal&#8217;s    triangle, the Fibonacci numbers, Catalan&#8217;s triangle, Delannoy&#8217;s    square array, the Pell numbers and Schröder&#8217;s triangle. En passant I present    a new theory of how Hipparchus, who lived around 150 BC, might have calculated    his two famous numbers with the aid of a &#8216;chessboard&#8217;.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>2.&nbsp;&nbsp;Blaise Pascal&#8217;s    triangle</b></font></h2>     <p align="justify"><font size="2" face="Verdana">The first problem: how many paths    can a rook take from square a1 to square h8 if it can only move to the north    and east ?</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="figura1"></a><img width=204 height=204 src="/img/revistas/ran/v4n4/v4n4a09_01.jpg"></b></font></p>     ]]></body>
+<body><![CDATA[<p align=center><b><font size="2" face="Verdana">Figure 1:  Pascal&#8217;s triangle.</font></b></p>     <p align=justify><font size="2" face="Verdana">&nbsp;</font></p>     <p align="justify"><font size="2" face="Verdana">For the answer to this question    see <a href="#figura1">figure 1</a>. If we rotate the board 135 degrees to the    right we observe that on the upper half of this board Pascal&#8217;s triangle    appears (A007318). Addition of the numbers in the horizontal rows of this triangle    leads to the powers of two (A000079). Addition of the numbers on the chessboard    with a knight leads to the Fibonacci numbers (A000045; a1=1; b1=1; c1+a2=2;    d1+b2=3; e1+c2+a3=5; f1+d2+b3=8; g1+e2+c3+a4=13; h1+f2+d3+b4=21; etc.).</font></p>     <p align="justify"><font size="2" face="Verdana">Pascal’s triangle is the most    famous of all number triangles. In fact, it was known long before him but Blaise    Pascal’s <i>Traité du triangle arithmétique </i>(1654) is considered to be the    most important source of information. An amazing number of relations can be    formulated for this triangle and Donald Knuth observed that if someone finds    a new identity that no one except the discoverer will get excited about it.    So this will probably also be the case for the &#8216;chess sums&#8217; that    I have added to the OEIS entree for the Pascal triangle (apparently eight of    them are new). I named these sums after chess pieces that are leapers and all    of them add up numbers on the chessboard according to the way they leap: knight    (&#8730;5 or 1,2; square root of five), fil (&#8730;8 or 2,2), camel (&#8730;10    or 3,1), giraffe (&#8730;17 or 4,1) and zebra (&#8730;13 or 3,2) (A180662).    The fil was used in shatranj, the Islamic predecessor of chess, the camel, giraffe    and zebra are fairy chess pieces and the knight still plays its classical role    in modern chess; see <i>The Oxford Companion to Chess</i> (1992) by David Hooper    and Kenneth Whyld.</font></p>     <p align="justify"><font size="2" face="Verdana">Leonardo of Pisa, who is better    known as Fibonacci, introduced the Hindu-Arabic number system in Europe with    his book <i>Liber Abaci</i> (1202). It caused a revolution in the way we calculate.    Nowadays Fibonacci&#8217;s fame rests primarily on a sequence which appears    in this book and was named after him by Édouard Lucas. An expression for the    general term of this sequence was found some five hundred years later by Abraham    de Moivre in 1730 who linked it to the golden ratio (A001622). </font></p>     <p align="justify"><font size="2" face="Verdana">De Moivre was a respected scientist    with a passion for chess. He met Isaac Newton for the first time just after    Newton&#8217;s <i>Philosophiae Naturalis Principia Mathematica</i> (1687) appeared,    a book that is regarded as one of the most important works in the history of    science. They became friends and spent their evenings together debating philosophical    matters. De Moivre promptly mastered the new mathematics of the <i>Principia</i>    with the result that Newton is said to have referred persons asking him about    his work to De Moivre &#8216;who knows all that better than I do&#8217;; see    <i>Maty’s biography of Abraham de Moivre, translated, annotated and augmented    </i>(2007) by David Bellhouse and Christian Genest.</font></p>     <p align="justify"><font size="2" face="Verdana">De Moivre was a regular customer    of Slaughter&#8217;s Coffee House in London where he met fellow Huguenots, would    give advice on risk and must have played chess with other customers. A solution    of the knight&#8217;s tour from his hand appeared in <i>Récréations mathématiques    et physiques </i>(1725) by his teacher Jacques Ozanam and in <i>The Doctrine    of Chances </i>(1718) he included an engraving on which a chessboard that has    been cast aside can be seen. It is possible that De Moivre met François-André    Danican Philidor when he played a match with Phillip Stamma at Slaughter&#8217;s    in 1747. Shortly afterwards Philidor&#8217;s <i>L’analyze des échecs</i> (1749)    was published in London, a book that did for chess what the <i>Principia</i>    did for physics.</font></p>     <p align="justify"><font size="2" face="Verdana">According to legend the first    numbers that appeared on the very first chessboard were the powers of two. Grand    Vizier Sissa ben Dahir, who invented chess for the Indian king Shirham around    the year 600 AD, proposed for his reward the doubling game with grains of wheat.    The doubling game implies that the king had to put one grain on a1, two on b1,    four on a2, eight on c1, sixteen on b2, thirty-two on a3, etc. &#8216;And is    that all you wish, Sissa, you fool?&#8217; the astonished king must have shouted    only to discover that there wasn&#8217;t enough wheat around to fulfil Sissa&#8217;s    request.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>3.&nbsp;&nbsp;Eugène Catalan&#8217;s    triangle</b></font></h2>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana">The second problem: how many    paths can a rook take from square a1 to square h8 if it can only move to the    north and east but cannot move below the a1-h8 diagonal?</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="figura2"></a><img width=204 height=204 src="/img/revistas/ran/v4n4/v4n4a09_02.jpg"></b></font></p>     <p align=center><b><font size="2" face="Verdana">Figure 2:  Catalan&#8217;s triangle.</font></b></p>     <p align=justify><font size="2" face="Verdana">&nbsp;</font></p>     <p align="justify"><font size="2" face="Verdana">Catalan’s triangle answers this    question (see <a href="#figura2">figure 2</a>; A009766). The Catalan numbers    appear on the a1-h8 diagonal (A000108). You find these numbers again when you    add the numbers in the horizontal ranks or rows. A bishop, which can only move    to the north-west and north-east, also leads to this triangle (via A053121).</font></p>     <p align="justify"><font size="2" face="Verdana">In <i>Catalan numbers with Applications</i>    (2009) Thomas Koshy attributes the relation between these rook paths and the    Catalan triangle to Henry G. Forder who published his findings in 1961. On the    front page of Koshy&#8217;s book one possible rook path is depicted. Eugène    Catalan discovered &#8216;his&#8217; numbers in 1838. They have been rediscovered    many times by others not only after but also before Catalan. The number of combinatorial    interpretations that Richard Stanley gives on his website is an incredible 190,    dd. 21-08-10. Occasionally Catalan numbers turn up in situations that are related    to chess. In <i>Queue problems revisited</i> (2005) Stanley presents the number    of solutions of a series-helpmate problem by Eero Bonsdorff and Kauko Väisänen    which appears to be C7 = 429 and he shows how to extend this number of solutions    to C17 = 129644790. </font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>4.&nbsp;&nbsp;Henri Delannoy&#8217;s    square array</b></font></h2>     <p align="justify"><font size="2" face="Verdana">The third problem: how many paths    can a king (queen) take from square a1 to square h8 if (s)he can only move to    the north, east and north-east?</font></p>     <p align="justify"><font size="2" face="Verdana">Delannoy’s square array answers    this question (see <a href="#figura3">figure 3</a>; A008288). Adding the numbers    in the triangle rows, after rotating the board 135 degrees to the right, leads    to the Pell numbers (A000129) and adding the numbers of the square array with    a knight leads to the tribonacci numbers (A000073). The numbers on the a1-h8    diagonal are the central Delannoy numbers (A001850).</font></p>     ]]></body>
+<body><![CDATA[<p align=center><font size="2" face="Verdana"><b><a name="figura3"></a><img width=204 height=204 src="/img/revistas/ran/v4n4/v4n4a09_03.jpg"></b></font></p>     <p align=center><b><font size="2" face="Verdana">Figure 3:  Delannoy&#8217;s square    array.</font></b></p>     <p align=justify><font size="2" face="Verdana">&nbsp;</font></p>     <p align="justify"><font size="2" face="Verdana">Our third problem appeared in    <i>Emploi de l’échiquier pour la résolution de divers problèmes de probabilité</i>    (1889) by Henri Delannoy. Charles-Ange Laisant suggested the queen walk, Delannoy    found the solution and Édouard Lucas called the number array &#8216;Delannoy&#8217;s    arithmetical square&#8217; and that name stuck. Édouard Lucas liked games. He    was the author of the four volume book Récréations Mathématiques (1881-1894).    Delannoy and Laisant were two of the editors. In his first book the eight-queen    problem can be found. This problem was first published by Max Bezzel in the    Deutsche Schachzeitung (1848). You have to place eight queens on an 8 x 8 chessboard    in such a way that no queen is attacked by another and determine the number    of such positions. Carl Friedrich Gauss, the &#8216;Prince of Mathematics&#8217;,    saw this problem two years later in a newspaper and solved it with some difficulty.    Lucas describes among others the method used by Gauss and proudly presents the    complete set of 92 solutions. He expresses his interest in the solutions for    n non-attacking queens on an n x n chessboard for n=9, 10, 11 and 12 and comes    back to this question in note IV at the end of the first book. Lucas mentions    that for n=9 Pieter Hendrik Schoute found 352 solutions and that for n=10 his    devoted friend Henri Delannoy found 724 solutions. Both sets are complete. Nowadays    this problem has been solved with the aid of computers for values of n up to    26 (A000170).</font></p>     <p align="justify"><font size="2" face="Verdana">The Pell equation plays an important    role in finding good rational approximations for the square root of positive    integers; see <i>Number Theory</i> (1984) by André Weil. The Pell equation got    its name around 1765 from Euler and it is generally believed that he made a    mistake. A better name would certainly be the BBB equation after Brahmagupta    (635), Bhaskara (1150) and William Brouncker (1658) who developed the classical    methods for solving the &#8216;Pell equation&#8217;, but attempts to change    the terminology introduced by Euler have always proved futile.</font></p>     <p align="justify"><font size="2" face="Verdana">The Pell numbers P(n) can be    linked with the positive and negative Pell equations of &#8216;the square root    of two&#8217; and it can be shown that the formula [1+P(n)/P(n+1)] gives good    rational approximations for the square root of two. This formula leads to a    curious observation: we have seen that Delannoy&#8217;s square array gives us    the Pell numbers so we might say that just by looking at how a king, or a queen    for that matter, moves on a chessboard allows us to calculate the square root    of two.</font></p>     <p align="justify"><font size="2" face="Verdana">Eric Temple Bell placed in <i>Men    of Mathematics </i>(1937) Newton, Gauss and Archimedes at the top of his list    of the greatest mathematicians of all time but some believe that he should have    included Euler. We are all indebted to Euler, one of the most prolific mathematicians    ever, of whom Pierre Simon Laplace said &#8216;c&#8217;est notre maître à tous&#8217;.    We have already met three of them so let&#8217;s make a short detour and meet    the fourth, Archimedes, a man with the appearance and mind of a chess player.    </font></p>     <p align="justify"><font size="2" face="Verdana">In <i>Parallel Lives:</i> <i>The    Life of Marcellus </i>(75) the Greek historian Plutarch wrote the following    words about Archimedes: &#8216;He placed his whole affection and ambition in    those purer speculations where there can be no reference to the vulgar needs    of life.&#8217; and &#8216;Oftentimes his servants got him against his will    to the baths, to wash and anoint him, and yet being there, he would ever be    drawing with his fingers lines upon his naked body, so far was he taken from    himself and brought into trance, with the delight he had in the study of geometry.&#8217;    Apparently quite a few chess players live parallel lives. A nice example of    one of his purer speculations is Archimedes&#8217; cattle problem. A manuscript    with this highly original problem was discovered in 1773 by Gotthold Ephraim    Lessing, the librarian of the Wolfenbüttel library. Apparently one of his competitors    had dared to suggest that he could handle large numbers better than the master    himself and this required an appropriate reaction. Archimedes presented the    cattle problem in a short poem around 250 BC. In his poem he asked his friends    to determine the size of the herd of the Sun god that grazes at Sicily. It goes    without saying that the Sun god has a large herd. In order to calculate the    number of white, black, dappled and brown bulls and cows you have to solve two    problems. Solving the first part shows that you are not ignorant and solving    the second part wins you the supreme wisdom prize. The latter part requires    that you solve a difficult version of Pell&#8217;s equation and leads to a total    number of cattle requiring no less than 206545 digits (A096151); see <i>Solving    the Pell equation</i> (2002) by Hendrik Willem Lenstra Jr.</font></p>     <p align="justify"><font size="2" face="Verdana">In order to get a feeling for    this number let&#8217;s use the doubling game once again: we put one cow or    bull on a1, two on b1, four on a2, eight on c1, sixteen on b2, thirty-two on    a3, etc.. To allocate the whole herd we need a chessboard of no less than 828    x 828 squares. A rather large chessboard I admit but remember that we are dealing    with the herd of the Sun god. One might argue, as several nineteenth century    German scholars did, that there aren&#8217;t enough bulls and cows on earth    and that they might not fit on the isle of Sicily but, as Lessing remarked,    the Sun god will have coped with it.</font></p>     <p align="justify"><font size="2" face="Verdana">Archimedes must have been keenly    aware of the fact that his problem led to an impossible large number and there    must have been a mischievous smile on his face when he sent the poem to his    friend Eratosthenes who lived in Alexandria where he was the chief librarian    at the Mouseion library.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>5.&nbsp;&nbsp;Ernst Schröder&#8217;s    triangle</b></font></h2>     <p align="justify"><font size="2" face="Verdana">The fourth problem: how many    paths can a king (queen) take from square a1 to square h8 if (s)he can only    move to the north, east and north-east but with the extra condition that (s)he    cannot move below the a1-h8 diagonal?</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="figura4"></a><img width=204 height=204 src="/img/revistas/ran/v4n4/v4n4a09_04.jpg"></b></font></p>     <p align=center><b><font size="2" face="Verdana">Figure 4:  Schröder&#8217;s triangle</font></b><font size="2" face="Verdana">.</font></p>     <p align=justify><font size="2" face="Verdana">&nbsp;</font></p>     <p align="justify"><font size="2" face="Verdana">Schröder&#8217;s triangle answers    this question (see <a href="#figura4">figure 4</a>; A033877). On the a1-h8 diagonal    the large Schröder numbers appear (A006318). Addition of the numbers in the    ranks or rows leads to the little Schröder numbers (A001003). </font></p>     <p align="justify"><font size="2" face="Verdana">While studying the numbers that    appear in Schröder&#8217;s triangle, I noticed that the sum of the numbers in    the ninth rank or row is 103049. Quite surprisingly this number appeared around    150 BC in a statement of the Greek astronomer Hipparchus about the number of    compound propositions that can be made from only ten simple propositions but    it is a mystery how he calculated it. The situation becomes even more mysterious    if we use a fil, the predecessor of the bishop, to add up numbers. A fil, Arabic    for elephant, moves diagonally and leaps over one square. Walking upwards along    the a1-h8 diagonal addition with a fil leads to the sequence: 1, 2, 7 (=6+1),    28 (=22+6), 121 (=90+30+1), 550, 2591, 12536, 61921, 310954, etc. (A010683).    The tenth number agrees closely with the second number that was mentioned by    Hipparchus in his statement, namely 310952. So the question arises: &#8216;Did    Hipparchus know a game that looked like chess?&#8217;</font></p>     <p align="justify"><font size="2" face="Verdana">In <i>Hipparchus, Plutarch, Schröder    and Hough</i> (1997) Richard Stanley describes the history of the two numbers    given by Hipparchus that were transmitted to us by Plutarch. A scholarly account    of the original Greek sources can be found in <i>On the Shoulders of Hipparchus</i>    (2003) by Fabio Acerbi. It is interesting to note that Acerbi starts his article    with the sentence: &#8216;To write about combinatorics in ancient Greek mathematics    is to write about an empty subject.&#8217; The effect of the two numbers given    by Hipparchus is, according to Acerbi, disruptive and the whole issue of ancient    Greeks combinatorics must be reconsidered. The possibility that a game that    looked like chess played a role isn&#8217;t considered by Acerbi and Stanley.    The latter, whom I asked for his opinion, feels that it is farfetched to think    that Hipparchus knew of any game similar to chess. He added that Plutarch states    Hipparchus&#8217; results in terms of compound propositions that can be made    from ten simple propositions; Thus is seems that Hipparchus was thinking in    terms of Stoic logic, as discussed by Acerbi. Stanley concluded that there is    no reason to believe that a game like chess was involved.</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="figura5"></a><img width=181 height=243 src="/img/revistas/ran/v4n4/v4n4a09_05.jpg"></b></font></p>     ]]></body>
+<body><![CDATA[<p align=center><b><font size="2" face="Verdana">Figure 5:  Achilles and Ajax.</font></b></p>     <p align="justify"><font size="2" face="Verdana">Let’s look at the situation from    a somewhat different perspective. Board games were popular in ancient Greece.    Around 530 BC, the potter painter Exekias made a beautiful amphora with Achilles    (left) and Ajax (right) playing a board game, see <a href="#figura5">figure    5</a>. What board games did the ancient Greeks play? Roland G. Austin starts    his article about <i>Greek board games</i> (1940) with the sentence: ‘The study    of Greek board-games is almost wholly inconclusive, owing to the scanty and    extremely imprecise evidence available.’ So very little can be said about the    games they played. We can, however, speculate that somebody close to Hipparchus    had a petteia board and using one of the pieces he asked himself the same question    I formulated above. Obviously for a king-like piece the terms in the a-column    (file) must all be one and the other terms on the board must be the sums of    three terms, i.e. c5=c4+b4+b5 and e5=d4+d5+e4 with e4=0; simple additions that    reflect the king’s movements. After that he had to add the terms in the rows    (ranks) in two ways just like I did and show his results to Hipparchus. Hipparchus,    with his knowledge of the intricacies of Stoic logic, would of course have recognized    these numbers instantly and must have used this fairly simple method to calculate    the larger numbers that reached us through the writings of Plutarch. A mystery    solved? It is possible.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <hr align="center" noshade>     <p align="justify"><font size="3" face="Verdana"><b>References</b></font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana">[1]     F. Acerbi, On the Shoulders    of Hipparchus. Archive for History of Exact Sciences 57, pp. 465-502, 2003.    http://stl.recherche.univ-lille3.fr/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004854&pid=S1683-0789201000020000900001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[2]     R. G. Austin, Greek board    games, 1940. http://www.gamesmuseum. uwaterloo.ca/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004855&pid=S1683-0789201000020000900002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[3]     E. T. Bell, Men of Mathematics,    1937.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004856&pid=S1683-0789201000020000900003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[4]     D. Bellhouse and Ch.    Genest, Maty&#8217;s biography of Abraham de Moivre, translated, annotated and    augmented<i>,</i> 2007. http://projecteuclid.org/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004857&pid=S1683-0789201000020000900004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[5]     F.A. Danican Philidor,    L&#8217;analyze des échecs, 1749.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004858&pid=S1683-0789201000020000900005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[6]     H. Delannoy, Emploi de    l&#8217;échiquier pour la résolution de divers problèmes de probabilité, Association    Française, Paris XVIII, pp. 43-52, 1889.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004859&pid=S1683-0789201000020000900006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[7]     Leonardo Fibonacci, Liber    Abaci, 1202.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004860&pid=S1683-0789201000020000900007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[8]     D. Hooper and K. Whyld,    The Oxford Companion to Chess, 1992.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004861&pid=S1683-0789201000020000900008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[9]     Th. Koshy, Catalan numbers    with Applications, 2009.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004862&pid=S1683-0789201000020000900009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[10]    H. W. Lenstra Jr., Solving    the Pell equation, Notices Amer. Math. Soc. 49, pp. 182&#8211;192, 2002. http://www.ams.org/notices/200202/fea-lenstra.pdf</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004863&pid=S1683-0789201000020000900010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[11]    E. Lucas, Récréations    Mathématiques, 1881-1894.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004864&pid=S1683-0789201000020000900011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[12]    De Moivre, The Doctrine    of Chances, 1718.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004865&pid=S1683-0789201000020000900012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[13]    Newton, Philosophiae    Naturalis Principia Mathematica, 1687.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004866&pid=S1683-0789201000020000900013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[14]    Ozanam, Récréations mathématiques    et physiques, 1725.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004867&pid=S1683-0789201000020000900014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[15]    Pascal, Traité du triangle    arithmétique,<i> </i>1654.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004868&pid=S1683-0789201000020000900015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[16]    Plutarch, Parallel Lives:    The Life of Marcellus, 75. http://classics.mit.edu/Plutarch/marcellu.html</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004869&pid=S1683-0789201000020000900016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[17]    N.J.A. Sloane<i>,</i>    The On-Line Encyclopedia of Integer Sequences, 1996-2011, at www.oeis.org. A070030    (Closed knight&#8217;s tours). A007318 (Pascal&#8217;s triangle). A000079 (Powers    of two). A000045 (Fibonacci numbers). A180662 (The golden triangle). A001622    (The golden ratio). A009766 (Catalan&#8217;s triangle). A000108 (Catalan numbers).    A053121 (Catalan&#8217;s triangle variant). A008288 (Delannoy&#8217;s square    array). A000129 (Pell numbers). A000073 (Tribonacci numbers). A001850 (Central    Delannoy numbers). A000170 (Non-attacking queens). A096151 (Archimedes&#8217;    cattle problem). A033877 (Schröder&#8217;s triangle). A006318 (Large Schröder    numbers). A001003 (Little Schröder numbers). A010683 (Hipparchus numbers).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004870&pid=S1683-0789201000020000900017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[18]    R. Stanley, Hipparchus,    Plutarch, Schröder and Hough<i>, </i><em>American Math. Monthly</em> 104, pp.    344-350. 1997. http://math.mit.edu/~rstan/pubs/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004871&pid=S1683-0789201000020000900018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[19]    R. Stanley, Queue problems    revisited, <em>Suomen Tehtäväniekat</em> <strong>59</strong>, no. 4, pp. 193-203,    2005. http://math.mit.edu/~rstan/pubs/</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004872&pid=S1683-0789201000020000900019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana">[20]    Weil, Number Theory,    An approach through history from Hammurapi to Legendre, 1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004873&pid=S1683-0789201000020000900020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>1</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Acerbi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[On the Shoulders of Hipparchus. Archive for History of Exact Sciences 57]]></article-title>
+<source><![CDATA[]]></source>
+<year>2003</year>
+<page-range>465-502</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<label>2</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Austin]]></surname>
+<given-names><![CDATA[R. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Greek board games]]></source>
+<year>1940</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>3</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bell]]></surname>
+<given-names><![CDATA[E. T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Men of Mathematics]]></article-title>
+<source><![CDATA[]]></source>
+<year>1937</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>4</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bellhouse]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Genest]]></surname>
+<given-names><![CDATA[Ch.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maty’s biography of Abraham de Moivre, translated, annotated and augmented]]></article-title>
+<source><![CDATA[]]></source>
+<year>2007</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>5</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Philidor]]></surname>
+<given-names><![CDATA[F.A. Danican]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[L’analyze des échecs]]></article-title>
+<source><![CDATA[]]></source>
+<year>1749</year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>6</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Delannoy]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Emploi de l’échiquier pour la résolution de divers problèmes de probabilité, Association Française]]></source>
+<year>1889</year>
+<page-range>43-52</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<label>7</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fibonacci]]></surname>
+<given-names><![CDATA[Leonardo]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Liber Abaci]]></article-title>
+<source><![CDATA[]]></source>
+<year>1202</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>8</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hooper]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Whyld]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Oxford Companion to Chess]]></article-title>
+<source><![CDATA[]]></source>
+<year>1992</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>9</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Koshy]]></surname>
+<given-names><![CDATA[Th.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Catalan numbers with Applications]]></article-title>
+<source><![CDATA[]]></source>
+<year>2009</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>10</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lenstra Jr.]]></surname>
+<given-names><![CDATA[H. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Solving the Pell equation, Notices Amer.]]></source>
+<year>2002</year>
+<page-range>182-192</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<label>11</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lucas]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Récréations Mathématiques]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>12</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[De Moivre]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Doctrine of Chances]]></article-title>
+<source><![CDATA[]]></source>
+<year>1718</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>13</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Newton]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Philosophiae Naturalis Principia Mathematica]]></article-title>
+<source><![CDATA[]]></source>
+<year>1687</year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>14</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ozanam]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Récréations mathématiques et physiques]]></article-title>
+<source><![CDATA[]]></source>
+<year>1725</year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>15</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pascal]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Traité du triangle arithmétique]]></article-title>
+<source><![CDATA[]]></source>
+<year>1654</year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>16</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Plutarch]]></surname>
+</name>
+</person-group>
+<source><![CDATA[Parallel Lives: The Life of Marcellus]]></source>
+<year></year>
+<page-range>75</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<label>17</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sloane]]></surname>
+<given-names><![CDATA[N.J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The On-Line Encyclopedia of Integer Sequences]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>18</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stanley]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Hipparchus, Plutarch, Schröder and Hough]]></article-title>
+<source><![CDATA[]]></source>
+<year>1997</year>
+<page-range>344-350</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<label>19</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stanley]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Queue problems revisited, Suomen Tehtäväniekat 59]]></article-title>
+<source><![CDATA[]]></source>
+<year>2005</year>
+<page-range>193-203</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<label>20</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Weil]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Number Theory, An approach through history from Hammurapi to Legendre]]></article-title>
+<source><![CDATA[]]></source>
+<year>1984</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

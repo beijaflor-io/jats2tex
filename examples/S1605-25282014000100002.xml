@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000100002</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Modelando patrones geográficos de distribución de gramíneas (Poaceae) en Bolivia: Implicaciones para su conservación]]></article-title>
+<article-title xml:lang="en"><![CDATA[Modeling the geographical patterns of distribution of grasses (Poaceae) in Bolivia: implications for their conservation]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa I.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[Daniel M.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[Stephan G.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[Sara]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología Herbario Nacional de Bolivia]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Fundación Amigos de la Naturaleza  ]]></institution>
+<addr-line><![CDATA[Santa Cruz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>1</numero>
+<fpage>3</fpage>
+<lpage>19</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Mediante la revisión de catálogos, especímenes herborizados e información disponible en línea se compiló una base de datos compuesta por 5.748 registros para 599 especies de gramíneas nativas de Bolivia (media de registros por especie ± desviación estándar, 9 ± 11.3), que representan el 71% del total de 840 especies reportadas. Usando el algoritmo Maxent se modeló la distribución potencial de cada especie. Para el caso de aquellas especies donde el Maxent no produjo resultados consistentes se aplicó una metodología alterna basada en el conocimiento de especialistas del grupo. En ambos casos, se generaron mapas de consenso sobre la distribución geográfica de cada especie. Los mapas individuales fueron agrupados para identificar patrones de distribución geográfica para cada subfamilia (Aristidoideae, Bambusoideae, Chloridoideae, Danthonioideae, Ehrhartoideae, Panicoideae y Pooideae) y centros de riqueza de especies para la familia en conjunto. Los resultados mostraron la existencia de cuatro centros de riqueza asociados con los valles secos interandinos (1) y la puna mesofítica (2), ambos ubicados en la región andina tropical y la Chiquitanía (3) y la llanura beniano-amazónica (4), ubicados en la región brasileño-paranense. El análisis de intensidad de protección (representatividad de al menos el 17% de cada centro de riqueza detectado en el Sistema Nacional de Áreas Protegidas (SNAP), de acuerdo con las metas de Aichi propuestas por la Secretaria del Convenio sobre la Diversidad Biológica (CDB), mostró que tres de los cuatro de los centros de riqueza detectados (valles secos interandinos, la llanura beniana-amazónica y la Chiquitanía) se encuentran sub representados.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Through the review of catalogs, herbarium specimens and information available online, we compiled a database consisting of 5,748 records from 594 species of native grasses of Bolivia (mean ± standard deviation, 9 ± 11.3), which represent the 71% of total recorded species to Bolivia). Using the algorithm Maxent, the potential distribution of each species was modeled. For those species where the Maxent produced unreliable results, an alternative methodology based on specialist knowledge was applied. In both cases, maps of consensus about the geographical distribution of each species were generated. The individual maps were jointed in order to identify geographical patterns of distribution for each subfamily (Aristidoideae, Bambusoideae, Chloridoideae, Danthonioideae, Ehrhartoideae, Panicoideae and Pooideae), as well as also centers of richness for the family. The results showed the existence of four richness centers associated with the dry valleys and the mesophytic puna (tropical Andean region) and the Chiquitania and the Beni savannas (Brazilian-Paranense region). The analysis of protection intensity (representativeness of at least 17% of the centers of richness identified in the National Protected Areas System, SNAP, according to the Aichi targets suggested by the Secretariat of the Convention on Biological Diversity), showed that three of the four centers of richness found (inter dry Valleys, the Beni savannas and Chiquitania) are underrepresented.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="es"><![CDATA[Conservación]]></kwd>
+<kwd lng="es"><![CDATA[Maxent]]></kwd>
+<kwd lng="es"><![CDATA[Poaceae]]></kwd>
+<kwd lng="es"><![CDATA[Regiones biogeográficas]]></kwd>
+<kwd lng="en"><![CDATA[Biogeographical regions]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[Conservation]]></kwd>
+<kwd lng="en"><![CDATA[Maxent]]></kwd>
+<kwd lng="en"><![CDATA[Poaceae]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Modelando patrones geogr&aacute;ficos de distribuci&oacute;n de gram&iacute;neas (Poaceae) en Bolivia: Implicaciones para su conservaci&oacute;n</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Modeling the geographical patterns of distribution of grasses (Poaceae) in Bolivia: implications for their conservation</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Rosa I. Meneses<sup>1,3</sup>, Daniel M. Larrea-Alc&aacute;zar<sup>2*</sup>, Stephan G. Beck<sup>1</sup> &amp; Sara Espinoza<sup>2</sup></font></b></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><sup>1</sup>Herbario Nacional de Bolivia, Instituto de Ecolog&iacute;a, Universidad Mayor de San Andr&eacute;s,    Casilla 10077 - Correo Central, La Paz, Bolivia<br />   <sup>2</sup>Fundaci&oacute;n Amigos de la Naturaleza, Casilla 2241, Santa Cruz, Bolivia,    email: <a href="mailto:dlarrea@fan-bo.org">dlarrea@fan-bo.org</a>, <a href="mailto:larrea.alcazar@gmail.com">larrea.alcazar@gmail.com</a> *Autor para correspondencia<br />   <sup>3</sup>Museo Nacional de Historia Natural, Casilla 8706, La Paz, Bolivia</font></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p> <hr noshade="noshade" />     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Resumen</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mediante la revisi&oacute;n de cat&aacute;logos, espec&iacute;menes herborizados e informaci&oacute;n disponible en l&iacute;nea se compil&oacute; una base de datos compuesta por 5.748 registros para 599 especies de gram&iacute;neas nativas de Bolivia (media de registros por especie &plusmn; desviaci&oacute;n est&aacute;ndar, 9 &plusmn; 11.3), que representan el 71% del total de 840 especies reportadas. Usando el algoritmo Maxent se model&oacute; la distribuci&oacute;n potencial de cada especie. Para el caso de aquellas especies donde el Maxent no produjo resultados consistentes se aplic&oacute; una metodolog&iacute;a alterna basada en el conocimiento de especialistas del grupo. En ambos casos, se generaron mapas de consenso sobre la distribuci&oacute;n geogr&aacute;fica de cada especie. Los mapas individuales fueron agrupados para identificar patrones de distribuci&oacute;n geogr&aacute;fica para cada subfamilia (Aristidoideae, Bambusoideae, Chloridoideae, Danthonioideae, Ehrhartoideae, Panicoideae y Pooideae) y centros de riqueza de especies para la familia en conjunto. Los resultados mostraron la existencia de cuatro centros de riqueza asociados con los valles secos interandinos (1) y la puna mesof&iacute;tica (2), ambos ubicados en la regi&oacute;n andina tropical y la Chiquitan&iacute;a (3) y la llanura beniano-amaz&oacute;nica (4), ubicados en la regi&oacute;n brasile&ntilde;o-paranense. El an&aacute;lisis de intensidad de protecci&oacute;n (representatividad de al menos el 17% de cada centro de riqueza detectado en el Sistema Nacional de &Aacute;reas Protegidas (SNAP), de acuerdo con las metas de Aichi propuestas por la Secretaria del Convenio sobre la Diversidad Biol&oacute;gica (CDB), mostr&oacute; que tres de los cuatro de los centros de riqueza detectados (valles secos interandinos, la llanura beniana-amaz&oacute;nica y la Chiquitan&iacute;a) se encuentran sub representados.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> Palabras clave:</b> Bolivia, Conservaci&oacute;n, Maxent, Poaceae, Regiones biogeogr&aacute;ficas.</font></p> <hr noshade="noshade" />     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> Abstract</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Through the review of catalogs, herbarium specimens and information available online, we compiled a database consisting of 5,748 records from 594 species of native grasses of Bolivia (mean &plusmn; standard deviation, 9 &plusmn; 11.3), which represent the 71% of total recorded species to Bolivia). Using the algorithm Maxent, the potential distribution of each species was modeled. For those species where the Maxent produced unreliable results, an alternative methodology based on specialist    knowledge was applied. In both cases, maps of consensus about the geographical distribution of each species were generated. The individual maps were jointed in order to identify geographical patterns of distribution for each subfamily (Aristidoideae, Bambusoideae, Chloridoideae, Danthonioideae, Ehrhartoideae, Panicoideae and Pooideae), as well as also centers of richness for the family. The results showed the existence of four richness centers associated with the dry valleys and the mesophytic puna (tropical Andean region) and the Chiquitania and the Beni savannas (Brazilian-Paranense region). The analysis of protection intensity (representativeness of at least 17% of the centers of richness identified in the National Protected Areas System, SNAP, according to the Aichi targets suggested by the Secretariat of the Convention on Biological Diversity), showed that three of the four centers of richness found (inter dry Valleys, the Beni savannas and Chiquitania) are underrepresented.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Key words:</b> Biogeographical regions, Bolivia, Conservation, Maxent, Poaceae.</font></p> <hr noshade="noshade" />     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><br />     <font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Alrededor del 70% de la superficie cultivable del mundo est&aacute; sembrada con gram&iacute;neas y el 50% de las calor&iacute;as consumidas por la humanidad proviene de sus numerosas especies que son utilizadas directamente en la alimentaci&oacute;n o bien, indirectamente como forraje para los animales dom&eacute;sticos (APG 1998, R&uacute;golo de Agrasar &amp; Puglia 2004). Esta familia es una de las m&aacute;s ricas en especies del reino Plantae (Good 1974, Cronquist 1981) y comprende 13 subfamilias que contienen 700 g&eacute;neros y 11.000 especies en todo el mundo (Dahlgren <i>et al</i>. 1985, Clayton &amp; Renvoize 1986, Nicora &amp; R&uacute;golo de Agrasar 1987, Watson &amp; Dallwitz 1992, GPWG 2001, Mabberley 2008, Zuloaga <i><i>et al</i></i>. 2012). Presenta caracter&iacute;sticas f&aacute;cilmente reconocibles e identificables de cualquier otra familia (inflorescencia bracteada, perianto reducido, tipo de fruto cari&oacute;pside, entre otros, GPWG 2001) y son reconocidas como un grupo monofil&eacute;tico, tanto por la morfolog&iacute;a - caracteres fenot&iacute;picos - como por los resultados de an&aacute;lisis moleculares del grupo (Campbell &amp; Kellogg 1987, Doyle <i>et al</i>. 1992, Watson &amp; Dallwitz 1992, S&aacute;nchez-Ken <i>et al</i>. 2007, Mabberley 2008, Bouchenak-Khelladi <i>et al</i>. 2010).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Las gram&iacute;neas se distribuyen en casi todas las latitudes y altitudes, desde el nivel del mar hasta el l&iacute;mite de crecimiento de la vegetaci&oacute;n, as&iacute; como desde las regiones subpolares hasta los tr&oacute;picos. Crecen en diferentes tipos de suelos, desde inundados hasta secos, incluso en los des&eacute;rticos (GPWG 2001). En Am&eacute;rica austral, Argentina, Chile, Uruguay y &aacute;reas lim&iacute;trofes de Bolivia, Paraguay y Brasil, se hallan cerca de 200 g&eacute;neros y m&aacute;s de 1.300 especies de gram&iacute;neas (APG 1998, Renvoize 1998, GPWG 2001). Tal riqueza espec&iacute;fica es poco frecuente en otras &aacute;reas del mundo de latitudes subtropicales similares (R&uacute;golo de Agrasar 2004, 2006, R&uacute;golo de Agrasar &amp; Puglia 2004, Simon 2007). Las gram&iacute;neas representan entre el 9-14% de la flora de los semidesiertos sudamericanos [p.e., desierto del Monte (Morello 1958), bosques secos andinos (L&oacute;pez 2003), la prepuna (L&oacute;pez &amp; Beck 2002), la Puna (Novara 2003)], ubic&aacute;ndose entre las tres familias con mayor cantidad de especies en estos h&aacute;bitats. En Bolivia, de acuerdo a Renvoize (1998), existen 152 g&eacute;neros con cerca de 740 especies nativas pertenecientes a 12 subfamilias; la &uacute;nica subfamilia ausente es Puelioideae. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este n&uacute;mero aumenta constantemente y hasta 2009 se ha incrementado a 840 especies que equivalen al 5.8% de la flora conocida de Bolivia (14.387 especies, J&oslash;rgensen <i>et al</i>. 2011). A pesar del avance en el conocimiento sistem&aacute;tico y taxon&oacute;mico de las especies que habitan en Bolivia, los registros bot&aacute;nicos disponibles son a&uacute;n insuficientes para evaluar los patrones geogr&aacute;ficos del grupo. Sin embargo, a nivel de subfamilias es posible encontrar patrones    de distribuci&oacute;n espaciales que ayuden a comprender los patrones geogr&aacute;ficos y la diversificaci&oacute;n del grupo.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La presencia de especies de gram&iacute;neas ha sido reportada en todas las regiones ecol&oacute;gicas de Bolivia (Beck 1983, Haase &amp; Beck 1989, Killeen &amp; Hinz 1992, Beck 1998, Pestalozzi 1998, Navarro 2011, entre otros). La alta heterogeneidad de h&aacute;bitats en la regi&oacute;n andina, donde existen diferentes pisos altitudinales y formaciones vegetales, en especial en los valles secos interandinos, sugiere que la mayor diversificaci&oacute;n biol&oacute;gica del grupo podr&iacute;a presentarse en esta regi&oacute;n. No obstante, los bosques semideciduos chiquitanos y las sabanas podr&iacute;an tambi&eacute;n albergar una alta riqueza de especies (Beck 1998). Los patrones espaciales de la concentraci&oacute;n de especies de un grupo pueden ser analizados a trav&eacute;s del modelaje predictivo de la distribuci&oacute;n de cada especie y la agrupaci&oacute;n de los mapas individuales en combinaci&oacute;n con la opini&oacute;n de expertos (Overton <i>et al</i>. 2002, Ortega-Huerta &amp; Peterson 2004; Ferrier &amp; Guisan 2006). Este enfoque ha resultado particularmente &uacute;til en regiones o pa&iacute;ses como Bolivia donde los inventarios bot&aacute;nicos son considerados todav&iacute;a incompletos (sensu M&uuml;ller <i>et al</i>. 2003, Hern&aacute;ndez <i>et al</i>. 2008). Esta informaci&oacute;n permite identificar desplazamientos hacia lugares con condiciones ambientales favorables (p.e., adaptaci&oacute;n espacial seg&uacute;n Hengeveld 1997), as&iacute; como generar pautas para orientar futuras estrategias y acciones de conservaci&oacute;n de un grupo (p.e., palmeras o Arecaceae, Moraes <i>et al</i>. 2014).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En la d&eacute;cima Conferencia de las Partes (COP 10) celebrada en Jap&oacute;n en 2010, la Secretar&iacute;a del Convenio sobre la Diversidad Biol&oacute;gica (CDB) propuso que para 2020 al menos el 17% de los ecosistemas que albergan valores de alta diversidad biol&oacute;gica debe ser conservado a trav&eacute;s de &aacute;reas protegidas (meta 11, los objetivos de Aichi para la biodiversidad; CBD 2011 ver <a href="http://www.cbd.int" target="_blank">http://www.cbd.int</a>). El Sistema Nacional de &Aacute;reas Protegidas (SNAP) de Bolivia se compone de 22 &aacute;reas protegidas de inter&eacute;s nacional que cubren el 16% del territorio nacional (~ 17 millones de ha, L&oacute;pez &amp; Zambrana-Torrelio 2005). Son a&uacute;n ausentes los estudios que examinen en Bolivia la meta de representatividad del 17% propuesto por la CDB. Debido a la riqueza de especies de gram&iacute;neas, su amplia distribuci&oacute;n geogr&aacute;fica y la importancia econ&oacute;mica de las especies que la componen, son un grupo taxon&oacute;mico clave y distintivo para evaluar el rol que juegan las &aacute;reas protegidas en su conservaci&oacute;n.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En este estudio los patrones geogr&aacute;ficos de riqueza potencial de especies de gram&iacute;neas (Poaceae) en Bolivia fueron evaluados y comparados con la superficie que ocupan las &aacute;reas protegidas de inter&eacute;s nacional que componen el SNAP. Los objetivos del estudio fueron: a) identificar los centros de riqueza potencial de las subfamilias y caracterizar sus patrones geogr&aacute;ficos y b) establecer la intensidad de protecci&oacute;n de los centros de riqueza detectados con relaci&oacute;n a la superficie del SNAP y a la meta de representaci&oacute;n m&iacute;nima establecida por Secretaria del Convenio sobre la Diversidad Biol&oacute;gica (17%, metas de Aichi). Esta informaci&oacute;n orientar&aacute; futuros inventarios e investigaciones sobre la ecolog&iacute;a y biogeograf&iacute;a del grupo.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br />       <b><font size="3">M&eacute;todos</font></b></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Conformaci&oacute;n de bases de datos</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Con base en la revisi&oacute;n bibliogr&aacute;fica de la familia de diferentes tribus y regiones, junto con la revisi&oacute;n de los espec&iacute;menes herborizados del Herbario Nacional de Bolivia (LPB) e informaci&oacute;n disponible del Missouri Botanical Garden (TROPICOS, <a href="http://www.tropicos.org" target="_blank">www.tropicos.org</a>), se compil&oacute; una base de datos de 6.458 registros para 741 especies de gram&iacute;neas. Estas especies representaron el 88% del total reportado a la fecha para Bolivia, que es de 840 especies (J&oslash;rgensen <i>et al</i>. 2011). No se obtuvo informaci&oacute;n georreferenciada para las 99 especies restantes (12%). Sesenta y un especies de las 741compiladas tuvieron solo un registro.<br />       <br />   Los registros duplicados fueron eliminados de la base de datos (11% del total, 710 registros). La base de datos estuvo compuesta por 680 especies (81% del total de especies reportadas para Bolivia por J&oslash;rgensen <i>et al</i>. (2011). Se excluyeron las especies introducidas, naturalizadas o cultivadas (81 especies), totalizando 599 especies que fueron incluidas en el an&aacute;lisis. Los espec&iacute;menes que no contaban con coordenadas geogr&aacute;ficas de su lugar de colecci&oacute;n fueron georreferenciados utilizando la informaci&oacute;n de campo sobre su lugar de colecta (localidad, provincia y otros). La taxonom&iacute;a y sinonimia de las especies fueron revisadas con base en Renvoize (1998) y los cat&aacute;logos &ldquo;Catalogue of New World Grasses (Poaceae)&rdquo; I-IV de los a&ntilde;os 2000-2003 (Judziewicz <i>et al</i>. 2000, Peterson <i>et al</i>. 2001, Soreng <i>et al</i>. 2003, Zuloaga <i>et al</i>. 2003, Zuloaga <i>et al</i>. 2012). La revisi&oacute;n del g&eacute;nero Deyeuxia incluy&oacute; espec&iacute;ficamente los trabajos de Villavicencio (1995) y R&uacute;golo de Agrasar (2006). El orden de las subfamilias sigue la propuesta de GPWG (2001) y S&aacute;nchez-Ken <i>et al</i>. (2007).</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Patrones geogr&aacute;ficos de riqueza de especies</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para identificar los patrones geogr&aacute;ficos de diversidad del grupo, la distribuci&oacute;n individual de cada especies fue modelada usando el modelo Maxent (<a href="http://maxent.sourceforge.net" target="_blank">http://maxent.sourceforge.net</a>, Phillips <i>et al</i>. 2006). Este algoritmo ha demostrado ser altamente robusto para el modelaje de especies con un bajo n&uacute;mero de registros (Pearson <i>et al</i>. 2007, Hern&aacute;ndez <i>et al</i>. 2008). El modelo fue corrido con las siguientes variables ambientales: 1) 19 variables bioclim&aacute;ticas de Worldclim (Hijmans <i>et al</i>. 2005), 2) un modelo digital de elevaci&oacute;n (DEM) de 90 m (0.81 ha) generado por la NASA (NASA&rsquo;s Shuttle Radar Topography Mission, <a href="http://www2.jpl.nasa.gov/srtm/" target="_blank">www2.jpl.nasa.gov/srtm/</a>) y 3) el mapa de sistemas ecol&oacute;gicos propuesto por Navarro &amp; Ferreira (2011). La distribuci&oacute;n de cada especie fue modelada a partir del remuestreo del 80% de sus registros, utilizando el 20% restante para su validaci&oacute;n. La exactitud de cada modelo fue determinada a trav&eacute;s de un an&aacute;lisis ROC (siglas en ingl&eacute;s: <i>receiver operating characteristic</i>). Este an&aacute;lisis establece que el &aacute;rea bajo la curva (AUC, en ingl&eacute;s: <i>area under the curve</i>) suministra una medida robusta del desempe&ntilde;o del modelo. Un modelo &oacute;ptimo tiene un AUC de 1.0, mientras que un modelo que predice que las ocurrencias de especies al azar tiene un AUC de 0.5 (Phillips <i>et al</i>. 2006). Las especies modeladas tuvieron valores de AUC iguales o mayores a 0.68. Los mapas resultantes en formato <i>ascii</i> fueron procesados en ArcGis 10.1 para generar mapas binarios de presencia (1) o ausencia (0) de cada especie. Estos mapas fueron generados usando valores de umbral de sensibilidad-especificidad de 10-5 con 1.000 iteraciones. </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los mapas generados fueron revisados por SGB y RIM hasta alcanzar mapas de consenso congruentes con la historia natural y patrones biogeogr&aacute;ficos conocidos. Esta revisi&oacute;n fue usada como m&eacute;todo de control para evitar que la distribuci&oacute;n modelada de algunas especies no sea proyectada en formaciones de vegetaci&oacute;n, donde es poco probable que ocurra, de acuerdo con el conocimiento ecol&oacute;gico y biogeogr&aacute;fico de los especialistas.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para aquellas especies que no produjeron mapas satisfactorios con el algoritmo Maxent, se aplic&oacute; una metodolog&iacute;a alterna basada en el conocimiento de especialistas (SGB y RIM). Espec&iacute;ficamente, se estim&oacute; la distribuci&oacute;n potencial de cada una de estas especies mediante la identificaci&oacute;n y asignaci&oacute;n de sistemas ecol&oacute;gicos (seg&uacute;n el sistema de Navarro &amp; Ferreira 2011), donde su presencia es altamente probable a partir de la evidencia de los registros existentes, incluyendo el intervalo altitudinal a la cual fueron obtenidos tales registros. Esta metodolog&iacute;a fue desarrollada usando ArcGis 10.1. Tanto los mapas generados con esta metodolog&iacute;a como aquellos generados con el algoritmo Maxent fueron representados a una resoluci&oacute;n de 900 x 900 m (equivalente a 30&rsquo;&rsquo;&oacute; 0.008333&deg; x 0.008333&deg;).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para distinguir los patrones de distribuci&oacute;n del grupo a nivel de subfamilias, se elaboraron    siete mapas agrupando los mapas de consenso de las especies por cada subfamilia, es decir: Aristidoideae (con 20 especies), Bambusoideae (41), Chloridoideae (91), Danthonioideae (13), Ehrhartoideae (9), Panicoideae (255) y Pooideae (166). Debido a la baja cantidad de registros de sus especies y al escaso conocimiento sobre su distribuci&oacute;n geogr&aacute;fica, no fueron generados los patrones geogr&aacute;ficos para las subfamilias Anomochlooideae (una especie), Arundinoideae (una especie) y Pharoideae (dos especies). Los mapas de las siete subfamilias fueron combinados en uno solo (599 especies), el cual fue categorizado en cinco niveles usando la herramienta de &ldquo;cortes naturales&rdquo; de ArcGis 10.1 [&ldquo;muy alta&rdquo; (91-149 especies/celda), &ldquo;alta&rdquo; (62-90 especies/celda), &ldquo;media&rdquo; (34-61 especies/celda), &ldquo;baja&rdquo; (15-33 especies/celda) y &ldquo;muy baja&rdquo; (1-14 especies/celda) riqueza potencial de especies)]. El mapa resultante fue contrastado con el mapa de regiones biogeogr&aacute;ficas propuesto para Bolivia por Navarro &amp; Ferreira (2009), en el cual reconoce cuatro regiones: i) amaz&oacute;nica, ii) andina tropical, iii) brasile&ntilde;o-paranense y iv) chaque&ntilde;a (<a href="#f1">Fig. 1a</a>). La superficie de cada centro de riqueza de especies fue cuantificada en base al n&uacute;mero total de celdas de 900 x 900 m con &ldquo;muy alta&rdquo; riqueza potencial de especies (entre 91 y149 especies/celda, <a href="#t2">Tabla 2</a>).</font></p>     <p align="justify"><a name="f1" id="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a02_figura_01.jpg" width="755" height="830" /></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>An&aacute;lisis de representatividad</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para examinar la intensidad de protecci&oacute;n (representatividad de los centros de riqueza detectados al interior de las &aacute;reas protegidas de inter&eacute;s nacional, seg&uacute;n Luebert &amp; Becerra 1998), el mapa resultante de la combinaci&oacute;n de las siete subfamilias fue superpuesto con la cobertura de &aacute;reas protegidas de inter&eacute;s nacional que componen el SNAP para calcular cuando de la superficie de cada centro de riqueza de especies se encuentra representado al interior de las &aacute;reas protegidas nacionales. Siguiendo las recomendaciones de las metas de Aichi 2011-2020, el valor m&iacute;nimo de representatividad (superficie protegida del centro de riqueza detectado en relaci&oacute;n a la superficie total de cada centro de riqueza detectado) utilizado para la comparaci&oacute;n fue del 17% (CDB 2011). Se asumi&oacute; que las celdas de 900 x 900 m conteniendo alta riqueza de especies localizadas al interior de &aacute;reas protegidas fueron representativas de cada centro de riqueza de especies para cada regi&oacute;n biogeogr&aacute;fica. Este an&aacute;lisis fue realizado usando el software ArcGis 10.1, espec&iacute;ficamente el &aacute;lgebra de mapas de la extensi&oacute;n &ldquo;an&aacute;lisis espacial&rdquo;.</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br />       <font size="3"><b>Resultados</b></font></font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Base de datos</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La base de datos corregida y verificada estuvo compuesta por 5.748 registros para 599 especies de gram&iacute;neas de Bolivia (media de registros por especie &plusmn; desviaci&oacute;n est&aacute;ndar, 9 &plusmn; 11.3), representando informaci&oacute;n para el 71% del total de especies reportadas para Bolivia. El n&uacute;mero de especies nativas por cada subfamilia fue variable, las especies introducidas, naturalizadas o cultivadas se concentraron en las subfamilias Panicoideae, Pooideae y Choridoideae y en menor proporci&oacute;n en Bambusoideae, Ehrhartoideae, Danthonioideae y Arundinoideae (<a href="#t1">Tabla 1</a>). Tales especies no fueron consideradas para el an&aacute;lisis de patrones geogr&aacute;ficos de riqueza potencial de la familia.</font></p>     <p align="justify"><a name="t1" id="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a02_tabla_01.gif" width="625" height="451" /></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La mayor&iacute;a de los registros de las especies correspondieron a zonas cercanas a centros poblados, puestos militares y estaciones de energ&iacute;a (31% del total de registros), seguidas por registros realizados cerca de carreteras, cerca de puentes o pistas de aterrizaje (30%), borde de r&iacute;os, puertos o arroyos (14%), estancias ganaderas y zonas de cultivo (12%), borde de lagos, lagunas y &aacute;reas de aguas termales (5%) y otros como territorios ind&iacute;genas, &aacute;reas protegidas, concesiones forestales, concesiones mineras y centros de investigaci&oacute;n (&lt;3% en todos los casos).</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>Patrones geogr&aacute;ficos de riqueza de especies</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los patrones espaciales de las subfamilias mostraron fuertes asociaciones hacia tres de las cuatro regiones biogeogr&aacute;ficas reconocidas para Bolivia, a excepci&oacute;n de la chaque&ntilde;a (<a href="#f1">Figs. 1b-d, 2a-d</a>). En la subfamilia Aristidoideae se distinguieron dos centros de riqueza de especies con celdas de 900 x 900 m hasta con nueve especies asociadas a las provincias boliviano-tucumana (regi&oacute;n andina tropical) y cerradense occidental (regi&oacute;n brasile&ntilde;o-paranense, <a href="#f1">Fig. 1b</a>). Los centros de riqueza de especies de la subfamilia Bambusoideae fueron encontrados asociados con las provincias </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> yungue&ntilde;a peruano-boliviana (regi&oacute;n andina tropical), beniana (regi&oacute;n brasile&ntilde;o-paranense) y principalmente a la provincia amaz&oacute;nica sur occidental de la regi&oacute;n amaz&oacute;nica (<a href="#f1">Fig. 1c</a>). En el caso de la subfamilia Chloridoideae, el principal centro de riqueza de especies abarc&oacute; las provincias boliviano-tucumana y pune&ntilde;a mesof&iacute;tica, ambas de la regi&oacute;n andina tropical (<a href="#f1">Fig. 1d</a>). De manera similar, los centros de riqueza de especies de la subfamilia Danthonioideae fueron encontrados asociados a la regi&oacute;n andina tropical y mostraron una fuerte afinidad del grupo hacia esta regi&oacute;n (<a href="#f2">Fig. 2a</a>). Por el contrario, la subfamilia Ehrhartoideae mostr&oacute; una leve tendencia a presentar peque&ntilde;os centros de riqueza de especies en la provincia amaz&oacute;nica sur occidental de la regi&oacute;n amaz&oacute;nica y en la beniana de la regi&oacute;n brasile&ntilde;o-paranense (<a href="#f2">Fig. 2b</a>). La subfamilia Panicoideae mostr&oacute; dos centros de riqueza de especies asociados a las provincias cerradense occidental y beniana de la regi&oacute;n brasile&ntilde;o-paranense (<a href="#f2">Fig. 2c</a>). Finalmente, la subfamilia Pooideae mostr&oacute; centros de riqueza de especies asociadas a la provincia yungue&ntilde;a peruano-boliviana y la pune&ntilde;a mesof&iacute;tica, ambas de la regi&oacute;n andina tropical (<a href="#f2">Fig. 2d</a>). A pesar de no haber tomado en cuenta a cinco subfamilias por presentar pocas especies y registros, se decidi&oacute; rescatar los resultados de la subfamilia Anomochlooideae (una especie) que presenta un patr&oacute;n de distribuci&oacute;n claro en la regi&oacute;n brasile&ntilde;o-paranense en la provincia cerradense occidental.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2" id="f2"></a></font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/reb/v49n1/a02_figura_02.jpg" width="761" height="815" /></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Cuando los mapas de todas las subfamilias fueron combinados, cuatro centros de riqueza de especies fueron identificados. Estos centros estuvieron asociados a los valles secos    interandinos (subdividido en dos centros menores: uno hacia el norte y otro hacia la porci&oacute;n sur) y la puna mesof&iacute;tica, ambos en la regi&oacute;n andina tropical y a la Chiquitan&iacute;a y la llanura beniano-amaz&oacute;nica (con los Llanos de Moxos y el Cerrado beniano), &eacute;stos &uacute;ltimos vinculados a la regi&oacute;n brasile&ntilde;o-paranense (<a href="#f3">Fig. 3</a>, <a href="#t2">Tabla 2</a>).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f3" id="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a02_figura_03.jpg" width="644" height="906" /></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="t2" id="t2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n1/a02_tabla_02.gif" width="845" height="520" /></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <b>An&aacute;lisis de representatividad</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El an&aacute;lisis de intensidad de protecci&oacute;n mostr&oacute; que el centro detectado en la puna h&uacute;meda o mesof&iacute;tica se encuentra altamente representado en el SNAP, seguido por el centro de riqueza detectado en la Chiquitan&iacute;a (26 y 14%, respectivamente). Los centros de riqueza    detectados en los valles secos interandinos y la llanura beniana estuvieron sub-representados (valores entre &lt;1 y 5%, respectivamente, <a href="#t2">Tabla 2</a>).</font></p>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><br />       <font size="3"><b>Discusi&oacute;n</b></font></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los resultados muestran que las gram&iacute;neas nativas analizadas est&aacute;n presentes en todas las regiones biogeogr&aacute;ficas de Bolivia, respaldando el patr&oacute;n geogr&aacute;fico reportado para la familia en trabajos previos (Judziewicz <i>et al</i>. 2000, Peterson <i>et al</i>. 2001, Soreng <i>et al</i>. 2003, Zuloaga <i>et al</i>. 2003, J&oslash;rgensen <i>et al</i>. 2011, Navarro 2011). Sin embargo, existen diferencias geogr&aacute;ficas entre las subfamilias analizadas. Las especies de las subfamilias Chloridoideae, Danthonioideae y Pooideae estar&iacute;an m&aacute;s asociadas a la regi&oacute;n andina tropical, mientras que las de las subfamilias Aristidoideae, Bambusoideae, Ehrhartoideae y Panicoideae se distribuir&iacute;an en las regiones amaz&oacute;nica, chaque&ntilde;a y brasile&ntilde;o-paranense.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Nuestros resultados sugieren la existencia de al menos cuatro centros de riqueza de especies. Estos est&aacute;n ubicados en las regiones andina tropical y brasile&ntilde;o-paranense, espec&iacute;ficamente en los valles secos (que incluye uno hacia el norte y otro centro de menor tama&ntilde;o de posici&oacute;n m&aacute;s meridional) y la puna h&uacute;meda en el caso de la regi&oacute;n andina. Mientras que la Chiquitan&iacute;a y la llanura beniana-amaz&oacute;nica se localiza en la regi&oacute;n brasile&ntilde;o-paranense.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La riqueza de especies de la regi&oacute;n andina tropical se caracteriza por la presencia de la subfamilia Pooideae con g&eacute;neros aut&oacute;ctonos, como <i>Anthochloa, Dielsiochloa </i>y<i> Dissanthelium</i> (&eacute;ste &uacute;ltimo incluido recientemente en el g&eacute;nero <i>Poa</i>, Refulio-Rodr&iacute;guez <i>et al</i>. 2012), cuyas especies pueden crecer hasta los 5.000 m &oacute; m&aacute;s y por la alta especiaci&oacute;n de g&eacute;neros hol&aacute;rticos, como <i>Festuca</i> y <i>Poa</i>, que encuentran en los Andes un centro de diversificaci&oacute;n gracias a la diversidad de microh&aacute;bitats y las condiciones clim&aacute;ticas, con muchas especies de distribuci&oacute;n restringida (Renvoize 1998, J&oslash;rgensen <i>et al</i>. 2011). Por su parte, la riqueza de especies de gram&iacute;neas en la llanura beniana amaz&oacute;nica se manifiesta en las extensas sabanas inundables de los Llanos de Moxos en el Beni, donde soportan condiciones de extrema inundaci&oacute;n y sequ&iacute;a, debido al mosaico proporcionado por el relieve con zonas inundadas permanentemente (curiches), temporalmente (baj&iacute;os), hasta islas con vegetaci&oacute;n xerof&iacute;tica (Beck &amp; Moraes 1997, 2004). En esta regi&oacute;n, las Ehrhartoideae - con <i>Leersia</i>, <i>Luziola</i> y <i>Oryza</i> - son t&iacute;picas de las zonas inundadas, en cambio en los sitios no o poco inundados se encuentran las Chloridoideae, <i>Chloris</i>, <i>Eleusine</i> y <i>Sporobolus</i> (Beck 1983). La riqueza de especies en la regi&oacute;n amaz&oacute;nica fue baja, probablemente debido a que se trata de una regi&oacute;n principalmente boscosa; no obstante, existen representantes de la subfamilia Bambusoideae, donde las del g&eacute;nero <i>Guadua</i> pueden formar densos rodales y dominar en algunos de estos h&aacute;bitats (Judziewicz <i>et al</i>. 2000).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La regi&oacute;n chaque&ntilde;a muestra un vac&iacute;o de registros para esta familia en Bolivia, contrario a lo que ocurre en Argentina donde se han reportado 93 g&eacute;neros y 358 de especies para esta unidad fitogeogr&aacute;fica (Molina &amp; R&uacute;golo de Agrasar 2006). Esta baja cantidad de registros se extiende a todos los grupos de plantas y es consecuencia de la poca accesibilidad que caracteriza a esta regi&oacute;n en Bolivia. A una escala local, la base de datos usada en este estudio mostr&oacute; que la mayor parte de las colecciones bot&aacute;nicas se realiz&oacute; y realiza cerca de centros poblados, adem&aacute;s de caminos, quedando poco o nada representados muchos h&aacute;bitats de dif&iacute;cil acceso. Futuros inventarios intensivos y sistem&aacute;ticos podr&iacute;an incrementar registros o detectar nuevas especies, como lo muestran los estudios realizados en la regi&oacute;n del Madidi (Judziewicz <i>et al</i>. 2010), en los cerrados cruce&ntilde;os (Wood 2010, S.A. Renvoize 2012, com. pers.) y la reciente publicaci&oacute;n de una nueva especie de bamb&uacute;, <i>Chusquea yungasensis</i> L.G. Clark &amp; A.C. Mota (Mota <i>et al</i>. 2014). En este &uacute;ltimo caso, es importante mencionar que entre los bamb&uacute;es le&ntilde;osos (tribu Bambuseae), el g&eacute;nero <i>Chusquea</i> destaca por su alta diversidad de especies (Clark 1997, Judziewicz <i>et al</i>. 1999, Ru&iacute;z-Sanchez <i>et al</i>. 2008), pero al mismo tiempo resulta ser el menos estudiado, debido a la ausencia de adecuado material vegetativo y de espiguillas. Actualmente se llevan a cabo tambi&eacute;n procesos de descripci&oacute;n de dos nuevas especies de la subfamilia Chloridoideae.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Como ocurre en muchas familias de plantas vasculares, entre las gram&iacute;neas existen especies indicadoras de perturbaciones antropog&eacute;nicas como, por ejemplo, las Panicoideae <i>Elionurus muticus</i> (Spreng.) Kuntze, <i>Heteropogon contortus</i> (L.) P. Beauv., <i>Trachypogon spicatus</i> (L.f) Kuntze o <i>Leptocoryphium lanatum</i> (Kunth) Nees, cuya presencia indica quemas peri&oacute;dicas en las sabanas inundables de tierras bajas (&lt; 1.000 m); <i>Digitaria neesiana</i> Henrard cumple similares prop&oacute;sitos en los campos cerrados. Estas especies florecen despu&eacute;s de las quemas, formando manchones amplios que no son aptos para el pastoreo (Beck 1998). Similarmente, en las tierras altas (&gt; 1.000 m), se encuentran especies como <i>Stipa ichu</i> (Ruiz &amp; Pav.) Kunth y S. <i>leptostachya </i>Griseb. (Pooideae) que forman manchones en tholares de <i>Parastrephia</i> y en bosques de <i>Polylepis</i> que han experimentado quemas. Tambi&eacute;n existen especies de tierras bajas adaptadas a la presencia permanente de agua, como por ejemplo <i>Luziola fragilis</i> Swallen (Ehrhartoideae) y <i>Oryza latifolia</i> Desv. (Bambusoideae), al igual que <i>Alopecurus hitchcockii</i> Parodi y <i>Polypogon interruptus</i> Kunth (Pooideae), que crecen en tierras altas (Beck 1983, Haase &amp; Beck 1989). En pastizales naturales, las gram&iacute;neas cumplen un rol de protecci&oacute;n de los suelos evitando la erosi&oacute;n h&iacute;drica y e&oacute;lica, mientras que en las &aacute;reas deforestadas y barbechos ayudan a la recuperaci&oacute;n de la cobertura vegetal (GPWG 2001, R&uacute;golo de Agrasar &amp; Puglia 2004). Por otra parte, muchas especies son pioneras en &aacute;reas bald&iacute;as, mientras que otras pueden indicar el retroceso de glaciares (Renvoize 1998).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> A pesar de su reconocida importancia econ&oacute;mica y ecol&oacute;gica, las gram&iacute;neas tradicionalmente no han sido incluidas dentro de pol&iacute;ticas o estrategias de conservaci&oacute;n (p.e., la Estrategia Nacional de Conservaci&oacute;n y Uso Sostenible de la Biodiversidad del MDSP 2001). </font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este estudio, cuatro centros de riqueza potencial de especies fueron detectados. A excepci&oacute;n de la puna mesof&iacute;tica (puna h&uacute;meda), ninguno de los centros de riqueza de especies se encuentra adecuadamente representado en el SNAP (&lt;17%). Esto respalda la noci&oacute;n que las &aacute;reas protegidas que componen el SNAP est&aacute;n orientadas a la protecci&oacute;n de formaciones vegetales de la regi&oacute;n amaz&oacute;nica y chaque&ntilde;a (L&oacute;pez &amp; Zambrana-Torrelio 2005, Araujo <i>et al</i>. 2010), precisamente aquellas donde la riqueza de especies de gram&iacute;neas es baja. Sin embargo, se destacan tres &aacute;reas protegidas ubicadas en la regi&oacute;n andina (ANMI Apolobamba, PN-ANMI Madidi y PN-ANMI Cotapata), las cuales estar&iacute;an protegiendo una importante porci&oacute;n del centro de riqueza de especies detectado en la puna mesof&iacute;tica.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Aunque la protecci&oacute;n de las especies de gram&iacute;neas no forma parte de los objetivos de creaci&oacute;n y gesti&oacute;n de las &aacute;reas protegidas, los resultados encontrados en este estudio apoyan la necesidad de desarrollar futuros inventarios y estudios etnobiol&oacute;gicos de las especies de gram&iacute;neas que habitan al interior de estos espacios de conservaci&oacute;n. Existen tambi&eacute;n especies que se encuentran en peligro de extinci&oacute;n, como <i>Deyeuxia hirsuta</i> R&uacute;golo &amp; Villav., end&eacute;mica amenazada por presentar poblaciones peque&ntilde;as y localizadas en h&aacute;bitats severamente fragmentados (Meneses <i>et al</i>. 2012) y <i>Dissanthelium trollii</i> Pilg, otra amenazada que posee tambi&eacute;n poblaciones localizadas en h&aacute;bitats fragmentados cercanas a &aacute;reas urbanas (Mercado <i>et al</i>. 2012). Tambi&eacute;n se encuentran amenazadas otras especies, como <i>Aulonemia bromoides</i> Judz. &amp; E. Shea y <i>A</i>. <i>scripta</i> Judz. &amp; Wayda que habitan bosques yungue&ntilde;os (Navarro <i>et al</i>. 2012). Estas especies requieren de acciones espec&iacute;ficas para su conservaci&oacute;n, al igual que aquellas que no han sido registradas a&uacute;n en &aacute;reas protegidas (p.e., <i>Gerritea pseudopetiolata</i> Zuloaga, Morrone &amp; T. Killeen de los Yungas de La Paz o <i>Digitaria killeenii</i> A.S. Vega &amp; R&uacute;golo de la Chiquitan&iacute;a).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Aunque el n&uacute;mero de registros para la &uacute;nica especie presente en Bolivia fue baja (<i>Streptochaeta spicata</i> Schrad. ex Nees), es importante destacar la presencia de la peque&ntilde;a subfamilia Anomochlooideae, la cual se encuentra distribuida desde Centroam&eacute;rica hasta el sureste del Brasil (Judziewicz <i>et al</i>. 2000). En Bolivia, S. <i>spicata</i> crece bajo sombra hasta los 800 m de altitud, principalmente en bosques h&uacute;medos estacionales. La presencia de este grupo es importante en t&eacute;rminos de conservaci&oacute;n, debido a que representa la l&iacute;nea evolutiva m&aacute;s antigua dentro de la familia (Clark <i>et al</i>. 1995, Kellogg &amp; Linder 1995, Soreng &amp; Davis 1998, Bouchenak-Khelladi <i>et al</i>. 2010) y es considerada como un grupo indicador del bajo grado de conversi&oacute;n de los bosques.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> En resumen, nuestros resultados muestran que las regiones andina tropical y brasile&ntilde;o-paranense deben ser consideradas claves para futuros estudios taxon&oacute;micos y ecol&oacute;gicos y sobre todo para definir futuras estrategias de conservaci&oacute;n del grupo. En ese sentido, destacan las &aacute;reas protegidas de Apolobamba, Cotapata, Tunari y Carrasco en la regi&oacute;n andina tropical y el &aacute;rea de San Mat&iacute;as en la brasile&ntilde;o-paranense. Esfuerzos de conservaci&oacute;n futuros podr&iacute;an concentrarse en la llanura beniana-amaz&oacute;nica que mantiene a&uacute;n sus h&aacute;bitats en aparente buen estado de conservaci&oacute;n (Araujo <i>et al</i>. 2010). Por otra parte, el estado poblacional de las especies que crecen en valles secos interandinos - una zona fuertemente afectada por las actividades humanas - es tambi&eacute;n una pregunta abierta. Mayores esfuerzos de colecta en las regiones amaz&oacute;nica y sobre todo la chaque&ntilde;a deben ser realizados, profundizando el conocimiento de la distribuci&oacute;n de las especies amenazadas, sobre todo de aquellas que no se encuentran representadas al interior de &aacute;reas protegidas.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"> <b>Conclusiones</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Los resultados sugieren la existencia de cuatro centros de riqueza de especies de gram&iacute;neas en Bolivia. Tales centros se ubican en los valles secos interandinos, la puna mesof&iacute;tica, la Chiquitan&iacute;a y la llanura beniano-amaz&oacute;nica. El an&aacute;lisis de intensidad de protecci&oacute;n mostr&oacute; que tres de los cuatro de los centros de riqueza detectados (valles secos interandinos, la llanura beniana-amaz&oacute;nica y la Chiquitan&iacute;a) se encuentran sub representados en el SNAP, en relaci&oacute;n a la meta de representaci&oacute;n m&iacute;nima sugerida en las metas de Aichi de la CDB (17%, meta 11).</font></p>     <p align="center">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El estudio fue realizado gracias a los fondos otorgados a la Fundaci&oacute;n Amigos de la Naturaleza (FAN-Bolivia) por la Embajada del Reino de los Pa&iacute;ses Bajos y la Fundaci&oacute;n MacArthur (The John D. and Catherine T. MacArthur Foundation, Grant 08-91570-000-GSS). Fernando Biganzoli, Ramiro P. L&oacute;pez y dos revisores an&oacute;nimos enriquecieron el contenido del manuscrito con sus comentarios. El modelaje en Maxent y los an&aacute;lisis en SIG fueron realizados por Dirk Embert, Marlene Quintanilla y Patricia Caballero. La actualizaci&oacute;n de la base de datos y la georreferenciaci&oacute;n de espec&iacute;menes fueron realizados por Natali Thompson, Cecilia Vega, Veronica Padilla y Viviana Urrelo.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias</b></font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> APG (Angiosperm Phylogeny Group). 1998. An ordinal classification for the families of flowering plants. Annals of the Missouri Botanical Garden 85: 531-553.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080183&pid=S1605-2528201400010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Araujo, N., R. M&uuml;ller, C. Nowicki &amp; P. Ibisch (eds). 2010. Prioridades de conservaci&oacute;n de la biodiversidad de Bolivia. Fundaci&oacute;n Amigos de la Naturaleza (FAN), Asociaci&oacute;n Boliviana de Conservaci&oacute;n (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia N&oacute;rdica para el Desarrollo y la Ecolog&iacute;a (NORDECO), Servicio Nacional de &Aacute;reas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservaci&oacute;n Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN, Santa Cruz.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080184&pid=S1605-2528201400010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Beck, S. G. 1983. Vegetations&ouml;kologische Grundlagen der Viehwirtschaft in den &Uuml;berschwemmungs-Savannen des Rio Yacuma (Departamento Beni, Bolivien) Dissertationes Botanicae 80: 1&ndash;213.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Beck, S. G. 1998. Ecolog&iacute;a y fitogeograf&iacute;a de las gram&iacute;neas de Bolivia. pp. 1-11. En: Renvoize, S.A. (ed.) Gram&iacute;neas de Bolivia. Royal Botanic Gardens, Kew.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080186&pid=S1605-2528201400010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Beck, S. G. &amp; M. Moraes R. 1997. Llanos de Mojos region. pp 421&ndash;425. En: Davis, S.D., V. H. Heywood, O. Herrera-MacBryde, J. Villa-Lobos &amp; A. C. Hamilton (eds) Centers of plant diversity: The Americas. Vol. 3. WWF, IUCN, Oxford.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Beck, S. G. &amp; M. Moraes R. 2004. Caracter&iacute;sticas biol&oacute;gicas generales de la llanura del Beni. pp 27&ndash;75. En: Pouilly, M., S. G. Beck, M. Moraes R. &amp; C. Iba&ntilde;ez (eds.) Diversidad Biol&oacute;gica en la Llanura de Inundaci&oacute;n del R&iacute;o Mamor&eacute;. Importancia Ecol&oacute;gica de la Din&aacute;mica Fluvial. Fundaci&oacute;n Sim&oacute;n I. Pati&ntilde;o, Santa Cruz.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Bouchenak-Khelladi, Y., G. A. Verboom, V. Savolainen &amp; T. R. Hodkinson. 2010. Biogeography of the grasses (Poaceae): a phylogenetic approach to reveal evolutionary history in geographical space and geological time. Botanical Journal of the Linnean Society 162: 543-557.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Campbell, C.S. &amp; E. A. Kellogg. 1987. Sister group relationships of the Poaceae. pp. 217-224. En: Soderstrom, T. R., K. W. Hilu, C. S. Campbell &amp; M. E. Barkworth (eds.) Grass Systematics and Evolution. Smithsonian Institution Press, Washington DC.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080190&pid=S1605-2528201400010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Clark, L. G., W. Zhang &amp; J. F. Wendel. 1995. A phylogeny of the grass family (Poaceae) based on ndhF sequence data. Systematic Botanic 20: 436-460.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Clark, L.G. 1997. Diversity, biogeography and evolution of Chusquea. pp. 33&ndash;44. En: Chapman, G. (ed.) The Bamboos. Linnean Society Symposium series no. 19 Academic Press, Londres.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Clayton, W. D. &amp; S. A. Renvoize. 1986. Genera graminum. Grasses of the world. Her Majesty&acute;s Stationery Office, Londres. 389 p.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> CDB (Convenio de Diversidad Biol&oacute;gica). 2011. Plan estrat&eacute;gico para la diversidad 2011-2020 y las metas de Aichi. <a href="http://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-ES.pdf" target="_blank">http://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-ES.pdf</a> (revisado el 20 de abril de 2014).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080194&pid=S1605-2528201400010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Cronquist, A. 1981. An integrated system of classification of flowering plants. Columbia University Press, Nueva York. 1262 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Dahlgren, R. M. T., H. T. Clifford &amp; P. F. Yeo. 1985. The families of the monocotyledons. Springer-Verlag, Nueva York. 500 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Doyle, J. J., J. I. Davis, R. J. Soreng, D. Garvin &amp; M. J. Anderson. 1992. Chloroplast DNA inversions and the origin of the grass family (Poaceae). Proceedings of the National Academy of Sciences of the United States of America 89: 7722-7726.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ferreir, S. &amp; A. Guisan. 2006. Spatial modelling of biodiversity at the community level. Journal of Applied Ecology 43: 393-404.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Good, R. 1974. The geography of the flowering plants. Longman Group, Londres. 557 p.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> GPWG (Grass Phylogeny Working Group). 2001. Phylogeny and subfamilial classification of the grasses (Poaceae). Annals of the Missouri Botanical Garden 88: 373-457.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080200&pid=S1605-2528201400010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Haase, R. &amp; S. B. Beck. 1989. Structure and composition of savanna vegetation in    northern Bolivia: a preliminary report. Brittonia 41: 80-100.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Hengeveld, R. 1997. Impact of biogeography on a population-biological paradigm shift. Journal of Biogeography 24: 541-547.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Hern&aacute;ndez, P.A., I. Franke, S. K. Herzog, V. Pacheco, L. Paniagua, H. L. Quintana, A. Soto, J. J. Swenson, C. Tovar, T. H. Valqui, J. Vargas &amp; B.E. Young. 2008. Predicting species distributions in poorly-studied landscapes. Biodiversity and Conservation 17:1353&ndash;1366.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Hijmans, R. S., S.E. Camer&oacute;n, J. L. Parra, P. G. Jones &amp; A. Jarvis 2005. Very high resolution interpolated climate surface for global land areas. International Journal of Climatology 25: 1965&ndash;1978.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> J&oslash;rgensen, P. M., C. Ulloa Ulloa, B. Le&oacute;n, S. Le&oacute;n-Y&aacute;nez, S. G. Beck, M. Nee, J. L. Zarucchi, M. Celis, R. Bernal &amp; R. Gradstein. 2011. Regional patterns of vascular plant diversity and endemism. pp. 192-203. En: Herzog, S. K., R. Mart&iacute;nez, P. M. J&oslash;rgensen &amp; H. Tiessen (eds.) Climate Change and Biodiversity in the Tropical Andes. Inter-American Institute for Global Change Research (IAI) and Scientific Committee on Problems of the Environment (SCOPE), S&atilde;o Jos&eacute; dos Campos.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Judziewicz E. J., L. G. Clark, X. Londo&ntilde;o &amp; M. J. Stern. 1999. American bamboos. Smithsonian Institution Press, Washington DC. 392 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Judziewicz, E. J., R. Soreng, G. Davidse, P. Peterson, T. Filgueiras &amp; F. Zuloaga. 2000. Catalogue of New World Grasses (Poaceae): I. Subfamilies Anomochlooideae, Bambusoideae, Ehrhartoideae, and Pharoideae. Contribution from the United States National Herbarium 39: 1-128.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Judziewicz, E .J., L. Shea &amp; T. Wayda. 2010. Two new Bolivian species of <i>Aulonemia</i> (Poaceae: Bambusoideae: Bambuseae). Journal of Botanical Research Institute of Texas 4: 569-579.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Killeen, T. J. &amp; P. N. Hinz. 1992. Grasses of the Precambrian Shield region in eastern lowland Bolivia. II. Life-form and C<sub>3</sub> and C<sub>4</sub> photosynthetic types. Journal of Tropical Ecology 8: 409-433.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Kellogg, E. A. &amp; H. P. Linder. 1995. Phylogeny of Poales. pp. 511-542. En: Rudall, P. J., P.J. Cribb, D.F. Cutler &amp; C. J. Humphries (eds.) Monocotyledons: Systematics and Evolution. Royal Botanic Gardens, Kew.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080210&pid=S1605-2528201400010000200028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> L&oacute;pez, R. P. 2003. Diversidad flor&iacute;stica y endemismo de los valles secos bolivianos. Ecolog&iacute;a en Bolivia 38: 27-60.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> L&oacute;pez, R.P. &amp; S. G. Beck. 2002. Phytogeographical affinities and life form composition of the Bolivian prepuna. Candollea 57: 77-96.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> L&oacute;pez, R. P. &amp; C. Zambrana-Torrelio. 2006. Representation of Andean dry ecoregions in the protected areas of Bolivia: the situation in relation to the new phytogeographical findings. Biodiversity and Conservation 15: 2163&ndash;2175.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Luebert, F.&amp; P. Becerra. 1998. Representatividad vegetacional del Sistema Nacional de &Aacute;reas Silvestres Protegidas del Estado (Snaspe) en Chile. Ciencia y Ambiente 14: 62-69.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mabberley, D. J. 2008. Mabberley&rsquo;s plant-book. A portable dictionary of plants, their classification and uses. 3ra. edic. Cambridge University Press, Londres. 1040 p.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> MDSP (Ministerio de Desarrollo Sostenible y Planificaci&oacute;n). 2001. Estrategia nacional de conservaci&oacute;n y uso sostenible de la biodiversidad. La Paz. 193 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080216&pid=S1605-2528201400010000200034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Meneses, R.I., Mercado M &amp; D. Delgado. 2012. <i>Deyeuxia hirsuta</i>. pp. 27-28. En: Navarro, G., S. Arr&aacute;zola, M. Atahuachi, N. De la Barra, M. Mercado, W. Ferreira &amp; M. Moraes (eds.) Libro Rojo de la Flora Amenazada de Bolivia. Vol. I. Zona Andina, Ministerio de Medio Ambiente y Agua, La Paz.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080217&pid=S1605-2528201400010000200035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mercado, M. R.I. Meneses &amp; D. Delgado. 2012. <i>Dissanthelium trollii</i>. pp. 29-30. En:    Navarro, G., S. Arr&aacute;zola, M. Atahuachi, N. De la Barra, M. Mercado, W. Ferreira &amp; M. Moraes (eds.) Libro Rojo de la Flora Amenazada de Bolivia Vol. I. Zona Andina, Ministerio de Medio Ambiente y Agua, La Paz.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080218&pid=S1605-2528201400010000200036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Molina, A. M. &amp; Z. E. R&uacute;golo de Agrasar (eds.). 2006. Familia gram&iacute;neas. Flora chaque&ntilde;a, Argentina (Formosa, Chaco y Santiago del Estero). Colecci&oacute;n Cient&iacute;fica del Instituto Nacional de Tecnolog&iacute;a Agropecuaria (INTA), Ediciones INTA, Buenos Aires. 848 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080219&pid=S1605-2528201400010000200037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Morello, J. 1958. La provincia fitogeogr&aacute;fica del Monte. Opera Lilloana 2: 1-155.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080220&pid=S1605-2528201400010000200038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Moraes R., M., R&iacute;os-Uzeda, B, Moreno, L.R., Huanca-Huarachi, G. &amp; D. Larrea-Alc&aacute;zar. 2014. Using potential distribution models for patterns of species richness, endemism, and phytogeography of palm species in Bolivia. Tropical Conservation Science 7: 45-60.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Mota, A. C., I. Jim&eacute;nez, R.P. Oliveira &amp; L. G. Clark. 2014. <i>Chusquea yungasensis</i> (Bambusoideae, Poaceae): a new species of woody bamboo from South America and the first record of <i>Rettbergia</i> in Bolivia. Phytotaxa 161: 211-218.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> M&uuml;ller, R., C. Nowicki, W. Barthlott &amp; P. L. Ibisch. 2003. Biodiversity and endemism mapping as a tool for regional conservation planning &ndash; case study of the Pleurothallidinae (Orchidaceae) of the Andean rain forests in Bolivia. Biodiversity and Conservation 12: 2005-2024.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Navarro, G. 2011. Clasificaci&oacute;n de la vegetaci&oacute;n de Bolivia. Centro de Ecolog&iacute;a Difusi&oacute;n Sim&oacute;n I. Pati&ntilde;o, Santa Cruz.713 p.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Navarro, G. &amp; W. Ferreira. 2011. Mapa de sistemas ecol&oacute;gicos de Bolivia. Escala 1:250.000, CD Interactivo. Consorcio para el Desarrollo Sostenible de la Ecorregi&oacute;n Andina (CONDESAN), The Nature Conservancy (TNC), NatureServe, Rumbol ltda., Cochabamba.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080225&pid=S1605-2528201400010000200043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Navarro, G. &amp; W. Ferreira. 2009. Biogeograf&iacute;a de Bolivia. pp. 23-39. En: Moraes R., M., B. Mostacedo &amp; S. Altamirano (eds.) Libro Rojo de Parientes Silvestres de Cultivos de Bolivia, Viceministerio de Medio Ambiente, Biodiversidad y Cambio Clim&aacute;tico (VMABCC), Bioversity, Plural Editores, La Paz.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080226&pid=S1605-2528201400010000200044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Navarro, G., S. Arr&aacute;zola, M. Atahuachi, N. De la Barra, M. Mercado, W. Ferreira &amp; M. Moraes (eds.). 2012. Libro rojo de la flora amenazada de Bolivia. Vol. I. Zona Andina, Ministerio de Medio Ambiente y Agua, La Paz. 600 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080227&pid=S1605-2528201400010000200045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Nicora, E. G. &amp; Z. E. R&uacute;golo de Agrasar. 1987. Los g&eacute;neros de gram&iacute;neas de Am&eacute;rica Austral. Editorial Hemisferio Sur, Buenos Aires. 611 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Novara, L. J. 2003. Cat&aacute;logo de la flora de la Puna en el noroeste argentino. Aportes Bot&aacute;nica. Salta, Series Miscel&aacute;neas 2: 1-56.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ortega-Huerta, M.A. &amp; A.T. Peterson. 2004. Modelling spatial patterns of biodiversity for conservation prioritization in north-eastern Mexico. Diversity and Distributions 10: 39-54.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Overton, J. McC., R. T. Stephens &amp; J. R. Leathwick. 2002. Information pyramids for informed biodiversity conservation. Biodiversity and Conservation 11: 2093-2116.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Pearson, R. G., C. J. Raxworthy, M. Nakamura &amp; A. T. Peterson. 2007. Predicting species distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar. Journal of Biogeography 34:102&ndash;117.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Pestalozzi, H.U. 1998. Flora ilustrada altoandina. Herbario Nacional de Bolivia &ndash; Herbario Forestal Nacional Mart&iacute;n C&aacute;rdenas. M &amp; C editores, Cochabamba. 244 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Peterson, P., R. Soreng, G. Davidse, T. Filgueiras, F. Zuloaga &amp; E. Judziewics. 2001. Catalogue of new world grasses (Poaceae): II. Subfamily Chloridoideae. Contribution from the United States National Herbarium 41: 1-255.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Phillips, S. J., R. P. Anderson &amp; R. E. Schapired. 2006. Maximum entropy modeling of species geograp-hic distributions. Ecological Modelling 190:231&ndash;259.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Refulio-Rodr&iacute;guez, N., J. T. Columbus, L. J. Gillespie, P. M. Peterson &amp; R. J. Soreng. 2012. Molecular phylogeny of <i>Dissanthelium</i> (Poaceae: Pooideae) and its taxonomic implications. Systematic Botany 37: 122&ndash;133.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Renvoize, S. A. 1998. Gram&iacute;neas de Bolivia. Royal Botanic Gardens, Kew. 644 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> R&uacute;golo de Agrasar, Z. E. &amp; M. L. Puglia. 2004. Gram&iacute;neas ornamentales. pp. 1-336. En: Hurrel, J. A. (ed.) Plantas de la Argentina. Silvestres y cultivadas. Editorial LOLA, Buenos Aires.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> R&uacute;golo de Agrasar, Z. E. 2006. Las especies del g&eacute;nero <i>Deyeuxia</i> (Poaceae, Poiideae) de la Argentina y notas nomenclaturales. Darwiniana 44: 131&ndash;293.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ru&iacute;z-Sanchez, E., V. Sosa &amp; M. T. Mej&iacute;a-Saules. 2008. Phylogenetics of <i>Otatea</i> inferred from morphology and chloroplast DNA sequence data and recircumscription of Guaduinae (Poaceae: Bambusoideae). Systematic Botany 33: 277-283.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> S&aacute;nchez-Ken, G. J., L. G. Clark, E. A. Kellogg &amp; E. E. Kay. 2007. Reinstatement and emendation of the subfamily Micrairoideae (Poaceae). Systematic Botany 32: 71-80.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Simon, B. K. 2007. GrassWorld &ndash; interactive key and information system of world grasses. Kew Bulletin 62: 475-484.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> S&oslash;reng, R. &amp; J. Davis. 1998. Phylogenetics and character evolution in the grass family (Poaceae): simultaneous analysis of morphological and chloroplast DNA restriction site character sets. Botanical Review 64: 1-85.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> S&oslash;reng, R., P. Peterson, G. Davidse, E. Judziewics, F. Zuloaga, T. Filgueiras &amp; O. Morrone. 2003. Catalogue of new world grasses (Poaceae): IV. Subfamily Pooideae. Contribution from the United States National Herbarium 48: 1-730.</font></p>     <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Villavicencio, X. 1995. Revision der Gattung <i>Deyeuxia</i> in Bolivien. Tesis doctoral, Naturwissenschaften Fachbereich Biologie, Freien Universit&auml;t Berlin, Berlin. 304 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=080245&pid=S1605-2528201400010000200063&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Watson, L. &amp; M. J. Dallwitz. 1992. The grass genera of the world. CAB International, Wallingford. 1038 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Wood, J. R. I. 2010. Libro rojo de las plantas de los cerrados del oriente boliviano. Darwin Initiative, Museo de Historia Natural Noel Kempff Mercado, Santa Cruz. 153 p.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Zuloaga, F., O. Morrone, G. Davidse, T. Filgueiras, P. Peterson, R. Soreng &amp; E. Judziewics. 2003. Catalogue of new world grasses (Poaceae): III. Subfamilies Panicoideae, Aristidoideae, Arundinoideae, and Danthonioideae. Contribution from the United States National Herbarium 46: 1-662.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Zuloaga, F., Z. E. R&uacute;golo &amp; A.M. Anton (eds.).2012. Flora vascular de la Rep&uacute;blica Argentina. Volumen 3, Instituto Multidisciplinario de Biolog&iacute;a Vegetal, CONYCET, Universidad Nacional de C&oacute;rdoba, C&oacute;rdoba. 3600 p. </font></p>     <p align="justify">&nbsp;</p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Enero de 2014. <br />   Aceptado en: Abril de 2014.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<collab>APG (Angiosperm Phylogeny Group)</collab>
+<article-title xml:lang="en"><![CDATA[An ordinal classification for the families of flowering plants]]></article-title>
+<source><![CDATA[Annals of the Missouri Botanical Garden]]></source>
+<year>1998</year>
+<numero>85</numero>
+<issue>85</issue>
+<page-range>531-553</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Araujo]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prioridades de conservación de la biodiversidad de Bolivia]]></source>
+<year>2010</year>
+<publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Amigos de la Naturaleza (FAN), Asociación Boliviana de Conservación (TROPICO), Centro de Estudios y Proyectos (CEP), Agencia Nórdica para el Desarrollo y la Ecología (NORDECO), Servicio Nacional de Áreas Protegidas (SERNAP), Fondo Mundial para el Medio Ambiente (GEF), Conservación Internacional (CI), The Nature Conservancy (TNC), Wildlife Conservation Society (WCS), Universidad de Eberswalde. Editorial FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>1</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="de"><![CDATA[Vegetationsökologische Grundlagen der Viehwirtschaft in den Überschwemmungs-Savannen des Rio Yacuma (Departamento Beni, Bolivien)]]></article-title>
+<source><![CDATA[Dissertationes Botanicae]]></source>
+<year>1983</year>
+<numero>80</numero>
+<issue>80</issue>
+<page-range>1-213</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Ecología y fitogeografía de las gramíneas de Bolivia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Renvoize]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gramíneas de Bolivia]]></source>
+<year>1998</year>
+<page-range>1-11</page-range><publisher-name><![CDATA[Royal Botanic Gardens]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Llanos de Mojos region]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Davis]]></surname>
+<given-names><![CDATA[S.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Heywood]]></surname>
+<given-names><![CDATA[V.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrera-MacBryde]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villa-Lobos]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hamilton]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Centers of plant diversity: The Americas]]></source>
+<year>1997</year>
+<volume>3</volume>
+<page-range>421-425</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[WWF, IUCN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Características biológicas generales de la llanura del Beni]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibañez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diversidad Biológica en la Llanura de Inundación del Río Mamoré. Importancia Ecológica de la Dinámica Fluvial]]></source>
+<year>2004</year>
+<page-range>27-75</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación Simón I. Patiño]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bouchenak-Khelladi]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Verboom]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Savolainen]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hodkinson]]></surname>
+<given-names><![CDATA[T.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biogeography of the grasses (Poaceae): a phylogenetic approach to reveal evolutionary history in geographical space and geological time]]></article-title>
+<source><![CDATA[Botanical Journal of the Linnean Society]]></source>
+<year>2010</year>
+<numero>162</numero>
+<issue>162</issue>
+<page-range>543-557</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Campbell]]></surname>
+<given-names><![CDATA[C.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kellogg]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Sister group relationships of the Poaceae]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Soderstrom]]></surname>
+<given-names><![CDATA[T. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hilu]]></surname>
+<given-names><![CDATA[K.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Campbell]]></surname>
+<given-names><![CDATA[C.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barkworth]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Grass Systematics and Evolution]]></source>
+<year>1987</year>
+<page-range>217-224</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zhang]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wendel]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A phylogeny of the grass family (Poaceae) based on ndhF sequence data]]></article-title>
+<source><![CDATA[Systematic Botanic]]></source>
+<year>1995</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>436-460</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diversity, biogeography and evolution of Chusquea]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Chapman]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Bamboos]]></source>
+<year>1997</year>
+<page-range>33-44</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clayton]]></surname>
+<given-names><![CDATA[W.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renvoize]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Genera graminum. Grasses of the world]]></source>
+<year>1986</year>
+<page-range>389</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Her Majesty´s Stationery Office]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<collab>CDB (Convenio de Diversidad Biológica)</collab>
+<source><![CDATA[Plan estratégico para la diversidad 2011-2020 y las metas de Aichi]]></source>
+<year>2011</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cronquist]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An integrated system of classification of flowering plants]]></source>
+<year>1981</year>
+<page-range>1262</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dahlgren]]></surname>
+<given-names><![CDATA[R.M.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clifford]]></surname>
+<given-names><![CDATA[H.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yeo]]></surname>
+<given-names><![CDATA[P.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The families of the monocotyledons]]></source>
+<year>1985</year>
+<page-range>500</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Doyle]]></surname>
+<given-names><![CDATA[J.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davis]]></surname>
+<given-names><![CDATA[J.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soreng]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garvin]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Chloroplast DNA inversions and the origin of the grass family (Poaceae)]]></article-title>
+<source><![CDATA[Proceedings of the National Academy of Sciences of the United States of America]]></source>
+<year>1992</year>
+<numero>89</numero>
+<issue>89</issue>
+<page-range>7722-7726</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ferreir]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guisan]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial modelling of biodiversity at the community level]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>2006</year>
+<numero>43</numero>
+<issue>43</issue>
+<page-range>393-404</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Good]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The geography of the flowering plants]]></source>
+<year>1974</year>
+<page-range>557</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Longman Group]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<collab>GPWG (Grass Phylogeny Working Group)</collab>
+<article-title xml:lang="en"><![CDATA[Phylogeny and subfamilial classification of the grasses (Poaceae)]]></article-title>
+<source><![CDATA[Annals of the Missouri Botanical Garden]]></source>
+<year>2001</year>
+<numero>88</numero>
+<issue>88</issue>
+<page-range>373-457</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Haase]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Structure and composition of savanna vegetation in northern Bolivia: a preliminary report]]></article-title>
+<source><![CDATA[Brittonia]]></source>
+<year>1989</year>
+<numero>41</numero>
+<issue>41</issue>
+<page-range>80-100</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hengeveld]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Impact of biogeography on a population-biological paradigm shift]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>1997</year>
+<numero>24</numero>
+<issue>24</issue>
+<page-range>541-547</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hernández]]></surname>
+<given-names><![CDATA[P.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Franke]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Paniagua]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quintana]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soto]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Swenson]]></surname>
+<given-names><![CDATA[J.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tovar]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valqui]]></surname>
+<given-names><![CDATA[T.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Young]]></surname>
+<given-names><![CDATA[B.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Predicting species distributions in poorly-studied landscapes]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2008</year>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>1353-1366</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hijmans]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Camerón]]></surname>
+<given-names><![CDATA[S.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parra]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jones]]></surname>
+<given-names><![CDATA[P.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jarvis]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Very high resolution interpolated climate surface for global land areas]]></article-title>
+<source><![CDATA[International Journal of Climatology]]></source>
+<year>2005</year>
+<numero>25</numero>
+<issue>25</issue>
+<page-range>1965-1978</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ulloa Ulloa]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[León]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[León-Yánez]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nee]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zarucchi]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Celis]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bernal]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gradstein]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regional patterns of vascular plant diversity and endemism]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martínez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[P. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tiessen]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Climate Change and Biodiversity in the Tropical Andes]]></source>
+<year>2011</year>
+<page-range>192-203</page-range><publisher-loc><![CDATA[São José dos Campos ]]></publisher-loc>
+<publisher-name><![CDATA[Inter-American Institute for Global Change Research (IAI) and Scientific Committee on Problems of the Environment (SCOPE)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Judziewicz]]></surname>
+<given-names><![CDATA[E.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Londoño]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stern]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[American bamboos]]></source>
+<year>1999</year>
+<page-range>392</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Judziewicz]]></surname>
+<given-names><![CDATA[E.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soreng]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davidse]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Filgueiras]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuloaga]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Catalogue of New World Grasses (Poaceae): I. Subfamilies Anomochlooideae, Bambusoideae, Ehrhartoideae, and Pharoideae]]></article-title>
+<source><![CDATA[Contribution from the United States National Herbarium]]></source>
+<year>2000</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>1-128</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Judziewicz]]></surname>
+<given-names><![CDATA[E.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shea]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wayda]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Two new Bolivian species of Aulonemia (Poaceae: Bambusoideae: Bambuseae)]]></article-title>
+<source><![CDATA[Journal of Botanical Research Institute of Texas]]></source>
+<year>2010</year>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>569-579</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hinz]]></surname>
+<given-names><![CDATA[P.N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Grasses of the Precambrian Shield region in eastern lowland Bolivia. II. Life-form and C3 and C4 photosynthetic types]]></article-title>
+<source><![CDATA[Journal of Tropical Ecology]]></source>
+<year>1992</year>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>409-433</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kellogg]]></surname>
+<given-names><![CDATA[E. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Linder]]></surname>
+<given-names><![CDATA[H. P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phylogeny of Poales]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Rudall]]></surname>
+<given-names><![CDATA[P. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cribb]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cutler]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Humphries]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Monocotyledons: Systematics and Evolution]]></source>
+<year>1995</year>
+<page-range>511-542</page-range><publisher-loc><![CDATA[Kew ]]></publisher-loc>
+<publisher-name><![CDATA[Royal Botanic Gardens]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Diversidad florística y endemismo de los valles secos bolivianos]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2003</year>
+<numero>38</numero>
+<issue>38</issue>
+<page-range>27-60</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phytogeographical affinities and life form composition of the Bolivian prepuna]]></article-title>
+<source><![CDATA[Candollea]]></source>
+<year>2002</year>
+<numero>57</numero>
+<issue>57</issue>
+<page-range>77-96</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zambrana-Torrelio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Representation of Andean dry ecoregions in the protected areas of Bolivia: the situation in relation to the new phytogeographical findings]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2006</year>
+<numero>15</numero>
+<issue>15</issue>
+<page-range>2163-2175</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Luebert]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Becerra]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Representatividad vegetacional del Sistema Nacional de Áreas Silvestres Protegidas del Estado (Snaspe) en Chile]]></article-title>
+<source><![CDATA[Ciencia y Ambiente]]></source>
+<year>1998</year>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>62-69</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[D.J]]></surname>
+<given-names><![CDATA[Mabberley]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mabberley&rsquo;s plant-book. A portable dictionary of plants, their classification and uses]]></source>
+<year>2008</year>
+<page-range>1040</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<collab>MDSP (Ministerio de Desarrollo Sostenible y Planificación)</collab>
+<source><![CDATA[Estrategia nacional de conservación y uso sostenible de la biodiversidad]]></source>
+<year>2001</year>
+<page-range>193</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delgado]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Deyeuxia hirsuta]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arrázola]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Atahuachi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De la Barra]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro Rojo de la Flora Amenazada de Bolivia]]></source>
+<year>2012</year>
+<volume>I</volume>
+<page-range>27-28</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Medio Ambiente y Agua]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delgado]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Dissanthelium trollii]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arrázola]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Atahuachi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De la Barra]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro Rojo de la Flora Amenazada de Bolivia]]></source>
+<year>2012</year>
+<volume>I</volume>
+<page-range>29-30</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Medio Ambiente y Agua]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Molina]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rúgolo de Agrasar]]></surname>
+<given-names><![CDATA[Z. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Familia gramíneas. Flora chaqueña, Argentina (Formosa, Chaco y Santiago del Estero)]]></source>
+<year>2006</year>
+<page-range>848</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Ediciones INTA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[J]]></surname>
+<given-names><![CDATA[Morello]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La provincia fitogeográfica del Monte]]></article-title>
+<source><![CDATA[Opera Lilloana]]></source>
+<year>1958</year>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-155</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ríos-Uzeda]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moreno]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huanca-Huarachi]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using potential distribution models for patterns of species richness, endemism, and phytogeography of palm species in Bolivia]]></article-title>
+<source><![CDATA[Tropical Conservation Science]]></source>
+<year>2014</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>45-60</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mota]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jiménez]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Chusquea yungasensis (Bambusoideae, Poaceae): a new species of woody bamboo from South America and the first record of Rettbergia in Bolivia]]></article-title>
+<source><![CDATA[Phytotaxa]]></source>
+<year>2014</year>
+<numero>161</numero>
+<issue>161</issue>
+<page-range>211-218</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barthlott]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity and endemism mapping as a tool for regional conservation planning - case study of the Pleurothallidinae (Orchidaceae) of the Andean rain forests in Bolivia]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2003</year>
+<numero>12</numero>
+<issue>12</issue>
+<page-range>2005-2024</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Clasificación de la vegetación de Bolivia]]></source>
+<year>2011</year>
+<page-range>713</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Ecología Difusión Simón I. Patiño]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mapa de sistemas ecológicos de Bolivia. Escala 1:250.000]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[Consorcio para el Desarrollo Sostenible de la Ecorregión Andina (CONDESAN), The Nature Conservancy (TNC), NatureServe, Rumbol ltda.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Biogeografía de Bolivia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Moraes R.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mostacedo]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Altamirano]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro Rojo de Parientes Silvestres de Cultivos de Bolivia]]></source>
+<year>2009</year>
+<page-range>23-39</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Viceministerio de Medio Ambiente, Biodiversidad y Cambio Climático (VMABCC), Bioversity, Plural Editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arrázola]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Atahuachi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De la Barra]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moraes]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro rojo de la flora amenazada de Bolivia]]></source>
+<year>2012</year>
+<volume>I</volume>
+<page-range>600</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Medio Ambiente y Agua]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nicora]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rúgolo de Agrasar]]></surname>
+<given-names><![CDATA[Z.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Los géneros de gramíneas de América Austral]]></source>
+<year>1987</year>
+<page-range>611</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Hemisferio Sur]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Novara]]></surname>
+<given-names><![CDATA[L.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Catálogo de la flora de la Puna en el noroeste argentino]]></article-title>
+<source><![CDATA[Aportes Botánica. Salta, Series Misceláneas]]></source>
+<year>2003</year>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>1-56</page-range></nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ortega-Huerta]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[A.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Modelling spatial patterns of biodiversity for conservation prioritization in north-eastern Mexico]]></article-title>
+<source><![CDATA[Diversity and Distributions]]></source>
+<year>2004</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>39-54</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Overton]]></surname>
+<given-names><![CDATA[J. McC.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stephens]]></surname>
+<given-names><![CDATA[R.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leathwick]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Information pyramids for informed biodiversity conservation]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2002</year>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>2093-2116</page-range></nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Raxworthy]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nakamura]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[A.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Predicting species distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2007</year>
+<numero>34</numero>
+<issue>34</issue>
+<page-range>102-117</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pestalozzi]]></surname>
+<given-names><![CDATA[H.U.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Flora ilustrada altoandina. Herbario Nacional de Bolivia - Herbario Forestal Nacional Martín Cárdenas]]></source>
+<year>1998</year>
+<page-range>244</page-range><publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[M & C editores]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soreng]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davidse]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Filgueiras]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuloaga]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Judziewics]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Catalogue of new world grasses (Poaceae): II. Subfamily Chloridoideae]]></article-title>
+<source><![CDATA[Contribution from the United States National Herbarium]]></source>
+<year>2001</year>
+<numero>41</numero>
+<issue>41</issue>
+<page-range>1-255</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Phillips]]></surname>
+<given-names><![CDATA[S.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schapired]]></surname>
+<given-names><![CDATA[R.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Maximum entropy modeling of species geograp-hic distributions]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2006</year>
+<numero>190</numero>
+<issue>190</issue>
+<page-range>231-259</page-range></nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Refulio-Rodríguez]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Columbus]]></surname>
+<given-names><![CDATA[J.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gillespie]]></surname>
+<given-names><![CDATA[L.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soreng]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Molecular phylogeny of Dissanthelium (Poaceae: Pooideae) and its taxonomic implications]]></article-title>
+<source><![CDATA[Systematic Botany]]></source>
+<year>2012</year>
+<numero>37</numero>
+<issue>37</issue>
+<page-range>122-133</page-range></nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Renvoize]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gramíneas de Bolivia]]></source>
+<year>1998</year>
+<page-range>644</page-range><publisher-loc><![CDATA[Kew ]]></publisher-loc>
+<publisher-name><![CDATA[Royal Botanic Gardens]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rúgolo de Agrasar]]></surname>
+<given-names><![CDATA[Z.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Puglia]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Gramíneas ornamentales]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Hurrel]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Plantas de la Argentina. Silvestres y cultivadas]]></source>
+<year>2004</year>
+<page-range>1-336</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial LOLA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rúgolo de Agrasar]]></surname>
+<given-names><![CDATA[Z.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Las especies del género Deyeuxia (Poaceae, Poiideae) de la Argentina y notas nomenclaturales]]></article-title>
+<source><![CDATA[Darwiniana]]></source>
+<year>2006</year>
+<numero>44</numero>
+<issue>44</issue>
+<page-range>131-293</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ruíz-Sanchez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sosa]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mejía-Saules]]></surname>
+<given-names><![CDATA[M.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phylogenetics of Otatea inferred from morphology and chloroplast DNA sequence data and recircumscription of Guaduinae (Poaceae: Bambusoideae)]]></article-title>
+<source><![CDATA[Systematic Botany]]></source>
+<year>2008</year>
+<numero>33</numero>
+<issue>33</issue>
+<page-range>277-283</page-range></nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sánchez-Ken]]></surname>
+<given-names><![CDATA[G.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kellogg]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kay]]></surname>
+<given-names><![CDATA[E.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reinstatement and emendation of the subfamily Micrairoideae (Poaceae)]]></article-title>
+<source><![CDATA[Systematic Botany]]></source>
+<year>2007</year>
+<numero>32</numero>
+<issue>32</issue>
+<page-range>71-80</page-range></nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Simon]]></surname>
+<given-names><![CDATA[B.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[GrassWorld - interactive key and information system of world grasses]]></article-title>
+<source><![CDATA[Kew Bulletin]]></source>
+<year>2007</year>
+<numero>62</numero>
+<issue>62</issue>
+<page-range>475-484</page-range></nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Søreng]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davis]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phylogenetics and character evolution in the grass family (Poaceae): simultaneous analysis of morphological and chloroplast DNA restriction site character sets]]></article-title>
+<source><![CDATA[Botanical Review]]></source>
+<year>1998</year>
+<numero>64</numero>
+<issue>64</issue>
+<page-range>1-85</page-range></nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Søreng]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davidse]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Judziewics]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zuloaga]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Filgueiras]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morrone]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Catalogue of new world grasses (Poaceae): IV. Subfamily Pooideae]]></article-title>
+<source><![CDATA[Contribution from the United States National Herbarium]]></source>
+<year>2003</year>
+<numero>48</numero>
+<issue>48</issue>
+<page-range>1-730</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Villavicencio]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Revision der Gattung Deyeuxia in Bolivien]]></source>
+<year>1995</year>
+<page-range>304</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Watson]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dallwitz]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The grass genera of the world]]></source>
+<year>1992</year>
+<page-range>1038</page-range><publisher-loc><![CDATA[Wallingford ]]></publisher-loc>
+<publisher-name><![CDATA[CAB International]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Word]]></surname>
+<given-names><![CDATA[J.R.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro rojo de las plantas de los cerrados del oriente boliviano]]></source>
+<year>2010</year>
+<page-range>153</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Darwin Initiative, Museo de Historia Natural Noel Kempff Mercado]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zuloaga]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morrone]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davidse]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Filgueiras]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soreng]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Judziewics]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Catalogue of new world grasses (Poaceae): III. Subfamilies Panicoideae, Aristidoideae, Arundinoideae, and Danthonioideae]]></article-title>
+<source><![CDATA[Contribution from the United States National Herbarium]]></source>
+<year>2003</year>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>1-662</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zuloaga]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rúgolo]]></surname>
+<given-names><![CDATA[Z.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anton]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Flora vascular de la República Argentina]]></source>
+<year>2012</year>
+<volume>3</volume>
+<page-range>3600</page-range><publisher-loc><![CDATA[Córdoba ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Multidisciplinario de Biología Vegetal, CONYCET, Universidad Nacional de Córdoba]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282006000700005</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Comparación de modelos de distribución de especies para predecir la distribución potencial de vida silvestre en Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[A comparison of species distribution models to predict wildlife's potential distribution in Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Naoki]]></surname>
+<given-names><![CDATA[Kazuya]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[M. Isabel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[Ramiro P.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa I.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[Julieta]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Museo Nacional de Historia Natural  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Asociación Armonía  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Herbario Nacional de Bolivia  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>07</month>
+<year>2006</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>07</month>
+<year>2006</year>
+</pub-date>
+<volume>41</volume>
+<numero>1</numero>
+<fpage>65</fpage>
+<lpage>78</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282006000700005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282006000700005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282006000700005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los modelos de distribución de especies basados en un sistema de información geográfica son herramientas útiles para predecir la distribución potencial de las especies y ayudar a tomar decisiones tentativas en la conservación. Actualmente existen varios modelos que tienden a predecir distribuciones significativamente distintas. El objetivo de este estudio es comparar la eficiencia y exactitud de cuatro modelos comúnmente utilizados por biólogos (BIOCLIM, DOMAIN, GARP y regresión logística) en la predicción de la distribución potencial de tres especies de vida silvestre en Bolivia. El modelo DOMAIN, que utiliza el índice de similitud, mostró el mejor rendimiento. La predicción tiende a ser mejor para las especies especialistas de hábitat que para las generalistas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Species distribution models based on geographical information system are powerful tools to predict the potential distribution of species and to help in taking tentative decisions in conservation. Currently several models are available for biologists; however, these models tend to predict significantly different distributions. The objective of this study is to compare the efficiency and accuracy of four commonly used species distribution models (BIOCLIM, DOMAIN, GARP, and logistic regression) to predict the distribution of three wildlife species in Bolivia. The model DOMAIN that uses a similarity index showed the best performance. The prediction tends to be better for habitat specialist species than to generalists.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Modelos de distribución de especies]]></kwd>
+<kwd lng="es"><![CDATA[sistema de información geográfica]]></kwd>
+<kwd lng="es"><![CDATA[BIOCLIM - DOMAIN - GARP - regresión logística]]></kwd>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[Species distribution models]]></kwd>
+<kwd lng="en"><![CDATA[geographical information system]]></kwd>
+<kwd lng="en"><![CDATA[BIOCLIM - DOMAIN - GARP - logistic regression]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Comparaci&oacute;n de modelos de distribuci&oacute;n de especies para predecir la distribuci&oacute;n potencial de vida silvestre en Bolivia </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>A comparison of species distribution models to predict wildlife's potential distribution in Bolivia </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Kazuya Naoki<Sup>1*</Sup>, M. Isabel G&oacute;mez<Sup>2, 3</Sup>, Ramiro P. L&oacute;pez<Sup>4</Sup>,  Rosa I. Meneses<Sup>2,4</Sup> &amp; Julieta Vargas<Sup><Sup>2 </Sup></Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Instituto de Ecolog&iacute;a, Universidad Mayor de San Andr&eacute;s, Casilla 6394, Correo Central,  La Paz, Bolivia. e-mail: <a href="mailto:knaoki@entelnet.bo">knaoki@entelnet.bo</a>, autor de correspondencia </font>    <br> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>2</Sup>Museo Nacional de Historia Natural, Casilla 8706, La Paz, Bolivia. </font>    ]]></body>
+<body><![CDATA[<br> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>3</Sup>Asociaci&oacute;n Armon&iacute;a, Casilla 3566, Santa Cruz de la Sierra, Bolivia. <Sup>4</Sup>Herbario Nacional de Bolivia, Casilla 10077, La Paz, Bolivia. </font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b> </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los modelos de distribuci&oacute;n de especies basados en un sistema de informaci&oacute;n geogr&aacute;fica son herramientas &uacute;tiles para predecir la distribuci&oacute;n potencial de las especies y ayudar a tomar decisiones tentativas en la conservaci&oacute;n. Actualmente existen varios modelos que tienden a predecir distribuciones significativamente distintas. El objetivo de este estudio es comparar la eficiencia y exactitud de cuatro modelos com&uacute;nmente utilizados por bi&oacute;logos (BIOCLIM, DOMAIN, GARP y regresi&oacute;n log&iacute;stica) en la predicci&oacute;n de la distribuci&oacute;n potencial de tres especies de vida silvestre en Bolivia. El modelo DOMAIN, que utiliza el &iacute;ndice de similitud, mostr&oacute; el mejor rendimiento. La predicci&oacute;n tiende a ser mejor para las especies especialistas de h&aacute;bitat que para las generalistas. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras clave:</b> Modelos de distribuci&oacute;n de especies, sistema de informaci&oacute;n geogr&aacute;fica, BIOCLIM - DOMAIN - GARP - regresi&oacute;n log&iacute;stica, Bolivia </font></P > <hr noshade>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Species distribution models based on geographical information system are powerful tools to predict the potential distribution of species and to help in taking tentative decisions in conservation. Currently several models are available for biologists; however, these models tend to predict significantly different distributions. The objective of this study is to compare the efficiency and accuracy of four commonly used species distribution models (BIOCLIM, DOMAIN, GARP, and logistic regression) to predict the distribution of three wildlife species in Bolivia. The model DOMAIN that uses a similarity index showed the best performance. The prediction tends to be better for habitat specialist species than to generalists. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words:</b> Species distribution models, geographical information system, BIOCLIM - DOMAIN - GARP - logistic regression, Bolivia </font></P > <hr noshade>     <P   align="center" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La b&uacute;squeda de los factores que determinan la distribuci&oacute;n de los organismos ha sido una de las metas centrales de la ecolog&iacute;a. Se conoce que varios factores abi&oacute;ticos y bi&oacute;ticos, tales como precipitaci&oacute;n, temperatura, evapotranspiraci&oacute;n, competencia y depredaci&oacute;n interact&uacute;an y limitan la distribuci&oacute;n de cada especie (Krebs 2001, Molles 2002). En las &uacute;ltimas tres d&eacute;cadas, el estudio de la distribuci&oacute;n ha diversificado su enfoque desde de preguntas netamente cient&iacute;ficas a las m&aacute;s pr&aacute;cticas para la conservaci&oacute;n. Este cambio es una de las respuestas de la comunidad cient&iacute;fica a la acelerada degradaci&oacute;n de los h&aacute;bitats naturales y a la extinci&oacute;n de las especies (Groom et al. 2006). Actualmente se considera que la mayor parte de la biodiversidad en el mundo se encuentra en los pa&iacute;ses tropicales y es en esta zona, donde la tasa de p&eacute;rdida de biodiversidad ha aumentado a un nivel preocupante en los &uacute;ltimos cincuenta a&ntilde;os (Primack et al. 2001). Por tanto, una de las prioridades en estos pa&iacute;ses es el establecimiento y manejo adecuado de las zonas protegidas para la conservaci&oacute;n de la megabiodiversidad (Olson &amp; Dinerstein 1998, Myers et al. 2000, Sechrest et al. 2002). Sin embargo, se conoce poco sobre la distribuci&oacute;n de la mayor&iacute;a de las especies en los tr&oacute;picos y esta falta de informaci&oacute;n es un dilema para quienes tienen que tomar decisiones sobre la conservaci&oacute;n y el manejo de la vida silvestre en estos pa&iacute;ses (da Fonseca et al. 2000). Uno de los m&eacute;todos para resolver este dilema es utilizar modelos de distribuci&oacute;n de especies (SDMs en ingl&eacute;s) y los sistemas de informaci&oacute;n geogr&aacute;fica. Un modelo de distribuci&oacute;n de especies establece una distribuci&oacute;n potencial de la especie, la cual ayuda a tomar una decisi&oacute;n de conservaci&oacute;n tentativa mientras se realice un estudio m&aacute;s intensivo y de largo plazo; tambi&eacute;n ayuda a dirigir el esfuerzo de la investigaci&oacute;n a un &aacute;rea definida. En los &uacute;ltimos 15 a&ntilde;os, se han desarrollado numerosos SDMs y su uso en el campo de la biolog&iacute;a ha aumentado dr&aacute;sticamente por la mejor disponibilidad de computadoras m&aacute;s eficaces y el m&aacute;s f&aacute;cil acceso a informaciones espaciales (Scott et al. 2002). </font></P >    <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estos modelos de distribuci&oacute;n de especies utilizan dos tipos de informaci&oacute;n (datos primarios y secundarios) para predecir la distribuci&oacute;n potencial de la especie o el tipo de vegetaci&oacute;n. Los datos primarios son los sitios de colecta u observaci&oacute;n de la especie de inter&eacute;s, los cuales se podr&iacute;an obtener de las bases de datos de colecciones cient&iacute;ficas o publicaciones. Los datos secundarios son la informaci&oacute;n de clima, topograf&iacute;a o medio ambiente obtenidos de sensores remotos, tales como NDVI (&iacute;ndice de vegetaci&oacute;n de diferencia estandarizada) del &aacute;rea donde se quiere predecir la distribuci&oacute;n de la especie de inter&eacute;s. Existen varios SDMs que utilizan diferentes algoritmos, tipo de datos primarios (localidades de presencia y/o ausencia) y tipo de datos secundarios. Estos modelos pueden agruparse en cuatro grupos principales, seg&uacute;n el algoritmo que se adopte. El algoritmo de &ldquo;Sobre&rdquo; utiliza un juego de datos secundarios de cada sitio para derivar un perfil de h&aacute;bitat adecuado en base a los l&iacute;mites observados para cada condici&oacute;n secundaria (Busby 1991). Los modelos, como BIOCLIM (Busby 1991) y Biomapper (Hirzel 2004), utilizan el algoritmo de &ldquo;Sobre&rdquo;. Este algoritmo tiende a sobrepredecir la distribuci&oacute;n, asignando localidades donde la combinaci&oacute;n de las condiciones son demasiado severas para la especie, aunque cada condici&oacute;n en s&iacute; est&aacute; dentro del rango de distribuci&oacute;n (Carpenter et al. 1993). Para evitar este problema, el segundo grupo de modelos - tales como DOMAIN (Carpenter et al. 1993) y BIOM (Nowicki et al. 2004) - utilizan el &iacute;ndice de similitud de las condiciones entre localidades donde la presencia de la especie es conocida y sitios cercanos. El tercer grupo utiliza un modelo estad&iacute;stico, uno linear que puede ser la regresi&oacute;n log&iacute;stica (LOGIT) o sus derivados (p.e., Cumming 2000, Fleishman et al. 2003). El cuarto grupo utiliza m&aacute;s de un algoritmo; en este grupo se encuentra GARP que utiliza la combinaci&oacute;n de cuatro algoritmos: at&oacute;mico, rango, rango negativo y regresi&oacute;n log&iacute;stica (Stockwell &amp; Noble 1991). </font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Uno de los problemas es que estos SDMs tienden a predecir distribuciones significativamente diferentes, tanto del &aacute;rea total como de la forma de la distribuci&oacute;n de la misma especie (Carpenter et al. 1993, Loiselle et al. 2003). Esta diferencia podr&iacute;a tener una consecuencia grave en la interpretaci&oacute;n de la ecolog&iacute;a de cada especie y en el plan de conservaci&oacute;n (Loiselle et al. 2003). Desafortunadamente, no existe un consenso de cu&aacute;l SDM tiene el mejor desempe&ntilde;o (B. Loiselle, com. pers. 2004). En Bolivia, varios algoritmos han sido utilizados para predecir la distribuci&oacute;n de la vida silvestre o el tipo de vegetaci&oacute;n (Mueller et al. 2002, 2003, Sommer et al. 2003, Fern&aacute;ndez 2004, M&uuml;ller et al. 2004, Zambrana 2004). Sin embargo, ning&uacute;n estudio utiliz&oacute; ni compar&oacute; m&aacute;s de un SDM. Por lo tanto, es una necesidad urgente establecer un procedimiento adecuado para predecir la distribuci&oacute;n de especies mediante los SDMs y mejorar los planes y estrategias de la conservaci&oacute;n de la vida silvestre de Bolivia. El objetivo de este estudio es comparar la eficiencia y exactitud de los cuatro SDMs m&aacute;s utilizados para predecir la distribuci&oacute;n de la vida silvestre en Bolivia. Para eso, se utiliz&oacute; un SDM para cada algoritmo: BIOCLIM, DOMAIN, regresi&oacute;n log&iacute;stica (LOGIT) y GARP. Para tener la generalidad del estudio y minimizar el sesgo de los resultados, se escogieron tres especies que pertenecen a diferentes grupos taxon&oacute;micos y presentan una historia natural y patr&oacute;n de distribuci&oacute;n muy distintos. </font></P >     <P align="justify"   >&nbsp;</P >     <P align="center"   ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos </b></font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Seg&uacute;n la disponibilidad de datos y diversidad del patr&oacute;n de distribuci&oacute;n fueron escogidas tres especies para el estudio. <I>Anairetes alpinus </I>(Tyrannidae, Passeriformes, Aves) es una especie peque&ntilde;a que habita en los bosques semih&uacute;medos de <I>Polylepis </I>en el sur de Per&uacute; y noroeste de Bolivia (Fjeldsa &amp; Krabbe 1990, Fitzpatrick 2004). En Bolivia, su distribuci&oacute;n est&aacute; limitada a fragmentos de bosque de <I>Polylepis pepei </I>en la Cordillera Real en el Depto. La Paz (<a href="#f1">Figura 1a</a>, M. I. G&oacute;mez in prep.). Siendo una especie estrechamente asociada a <I>Polylepis</I>, en un h&aacute;bitat que est&aacute; disminuyendo, actualmente se encuentra en la categor&iacute;a amenazada de la UICN (2004). <I>Schinopsis haenkeana </I>(Anacardiaceae, Sapindales, Magnoliopsida) es un &aacute;rbol com&uacute;n en regiones secas de los Andes de Bolivia y Argentina entre 1.000 y 2.300 m y frecuentemente se usa como un indicador de la vegetaci&oacute;n de los bosques secos interandinos (Ibisch &amp; M&eacute;rida 2003) o del Chaco serrano seco (Cabrera 1976, Novara 1985, L&oacute;pez 2003a, b). Su distribuci&oacute;n se extiende del sur de departamento de La Paz hasta Tarija (<a href="#f1">Figura 1b</a>). Es un especialista de h&aacute;bitat con distribuci&oacute;n moderadamente limitada y crece en lugares con precipitaciones al menos de 400 mm (Morello 1958) y que no exceden normalmente los 700 mm anuales. <I>Calomys callosus </I>(Muridae, Rodentia, Mammalia) es un roedor com&uacute;n con una distribuci&oacute;n regional desde el este y sudoeste del Brasil, Bolivia, Paraguay y norte de Argentina, siendo com&uacute;n en lugares abiertos. En Bolivia se distribuye ampliamente desde tierras bajas hasta 2.050 m en Bolivia (<a href="#f1">Figura 1c</a>, Anderson 1997). Existe reducida informaci&oacute;n sobre su h&aacute;bitat, h&aacute;bito, comportamiento o alimentaci&oacute;n (Anderson 1997); sin embargo, su amplia distribuci&oacute;n indica que es una especie generalista de h&aacute;bitat. Los datos primarios, localidades y coordenadas de A. alpinus fueron obtenidos mediante observaciones de campo y dos publicaciones (Fjeldsa &amp; Kessler 1996, Vogel &amp; Hennessey 2002). Los datos de <I>S. haenkeana </I>fueron obtenidos de las bases de datos del Herbario Nacional de Bolivia (LPB), Tropicos del Missouri Botanical Garden (MO) y observaciones de campo. Los datos de <I>C. callosus </I>fueron obtenidos de Anderson (1997).</font></P >     <P align="center"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v41n1/figura_a05_1.gif" width="577" height="548"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Diecinueve tipos de datos bioclim&aacute;ticos fueron obtenidos de la base de datos de WORLDCLIM (<a href="http://biogeo.berkeley.edu/worldclim/worldclim.html" target="_blank">http://biogeo.berkeley.edu/worldclim/worldclim.html</a>). El an&aacute;lisis de correlaci&oacute;n de Pearson fue realizado para encontrar los datos clim&aacute;ticos altamente correlacionados (r &gt; 0.9). Para reducir la redundancia de datos y acortar el tiempo de an&aacute;lisis, se eliminaron los datos clim&aacute;ticos redundantes. Ocho datos bioclim&aacute;ticos poco correlacionados fueron utilizados como entre los secundarios para la predicci&oacute;n de la distribuci&oacute;n potencial: temperatura media anual, rango de temperatura diurna, isotermalidad, estacionalidad de temperatura, precipitaci&oacute;n anual, precipitaci&oacute;n del mes m&aacute;s seco, estacionalidad de la precipitaci&oacute;n y la precipitaci&oacute;n de los cuatro meses m&aacute;s c&aacute;lidos,. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para evaluar el desempe&ntilde;o de cada SDM, se utilizaron cuatro &iacute;ndices: sensitividad, especificidad, poder predictivo positivo (PPP) y Kappa. Estos cuatro &iacute;ndices de prueba fueron calculados usando las siguientes ecuaciones: </font></P >     <P align="center"   ><img src="/img/revistas/reb/v41n1/ecuacion_a05_1.gif" width="286" height="118"></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Donde, <I><font face="Georgia, Times New Roman, Times, serif">a</font> </I>es el n&uacute;mero de registros presentes correctamente predichos como presentes, <I>b </I>es el n&uacute;mero de registros ausentes incorrectamente predichos como presentes, <I>c </I>es el n&uacute;mero de registros presentes incorrectamente predichos como ausentes, <I>d </I>es el n&uacute;mero de registros ausentes correctamente predichos como ausentes y <I>N </I>es el n&uacute;mero total de observaciones = <I><font face="Georgia, Times New Roman, Times, serif">a</font> + b + c + d</I>. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La sensitividad es la proporci&oacute;n de presencias correctamente predichas y su valor alto indica un bajo error de omisi&oacute;n (error de tipo I). La especificidad es la proporci&oacute;n de ausencias correctamente predichas y su valor alto indica un bajo error de comisi&oacute;n (error de tipo II). El PPP es la proporci&oacute;n de presencias correctamente predichas con relaci&oacute;n a todas las localidades, donde la presencia de la especie fue predicha (Parra et al. 2004). Kappa es un &iacute;ndice de desempe&ntilde;o global del modelo y est&aacute; definido como la precisi&oacute;n de la predicci&oacute;n en relaci&oacute;n a la predicci&oacute;n al azar. El valor alto de Kappa indica que la predicci&oacute;n tiene ambos errores bajos de omisi&oacute;n y comisi&oacute;n (Fielding &amp; Bell 1997). Estos cuatro &iacute;ndices var&iacute;an entre 0 y 1; cuanto m&aacute;s cerca de 1 est&eacute; el valor, significa un mejor desempe&ntilde;o del modelo. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para calcular estos &iacute;ndices, se realiz&oacute; un remuestreo de datos. Para eso, se escogieron aleatoriamente aproximadamente el 70% de las localidades de colecta u observaci&oacute;n de cada especie. Este 70% de localidades fue utilizado para generar una distribuci&oacute;n de prueba. El 30% restante de los registros fue usado para comprobar la precisi&oacute;n de la predicci&oacute;n de la presencia. Para comprobar la precisi&oacute;n de la predicci&oacute;n de la ausencia, se utilizaron 300 puntos de pseudoausencia generados aleatoriamente dentro de Bolivia. Este proceso de remuestreo fue repetido 10 veces para cada modelo y cada especie. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los tres modelos de distribuci&oacute;n, DOMAIN, GARP y LOGIT son modelos probabil&iacute;sticos y la extensi&oacute;n de la distribuci&oacute;n predicha y los valores de &iacute;ndices dependen del umbral (corte de la probabilidad) que se aplica. Para determinar el mejor umbral para cada predicci&oacute;n, se escogi&oacute; la probabilidad en que Kappa alcanza el m&aacute;ximo valor (m&aacute;x-Kappa). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los valores de los cuatro &iacute;ndices var&iacute;an entre 0 y 1; por tanto, tienden a seguir la distribuci&oacute;n binomial (Sokal &amp; Rohlf 1995). Para normalizar los datos, todos los valores de los &iacute;ndices fueron transformados a arcoseno de ra&iacute;z cuadrada antes de realizar los an&aacute;lisis estad&iacute;sticos. Para comparar los valores de &iacute;ndices, se aplic&oacute; una ANOVA bifactorial considerando los modelos de distribuci&oacute;n y especies como los factores. Cuando se encontr&oacute; una diferencia significativa en uno de estos factores, se aplic&oacute; una prueba a posterior&iacute; de Tukey para realizar las comparaciones pareadas. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se observaron diferencias significativas en los cuatro &iacute;ndices de prueba entre los cuatro modelos de distribuci&oacute;n (P &lt; 0.001 para todos los &iacute;ndices, <a href="#t1">Tabla 1</a>) y entre las tres especies (P &lt; 0.01 para todos, <a href="#t1">Tabla 1</a>). Se encontraron interacciones significativas entre los modelos y las especies en los cuatro &iacute;ndices de prueba (P &lt; 0.01 para todos, <a href="#t1">Tabla 1</a>). </font></P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t1"></a><img src="/img/revistas/reb/v41n1/tabla_a05_1.gif" width="573" height="305"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En relaci&oacute;n con la sensitividad, GARP mostr&oacute; significativamente el mejor rendimiento que LOGIT y BIOCLIM (P &lt; 0.001). No se observ&oacute; diferencia significativa entre GARP y DOMAIN (P = 0.6). BIOCLIM mostr&oacute; el peor rendimiento que los otros tres modelos (P &lt; 0.001) (<a href="#f2">Figura 2</a>). El rendimiento de <I>C. callosus </I>es significativamente mayor que <I>S. haenkeana </I>(P &lt; 0.01), pero no mayor que <I>A. alpinus </I>(P = 0.6). En la especificidad, DOMAIN mostr&oacute; significativamente el mejor rendimiento que LOGIT y BIOCLIM (P &lt; 0.05). No se observ&oacute; una diferencia significativa entre DOMAIN y GARP (P = 0.6). LOGIT mostr&oacute; el peor rendimiento que los otros tres modelos (P &lt; 0.001) (<a href="#f2">Fig. 2</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2"></a><img src="/img/revistas/reb/v41n1/figura_a05_2.gif" width="573" height="435"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El rendimiento de <I>S. haenkeana</I> y <I>A. alpinus </I>es significativamente mayor que <I>C. callosus</I> (P &lt; 0.001). En PPP, DOMAIN mostr&oacute; significativamente el mejor rendimiento que LOGIT y BIOCLIM (P &lt; 0.05). No se observ&oacute; una diferencia significativa entre DOMAIN y GARP (P = 0.5). LOGIT mostr&oacute; el peor rendimiento que los otros tres modelos (P &lt; 0.001) (<a href="#f2">Figura 2</a>). El rendimiento de <I>S. haenkeana </I>y <I>A. alpinus </I>es significativamente mayor que <I>C. callosus </I>(P &lt; 0.001). En Kappa, los modelos DOMAIN y GARP fueron mejores que BIOCLIM y LOGIT (P &lt; 0.001) (<a href="#f2">Figura 2</a>, <a href="#t2">Tabla 2a</a>). El rendimiento de <I>S. haenkeana </I>y <I>A. alpinus </I>es significativamente mayor que <I>C. callosus </I>(P &lt; 0.001, <a href="#t2">Tabla 2b</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t2"></a><img src="/img/revistas/reb/v41n1/tabla_a05_2.gif" width="496" height="219"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DOMAIN, GARP y BIOCLIM predijeron una distribuci&oacute;n parecida en tama&ntilde;o y forma para <I>A. alpinus </I>y <I>S. haenkeana </I>(<a href="#f3">Figuras 3</a> y <a href="#f4">4</a>). En cambio, LOGIT predijo una distribuci&oacute;n m&aacute;s fragmentada que contiene varias zonas donde no hay ning&uacute;n registro de estas especies y las condiciones no son las apropiadas para su presencia (<a href="#f3">Figuras 3</a> y <a href="#f4">4</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f3"></a><img src="/img/revistas/reb/v41n1/figura_a05_3.gif" width="570" height="558"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f4"></a><img src="/img/revistas/reb/v41n1/figura_a05_4.gif" width="569" height="547"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Para <I>C. callosus</I>, DOMAIN y GARP predijeron una distribuci&oacute;n m&aacute;s limitada, en general alrededor de los sitios de registro, al contrario que BIOCLIM y LOGIT que predijeron un &aacute;rea m&aacute;s extensa (<a href="#f5">Figura 5</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f5"></a><img src="/img/revistas/reb/v41n1/figura_a05_5.gif" width="574" height="576"></font></P >     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los an&aacute;lisis de este estudio mostraron que los cuatro SDMs predicen distribuciones significativamente diferentes como se ha encontrado en otros estudios (Carpenter et al. 1993, Loiselle et al. 2003). Los m&aacute;ximos valores de Kappa fueron observados en DOMAIN en todas las especies, seguido por GARP, lo cual indica que ambos modelos predicen la distribuci&oacute;n de las especies mejor que BIOCLIM y LOGIT, manteniendo los errores de tipo I y II relativamente bajos. Aunque en general existe una relaci&oacute;n negativa entre sensitividad y especificidad (p.e. Parra et al. 2004), DOMAIN y GARP mostraron el mejor rendimiento en ambos &iacute;ndices, comparado con BIOCLIM y LOGIT. La sobrepredicci&oacute;n de la distribuci&oacute;n en BIOCLIM versus con DOMAIN fue observada en este estudio como en el de Carpenter (1993), indicando este problema general de BIOCLIM . La regresi&oacute;n log&iacute;stica (LOGIT) muestra el peor rendimiento entre los cuatro modelos probados; adem&aacute;s con frecuencia predice &aacute;reas muy alejadas de las zonas conocidas de cada especie con condiciones clim&aacute;ticas muy distintas. Podr&iacute;a haber varias razones por las cuales este modelo genera errores tan grandes. Sin embargo, nos parece que uno de los problemas m&aacute;s graves es la suposici&oacute;n de LOGIT en que los organismos reaccionan linealmente a las condiciones medioambientales, prefiriendo las condiciones extremas. En general, la mayor&iacute;a de los organismos se adaptan a las condiciones intermedias y evitan las condiciones ambientales extremas (Krebs 2001) y probablemente pocas especies cumplen con la suposici&oacute;n del modelo de regresi&oacute;n log&iacute;stica. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aunque el n&uacute;mero de especies evaluadas es reducido en este estudio, la predicci&oacute;n de las especies especialistas de h&aacute;bitat fue mejor que la de la especie generalista en todos los &iacute;ndices, excepto en la sensitividad, que fue mejor para la especie generalista. La distribuci&oacute;n del h&aacute;bitat y vegetaci&oacute;n est&aacute; principalmente determinada por las condiciones abi&oacute;ticas en el nivel regional (p.e. Holdridge 1967, temperatura promedia anual, precipitaci&oacute;n anual y evapotranspiraci&oacute;n). Por tanto, la distribuci&oacute;n de las especies especialistas de cierta vegetaci&oacute;n y/o h&aacute;bitat tambi&eacute;n puede predecirse en base a las mismas condiciones abi&oacute;ticas. Al contrario, las especies generalistas de h&aacute;bitat, de h&aacute;bitats con menor influencia clim&aacute;tica y/o de amplia distribuci&oacute;n podr&iacute;an cruzar varias condiciones clim&aacute;ticas sin recibir una influencia fuerte por parte de &eacute;stas. Por ejemplo, las especies de amplia distribuci&oacute;n, como <I>Zonotrichia capensis </I>(Aves, Emberizidae) pueden tolerar condiciones clim&aacute;ticas distintas, mientras exista un h&aacute;bitat adecuado (zona perturbada antr&oacute;picamente) (Ridgely &amp; Greenfield 2001). Otras especies ' como los flamencos (Aves, Phoenicopteridae, <I>Phoenicopterus </I>sp., <I>Phoenicoparrus </I>spp.) - requieren h&aacute;bitats muy espec&iacute;ficos (lagunas bajas de gran extensi&oacute;n en el Altiplano), que no est&aacute;n estrechamente asociadas a la condici&oacute;n clim&aacute;tica (del Hoyo et al. 1992). Para predecir la distribuci&oacute;n de los flamencos ser&iacute;a necesario considerar factores adicionales, como NDVI, distancia al cuerpo de agua o par&aacute;metros topogr&aacute;ficos, adem&aacute;s de los factores clim&aacute;ticos utilizados en este estudio. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El bajo desempe&ntilde;o de la predicci&oacute;n de la distribuci&oacute;n de las especies con amplia distribuci&oacute;n tambi&eacute;n podr&iacute;a ser un artefacto de los &iacute;ndices de prueba utilizados en este estudio. El valor m&aacute;s bajo de Kappa en una especie de amplia distribuci&oacute;n como <I>C. callosus </I>podr&iacute;a provenir del bajo valor de especificidad. Como los puntos de ausencia usados en este estudio son de pseudoausencia (puntos escogidos aleatoriamente), la especificidad est&aacute; inversamente correlacionada con el &aacute;rea predicha (Anderson et al. 2003). Bajo esta metodolog&iacute;a, la especie que posee una distribuci&oacute;n amplia tiende a tener un valor bajo de especificidad. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Actualmente la mayor&iacute;a de los modelos utilizan informaci&oacute;n principalmente de condiciones ambientales y algunos utilizan tambi&eacute;n informaci&oacute;n adicional, como uso de tierra y cobertura vegetal (Peterson &amp; Robins 2003, Parra et al. 2004). Estos modelos ignoran la importancia de los procesos biol&oacute;gicos tales como competencia, depredaci&oacute;n y mutualismo. En otras palabras, la distribuci&oacute;n de otras especies puede afectar la distribuci&oacute;n de la especie de inter&eacute;s. Desafortunadamente, la influencia de tales interacciones en la distribuci&oacute;n de la mayor&iacute;a de las especies en Bolivia es desconocida. Sin embargo, mientras aumenten los estudios sobre los procesos biol&oacute;gicos, ser&aacute; posible incorporar a las distribuciones o densidad de estos procesos biol&oacute;gicos en el modelo. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este estudio utiliz&oacute; la resoluci&oacute;n de distribuci&oacute;n de 30 segundos (ca. 1 x 1 km). Aunque esta resoluci&oacute;n es m&aacute;s fina que la usada en otros estudios realizados anteriormente en Bolivia (Mueller et al. 2002, Sommer et al. 2003), la mayor&iacute;a de los organismos probablemente utiliza solo una parte de esta &aacute;rea de 1 x 1 km. Esto se debe a la heterogeneidad del medio ambiente a escala m&aacute;s fina. Las especies utilizan solo ciertos h&aacute;bitats o microh&aacute;bitats que existen a manera de mosaico dentro de la grilla de 1 x 1 km que se considera homog&eacute;nea clim&aacute;ticamente. Es posible generar otro tipo de datos a escala m&aacute;s fina, como datos topogr&aacute;ficos (altitud, pendiente, exposici&oacute;n, distancia a cuerpos de agua), utilizando los modelos digitales de elevaci&oacute;n (DEM), &iacute;ndices de vegetaci&oacute;n y uso de tierra en base a im&aacute;genes satelitales. La incorporaci&oacute;n de estos datos puede producir la predicci&oacute;n de distribuci&oacute;n m&aacute;s realista y a mayor escala (M. I. G&oacute;mez et al. datos no publicados). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La predicci&oacute;n de la distribuci&oacute;n de las especies en Bolivia est&aacute; en una etapa inicial y se requieren m&aacute;s estudios para establecer un procedimiento adecuado. En el futuro, tambi&eacute;n se deber&iacute;an considerar otros factores, tales como tipos de datos (n&uacute;mero de datos , datos adicionales como los topogr&aacute;ficos y los de sensores remotos), el valor de los par&aacute;metros (en GARP, el n&uacute;mero de corridas, valor de convergencia y n&uacute;mero de iteraciones), los &iacute;ndices del desempe&ntilde;o del modelo (n&uacute;mero de remuestreo, porcentaje de datos para cada remuestreo), escala de an&aacute;lisis (1 km<Sup>2</Sup>, mayor o menor) e inclusi&oacute;n de los procesos bi&oacute;ticos (competencia, depredaci&oacute;n, mutualismo). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En resumen, para predecir la distribuci&oacute;n de las especies en Bolivia, DOMAIN y GARP poseen los mejores rendimientos globales. La predicci&oacute;n de la distribuci&oacute;n de una especie generalista de h&aacute;bitat con una distribuci&oacute;n amplia tiende a ser menos precisa, posiblemente por la falta de correlaci&oacute;n de su distribuci&oacute;n con las condiciones clim&aacute;ticas. Al contrario, la distribuci&oacute;n de una especie especialista de h&aacute;bitat o vegetaci&oacute;n tiende a ser m&aacute;s precisa por su requerimiento de condiciones abi&oacute;ticas especificas. La incorporaci&oacute;n de otros tipos de datos, tales como los topogr&aacute;ficos y los de im&aacute;genes satelitales podr&iacute;a aumentar la precisi&oacute;n de su predicci&oacute;n y mejorar la resoluci&oacute;n de la distribuci&oacute;n. </font></P >     <P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Queremos agradecer al Herbario Nacional de Bolivia en acceder a su base de datos. El manuscrito fue mejorado por los comentarios de dos revisores an&oacute;nimos. El trabajo del campo de Ramiro P. L&oacute;pez y Rosa I. Meneses fue financiado por Conservation International y el de M. Isabel G&oacute;mez fue financiado por British Petroleum Conservation Programme, Blake Foundation y Royal Geographical Society. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Anderson, R. P., D. Lew &amp; A. T. Peterson. 2003. Using error distributions to select best subsets of predictive models of species&acute; distributions. Ecological Modelling 162: 211-232. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Anderson, S. 1997. Mammals of Bolivia, taxonomy and distribution. Bulletin of the American Museum of Natural History 231: 1-652. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065170&pid=S1605-2528200600070000500002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Busby, J. R. 1991. BIOCLIM - A bioclimate analysis and prediction system. Pp. 64-68. En: C. R. Margules y M. P. Austin (eds.). Nature Conservation: Cost Effective Biological Surveys and Data Analysis. CSIRO, Melbourne. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065171&pid=S1605-2528200600070000500003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cabrera, A. L. 1976. Regiones fitogeogr&aacute;ficas argentinas. Pp. 1-85. En: W. F. Kugler (ed.). Enciclopedia Argentina de agricultura y jardiner&iacute;a. ACME, Buenos Aires. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065172&pid=S1605-2528200600070000500004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Carpenter, G., A. N. Gillison &amp; J. Winter. 1993. DOMAIN: a flexible modeling procedure for mapping potential distributions of plants and animals. Biodiversity and Conservation 2: 667-680. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cumming, G. S. 2000. Using between-model comparisons to fine-tune linear models of species ranges. Journal of Biogeography 27: 441-455. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065174&pid=S1605-2528200600070000500006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">da Fonseca, G. A. B., A. Balmford, C. Bibby, L. Boitani, F. Corsi, T. M. Brooks, C. Gascon, S. Olivieri, R. A. Mittermeier, N. Burgess, E. Dinerstein, D. M. Olson, L. Hannah, J. Lovett, D. Moyer, C. Rahbek, S. N. Stuart &amp; P. Williams. 2000. Following Africa's lead in setting priorities. Nature 405: 393-394. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">del Hoyo, J., A. Elliott &amp; J. Sargatal (eds.). 1992. Handbook of the birds of the world. Vol. 1: Ostrich to Ducks. Lynx Edicions, Barcelona. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065176&pid=S1605-2528200600070000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fern&aacute;ndez, T. M. 2004. Verificando un modelo predictivo de distribuci&oacute;n de anfibios para Bolivia. Tesis de Licenciatura en Biolog&iacute;a, Universidad Mayor de San Andr&eacute;s, La Paz. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065177&pid=S1605-2528200600070000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fielding, A. H. &amp; J. F. Bell. 1997. A review of methods for the assessment of prediction errors in conservation presence/absence models. Environmental Conservation 24: 38-49. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fitzpatrick, J. W. 2004. Family Tyrannidae (Tyrant-Flycatchers). Pp. 170-463. En: J. del Hoyo, A. Elliott &amp; D. A. Christie (eds.). Handbook of the Birds of the World. Lynx Edicions, Barcelona. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065179&pid=S1605-2528200600070000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjeldsa, J. &amp; M. Kessler. 1996. Conserving the biological diversity of <I>Polylepis </I>woodlands of the highland of Peru and Bolivia. NORDECO, Copenhagen. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065180&pid=S1605-2528200600070000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjeldsa, J. &amp; N. Krabbe. 1990. Birds of the high Andes. Apollo Books, Svendborg. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065181&pid=S1605-2528200600070000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fleishman, E., R. MacNally &amp; J. P. Fay. 2003. Validation tests of predictive models of butterfly occurrence based on environmental variables. Conservation Biology 17: 806-817. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Groom, M. J., G. K. Meffe &amp; C. R. Carroll. 2006. Principles of conservation biology, 3rd ed. Sinauer Associates, Inc., Sunderland, Massachusetts. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065183&pid=S1605-2528200600070000500015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hirzel, A. 2004. BioMapper 3, User's manual (<a href="http://www.unil.ch/biomapper" target="_blank">http://www.unil.ch/biomapper</a>). </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065184&pid=S1605-2528200600070000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Holdridge, L. R. 1967. Life zone ecology. Tropical Science Center, San Jos&eacute;. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065185&pid=S1605-2528200600070000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ibisch, P. L. &amp; G. M&eacute;rida (eds.). 2003. Biodiversidad: la riqueza de Bolivia: estado de conocimiento y conservaci&oacute;n. Editorial FAN, Santa Cruz de la Sierra. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065186&pid=S1605-2528200600070000500018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">IUCN. 2004. IUCN red list of threatended species (<a href="http://www.redlist.org" target="_blank">http://www.redlist.org</a>). </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065187&pid=S1605-2528200600070000500019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Krebs, C. J. 2001. Ecology: the experimental analysis of distribution and abundance, 5th ed. Benjamin/Cummings, San Francisco. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065188&pid=S1605-2528200600070000500020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Loiselle, B. A., C. A. Howell, C. H. Graham, J. M. Goerck, T. Brooks, K. G. Smith &amp; P.H. Williams. 2003. Avoiding pitfalls of using species distribution models in conservation planning. Conservation Biology 17: 1591-1600. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L&oacute;pez, R. P. 2003a. Diversidad flor&iacute;stica y endemismo de los valles secos bolivianos. Ecolog&iacute;a en Bolivia 38: 27-60. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065190&pid=S1605-2528200600070000500022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">L&oacute;pez, R. P. 2003b. Phytogeographical relations of the Andean dry valleys of Bolivia. Journal of Biogeography 30: 1659-1668. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065191&pid=S1605-2528200600070000500023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Molles, M. C., Jr. 2002. Ecology: concepts and applications, 2nd ed. McGraw-Hill Companies, Inc., Boston. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065192&pid=S1605-2528200600070000500024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Morello, J. 1958. La provincia fitogeogr&aacute;fica del Monte. Opera Lilloana 2: 1-155. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065193&pid=S1605-2528200600070000500025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mueller, R., S. G. Beck &amp; R. Lara. 2002. Vegetaci&oacute;n potencial de los bosques de Yungas en Bolivia, basado en datos clim&aacute;ticos. Ecolog&iacute;a en Bolivia 37: 5-14. </font></P >    ]]></body>
+<body><![CDATA[<!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">M&uuml;ller, R., A. Briancon, I. Hinojosa &amp; P. Ergueta. 2004. Prioridades de conservaci&oacute;n en los Yungas Bolivianos. Tr&oacute;pico, La Paz. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065195&pid=S1605-2528200600070000500027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">M&uuml;ller, R., C. Nowicki, W. Barthlott &amp; P. L. Ibisch. 2003. Biodiversity and endemism mapping as a tool for regional conservation planning - case study of the Pleurothallidinae (Orchidaceae) of the Andean rain forests in Bolivia. Biodiversity and Conservation 12: 20052024. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Myers, N., R. A. Mittermeier, C. G. Mittermeier, G. A. B. da Fonseca &amp; J. Kent. 2000. Biodiversity hotspots for conservation priorities. Nature 403: 853-858. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Novara, L. J. 1985. Esquema flor&iacute;stico de la ciudad de Salta. Pp. 11-29. En: J. L. Novara (ed.). Gu&iacute;a de viaje de las XX Jornadas Argentinas de Bot&aacute;nica. Sociedad Argentina de Bot&aacute;nica, Salta. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065198&pid=S1605-2528200600070000500030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nowicki, C., A. Ley, R. Caballero, J. H. Sommer, W. Barthlott &amp; P. L. Ibisch. 2004. Extrapolating distribution ranges BIOM 1.1., a computerized bio-climatic model for the extrapolation of species ranges and diversity patterns. Pp. 36-68. En: C. V&aacute;squez &amp; P. L. Ibisch (eds.). Orchids of Bolivia: Diversity and Conservation Status. Vol. 2. Laeliinae, Polystachinae, Sobraliinae with update and complementation of the Pleurothallidinae. Editorial F.A.N., Santa Cruz de la Sierra. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065199&pid=S1605-2528200600070000500031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Olson, D. M. &amp; E. Dinerstein. 1998. The global 200: a representation approach to conserving the earth's most biologically valuable ecoregions. Conservation Biology 12: 502-515. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Parra, J. L., C. C. Graham &amp; J. F. Freile. 2004. Evaluating alternative data sets for ecological niche models of birds in the Andes. Ecography 27: 350-360. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Peterson, A. T. &amp; C. R. Robins. 2003. Using ecological-niche modeling to predict Barred Owl invasions with implications for Spotted Owl conservation. Conservation Biology 17: 1161-1165. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Primack, R., R. Rozzi, P. Feinsinger, R. Dirzo &amp; F. Massardo. 2001. Fundamentos de conservaci&oacute;n biol&oacute;gica: perspectivas latinoamericanas. Fondo de Cultura Econ&oacute;mica, M&eacute;xico, D.F. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065203&pid=S1605-2528200600070000500035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ridgely, R. S. &amp; P. J. Greenfield. 2001. The birds of Ecuador. Cornell University Press, Ithaca, Nueva York. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065204&pid=S1605-2528200600070000500036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Scott, J. M., P. J. Heglund, M. L. Morrison, J. B. Haufler, M. G. Raphael, W. A. Wall &amp; F. B. Samson (eds.). 2002. Predicting species occurrences: issues of accuracy and scale. Island Press, Washington, D.C. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065205&pid=S1605-2528200600070000500037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sechrest, W., T. M. Brooks, G. A. B. da Fonseca, W. R. Konstant, C. G. Mittermeier, A. Purvis, A. B. Rylands &amp; J. L. Gittleman. 2002. Hotspots and the conservation of evolutionary history. Proceedings of the National Academy of Sciences of the United States of America 99: 2067-2071. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065206&pid=S1605-2528200600070000500038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sokal, R. R. &amp; F. J. Rohlf. 1995. Biometry. 3rd ed. W. H. Freeman and Company, Nueva York. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065207&pid=S1605-2528200600070000500039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sommer, J. H., C. Nowicki, L. Rios, W. Barthlott &amp; P. L. Ibisch. 2003. Extrapolating species ranges and biodiversity in data-poor countries: The computerized model BIOM. Revista de la Sociedad Boliviana de Bot&aacute;nica 4: 171-190. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stockwell, D. R. B. &amp; I. R. Noble. 1991. Induction of sets of rules from animal distribution data: a robust and informative method of data analysis. Mathematics and Computers in Simulation 32: 249-254. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Vogel, C. &amp; A. B. Hennessey. 2002. Discovery of a new site for Ash-breasted Tit-tyrant <I>Anairetes alpinus </I>in Bolivia. Cotinga 17: 80. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Zambrana, C. M. 2004. Distribuci&oacute;n y diversidad potencial de la avifauna en un complejo de &aacute;reas protegidas del noroeste de La Paz: implicaciones para la conservaci&oacute;n. Tesis de Licenciatura en Biolog&iacute;a. Universidad Mayor de San Andr&eacute;s, La Paz. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065211&pid=S1605-2528200600070000500043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >&nbsp;</P >     <P   align="justify" >&nbsp;</P >     <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Mayo de 2005. </font></P >     ]]></body>
+<body><![CDATA[<P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: M&oacute;nica Moraes </font></P >     <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Junio de 2006. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lew]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[A.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using error distributions to select best subsets of predictive models of species distributions]]></article-title>
+<source><![CDATA[Ecological Modelling]]></source>
+<year>2003</year>
+<volume>162</volume>
+<page-range>211-232</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals of Bolivia, taxonomy and distribution]]></article-title>
+<source><![CDATA[Bulletin of the American Museum of Natural History]]></source>
+<year>1997</year>
+<volume>231</volume>
+<page-range>1-652</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Busby]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[BIOCLIM - A bioclimate analysis and prediction system]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Margules]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Austin]]></surname>
+<given-names><![CDATA[M. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nature Conservation: Cost Effective Biological Surveys and Data Analysis]]></source>
+<year>1991</year>
+<page-range>64-68</page-range><publisher-loc><![CDATA[Melbourne ]]></publisher-loc>
+<publisher-name><![CDATA[CSIRO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cabrera]]></surname>
+<given-names><![CDATA[A. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Regiones fitogeográficas argentinas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Kugler]]></surname>
+<given-names><![CDATA[W. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Enciclopedia Argentina de agricultura y jardinería]]></source>
+<year>1976</year>
+<page-range>1-85</page-range><publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[ACME]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carpenter]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gillison]]></surname>
+<given-names><![CDATA[A.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Winter]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[DOMAIN: a flexible modeling procedure for mapping potential distributions of plants and animals]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>1993</year>
+<volume>2</volume>
+<page-range>667-680</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cumming]]></surname>
+<given-names><![CDATA[G.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using between-model comparisons to fine-tune linear models of species ranges]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2000</year>
+<volume>27</volume>
+<page-range>441-455</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[da-Fonseca]]></surname>
+<given-names><![CDATA[G.A.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Balmford]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bibby]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boitani]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Corsi]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooks]]></surname>
+<given-names><![CDATA[T.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gascon]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olivieri]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burgess]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dinerstein]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olson]]></surname>
+<given-names><![CDATA[D.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hannah]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovett]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moyer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rahbek]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stuart]]></surname>
+<given-names><![CDATA[S.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Williams]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Following Africa's lead in setting priorities]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2000</year>
+<volume>405</volume>
+<page-range>393-394</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[del Hoyo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elliott]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sargatal]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of the birds of the world]]></source>
+<year>1992</year>
+<volume>1</volume>
+<publisher-loc><![CDATA[Barcelona ]]></publisher-loc>
+<publisher-name><![CDATA[Lynx]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Verificando un modelo predictivo de distribución de anfibios para Bolivia]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fielding]]></surname>
+<given-names><![CDATA[A.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bell]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A review of methods for the assessment of prediction errors in conservation presence/absence models]]></article-title>
+<source><![CDATA[Environmental Conservation]]></source>
+<year>1997</year>
+<volume>24</volume>
+<page-range>38-49</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fitzpatrick]]></surname>
+<given-names><![CDATA[J. W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Family Tyrannidae (Tyrant-Flycatchers)]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[del Hoyo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elliott]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Christie]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Handbook of the Birds of the World]]></source>
+<year>2004</year>
+<page-range>170-463</page-range><publisher-loc><![CDATA[Barcelona ]]></publisher-loc>
+<publisher-name><![CDATA[Lynx]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldsa]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conserving the biological diversity of Polylepis woodlands of the highland of Peru and Bolivia]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Copenhagen ]]></publisher-loc>
+<publisher-name><![CDATA[NORDECO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldsa]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Krabbe]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Birds of the high Andes]]></source>
+<year>1990</year>
+<publisher-loc><![CDATA[Svendborg ]]></publisher-loc>
+<publisher-name><![CDATA[Apollo Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fleishman]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[MacNally]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fay]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Validation tests of predictive models of butterfly occurrence based on environmental variables]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<volume>17</volume>
+<page-range>806-817</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Groom]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meffe]]></surname>
+<given-names><![CDATA[G. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carroll]]></surname>
+<given-names><![CDATA[C. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Principles of conservation biology]]></source>
+<year>2006</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[Sunderland^eMassachusetts Massachusetts]]></publisher-loc>
+<publisher-name><![CDATA[Sinauer Associates, Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hirzel]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[BioMapper 3, User's manual]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Holdridge]]></surname>
+<given-names><![CDATA[L. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Life zone ecology]]></source>
+<year>1967</year>
+<publisher-loc><![CDATA[San José ]]></publisher-loc>
+<publisher-name><![CDATA[Tropical Science Center]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mérida]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiversidad: la riqueza de Bolivia: estado de conocimiento y conservación]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+<publisher-name><![CDATA[FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<collab>IUCN</collab>
+<source><![CDATA[IUCN red list of threatended species]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Krebs]]></surname>
+<given-names><![CDATA[C. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology: the experimental analysis of distribution and abundance]]></source>
+<year>2001</year>
+<edition>5</edition>
+<publisher-loc><![CDATA[San Francisco ]]></publisher-loc>
+<publisher-name><![CDATA[Benjamin/Cummings]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loiselle]]></surname>
+<given-names><![CDATA[B.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Howell]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Graham]]></surname>
+<given-names><![CDATA[C.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goerck]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooks]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[K.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Williams]]></surname>
+<given-names><![CDATA[P.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Avoiding pitfalls of using species distribution models in conservation planning]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<volume>17</volume>
+<page-range>1591-1600</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Diversidad florística y endemismo de los valles secos bolivianos]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2003</year>
+<month>a</month>
+<volume>38</volume>
+<page-range>27-60</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phytogeographical relations of the Andean dry valleys of Bolivia]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2003</year>
+<month>b</month>
+<volume>30</volume>
+<page-range>1659-1668</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Molles]]></surname>
+<given-names><![CDATA[M.C., Jr]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology: concepts and applications]]></source>
+<year>2002</year>
+<edition>2</edition>
+<publisher-loc><![CDATA[Boston ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morello]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La provincia fitogeográfica del Monte]]></article-title>
+<source><![CDATA[Opera Lilloana]]></source>
+<year>1958</year>
+<volume>2</volume>
+<page-range>1-155</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mueller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lara]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Vegetación potencial de los bosques de Yungas en Bolivia, basado en datos climáticos]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2002</year>
+<volume>37</volume>
+<page-range>5-14</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Briancon]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hinojosa]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ergueta]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Prioridades de conservación en los Yungas Bolivianos]]></source>
+<year>2004</year>
+<publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Trópico]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Müller]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barthlott]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity and endemism mapping as a tool for regional conservation planning - case study of the Pleurothallidinae (Orchidaceae) of the Andean rain forests in Bolivia]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>2003</year>
+<volume>12</volume>
+<page-range>2005-2024</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Myers]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[C.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[da Fonseca]]></surname>
+<given-names><![CDATA[G.A.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kent]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biodiversity hotspots for conservation priorities]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2000</year>
+<volume>403</volume>
+<page-range>853-858</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Novara]]></surname>
+<given-names><![CDATA[L. J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Esquema florístico de la ciudad de Salta]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Novara]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1985</year>
+<conf-name><![CDATA[XX Jornadas Argentinas de Botánica]]></conf-name>
+<conf-loc>Salta </conf-loc>
+<page-range>11-29</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ley]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caballero]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sommer]]></surname>
+<given-names><![CDATA[J. H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barthlott]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Extrapolating distribution ranges BIOM 1.1., a computerized bio-climatic model for the extrapolation of species ranges and diversity patterns]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Vásquez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Orchids of Bolivia: Diversity and Conservation Status]]></source>
+<year>2004</year>
+<volume>2</volume>
+<page-range>36-68</page-range><publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+<publisher-name><![CDATA[F.A.N.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Olson]]></surname>
+<given-names><![CDATA[D.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dinerstein]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The global 200: a representation approach to conserving the earth's most biologically valuable ecoregions]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>1998</year>
+<volume>12</volume>
+<page-range>502-515</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Parra]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Graham]]></surname>
+<given-names><![CDATA[C.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Freile]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluating alternative data sets for ecological niche models of birds in the Andes]]></article-title>
+<source><![CDATA[Ecography]]></source>
+<year>2004</year>
+<volume>27</volume>
+<page-range>350-360</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peterson]]></surname>
+<given-names><![CDATA[A.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Robins]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Using ecological-niche modeling to predict Barred Owl invasions with implications for Spotted Owl conservation]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<volume>17</volume>
+<page-range>1161-1165</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Primack]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rozzi]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Feinsinger]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dirzo]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Massardo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fundamentos de conservación biológica: perspectivas latinoamericanas]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[México^eD.F. D.F.]]></publisher-loc>
+<publisher-name><![CDATA[Fondo de Cultura Económica]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ridgely]]></surname>
+<given-names><![CDATA[R. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Greenfield]]></surname>
+<given-names><![CDATA[P. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The birds of Ecuador]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Ithaca^eNueva York Nueva York]]></publisher-loc>
+<publisher-name><![CDATA[Cornell University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Scott]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Heglund]]></surname>
+<given-names><![CDATA[P. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morrison]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Haufler]]></surname>
+<given-names><![CDATA[J. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Raphael]]></surname>
+<given-names><![CDATA[M. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wall]]></surname>
+<given-names><![CDATA[W. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Samson]]></surname>
+<given-names><![CDATA[F. B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Predicting species occurrences: issues of accuracy and scale]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[Island Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sechrest]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooks]]></surname>
+<given-names><![CDATA[T. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[da Fonseca]]></surname>
+<given-names><![CDATA[G. A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Konstant]]></surname>
+<given-names><![CDATA[W. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mittermeier]]></surname>
+<given-names><![CDATA[C. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Purvis]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rylands]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gittleman]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Hotspots and the conservation of evolutionary history]]></source>
+<year>2002</year>
+<volume>99</volume>
+<page-range>2067-2071</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sokal]]></surname>
+<given-names><![CDATA[R. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rohlf]]></surname>
+<given-names><![CDATA[F. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biometry]]></source>
+<year>1995</year>
+<edition>3</edition>
+<publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[W. H. Freeman and Company]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sommer]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nowicki]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rios]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barthlott]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Extrapolating species ranges and biodiversity in data-poor countries: The computerized model BIOM]]></article-title>
+<source><![CDATA[Revista de la Sociedad Boliviana de Botánica]]></source>
+<year>2003</year>
+<volume>4</volume>
+<page-range>171-190</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stockwell]]></surname>
+<given-names><![CDATA[D.R.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Noble]]></surname>
+<given-names><![CDATA[I.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Induction of sets of rules from animal distribution data: a robust and informative method of data analysis]]></article-title>
+<source><![CDATA[Mathematics and Computers in Simulation]]></source>
+<year>1991</year>
+<volume>32</volume>
+<page-range>249-254</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vogel]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hennessey]]></surname>
+<given-names><![CDATA[A.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Discovery of a new site for Ash-breasted Tit-tyrant Anairetes alpinus in Bolivia]]></article-title>
+<source><![CDATA[Cotinga]]></source>
+<year>2002</year>
+<volume>17</volume>
+<page-range>80</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zambrana]]></surname>
+<given-names><![CDATA[C. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distribución y diversidad potencial de la avifauna en un complejo de áreas protegidas del noroeste de La Paz: implicaciones para la conservación]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

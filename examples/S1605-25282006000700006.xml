@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282006000700006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Distribución altitudinal, abundancia relativa y densidad de peces en el Río Huarinilla y sus tributarios (Cotapata, Bolivia)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Altitudinal distribution, relative abundance and density of fishes in Rio Huarinilla system (Cotapata, Bolivia)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Miranda Chumacero]]></surname>
+<given-names><![CDATA[Guido]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Instituto de Ecología Estación Biológica Tunquini y Unidad de Limnología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>07</month>
+<year>2006</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>07</month>
+<year>2006</year>
+</pub-date>
+<volume>41</volume>
+<numero>1</numero>
+<fpage>79</fpage>
+<lpage>93</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282006000700006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282006000700006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282006000700006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los límites altitudinales para la mayoría de las especies de peces de ríos de montaña son poco conocidos y menos aún son conocidas su abundancia, densidad y biología básica. Por esta razón entre junio y agosto de 2003 con un equipo de pesca eléctrica muestreé los peces en la cuenca baja (1.040-1.700 m) del Río Huarinilla y sus tributarios, ubicados en el Parque Nacional y Área Natural de Manejo Integrado Cotapata (La Paz, Bolivia). El muestreo produjo un total de ocho especies, en siete géneros y seis familias. En promedio Hemibrycon beni poseyó la mayor abundancia relativa entre las especies (61.9%), pero estuvo muy localizada; el límite altitudinal superior registrado para esta especie fue de 1.360 m. El género Astroblepus (que consta de dos o más especies) estaba presente en la mayoría de los puntos muestreados, llegando hasta los 1.560 m con una abundancia relativa de 31.4%; Trichomycterus sp. presentó la mayor distribución altitudinal en la zona (1.040 -1.680 m) con una abundancia relativa del 3.4%. El resto de las especies (Knodus cf. heteresthes, Ancistrus sp., Parodon nasus, Tetragonopterinae sp. 1 y Rhamdia quelem) no superan los 1.300 m de altitud ni el 2% de la abundancia relativa. Pude determinar que Ephemeroptera y Diptera son los ítems más consumidos en la mayoría de las especies. Al parecer el desove en la mayoría de las especies encontradas podría producirse a inicios de la época de lluvias (julio a noviembre). Adicionalmente, estimé las densidades de las especies registradas y su distribución en la cuenca.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Altitudinal ranges, density, abundance, and biology of most fishes of Andean rivers are little known. For this reason, between June and August 2003, using an electrofishing gear, I sampled the fish fauna in the lower basin (1.040-1.700 m elevation) of the Rio Huaranilla and its tributaries, located in the Cotapata National Park, Bolivia. I recorded eight species belonging to seven genera and six families. On average, Hemibrycon beni was the most abundant of the species (relative abundance 61.9%), even though I did not record it at elevations above 1.360 m. The genus Astroblepus (made up of two sibling species, possibly more) made up 31.4% of the individuals captured and reached up to 1.560 m in elevation. Trichomycterus sp.1 contributed many fewer individuals (3.4% of the total) and was found from the lowest to the highest sampled points. Other species found (Knodus cf. heteresthes, Ancistrus sp., Parodon nasus, Tetragonopterinae sp. 1 y Rhamdia quelen) did not extend above 1.300 m in elevation and represented less than 2% of the relative abundance. Ephemeroptera and Diptera were the most abundant items in stomachs observations in most species. Possibly, spawning occurs before the rain season (July to November). Additionally, I estimated density and distribution in the basin of each species.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Peces de montaña]]></kwd>
+<kwd lng="es"><![CDATA[Yungas]]></kwd>
+<kwd lng="es"><![CDATA[ríos de bosque lluvioso]]></kwd>
+<kwd lng="es"><![CDATA[arroyos]]></kwd>
+<kwd lng="es"><![CDATA[pesca eléctrica]]></kwd>
+<kwd lng="en"><![CDATA[Mountain fishes]]></kwd>
+<kwd lng="en"><![CDATA[Yungas]]></kwd>
+<kwd lng="en"><![CDATA[rain forest rivers]]></kwd>
+<kwd lng="en"><![CDATA[streams]]></kwd>
+<kwd lng="en"><![CDATA[electrofishing]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Distribuci&oacute;n altitudinal, abundancia relativa y densidad de peces en el R&iacute;o Huarinilla y sus tributarios (Cotapata, Bolivia) </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Altitudinal distribution, relative abundance and density of fishes in Rio  Huarinilla system (Cotapata, Bolivia) </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Guido Miranda-Chumacero<Sup>1 </Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Estaci&oacute;n Biol&oacute;gica Tunquini y Unidad de Limnolog&iacute;a, Instituto de Ecolog&iacute;a    Campus Universitario de Cota Cota, c. 27.          <br>   E-mail: <a href="mailto:guidomirandac@yahoo.com">guidomirandac@yahoo.com</a>, Casilla 10777, Correo Central, La Paz, Bolivia. </font></P >     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b> </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los l&iacute;mites altitudinales para la mayor&iacute;a de las especies de peces de r&iacute;os de monta&ntilde;a son poco conocidos y menos a&uacute;n son conocidas su abundancia, densidad y biolog&iacute;a b&aacute;sica. Por esta raz&oacute;n entre junio y agosto de 2003 con un equipo de pesca el&eacute;ctrica muestre&eacute; los peces en la cuenca baja (1.040-1.700 m) del R&iacute;o Huarinilla y sus tributarios, ubicados en el Parque Nacional y &Aacute;rea Natural de Manejo Integrado Cotapata (La Paz, Bolivia). El muestreo produjo un total de ocho especies, en siete g&eacute;neros y seis familias. En promedio <I>Hemibrycon beni </I>posey&oacute; la mayor abundancia relativa entre las especies (61.9%), pero estuvo muy localizada; el l&iacute;mite altitudinal superior registrado para esta especie fue de 1.360 m. El g&eacute;nero <I>Astroblepus </I>(que consta de dos o m&aacute;s especies) estaba presente en la mayor&iacute;a de los puntos muestreados, llegando hasta los 1.560 m con una abundancia relativa de 31.4%; <I>Trichomycterus </I>sp. present&oacute; la mayor distribuci&oacute;n altitudinal en la zona (1.040 -1.680 m) con una abundancia relativa del 3.4%. El resto de las especies (<I>Knodus</I> cf. <I>heteresthes</I>, <I>Ancistrus </I>sp., <I>Parodon nasus</I>, Tetragonopterinae sp. 1 y <I>Rhamdia quelem</I>) no superan los 1.300 m de altitud ni el 2% de la abundancia relativa. Pude determinar que Ephemeroptera y Diptera son los &iacute;tems m&aacute;s consumidos en la mayor&iacute;a de las especies. Al parecer el desove en la mayor&iacute;a de las especies encontradas podr&iacute;a producirse a inicios de la &eacute;poca de lluvias (julio a noviembre). Adicionalmente, estim&eacute; las densidades de las especies registradas y su distribuci&oacute;n en la cuenca. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras Clave:</b> Peces de monta&ntilde;a, Yungas, r&iacute;os de bosque lluvioso, arroyos, pesca el&eacute;ctrica. </font></P > <hr noshade>     <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract</b></font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Altitudinal ranges, density, abundance, and biology of most fishes of Andean rivers are little known. For this reason, between June and August 2003, using an electrofishing gear, I sampled the fish fauna in the lower basin (1.040-1.700 m elevation) of the Rio Huaranilla and its tributaries, located in the Cotapata National Park, Bolivia. I recorded eight species belonging to seven genera and six families. On average, <I>Hemibrycon beni </I>was the most abundant of the species (relative abundance 61.9%), even though I did not record it at elevations above 1.360 m. The genus <I>Astroblepus </I>(made up of two sibling species, possibly more) made up 31.4% of the individuals captured and reached up to 1.560 m in elevation. <I>Trichomycterus </I>sp.1 contributed many fewer individuals (3.4% of the total) and was found from the lowest to the highest sampled points. Other species found (<I>Knodus </I>cf. <I>heteresthes</I>, <I>Ancistrus </I>sp., <I>Parodon nasus</I>, Tetragonopterinae sp. 1 y <I>Rhamdia quelen</I>) did not extend above 1.300 m in elevation and represented less than 2% of the relative abundance. Ephemeroptera and Diptera were the most abundant items in stomachs observations in most species. Possibly, spawning occurs before the rain season (July to November). Additionally, I estimated density and distribution in the basin of each species. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key Words: </b>Mountain fishes, Yungas, rain forest rivers, streams, electrofishing. </font></P > <hr noshade>     <P   align="justify" >&nbsp;</P >     <P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b> </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los estudios de la fauna &iacute;ctica en r&iacute;os de monta&ntilde;a de los Andes son escasos y se limitan a pocos grupos de peces (Pearson 1924, Fowler 1939, Fowler 1943, Arratia 1983, Lauzanne et al. 1991, Ortega 1992, Sarmiento &amp; Barrera 1997). La mayor&iacute;a de los trabajos sobre la ictiofauna en Bolivia ha sido realizada en la zona baja (&lt;300 m) y principalmente en las subcuencas de los r&iacute;os Mamor&eacute; (Lauzanne et al. 1991) e It&eacute;nez o Guapor&eacute; (Sarmiento 1998, Lasso <I>et al. </I>1999, Lasso 2001). A partir de &eacute;stos, se sabe que la mayor parte de las aproximadamente 600 especies de peces presentes en Bolivia (Sarmiento &amp; Barrera 1997) se encuentra en r&iacute;os de la Cuenca del Amazonas y en las subcuencas de los r&iacute;os Mamor&eacute;, Beni e It&eacute;nez, como tributarios mayores del Madre de Dios (Lauzanne &amp; Loubens 1985, Lauzanne et al. 1991, Sarmiento &amp; Barrera 1997). Estos r&iacute;os constituyen cuencas que var&iacute;an entre 90 m de altitud (poblaci&oacute;n de Manoa) hasta los deshieles de las monta&ntilde;as m&aacute;s altas, por encima de 5.900 m (SNHN 1998). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la subcuenca del r&iacute;o Mamor&eacute;, precisamente en el Chapare superior entre 200 y 300 m, se ha registrado la mayor riqueza de especies, llegando a 70 (Lauzanne et al. 1991) o 137 especies (Sarmiento &amp; Barrera 1997), mientras que entre 300 y 600 m se conocen 17 especies y s&oacute;lo ocho especies entre los 600 y 1.500 m. La presencia de peces en este rango altitudinal se reduce a pocos grupos conocidos: 1) <I>Trichomycterus </I>cf<I>. barbouri </I>(que en la cuenca del altiplano puede habitar r&iacute;os por encima de los 4.500 m seg&uacute;n Arratia 1983) cuyos l&iacute;mites de distribuci&oacute;n conocidos se encuentran a menos de 1.100 m (en la subcuenca del r&iacute;o Mamor&eacute;) y hasta 1.400 m en la cuenca de r&iacute;o Beni (Pearson 1924, Pouilly &amp; Barrera datos no publicados); 2) <I>Ancistrus</I> cf. <I>bolivianus </I>y 3) <I>Astroblepus longiceps </I>y <I>Astroblepus </I>sp., cuyos l&iacute;mites altitudinales seg&uacute;n Lauzanne et al. (1991) se encuentran a 1.100 m. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este patr&oacute;n tambi&eacute;n ha sido observado por Ortega (1992) en los r&iacute;os de la vertiente occidental del Per&uacute;, aunque solamente est&aacute;n registrados como especies a m&aacute;s de 1.000 m, sin especificar sus l&iacute;mites. Pearson (1924) tambi&eacute;n se&ntilde;ala a <I>Hemibrycon beni </I>a una altitud pr&oacute;xima a los 1.000 m. En Venezuela por otro lado, en la cuenca del r&iacute;o Chama, se conocen cinco especies que superan los 1.000 m de altitud: <I>Astroblepus </I>sp., <I>Chaetostoma anomala</I>, <I>Poecilia reticulata</I>, <I>Piabucina erythrinoides</I> y <I>Trichomycterus</I> sp. (Nebolio 1980). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el Parque Nacional y &Aacute;rea Natural de Manejo Integrado Cotapata (PN y ANMI Cotapata) los r&iacute;os pertenecen a la cuenca del r&iacute;o Beni y se ubican por encima de los 1.000 m. Dentro de esta cuenca, en un gradiente de 1.040 a 1.700 m plante&eacute; determinar los rangos de distribuci&oacute;n altitudinal de las especies de peces presentes en la subcuenca del r&iacute;o Huarinilla y las variaciones en su densidad y abundancia relativa. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Debido a que no se han realizado estudios sobre la biolog&iacute;a de los peces de la zona, adicionalmente aporto informaci&oacute;n sobre la reproducci&oacute;n, dieta y comportamiento de las especies. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>&Aacute;rea de Estudio </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El Parque Nacional y ANMI Cotapata se encuentra en el departamento de La Paz. Con sus 40.000 ha abarca parte de las provincias Murillo y NorYungas. Se caracteriza por su gran variedad de ecosistemas que se localizan desde 1.000 a 5.600 m. La topograf&iacute;a del Parque se caracteriza por presentar pendientes pronunciadas, que oscilan en promedio de 20&ordm; a 50&ordm; (Sevilla 2003), y valles profundos por los cuales fluyen varios r&iacute;os que forman la cuenca principal del r&iacute;o Huarinilla, que recorre 25 km hasta unirse con el r&iacute;o Yolosa y formar el r&iacute;o Coroico (SNHN 1998). El r&iacute;o Huarinilla en su trayecto es alimentado por tres r&iacute;os: Santa Catalina, Chairo o Si&ntilde;ari y Elena; y varios arroyos: Tunquini, Padrini, Cedroni, Yucupi y Jucumarini (<a href="#f1">Figura 1</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v41n1/figura_a06_1.gif" width="580" height="381"></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La altitud de esta peque&ntilde;a cuenca var&iacute;a de los 1.000 a 2.000 m (Morales 1995, SNHN 1998). La precipitaci&oacute;n anual en la zona llega a 3.000 mm (Molina-Carpio 2005). Los r&iacute;os de la zona poseen en general un pH ligeramente &aacute;cido (6.0 &ndash; 6.3); la conductividad as&iacute; como el TDS (s&oacute;lidos totales disueltos) son muy bajos, variando de 18.1HS (en el r&iacute;o Santa Catalina) a 40 HS (r&iacute;o Jucumarini) y de 9.1 mg/l  (en el r&iacute;o Santa Catalina) a 20 mg/l (en el r&iacute;o Jucumarini), respectivamente (datos tomados entre junio y agosto de 2003). La temperatura del agua en estos r&iacute;os var&iacute;a de 12AC al amanecer hasta 23AC al final de la tarde en las pozas de las orillas. Debido a su velocidad y pendiente en todos estos r&iacute;os y arroyos, el ox&iacute;geno disuelto llega al nivel de saturaci&oacute;n. La variedad de h&aacute;bitats que ofrecen estos r&iacute;os es alta. Se pueden encontrar pozas en que la velocidad de la corriente es casi nula, r&aacute;pidos o zonas del r&iacute;o con gran velocidad, que puede llegar a m&aacute;s de 150 cm/s y l&eacute;nticas o zonas con baja velocidad. La cobertura vegetal es propia de un bosque montano neotropical asociada a los cursos principales de los r&iacute;os y arroyos. </font></P >     <P   align="justify" >&nbsp;</P >     <P align="center"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Zonas de muestreo </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para comparar la distribuci&oacute;n altitudinal entre las especies de peces se realizaron muestreos en distintos r&iacute;os y arroyos a distintas altitudes (<a href="#f1">Figura 1</a>): 1) r&iacute;o Santa Catalina, se caracteriza por tener un lecho de r&iacute;o estrecho. Suelen ocurrir torrenteras fuertes que arrastran gran cantidad de rocas de tama&ntilde;o considerable. Realic&eacute; los muestreos desde 1.530 m hasta los 1.560 m, 2) r&iacute;o Huarinilla, tambi&eacute;n arrastra gran cantidad de material en la &eacute;poca de lluvias. Muestre&eacute; puntos a distintas altitudes (entre 1.040 a 1.360 m) a lo largo de su trayectoria. &Eacute;stos estaban, generalmente pr&oacute;ximos a las confluencias con otros r&iacute;os y arroyos, 3) r&iacute;o Elena, que recorre casi paralelo al r&iacute;o Huarinilla y al cual desemboca antes de la localidad de Yolosa; muestre&eacute; en una zona localizada a 1.040 m, 4) arroyo Jucumarini en la zona cercana a la confluencia con el r&iacute;o Huarinilla hasta una altitud de 1.160 m, 5) arroyo Yucupi, al igual que en el anterior, en una zona pr&oacute;xima al r&iacute;o Huarinilla (hasta 1.200 m). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos </b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Captura de los peces </b></font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Realic&eacute; los muestreos con la ayuda de dos personas; una accionando el equipo de pesca el&eacute;ctrica y dos atrapando los peces con redes de mano. Capturamos los peces entre junio y agosto de 2003, &eacute;poca en que la velocidad y caudal de los r&iacute;os de la zona permiten realizar los muestreos (&eacute;poca seca). Las capturas estaban orientadas a la estimaci&oacute;n de la densidad de cada especie en los r&iacute;os y arroyos para lo cual usamos el equipo de pesca el&eacute;ctrica. El esfuerzo en cada punto de muestreo consisti&oacute; en la realizaci&oacute;n de tres remociones consecutivas. Hicimos el muestreo en un &aacute;rea aproximada de 100 m<Sup>2 </Sup>en los arroyos y de 300 a 400 m<Sup>2 </Sup>en los r&iacute;os, procurando abarcar todos los microh&aacute;bitats utilizados por los peces (fasies l&eacute;nticas, radier y pozas). Hicimos los recorridos de pesca en sentido contrario a la corriente del agua y visitamos cada punto de muestreo en dos ocasiones entre junio y agosto. Los peces que capturamos fueron colocados en recipientes con agua del mismo r&iacute;o, para luego identificarlos y medirlos con un calibrador. Posteriormente liberamos los peces, excepto 10 a 15 individuos por especie o morfotipos (en los m&aacute;s abundantes) que fueron fijados en formaldeh&iacute;do al 4%, para luego guardarlos en alcohol al 75%. Identifiqu&eacute; todos los individuos al nivel taxon&oacute;mico de acuerdo al conocimiento actual del grupo. Para esto utilic&eacute; las claves de Eigenmann (1918), Schultz (1944), G&eacute;ry (1977), Lauzanne &amp; Loubens (1985) y Burgess (1989). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abundancia relativa y Estimaci&oacute;n de la densidad relativa </b></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para el c&aacute;lculo de la abundancia relativa consider&eacute; el n&uacute;mero de individuos capturados por cada especie en relaci&oacute;n al n&uacute;mero total de individuos capturados en todo el estudio. Para la estimaci&oacute;n de la densidad relativa us&eacute; los datos de la captura total de los peces en cada punto de muestreo, considerando la superficie de muestreo abarcada (en m<Sup>2</Sup>) tanto en arroyos como r&iacute;os. Realic&eacute; los muestreos en aproximadamente 100 m<Sup>2 </Sup>a 400 m<Sup>2 </Sup>dependiendo del arroyo o r&iacute;o. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Datos biol&oacute;gicos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con los peces conservados realic&eacute; observaciones cualitativas, bajo un estereomicroscopio de los contenidos estomacales y de las g&oacute;nadas, para aproximar los per&iacute;odos de reproducci&oacute;n, basados en los par&aacute;metros establecidos por Bagenal (1978). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados </b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Riqueza y abundancia relativa </b></font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al cabo del muestreo, en los r&iacute;os y arroyos estudiados, identifiqu&eacute; un total de ocho especies (<a href="#t1">Tabla 1</a>, <a href="#f2">Figura 2</a>) (aparte de la trucha, <I>Oncorhynchus mykiss</I>, registrada s&oacute;lo por un individuo en la parte superior del r&iacute;o Huarinilla), agrupadas en siete g&eacute;neros, seis familias y dos &oacute;rdenes. </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t1"></a><img src="/img/revistas/reb/v41n1/tabla_a06_1.gif" width="580" height="379"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2"></a><img src="/img/revistas/reb/v41n1/figura_a06_2.gif" width="580" height="314"></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las especies con mayor n&uacute;mero de individuos capturados fueron <I>Hemibrycon beni </I>con 274 individuos (61.9% de las capturas) seguida de <I>Astroblepus </I>spp. (<I>A</I>. cf. <I>frenatus</I>, <I>A</I>. cf. <I>longiceps</I> y <I>A</I>. sp. 3) con 139 individuos capturados (31.4%) y<I>Trichomycterus </I>sp. 1 con 15 individuos capturados (3.4%) (<a href="#t2">Tabla 2</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t2"></a><a href="/img/revistas/reb/v41n1/tabla_a06_2.gif"><img src="/img/revistas/reb/v41n1/tabla_a06_2_.gif" width="400" height="290" border="0"></a></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Densidad y distribuci&oacute;n altitudinal </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La especie con mayor densidad relativa promedio calculada (78.1 ind./100m<Sup>2 </Sup>muestreados) fue <I>Hemibrycon beni </I>(Figura 3 y Tabla 1), aunque su distribuci&oacute;n es muy localizada y muy variable; desde 0.19 ind./100 m<Sup>2 </Sup>muestreados en el r&iacute;o Elena a 156 ind./ 100m<Sup>2 </Sup>muestreados en el r&iacute;o Huarinilla, cerca del pueblo de El Chairo (<a href="#t1">Tabla 1</a>, <a href="#f3">Figuras 3</a> y <a href="#f4">4</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f3"></a><img src="/img/revistas/reb/v41n1/figura_a06_3.gif" width="580" height="364"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f4"></a><img src="/img/revistas/reb/v41n1/figura_a06_4.gif" width="580" height="362"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La altitud m&aacute;xima a la que pude registrarla es a 1.360 m (en pozas a orillas del r&iacute;o Huarinilla, cerca de Huancan&eacute;). Con respecto a las otras especies de car&aacute;cidos -Tetragonopterinae sp. 1- tiene una de las densidades m&aacute;s bajas (0.6 ind./ 100 m<Sup>2 </Sup>muestreados) y solamente lo registr&eacute; en la confluencia de los r&iacute;os Elena y Huarinilla a 1.040 m; <I>Knodus </I>cf. <I>heteresthes </I>se distribuye entre los r&iacute;os Elena (con 0.38 ind./100m<Sup>2 </Sup>muestreados) y en la confluencia de &eacute;ste con el Huarinilla (con 2.3 ind./100 m<Sup>2 </Sup>muestreados), adem&aacute;s se distribuye -al igual que Tetragonopterinae sp. 1- hasta los 1.040 m (<a href="#f4">Figura 4</a>). <I>Parodon nasus </I>es otra especie con una densidad muy baja (1.1 ind./100 m<Sup>2 </Sup>muestreados), aunque su distribuci&oacute;n abarca una zona m&aacute;s amplia de 1.160 m (confluencia del arroyo Jucumarini con el Huarinilla) hasta 1.280 m (en el r&iacute;o Huarinilla cerca al pueblo de El Chairo) (<a href="#t1">Tabla 1</a> y <a href="#f3">Figura 3</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Astroblepus </I>spp. (<I>A</I>. cf. <I>frenatus</I>, <I>A</I>. cf. <I>longiceps</I> y <I>A</I>. sp. 3) es un grupo ampliamente distribuido y abarca casi todos los r&iacute;os y arroyos muestreados (desde 1.040-1.560 m) (Figura 4). La mayor densidad de estos peces est&aacute; en el arroyo Jucumarini (51 ind./100m<Sup>2 </Sup>muestreados), el resto de las densidades de <I>Astroblepus </I>van de 4.2 ind./100 m<Sup>2</Sup>muestreados (en el r&iacute;o Elena) a 30 ind./100m<Sup>2</Sup> muestreados (en el r&iacute;o Huarinilla en su porci&oacute;n cercana a la confluencia con el Jucumarini) (<a href="#t1">Tabla 1</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Despu&eacute;s de <I>Astroblepus </I>el segundo grupo m&aacute;s distribuido es <I>Trichomycterus </I>sp. 1, presente en los r&iacute;os Elena (0.19 ind./100m<Sup>2 </Sup>muestreados, a 1.040 m), Huarinilla cerca al arroyo Jucumarini (2.9 ind./100 m<Sup>2 </Sup>muestreados, a 1.160 m), Santa Catalina (2.7 ind./100 m<Sup>2 </Sup>muestreados, a 1.560 m) y en el arroyo Jucumarini (10 ind./100 m<Sup>2 </Sup>muestreados, a 1.160 m) (<a href="#t1">Tabla 1</a>). Como dato adicional, hall&eacute; accidentalmente cuatro individuos de este g&eacute;nero en un arroyo no considerado en el estudio a 1.680 m en la zona (<a href="#f4">Figura 4</a>). Por otro lado <I>Ancistrus </I>sp. tiene densidades muy bajas (0.38 a 2.9 ind./100 m<Sup>2 </Sup>muestreados) y su distribuci&oacute;n se limita a los r&iacute;os Huarinilla (cerca de su confluencia con el Elena), Elena (1.040 m) y el arroyo Jucumarini (a 1.160 m) (<a href="#f4">Figura 4</a>). </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Finalmente, el &uacute;nico pimel&oacute;dido que registr&eacute; en la zona -<I>Rhamdia quelen</I>- tiene una densidad muy baja (0.57 ind./100 m<Sup>2 </Sup>muestreados) y s&oacute;lo en la zona baja del r&iacute;o Huarinilla (hasta 1.160 m), cerca de la confluencia del arroyo Jucumarini (<a href="#t1">Tabla 1</a> y <a href="#f4">Figura 4</a>). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Datos biol&oacute;gicos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Astroblepus </I>spp. (<I>A</I>. cf. <I>frenatus</I>, <I>A</I>. cf. <I>longiceps y A. </I>sp. 3) son peces de tama&ntilde;o peque&ntilde;o y en la zona llegan hasta 110 mm. Los patrones de coloraci&oacute;n son muy variados, los cuales en la zona del Parque diferencian un total de 11 morfotipos. Estos patrones van desde individuos con color uniforme -ya sea claro (marr&oacute;n claro y crema) u oscuro (plomizo)hasta individuos con bandas perpendiculares naranjas y negras. Entre estos dos extremos, se presenta toda la gama posible de patrones de coloraci&oacute;n en individuos con manchas o puntos en varios patrones de dise&ntilde;os. Cada uno de estos patrones de coloraci&oacute;n es relativamente constante entre individuos de varios tama&ntilde;os y entre machos y hembras, por lo que pude diferenciar 11 tipos de patrones de coloraci&oacute;n. La situaci&oacute;n taxon&oacute;mica de Astroblepidae es complicada y es posible que el n&uacute;mero de especies en la zona sea mayor. En la zona est&aacute; presente principalmente en los r&aacute;pidos o radiers, es decir zonas con alta velocidad (&gt;130 cm/s). Por las observaciones cualitativas de los contenidos estomacales en los individuos de <I>Astroblepus </I>de esta zona pude determinar que son omn&iacute;voros por la presencia de macro invertebrados (Ephemeroptera y Diptera) y restos de material vegetal en los est&oacute;magos examinados (aunque podr&iacute;an tratarse de ingestas accidentales al capturar los invertebrados). Por los individuos analizados, un per&iacute;odo de reproducci&oacute;n (quiz&aacute;s no el &uacute;nico, por observarse ovocitos de varios tama&ntilde;os y en distintos estadios de maduraci&oacute;n) corresponder&iacute;a a los meses de julio a agosto (<a href="#t2">Tabla 2</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Rhamdia quelen</I>. El &uacute;nico individuo capturado ten&iacute;a 160 mm. Posee tres pares de barbillas que pueden llegar hasta m&aacute;s de la mitad del cuerpo. Posee dientes viliformes acomodados en forma de parches alargados en el hueso premaxilar y dentario. Por la observaci&oacute;n de su contenido estomacal, peces peque&ntilde;os y larvas de insectos relativamente grandes formar&iacute;an parte de su dieta (<a href="#t2">Tabla 2</a>). En la zona ha sido capturado en un sitio del r&iacute;o con bastante caudal y con algo de profundidad, lo cual da idea de sus preferencias de microh&aacute;bitat. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Ancistrus </I>sp. al igual que el caso de <I>Astroblepus </I>y otros peces neotropicales, la taxonom&iacute;a de este g&eacute;nero es complicada, por lo que la identificaci&oacute;n no pudo ser realizada hasta especie. En la zona de estudio habita principalmente en las zonas con alta velocidad (alrededor de 100 cm/s). A partir de la observaci&oacute;n de los contenidos estomacales, determin&eacute; que son ili&oacute;fagos, es decir que se alimentan de materia org&aacute;nica depositada en las rocas o en el fondo de los r&iacute;os (<a href="#t2">Tabla 2</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Trichomycterus </I>sp. El an&aacute;lisis de los contenidos estomacales en los ejemplares capturados revela que larvas de Diptera, Ephemeroptera, Coleoptera y Trichoptera formar&iacute;an parte de su dieta (<a href="#t2">Tabla 2</a>). Registr&eacute; a este grupo en casi todos los r&iacute;os, excepto el arroyo Yucupi. Al parecer, en la zona prefiere aguas con baja a media velocidad (30 a 70 cm/s). Registr&eacute; individuos menores a 30 mm en pozas en los m&aacute;rgenes del r&iacute;o Huarinilla e individuos m&aacute;s grandes (&gt;100 mm) en el cauce principal en zonas con baja velocidad. En los individuos analizados, el estado de maduraci&oacute;n de las g&oacute;nadas sugiere que tienen un per&iacute;odo reproductivo (quiz&aacute;s posea m&aacute;s de un periodo al a&ntilde;o) entre julio y agosto, al igual que <I>Astroblepus </I>(<a href="#t2">Tabla 2</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Parodon nasus</I>. Es conocido en la zona como tolosina y se caracteriza por poseer un cuerpo relativamente robusto. Su boca es &iacute;nfera, su mand&iacute;bula est&aacute; trasformada a manera de esp&aacute;tula y su premaxilar posee dientes incisiformes alineados en una sola hilera. Esta adaptaci&oacute;n le permite raspar el Periphyton de las rocas y capturar algunos invertebrados. Encontr&eacute; material vegetal, Diptera y Ephemeroptera en el an&aacute;lisis del contenido estomacal del &uacute;nico individuo (<a href="#t2">Tabla 2</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Knodus </I>cf. <I>heteresthes </I>y Tetragonopterinae sp. 1. son peces localmente conocidos como sardinitas. Se caracterizan por tener un cuerpo relativamente alargado y en el caso de <I>K. </I>cf<I>. heteresthes </I>posee dos bandas azuladas a los flancos. Al analizar los contenidos estomacales pude determinar que se alimentan de larvas de insectos e insectos terrestres (<a href="#t2">Tabla 2</a>). Lo encontr&eacute; espec&iacute;ficamente en zonas del r&iacute;o con velocidad moderada (50 a 70 cm/s). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Hemibrycon beni </I>son peces peque&ntilde;os a medianos, los individuos medidos no superaron los 62 mm. Su cuerpo es comprimido lateralmente. Posee una banda negra en la aleta caudal y dos bandas plateadas a lo largo de los flancos de cuerpo por lo que son llamados plateados en la zona. Los encontr&eacute; en pozas a los m&aacute;rgenes del cauce principal del r&iacute;o Huarinilla. Por lo observado en la zona al parecer existir&iacute;a una relaci&oacute;n entre la superficie de las pozas con el tama&ntilde;o de los individuos y el n&uacute;mero de los mismos, dado que se ha observado que a mayor superficie de la poza es mayor el tama&ntilde;o de los individuos, as&iacute; como mayor su n&uacute;mero. Las pozas que habita se caracterizan por poseer gran cantidad de larvas de insectos, principalmente Diptera y Trichoptera, que por el an&aacute;lisis de los contenidos estomacales constituyen parte de dieta. Su per&iacute;odo reproductivo podr&iacute;a estar comprendido entre noviembre a diciembre, por el estado de maduraci&oacute;n de los ovocitos en las hembras (<a href="#t2">Tabla 2</a>). </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n </b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Relaci&oacute;n de la distribuci&oacute;n de las especies con la altitud </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De acuerdo al presente estudio, posiblemente el l&iacute;mite de distribuci&oacute;n de las especies de la familia Characidae se encuentra a los 1.360 m (<a href="#f4">Figura 4</a>). A esta elevaci&oacute;n, esta familia est&aacute; representada solamente por <I>Hemibrycon beni </I>en la cuenca del r&iacute;o Huarinilla. Esta especie fue registrada por Pearson (1924) en la cuenca del r&iacute;o Beni a menos de 1.100 m. El g&eacute;nero <I>Hemibrycon </I>posee otras especies como <I>H. metae, H. jabonero y H. boqueae que habitan en r&iacute;os de Venezuela a 600 m, por lo que son conocidas como tetras de monta&ntilde;a (Nebolio 1980, Taphorn 1992, Palencia 1995). Su presencia en esta altitud posiblemente se deba a sus estrategias de comportamiento que le permitan resistir, ya sea migrando o utilizando refugios, frente a las fuertes crecidas caracter&iacute;sticas de la zona. Por otro lado, Astroblepus fue encontrado en este estudio hasta 1.560 m. Con este registro se incrementa el rango de distribuci&oacute;n conocido para este g&eacute;nero, ya que Lauzanne et al. (1991) y Ortega (1992) lo registran a 1.100 m y 1.000 m, respectivamente. Ha sido registrado en varios estudios entre los 600 y 1.100 m tanto en la subcuenca del r&iacute;o Mamor&eacute; como del r&iacute;o Beni (Pearson 1924, Fowler 1939, 1943, Lauzanne et al. 1991, Sarmiento &amp; Barrera 1997). Es un grupo </I>desconocido en cuanto a su ecolog&iacute;a y biolog&iacute;a, por lo que posee gran potencial para estudios de biolog&iacute;a y ecolog&iacute;a evolutivas, considerando su resistencia a ambientes como los r&iacute;os de monta&ntilde;a donde son necesarias adaptaciones para resistir las fuertes crecidas de los r&iacute;os. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Respecto a <I>Trichomycterus </I>sp. 1 registr&eacute; a este grupo a 1.680 m, con lo cual se incrementa el rango de distribuci&oacute;n altitudinal en esta cuenca, ya que hab&iacute;a sido previamente registrado a 1.400 m (Sarmiento &amp; Barrera 1997). Este registro fue accidental, debido a que el arroyo en que se encontr&oacute; no fue seleccionado como punto de muestreo. Este arroyo serv&iacute;a de toma de agua para consumo y para la planta hidroel&eacute;ctrica de la Estaci&oacute;n Biol&oacute;gica Tunquini. Este arroyo posee pendientes pronunciadas, ca&iacute;das de agua de m&aacute;s de 7 m y enormes crecidas en la &eacute;poca de lluvias. La presencia de estos peces en la parte superior de este arroyo apoya a la idea de su gran capacidad de colonizaci&oacute;n, adaptaci&oacute;n y supervivencia en condiciones poco favorables, como cavernas (Durand 1968, Trajano &amp; De Pinna 1996, Miranda &amp; Pouilly 1999, Pouilly &amp; Miranda 2003) y aguas termales (Fern&aacute;ndez &amp; Miranda-Chumacero, datos no publicados). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por su lado, <I>Ancistrus </I>sp. pese a ser bastante similar a <I>Astroblepus </I>(en cuanto a la morfolog&iacute;a del cuerpo con la posesi&oacute;n de ventosas bucales, radios ventrales desarrollados y la forma hidrodin&aacute;mica del cuerpo), s&oacute;lo llega hasta 1.160m, punto donde parece existir una barrera, ya sea ambiental y/o fisiol&oacute;gica, que impide su supervivencia a mayor altitud. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por lo observado en la zona, parecer&iacute;a que a 1.300 m de altitud existir&iacute;a un l&iacute;mite en la distribuci&oacute;n para el resto de las especies registradas (<a href="#f4">Figura 4</a>). Este patr&oacute;n de reducci&oacute;n de la riqueza de especies en la ictiofauna boliviana con la altitud ha sido observado por Lauzanne <I>et al. </I>(1991) y Sarmiento &amp; Barrera (1997) quienes mencionan una notable reducci&oacute;n entre 600 y 1.500 m, aunque no brindan detalles sobre los l&iacute;mites espec&iacute;ficos para las especies que habitan ese rango. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sheldon (1968) tambi&eacute;n registr&oacute; que en un sistema hidrogr&aacute;fico de Norteam&eacute;rica a una altitud de 300 m con 26 especies, la riqueza se reduce a cinco especies hasta 500 m. De forma similar, Nebolio (1980) registra s&oacute;lo cinco especies que superan los 1.000 m en un r&iacute;o de altitud, entre &eacute;stas <I>Astroblepus </I>y <I>Trichomycterus</I>. En mi estudio registr&eacute; ocho especies en los sitios m&aacute;s bajos (a 1.040 m) y s&oacute;lo dos (<I>Trichomycterus </I>sp. 1 y <I>Astroblepus </I>sp.) sobre los 1.560m (<a href="#f5">Figura 5</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f5"></a><img src="/img/revistas/reb/v41n1/figura_a06_5.gif" width="580" height="377"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dada la topograf&iacute;a del Parque Nacional Cotapata (<a href="#f1">Figura 1</a>) y sus caracter&iacute;sticas hidrodin&aacute;micas (Molina-Carpio 2005) (grandes crecidas anuales que arrastran gran cantidad de material como rocas de hasta 10 m<Sup>3</Sup>), los tipos de h&aacute;bitat que puede ofrecer pueden condicionar la capacidad adaptativa de las especies que viven en estos ambientes. Existe una fuerte presi&oacute;n ambiental que puede llegar a producir una gran variaci&oacute;n en el tama&ntilde;o poblacional. Y en adici&oacute;n a otros fen&oacute;menos como la contaminaci&oacute;n (Quiroga <I>et al. </I>1997) y la perturbaci&oacute;n por la construcci&oacute;n de la carretera Cotapata-Santa B&aacute;rbara (Malavoi 1989, Freeman et al. 2001, Miranda-Chumacero &amp; Pouilly, datos no publicados) puede conllevar a la desaparici&oacute;n de las especies. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Al parecer, la trucha (<I>Oncorhynchus mykiss</I>) podr&iacute;a sufrir de forma marcada estas presiones, por lo menos en la zona de los muestreos, ya que s&oacute;lo se hall&oacute; un individuo. Esto podr&iacute;a llevar a pensar que la mayor&iacute;a de las especies nativas de esta cuenca podr&iacute;an poseer mayor resistencia a los cambios bruscos de su ambiente que esta introducida. Incluso tomando en cuenta que las truchas en otros sistemas, como los Andes venezolanos son reguladoras de la biodiversidad (Bastardo et al. 1994). Aunque P&eacute;faur &amp; Sierra (1998) mencionan que la trucha es sensible a los pesticidas agr&iacute;colas usados en los cultivos de los bosques tropicales, lo cual tambi&eacute;n podr&iacute;a ser una otra causa de la baja densidad registrada en este estudio. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por consiguiente, las especies que puedan permanecer en este tipo de condiciones, gracias a estrategias comportamentales (uso de refugios y migraciones temporales) y/o estrategias adaptativas morfol&oacute;gicas y anat&oacute;micas (ventosas bucales, espinas operculares, radios ventrales, entre otros), pueden llevar a una especializaci&oacute;n, que podr&iacute;a traducirse en un alto nivel de endemismos especialmente en <I>Astroblepus</I>, <I>Trichomycterus </I>y algunos Tetragonopterinae (cuyas especies deben ser determinadas, despu&eacute;s de una revisi&oacute;n de estos g&eacute;neros y subfamilia). Aunque se conoce que la distribuci&oacute;n de los peces en los r&iacute;os responde a algunos par&aacute;metros como la altitud y la f&iacute;sico-qu&iacute;mica del agua (Sheldon 1968, Horwitz 1978, Taphorn 1992, Tanaguchi &amp; Nakano 2000), el mecanismo eco-fisiol&oacute;gico para la definici&oacute;n de este l&iacute;mite no es claro, constituy&eacute;ndose en un campo de estudios futuros. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Densidad y abundancia </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">He observado que las densidades de <I>Astroblepus </I>y <I>Trichomycterus </I>son mayores en los arroyos que en los r&iacute;os. Si bien podr&iacute;a estar relacionado con la capturabilidad -discutida m&aacute;s abajo- se podr&iacute;a sugerir un proceso de migraci&oacute;n reproductiva o de supervivencia hacia los arroyos. En el primer caso porque en los arroyos el caudal es notoriamente inferior al del r&iacute;o principal, lo cual puede facilitar el apareamiento, y la posterior supervivencia de los alevines. En el segundo caso y aunque relacionado con el primero, los arroyos podr&iacute;an servir como refugios permanentes o temporales en los que la descarga de materiales es menor con relaci&oacute;n a la del r&iacute;o principal. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Estas hip&oacute;tesis se constituyen en un campo de investigaci&oacute;n posterior en el que se deber&iacute;a realizar un monitoreo y seguimiento a las poblaciones de peces durante varios ciclos h&iacute;dricos. Un aspecto que debe tomarse en cuenta es que en la mayor&iacute;a de las especies la densidad no puede asumirse uniforme a lo largo de su distribuci&oacute;n en la cuenca. Por ejemplo <I>Hemibrycon beni </I>si bien presenta la densidad m&aacute;s alta de todas las especies (156 ind./100 m<Sup>2 </Sup>muestreados), en otro punto encontrado su densidad es una de las m&aacute;s bajas (0.19 ind./100 m<Sup>2 </Sup>muestreados) (<a href="#t1">Tabla 1</a>). Un aspecto que puede afectar a las estimaciones de la densidad es el comportamiento social de las especies (p.e. <I>Hemibrycon beni </I>es gregaria, mientras que otras como <I>Astroblepus </I>spp., <I>Trichomycterus </I>sp. 1 <I>Rhamdia quelen </I>y <I>Ancistrus </I>sp. son generalmente solitarias). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Es importante mencionar que tanto la abundancia relativa como la densidad no pueden ser tomadas como la medida de la cantidad real de peces que hay en un determinado lugar. Los peces ocupan un espacio tridimensional, por lo cual la aproximaci&oacute;n m&aacute;s real ser&iacute;a expresar la cantidad de individuos por m<Sup>3</Sup>. Esto es muy subjetivo ya que las profundidades (as&iacute; como la amplitud) no son constantes en r&iacute;os ni arroyos y los peces no se distribuyen uniformemente en el volumen de agua. Incluso aconsejar&iacute;a tomar la informaci&oacute;n de abundancia y densidad como la <I>capturablidad </I>de las especies, es decir no como el n&uacute;mero de individuos que existe en una superficie determinada, sino como el n&uacute;mero de individuos que puede ser capturado (con un m&eacute;todo determinado) en una superficie dada. Desde un punto de vista de manejo extractivo (p.e en el caso de peces ornamentales) podr&iacute;a ser m&aacute;s beneficioso, ya que al subestimar la abundancia y/o densidad reales, se planificar&iacute;a una cosecha con mucho menos impacto en la poblaci&oacute;n total. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Reproducci&oacute;n y dieta </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En cuanto a la reproducci&oacute;n, parece ser que, como ocurre con muchas especies de peces de la Amazon&iacute;a boliviana (Loubens &amp; Aquim 1986), la &eacute;poca de desove ocurre al inicio de la &eacute;poca de lluvias. Aunque por la presencia de ovocitos en distintos estados de maduraci&oacute;n, especialmente en <I>Astroblepus </I>spp. y <I>Trichomycterus </I>sp.1, podr&iacute;a suponer que exista m&aacute;s de un episodio de desove por a&ntilde;o o ciclo h&iacute;drico. </font></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Durante el estudio no he encontrado indicios de la supuesta viviparidad de <I>Astroblepus, </I>sugerida por el hecho que los machos poseen un gonopodio (ver Lauzanne &amp; Loubens 1985, Buitrago-Su&aacute;rez y Galvis 1997). Quiz&aacute;s este grupo posea fecundaci&oacute;n interna, la cual ser&iacute;a una adaptaci&oacute;n a la vida en este tipo de r&iacute;os. Este aspecto, por dem&aacute;s interesante, podr&iacute;a construirse en un tema de estudio en la zona. Por las observaciones de los contenidos estomacales, en la mayor proporci&oacute;n de las especies de la zona, larvas de Ephemeroptera y Diptera ser&iacute;an los organismos m&aacute;s consumidos. Esto es especialmente evidente en las especies reportadas a mayor altitud en la zona (<I>Astroblepus </I>spp. y <I>Trichomycterus </I>sp.1). Flecker (1992) ha determinado mediante experimentos que los peces en r&iacute;os pedemontanos son los principales estructuradores de la diversidad de macroinvertebrados. Este patr&oacute;n podr&iacute;a ser recurrente en r&iacute;os de monta&ntilde;a, pero es necesaria una investigaci&oacute;n espec&iacute;fica que lo demuestre en la zona. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los datos y an&aacute;lisis del presente estudio pueden servir como l&iacute;nea base para el desarrollo de investigaciones sobre las estrategias reproductivas, alimenticias y de adaptaciones generales de los peces (especialmente en <I>Astroblepus</I>, <I>Trichomycterus </I>y <I>Hemibrycon</I>) en relaci&oacute;n a los reg&iacute;menes h&iacute;dricos de los r&iacute;os de monta&ntilde;a. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Agradezco a la Fundaci&oacute;n McArthur, financiadora del estudio. Al Dr. Lu&iacute;s Pacheco, Coordinador Cient&iacute;fico (durante el estudio) de la Estaci&oacute;n Biol&oacute;gica Tunquini y a M. Sc. Julio Pinto, Jefe de la Unidad de Limnolog&iacute;a del Instituto de Ecolog&iacute;a, por su valioso apoyo al estudio. A D. Kopp, E. P&eacute;rez, F. Guerra, F. Miranda, A. Flores, C. Molina y a mi hermano Mauricio por su ayuda en el trabajo de campo. A C. Zepita, A. Est&iacute;variz e I. Iberkleid, por su ayuda en el trabajo de laboratorio. A los comunarios de El Chairo a quienes va dedicado el trabajo. Agradezco de forma especial a C. Lasso, a un revisor an&oacute;nimo y a P. Feinsinger por sus acertados y valiosos comentarios sobre el manuscrito. Finalmente agradezco a mi esposa e hijos por regalarme parte de su valioso tiempo para la realizaci&oacute;n del estudio. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias </b></font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Arratia, F. G. 1983. <I>Trichomycterus chungarensis </I>n. sp. and <I>Trichomycterus laucaensis </I>n. sp. (Pisces, Siluriformes, Trichomycteridae) from the high Andean range. Stud. Neotrop. Fauna &amp; Environm. 18: 65-87. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065361&pid=S1605-2528200600070000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bagenal, T.B. 1978. Aspects of fish fecundity, pp 75-101. En: Gerking S.D. (ed). Methods for the assessment of freshwaters fish production. Blakwell Scientific Publications, Oxford. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065362&pid=S1605-2528200600070000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bastardo, H., O. Infante &amp; S. Segnini. 1994. H&aacute;bitos alimenticios de la trucha arcoiris, <I>Oncorhynchus mykiss </I>(Salmoniformes: Salmonidae), en una quebrada altoandina venezolana. Rev. Biol. Trop. 42: 685 &ndash; 693. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Buitrago-Su&aacute;rez, U. A. &amp; G. Galvis. 1997. Description of some accessory structures of the urogenital system in the neotropical family Astroblepidae (Pisces, Siluroidei). Revista de la Academia Colombiana de Ciencias Exactas, F&iacute;sicas y Naturales 21:347-352. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Burgess, W. E. 1989. An atlas of freshwaters and marine Catfishes, a preliminary survey of the Siluriformes. Tfh Productions Inc. Neptune City. 784 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065365&pid=S1605-2528200600070000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Durand, J. P. (1968). Etude des poissons r&eacute;colt&eacute;s dans la grotte de Umayalanta (Bolivie), <I>Trichomycterus chaberti </I>sp. n. Annales de Sp&eacute;l&eacute;ologie 23: 343-353. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065366&pid=S1605-2528200600070000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Eigenmann, C.H. 1918. The Pygiidae, a family of South American catfishes. Mem. Carneg. Mus. 7:259-398. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065367&pid=S1605-2528200600070000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Flecker, A. S. 1992 b. Fish tropical guilds and the structure of a tropical stream: weak direct vs. strong indirect effect. Ecology 73: 927 &ndash; 940. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fowler, HF. 1939. Zoological results of the second Bolivian expedition for the Academy of Natural Sciences of Philadelphia, 1936-1937. Part I. The fishes. Proc. Acad. Nat. Sci. Philadelphia. 92:43-103. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065369&pid=S1605-2528200600070000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fowler, HF. 1943. Zoological results of the second Bolivian expedition for the Academy of Natural Sciences of Philadelphia, 1936-1937. Part II. Additional new fishes. Notulae naturae. Proc. Acad. Nat. Sci. Philadelphia. 120: 1-7. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065370&pid=S1605-2528200600070000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Freeman, M., Bowen, Z., Bovee, K. &amp; Irwin, E. 2001. Flow and Habitat effects on juvenile fish abundance in natural and altered regimes. Ecological Aplications, 11(1) 179-190. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065371&pid=S1605-2528200600070000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">G&eacute;ry, J. 1977. Characoids of the World. T.f.h. Publications, Inc. Ltd. 670 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065372&pid=S1605-2528200600070000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Horwitz, R. 1978.Temporal variability patterns and the distributional patterns of stream fishes. Ecological Monographs 48: 307-321. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065373&pid=S1605-2528200600070000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Lasso, A. C. 2001. Los peces del alto R&iacute;o Negro, amazon&iacute;a boliviana: Composici&oacute;n y consideraciones ecol&oacute;gicas y biogeogr&aacute;ficas. Interciencia, 26 (6): 236-243.</font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065374&pid=S1605-2528200600070000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Lasso A. C, Castell&oacute; V., Canales-Tilve T. &amp; J. Cabot-Nieves. 1999. Contribuci&oacute;n al conocimiento de la ictiofauna del r&iacute;o Paragu&aacute;, Cuenca del r&iacute;o Itenez o Guapor&eacute;, amazonia boliviana. Mem. Fund. La Salle Cienc. Nat. 152:89-104. Lauzanne, L. &amp; G. Loubens. 1985. Peces del r&iacute;o Mamor&eacute;. ORSTOM. 116 p. La Paz. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065375&pid=S1605-2528200600070000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Lauzanne, L., Loubens, G. &amp; B. Le Guennec. 1991. Liste comment&eacute;e des poissons de l&rsquo;Amazonie bolivienne. Revue d&rsquo;hydrobiologie Tropicale, 24 : 61-76. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Loubens, G. &amp; Aquim, J.L. 1986. Sexualidad y reproducci&oacute;n de los principales peces de la cuenca del r&iacute;o Mamor&eacute;, Beni, Bolivia. Informe t&eacute;cnico N&ordm; 5. Convenio ORSTOM &ndash; UTB &ndash; CORDEBENI. 45 p. Trinidad. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Malavoi, J. 1989. Typologie des facies d&rsquo;ecoulement ou unites morphodinamiques des cours d&rsquo;eau a haute energie. Bull. Fr. P&eacute;che Piscic. 315: 189-210. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Miranda, G. &amp; Pouilly, M. 1999. Ecolog&iacute;a comparativa de poblaciones superficiales y cavern&iacute;colas de <I>Trichomycterus </I>spp. (Siluriformes) en el Parque Nacional de Torotoro. Rev. Bol. De Ecol. 6:163-171. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065379&pid=S1605-2528200600070000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Molina-Carpio, J. 2005.R&eacute;gimen de precipitaci&oacute;n en la cuenca del Huarinilla-Cotapata, La Paz-Bolivia. Ecolog&iacute;a en Bolivia, 40 (1): 43-55. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065380&pid=S1605-2528200600070000600021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Morales, C. De (Ed). 1995. Caminos de Cotapata. Instituto de Ecolog&iacute;a, FUNDECO, FONAMA. La Paz, Bolivia. 174 pp. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065381&pid=S1605-2528200600070000600022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nebolio, E. 1980. Composici&oacute;n de las comunidades de peces de la cuenca del r&iacute;o Chama, M&eacute;rida, Venezuela, el sistema del r&iacute;o Mocot&iacute;es.767-780. En Actas del III Congreso Latinoamericano de Zoolog&iacute;a. Tomo I. Editor Pedro J. Salinas. M&eacute;rida, Venezuela. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065382&pid=S1605-2528200600070000600023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ortega, H. 1992. Biogeograf&iacute;a de los peces de aguas continentales del Per&uacute;, con especial referencia a especies registradas a altitudes superiores a los 1.000 m. Memorias del Museo de Historia Natural, UNMSM. 21:39-45. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065383&pid=S1605-2528200600070000600024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Palencia, P. 1995. Clave identificatoria para los peces de la cuenca alta de los r&iacute;os Uribante y Dorada, Edo. T&aacute;chira, Venezuela. Rev. Ecol. Lat. Am. 3(1): 1-4. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065384&pid=S1605-2528200600070000600025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, N. E. 1924. The fishes of the eastern slope of the Andes. I. The fishes of the rio Beni basin, Bolivia, Collected by the Mulford Expedition. Indiana University Studies XI (64): 1-83. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065385&pid=S1605-2528200600070000600026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">P&eacute;faur, J. E. &amp; Sierra, N. M. 1998. Distribuci&oacute;n y densidad de la trucha <I>Oncorhynchus mykiss </I>(Salmoniformes: Salmonidae) en los Andes venezolanos. Rev. biol. trop, Set, 46, (3), p.775-782. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pouilly, M. &amp; Miranda, G. 2003. Morphology and reproduction of the cavefish <I>Trichomycterus chaberti </I>and the related epigean <I>Trichomycterus </I>cf. <I>barbouri</I>. Journal of Fish Biology 63:490-505. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065387&pid=S1605-2528200600070000600028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Quiroga I., Maurice-Bourgoin L., &amp; O. Malm 1997. Contaminaci&oacute;n por mercurio de los r&iacute;os Chairo y Huarinilla en el Parque nacional y &Aacute;rea natural de manejo integrado Cotapata, Dept. de La Paz. Revista Boliviana de Qu&iacute;mica, 14 (1) : 68-80. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sarmiento, J. &amp; S. Barrera1997. Observaciones preliminares sobre la ictiofauna de la vertiente oriental andina de Bolivia. Rev. Bol. de Ecol. 2: 77-99. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sarmiento, J. 1998. A preliminary list of the fishes of Parque Nacional Noel Kempff Mercado, Bolivia. Pp 356-367. Killeen T.J. y T.S. Schulenberg, (Eds.), RAP Working Papers N&ordm; 10, Conservation International, Washington D.C. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065390&pid=S1605-2528200600070000600031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Schultz, L. P. 1944. The catfishes of Venezuela with description of thirty-eight new form. Proc. US. Nat. Mus., 94:173-338. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065391&pid=S1605-2528200600070000600032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sevilla, M. 2003. Usos del suelo, conservaci&oacute;n de la naturaleza y desarrollo rural en el cerro Nogalani y el valle bajo del r&iacute;o Huarinilla. Tesis de Maestr&iacute;a, Universidad Aut&oacute;noma de Madrid, Espa&ntilde;a. 131 pp. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065392&pid=S1605-2528200600070000600033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sheldon, A. 1968. Species diversity and longitudinal succession in stream fishes. Ecology 49(2): 193-198. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065393&pid=S1605-2528200600070000600034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SNHN (Servicio Nacional de Hidrograf&iacute;a Naval). 1998. Hidrograf&iacute;a de Bolivia. 1<Sup>ra </Sup>Edici&oacute;n.. La Paz. 358 pp. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065394&pid=S1605-2528200600070000600035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tanaguchi, Y. &amp; Nakano, S. 2000. Conditionspecific competition: implications for the altitudinal distribution of stream fishes. Ecology, 81 (7):2027-2039. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065395&pid=S1605-2528200600070000600036&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Taphorn, D. C. 1992 The characiform fishes of the Apure River drainage, Venezuela. Biollania Edici&oacute;n Especial - No. 4. Monografias Cientificas del Museo de Ciencias Naturales, UNELLEZ &mdash; Guanara, estado Portuguesa, Venezuela. 1-537 </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Trajano, E. &amp; De Pinna. 1996. A new cave species of <I>Trichomycterus </I>from Eastern Brazil (Siluriformes, Trichomycteridae) Revue fr. Aquariol., 23,3-4. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=065397&pid=S1605-2528200600070000600038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Noviembre de 2004. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Peter Feinsinger</font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Aceptado en: Enero de 2006. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arratia]]></surname>
+<given-names><![CDATA[F.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trichomycterus chungarensis n. sp]]></article-title>
+<source><![CDATA[and Trichomycterus laucaensis n. sp. (Pisces, Siluriformes, Trichomycteridae) from the high Andean range. Stud Neotrop Fauna & Environm]]></source>
+<year>1983</year>
+<volume>18</volume>
+<page-range>65-87</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bagenal]]></surname>
+<given-names><![CDATA[T.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Aspects of fish fecundity]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Gerking]]></surname>
+<given-names><![CDATA[S.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Methods for the assessment of freshwaters fish production]]></source>
+<year>1978</year>
+<page-range>75-101</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Blakwell Scientific]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bastardo]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Infante]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Hábitos alimenticios de la trucha arcoiris, Oncorhynchus mykiss (Salmoniformes. Salmonidae), en una quebrada altoandina venezolana]]></article-title>
+<source><![CDATA[Rev Biol Trop]]></source>
+<year>1994</year>
+<volume>42</volume>
+<page-range>685 - 693</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buitrago-Suárez]]></surname>
+<given-names><![CDATA[U.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galvis]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Description of some accessory structures of the urogenital system in the neotropical family Astroblepidae (Pisces, Siluroidei)]]></article-title>
+<source><![CDATA[Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales]]></source>
+<year>1997</year>
+<volume>21</volume>
+<page-range>347-352</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Burgess]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An atlas of freshwaters and marine Catfishes, a preliminary survey of the Siluriformes]]></source>
+<year>1989</year>
+<page-range>784</page-range><publisher-loc><![CDATA[Neptune ]]></publisher-loc>
+<publisher-name><![CDATA[Tfh Productions]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Durand]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Etude des poissons récoltés dans la grotte de Umayalanta (Bolivie), Trichomycterus chaberti sp]]></article-title>
+<source><![CDATA[n. Annales de Spéléologie]]></source>
+<year>(196</year>
+<month>8)</month>
+<volume>23</volume>
+<page-range>343-353</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eigenmann]]></surname>
+<given-names><![CDATA[C.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The Pygiidae, a family of South American catfishes]]></article-title>
+<source><![CDATA[Mem Carneg Mus]]></source>
+<year>1918</year>
+<volume>7</volume>
+<page-range>259-398</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Flecker]]></surname>
+<given-names><![CDATA[A.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Fish tropical guilds and the structure of a tropical stream: weak direct vs. strong indirect effect]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1992</year>
+<month>b</month>
+<volume>73</volume>
+<page-range>927 - 940</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fowler]]></surname>
+<given-names><![CDATA[HF.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Zoological results of the second Bolivian expedition for the Academy of Natural Sciences of Philadelphia, 1936-1937. Part I. The fishes]]></article-title>
+<source><![CDATA[Proc Acad Nat Sci Philadelphia]]></source>
+<year>1939</year>
+<volume>92</volume>
+<page-range>43-103</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fowler]]></surname>
+<given-names><![CDATA[HF.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Zoological results of the second Bolivian expedition for the Academy of Natural Sciences of Philadelphia, 1936-1937. Part II. Additional new fishes. Notulae naturae]]></article-title>
+<source><![CDATA[Proc Acad Nat Sci Philadelphia]]></source>
+<year>1943</year>
+<volume>120</volume>
+<page-range>1-7</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Freeman]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bowen]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bovee]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Irwin]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Flow and Habitat effects on juvenile fish abundance in natural and altered regimes]]></article-title>
+<source><![CDATA[Ecological Aplications]]></source>
+<year>2001</year>
+<volume>11</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>179-190</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Géry]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Characoids of the World]]></source>
+<year>1977</year>
+<page-range>670</page-range><publisher-name><![CDATA[T.f.h. Publications]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Horwitz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Temporal variability patterns and the distributional patterns of stream fishes]]></article-title>
+<source><![CDATA[Ecological Monographs]]></source>
+<year>1978</year>
+<volume>48</volume>
+<page-range>307-321</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lasso]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Los peces del alto Río Negro, amazonía boliviana: Composición y consideraciones ecológicas y biogeográficas]]></article-title>
+<source><![CDATA[Interciencia]]></source>
+<year>2001</year>
+<volume>26</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>236-243</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lasso]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Castelló]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Canales-Tilve]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cabot-Nieves]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Contribución al conocimiento de la ictiofauna del río Paraguá, Cuenca del río Itenez o Guaporé, amazonia boliviana]]></article-title>
+<source><![CDATA[Mem Fund La Salle Cienc Nat]]></source>
+<year>1999</year>
+<volume>152</volume>
+<page-range>89-104</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lauzanne]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loubens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Peces del río Mamoré]]></source>
+<year>1985</year>
+<page-range>116</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[ORSTOM]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lauzanne]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loubens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le-Guennec]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Liste commentée des poissons de l&#8217;Amazonie bolivienne]]></article-title>
+<source><![CDATA[Revue dhydrobiologie Tropicale]]></source>
+<year>1991</year>
+<volume>24</volume>
+<page-range>61-76</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loubens]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aquim]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Sexualidad y reproducción de los principales peces de la cuenca del río Mamoré, Beni, Bolivia]]></source>
+<year>1986</year>
+<page-range>45</page-range><publisher-loc><![CDATA[Trinidad ]]></publisher-loc>
+<publisher-name><![CDATA[Convenio ORSTOM - UTB - CORDEBENI]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Malavoi]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[Typologie des facies d&#8217;ecoulement ou unites morphodinamiques des cours d&#8217;eau a haute energie]]></article-title>
+<source><![CDATA[Bull Fr Péche Piscic]]></source>
+<year>1989</year>
+<volume>315</volume>
+<page-range>189-210</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Miranda]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Ecología comparativa de poblaciones superficiales y cavernícolas de Trichomycterus spp_ (Siluriformes) en el Parque Nacional de Torotoro]]></article-title>
+<source><![CDATA[Rev Bol De Ecol]]></source>
+<year>1999</year>
+<volume>6</volume>
+<page-range>163-171</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Molina-Carpio]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Régimen de precipitación en la cuenca del Huarinilla-Cotapata, La Paz-Bolivia]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2005</year>
+<volume>40</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>43-55</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morales]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caminos de Cotapata]]></source>
+<year>1995</year>
+<page-range>174</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Ecología, FUNDECO, FONAMA]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nebolio]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Composición de las comunidades de peces de la cuenca del río Chama, Mérida, Venezuela, el sistema del río Mocotíes]]></article-title>
+<source><![CDATA[]]></source>
+<year>1980</year>
+<conf-name><![CDATA[III Congreso Latinoamericano de Zoología]]></conf-name>
+<conf-loc> </conf-loc>
+<page-range>767-780</page-range><publisher-loc><![CDATA[Mérida ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ortega]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Biogeografía de los peces de aguas continentales del Perú, con especial referencia a especies registradas a altitudes superiores a los 1. 000 m]]></article-title>
+<source><![CDATA[Memorias del Museo de Historia Natural, UNMSM]]></source>
+<year>1992</year>
+<volume>21</volume>
+<page-range>39-45</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Palencia]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Clave identificatoria para los peces de la cuenca alta de los ríos Uribante y Dorada, Edo. Táchira, Venezuela]]></article-title>
+<source><![CDATA[Rev Ecol Lat Am]]></source>
+<year>1995</year>
+<volume>3</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>1-4</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[N.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The fishes of the eastern slope of the Andes. I. The fishes of the rio Beni basin, Bolivia, Collected by the Mulford Expedition]]></article-title>
+<source><![CDATA[Indiana University Studies]]></source>
+<year>1924</year>
+<volume>XI</volume>
+<numero>64</numero>
+<issue>64</issue>
+<page-range>1-83</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Péfaur]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sierra]]></surname>
+<given-names><![CDATA[N.M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Distribución y densidad de la trucha Oncorhynchus mykiss (Salmoniformes: Salmonidae) en los Andes venezolanos]]></article-title>
+<source><![CDATA[Rev biol trop Set]]></source>
+<year>1998</year>
+<volume>46</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>775-782</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pouilly]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miranda]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Morphology and reproduction of the cavefish Trichomycterus chaberti and the related epigean Trichomycterus cf. barbouri]]></article-title>
+<source><![CDATA[Journal of Fish Biology]]></source>
+<year>2003</year>
+<volume>63</volume>
+<page-range>490-505</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maurice Bourgoin]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[&]]></surname>
+<given-names><![CDATA[Malm O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Contaminación por mercurio de los ríos Chairo y Huarinilla en el Parque nacional y Área natural de manejo integrado Cotapata, Dept. de La Paz]]></article-title>
+<source><![CDATA[Revista Boliviana de Química]]></source>
+<year>1997</year>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>68-80</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sarmiento]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barrera]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Observaciones preliminares sobre la ictiofauna de la vertiente oriental andina de Bolivia]]></article-title>
+<source><![CDATA[Rev. Bol. de Ecol.]]></source>
+<year>1997</year>
+<volume>2</volume>
+<page-range>77-99</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sarmiento]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A preliminary list of the fishes of Parque Nacional Noel Kempff Mercado, Bolivia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Killeen]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schulenberg]]></surname>
+<given-names><![CDATA[T.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[RAP Working Papers Nº 10]]></source>
+<year>1998</year>
+<page-range>356-367</page-range><publisher-loc><![CDATA[Washington^eD.C. D.C.]]></publisher-loc>
+<publisher-name><![CDATA[Conservation International]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schultz]]></surname>
+<given-names><![CDATA[L.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The catfishes of Venezuela with description of thirty-eight new form]]></article-title>
+<source><![CDATA[Proc. US. Nat. Mus.]]></source>
+<year>1944</year>
+<volume>94</volume>
+<page-range>173-338</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sevilla]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Usos del suelo, conservación de la naturaleza y desarrollo rural en el cerro Nogalani y el valle bajo del río Huarinilla]]></source>
+<year>2003</year>
+<page-range>131</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sheldon]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Species diversity and longitudinal succession in stream fishes]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1968</year>
+<volume>49</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>193-198</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<collab>SNHN (Servicio Nacional de Hidrografía Naval)</collab>
+<source><![CDATA[Hidrografía de Bolivia]]></source>
+<year>1998</year>
+<edition>1</edition>
+<page-range>358</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tanaguchi]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nakano]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Conditionspecific competition: implications for the altitudinal distribution of stream fishes]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2000</year>
+<volume>81</volume>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>2027-2039</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Taphorn]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The characiform fishes of the Apure River drainage, Venezuela]]></source>
+<year>1992</year>
+<page-range>1-537</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Trajano]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De Pinna]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A new cave species of Trichomycterus from Eastern Brazil (Siluriformes, Trichomycteridae)]]></article-title>
+<source><![CDATA[Revue fr. Aquariol.]]></source>
+<year>1996</year>
+<volume>23</volume>
+<page-range>3-4</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

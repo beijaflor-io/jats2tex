@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282006001000007</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Tamaño de grupo, estructura de edad y proporción de sexos de una población de taruka (Hippocamelus antisensis d&#8217;Orbigny, 1834) en el cantón Lambate, Departamento de La Paz, Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Group size, age structure, and sex ratio of a population of Andean Deer (Hippocamelus antisensis d&#8217;Orbigny, 1834) in Lambate, La Paz Department, Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[Angela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[Teresa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Centro de Estudios en Biología Teórica y Aplicada (BIOTA)  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Colección Boliviana de Fauna  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>10</month>
+<year>2006</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>10</month>
+<year>2006</year>
+</pub-date>
+<volume>41</volume>
+<numero>2</numero>
+<fpage>171</fpage>
+<lpage>177</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282006001000007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282006001000007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282006001000007&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Nota</font></b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Tama&ntilde;o de grupo,  estructura de edad y proporci&oacute;n de sexos de una poblaci&oacute;n de taruka (<I>Hippocamelus antisensis </I>d&rsquo;Orbigny, 1834) en el cant&oacute;n Lambate, Departamento de La Paz, Bolivia</b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Group size, age structure, and sex ratio of a population of Andean Deer (<I>Hippocamelus antisensis </I>d&rsquo;Orbigny, 1834) in Lambate, La Paz Department, Bolivia </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Angela Nu&ntilde;ez<Sup>1</Sup> &amp; Teresa Tarifa<Sup>2,3 </Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Centro de Estudios en Biolog&iacute;a Te&oacute;rica y Aplicada (BIOTA), Casilla 9641,    La Paz &ndash; Bolivia. E-mail: <a href="mailto:tarukaan@yahoo.com">tarukaan@yahoo.com</a> </font>    <br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>2</Sup>Colecci&oacute;n Boliviana de Fauna, Casilla 8706, La Paz &ndash; Bolivia. </font>    ]]></body>
+<body><![CDATA[<br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>3</Sup>Direcci&oacute;n actual: 3407 Fairoaks Circle, Caldwell, Idaho 83605, USA.    E-mail: <a href="mailto:teresa_tarifa@yahoo.com">teresa_tarifa@yahoo.com</a></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I>Hippocamelus antisensis </I>(d&rsquo; Orbigny, 1834), com&uacute;nmente conocida como taruka o taruja -palabras que en Quechua y Aymara significan venado- est&aacute; considerada como la especie de ciervo menos conocida en Latino Am&eacute;rica y globalmente. Su rango de distribuci&oacute;n se ha reducido en un 60% y son escasos los trabajos que se han publicado sobre su distribuci&oacute;n, biolog&iacute;a y ecolog&iacute;a (Weber &amp; Gonz&aacute;lez 2003). La taruka est&aacute; incluida en el Ap&eacute;ndice I de CITES y en la categor&iacute;a Datos Insuficientes de la Uni&oacute;n Internacional para la Conservaci&oacute;n de la Naturaleza (UICN, Wemmer 1998). En Bolivia ha sido listada en el Libro Rojo de los Vertebrados de Bolivia como una especie En Peligro, debido a que est&aacute; afectada por la cacer&iacute;a, la destrucci&oacute;n de su h&aacute;bitat natural y la reducci&oacute;n de su &aacute;rea de distribuci&oacute;n (Tarifa 1996). En Bolivia, hasta el presente se ha publicado y estudiado muy poco sobre esta especie de ciervo, tanto sobre su distribuci&oacute;n (Jungius 1974, Yensen et al. 1994, PAHS 1995, Anderson 1997), as&iacute; como sobre su ecolog&iacute;a, historia natural y estado de conservaci&oacute;n (Tarifa 1996, Nu&ntilde;ez 1999, Pardo 2001, Tarifa et al. 2001, Nu&ntilde;ez 2005, Nu&ntilde;ez en prep.); lo que se sabe sobre la taruka proviene de estudios realizados en Per&uacute;, Chile y Argentina. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La taruka habita entre los 2.500 y 5.200 m de altitud en empinadas laderas de monta&ntilde;a y pastizales andinos abiertos, terrenos rocosos sobre la l&iacute;nea de &aacute;rboles o al borde del bosque montano h&uacute;medo (Regidor et al. 1997, Wemmer 1998, Tarifa &amp; Yensen 2004). En algunos estudios se determin&oacute; que la taruka realiza movimientos estacionales; en verano habita en pastizales de altura y en invierno en los valles, o permanece sobre la l&iacute;nea de &aacute;rboles en el verano y desciende a los bosques en invierno (Roe &amp; Rees 1976, Redford &amp; Eisenberg 1992, von Tschudi 1844, 1846 en D&iacute;az 1995, Eisenberg &amp; Redford 1999). Otros autores determinaron que este ascenso y descenso correspond&iacute;a a un movimiento diario en lugar de s&oacute;lo estacional (Glade 1985, Merkt 1987, Salaz s. f.). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La taruka forma grupos de 3 a 12 individuos, compuestos por un macho adulto, varias hembras adultas y juveniles de ambos sexos (Jungius 1974, Wemmer 1998). Merkt (1987) mencion&oacute; una composici&oacute;n promedio de 2.4 machos adultos, 3.9 hembras adultas y 2.8 cr&iacute;as, si las hubiera. El tama&ntilde;o m&aacute;ximo reportado fue de 31 individuos. Una hembra adulta y generalmente la m&aacute;s vieja gu&iacute;a al grupo que dedica la mayor parte del tiempo al consumo de alimentos (Sielfeld et al. 1988 en D&iacute;az 1995, Salaz s. f.). Los individuos solitarios no son comunes, aunque los machos adultos tienden a formar grupos m&aacute;s peque&ntilde;os con los machos juveniles (Merkt 1987). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La estructura de una poblaci&oacute;n (tama&ntilde;o y composici&oacute;n de grupo) est&aacute; estrechamente relacionada con factores ecol&oacute;gicos importantes, como distribuci&oacute;n de recursos y refugio, densidad de los individuos, uso del &aacute;rea de acci&oacute;n y la presi&oacute;n humana, por ello se ha sugerido que esta estructura es un indicador del estado de conservaci&oacute;n de la especie y del desarrollo de su comportamiento social (Bon et al. 1986, Putman 1988, Soriguer et al. 1994). Dada la escasez de estudios sobre la taruka en Bolivia y la urgencia de conocer sobre la ecolog&iacute;a de esa especie con el fin de guiar planes y estrategias de conservaci&oacute;n de la especie, llevamos a cabo este estudio en el cant&oacute;n Lambate del departamento de La Paz con el objetivo de obtener datos sobre el tama&ntilde;o de grupos, la estructura de edad y la proporci&oacute;n de sexos, para luego relacionar esos datos con el estado de conservaci&oacute;n de la especie en esa regi&oacute;n. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El &aacute;rea de estudio se ubica en el cant&oacute;n Lambate, provincia Sud Yungas del departamento de La Paz, Bolivia (16&ordm;31&rsquo; 16&ordm;36&rsquo; S y 67&ordm;40&rsquo; - 67&ordm;36&rsquo; O). Abarca una superficie de 13.83 km<Sup>2 </Sup>y un rango de alturas de 3.900 a 4.385 m (<a href="#f1">Figura 1</a>). Forma parte de la Cordillera Oriental de los Andes y presenta valles profundos y lagunas de origen glacial. Corresponde a una transici&oacute;n entre p&aacute;ramo yungue&ntilde;o y el piso altoandino semi-h&uacute;medo (Ribera 1992). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v41n2/figura_a07_1.gif" width="564" height="393"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La ecoregi&oacute;n altoandina semi-h&uacute;meda es oligot&eacute;rmica con frecuentes heladas. Tiene una precipitaci&oacute;n promedio anual inferior a 700 mm y presenta frecuentes neblinas y finas lloviznas. La fauna presenta elementos caracter&iacute;sticos del piso altoandino. Entre los mam&iacute;feros grandes y medianos destacan el jukumari (<I>Tremarctos ornatus</I>), el puma (<I>Puma concolor</I>) y el zorro andino (<I>Pseudalopex culpaeus</I>); entre las aves est&aacute;n el c&oacute;ndor (<I>Vultur gryphus</I>), el ganso andino (<I>Chloephaga melanoptera</I>), patos (<I>Anas georgica </I>y <I>Anas flavirostris</I>), el ibis (<I>Theristicus melanopis</I>), la gaviota andina <I>(Larus serranus</I>), el alkamari (<I>Phalcobaenus magalopterus</I>), <I>Cinclodes fuscus </I>y otras (PAHS 1995, Rechberger et al. en prep.). </font></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El estudio se realiz&oacute; en la &eacute;poca seca (abril a octubre) de 1997. Determinamos el tama&ntilde;o y estructura de la poblaci&oacute;n de tarukas a partir de encuentros directos con grupos e individuos. Realizamos caminatas diarias entre las 06:00 y las 18:00 horas con un promedio de ocho horas diarias. Trabajamos en el terreno un total de 110 d&iacute;as y un estimado de 880 horas. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En cada encuentro registramos el n&uacute;mero de individuos y determinamos la edad relativa y sexo. Para individualizar los animales observados, usamos caracter&iacute;sticas como el tama&ntilde;o del cuerpo, coloraci&oacute;n del pelaje en el caso de las hembras y tama&ntilde;o de las astas en el caso de los machos. Estimamos la edad por el tama&ntilde;o que presentaban los individuos y diferenciamos entre cervato, juvenil y adulto. Determinamos el sexo considerando el dimorfismo sexual entre hembras y machos con base en la ausencia y la presencia de astas, respectivamente. En el caso de los cervatos y juveniles machos, las astas debieron estar ausentes o presentarse sin ramificaci&oacute;n (Pearson 1951, Roe &amp; Rees 1976, Montecinos 1995). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tuvimos 13 encuentros directos con tarukas, totalizando 20 individuos (<a href="#t1">Tabla 1</a>). Diez observaciones (50%) correspondieron a individuos solitarios, dos a un par y uno a un grupo de seis. Los individuos solitarios fueron cinco machos, cuatro hembras y uno indeterminado. Una de las parejas estuvo formada por dos hembras, una adulta y otra juvenil, mientras que la otra pareja fue de dos machos, un adulto y un juvenil. El grupo de seis individuos estuvo formado por cuatro adultos, tres hembras y un macho y dos juveniles, un macho y una hembra. No observamos cr&iacute;as en la poblaci&oacute;n. El tama&ntilde;o promedio (y desviaci&oacute;n est&aacute;ndar) de grupo fue de 1.54 &plusmn; 1.39 individuos (n = 13). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t1" id="t1"></a><img src="/img/revistas/reb/v41n2/tabla_a07_1.gif" width="577" height="297"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Determinamos la edad y el sexo de 19 de los individuos observados. El n&uacute;mero de individuos adultos (15 individuos) fue mayor que el de j&oacute;venes (4 individuos), representando una proporci&oacute;n de 3.7 adultos por 1 juvenil. El n&uacute;mero de hembras (10 individuos) fue muy similar al de machos (9 individuos) con una proporci&oacute;n de 1.1 hembras por 1 macho (<a href="#t1">Tabla 1</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La predominancia de individuos solitarios en la poblaci&oacute;n de tarukas en Lambate no correspondi&oacute; con lo que esper&aacute;bamos encontrar. Los ungulados, en general, suelen tener car&aacute;cter solitario en las especies que ocupan ambientes boscosos o cerrados, donde la relaci&oacute;n social se limita al establecimiento de parejas o a la relaci&oacute;n madre-cr&iacute;a, en tanto que en ambientes abiertos de praderas y altiplanos, como el h&aacute;bitat de nuestra &aacute;rea de estudio, es com&uacute;n la presencia de grandes grupos (Merkt 1987; Putman 1988; Soriguer et al. 1994). Adem&aacute;s, cuando la poblaci&oacute;n alcanza altas densidades, los individuos tienden a formar grupos m&aacute;s grandes y se da una mayor tolerancia social entre individuos, lo que indica una relaci&oacute;n directamente proporcional: grupos m&aacute;s grandes - alta densidad de la poblaci&oacute;n (Putman 1988; Soriguer et al. 1994). Merkt (1987) en su estudio sobre la taruka en Per&uacute; indic&oacute; un tama&ntilde;o promedio de grupo de 6.4 individuos; los individuos solitarios fueron poco comunes. Otro dato corresponde a la regi&oacute;n de Parinacota en Chile con un tama&ntilde;o promedio de 4.4 individuos (n = 8; W. Sielfeld, com. pers. 2006). La predominancia de individuos solitarios en Lambate (10 observaciones de 13), estar&iacute;a reflejando una relaci&oacute;n: grupos peque&ntilde;os &ndash; baja densidad de la poblaci&oacute;n y por lo tanto estar&iacute;a indicando serios problemas de conservaci&oacute;n y probable peligro de extinci&oacute;n local. Aunque el &aacute;rea de muestreo es peque&ntilde;a y considerando el esfuerzo realizado, la cantidad de tarukas vistas fue m&iacute;nima. Si todas las tarukas observadas correspondieron a individuos distintos, la densidad ser&iacute;a de aproximadamente 1.5 individuos/km<Sup>2</Sup>. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otra explicaci&oacute;n posible que podr&iacute;a esclarecer la preponderancia de individuos solitarios en la poblaci&oacute;n de taruka en Lambate se refiere a la relaci&oacute;n entre el tama&ntilde;o de grupo y la disponibilidad de alimento; este factor a su vez se relaciona con la estacionalidad, pues durante la &eacute;poca seca la oferta de forraje no se encuentra disponible en igual cantidad ni calidad, as&iacute; que los animales tienden a migrar en busca de alimento (Putman 1988). En el caso de la taruka, los individuos tender&iacute;an a descender hacia los valles (Merkt 1987), y si no lo hacen los individuos solitarios tendr&iacute;an m&aacute;s posibilidades de poder abastecer sus necesidades (Putman 1988). Durante el tiempo que dur&oacute; nuestro trabajo de campo, el h&aacute;bitat de la taruka estaba afectado por quemas o sobrepastoreo por ganado vacuno. Suponemos que estas condiciones podr&iacute;an haber disminuido el recurso para la especie en algunos sectores; los individuos solitarios tendr&iacute;an m&aacute;s posibilidades de encontrar alimento. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La baja proporci&oacute;n de j&oacute;venes con relaci&oacute;n a los adultos y la ausencia de cr&iacute;as podr&iacute;a indicar una alta mortalidad en j&oacute;venes y cr&iacute;as por el antes se&ntilde;alado sobrepastoreo por ganado dom&eacute;stico de las praderas naturales o por la presencia de depredadores silvestres o perros salvajes. En este estudio se registr&oacute; la muerte de un individuo de aproximadamente un a&ntilde;o de edad por causa de predadores; el individuo se hallaba en el interior de una laguna con mordidas en el cuello y en la parte trasera de los muslos. </P > </font></P >       <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La estructura b&aacute;sica social de los ungulados est&aacute; organizada en torno a las unidades de enlace constituidas por las hembras y sus cr&iacute;as. La composici&oacute;n del grupo var&iacute;a estacionalmente y est&aacute; vinculada al apareamiento y los nacimientos (Bon et al. 1986). En el caso de <I>H. antisensis</I>, la &eacute;poca seca es de apareamientos (formaci&oacute;n de grupos grandes) y la &eacute;poca h&uacute;meda para nacimientos (las hembras se separan de los grupos para parir a sus cr&iacute;as y los machos adultos forman grupos con juveniles) (Merkt 1987); no obstante, en nuestro estudio realizado durante la &eacute;poca seca no observamos la formaci&oacute;n de grupos grandes producto del apareamiento. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No es posible caracterizar y generalizar el tama&ntilde;o de grupo, la estructura de edad ni proporci&oacute;n de sexos de una especie sobre la base de un &uacute;nico trabajo sobre el tema, que adem&aacute;s se realiz&oacute; en un lugar espec&iacute;fico y de caracter&iacute;sticas ecol&oacute;gicas propias. En &uacute;ltima instancia la estructura social y el tama&ntilde;o de grupos es reflejo de las adaptaciones a un medio en particular (Bowyer et al. 1998) y depende del estado de conservaci&oacute;n de la especie en una determinada regi&oacute;n. Esperamos que los datos presentados en esta nota apoyen en alguna forma a la planificaci&oacute;n y las estrategias de conservaci&oacute;n de la taruka en la regi&oacute;n de Lambate. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabajo fue realizado en el marco de la tesis de licenciatura presentada por AN en la Carrera de Biolog&iacute;a de la Universidad Mayor de San Andr&eacute;s, La Paz. El trabajo se financi&oacute; a trav&eacute;s de una beca de Wildlife Conservation Society (WCS). AN agradece de manera especial a Roberto Hinojosa por su asistencia en el trabajo de campo. Las autoras agradecen a Eric Yensen por sus comentarios a una versi&oacute;n preliminar del manuscrito, a Susana Gonz&aacute;lez por el env&iacute;o de su publicaci&oacute;n y a Virginia Padilla por su apoyo en la editorial de Ecolog&iacute;a en Bolivia. Los acertados comentarios y sugerencias de Luis Pacheco, Walter Sielfeld y un revisor an&oacute;nimo ayudaron a mejorar esta nota. TT fue miembro de la Carrera de Biolog&iacute;a de la Universidad Mayor de San Andr&eacute;s durante la realizaci&oacute;n de este trabajo y agradece el apoyo de esa instituci&oacute;n. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias</b></font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Anderson S. 1997. Mammals of Bolivia, taxonomy and distribution. Bulletin of the American Museum of Natural History 231: 1-231. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066288&pid=S1605-2528200600100000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bon, R., R. Campan, R., M. Dardaillon, G. Demeautis, G. Gonzales, &amp; P. Tillaud. 1986. Comparative study of the seasonal variations of the social structures in three French wild ungulates. Wis. Zeitschrift der Humboldt-Universitat suverlin. Math-nat. R. 35. 3: 254-258. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Bowyer, T., J. Kie &amp; V. Van Ballenberghe. 1998. Habitat selection by neonatal black tailed deer: climate, forage or risk of predation. Journal of Mammalogy 79 (2): 415-425. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">D&iacute;az, N. 1995. Antecedentes sobre la historia natural de la taruca (<I>Hippocamelus antisensis </I>d&acute;Orbigny 1834) y su rol en la econom&iacute;a andina. Chungara 27 (1): 45-55. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066291&pid=S1605-2528200600100000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Eisenberg, J.F. &amp; K.H. Redford. 1999. Mammals of the Neotropics. The Central Neotropics. University of Chicago, Chicago. 609 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066292&pid=S1605-2528200600100000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Glade, A. 1985. La taruca, el otro huemul chileno. Corporaci&oacute;n Nacional Forestal. Cartilla de divulgaci&oacute;n. Serie fauna N&ordm; 4. Ministerio de Agricultura, Chile. 5 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066293&pid=S1605-2528200600100000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Jungius, H. 1974. Beobachtungen am Weisswedelhirsch und an anderen Cerviden in Bolivien. Zeitschrift f&uuml;r S&auml;ugetierkunde 39: 373-383. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066294&pid=S1605-2528200600100000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Merkt, J. 1987. Reproductive seasonality and grouping patterns of the north Andean deer or taruca (<I>Hippocamelus antisensis</I>) in Southern Peru. Pp. 388-401. En: C. Wemmer C. (ed.). Biology of Management of the Cervidae. Smithsonian Institute, Vancouver. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066295&pid=S1605-2528200600100000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Montecinos, L. 1995. Estudio biol&oacute;gico y etol&oacute;gico del huemul, sector R&iacute;o Claro. Ministerio de Agricultura. Corporaci&oacute;n Nacional Forestal, XI Regi&oacute;n Aysen, Coihaque. Informe no publicado. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066296&pid=S1605-2528200600100000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nu&ntilde;ez, A. M. 1999. Aportes al conocimiento sobre la historia natural de una poblaci&oacute;n de <I>Hippocamelus antisensis </I>en Lambate, Departamento de La Paz. Tesis de grado, Carrera de Biolog&iacute;a, Facultad de Ciencias Puras y Naturales, Universidad Mayor de San Andr&eacute;s. La Paz, Bolivia. 102 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066297&pid=S1605-2528200600100000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nu&ntilde;ez, A. M.  2005. Situaci&oacute;n actual de la taruka (<I>Hippocamelus antisensis</I>) en Bolivia. Deer Specialist Group Newsletter 20: 15-16. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066298&pid=S1605-2528200600100000700011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">PAHS. 1995. El oso jukumari en la regi&oacute;n de Lambate. Hacia la creaci&oacute;n de una unidad de conservaci&oacute;n. Instituto Cient&iacute;fico &ldquo;Alax Pacha&rdquo;. Secretar&iacute;a Ejecutiva PL-480 USAID/Bolivia. La Paz. 38 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pardo, E. 2001. Distribuci&oacute;n y abundancia de la familia Cervidae en la zona oeste del Parque Nacional Carrasco. Tesis de grado, Carrera de Biolog&iacute;a, Universidad Mayor de San Sim&oacute;n. Cochabamba. 75 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066300&pid=S1605-2528200600100000700013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, O. P. 1951. Mammals in the highlands of southern Peru. Bulletin of the Museum of Comparative Zoology 106 (3): 115-174. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066301&pid=S1605-2528200600100000700014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Putman, R. 1988. The natural history of deer. Comstock Publishing Associates. A division of Cornell University Press. Ithaca, Nueva York. 191 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066302&pid=S1605-2528200600100000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Redford, K.H. &amp; J.F. Eisenberg. 1992. Mammals of the Neotropics. The Southern Cone. University of Chicago, Chicago. 430 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066303&pid=S1605-2528200600100000700016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Regidor, H. A., J. Garrido, L. D. Garrido &amp; R. Ragno. 1997. Unidades de paisaje aptas para taruca (<I>Hippocamelus antisensis</I>) en Salta, Argentina. Manejo de fauna. P. T. 8: 21-23. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ribera, M. O. 1992. Regiones ecol&oacute;gicas de Bolivia. Pp. 9-72. En: M. Marconi (ed.). Conservaci&oacute;n de la Diversidad Biol&oacute;gica en Bolivia. Centro de Datos para la Conservaci&oacute;n, United States Aid Mission to Bolivia, La Paz. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066305&pid=S1605-2528200600100000700018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Roe, N. &amp; Rees, W. 1976. Preliminary observations of the taruca (<I>Hippocamelus antisensis</I>: Cervidae) in southern Peru. Journal of Mammalogy 57 (4): 722-730. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066306&pid=S1605-2528200600100000700019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Salaz, L. s. f. Conservaci&oacute;n de la taruca (<I>Hippocamelus antisensis</I>, d&rsquo; Orbigny, 1834) en la regi&oacute;n de Tarapac&aacute;, Chile. Patrimonio silvestre. Regi&oacute;n de Tarapac&aacute;, Iquique, 27-36 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sielfeld, W., Carrasco, C., Gonz&aacute;les, G., Torres, J., Careyic, A. &amp; Lanino, I. 1988. Estudio de la taruca (<I>Hippocamelus antisensis</I>) en Chile. Informe final. Proyecto CONAF/PNUD/FAO-CHI/ 83/017. Iquique. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066308&pid=S1605-2528200600100000700021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Soriguer, R. C., P. Fandos, E. Bernaldez &amp; J. R. Delibes. 1994. El ciervo de Andaluc&iacute;a. Junta de Andaluc&iacute;a. Consejer&iacute;a de Medio Ambiente, Sevilla. 244 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066309&pid=S1605-2528200600100000700022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tarifa, T. 1996. Mam&iacute;feros. Pp. 165-264. En: P. Ergueta S. &amp; C. de Morales (eds.). Libro Rojo de los Vertebrados de Bolivia. Centro de Datos para la Conservaci&oacute;n-Bolivia, La Paz. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066310&pid=S1605-2528200600100000700023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tarifa, T., J. Rechberger, R. Wallace &amp; A. Nu&ntilde;ez.  2001. Confirmaci&oacute;n de la presencia de <I>Odocoileus virginianus </I>(Artiodactyla, Cervidae) en Bolivia, y datos preliminares sobre su ecolog&iacute;a y su simpatr&iacute;a con <I>Hippocamelus antisensis</I>. Ecolog&iacute;a en Bolivia 35: 41-49. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tarifa, T. &amp; E. Yensen. 2004. Mam&iacute;feros. Pp. 84-85. En: J. F. Fjelds&aring; &amp; M. Kessler (eds.) Conservaci&oacute;n de la Biodiversidad de los bosques de <I>Polylepis </I>de las Tierras Altas de Bolivia. Una Contribuci&oacute;n al Manejo Sustentable de los Andes. Reporte T&eacute;cnico DIVA 11. Santa Cruz de la Sierra. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066312&pid=S1605-2528200600100000700025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tschudi, J. J. von. 1844-46. Untersuchungen &uuml;ber die Fauna Peruana. Scheitling und Zollikofer, Leipzig. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066313&pid=S1605-2528200600100000700026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Weber, M. &amp; S. Gonz&aacute;lez. 2003. Latin American deer diversity and conservation: A review of status and distribution. Ecoscience 10(4): 443-454. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Wemmer, C. (editor). 1998. Deer status survey and conservation action plan. IUCN/ SSC Deer Specialist Group. IUCN. Gland and Cambridge. 106 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066315&pid=S1605-2528200600100000700028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Yensen, E., T. Tarifa &amp; S. Anderson. 1994. New distributional records of some Bolivian mammals. Mammalia 58(3): 405-413. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nota recibida en: Enero de 2006. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Luis F. Pacheco </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Agosto de 2006. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals of Bolivia, taxonomy and distribution]]></article-title>
+<source><![CDATA[Bulletin of the American Museum of Natural History]]></source>
+<year>1997</year>
+<volume>231</volume>
+<page-range>1-231</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bon]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[R.Campan]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dardaillon]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Demeautis]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzales]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tillaud]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Comparative study of the seasonal variations of the social structures in three French wild ungulates.: Wis. Zeitschrift der Humboldt-Universitat suverlin]]></article-title>
+<source><![CDATA[Math-nat. R.]]></source>
+<year>1986</year>
+<volume>35</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>254-258</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bowyer]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kie]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van Ballenberghe]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Habitat selection by neonatal black tailed deer: climate, forage or risk of predation]]></article-title>
+<source><![CDATA[Journal of Mammalogy]]></source>
+<year>1998</year>
+<volume>79</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>415-425</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Díaz]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Antecedentes sobre la historia natural de la taruca (Hippocamelus antisensis d´Orbigny 1834) y su rol en la economía andina]]></article-title>
+<source><![CDATA[Chungara]]></source>
+<year>1995</year>
+<volume>27</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>45-55</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redford]]></surname>
+<given-names><![CDATA[K.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of the Neotropics]]></source>
+<year>1999</year>
+<page-range>609</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[The Central Neotropics. University of Chicago]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Glade]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La taruca, el otro huemul chileno. Corporación Nacional Forestal. Cartilla de divulgación]]></article-title>
+<source><![CDATA[Serie fauna]]></source>
+<year>1985</year>
+<volume>4</volume>
+<page-range>5</page-range><publisher-loc><![CDATA[Chile ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Agricultura]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jungius]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="de"><![CDATA[Beobachtungen am Weisswedelhirsch und an anderen Cerviden in Bolivien]]></article-title>
+<source><![CDATA[Zeitschrift für Säugetierkunde]]></source>
+<year>1974</year>
+<volume>39</volume>
+<page-range>373-383</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Merkt]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reproductive seasonality and grouping patterns of the north Andean deer or taruca (Hippocamelus antisensis) in Southern Peru]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Wemmer C.]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biology of Management of the Cervidae]]></source>
+<year>1987</year>
+<page-range>388-401</page-range><publisher-loc><![CDATA[Vancouver ]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institute]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montecinos]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio biológico y etológico del huemul, sector Río Claro]]></source>
+<year>1995</year>
+<publisher-name><![CDATA[Ministerio de Agricultura]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[A. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Aportes al conocimiento sobre la historia natural de una población de Hippocamelus antisensis en Lambate, Departamento de La Paz]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Situación actual de la taruka (Hippocamelus antisensis) en Bolivia]]></article-title>
+<source><![CDATA[Deer Specialist Group Newsletter]]></source>
+<year>2005</year>
+<volume>20</volume>
+<page-range>15-16</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<collab>PAHS</collab>
+<source><![CDATA[El oso jukumari en la región de Lambate. Hacia la creación de una unidad de conservación]]></source>
+<year>1995</year>
+<page-range>38</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Científico Alax Pacha. Secretaría Ejecutiva PL-480 USAID/Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pardo]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Distribución y abundancia de la familia Cervidae en la zona oeste del Parque Nacional Carrasco]]></source>
+<year>2001</year>
+<page-range>75</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[O.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals in the highlands of southern Peru]]></article-title>
+<source><![CDATA[Bulletin of the Museum of Comparative Zoology]]></source>
+<year>1951</year>
+<volume>106</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>115-174</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Putman]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The natural history of deer]]></source>
+<year>1988</year>
+<page-range>191</page-range><publisher-loc><![CDATA[Ithaca^eNueva York Nueva York]]></publisher-loc>
+<publisher-name><![CDATA[Comstock Publishing Associates. A division of Cornell University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Redford]]></surname>
+<given-names><![CDATA[K.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eisenberg]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mammals of the Neotropics. The Southern Cone]]></source>
+<year>1992</year>
+<page-range>430</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Regidor]]></surname>
+<given-names><![CDATA[H.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garrido]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garrido]]></surname>
+<given-names><![CDATA[L.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ragno]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Unidades de paisaje aptas para taruca (Hippocamelus antisensis) en Salta, Argentina]]></article-title>
+<source><![CDATA[Manejo de fauna. P. T.]]></source>
+<year>1997</year>
+<volume>8</volume>
+<page-range>21-23</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribera]]></surname>
+<given-names><![CDATA[M. O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Regiones ecológicas de Bolivia]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Marconi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservación de la Diversidad Biológica en Bolivia]]></source>
+<year>1992</year>
+<page-range>9-72</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Datos para la Conservación]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Roe]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rees]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Preliminary observations of the taruca (Hippocamelus antisensis: Cervidae) in southern Peru]]></article-title>
+<source><![CDATA[Journal of Mammalogy]]></source>
+<year>1976</year>
+<volume>57</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>722-730</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Salaz]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservación de la taruca (Hippocamelus antisensis, d&#8217; Orbigny, 1834) en la región de Tarapacá, Chile. Patrimonio silvestre. Región de Tarapacá]]></source>
+<year></year>
+<page-range>27-36</page-range><publisher-loc><![CDATA[Iquique ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sielfeld]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carrasco]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzáles]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torres]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Careyic]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lanino]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de la taruca (Hippocamelus antisensis) en Chile]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[Iquique ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soriguer]]></surname>
+<given-names><![CDATA[R. C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fandos]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bernaldez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delibes]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El ciervo de Andalucía]]></source>
+<year>1994</year>
+<page-range>244</page-range><publisher-name><![CDATA[Junta de Andalucía. Consejería de Medio Ambiente, Sevilla]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Mamíferos]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Ergueta S.]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Morales]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Libro Rojo de los Vertebrados de Bolivia]]></source>
+<year>1996</year>
+<page-range>165-264</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Datos para la Conservación-Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rechberger]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wallace]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Confirmación de la presencia de Odocoileus virginianus (Artiodactyla, Cervidae) en Bolivia, y datos preliminares sobre su ecología y su simpatría con Hippocamelus antisensis]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2001</year>
+<volume>35</volume>
+<page-range>41-49</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yensen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Mamíferos]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fjeldså]]></surname>
+<given-names><![CDATA[J. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservación de la Biodiversidad de los bosques de Polylepis de las Tierras Altas de Bolivia. Una Contribución al Manejo Sustentable de los Andes]]></source>
+<year>2004</year>
+<page-range>84-85</page-range><publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tschudi]]></surname>
+<given-names><![CDATA[J. J. von]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Untersuchungen über die Fauna Peruana]]></source>
+<year></year>
+<page-range>1844-46</page-range><publisher-loc><![CDATA[Leipzig ]]></publisher-loc>
+<publisher-name><![CDATA[Scheitling und Zollikofer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Weber]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[González]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Latin American deer diversity and conservation: A review of status and distribution]]></article-title>
+<source><![CDATA[Ecoscience]]></source>
+<year>2003</year>
+<volume>10</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>443-454</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wemmer]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Deer status survey and conservation action plan]]></source>
+<year>1998</year>
+<page-range>106</page-range><publisher-loc><![CDATA[Gland and Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[IUCN/ SSC Deer Specialist Group]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yensen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[New distributional records of some Bolivian mammals]]></article-title>
+<source><![CDATA[Mammalia]]></source>
+<year>1994</year>
+<volume>58</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>405-413</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

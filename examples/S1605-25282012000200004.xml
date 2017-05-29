@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282012000200004</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Ensamble de hormigas en relación a cobertura vegetal en una zona periurbana de La Paz (Bolivia)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Ant assemblage in relation to vegetal cover in a periurban area of La Paz (Bolivia)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Miranda]]></surname>
+<given-names><![CDATA[A. Bruno]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Naoki]]></surname>
+<given-names><![CDATA[Kazuya]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Limachi]]></surname>
+<given-names><![CDATA[Miguel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Biología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología Centro de Análisis Espacial]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Museo Nacional de Historia Natural Colección Boliviana de Fauna ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>09</month>
+<year>2012</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>09</month>
+<year>2012</year>
+</pub-date>
+<volume>47</volume>
+<numero>2</numero>
+<fpage>119</fpage>
+<lpage>133</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282012000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282012000200004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282012000200004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Las hormigas son frecuentemente utilizadas como bioindicadores de la integridad ecosistémica debido a su sensibilidad a cambios antrópicos del medio ambiente, especialmente a cobertura vegetal, uso de tierra y contaminación. El objetivo de este estudio fue relacionar el ensamble de hormigas a características de diferentes tipos de vegetación en una zona periurbana de la ciudad de La Paz, Bolivia. Los ensambles de hormigas fueron estudiados a través de trampas de caída ubicados en 30 sitios. La vegetación de cada sitio fue cuantificada por medio de línea de intercepción según sus características fisonómicas y estructurales. Durante el estudio se registraron 14 morfoespecies de hormigas pertenecientes a cuatro subfamilias: Dolichoderinae, Formicinae, Myrmicinae y Ponerinae. Según ordenación por NMDS, el ensamble de hormigas se conformó en tres grupos asociados con el tipo de vegetación: Arboleda, pajonal y prado. Esta asociación fue parcialmente explicada por la selección de algunas morfoespecies de hormigas para las características de vegetación. Los resultados de este estudio apoyan la influencia de la vegetación sobre el ensamble de hormigas y sugieren la potencialidad de uso de hormigas como bioindicadores en zonas urbanas.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Ants are frequently used as bioindicators of ecosystem integrity due to its sensibility to anthropic changes of environment, especially to canopy cover, land use, and contamination. The objective of this study was to relate the ant assemblage to the characteristics of different vegetation types in a periurban area of La Paz city. Ant assemblages were studied by means of pitfall traps in 30 sites. Vegetation at each site was quantified by interception lines according to their physiognomic and structural characteristics. During the study we registered 14 morphospecies belonging to four subfamilies: Dolichoderinae, Formicinae, Myrmicinae y Ponerinae. By NMDS ordination, ant assemblage conformed in three groups associated with vegetation type: Grove, grassland and meadow. This association was partially explained by the ant morphospecies' selection of vegetation characteristics. This study's results confirm the influence of vegetation on ant assemblage and suggest the potential use of ants as bioindicators in urban areas.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Área periurbana]]></kwd>
+<kwd lng="es"><![CDATA[Bioindicación]]></kwd>
+<kwd lng="es"><![CDATA[Ensamble]]></kwd>
+<kwd lng="es"><![CDATA[Formación vegetal]]></kwd>
+<kwd lng="es"><![CDATA[Hormigas]]></kwd>
+<kwd lng="en"><![CDATA[Ants]]></kwd>
+<kwd lng="en"><![CDATA[Assemblage]]></kwd>
+<kwd lng="en"><![CDATA[Bioindication]]></kwd>
+<kwd lng="en"><![CDATA[Periurban area]]></kwd>
+<kwd lng="en"><![CDATA[Vegetal cover]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><b><font face="Verdana" size="2">Art&iacute;culo</font></b></p>     <p align="right">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Ensamble de hormigas en relación a cobertura vegetal en una zona periurbana de La Paz (Bolivia)</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Ant assemblage in relation to vegetal cover in a periurban area of La Paz (Bolivia)</b></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>A. Bruno Miranda<sup>1,3</sup>, Kazuya Naoki<sup>2</sup> &amp; Miguel Limachi<sup>3</sup><sup></sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Carrera de Biología, Universidad Mayor de San Andrés, C/ 27 Cota Cota, La Paz, Bolivia</font>    <br> <font face="Verdana" size="2">Email: <u>abrunomirandac@gmail.com</u> Autor de correspondencia</font>    ]]></body>
+<body><![CDATA[<br> <font face="Verdana" size="2"><sup>2</sup>Centro de Análisis Espacial, Instituto de Ecología, Universidad Mayor de San Andrés,</font> <font face="Verdana" size="2">Casilla 10077 - Correo Central, La Paz, Bolivia </font>    <br> <font face="Verdana" size="2"><sup>3</sup>Colección Boliviana de Fauna - Museo Nacional de Historia Natural, C/ 26 Cota Cota, La Paz, Bolivia</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="justify"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las hormigas son frecuentemente utilizadas como bioindicadores de la integridad ecosistémica debido a su sensibilidad a cambios antrópicos del medio ambiente, especialmente a cobertura vegetal, uso de tierra y contaminación. El objetivo de este estudio fue relacionar el ensamble de hormigas a características de diferentes tipos de vegetación en una zona periurbana de la ciudad de La Paz, Bolivia. Los ensambles de hormigas fueron estudiados a través de trampas de caída ubicados en 30 sitios. La vegetación de cada sitio fue cuantificada por medio de línea de intercepción según sus características fisonómicas y estructurales. Durante el estudio se registraron 14 morfoespecies de hormigas pertenecientes a cuatro subfamilias: Dolichoderinae, Formicinae, Myrmicinae y Ponerinae. Según ordenación por NMDS, el ensamble de hormigas se conformó en tres grupos asociados con el tipo de vegetación: Arboleda, pajonal y prado. Esta asociación fue parcialmente explicada por la selección de algunas morfoespecies de hormigas para las características de vegetación. Los resultados de este estudio apoyan la influencia de la vegetación sobre el ensamble de hormigas y sugieren la potencialidad de uso de hormigas como bioindicadores en zonas urbanas. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Área periurbana, Bioindicación, Ensamble, Formación vegetal, Hormigas.</font></p> <hr noshade>     <p align="justify"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Ants are frequently used as bioindicators of ecosystem integrity due to its sensibility to anthropic changes of environment, especially to canopy cover, land use, and contamination. The objective of this study was to relate the ant assemblage to the characteristics of different vegetation types in a periurban area of La Paz city. Ant assemblages were studied by means of pitfall traps in 30 sites. Vegetation at each site was quantified by interception lines according to their physiognomic and structural characteristics. During the study we registered 14 morphospecies belonging to four subfamilies: Dolichoderinae, Formicinae, Myrmicinae y Ponerinae. By NMDS ordination, ant assemblage conformed in three groups associated with vegetation type: Grove, grassland and meadow. This association was partially explained by the ant morphospecies' selection of vegetation characteristics. This study's results confirm the influence of vegetation on ant assemblage and suggest the potential use of ants as bioindicators in urban areas. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Ants, Assemblage, Bioindication, Periurban area, Vegetal cover.</font></p> <hr noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las hormigas son consideradas como indicadores eficaces de la integridad ecosistémica debido a sus características biológicas y buen conocimiento taxonómico del grupo (Fernández 1996, Folgarait 1998, Andersen &amp; Majer 2004, Majer <i>et al. </i>2007). En varios países, las hormigas han sido utilizadas como indicadores en programas de monitoreo y evaluación de cambios en el ecosistema (Ribas <i>et al. </i>2012), impacto ambiental (Andersen <i>et al. </i>2004), manejo en reservas naturales y áreas protegidas (Toro &amp; Ortega 2006, Mitrovich <i>et al. </i>2010), sistemas agroforestales y uso de tierra (Armbrecht <i>et al. </i>2005, Rivera &amp; Armbrecht 2005) y pastoreo y quema (Andersen 1991a, Ratchford <i>et al. </i>2005).</font></p>     <p align="justify"><font face="Verdana" size="2">La urbanización, como otro tipo de impacto a sistemas naturales, provoca una constante transformación de los patrones y procesos ecológicos (Vitousek <i>et al. </i>1997, Faeth <i>et al. </i>2005), creándose un mosaico de ambientes con diferentes grados de perturbación y de estrés ambiental para los organismos. La urbanización puede además ocasionar la pérdida de hábitats afectando la composición y riqueza de especies (McIntyre 2000, Philpott <i>et al. </i>2010). Por otro lado, algunas especies pueden tomar ventaja de los ambientes perturbados e incrementar su abundancia (McKinney 2002, Yamaguchi 2005), causando una reducción de diversidad por interacciones competitivas (Andersen 1992). De esta manera, la reducción de diversidad en zonas urbanas o periurbanas se encontrará relacionada en parte a la disminución de la heterogeneidad estructural de la matriz (p.e. tipo de vegetación) (McIntyre 2000), reducción de la variedad natural de recursos disponibles (McKinney 2006) y alteración de la composición natural de especies en los hábitats.</font></p>     <p align="justify"><font face="Verdana" size="2">Varios estudios han centrado su atención en las diferencias en riqueza, composición o grupos funcionales de hormigas en hábitats periurbanos y urbanos (Vepsäläinen <i>et al. </i>2008); así como el rol y beneficios que pueden cumplir estos organismos en la manutención</font> <font face="Verdana" size="2">o restauración de funciones ecosistémicas (Niemelä 1999, Burger <i>et al. </i>2003, Sandfor <i>et al. </i>2008). En Suramérica se consta el incremento y presencia de hormigas nativas y/o exóticas en zonas urbanas o periurbanas (Pacheco do Nascimento 2005, Chacón de Ulloa <i>et al. </i>2006), las cuales estarían influenciadas por las características ambientales de cada región. Algunas especies podrían explotar remanentes de vegetación natural, aisladas y pequeñas distribuidas en zonas urbanas, ser capaces de tolerar un alto grado de perturbación y por tanto reflejar la heterogeneidad de hábitat y uso de suelo (McIntyre <i>et al. </i>2001). Por otro lado, una alta diversidad en vegetación y/o estructura vegetativa compleja podría incrementar la riqueza en especies de estos y otros invertebrados (McIntyre <i>et al. </i>2001). Todos estos aspectos brindan pautas de interpretación ecológica de comunidades, que con estrategias de manejo y monitoreo apropiadas permitirían mantener los procesos ecológicos vinculados a la biodiversidad (Niemelä 1999, Burger <i>et al. </i>2003).</font></p>     <p align="justify"><font face="Verdana" size="2">Estudios relacionados al monitoreo y bioindicación en zonas periurbanas o urbanas en la ciudad de La Paz (Bolivia) se han enfocado principalmente a comunidades de aves y líquenes (Garitano-Zabala &amp; Gismondi 2003, Villegas 2005, Canseco <i>et al. </i>2006, Campos 2010) y hasta la fecha no se ha realizado algún estudio relacionado con hormigas. Se ha constatado que ensambles de invertebrados podrían indicar el efecto de urbanización a escalas espaciales más pequeñas respecto a grupos de vertebrados (Clark &amp; Samways 1997). El entendimiento de estos patrones de hormigas en relación a la variabilidad en composición vegetal o fisonomía de hábitats permitirán la aplicación de estos organismos a otros niveles espaciales como bioindicadores en áreas urbanas como la ciudad de La Paz y ayudará a formular herramientas, propuestas de manejo y establecer políticas ambientales estratégicas y de monitoreo para mantener o mejorar la diversidad de fauna asociada</font> <font face="Verdana" size="2">a la vegetación. Debido a esto, este estudio pregunta si ¿existen ensambles de hormigas asociados a diferentes tipos de hábitat en una zona periurbana de la ciudad de La Paz? y si ¿la distribución espacial de cada especie estará relacionada con a la cobertura vegetal a micro-escala existente en la zona?</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Área de estudio</b></font></p>     <p align="justify"><font face="Verdana" size="2">El estudio se realizó en los predios de la Universidad Mayor de San Andrés (Campus Universitario de Cota Cota), La Paz, Bolivia (16º32'S, 68º03'O, 3.450 m). El área constituye un mosaico de diferentes formaciones vegetales exóticas, algunos manchones con flora y vegetación nativa de valles secos y algunos elementos de pre-puna y puna, áreas de lagunas naturales y cuerpos de agua temporales (Vargas 1985, Zeballos 2000). Debido a la perturbación diferencial del sitio, la vegetación fue delimitada según sus características fisonómicas en: (a) Pajonal, áreas con predominancia de gramíneas </font><font face="Verdana" size="2"><i>(Stipa ichu, S. mucronata, Eragrostis </i>sp.) y algunas </font><font face="Verdana" size="2">plantas como <i>Viguieraprocumbens; </i>(b) Humedal, sectores anegados con vegetación higrófita y/o hidrofítica; (c) Matorral, predominancia de arbustos, sufrútices o algunas cactáceas dispersas <i>(Pluchea </i>sp., <i>Baccharis </i>spp., <i>V. procumbens, Opuntia </i>sp., otras especies de cactos); (d) Arboleda, de eucalipto <i>(Eucalyptus globulus) </i>o de pino <i>(Pinus radiata); </i>y (e) Prado, con presencia y predominancia de <i>Pennisetum clandestinum </i>y otras herbáceas.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los datos fueron obtenidos del 14-23 de abril de 2010. Se establecieron 30 áreas circulares de muestreo (15 m de radio, 709 m<sup>2</sup> de superficie), distante al menos 50 m entre sí, de manera estratificada para cada formación vegetal previamente definida. Debido a que no se conoce área de territorio, distancia de forrajeo y otras características biológicas para las diferentes morfoespecies de hormigas (Beckers</font> <font face="Verdana" size="2"><i>et al. </i>1989, Tschinkel <i>et al. </i>1995), se asumió aleatoriedad en la distribución en los nidos (Levings &amp; Traniello 1981) y que las áreas de muestreo fueron lo suficientemente alejadas y estadísticamente independientes. Para obtener la composición de hormigas se instaló una trampa de caída en el centro de cada área de muestreo durante seis días. Cada trampa consistió en un vaso de 750 ml con alcohol al 70%. Se realizó la separación e identificación de morfoespecies utilizando la clave taxonómica de Palacios &amp; Fernández (1996). Las muestras de referencia fueron depositadas en la Colección Boliviana de Fauna.</font></p>     <p align="justify"><font face="Verdana" size="2">Para cuantificar cobertura vegetal como variable ambiental que explica la presencia de especies de hormigas, se establecieron dos líneas diametrales de 30 m con orientación NE-SO y NO-SE en cada área de muestreo. Se cuantificó el porcentaje absoluto de cada forma de vida vegetal a lo largo de estas líneas por medio del método de línea de intercepción (Matteucci &amp; Colma 1982, López 1996). Para las formas vegetales se siguieronlas clasificaciones propuestas en Matteucci &amp; Colma (1982) y Kent &amp; Coker (1992): árboles, arbustos, sufrútices, y cactáceas mayores a 0.7 m de altura, gramíneas, herbáceas no graminoides mayores a 0.2 m de altura, pasto cespitoso menor a 0.2 m de altura, criptógamas (líquenes y musgos) y suelo descubierto.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Análisis de datos</b></font></p>     <p align="justify"><font face="Verdana" size="2">El ensamble de hormigas para cada punto de muestreo fue analizado por ordenación de mínima distorsión espacial (NMDS) con índice de similitud de Jaccard y 100 permutaciones. La interpretación de resultados fue complementada con el análisis de correspondencia canónica (CCA) y 100 permutaciones, utilizando la característica de cobertura vegetal como matriz secundaria. Al realizar el CCA se consideraron seis juegos de datos como matriz principal con la combinación de tres datos de hormigas: (1) presencia-ausencia, (2)</font> <font face="Verdana" size="2">abundancia categorizada (transformación de número de individuos a diferentes categorías: 1 ind.= 1,2-5 ind.= 2,6-20 ind.= 3,20-50 ind. = 4 y &gt;50 ind. = 5) (Andersen 1991b) y (3) abundancia transformada logarítmicamente, en dos listas de hormigas (a) incluyendo el total de las 14 especies de hormigas registradas y (b) 11 especies, excluyendo las especies capturadas en una sola trampa de caída. Ordenación para comunidad de hormigas fue realizada con el paquete Vegan del programa R versión 2.11.1 (R Development Core Team 2011).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Resultados</b></font></p>     <p align="justify"><font face="Verdana" size="2">Se registraron 14 morfoespecies de hormigas (ocho géneros, cuatro subfamilias) durante este estudio (<a href="#t1">Tabla 1</a>). </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="t1"></a></p> <table width="444" border="0" align="center">   <tr>     <td width="62" valign="top"><font face="Verdana" size="2"><b>Tabla 1. </b></font></td>     <td width="372" valign="top">    <p align="justify"><font face="Verdana" size="2">Hormigas registradas en el campus universitario de Cota Cota (La Paz. Bolivia). Se indican los promedios de n&uacute;meros de individuos capturados por muestra en cada formaci&oacute;n vegetal. Los n&uacute;meros en par&eacute;ntesis indican el n&uacute;mero de muestras por</font> <font face="Verdana" size="2">formaci&oacute;n vegetal.</font></td>   </tr>   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a04_tabla_01.gif" width="645" height="448"></td>   </tr> </table>     <p align="justify"><font face="Verdana" size="2">El ensamble de hormigas muestreadas para arboleda, prado y pajonal se encontraron más similares en composición por análisis con NMDS (<a href="#f1">Fig. 1</a>). </font></p>     <p align="justify"><a name="f1"></a></p> <table width="444" border="0" align="center">   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a04_figura_01.gif" width="419" height="284"></td>   </tr>   <tr>     <td width="1" valign="top">&nbsp;</td>     <td width="433" valign="top">    <p align="justify"><font face="Verdana" size="2"><b>Figura 1.</b> Ordenaci&oacute;n de ensamblaje de hormigas de Cota Cota (La Paz, Bolivia) por</font> <font face="Verdana" size="2">ordenaci&oacute;n de m&iacute;nimo distorsi&oacute;n espacial (NMDS) con similitud de Jaccard. Valor</font> <font face="Verdana" size="2">de estr&eacute;s = 17.30. Los s&iacute;mbolos indican el tipo de la formaci&oacute;n vegetal: Arboleda <img src="/img/revistas/reb/v47n2/a04_figura_01_1.gif" width="17" height="18">, Humedal <img src="/img/revistas/reb/v47n2/a04_figura_01_2.gif" width="16" height="20"> , Matorral <img src="/img/revistas/reb/v47n2/a04_figura_01_3.gif" width="25" height="25">, Pajonal<img src="/img/revistas/reb/v47n2/a04_figura_01_4.gif" width="21" height="23">, Prado <img src="/img/revistas/reb/v47n2/a04_figura_01_5.gif" width="18" height="18"> .</font></td>   </tr> </table>     <p align="justify"><font face="Verdana" size="2">Según CCA, los primeros dos ejes explicaron entre el 26 y 51% de la variación total (<a href="#t2">Tabla 2</a>); diferente transformación de los datos e inclusión/ exclusión de especies raras no afectaron</font><font face="Verdana" size="2">fuertemente los resultados del análisis. La mayoría de los seis juegos de datos mostraron que las variables ambientales: suelo descubierto, cactos, graminoides y herbáceas, afectaron a la distribución de hormigas (<a href="#f2">Fig. 2</a>, <a href="#t2">tabla 2</a>). La presencia de las especies de hormigas estuvo relacionada a cierta proporción de cobertura vegetal para las zonas de muestreo: <i>Forelius </i>sp. con pasto cespitoso; <i>Azteca </i>sp. con cactáceas, herbáceas y suelo descubierto; <i>Pheidole </i>spp., </font><font face="Verdana" size="2"><i>Camponotus </i>sp. 2., <i>Solenopsis </i>sp. 1, <i>Dorymyrmex </i></font><font face="Verdana" size="2">sp. y <i>Technomyrmex </i>sp. 1 con sufrútices, gramíneas y criptógamas (<a href="#f2">Fig. 2</a>).</font></p>     <p align="justify"><a name="f2" id="f2"></a></p> <table width="444" border="0" align="center">   <tr>     <td colspan="2">    <div align="center"><img src="/img/revistas/reb/v47n2/a04_figura_02.gif" width="358" height="515"></div></td>   </tr>   <tr>     <td width="1" valign="top">&nbsp;</td>     <td width="433" valign="top">    <p align="justify"><font face="Verdana" size="2"><b>Figura 2. </b>Asociaci&oacute;n de especies de hormigas y caracter&iacute;sticas de la vegetaci&oacute;n por an&aacute;lisis de</font> <font face="Verdana" size="2">correspondencia can&oacute;nica (CCA) en campus universitario de Cota Cota a partir de</font> <font face="Verdana" size="2">resultados de presencia - ausencia para once especies. A = <i>Azteca </i>sp., D = <i>Dorymyrmex</i></font> <font face="Verdana" size="2">sp., F = <i>Forelius </i>sp., T1 = <i>Technomyrmex </i>sp. 1, P1 = <i>Pheidole </i>sp. 1, P2 = <i>Pheidole </i>sp. 2,</font> <font face="Verdana" size="2">P3 = <i>Pheidole </i>sp. 3, S1 = <i>Solenopsis </i>sp. 1, S2 = <i>Solenopsis </i>sp. 2, <i>Camponotus </i>sp. 1 (x =</font><font face="Verdana" size="2">-2.8466, y = -0.4961), C2 = <i>Camponotus </i>sp. 2.</font> </td>   </tr> </table>     <p align="justify"><a name="t2"></a></p> <table width="444" border="0" align="center">   <tr>     <td width="56" valign="top"><font face="Verdana" size="2"><b>Tabla 2. </b></font></td>     <td width="565" valign="top">    ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Distancia euclidiana de los primeros dos ejes (longitud de flecha) de variables ambientales del An&aacute;lisis de Correspondencia Can&oacute;nica (CCA); considerando presencia - ausencia, abundancia categorizada, y transformaci&oacute;n a log<sub>10</sub> para 14 y 11 especies de hormigas para cada an&aacute;lisis. Significanda: *** = &lt;0.001, ** = &lt;0.01, * =</font> <font face="Verdana" size="2">&lt;0.05, &bull; = &lt;0.1.</font></td>   </tr>   <tr>     <td colspan="2"><img src="/img/revistas/reb/v47n2/a04_tabla_02.gif" width="625" height="342"></td>   </tr> </table>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Discusión</b></font></p>     <p align="justify"><font face="Verdana" size="2">Nuestros resultados sugieren que los ensamblajes de hormigas están relacionados a las características fisionómicas de vegetación de la zona periurbana y esta relación es parcialmente explicada por la asociación de algunas especies con las variables en cobertura vegetal presentes en estos hábitats (<a href="#f1">Fig. 1</a>).</font></p>     <p align="justify"><font face="Verdana" size="2">Varios estudios han confirmado la relación entre heterogeneidad en vegetación y variación de la composición de comunidades de hormigas a diferentes escalas espaciales (Bestelmeyer &amp; Wiens 1996, Pik <i>et al. </i>2002, Hill <i>et al. </i>2008). Esta asociación puede deberse a la variedad de recursos disponibles para la alimentación y sitios para el anidamiento (Armbrecht <i>et al. </i>2004, Friedrich &amp; Philpott 2009, Blütghen &amp; Feldhaar 2010), productividad del ambiente (Kaspari <i>et al. </i>1999) o condiciones micro-ambientales creadas por la cobertura vegetal (Kaspari &amp; Wieser 2000, Maes <i>et al. </i>2003). De esta manera, el entendimiento de estos patrones de hormigas podría ser mejor explicada por su respuesta a las condiciones ambientales y vínculo de sus características biológicas.</font></p>     <p align="justify"><font face="Verdana" size="2"><i>Camponotus </i>sp. 2, <i>Solenopsis </i>sp. 1, <i>Azteca </i></font><font face="Verdana" size="2">sp. y <i>Forelius </i>sp. fueron hallados en casi todos los hábitats (<a href="#t1">Tabla 1</a>); la presencia de otras morfoespecies, en algunos casos exclusiva, constata otros procesos que influyen sobre el ensamble. Los valores de riqueza para </font><font face="Verdana" size="2">pajonal y matorral respecto a los de prado y arboleda demostrarían las condiciones bajo las que éstas se mantienen. Pajonal y matorral presentan parches con sucesión vegetal natural; sin embargo este último es el que se halló con mayor grado de perturbación y diferenciación de ensambles para toda el área de muestreo (<a href="#f1">Fig. 1</a>, <a href="#t1">tabla 1</a>). En cambio, para prado y arboleda las condiciones de modificación parecen hallarse constantes en el tiempo, pero reducirían la riqueza en morfoespecies. Para arboleda la cobertura vegetal de eucaliptos o pinos sobre la superficie podría estar causando reducción en la actividad de forrajeo por efecto que tienen sobre la dinámica biológica del suelo (Souto <i>et al. </i>2001) o limitando condiciones térmicas</font> <font face="Verdana" size="2">para el desarrollo de larvas de hormigas (Maes <i>et al. </i>2003). De esta forma, se argumenta que el ensamble en una matriz de vegetación estaría influenciada por la intensidad y frecuencia de perturbación que potencia o limita la distribución de hormigas en un área (Yamaguchi 2004). Adicionalmente se sugiere tomar en cuenta la importancia de la ubicación geográfica de la zona, la presencia de vegetación nativa en la zona y la conectividad con hábitats más naturales para el mantenimiento de la riqueza en ensambles de hormigas.</font></p>     <p align="justify"><font face="Verdana" size="2">Koya (1983) señala algunas características morfológicas, biológicas y ecológicas de especies de hormigas presentes en la localidad de Huaraco, La Paz (Puna semiárida, Belpaire </font><font face="Verdana" size="2">de Morales 1994), descripciones que son similares a las observadas en las morfoespecies de este estudio. El autor destaca el consumo de semillas de gramíneas, hojas de plantas y restos de insectos, la correspondencia en tamaño de ítems alimenticio encontrados en nido y tamaño corporal individuos de cada especie, la aleatoriedad de la distribución de nidos y/o de acuerdo a las características del terreno, la ubicación de éstos bajo rocas, plantas o sobre el sustrato no compactado, el comportamiento transporte de larvas a cámaras de la superficie del nido para aprovechamiento térmico durante días soleados y decremento de actividad de forrajeo desde abril a septiembre (época seca). La relación de <i>Solenopsis </i>sp. 1, <i>Pheidole </i>spp., <i>Camponotus </i>sp. 2, además de <i>Technomyrmex </i>sp. 1 y <i>Dorymyrmex </i>sp. hacia sectores con gramíneas pareció estar relacionado efectivamente a la disponibilidad de recursos conforme a las</font> <font face="Verdana" size="2">características oportunistas o generalistas de estos géneros (Silvestre <i>et al. </i>2003, Pitts <i>et al. </i>2005, Pirk <i>et al. </i>2009) (<a href="#f2">Fig. 2</a>). En cuanto a </font><font face="Verdana" size="2"><i>Solenopsis </i>sp. 2, <i>Technomyrmex </i>sp. 2 y <i>Proceratium </i>sp., como organismos crípticos y pequeños, posiblemente presenten requerimientos especiales de hábitat con actividad hipogea o forrajeadoras en detritos vegetales (Andersen 2000, Silvestre <i>et al. </i>2003). Para <i>Camponotus </i>sp. 1, <i>Camponotus </i>sp. 3, <i>Solenopsis </i>sp. 2y <i>Technomyrmex </i>sp. 2 puede que su presencia no esté definida satisfactoriamente por variables de vegetación; número de individuos capturados en algunos casos no fue el apropiado para su uso en análisis, por lo que se sugiere el uso de técnicas complementarias de muestreo para constatar otras variables que estén determinando su distribución. Otras especies parecen responder directamente a sectores con modificación en vegetación, como <i>Forelius </i>sp., que parece</font> <font face="Verdana" size="2">estar asociada al pasto cespitoso, al igual que <i>Proceratium </i>sp. encontrada solamente en este sector. <i>Forelius </i>sp. se encuentra en la mayoría de las viviendas de la ciudad de La Paz (obs. pers.), por lo que se sugiere su adaptabilidad hacia zonas altamente perturbadas. <i>Azteca </i>sp. parece estar relacionada a ambientes más xéricos y expuestos, con escasa cobertura vegetal; no se conoce información biológica de esta especie, pero se sugiere aprovechamiento inicial de esta especie en zonas perturbadas e influencia negativa a mayor perturbación. Se observa que la presencia de algunas especies del complejo <i>Solenopsis saevissima </i>en su distribución natural pueden hallarse relacionadas a la modificación de hábitat de áreas urbanas al igual que especies de <i>Pheidole </i>y algunas de <i>Camponotus </i>en América (Chacón de Ulloa 2003, Oliveira &amp; Campos-Farinha 2005) o podrían persistir bajo determinada calidad de estrés ambiental. La presencia de algunas especies en diferentes formaciones de vegetación y relación con sus características vegetativas constata indirectamente procesos subyacentes expresados en el cambio de ensambles de hormigas por perturbación humana en el hábitat; en otros casos parece que variables de otro tipo son relevantes a las especies de hormigas. Se observa la potencialidad de uso de estas hormigas en la toma de decisiones y políticas sobre conservación o manutención de hábitats relacionadas a la vegetación (p.e. en zonas rurales, periurbanas y/o urbanas).</font></p>     <p align="justify"><font face="Verdana" size="2">Este estudio está limitado en su área geográfica y tiempo de duración. Esfuerzo de trampeo para algunas formaciones vegetales no fue suficiente, por esto se sugiere que en un futuro se realicen muestreos con cebo en transectos o grillas, búsqueda manual exhaustiva, uso de trampas hipogeas y otras técnicas apropiadas para obtener un panorama más completo en diversidad y evaluar la influencia de la disposición de parches y de la vegetación adyacente. Consideramos además que la ejecución de estudios locales en biología para cada especie de hormiga: tamaño de</font> <font face="Verdana" size="2">individuos y biomasa de colonia (Tschinkel <i>et al. </i>1995), gremio y territorialidad (Adams 2003, Pearce - Duvet <i>et al. </i>2011), densidad y distribución de colonias (Cushman <i>et al. </i>1988) e interacciones interespecíficas, como patrones de uso de espacio, dominancia, y segregación de recursos (Parr &amp; Gibb 2010), brindarían pautas para un mayor entendimiento de comunidades de hormigas a nivel local. Además, debido a que la vegetación no es la única variable que determina la distribución de las especies, la consideración de otros factores microambientales, como la temperatura o humedad (Kaspari 1993), características físicas del suelo, entre otros, podrá elucidar los procesos que determinan el ensamble de comunidades de hormigas en zonas periurbanas y urbanas (Andersen 2000, Albretch &amp; Gotelli 2001, Armbrecht <i>et al. </i>2004).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusiones</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Ensamble de hormigas se halla relacionado a las características fisionómicas del hábitat. Se sugiere que la correspondencia de presencia de especies de hormigas es a variables de vegetación en el hábitat. Aún así, mayores estudios sobre la biología de las especies de hormigas en el valle de La Paz son necesarios para la respuesta de estos organismos a cambios en el ambiente, además, de investigación relacionada al de uso de hormigas como indicadoras de perturbación de hábitat en zonas urbanas para programas de monitoreo, mantenimiento y/o restauración de ecosistemas.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos al apoyo constante de James Aparicio por el préstamo de material de laboratorio y espacio de trabajo en el Área de Herpetología de la Colección Boliviana de Fauna. Esther Valenzuela quien apoyó el acceso a sectores del Jardín Botánico La Paz y áreas del campus Universitario de Cota Cota. Ramiro P. López y Emilia García</font> <font face="Verdana" size="2">colaboraron en los métodos para cuantificar la vegetación e identificación de plantas. A Luis Pacheco y revisores anónimos de Ecología en Bolivia cuyas observaciones y sugerencias contribuyeron enormemente a la versión final del manuscrito.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Adams, E. S. 2003. Experimental analysis of territory size in a population of the fire ant <i>Solenopsis invicta. </i>Behavioral Ecology 14: 48-53.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078232&pid=S1605-2528201200020000400001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Albretch, M. &amp; N. J. Gotelli. 2001. Spatial and temporal niche partitioning in grassland ants. Oecologia 126:134-141.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Andersen, A. N. 1991a. Responses of ground-foraging ant communities to three experimental fire regimes in a savanna forest of tropical Australia. Biotropica 23: 575-585.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078234&pid=S1605-2528201200020000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Andersen, A. N. 1991b. Sampling communities of ground-foraging ants: pitfall catches compared with quadrat counts in an Australian tropical savanna. Australian Journal of Entomology 16: 273-279.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078235&pid=S1605-2528201200020000400004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Andersen, A. N. 1992. Regulations of momentary diversity vy dominant species in exceptionally rich ant communities of the Australian seasonal tropics. American Naturalist 140: 401-420.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078236&pid=S1605-2528201200020000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Andersen, A. N. 2000. Global ecology of rainforest ants. pp. 25-33. En: Agosti, D., J. Majer, L. Alonso &amp; T. Schultz (eds.). Ants. Standard Methods for Measuring and Monitoring Biodiversity. Smithsonian Institution Press, Washington DC.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078237&pid=S1605-2528201200020000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Andersen, A. N., A. Fisher, B. D. Hoffman, J. L. Read &amp; R. Richards. 2004. Use of terrestrial invertebrates for biodiversity monitoring in Australian rangelands, with particular reference to ants. Austral Ecology 29: 87-92.</font></p>     <p align="justify"><font face="Verdana" size="2">Andersen, A. N. &amp; J. D. Majer. 2004. Ants show the way down under: invertebrates as bioindicators in land management.</font> <font face="Verdana" size="2">Frontiers on Ecological Environment 2: 291-298.</font></p>     <p align="justify"><font face="Verdana" size="2">Armbrecht, I., I. Perfecto &amp; J. Vandermeer. 2004. Enigmatic biodiversity correlations: ants diversity responds to diverse resources. Science 204: 284-286.</font></p>     <p align="justify"><font face="Verdana" size="2">Armbrecht, I., L. Rivera &amp; I. Perfecto. 2005. Reduced diversity and complexity in the leaf-litter ant assemblage of Colombian coffee plantations. Conservation Biology 19: 897-907.</font></p>     <p align="justify"><font face="Verdana" size="2">Beckers, R., S. Goss, J. L. Deneubourg &amp; J. M. Pasteels. 1989. Colony size, communication and ant foraging strategy. Psyche 96: 239-256.</font></p>     <p align="justify"><font face="Verdana" size="2">Belpaire de Morales, C. (ed.) 1994. Huaraco, comunidad de la puna. Ártes Gráficas Latina, La Paz. 261 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Bestelmeyer, B. T. &amp; J. A. Wiens. 1996. The effects of land use on the structure of ground-foraging ant communities in the Argentine Chaco. Ecological Applications 6:1225-1240.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Blütghen, N. &amp; H. Feldhaar. 2010. Food and shelter: how resources influence ant ecology. pp. 115-136. En: Lach, L., C. L. Parr &amp; K. L. Abbott (eds.). Ecology of Ants. Oxford University Press, Nueva York.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078245&pid=S1605-2528201200020000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Burger, J. C., R. A. Redak, E. B. Allen, J. T. Rotenberry &amp; M. F. Allen. 2003. Restoring arthropod communities in coastal sage scrub. Conservation Biology 17:460-467.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Campos, J. 2010. Desarrollo de un índice biológico de integridad basado en comunidades de aves nativas en zonas urbanas y periurbanas de la ciudad de La Paz - Bolivia. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 71 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078247&pid=S1605-2528201200020000400016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Canseco, Á., R. Anze &amp; M. Franken. 2006. Comunidades de líquenes: indicadores de la calidad del aire en la ciudad de La Paz, Bolivia. Acta Nova 3: 286-307.</font></p>     <p align="justify"><font face="Verdana" size="2">Clark, T. E. &amp; M. J. Samways. 1997. Sampling arthropod diversity for urban ecological</font> <font face="Verdana" size="2">landscaping in a species-rich southern hemisphere botanic garden. Journal of Insect Conservation 1: 221-234.</font></p>     <p align="justify"><font face="Verdana" size="2">Cushman, J. H., G. D. Martinsen &amp; A. I. Mazeroll. 1988. Density and size dependent spacing ant nests: evidence for intraspecific competition. Oecologia <i>77: </i>522-525.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Chacón de Ulloa, P. 2003. Hormigas urbanas, pp. 351-359. En: Fernández, F. (ed.). Introducción a las Hormigas de la Región Tropical. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogotá.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078251&pid=S1605-2528201200020000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Chacón de Ulloa, P., G. I. Jaramillo &amp; M. M. Lozano. 2006. Hormigas urbanas en el departamento del valle del Cauca, Colombia. Revista Académica Colombiana en Ciencias 30: 435-441.</font></p>     <p align="justify"><font face="Verdana" size="2">Faeth, S. H., P. S. Warren, E. Shochat &amp; W. A. Marussich. 2005. Trophic dynamics in urban communities. BioScience 55: 399-407.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Fernández, F. E. 1996. Introducción al estudio de las hormigas. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Santa fé de Bogotá. 398 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078254&pid=S1605-2528201200020000400023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Folgarait, P. J. 1998. Ant biodiversity and its relationship to ecosystem functioning: a review. Biodiversity and Conservation 7:1221-1244.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078255&pid=S1605-2528201200020000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Friedrich, R. &amp; S. Philpott. 2009. Nest-site limitation and nesting resources of ants (Hymenoptera: Formicidae) in urban green spaces. Environmental Entomology 38: 600-607.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Garitano-Zabala, Á. &amp; P. Gismondi. 2003. Variación de la riqueza y diversidad de la ornitofauna en áreas verdes urbanas de las ciudades de La Paz y El Alto (Bolivia). Ecología en Bolivia 38: 65-78.</font></p>     <p align="justify"><font face="Verdana" size="2">Hill, J., K. S. Summerville &amp; R. Brown. 2008. Habitat associations of ant species (Hymenoptera: Formicidae) in a heterogeneous Mississippi landscape. Environmental Entomology 37:453-463.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Kaspari, M. 1993. Body size and microclimate use in Neotropical granivorous ants. Oecologia 96: 500-507.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078259&pid=S1605-2528201200020000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Kaspari, M., S. O'Donell &amp; J. R. Kercher. 1999. Energy, density, and constraints to species richness: ant assemblages along a productivity gradient. American Naturalist 155: 280-293.</font></p>     <p align="justify"><font face="Verdana" size="2">Kaspari, M. &amp; M. Wieser. 2000. Ant activity along moisture gradients in a Neotropical forest. Biotropica 32: 703-711.</font></p>     <p align="justify"><font face="Verdana" size="2">Kent, M. &amp; P. Coker. 1992. Vegetation description and analysis. John Wiley and Sons, Ontario. 363 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Koya, F. 1983. Algunos aspectos ecológicos de los formícidos de la puna seca semiárida del altiplano boliviano. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 116 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078263&pid=S1605-2528201200020000400032&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Levings, S. C. &amp; J. F. A. Traniello. 1981. Territoriality, nest dispersion and community structure in ants. Psyche 88: 265-321.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">López, R. 1996. Patrones de diversidad vegetal en el valle de La Paz.. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 112 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078265&pid=S1605-2528201200020000400034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Maes, D., H. Van Dyck, W. Vanreusel &amp; J. Cortens. 2003. Ant communities (Hymenoptera: Formicidae) of Flemish (north Belgium) wet heathlands, a declining habitat in Europe. European Journal of Entomology 100: 545-555.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Majer, J., G. Orabi &amp; L. Bisevac. 2007. Ants (Hymenoptera: Formicidae) pass the bioindicator scorecard. Myrmecologycal News 10: 69-76.</font></p>     <p align="justify"><font face="Verdana" size="2">Matteucd, S. &amp; A. Colma. 1982. Metodología para el estudio de la vegetación. Secretaria General de la Organización de los Estados Americanos Programa Regional de Desarrollo Científico y Tecnológico, Washington DC. 168 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">McIntyre, N. E. 2000. Ecology of urban arthropods: a review and a call to action.</font> <font face="Verdana" size="2">Ecology and Population Biology 93: 825-835.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078269&pid=S1605-2528201200020000400038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">McIntyre, N. E., J. Rango, W. F. Fagan &amp; S. H. Faeth. 2001. Ground arthropod community structure in a heterogeneous urban environment. Landscape and Urban Planning 52: 257-274.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">McKinney, M.L. 2002.Urbanization, biodiversity, and conservation. BioScience 52: 2002.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078271&pid=S1605-2528201200020000400040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">McKinney, M. L. 2006. Urbanization as a major cause of biotic homogenization. Biological Conservation 127: 247-260.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078272&pid=S1605-2528201200020000400041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Mitrovich, M. J., T. Matsuda, K. H. Pease &amp; R. Fisher. 2010. Ants as a measure of effectivenes s of habitat conservation planning in Southern California. Conservation Biology 24:1239-1248.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Niemelä, J. 1999. Ecology and urban planning. Biodiversity and Conservation 8: 119-131.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078274&pid=S1605-2528201200020000400043&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Oliveira, M. F. &amp; A. E. C. Campos-Farinha. 2005. Formigas urbanas do município de Maringá, PR, e su as implicações. Arquivos do Instituto Biologico 72: 33-39.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Pacheco do Nascimento, R. 2005. Conservation of invertebrates in urban areas: a study of case with ants in the Brazilian Cerrado. Tesis de maestría, Federal de Uberländ University, Uberländia. 61 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078276&pid=S1605-2528201200020000400045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Palacios, E. &amp; F. Fernández. 1996. Clave para las subfamilias y géneros. pp. 233-260. En: Andrade,G., G. Amat &amp; F. Fernández (eds.). Introducción al Estudio de las Hormigas. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Santa fé de Bogotá.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078277&pid=S1605-2528201200020000400046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Parr, C. L. &amp; H. Gibb. 2010. Competition and the role of dominant ants. pp. 77-96. En: Lach, L., C. L. Parr &amp; K. L. Abbott (eds.). Ecology of Ants. Oxford University Press, Nueva York.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078278&pid=S1605-2528201200020000400047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Pearce - Duvet, J., C. Elemans &amp; D. H. Feener. 2011. Walking the line: search behavior and foraging succes in ant species. Behavioral Ecology: 1-9.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Philpott, S., I. Perfecto, I. Armbrecht &amp; C. L. Parr. 2010. Ant diversity and function in disturbed and changing habitats. pp. 137-158. En: Lach, L., C. L. Parr &amp; K. L. Abbott (eds.). Ecology of Ants. Oxford University Press, Nueva York.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078280&pid=S1605-2528201200020000400049&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Pik, A., J. M. Dangerfield, R. Bramble, C. Angus &amp; D. Nipperess. 2002. The use of invertebrates to detect small-scale habitat heterogeneity and its application to restoration practices. Environmental Monitoring and Assessment 75:179-199.</font></p>     <p align="justify"><font face="Verdana" size="2">Pirk, G. I., F. di Pasquo &amp; J. Lopez de Casanave. 2009. Diet of two sympatric <i>Pheidole </i>spp. ants in the central Monte desert: implications for seed-granivore interactions. Insectes Sociaux 56: 277-283.</font></p>     <p align="justify"><font face="Verdana" size="2">Pitts, J., J. Mc Hugh &amp; R. Kenneth. 2005. Cladistic analysis of the fire ants of the <i>Solenopsis saevissima </i>species-group (Hymenoptera: Formicidae). Zoologica Scripta 34: 493-505.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">R Development Core Team. 2011. R: a language and environment for statistical computing. R Foundation for Statistical Computing. Vienna, Austria. URL: <a href="http://www.R-project.org" target="_blank">http://www.R-project.org</a></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078284&pid=S1605-2528201200020000400053&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Ratchford, J. S., S. E. Wittman, E. S. Jules, A. M. Ellison, N. J. Gotelli &amp; N. J. Sanders. 2005. The effects of fire, local environment and time on ant assemblages in fens and forests. Diversity and Distributions 11: 487-497.</font></p>     <p align="justify"><font face="Verdana" size="2">Ribas, C. R., R. B. F. Campos, F. A. Schmidt &amp; R. R. C. Solar. 2012. Ants as indicators in Brazil: a review with suggestions to improve the use of ants in environmental monitoring programs.Psyche 2012:23 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Rivera, L. &amp; I. Armbrecht. 2005. Diversidad de tres gremios de hormigas en cafetales de sombra, de sol y bosques de Risalda. Revista Colombiana de Entomología 31: 89-96.</font></p>     <p align="justify"><font face="Verdana" size="2">Sandfor, M. P., P. N. Manley &amp; D. D. Murphy. 2008. Effects of urban development</font> <font face="Verdana" size="2">on ant communities: implications for ecosystem services and management. Conservation Biology 23:131-141.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Silvestre, R., C. R. F. Brandäo &amp; R. R. da Silva. 2003. Grupos funcionales de hormigas: el caso de los gremios del Cerrado. pp. 113-148. En: Fernández, F. (ed.). Introducción a las Hormigas de la Región Tropical. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Bogotá.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078289&pid=S1605-2528201200020000400058&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Souto, X. C., J. C. Bolaño, L. Gonzélez &amp; M. J. Reigosa. 2001. Allelopathic effects of tree species on some soil microbial populations and herbaceous plants. Biologia Plantarum 44: 269-275.</font></p>     <p align="justify"><font face="Verdana" size="2">Toro, E. &amp; O. E. Ortega. 2006. Composición y diversidad de hormigas (Hymenoptera: Formicidae) en algunas áreas protegidas del valle de Aburrá. Revista Colombiana de Entomología 32: 214-220.</font></p>     <p align="justify"><font face="Verdana" size="2">Tschinkel, W. R., E. S. Adams &amp; T. Macom. 1995. Territory area and colony size in the fire ant, <i>Solenopsis invicta. </i>Journal of Animal Ecology 64: 473-480.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Vargas, E. 1985. Estudio de la flora y vegetación de la Cuenca del río Jillusaya (Prov. Murillo - La Paz) como base para un futuro manejo. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 97 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078293&pid=S1605-2528201200020000400062&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Vepsäläinen, K., H. Ikonen &amp; M. Koivula. 2008. The structure of ant assemblages in an urban area of Helsinki, southern Finl and. Annales Zoologici Fennici 45:109-127.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Villegas, M. 2005. Relación entre variable ambientales de urbanización y las comunidades de aves nativas en la ciudad de La Paz: bases para programas de monitoreo. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 57 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078295&pid=S1605-2528201200020000400064&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Vitousek, P. M., H. A. Mooney, J. Lubchenco &amp; J. Melillo. 1997. Human domination of earth's ecosystems. Science 277:294-299.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Yamaguchi, T. 2004. Influence of urbanization on ant distribution in parks of Tokio and Chiba City, Japan. I. Analysis of ant species richness. Ecological Research 19: 209-216.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078297&pid=S1605-2528201200020000400066&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Yamaguchi, T. 2005. Influence of urbanization on ant distribution in parks of Tokyo and Chiba city, Japan II. Analysis of species. Entomological Science 8:17-25.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Zeballos, M. 2000. Estudio de los cambios en la composición florística, cobertura vegetal y fenología a lo largo de un ciclo anual en el parea permanente de Cota Cota -La Paz. Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 133 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078299&pid=S1605-2528201200020000400068&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify">&nbsp;</p>     <p align="justify"><font face="Verdana" size="2">Artículo recibido en: Abril de 2012. </font></p>     <p align="justify"><font face="Verdana" size="2">Manejado por: Diana Silva </font></p>     <p align="justify"><font face="Verdana" size="2">Aceptado en: Julio de 2012.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Anexo 1: </b>Coordenadas geográficas de puntos de muestreo en latitud y longitud &plusmn;10 m y número de hormigas encontradas en</font> <font face="Verdana" size="2">treinta trampas de caída.</font></p>     <p align="center"><a href="/img/revistas/reb/v47n2/a04_anexo_01.gif"><img src="/img/revistas/reb/v47n2/a04_anexo_01_.gif" width="650" height="593" title="Click para agrandar la imágen"></a></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Anexo 2:</b> Composición vegetal por forma de vida expresada en proporción absoluta para cada punto de muestreo.</font></p>     <p align="center"><a href="/img/revistas/reb/v47n2/a04_anexo_02.gif"><img src="/img/revistas/reb/v47n2/a04_anexo_02_.gif" width="650" height="511" title="Click para agrandar la imágen"></a></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Adams]]></surname>
+<given-names><![CDATA[ES]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Experimental analysis of territory size in a population of the fire ant Solenopsis invicta]]></article-title>
+<source><![CDATA[Behavioral Ecology]]></source>
+<year>2003</year>
+<volume>14</volume>
+<page-range>48-53</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Albretch]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gotelli]]></surname>
+<given-names><![CDATA[NJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spatial and temporal niche partitioning in grassland ants]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2001</year>
+<volume>126</volume>
+<page-range>134-141</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[AN]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Responses of ground-foraging ant communities to three experimental fire regimes in a savanna forest of tropical Australia]]></article-title>
+<source><![CDATA[Biotropica]]></source>
+<year>1991</year>
+<month>a</month>
+<volume>23</volume>
+<page-range>575-585</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[AN]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sampling communities of ground-foraging ants: pitfall catches compared with quadrat counts in an Australian tropical savanna]]></article-title>
+<source><![CDATA[Australian Journal of Entomology]]></source>
+<year>1991</year>
+<month>b</month>
+<volume>16</volume>
+<page-range>273-279</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[AN]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Regulations of momentary diversity vy dominant species in exceptionally rich ant communities of the Australian seasonal tropics]]></article-title>
+<source><![CDATA[American Naturalist]]></source>
+<year>1992</year>
+<volume>140</volume>
+<page-range>401-420</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[A. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Global ecology of rainforest ants]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Agosti]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Majer]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alonso]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schultz]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ants. Standard Methods for Measuring and Monitoring Biodiversity]]></source>
+<year>2000</year>
+<page-range>25-33</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Smithsonian Institution Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[AN]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fisher]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoffman]]></surname>
+<given-names><![CDATA[BD]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Read]]></surname>
+<given-names><![CDATA[JL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Richards]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Use of terrestrial invertebrates for biodiversity monitoring in Australian rangelands, with particular reference to ants]]></article-title>
+<source><![CDATA[Austral Ecology]]></source>
+<year>2004</year>
+<volume>29</volume>
+<page-range>87-92</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Andersen]]></surname>
+<given-names><![CDATA[AN]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Majer]]></surname>
+<given-names><![CDATA[JD]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ants show the way down under: invertebrates as bioindicators in land management]]></article-title>
+<source><![CDATA[Frontiers on Ecological Environment]]></source>
+<year>2004</year>
+<volume>2</volume>
+<page-range>291-298</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Armbrecht]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perfecto]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vandermeer]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Enigmatic biodiversity correlations: ants diversity responds to diverse resources]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2004</year>
+<volume>204</volume>
+<page-range>284-286</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Armbrecht]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rivera]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perfecto]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reduced diversity and complexity in the leaf-litter ant assemblage of Colombian coffee plantations]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2005</year>
+<volume>19</volume>
+<page-range>897-907</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beckers]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goss]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Deneubourg]]></surname>
+<given-names><![CDATA[JL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pasteels]]></surname>
+<given-names><![CDATA[JM]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Colony size, communication and ant foraging strategy]]></article-title>
+<source><![CDATA[Psyche]]></source>
+<year>1989</year>
+<volume>96</volume>
+<page-range>239-256</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Belpaire de Morales]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Huaraco, comunidad de la puna]]></source>
+<year>1994</year>
+<page-range>261</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ártes Gráficas Latina]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bestelmeyer]]></surname>
+<given-names><![CDATA[BT]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wiens]]></surname>
+<given-names><![CDATA[JA]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The effects of land use on the structure of ground-foraging ant communities in the Argentine Chaco]]></article-title>
+<source><![CDATA[Ecological Applications]]></source>
+<year>1996</year>
+<volume>6</volume>
+<page-range>1225-1240</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Blütghen]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Feldhaar]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Food and shelter: how resources influence ant ecology]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Lach]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parr]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abbott]]></surname>
+<given-names><![CDATA[K. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology of Ants]]></source>
+<year>2010</year>
+<page-range>115-136</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Burger]]></surname>
+<given-names><![CDATA[JC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Redak]]></surname>
+<given-names><![CDATA[RA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Allen]]></surname>
+<given-names><![CDATA[EB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rotenberry]]></surname>
+<given-names><![CDATA[JT]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Allen]]></surname>
+<given-names><![CDATA[MF]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Restoring arthropod communities in coastal sage scrub]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<volume>17</volume>
+<page-range>460-467</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Campos]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desarrollo de un índice biológico de integridad basado en comunidades de aves nativas en zonas urbanas y periurbanas de la ciudad de La Paz - Bolivia]]></source>
+<year>2010</year>
+<page-range>71</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Canseco]]></surname>
+<given-names><![CDATA[Á]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anze]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Franken]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Comunidades de líquenes: indicadores de la calidad del aire en la ciudad de La Paz, Bolivia]]></article-title>
+<source><![CDATA[Acta Nova]]></source>
+<year>2006</year>
+<volume>3</volume>
+<page-range>286-307</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Clark]]></surname>
+<given-names><![CDATA[TE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Samways]]></surname>
+<given-names><![CDATA[MJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sampling arthropod diversity for urban ecological landscaping in a species-rich southern hemisphere botanic garden]]></article-title>
+<source><![CDATA[Journal of Insect Conservation]]></source>
+<year>1997</year>
+<volume>1</volume>
+<page-range>221-234</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cushman]]></surname>
+<given-names><![CDATA[JH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martinsen]]></surname>
+<given-names><![CDATA[GD]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mazeroll]]></surname>
+<given-names><![CDATA[AI]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Density and size dependent spacing ant nests: evidence for intraspecific competition]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>1988</year>
+<volume>77</volume>
+<page-range>522-525</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chacón de Ulloa]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Hormigas urbanas]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducción a las Hormigas de la Región Tropical]]></source>
+<year>2003</year>
+<page-range>351-359</page-range><publisher-loc><![CDATA[Bogotá ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Investigación de Recursos Biológicos Alexander von Humboldt]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chacón de Ulloa]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jaramillo]]></surname>
+<given-names><![CDATA[GI]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lozano]]></surname>
+<given-names><![CDATA[MM]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Hormigas urbanas en el departamento del valle del Cauca, Colombia]]></article-title>
+<source><![CDATA[Revista Académica Colombiana en Ciencias]]></source>
+<year>2006</year>
+<volume>30</volume>
+<page-range>435-441</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Faeth]]></surname>
+<given-names><![CDATA[SH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warren]]></surname>
+<given-names><![CDATA[PS]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shochat]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marussich]]></surname>
+<given-names><![CDATA[WA]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trophic dynamics in urban communities]]></article-title>
+<source><![CDATA[BioScience]]></source>
+<year>2005</year>
+<volume>55</volume>
+<page-range>399-407</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[FE]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducción al estudio de las hormigas]]></source>
+<year>1996</year>
+<page-range>398</page-range><publisher-loc><![CDATA[Santa fé de Bogotá ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Investigación de Recursos Biológicos Alexander von Humboldt]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Folgarait]]></surname>
+<given-names><![CDATA[PJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ant biodiversity and its relationship to ecosystem functioning: a review]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>1998</year>
+<volume>7</volume>
+<page-range>1221-1244</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Friedrich]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Philpott]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nest-site limitation and nesting resources of ants (Hymenoptera: Formicidae) in urban green spaces]]></article-title>
+<source><![CDATA[Environmental Entomology]]></source>
+<year>2009</year>
+<volume>38</volume>
+<page-range>600-607</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Garitano-Zabala]]></surname>
+<given-names><![CDATA[Á]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gismondi]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Variación de la riqueza y diversidad de la ornitofauna en áreas verdes urbanas de las ciudades de La Paz y El Alto (Bolivia)]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2003</year>
+<volume>38</volume>
+<page-range>65-78</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hill]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Summerville]]></surname>
+<given-names><![CDATA[KS]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Habitat associations of ant species (Hymenoptera: Formicidae) in a heterogeneous Mississippi landscape]]></article-title>
+<source><![CDATA[Environmental Entomology]]></source>
+<year>2008</year>
+<volume>37</volume>
+<page-range>453-463</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kaspari]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Body size and microclimate use in Neotropical granivorous ants]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>1993</year>
+<volume>96</volume>
+<page-range>500-507</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kaspari]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[O'Donell]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kercher]]></surname>
+<given-names><![CDATA[JR]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Energy, density, and constraints to species richness: ant assemblages along a productivity gradient]]></article-title>
+<source><![CDATA[American Naturalist]]></source>
+<year>1999</year>
+<volume>155</volume>
+<page-range>280-293</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kaspari]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wieser]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ant activity along moisture gradients in a Neotropical forest]]></article-title>
+<source><![CDATA[Biotropica]]></source>
+<year>2000</year>
+<volume>32</volume>
+<page-range>703-711</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kent]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coker]]></surname>
+<given-names><![CDATA[P]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vegetation description and analysis]]></source>
+<year>1992</year>
+<page-range>363</page-range><publisher-loc><![CDATA[Ontario ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley and Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Koya]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Algunos aspectos ecológicos de los formícidos de la puna seca semiárida del altiplano boliviano]]></source>
+<year>1983</year>
+</nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Levings]]></surname>
+<given-names><![CDATA[SC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Traniello]]></surname>
+<given-names><![CDATA[JFA]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Territoriality, nest dispersion and community structure in ants]]></article-title>
+<source><![CDATA[Psyche]]></source>
+<year>1981</year>
+<volume>88</volume>
+<page-range>265-321</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Patrones de diversidad vegetal en el valle de La Paz]]></source>
+<year>1996</year>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maes]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Van Dyck]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vanreusel]]></surname>
+<given-names><![CDATA[W]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cortens]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ant communities (Hymenoptera: Formicidae) of Flemish (north Belgium) wet heathlands, a declining habitat in Europe]]></article-title>
+<source><![CDATA[European Journal of Entomology]]></source>
+<year>2003</year>
+<volume>100</volume>
+<page-range>545-555</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Majer]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Orabi]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bisevac]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ants (Hymenoptera: Formicidae) pass the bioindicator scorecard]]></article-title>
+<source><![CDATA[Myrmecologycal News]]></source>
+<year>2007</year>
+<volume>10</volume>
+<page-range>69-76</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Matteucd]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Colma]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Metodología para el estudio de la vegetación]]></source>
+<year>1982</year>
+<page-range>168</page-range><publisher-loc><![CDATA[Washington^eDC DC]]></publisher-loc>
+<publisher-name><![CDATA[Secretaria General de la Organización de los Estados Americanos Programa Regional de Desarrollo Científico y Tecnológico]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McIntyre]]></surname>
+<given-names><![CDATA[NE]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecology of urban arthropods: a review and a call to action]]></article-title>
+<source><![CDATA[Ecology and Population Biology]]></source>
+<year>2000</year>
+<volume>93</volume>
+<page-range>825-835</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McIntyre]]></surname>
+<given-names><![CDATA[NE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rango]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fagan]]></surname>
+<given-names><![CDATA[WF]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Faeth]]></surname>
+<given-names><![CDATA[SH]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ground arthropod community structure in a heterogeneous urban environment]]></article-title>
+<source><![CDATA[Landscape and Urban Planning]]></source>
+<year>2001</year>
+<volume>52</volume>
+<page-range>257-274</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McKinney]]></surname>
+<given-names><![CDATA[ML]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Urbanization, biodiversity, and conservation]]></article-title>
+<source><![CDATA[BioScience]]></source>
+<year>2002</year>
+<volume>52</volume>
+<page-range>2002</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McKinney]]></surname>
+<given-names><![CDATA[ML]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Urbanization as a major cause of biotic homogenization]]></article-title>
+<source><![CDATA[Biological Conservation]]></source>
+<year>2006</year>
+<volume>127</volume>
+<page-range>247-260</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mitrovich]]></surname>
+<given-names><![CDATA[MJ]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Matsuda]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pease]]></surname>
+<given-names><![CDATA[KH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fisher]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ants as a measure of effectivenes s of habitat conservation planning in Southern California]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2010</year>
+<volume>24</volume>
+<page-range>1239-1248</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Niemelä]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecology and urban planning]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>1999</year>
+<volume>8</volume>
+<page-range>119-131</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[MF]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Campos-Farinha]]></surname>
+<given-names><![CDATA[AEC]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Formigas urbanas do município de Maringá, PR, e su as implicações]]></article-title>
+<source><![CDATA[Arquivos do Instituto Biologico]]></source>
+<year>2005</year>
+<volume>72</volume>
+<page-range>33-39</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco do Nascimento]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservation of invertebrates in urban areas: a study of case with ants in the Brazilian Cerrado]]></source>
+<year>2005</year>
+<page-range>61</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Palacios]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Clave para las subfamilias y géneros]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Andrade]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Amat]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducción al Estudio de las Hormigas]]></source>
+<year>1996</year>
+<page-range>233-260</page-range><publisher-loc><![CDATA[Santa fé de Bogotá ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Investigación de Recursos Biológicos Alexander von Humboldt]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Parr]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gibb]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Competition and the role of dominant ants]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Lach]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parr]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abbott]]></surname>
+<given-names><![CDATA[K. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology of Ants]]></source>
+<year>2010</year>
+<page-range>77-96</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearce-Duvet]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elemans]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Feener]]></surname>
+<given-names><![CDATA[DH]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Walking the line: search behavior and foraging succes in ant species]]></article-title>
+<source><![CDATA[Behavioral]]></source>
+<year>2011</year>
+<volume>Ecology</volume>
+<page-range>1-9</page-range></nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Philpott]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perfecto]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Armbrecht]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parr]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ant diversity and function in disturbed and changing habitats]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Lach]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parr]]></surname>
+<given-names><![CDATA[C. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abbott]]></surname>
+<given-names><![CDATA[K. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecology of Ants]]></source>
+<year>2010</year>
+<page-range>137-158</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pik]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangerfield]]></surname>
+<given-names><![CDATA[JM]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bramble]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Angus]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nipperess]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The use of invertebrates to detect small-scale habitat heterogeneity and its application to restoration practices]]></article-title>
+<source><![CDATA[Environmental Monitoring and Assessment]]></source>
+<year>2002</year>
+<volume>75</volume>
+<page-range>179-199</page-range></nlm-citation>
+</ref>
+<ref id="B51">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pirk]]></surname>
+<given-names><![CDATA[GI]]></given-names>
+</name>
+<name>
+<surname><![CDATA[di Pasquo]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lopez de Casanave]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diet of two sympatric Pheidole spp. ants in the central Monte desert: implications for seed-granivore interactions]]></article-title>
+<source><![CDATA[Insectes Sociaux]]></source>
+<year>2009</year>
+<volume>56</volume>
+<page-range>277-283</page-range></nlm-citation>
+</ref>
+<ref id="B52">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pitts]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mc]]></surname>
+<given-names><![CDATA[Hugh J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kenneth]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cladistic analysis of the fire ants of the Solenopsis saevissima species-group (Hymenoptera: Formicidae)]]></article-title>
+<source><![CDATA[Zoologica Scripta]]></source>
+<year>2005</year>
+<volume>34</volume>
+<page-range>493-505</page-range></nlm-citation>
+</ref>
+<ref id="B53">
+<nlm-citation citation-type="book">
+<collab>R Development Core Team</collab>
+<source><![CDATA[R: a language and environment for statistical computing]]></source>
+<year>2011</year>
+<publisher-loc><![CDATA[Vienna ]]></publisher-loc>
+<publisher-name><![CDATA[R Foundation for Statistical Computing]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B54">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ratchford]]></surname>
+<given-names><![CDATA[JS]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wittman]]></surname>
+<given-names><![CDATA[SE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jules]]></surname>
+<given-names><![CDATA[SE]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[AM]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gotelli]]></surname>
+<given-names><![CDATA[NJ]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanders]]></surname>
+<given-names><![CDATA[NJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The effects of fire, local environment and time on ant assemblages in fens and forests]]></article-title>
+<source><![CDATA[Diversity and Distributions]]></source>
+<year>2005</year>
+<volume>11</volume>
+<page-range>487-497</page-range></nlm-citation>
+</ref>
+<ref id="B55">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribas]]></surname>
+<given-names><![CDATA[CR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Campos]]></surname>
+<given-names><![CDATA[RBF]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schmidt]]></surname>
+<given-names><![CDATA[FA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Solar]]></surname>
+<given-names><![CDATA[RRC]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ants as indicators in Brazil: a review with suggestions to improve the use of ants in environmental monitoring programs]]></article-title>
+<source><![CDATA[Psyche]]></source>
+<year>2012</year>
+<month>20</month>
+<day>12</day>
+<numero>^s23</numero>
+<issue>^s23</issue>
+<supplement>23</supplement>
+</nlm-citation>
+</ref>
+<ref id="B56">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rivera]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Armbrecht]]></surname>
+<given-names><![CDATA[I]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Diversidad de tres gremios de hormigas en cafetales de sombra, de sol y bosques de Risalda]]></article-title>
+<source><![CDATA[Revista Colombiana de Entomología]]></source>
+<year>2005</year>
+<volume>31</volume>
+<page-range>89-96</page-range></nlm-citation>
+</ref>
+<ref id="B57">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sandfor]]></surname>
+<given-names><![CDATA[MP]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Manley]]></surname>
+<given-names><![CDATA[PN]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Murphy]]></surname>
+<given-names><![CDATA[DD]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of urban development on ant communities: implications for ecosystem services and management]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2008</year>
+<volume>23</volume>
+<page-range>131-141</page-range></nlm-citation>
+</ref>
+<ref id="B58">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Silvestre]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brandäo]]></surname>
+<given-names><![CDATA[C. R. F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[da Silva]]></surname>
+<given-names><![CDATA[R. R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Grupos funcionales de hormigas: el caso de los gremios del Cerrado]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fernández]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Introducción a las Hormigas de la Región Tropical]]></source>
+<year>2003</year>
+<page-range>113-148</page-range><publisher-loc><![CDATA[Bogotá ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Investigación de Recursos Biológicos Alexander von Humboldt]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B59">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Souto]]></surname>
+<given-names><![CDATA[XC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bolaño]]></surname>
+<given-names><![CDATA[JC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzélez]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reigosa]]></surname>
+<given-names><![CDATA[MJ]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Allelopathic effects of tree species on some soil microbial populations and herbaceous plants]]></article-title>
+<source><![CDATA[Biologia Plantarum]]></source>
+<year>2001</year>
+<volume>44</volume>
+<page-range>269-275</page-range></nlm-citation>
+</ref>
+<ref id="B60">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Toro]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ortega]]></surname>
+<given-names><![CDATA[OE]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Composición y diversidad de hormigas (Hymenoptera: Formicidae) en algunas áreas protegidas del valle de Aburrá]]></article-title>
+<source><![CDATA[Revista Colombiana de Entomología]]></source>
+<year>2006</year>
+<volume>32</volume>
+<page-range>214-220</page-range></nlm-citation>
+</ref>
+<ref id="B61">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tschinkel]]></surname>
+<given-names><![CDATA[WR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Adams]]></surname>
+<given-names><![CDATA[ES]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Macom]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Territory area and colony size in the fire ant, Solenopsis invicta]]></article-title>
+<source><![CDATA[Journal of Animal Ecology]]></source>
+<year>1995</year>
+<volume>64</volume>
+<page-range>473-480</page-range></nlm-citation>
+</ref>
+<ref id="B62">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de la flora y vegetación de la Cuenca del río Jillusaya (Prov. Murillo - La Paz) como base para un futuro manejo]]></source>
+<year>1985</year>
+<page-range>97</page-range></nlm-citation>
+</ref>
+<ref id="B63">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vepsäläinen]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ikonen]]></surname>
+<given-names><![CDATA[H]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Koivula]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The structure of ant assemblages in an urban area of Helsinki, southern Finl and]]></article-title>
+<source><![CDATA[Annales Zoologici Fennici]]></source>
+<year>2008</year>
+<volume>45</volume>
+<page-range>109-127</page-range></nlm-citation>
+</ref>
+<ref id="B64">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Villegas]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Relación entre variable ambientales de urbanización y las comunidades de aves nativas en la ciudad de La Paz: bases para programas de monitoreo]]></source>
+<year>2005</year>
+<page-range>57</page-range></nlm-citation>
+</ref>
+<ref id="B65">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vitousek]]></surname>
+<given-names><![CDATA[PM]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mooney]]></surname>
+<given-names><![CDATA[AH]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lubchenco]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Melillo]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Human domination of earth's ecosystems]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>1997</year>
+<volume>277</volume>
+<page-range>294-299</page-range></nlm-citation>
+</ref>
+<ref id="B66">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yamaguchi]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Influence of urbanization on ant distribution in parks of Tokio and Chiba City, Japan. I. Analysis of ant species richness]]></article-title>
+<source><![CDATA[Ecological Research]]></source>
+<year>2004</year>
+<volume>19</volume>
+<page-range>209-216</page-range></nlm-citation>
+</ref>
+<ref id="B67">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yamaguchi]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Influence of urbanization on ant distribution in parks of Tokyo and Chiba city]]></article-title>
+<source><![CDATA[Entomological Science]]></source>
+<year>2005</year>
+<volume>8</volume>
+<page-range>17-25</page-range></nlm-citation>
+</ref>
+<ref id="B68">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zeballos]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de los cambios en la composición florística, cobertura vegetal y fenología a lo largo de un ciclo anual en el parea permanente de Cota Cota -La Paz]]></source>
+<year>2000</year>
+<page-range>133</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

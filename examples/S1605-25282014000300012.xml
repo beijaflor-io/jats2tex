@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300012</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Métodos para caracterizar la dinámica de los sistemas socio-ecológicos asociados a los bofedales altoandinos (Cordillera Real, Bolivia)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Methods for the characterization of the dynamics of socio-ecological systems associated with high Andean wetlands (Cordillera Real, Bolivia)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[Dirk]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tarquino]]></surname>
+<given-names><![CDATA[Rodrigo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Corro Ayala]]></surname>
+<given-names><![CDATA[Javier Fernando]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lavadenz]]></surname>
+<given-names><![CDATA[Liz]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Instituto Boliviano de la Montaña - BMI  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Antropología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>132</fpage>
+<lpage>140</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300012&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300012&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300012&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los bofedales altoandinos son un socio-ecosistema clave para millones de personas en los Andes centrales (Perú, Bolivia, Chile, Argentina). Permiten entre otros proveer agua, forraje para el ganado, almacenamiento de carbono en el suelo y tienen un nivel de biodiversidad alto. Entender los cambios de funcionamiento de los bofedales frente a los efectos del cambio climático requiere un enfoque multidisciplinario incluyendo una parte socio-económica y política. El artículo tiene por objetivo describir y discutir métodos de las ciencias sociales para poder entender la dinámica de funcionamiento de los sistemas socio-ecológicos asociados a los bofedales altoandinos. Tomamos como ejemplo el proyecto BIOTHAW, el cual estudia la dinámica socio-económica de los bofedales en cuatro municipios de la Cordillera Real (Departamento La Paz, Bolivia). Dentro de los métodos propuestos discutimos la pertinencia de utilizar la investigación participativa, las entrevistas con comunidades locales, mapas parlantes y juegos experimentales. En una posterior fase, los resultados obtenidos alimentarán un modelaje socio-ecológico bajo los efectos de los cambios globales mediante un modelamiento basado en agentes.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[High Andean peat bogs (bofedales) are keystone socio-ecosystems for millions of people in the Central Andes (Peru, Bolivia, Chile, Argentina). They provide crucial ecosystem services such as drinking water, pasture for domestic livestock, soil carbon storage, and a particularly high level of biodiversity in comparison with surrounding areas. Characterizing changes in the functioning of bofedales as a response to the effects of climate change is therefore a topical scientific and management challenge, which requires multidisciplinarity, including a socio-economical approach. The objective of this article is to describe and discuss different social science methods in order to understand the dynamics of the functioning of the coupled social-ecological systems associated with the bofedales. For such a purpose, we present our experience within the BIOTHAW project in which we characterized the functioning of the bofedales located in four municipalities of the Cordillera Real (Bolivia). We discuss especially the relevance of four methodological approaches: participatory resear ch, interviews with local people, talking maps and experimental game designs. In a next phase within the project, the results obtained will be fed into a social-ecological model following the agent-based-modeling approach.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bofedales]]></kwd>
+<kwd lng="es"><![CDATA[Cambio climático]]></kwd>
+<kwd lng="es"><![CDATA[Ciencias sociales]]></kwd>
+<kwd lng="es"><![CDATA[Sistemas altoandinos]]></kwd>
+<kwd lng="es"><![CDATA[Sistemas socio-ecológicos]]></kwd>
+<kwd lng="en"><![CDATA[wetlands]]></kwd>
+<kwd lng="en"><![CDATA[climate change]]></kwd>
+<kwd lng="en"><![CDATA[social sciences]]></kwd>
+<kwd lng="en"><![CDATA[high Andean systems]]></kwd>
+<kwd lng="en"><![CDATA[socio-ecological systems]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p>&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Métodos para caracterizar la dinámica de los sistemas socio-ecológicos asociados a los bofedales altoandinos (Cordillera Real, Bolivia)</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Methods for the characterization of the dynamics of socio-ecological systems associated with high Andean wetlands (Cordillera Real, Bolivia)</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Dirk Hoffmann<sup>1</sup>*, Rodrigo Tarquino<sup>1,2</sup>, Javier Fernando Corro Ayala<sup>3</sup> &amp;</b></font> <font face="Verdana" size="2"><b>Liz Lavadenz<sup>1,3</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Instituto Boliviano de la Montaña - BMI, Casilla 3-12417, La Paz, Bolivia.</font>    <br> <font face="Verdana" size="2"><b>*Autor para correspondencia: </b><a href="mailto:dirk.hoffmann@berlin.de">dirk.hoffmann@berlin.de</a><sup>    ]]></body>
+<body><![CDATA[<br>   2</sup>Centro de Análisis Espacial, Instituto de Ecología, Universidad Mayor de San Andrés,</font> <font face="Verdana" size="2">Casilla 10077 - Correo Central, La Paz, Bolivia.    <br> </font><font face="Verdana" size="2"><sup>3</sup> Carrera de Antropología, Universidad Mayor de San Andrés, Av. Villazón 1995, La Paz, Bolivia</font>    <br>   <font face="Verdana" size="2"><sup>4</sup>Maestría de Ecología y Conservación, Centro de Postgrado en Ecología y Conservación,</font> <font face="Verdana" size="2">Campus Universitario, Cota Cota Calle 27, La Paz, Bolivia.</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales altoandinos son un socio-ecosistema clave para millones de personas en los Andes centrales (Perú, Bolivia, Chile, Argentina). Permiten entre otros proveer agua, forraje para el ganado, almacenamiento de carbono en el suelo y tienen un nivel de biodiversidad alto. Entender los cambios de funcionamiento de los bofedales frente a los efectos del cambio climático requiere un enfoque multidisciplinario incluyendo una parte socio-económica y política. El artículo tiene por objetivo describir y discutir métodos de las ciencias sociales para poder entender la dinámica de funcionamiento de los sistemas socio-ecológicos asociados a los bofedales altoandinos. Tomamos como ejemplo el proyecto BIOTHAW, el cual estudia la dinámica socio-económica de los bofedales en cuatro municipios de la Cordillera Real (Departamento La Paz, Bolivia). Dentro de los métodos propuestos discutimos la pertinencia de utilizar la investigación participativa, las entrevistas con comunidades locales, mapas parlantes y juegos experimentales. En una posterior fase, los resultados obtenidos alimentarán un modelaje socio-ecológico bajo los efectos de los cambios globales mediante un modelamiento basado en agentes.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Bofedales, Cambio climático, Ciencias sociales, Sistemas altoandinos, Sistemas socio-ecológicos.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">High Andean peat bogs (bofedales) are keystone socio-ecosystems for millions of people in the Central Andes (Peru, Bolivia, Chile, Argentina). They provide crucial ecosystem services such as drinking water, pasture for domestic livestock, soil carbon storage, and a particularly high level of biodiversity in comparison with surrounding areas. Characterizing changes in the functioning of bofedales as a response to the effects of climate change is therefore a topical scientific and management challenge, which requires multidisciplinarity, including a socio-economical approach.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">The objective of this article is to describe and discuss different social science methods in order to understand the dynamics of the functioning of the coupled social-ecological systems associated with the bofedales. For such a purpose, we present our experience within the BIOTHAW project in which we characterized the functioning of the bofedales located in four municipalities of the Cordillera Real (Bolivia). We discuss especially the relevance of four methodological approaches: participatory resear ch, interviews with local people, talking maps and experimental game designs. In a next phase within the project, the results obtained will be fed into a social-ecological model following the agent-based-modeling approach.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Keywords:</b> wetlands, climate change, social sciences, high Andean systems, socio-ecological systems.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales altoandinos son un recurso crucial para millones de personas en los Andes centrales, ofreciendo agua potable, forraje para el ganado, almacenamiento de carbono y una concentración alta de biodiversidad en comparación con los ecosistemas adyacentes (Squeo <i>et al. </i>2006, Segnini <i>et al. </i>2010, Buytaert <i>et al. </i>2011, Dangles <i>et al. </i>en este número especial). Cuando se trata de caracterizar de manera integrada un ecosistema fuertemente influenciado por las actividades humanas -como es el caso de los bofedales- se requiere comprender los sistemas sociales y los sistemas naturales como una unidad integrada, como sistemas socio-ecológicos (SSE).</font></p>     <p align="justify"><font face="Verdana" size="2">Este postulado encaja perfectamente con una de las metas del Proyecto BIOTHAW, que es el desarrollo de un modelo acoplado humano-medioambiental (Rebaudo &amp; Dangles 2014). El proyecto BIOTHAW tiene por objetivo caracterizar las respuestas de los humedales tropicales altoandinos (bofedales) frente a los efectos del cambio climático. Específicamente, trata de relacionar cambios en la disponibilidad de agua del glaciar consecutiva al retroceso glaciar con la biodiversidad y la productividad de los bofedales (Dangles <i>et al. </i>en este número especial). Se trata de un proyecto multidisciplinario que implica una importante comunidad de investigadores de las ciencias naturales y sociales y actores locales de las comunidades originarias y campesinas.</font></p>     <p align="justify"><font face="Verdana" size="2">En el altiplano boliviano cada una de estas comunidades se organiza territorialmente para mantener un área para la ganadería (bofedales) y/o la agricultura (en las zonas bañadas por los bofedales); en estos casos muchas de las comunidades tienen una relación directa con los bofedales, así como la relación con los glaciares (Hoffmann 2013). Debido a la gran altitud, la exposición a un clima siempre adverso y la pobreza del área rural, estas comunidades pertenecen a la parte de la población más vulnerable a eventos climáticos extremos, exacerbados por el cambio climático (Perez <i>et al. </i>2010, Sietz <i>et al. </i>2012, Wymann von Dach <i>et al. </i>2013). Estas comunidades están organizadas en sindicatos agrarios y ayllus (forma de comunidad familiar originaria de la región andina en un territorio de propiedad común). Es importante notar que durante los últimos dos años, varias comunidades han vuelto a su forma original de organización del ayllu, que después de la Revolución Nacional de 1952 y la Reforma Agraria del siguiente año fue abandonada. Sin embargo, en algunos casos no se han cambiado las estructuras de organización campesina en si, sino solamente el nombre.</font></p>     <p align="justify"><font face="Verdana" size="2">El objetivo de este artículo es de proponer métodos sencillos y relevantes para caracterizar la dinámica del sistema socio-ecológico de los bofedales, con enfoque socio-económico. Se propone aplicar una variedad de métodos de investigación de las ciencias sociales. Estos métodos deben tomar en cuenta la especificidad organizacional de las comunidades. Discutimos </font><font face="Verdana" size="2">la pertinencia de cada una de los métodos propuestos a través del ejemplo del proyecto BIOTHAW.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Área, sistema socio-económico y sitios de estudio</b></font></p>     <p align="justify"><font face="Verdana" size="2">Con los objetivos 1) de optimizar la representatividad de los datos a colectar y 2) de ubicarse en un sistema suficientemente homogéneo para que los diferentes sitios elegidos sean considerados más como repeticiones que como tratamientos, sugerimos definir un área de estudio a un nivel regional con varios sitios. En nuestro caso, hemos elegido una parte de la Cordillera Real (departamento de La Paz, Bolivia) porque el clima es relativamente homogéneo y también alberga un número alto de bofedales con características florísticas y altitudinales relativamente similares (Ostria 1987, Kraemer 2014, R. I. Meneses com. pers. 2014). Los datos fueron tomados en cinco cuencas de la Cordillera Real (valles de Hichu Khota, de Palcoco, de Condoriri, de Tuni y de Milluni-Zongo), las cuales pertenecen a cuatro municipios (Batallas, Pucarani, La Paz y El Alto; <a href="#f1">Fig. 1</a>). Esta decisión de muestreo también refleja la voluntad de homogenizar al máximo los diferentes diseños de un proyecto multidisciplinario, como es el caso de BIOTHAW (ver en este número especial: Cochi <i>et al., </i>García <i>et al., </i>Gonzales <i>et al., </i>Meneses <i>et al., </i>Naoki <i>et al., </i>Zeballos <i>et al. </i>y Zimmer <i>et al., </i>donde se puede encontrar más detalles sobre la descripción del área de estudio).</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a12_figura_01.gif" width="742" height="578"></p>     <p align="justify"><font face="Verdana" size="2">A partir de este diseño básico, cada disciplina puede ajustar su propia área de estudio según sus necesidades de análisis. En el caso del estudio socio-económico, se requiere la definición de un área amplia, para incluir a todos los actores locales que están involucrados en el uso de los recursos naturales de la zona y que intervienen en la toma de decisión sobre estos. Sugerimos que esta área a su vez se divida en dos: 1) un área de estudio directa, donde las actividades sociales, culturales y productivas se realizan </font><font face="Verdana" size="2">y 2) un área de estudio indirecta, que es toda la zona de influencia donde las comunidades se relacionan. Como ejemplo, en el caso del proyecto BIOTHAW, el área de estudio directa es representada por seis comunidades (<a href="#t1">Tabla 1</a>) que tienen una organización local definida (como ayllu o sindicato) a través de la relación que tienen los integrantes de la comunidad con el territorio.</font></p>     <p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a12_tabla_01.gif" width="741" height="384"></p>     <p align="justify"><font face="Verdana" size="2">Las áreas de estudio indirecta son los municipios de La Paz, El Alto, Pucarani y Batallas, donde las relaciones económicas, institucionales y políticas se desarrollan (<a href="#f1">Fig. 1</a>). Además son zonas donde la producción se intercambia o comercializa (Hoffmann &amp; Requena 2012). Estas áreas de estudio son claves al momento de entender cuáles son las relaciones sociales, económicas y políticas, que estas zonas mantienen directamente e indirectamente a diferentes escalas, y que permiten organizarse además de conseguir apoyo para su mejor desarrollo (Zoomers 1999).</font></p>     <p align="justify"><font face="Verdana" size="2">La población emigrante en una mayor proporción se dirige a la ciudad de La Paz y el Alto (65%) donde migra de manera temporal y permanente por la cercanía geográfica. Otro destino habitual son los Yungas (10%) donde algunos habitantes poseen sus chacos (cultivos agrícolas tropicales) y a los que se dirigen después de la cosecha en el altiplano, existe también migración a otros departamentos del país y a otros países 25% (GMP 2000 y GMB 2006).</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Investigación participativa</b></font></p>     <p align="justify"><font face="Verdana" size="2">Como primer paso metodológico, sugerimos la visita y participación en las reuniones de las autoridades sindicales y originarias para establecer acuerdos y determinar de manera conjunta la realización del trabajo de investigación (Hoffmann 2006). Esta investigación cualitativa tiene que anteceder a la investigación cuantitativa en la práctica y en el tiempo, porque primero es necesario establecer qué entidades hay en el contexto de estudio- cuáles categorías sociales de personas, </font><font face="Verdana" size="2">qué rubros económicos, cuáles practicas rituales antes de intentar contarlos o medirlos (Spedding 2006). El registro de estos eventos permite comprender el sistema de organización política y la gobernanza existente en la zona. Este trabajo se debe organizar sujeto a las dinámicas culturales y económicas propias de los habitantes de la zona de estudio y a los mecanismos políticos (reuniones mensuales, asambleas generales). Por ejemplo, dentro de nuestro proyecto, hemos realizado entre abril y julio 2013 reuniones que permitió informar y solicitar el permiso respectivo para la realización de la investigación (<a href="#f2">Fig. 2a</a>).</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a12_figura_02.jpg" width="736" height="578"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Entrevistas y grupos focales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las entrevistas permiten colectar datos cualitativos como cuantitativos. Es recomendable trabajar con anticipación un esquema de temas y preguntas y memorizarlo (ver también Dangles <i>et al. </i>2010). A continuación se describe tres pasos para la realización de las entrevistas.</font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Elaboración de la guía de entrevista</b></font></p>     <p align="justify"><font face="Verdana" size="2">Es necesario resaltar que la guía de entrevista no es un manual rígido: puede ser revisada y </font><font face="Verdana" size="2">adaptada constantemente según los resultados de las entrevistas. No debe ser seguida en forma mecánica, hay que dejar fluir el diálogo con la gente y abordar cualquier tema nuevo que aparezca, sin perder de vista el objetivo.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2"><i>Selección de las personas y/o grupos a entrevistar. </i>Esta selección es muy importante, principalmente para evitar los sesgos (por ejemplo: sesgo en el acceso y limitarse a gente más accesible; sesgo jerárquico hablar solamente con los líderes; sesgo de género conformarse con la no participación de la mujer; sesgo de proyecto limitarse a la gente que ya está involucrada con el proyecto y la institución).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Análisis de los resultados</b></font></p>     <p align="justify"><font face="Verdana" size="2">La información obtenida debe ser comparada con otras fuentes, otras entrevistas, resultados de otros ejercicios sobre el mismo tema. Es decir se debe hacer la triangulación de la información. Todo este proceso requiere de una relación de confianza entre el entrevistador y el entrevistado aspecto que se logra por la presencia regular del entrevistador en la zona de trabajo.</font></p>     <p align="justify"><font face="Verdana" size="2">En nuestro caso, las fuentes primarias utilizadas en el trabajo de campo fueron los testimonios de los entrevistados. Se diseñaron entrevistas semi-estructuradas (ver Hoffmann 2006) y se establecieron charlas informales con autoridades originarias, sindicales (centrales agrarias, secretarios generales) y con presidentes y miembros de las asociaciones de productores camélidos (<a href="#f2">Fig. 2b</a>).</font></p>     <p align="justify"><font face="Verdana" size="2">Las entrevistas realizadas fueron grupales e individuales. En las grupales, se reunió a los socios de las asociaciones de productores camélidos (hombres y mujeres) con quienes además de la entrevista grupal mediante la conformación de grupos focales (Yapu &amp; Iñiguez 2014) y se empleó la técnica de mapas parlantes (ver subcapítulo siguiente), contando con un grupo de varones y otro de mujeres. Esto con la finalidad de que las mujeres expresen libremente sus conocimientos.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Mapas parlantes</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los mapas parlantes son instrumentos para realizar diagnósticos participativos, procesos de planificación, descripción de contenidos y procesos complejos y análisis de percepción, que se visualizan en forma de símbolos e imágenes (Bonilla 1980). El método permite la participación e inclusión de personas analfabetas (que en el caso de personas mayores a 50 años es una característica de zonas rurales). Los mapas y modelos pueden elaborarse sobre diferentes tipos de material como papel o el terreno mismo, con muy pocas limitaciones en la interpretación son útiles para trabajar en zonas rurales (<a href="#f2">Fig. 2c</a>). La aplicación de esta metodología produce diferentes tipos de resultados palpables y crea una conciencia y reflexión grupal de logro y éxito. Este método puede ser utilizado en una entrevista personal o grupal de grupos homogéneos (mujeres, niños, jóvenes, adultos, entre otros) y resulta enriquecedor, ya que el comportamiento entre iguales es importante en el uso y confianza. Además se recomienda elaborar preguntas que direccionen diferentes resultados para los entrevistados. Existen varios tipos de mapas, de acuerdo al tema y contexto de la utilización (FAMB 2005). Dentro del proyecto, se utilizó un mapa parlante para la ubicación de zonas productivas, áreas de pastoreo, identificación de áreas de servicio (agua, caminos), actividades productivas diferentes como minería, turismo y otros y finalmente mapas de relacionamiento de las comunidades con otras comunidades (social - económico - político) y la relación con otras entidades como municipios (político, proyectos, entre otros) urbes (mercados, vivienda, educación, salud).</font></p>     <p align="justify"><font face="Verdana" size="2">Se puede utilizar como base una imagen satelital, que permite visualizar las características físicas del territorio así como los valores naturales reales. En esta base se solicita que los entrevistados (que son comunarios de las comunidades definidas)</font> <font face="Verdana" size="2">puedan realizar dibujos con diferentes colores para conocer la ubicación de diferentes zonas, usos y relaciones políticas o económicas y sociales. Con base en ello, esta información se digitaliza (con herramientas de SIG) se consolida y cuantifica y por medio de la misma se compara entre las demás obtenidas y se revisan las zonas con potencial riesgo, amenaza, conflicto, además se prioriza las zonas dependiendo de su importancia para la población, para las actividades económicas y proyecciones futuras o zonas prioritarias para la conservación.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Juegos experimentales</b></font></p>     <p align="justify"><font face="Verdana" size="2">El ejercicio del juego experimental permite recrear una situación en la cual un grupo de individuos debería tomar decisiones sobre un problem&aacute;tica de la comunidad, por ejemplo sobre cómo utilizar el agua para la producción agrícola (Rebaudo <i>et al. </i>2011, Rebaudo <i>et al. </i>en este número especial). Así es un método complementario a las entrevistas y mapas parlantes, el cual permite colectar datos en relación con los intereses propios de los habitantes del socio-ecosistema estudiado (<a href="#f2">Fig. 2d</a>).</font></p>     <p align="justify"><font face="Verdana" size="2">En el caso del proyecto BIOTHAW, los juegos experimentales diseñados tuvieron por objetivo determinar los cambios en los patrones de uso del agua frente a escenarios climáticos adversos que afectan a zonas con glaciares tropicales en Bolivia. Los procedimientos y técnicas que se han aplicado para poder determinar dichos cambios, fueron diseñados específicamente para su ejecución en comunidades del Altiplano boliviano con acceso a agua de la Cordillera Real.</font></p>     <p align="justify"><font face="Verdana" size="2">Para el desarrollo de este trabajo se conformó un equipo multidisciplinario, con expertos en agricultura, cambio climático, glaciares y economía. Este equipo ha trabajado en el diagnóstico técnico y socio-económico de las comunidades seleccionadas para la realización del experimento.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Línea base de indicadores</b></font></p>     <p align="justify"><font face="Verdana" size="2">Una vez completada la obtención de información de línea base a través de investigación participativa, entrevistas, mapas parlantes y/o juegos experimentales, el paso siguiente es construir una línea base de indicadores, que se define como el conjunto de indicadores seleccionados para el seguimiento y la evaluación sistemática de los impactos del cambio climático y los diferentes tipos de intervención por parte de las comunidades o instancias públicas locales (Pereira Maldonado 2014). En un posterior paso, se usa esta información para el desarrollo de escenarios de uso sostenible por parte de las poblaciones locales y la identificación de políticas de manejo eficientes. En el caso del proyecto BIOTHAW, la combinación de estos escenarios socioeconómicos con los biofísicos y climáticos resultará en modelos de diferentes opciones de desarrollo futuro que a su vez proveen criterios para la definición de áreas de conservación, en función a los parámetros regionales como ser cobertura glaciar, área de bofedales o prácticas de uso de suelo. Todos estos parámetros tienen que ser incluidos dentro de un modelamiento basado en agentes (MBA, Rebaudo &amp; Dangles en este número especial) con fin de predecir con un máximo de credibilidad el futuro de los bofedales altoandinos.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Agradecemos a nuestros socios e interlocutores locales de las comunidades de la zona de estudio, por su disponibilidad de tiempo, sus explicaciones y las informaciones brindadas en múltiples ocasiones durante las visitas de campo, entrevistas, grupos focales y talleres. Este estudio es parte del programa BIOTHAW (AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bonilla, V. D. 1980. Algunas experiencias del proyecto&quot; mapas parlantes&quot;. Seminario-taller sobre experiencias de alfabetización y de educación de adultos en áreas rurales de la sub-región andina. UNESCO. Lima. 25 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Buytaert, W., F. Cuesta-Camacho &amp; C. Tobón. 2011. Potential impacts of climate change on the environmental services of humid tropical alpine regions. Global Ecology and Biogeography 20:19-33.</font></p>     <p align="justify"><font face="Verdana" size="2">Dangles, O., F. C. Carpio, M. Villares, F. Yumisaca, B. Liger, F. Rebaudo, &amp; J. F. Silvain. 2010. Community-based research helps farmers and scientists to manage invasive pests in the Ecuadorian Andes. Ambio 39: 325-335.</font></p>     <p align="justify"><font face="Verdana" size="2">FAMB (Federación de Asociaciones Municipales de Bolivia). 2005. Caja de instrumentos sistémicos para el desarrollo económico local. Ruta Metodológica para el Desarrollo, Anexo metodológico de la Ruta Metodológica para el Desarrollo. La Paz. 70 p.</font></p>     <p align="justify"><font face="Verdana" size="2">GMB (Gobierno Municipal de Batallas). 2006. Plan de desarrollo municipal de Batallas 2006-2010. Federación de asociaciones municipales de Bolivia, La Paz. 230 p.</font></p>     <p align="justify"><font face="Verdana" size="2">GMP (Gobierno Municipal de Pucarani). 2000. Plan de desarrollo municipal de Pucarani 2000-2004. Federación de asociaciones municipales de Bolivia, La Paz. 50 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Hoffmann, D. 2006. Retroceso de los glaciares y recursos hídricos en Bolivia: de la investigación a la acción (memoria del evento boliviano de seguimiento a la conferencia regional de Quito). La Paz. 60 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Hoffmann, D. 2013. Management of bofedales (high Andean peat bogs) in the Bolivian Cordillera Real in the face of climate change. Focused Conversation &quot;Knowledge Sharing around water management innovations in the Andes </font><font face="Verdana" size="2">and Himalayas&quot;, Sep. 23rd - Oct. 10th, 2013, available online at: </font> <font face="Verdana" size="2"><a href="http://www.km4dev.org/profiles/blogs/himalandes-focused-conversation-case-9-by-dirk-hoffmann" target="_blank">http://www.km4dev.org/profiles/blogs/himalandes-focused-conversation-case-9-by-dirk-hoffmann</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Hoffmann, D. &amp; C. Requena. 2012. Bolivia en un mundo 4 grados más caliente. Escenarios sociopolíticos ante el cambio climático para los años 2030 y 2060 en el Altiplano norte. Instituto Boliviano de la Montaña &amp; Programa de Investigación Estratégica en Bolivia, La Paz. 168 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Kraemer, M. 2014. Étude de la variabilité de l’aire deszones humides alto-andines dans un contexte de changement climatique. Tesis de maestria &quot;Observation de la Terre et Géomatique&quot;, Universidad de Strasbourg, Estrasburgo. 56 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Ostria, C. 1987. Phytoécologie et paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie). Tesis de doctorado, Universidad de Paris, Paris. 180 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Pereira Maldonado, R. 2014. Indicadores de línea de base: pautas para su elaboración. Programa de Investigación Estrategica en Bolivia, La Paz. 115 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Perez, C., C. Nicklin, O. Dangles, S. Vanek, S. Sherwood, S. Halloy, R. Martinez, K. Garret &amp; G. Forbes. 2010. Climate change in the high Andes: Implications and adaptation strategies for small scale farmers. International Journal of Environmental, Cultural, Economic and Social Sustainability 6: 78-88.</font></p>     <p align="justify"><font face="Verdana" size="2">Rebaudo, F, V. Crespo-Perez, J. F/ Silvain &amp; O. Dangles. 2011. Agent-based modeling of human-induced spread of invasive species in agricultural landscapes: insights from the potato moth in Ecuador. Journal of Artifidal Societies and Social sciences 14(3): 7.</font></p>     <p align="justify"><font face="Verdana" size="2">Rebaudo, F., C. Carpio, V. Crespo-Pérez, M. Herrera, M. A. de Scurrah, R. C. Canto, A. G. Montañez, A. Bonifacio, M. Mamani, R. Saravia &amp; O. Dangles. 2014. </font><font face="Verdana" size="2">Agent-based models and integrated pest management diffusion in small scale farmer communities. pp. 367-383. En: Peshin, R. &amp; D. Pimentel (eds.) Integrated Pest Management. Springer, Dordrecht.</font></p>     <p align="justify"><font face="Verdana" size="2">Segnini, A., A. Posadas, R. Quiroz, D. M. B. P. Milori, S. C. Saab, L. M. Neto &amp; C. M. P. Vaz. 2010. Spectroscopic assessment of soil organic matter in wetlands from the high Andes. Soil Science Society of America Journal 74(6): 2246-2253.</font></p>     <p align="justify"><font face="Verdana" size="2">Sietz, D., S. E. M. Choque &amp; M. K. Lüdeke. 2012. Typical patterns of smallholder vulnerability to weather extremes with regard to food security in the Peruvian Altiplano. Regional Environmental Change 12 (3): 489-505.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     <p align="justify"><font face="Verdana" size="2">Wymann von Dach, S., R. Romeo, A. Vita, M. Wurzinger &amp; T. Kohler (eds.). 2013. Mountain family farming: a contribution from mountain areas to the international year of family farming 2014. Food and Agriculture Organization of the United Nations, Roma.. 100 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Yapu, M.&amp; E. Iñiguez. 2014. Pautas metodológicas para la realización de grupos focales. Antecedentes, fundamentos y prácticas. Programa de Investigación Estratégica en Bolivia, La Paz. 58 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Zoomers, E. B. 1999. Livelihood strategies and development interventions in the southern Andes of Bolivia: contrasting views on development. Centre for Latin American research and documentation, Amsterdam. 13 p.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bonilla]]></surname>
+<given-names><![CDATA[V.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Algunas experiencias del proyecto" mapas parlantes"]]></source>
+<year>1980</year>
+<conf-name><![CDATA[ Seminario-taller sobre experiencias de alfabetización y de educación de adultos en áreas rurales de la sub-región andina]]></conf-name>
+<conf-loc> </conf-loc>
+<page-range>25</page-range><publisher-loc><![CDATA[Lima ]]></publisher-loc>
+<publisher-name><![CDATA[UNESCO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buytaert]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cuesta-Camacho]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tobón]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Potential impacts of climate change on the environmental services of humid tropical alpine regions]]></article-title>
+<source><![CDATA[Global Ecology and Biogeography]]></source>
+<year>2011</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>19-33</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpio]]></surname>
+<given-names><![CDATA[F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villares]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yumisaca]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Liger]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silvain]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Community-based research helps farmers and scientists to manage invasive pests in the Ecuadorian Andes]]></article-title>
+<source><![CDATA[Ambio]]></source>
+<year>2010</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>325-335</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<collab>FAMB (Federación de Asociaciones Municipales de Bolivia)</collab>
+<source><![CDATA[Caja de instrumentos sistémicos para el desarrollo económico local: Ruta Metodológica para el Desarrollo, Anexo metodológico de la Ruta Metodológica para el Desarrollo]]></source>
+<year>2005</year>
+<page-range>70</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<collab>GMB (Gobierno Municipal de Batallas)</collab>
+<source><![CDATA[Plan de desarrollo municipal de Batallas 2006-2010]]></source>
+<year>2006</year>
+<page-range>230</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Federación de asociaciones municipales de Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<collab>GMP (Gobierno Municipal de Pucarani)</collab>
+<source><![CDATA[Plan de desarrollo municipal de Pucarani 2000-2004]]></source>
+<year>2000</year>
+<page-range>50</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Federación de asociaciones municipales de Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Retroceso de los glaciares y recursos hídricos en Bolivia: de la investigación a la acción (memoria del evento boliviano de seguimiento a la conferencia regional de Quito)]]></source>
+<year>2006</year>
+<page-range>60</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Management of bofedales (high Andean peat bogs) in the Bolivian Cordillera Real in the face of climate change]]></source>
+<year>2013</year>
+<conf-name><![CDATA[ Focused Conversation "Knowledge Sharing around water management innovations in the Andes and Himalayas"]]></conf-name>
+<conf-date>Sep. 23rd - Oct. 10th, 2013</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Requena]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Bolivia en un mundo 4 grados más caliente: Escenarios sociopolíticos ante el cambio climático para los años 2030 y 2060 en el Altiplano norte]]></source>
+<year>2012</year>
+<page-range>168</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto Boliviano de la Montaña & Programa de Investigación Estratégica en Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kraemer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Étude de la variabilité de l’aire deszones humides alto-andines dans un contexte de changement climatique]]></source>
+<year>2014</year>
+<page-range>56</page-range><publisher-loc><![CDATA[Estrasburgo ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Phytoécologie et paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie)]]></source>
+<year>1987</year>
+<page-range>180</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pereira Maldonado]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Indicadores de línea de base: pautas para su elaboración]]></source>
+<year>2014</year>
+<page-range>115</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Programa de Investigación Estrategica en Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Perez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nicklin]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vanek]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sherwood]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martinez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garret]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Forbes]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Climate change in the high Andes: Implications and adaptation strategies for small scale farmers]]></article-title>
+<source><![CDATA[International Journal of Environmental, Cultural, Economic and Social Sustainability]]></source>
+<year>2010</year>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>78-88</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crespo-Perez]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silvain]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based modeling of human-induced spread of invasive species in agricultural landscapes: insights from the potato moth in Ecuador]]></article-title>
+<source><![CDATA[Journal of Artifidal Societies and Social sciences]]></source>
+<year>2011</year>
+<volume>14</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>7</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rebaudo]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carpio]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crespo-Pérez]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrera]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Scurrah]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Canto]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montañez]]></surname>
+<given-names><![CDATA[A.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bonifacio]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mamani]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saravia]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Agent-based models and integrated pest management diffusion in small scale farmer communities.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Peshin]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pimentel]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Integrated Pest Management]]></source>
+<year>2014</year>
+<page-range>367-383</page-range><publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Posadas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milori]]></surname>
+<given-names><![CDATA[D.M.B.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saab]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neto]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vaz]]></surname>
+<given-names><![CDATA[C.M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectroscopic assessment of soil organic matter in wetlands from the high Andes]]></article-title>
+<source><![CDATA[Soil Science Society of America Journal]]></source>
+<year>2010</year>
+<volume>74</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2246-2253</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sietz]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Choque]]></surname>
+<given-names><![CDATA[S.E.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lüdeke]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Typical patterns of smallholder vulnerability to weather extremes with regard to food security in the Peruvian Altiplano]]></article-title>
+<source><![CDATA[Regional Environmental Change]]></source>
+<year>2012</year>
+<volume>12</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>489-505</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wymann von Dach]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Romeo]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vita]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wurzinger]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kohler]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mountain family farming: a contribution from mountain areas to the international year of family farming 2014]]></source>
+<year>2013</year>
+<page-range>100</page-range><publisher-loc><![CDATA[Roma ]]></publisher-loc>
+<publisher-name><![CDATA[Food and Agriculture Organization of the United Nations]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yapu]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Iñiguez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Pautas metodológicas para la realización de grupos focales: Antecedentes, fundamentos y prácticas]]></source>
+<year>2014</year>
+<page-range>58</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Programa de Investigación Estratégica en Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zoomers]]></surname>
+<given-names><![CDATA[E.B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Livelihood strategies and development interventions in the southern Andes of Bolivia: contrasting views on development]]></source>
+<year>1999</year>
+<page-range>13</page-range><publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+<publisher-name><![CDATA[Centre for Latin American research and documentation]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

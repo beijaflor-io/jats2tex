@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000200003</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Desarrollo de Aplicaciones C++ Modi&#64257;cables o Extensibles en Tiempo de Ejecución]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Antezana Chávez]]></surname>
+<given-names><![CDATA[Oscar]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Argote García]]></surname>
+<given-names><![CDATA[Gonzalo]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Instituto de Investigación en Informática Aplicada ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>2</numero>
+<fpage>147</fpage>
+<lpage>160</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000200003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000200003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Todo sistema de software es dinámico y sufre durante su ciclo de vida diversos cambios producto del avance tecnológico, cambios en las funcionalidades presentes o extensiones para el soporte de nuevas funcionalidades. De forma tradicional, las modi&#64257;caciones a un sistema de software las realizan los programadores, obteniendo una nueva versi´on del mismo. Para poner en funcionamiento esta nueva versi´on se requiere detener la ejecuci´on del software antiguo, reemplazarlo por el nuevo e iniciar la ejecución con el nuevo software. En este artículo se presenta una técnica que permite desarrollar software con la capacidad de ser modi&#64257;cado mientras está en ejecución. Este software, que será denominado Sistema Dinámicamente Extensible y Modi&#64257;cable, está construido sobre la base de una arquitectura de capas, cuyos subsistemas más importantes están implementados en C++ para el entorno Windows 95 y superiores.]]></p></abstract>
+<kwd-group>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Desarrollo de Aplicaciones C++ Modi&#64257;cables o Extensibles en Tiempo de Ejecuci&oacute;n </b></font></P >     <P   align="center" >Oscar Antezana Ch&aacute;vez, Gonzalo Argote Garc&iacute;a </P >     <P   align="center" >Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada </P >     <P   align="center" >Universidad Cat&oacute;lica Boliviana -Regional Cochabamba </P >     <P   align="center" >e-mail: antezano@ucbcba.edu.bo </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b></font></P >     <P   align="justify" >Todo sistema de software es din&aacute;mico y sufre durante su ciclo de vida diversos cambios producto del avance tecnol&oacute;gico, cambios en las funcionalidades presentes o extensiones para el soporte de nuevas funcionalidades. De forma tradicional, las modi&#64257;caciones a un sistema de software las realizan los programadores, obteniendo una nueva versi&acute;on del mismo. Para poner en funcionamiento esta nueva versi&acute;on se requiere detener la ejecuci&acute;on del software antiguo, reemplazarlo por el nuevo e iniciar la ejecuci&oacute;n con el nuevo software. En este art&iacute;culo se presenta una t&eacute;cnica que permite desarrollar software con la capacidad de ser modi&#64257;cado mientras est&aacute; en ejecuci&oacute;n. Este software, que ser&aacute; denominado Sistema Din&aacute;micamente Exten</B>sible y Modi&#64257;cable, est&aacute; construido sobre la base de una arquitectura de capas, cuyos subsistemas m&aacute;s importantes est&aacute;n implementados en C++ para el entorno Windows 95 y superiores. </P >     <P   align="justify" ><b>Palabras Clave:</b> C++, programaci&oacute;n orientada a objetos, enlace din&aacute;mico, extensi&oacute;n de aplicaciones, dise&ntilde;o de sistemas. </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>1 Introducci&oacute;n</b></font></P >     <P   align="justify" >&ldquo;Planeado o no, el software tiende a evolucionar con el tiempo&rdquo;[2]. Lamentablemente, los cambios requeridos para modi&#64257;car un programa ya en funcionamiento deben ser realizados por el grupo de desarrolladores, quienes, una vez terminados los cambios, deben actualizar el antiguo sistema (en este art&iacute;culo, sistema siempre se re&#64257;ere a sistema de software). Este proceso de actualizaci&oacute;n, generalmente se realiza deteniendo el sistema original, reemplaz&aacute;ndolo por la nueva versi&oacute;n e iniciando la ejecuci&oacute;n de dicha nueva versi&oacute;n. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >El detener la ejecuci&oacute;n de un sistema puede resultar inviable en algunos casos, como en aquellos donde los sistemas realizan actividades cr&iacute;ticas tales como el control del tr&aacute;&#64257;co a&eacute;reo, control de procesos industriales, etc [8, 6]. En este tipo de sistemas, el proceso de actualizaci&oacute;n tradicional no es el m&aacute;s adecuado y, por lo tanto, se requiere de t&eacute;cnicas que permitan una actualizaci&oacute;n del sistema mientras est&eacute; en ejecuci&oacute;n. </P >     <P   align="justify" >En este art&iacute;culo se presentar&aacute; una t&eacute;cnica para permitir actualizar un sistema en tiempode ejecuci&oacute;n, mediantela carga, descarga y actualizaci&oacute;n de un conjunto de las clases del sistema. A los sistemas que utilizan estat&eacute;cnica, se los denominar&aacute; Sistemas Din&aacute;micamente Extensibles y Modi&#64257;cables. </P >     <P   align="justify" >En la secci&oacute;n 2 se presentan algunos trabajos relacionados al tema. En tanto, la secci&oacute;n 3 introduce algunos elementos de discusi&oacute;n utilizados para la implementaci&oacute;n del presente trabajo. En la secci&oacute;n 4 se describe la arquitectura propuesta, y el usode la arquitectura se encuentra en la secci&oacute;n 5. Un ejemplo de la aplicaci&oacute;n de esta t&eacute;cnica se presenta en la secci&oacute;n 6. Finalmente, algunas conclusiones est&aacute;n plasmadas en la secci&oacute;n 7. </P >     <P   align="justify" ><B>Algoritmo 1:</B> Soluci&oacute;n para la llamada a un m&eacute;todo sin conocer su declaraci&oacute;n. InvocarM&eacute;todo es un m&eacute;todo virtual de ClaseDin&aacute;mica cuya declaraci&oacute;n se conoce en la aplicaci&oacute;n y MiM&eacute;todo es un m&eacute;todo de Mi ClaseDin&aacute;mica cuya declaraci&oacute;n no se conoce en la aplicaci&oacute;n. </P > <hr> <b>En la Aplicaci&oacute;n</b></P >     <P   >pObjeto-&gt;InvocarM&acute;etodo (IDM&eacute;todo, param1, param2, ...)  </P >     <P   ><b>En la Unidad de Extensi&oacute;n</b></P >     <P   ><b>MiClaseDin&aacute;mica</b>::InvocarM&eacute;todo (IDM&acute;etodo, parametros)</P >     <P   > <b>Si</b> (IDM&eacute;todo == IDMiM&eacute;todo)</P >     <P   > param1 = RecuperarPar&aacute;metro(par&aacute;metros, 1)</P >     <P   >param2 = RecuperarPar&aacute;metro(par&aacute;metros, 2)</P >     ]]></body>
+<body><![CDATA[<P   >...</P >     <P   >MiM&acute;etodo (par&aacute;metro1, par&aacute;metro2, ...)  </P >     <P   ><b>Fin si</b></P >     <P   ><b>Fin InvocarM&eacute;todo </b> <hr></P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>2 Trabajos relacionados</b></font> </P >     <P   align="justify" >La conversi&oacute;n de c&oacute;digo fuente (un programa escrito en un lenguaje de programaci&oacute;n de alto o bajo nivel) a un c&oacute;digo ejecutable (un programa escrito en c&oacute;digo m&aacute;quina) se realiza de dos formas b&aacute;sicas, o alguna mezcla de &eacute;stas: interpretaci&oacute;n o compilaci&oacute;n (Java es un ejemplo de un lenguaje de programaci&oacute;n que utiliza una mezcla de ambos m&eacute;todos para la conversi&oacute;n de c&oacute;digo fuente en un c&oacute;digo ejecutable). </P >     <P   align="justify" >En la <b>interpretaci&oacute;n</b>, un programa, llamado int&eacute;rprete, ejecuta el c&oacute;digo fuente analizando l&iacute;nea a l&iacute;nea cada sentencia del programa y convirtiendo la misma a c&oacute;digo m&aacute;quina. De forma pura, esta forma de ejecuci&oacute;n agrega una sobrecarga al programa, debido aquela conversi&oacute;n a c&oacute;digo m&aacute;quina se realiza al mismo tiempoquela ejecuci&oacute;n. De esta manera, cuando se interpreta un lenguaje de alto nivel, la sobrecarga que se agrega se vuelve signi&#64257;cativa. </P >     <P   align="justify" >En la compilaci&oacute;n, la obtenci&oacute;n de un programa ejecutable se realiza com&uacute;nmente en dos fases separadas: la compilaci&oacute;n y el enlace. Durante la compilaci&oacute;n, un programa especial, llamado compilador, analiza el programa contenido en el archivo fuente y lo convierte a c&oacute;digo objeto, en un archivo especial llamado archivo objeto (Archivo que contiene la versi&oacute;n en c&oacute;digo m&aacute;quina de un archivo fuente). Otro programa especial, llamado enlazador, une los archivos objeto y resuelve las direcciones que quedaron pendientes durante la compilaci&oacute;n. El resultado de este proceso es un archivo ejecutable que puede ser ejecutado directamente por la computadora [7, 13]. </P >     <P   align="justify" >Un intento de agregar dinamismo a una aplicaci&oacute;n se basa en el uso de m&oacute;dulos de carga din&aacute;mica. Para &#64258;exibilizar el proceso de enlace, las direcciones de los procedimientos pueden ser de&#64257;nidas en tiempo de ejecuci&oacute;n y no durante la fase de enlace. Parapermitir esto, el sistema operativo debe ser capaz de cargar archivos objeto (con alg&uacute;n formato especial) y resolver las llamadas a los procedimientos en el c&oacute;digo de la aplicaci&oacute;n. Este tipo de enlace se conoce como &ldquo;enlace din&aacute;mico&rdquo; o &ldquo;enlace perezoso&rdquo; (Traducci&oacute;n de Lazy link) [7]. Los archivos DLL (Acr&oacute;nimo de Dynamic Link Library) en Windows y OS/2[9], y SO (Acr&oacute;nimo de Shared Objects) en Solaris [4, 7] son ejemplos de m&oacute;dulos de carga din&aacute;mica. </P >     <P   align="justify" >El enlace incremental [10, 11] permite enlazar en tiempo de ejecuci&oacute;n c&oacute;digo objeto que est&aacute; disponible en tiempo de compilaci&oacute;n. Esta propuesta permite administrar de mejor manera los recursos, permitiendo agregar y quitar segmentos de c&oacute;digo durante la ejecuci&oacute;n, a condici&oacute;n de que los archivos objeto permanezcan inmutables durante este tiempo. Por otra parte, el enlace din&aacute;mico permite cambiarlos segmentosde c&oacute;digo al ser capaz el SO de enlazar la aplicaci&oacute;n con c&oacute;digo objeto que no estaba disponible en tiempo de compilaci&oacute;n. </P > <hr>     ]]></body>
+<body><![CDATA[<P  ><b>Algoritmo 2:</b> Declaraci&oacute;n de la clase A. </P > <hr>    <P   >class A  </P >{    <P   >public:  </P >     <P   >A ()    { //Inicializa la clase } </P >     <P   >~A ()  { // Finaliza la clase }  </P >     <P   align="" >unsigned M1 (int parameter1, float parameter2) </P >     <P   align="" >{ // Realiza algo }</P >     <P   align="" > };<hr><hr>     <P   align="justify" >El lenguaje C++ no posee un soporte directo para la carga din&aacute;mica de m&oacute;dulos, aunque se han realizado varios intentos para poder darle esta caracter&iacute;stica. Sin embargo, como menciona Hj&agrave;lmtysson [6], &ldquo;los enlazadores din&aacute;micos actuales rompen la seguridad de tipos de C++, dado que est&aacute;n orientados hacia funciones en vez de clases&rdquo;. </P >     <P   align="justify" >El trabajo presentado por Doward et al. [3] representa una extensi&oacute;n al enlace din&aacute;mico, que trabaja a nivel de clases, y preserva la seguridad de tipos de C++. Su soluci&oacute;n permite que una nueva clase derivada de una clase base conocida pueda ser cargada din&aacute;micamente en un programa. Gracias a que todas las llamadas a los m&eacute;todos de la clase base son veri&#64257;cadas est&aacute;ticamente, la seguridad de tipos se preserva en cualquier llamada a un m&eacute;todo de una clase derivada. Una limitaci&oacute;n de la soluci&oacute;n propuesta es la imposibilidad de reemplazar una clase cargada anteriormente con una nueva versi&oacute;n. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >Objetos Din&aacute;micos en Tiempo de Ejecuci&oacute;n (ODTE) es una soluci&oacute;n propuesta por Ed Smetak y Jean Caputo de Nanosoft Corporation [12] para el desarrollo de aplicaciones MFC que puedan cargar y descargar din&aacute;micamente clases en tiempo de ejecuci&oacute;n. Todas las clases din&aacute;micas (Clase que puede ser cargada/descargada din&aacute;micamente en tiempo de ejecuci&oacute;n.) heredan de una misma clase y son manejadas por dos clases est&aacute;ticas (Clases que est&aacute;n enlazadas al programa en tiempo de compilaci&oacute;n.) de la aplicaci&oacute;n, una orientada al manejo de clases din&aacute;micas y otra orientada al manejo de los objetos instanciados por estas clases. Por otro lado, con ODTE es posible cargar clases que no tengan una declaraci&oacute;n conocida en tiempo de compilaci&oacute;n, pero s&oacute;lo se permite utilizar un n&uacute;mero reducido de m&eacute;todos est&aacute;ndares. Pero, si la declaraci&oacute;n de la clase es conocida en tiempo de compilaci&oacute;n, es posible acceder a todos los m&eacute;todos de &eacute;sta.G&igrave;sli Hj&agrave;lmtysson y Robert Gray de los laboratorios de AT&amp;T [6] presentan Clases C++ Din&aacute;micas, una t&eacute;cnica que extiende el trabajo de Doward et al. [3] para permitir reemplazar una clase din&aacute;mica cargada anteriormente y poder mantener varias versiones de la misma en el programa. Cada clase din&aacute;mica posee dos partes: una clase abstracta que funciona como interfaz y una o m&aacute;s clases hijas de la clase abstracta que implementan la interfaz. El n&uacute;cleo de la implementaci&oacute;n es un template gen&eacute;rico que sirve como clase-proxy o &ldquo;puntero inteligente&rdquo; a cada clase din&aacute;mica (interfaz eimplementaci&oacute;n). La clase-proxy es la que carga la implementaci&oacute;n de las clases en el espacio de direcciones del programa, de forma que las llamadas a las operaciones de la clase interfaz sean correctamente redirigidas hacia la implementaci&oacute;n adecuada. </P >     <P   align="justify" >La carga din&aacute;mica de clases en tiempode ejecuci&oacute;n permite modi&#64257;car la jerarqu&iacute;a de clases de la aplicaci&oacute;n. Para llamar a un m&eacute;todo de una clase es necesario conocer su declaraci&oacute;n en tiempo de compilaci&oacute;n, dado que en C++ la veri&#64257;caci&oacute;n de tipos la realiza el compilador. Por este motivo, los trabajos presentados en el &aacute;rea [12,6,5,3] han utilizado el polimor&#64257;smo como el motor central para la llamada a m&eacute;todosde clases din&aacute;micas. De esta forma, la aplicaci&oacute;n siempre conoce la declaraci&oacute;n de la clase (o por lo menos una interfaz) y existen elementos encargados de enlazar la implementaci&oacute;n con la declaraci&oacute;n.</P > <hr><hr>     <P ><b>Algoritmo 3:</b> Implementaci&oacute;n del m&eacute;todo M2 de la clase B. </b></P >     <P   >void B::M2  </P >     <P   >{ </P >    <P   >// ...  </P >     <P   >A* pA = newA();  </P >     <P   >//...</P >     <P   >unsigned respuesta = pA-&gt;M1 (5, 2.6);</P >     <P   >// ...  </P >     ]]></body>
+<body><![CDATA[<P   >delete pA;  </P >     <P   >// ... </P >     <P   >} </P >     <P   align="justify" >Una consecuencia directa de la anterior forma de implementaci&oacute;n esla necesidad de conocer la declaraci&oacute;n o interfaz de las clases en tiempo de compilaci&oacute;n, aun cuando no se conozca su implementaci&oacute;n. Cuando se instancia un nuevo objeto, en realidad se instancia un objeto de una clase derivada. Como menciona Hj&agrave;lmtysson [6], &ldquo;cada nuevaimplementaci&oacute;n o actualiza una clase existente (una nueva versi&oacute;n) o introduce una nueva clase (un nuevo tipo) que utiliza unainterfaz conocida&rdquo;. </P >     <P   align="justify" >Gracias al uso de clases din&aacute;micas, es posible implementar aplicaciones cuyas clases pueden ser modi&#64257;cadas entiempode ejecuci&oacute;n. Sin embargo, un problema que presentan las t&eacute;cnicas anteriormente propuestas es la obligatoriedad de conocer una interfaz a estas clases, la cual no puede ser modi&#64257;cada. Si se considera el caso de una aplicaci&oacute;n que permite el uso de clases din&aacute;micas dentro de &ldquo;scripts&rdquo;, las anteriores t&eacute;cnicas restringen al usuario a utilizar los m&eacute;todos declarados en las interfaces, de las clases din&aacute;micas, que fueron utilizadas en el momento de compilar la aplicaci&oacute;n. </P >     <P   align="justify" >Como una extensi&oacute;n a los anteriores trabajos, la t&eacute;cnica propuesta en este art&iacute;culo utiliza la noci&oacute;n de clases din&aacute;micas, pero que est&aacute;n empaquetadas en Unidades de Extensi&oacute;n. Para una aplicaci&oacute;n, cada unidad de extensi&oacute;n podr&aacute; ser vista como un componente de software, dado que &eacute;sta empaqueta toda la informaci&oacute;n necesaria para ser enlazada a una aplicaci&oacute;n. Una ventaja importante del uso de unidades de extensi&oacute;n es la posibilidad de utilizar clases din&aacute;micas aun cuando la declaraci&oacute;n no sea conocida por la aplicaci&oacute;n, evitando as&iacute; la necesidad de interfaces. </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3 Unidades de extensi&oacute;n</b></font></P >     <P   align="justify" >En esta secci&oacute;n se introduce el concepto de unidad de extensi&oacute;n como &ldquo;un conjunto de clases que, tratadas como una unidad, pueden ser desarrolladas de forma independiente y enlazarse a cualquier SDEM en tiempode ejecuci&oacute;n&rdquo;. Dentro de cada unidad de extensi&oacute;n debe existir una &uacute;nica clase din&aacute;mica; es decir, una clase que ser&aacute; din&aacute;micamente incluida en la jerarqu&iacute;a de clases de la aplicaci&oacute;n. La aplicaci&oacute;n s&oacute;lo administrar&aacute; clases din&aacute;micas e instancias de estas clases, mientras que las otras clases de la unidad de extensi&oacute;n ser&aacute;n administradas po rla clasedin&aacute;mica (ver Figura 1).</P > <IMG align="" width="355" height="275"  src="/img/revistas/ran/v1n2/v1.n2.antezana_img_0.jpg" >     <P   align="justify" ><b>Figura 1:</b> Diagramadela relaci&oacute;n entre una aplicaci&oacute;n y una unidadde extensi&oacute;n. Como es posible observar, cada unidad de extensi&oacute;n posee una &uacute;nica clase din&aacute;mica, la cual puede estar relacionada con otras clases propias de la unidad de extensi&oacute;n pero que no pueden ser accedidas desde fuera de esta, mientras las clases din&aacute;micas pueden ser accedidas desde la aplicaci&oacute;n (u otra unidadde extensi&oacute;n). </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3.1 Llamada a m&eacute;todos de clases din&aacute;micas</b></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >Toda clase din&aacute;mica debe heredar de una misma clase (una especie de clase &ldquo;proxy&rdquo;), la que declara un conjunto m&iacute;nimo de m&eacute;todos virtuales que la aplicaci&oacute;n utiliza para interactuar con cualquier clase din&aacute;mica. Por polimor&#64257;smo, una solicitud de la aplicaci&oacute;n puede ser derivada hasta una clase din&aacute;mica de una unidad de extensi&oacute;n. Sin embargo, si la clase din&aacute;mica contiene m&eacute;todos que no est&aacute;n declarados en la clase proxy, no es posible llamarlos de la misma forma. Para solucionar el anterior problema se requiere un mecanismo que permita llamar a un m&eacute;todo sin necesidad de conocer su declaraci&oacute;n. </P >     <P   align="justify" >La posibilidad de tener m&eacute;todos con un n&uacute;mero variable de argumentos, facilita la llamada a un m&eacute;todo pas&aacute;ndole cualquier par&aacute;metro sin que el compilador realice una veri&#64257;caci&oacute;n de la llamada. Esta herramienta es un arma de doble &#64257;lo, porque compromete seriamente la seguridadde tipos de C++, pero facilita el trabajo. Uniendo esta t&eacute;cnica con la descrita anteriormente, es posible declarar en la clase proxy un m&eacute;todo virtual con n&uacute;mero variable de argumentos, que ser&aacute; utilizado para realizar llamadas a otros m&eacute;todos (ver Algoritmo1), pasando como par&aacute;metro un identi&#64257;cador al m&eacute;todo en la clase din&aacute;mica al que se desea llamar. Una vez dentro de la clase din&aacute;mica, es posible construir una llamada al m&eacute;todo solicitado recuperando los par&aacute;metros con va_arg, debido a que en ese contexto ya se conoce la declaraci&oacute;n del m&eacute;todo solicitado. </P >     <P   align="justify" >Un &uacute;ltimo problema a resolver es el manejo de los tipos der etorno. Para solucionar esto se utiliza una estructura union con todos los tipos b&aacute;sicos del lenguaje. En la aplicaci&oacute;n se recupera el tipo apropiado y, en el caso de punteros a objetos, se realiza un modelado al tipo apropiado. Para una idea m&aacute;s clara ver el Algoritmo 6, donde una llamada al m&eacute;todo CA M1 se convierte a un entero sin signo mediante ToUInt() y m&aacute;s abajo a un valor l&oacute;gico mediante ToUInt(), ambos m&eacute;todos obtienen el campo adecuado de la estructura uni&oacute;n contenida en la clase CMultivalueObject. </P > <hr>     <P   align="justify" ><b>Algoritmo 4:</b> Implementaci&oacute;n de la clase din&aacute;mica ClaseDinamicaA, la cual hereda de CDynamicClass. Se puede observar que la interacci&oacute;n de la aplicaci&oacute;n con una clase din&aacute;mica se realiza mediante el m&eacute;todo virtual CallMethod, el cual pertenece a CDynamicClass, y que se encargade realizar la llamada al m&eacute;todo deseado. Este m&eacute;todo recibe como entradas un puntero al objeto sobre el cual el usuario desea realizar una acci&oacute;n, un identi&#64257;cador del m&eacute;todo a llamar y una lista de los par&aacute;metros del m&eacute;todo. El constructor de la clase debe declarar todos los m&eacute;todos que de la clase din&aacute;mica que pueden ser accedidos desde fuera de la unidad de extensi&oacute;n a la que pertenece. </P > <hr>    <P   >#define CA M1 1000001</P >     <P   > ClaseDinamicaA::ClaseDinamicaA (CClassInfo* theClassInfo): CDynamicClass (theClassInfo) </P >     <P   >{ </P >    <P   >CMethodSpecification* pMethod;  </P >     <P   >pMethod = RegisterMethod (CA <IMG width="3" height="1"  src="" >M1, &lsquo;&lsquo;M1&rsquo;&rsquo;, &lsquo;&lsquo;Un m&acute;etodo&rsquo;&rsquo;, CMethodSpecification::cUINT, 2);</P >     <P   >pMethod-&gt;AddParameter (CMethodSpecification::cInt, &lsquo;&lsquo;parameter <IMG width="12" height="12"  src="/img/revistas/ran/v1n2/v1.n2.antezana_img_5.jpg" >1&rsquo;&rsquo;, 1, &lsquo;&lsquo;int parameter1&rsquo;&rsquo;);</P >     ]]></body>
+<body><![CDATA[<P   >pMethod-&gt;AddParameter (CMethodSpecification::cFloat, &lsquo;&lsquo;parameter 2&rsquo;&rsquo;, 2, &lsquo;&lsquo;float parameter2&rsquo;&rsquo;);  </P >     <P   >} </P >     <P   >CMultivalueObject ClaseDinamicaA::CallMethod(void* *pObject, unsigned iMethodID, va_list pListOfParameters) </P >     <P   >{ </P >     <P   >CMultivalueObject result;  InitCriticalSection ();  if (iMethodID == CA _M1)  </P >     <P   >{ </P >     <P   >int parameter1 = va_arg (pListOfParameters, int);  float parameter2 = va_arg (pListOfParameters, float);</P >     <P   > result = CMultivalueObject (((A*)pObject)-&gt;M1(parameter1, parameter2));  </P >     <P   >} </P >    <P   >FinishCriticalSection ();  </P >     ]]></body>
+<body><![CDATA[<P   >return result; </P >     <P   >} </P >    <P   >void* ClaseDinamicaA::GetNewObject() </P >    <P   >{ </P >    <P   >return new A (); </P >    <P   >} </P >    <P   >void ClaseDinamicaA::FinishObject(void *theObject) </P >    <P   >{ </P >    <P   >delete (A*) theObject; </P >    <P   >}<hr></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3.2 Manejo de las versiones </b></font></P >     <P   align="justify" >Al actualizar una unidad de extensi&oacute;n es importante de&#64257;nir qu&eacute; acciones se deben tomar con los objetos de la clase din&aacute;mica que ser&aacute; actualizada. Seg&uacute;n Hj&agrave;lmtysson [6] existen tres enfoques para este problema. Un primer enfoque (a) es s&oacute;lo habilitar la actualizaci&oacute;n de una clase cuando ya no existan objetos de esta clase. Otro enfoque (b) consiste en actualizar los objetos de la antigua clase y convertirlos a objetos de la nueva clase. El ultimo enfoque (c) simplemente no toma ninguna acci&oacute;n, es decir que mantiene la antigua clase en memoria junto con la nueva clase, pero cada vez que se cree un nuevo objeto se utilizar&aacute; la nueva clase.</P > <hr> <b>Algoritmo 5 </b>: Implementaci&oacute;n de los m&eacute;todos GetClassID que devuelve el c&oacute;digo identi&#64257;cador de la clase, GetDescription que retorna una cadena descriptiva de la clase, Init que crea un objeto de la clase din&aacute;mica y retorna su direcci&oacute;n, y Finish que destruye el objeto de la clase din&aacute;mica. </P > <hr>    <P   >#include &lsquo;&lsquo;ClaseDinamicaA.h&rsquo;&rsquo; </P >     <P   >ClaseDinamicaA *pClaseDinamica = NULL; </P >     <P   >extern &lsquo;&lsquo;C&rsquo;&rsquo; int APIENTRY </P >     <P   >DllMain(HINSTANCE hInstance, DWORD dwReason, LPVOID lpReserved) </P >    <P   >{ </P >    <P   >return 1; // ok </P >    <P   >} </P >    <P   >extern &lsquo;&lsquo;C&rsquo;&rsquo; void* WINAPI Init (void* classInfoP) </P >    ]]></body>
+<body><![CDATA[<P   >{ </P >    <P   >pClaseDinamica = new ClaseDinamicaA ((CClassInfo*)classInfoP); return pClaseDinamica; </P >    <P   >} </P >    <P   >extern &lsquo;&lsquo;C&rsquo;&rsquo; char* WINAPI GetDescription() </P >    <P   >{ </P >    <P   >return &lsquo;&lsquo;Clase A&rsquo;&rsquo;; </P >    <P   >} </P >    <P   >extern &lsquo;&lsquo;C&rsquo;&rsquo; CLSID WINAPI GetClassID() </P >    <P   >{ </P >    <P   >/*  Vendor ID: 34E300C1 Oscar Antezana Chavez  </P >     ]]></body>
+<body><![CDATA[<P   >Class Type: FFEE Clases de Prueba</P >     <P   >Class ID: 1001 CA</P >     <P   >Version: 01 Primera versi&acute;on p&acute;ublica</P >     <P   >Type: 01 Primera versi&acute;on interna</P >     <P   >Key Value: 00000000 Sin compatibilidad  </P >     <P   >Passwd: 0000 Sin clave    */  </P >     <P   >// ID: 34E300C1-FFEE-1001-0101-00000000000  </P >     <P   >CLSID clsidID = 0x34e300c1, 0xFFEE, 0x1001, </P >     <P   >0x01, 0x01, 0x0, 0x0, 0x0, 0x10, 0x0, 0x0 ;</P >     <P   >return clsidID; </P >     ]]></body>
+<body><![CDATA[<P   >} </P >    <P   >extern &lsquo;&lsquo;C&rsquo;&rsquo; void WINAPI Finish () </P >    <P   >{ </P >    <P   >delete pClaseDinamica; </P >    <P   >} </P >     <P   align="justify" >La propuesta (a) no es la m&aacute;s adecuada, debido a que se restringe el momento en que se puede realizar una actualizaci&oacute;n; mientras que la propuesta (c)puede permitir demasiadas versiones de una misma clase en memoria, lo cual representa un gasto in&uacute;til de recursos. Por estos motivos, se ha decidido utilizar la propuesta(b), es decir convertir los objetos de la antigua versi&oacute;n a la nueva. Para realizar esto se almacena en un buffer temporal toda la informaci&oacute;n necesaria del objeto para crear una nueva versi&oacute;n del mismo que posea toda la informaci&oacute;n del objeto original. De esta forma, la interacci&oacute;n con los nuevos objetos se realizar&aacute; de forma transparente, puesto que la nueva versi&oacute;n del objeto sabe c&oacute;mo responder a las solicitudes de los m&eacute;todos de la antigua clase, as&iacute; como tambi&eacute;n a los de la nueva clase. <img align="" width="272" height="233"  src="/img/revistas/ran/v1n2/v1.n2.antezana_img_8.jpg" >     <p></p>     <P   align="justify" ><b>Figura 2:</b> Diagrama de la arquitectura SDEM, donde se pueden observar la interacci&oacute;n entre los tres subsistemas de la arquitectura: N&uacute;cleo,Servicios del N&uacute;cleo y Personalizaci&oacute;n y extensi&oacute;n. </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>4 La arquitectura SDEM </b></font></P >     <P   align="justify" >La t&eacute;cnica presentada en este art&iacute;culo est&aacute; centrada en una arquitectura base que puede ser utilizada por otras aplicaciones para desarrollar sistemas din&aacute;micamente extensibles y modi&#64257;cables. Un sistema modi&#64257;cable se de&#64257;nir&aacute; como &ldquo;aquel sistema que brinda al usuario herramientas para adaptar y adecuar un sistema de software a sus necesdades particulares&rdquo;. Un sistema extensible ser&aacute; &ldquo;un sistema que provee herramientas orientadas al usuario para la administraci&oacute;n de unidades de extensi&oacute;n&rdquo;. Cuando un sistema es extensible y modi&#64257;cable en tiempo de ejecuci&oacute;n, se lo denominar&aacute; Sistema Din&aacute;micamente Extensible y Modi&#64257;cable (SDEM). </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >La arquitectura SDEM propuesta constadetres(3) subsistema (Existe un cuarto subsistema llamado Clases de soporte., que no ser&aacute; considerado parte de la arquitectura, dado que s&oacute;lo contiene clases de utilidades como manejo de listas, manejo de hilos y otros similares que no son relevantes en la t&eacute;cnica presentada en este art&iacute;culo. Ver Figura 2), de los cuales el m&aacute;s importante es el subsistema n&uacute;cleo, mientras que los otros dos subsistemas permiten interactuar con el n&uacute;cleo adiferentes niveles, ya sea desde c&oacute;digo, o desde la interfaz de usuario de la aplicaci&oacute;n. El incluir elementos de interacci&oacute;n con el n&uacute;cleo representa un mecanismo de seguridad para evitar un mal uso de la arquitectura, como por ejemplo intentar llamara un m&eacute;todo de un objeto mientras &eacute;ste se est&aacute; actualizando; pero tambi&eacute;n agrega un nivel de trabajo extra, produciendo como consecuencia una mayor demora en la respuesta de las operaciones efectuadas por el n&uacute;cleo. </P >     <P   align="justify" >A continuaci&oacute;n se realiza un an&aacute;lisis de cada uno de los subsistemas que forman parte de la arquitectura SDEM.</P >     <P   align="center" ><img src="/img/revistas/ran/v1n2/Admi.JPG" width="479" height="334"></P >     <P   ><b>Figura 3:</b> Diagrama de clases mostrando los m&eacute;todos m&aacute;s importantes de las clases AdministradorDeClases y AdministradorDeObjetos. Estas clases forman parte del subsistema N&uacute;cleo. </P >     <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>4.1 N&uacute;cleo</B></font></P >     <P   >Este subsistema es el encargado de realiza rel manejo de las clases y objetos din&aacute;micos. Para este &#64257;n, el N&uacute;cleo utiliza dos clases: AdministradorDeClases y AdministradorDe-Objetos (verFigura3). El Administrador de clases se encarga de manejar la carga, descarga y actualizaci&oacute;n de clases; mientras que el Administrador de objetos permite crear, destruir y actualizar los objetos de las clases din&aacute;micas. Para poder manejar los objetos y clases din&aacute;micas es necesario mantener un registro de cada uno de ellos. Por cada clase din&aacute;mica cargada en el sistema existe un objeto Informaci&oacute;nDeClase que permite obtener informaci&oacute;n de la clase, as&iacute; como manejarla (descargarla, actualizarla, etc.). De forma similar, por cada objeto de una clase din&aacute;mica existe un objeto de la clase Informaci&oacute;nDeObjeto el cual permite manejar la referencia al mismo; es decir, conoce d&oacute;nde est&aacute; el objeto asociado. </P >     <P   >El N&uacute;cleo es el que provee un completo control sobre las unidades de extensi&oacute;n y las clases din&aacute;micas, as&iacute; como una amplia informaci&oacute;n de las mismas. Debido a que se maneja un registro de cada m&eacute;todo de una clasedin&aacute;mica, es posible conocer, en tiempo de ejecuci&oacute;n, los par&aacute;metros, tipos de los par&aacute;metros, tipos de retornode cada m&eacute;todo de cada clase din&aacute;mica. Esta informaci&oacute;n est&aacute; contenida en cada clase din&aacute;mica, la que debe obligatoriamente registrar los m&eacute;todos que pueden ser invocados desde la Aplicaci&oacute;n.</P >     <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>4.2 Servicios del N&uacute;cleo</B></font> </P >     <P   >Cuando la Aplicaci&oacute;n desea interactuar con el N&uacute;cleo, env&iacute;a sus solicitudes al subsistema Servicios del N&uacute;cleo, quien se encarga de recoger esta solicitudes y enviarlas al administrador de objetos, al administrador de clases, a una clases din&aacute;mica o a un objeto de estas clases. Las solicitudes recibidas son tratadas como transacciones; es decir, como una unidad indivisible. Esta forma de trabajo asegura una interacci&oacute;n con&#64257;able entre la Aplicaci&oacute;n y el N&uacute;cleo. </P >     <P   align="justify" >Es importante destacar que la existencia de este subsistema est&acute;a dada s&oacute;lo por prop&oacute;sitos de seguridad y mantenimiento de la integridad de la arquitectura. Por otra parte, debido a que la existencia de este subsistema no es esencial para el correcto funcionamientode un SDEM, dado que todo el trabajo se realiza en el subsistema N&uacute;cleo y que adem&aacute;s se utiliza una arquitectura de capas donde el subsistema N&uacute;cleo trabaja sin conocer de la existencia del subsistema Servicios del N&uacute;cleo, este subsistema se ha implementado como una clase din&aacute;mica. De esta forma el usuario puede reemplazar el subsistema Servicios del N&uacute;cleo por una implementaci&oacute;n m&aacute;s adecuada. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >Existe una cola de solicitudes recibidas y un monitor que va veri&#64257;cando la cola constantemente en busca de solicitudes que puedan ser procesadas por el N&uacute;cleo. Cada vez que existe una solicitud preparada para ser procesada, se la traslada a una lista de solicitudes en procesamiento y se pasa la misma al N&uacute;cleo. Una vez procesada, la transacci&oacute;n es trasladada a una lista de transacciones procesadas. </P >     <P   align="justify" >Aunque el proceso anterior puede ser demasiado pesado, un manejo de hilos de ejecuci&oacute;n y sem&aacute;foros permite que el manejo de las listas sea realizado s&oacute;lo cuando sea necesario y el hilo encargado de este trabajo se mantenga suspendido hasta que sea necesario ejecutarlo, i.e. cuando se reciba una transacci&oacute;n del usuario. </P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>4.3 Personalizaci&oacute;n y Extensi&oacute;n </B></font></P >     <P   align="justify" >Este &uacute;ltimo subsistema provee un conjunto de di&aacute;logos para poder interactuar a nivel de interfaz de usuario con el subsistema Servicios del N&uacute;cleo. Los componentes de este subsistema incluyen di&aacute;logos para manejar las unidades de extensi&oacute;n (cargar, descargar, actualizary verinformaci&oacute;n) y monitorear las listas de transacciones (ver informaci&oacute;n y estado de cualquier transacci&oacute;n). </P >     <P   align="justify" >Al igual que el subsistema Servicios del N&uacute;cleo, este subsistema ha sido implementado como una clase din&aacute;mica. </P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>5 Interacci&oacute;n con la arquitectura</B></font> </P >     <P   align="justify" >Para poder interactuar con la arquitectura propuesta, se han desarrollado varios ar-chivosDLL (uno para cada subsistema) que deben ser incluidos en la Aplicaci&oacute;n que utilizar&aacute; la arquitectura. Dos son las clases m&aacute;s importantes que son utilizadas por el programador: CSDEMBaseApp que debe ser utilizada como la clase padre de la clase Aplicaci&oacute;n, y CSDEM queprovee el m&eacute;todo CreateSynchronousTransaction, el cual es encargado de llevar una transacci&oacute;n hasta el subsistema Servicios del N&uacute;cleo y retornar la respuesta cuando la transacci&oacute;n hubiese sido completada. </P >     <P   align="justify" >Cada posible transacci&oacute;n posee un identi&#64257;cador; por ejemplo, para instanciar un objeto de una clase se debe crear una transacci&oacute;n del tipo: SDEMTO CREATEOBJECT. Existe una gran variedad de transacciones, desde cargar una unidad de extensi&oacute;n hasta consultar el n&uacute;mero de m&eacute;todos que una clase din&aacute;mica posee. </P > <IMG align="right" width="4" height="1"  src="" > <hr> <b>Algoritmo 6:</b> Implementaci&oacute;n del m&eacute;todo M2 de la clase B utilizando clases din&aacute;micas. </P >     <P   >#define CA <IMG width="3" height="1"  src="" >M1 1000001 </P >     <P   >void B::M2 </P >     ]]></body>
+<body><![CDATA[<P   >{ </P >     <P   align="" >// ...  CLSID clsid = 0x00000000, 0xFFEE, 0x1001,</P >     <P   align="" >0x01, 0x00, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0 ; </P >     <P   >CLSID* pCA =</P >     <P   >(CLSID*)pSDEM-&gt;CreateTransaction</P >     <P   >(SDEMTE <IMG width="3" height="1"  src="" >FINDCOMPATIBLECLASS, &amp;clsid).ToPointer ();  </P >     <P   >CLSID* pA = </P >    <P   >(CLSID*)pSDEM-&gt;CreateTransaction (SDEMTE <IMG width="3" height="1"  src="" >CREATEOBJECT, pCA).ToPointer ();</P >     <P   >// ... </P >     <P   >unsigned respuesta = </P >     ]]></body>
+<body><![CDATA[<P   >pSDEM-&gt;CreateTransaction(SDEMTE CALLMETHOD,    <br> pA, CA M1, 5, 2.6).ToUInt();</P >     <P   >// ...    <br>   pSDEM-&gt;CreateTransaction (SDEMTE DESTROYOBJECT, pA).ToBool ();    <br> // ...</P >     <P   >} <hr>     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>6 Ejemplo de una unidad de extensi&oacute;n</B></font> </P >     <P   align="justify" >En este apartado se mostrar&aacute; un ejemplo de la forma en que una unidad de extensi&oacute;n debe ser implementada. El ejemplo presentado consistir&aacute; de una clase A que posee un m&eacute;todo llamado M1, como se muestra en el algoritmo 2, y una clase B con un m&eacute;todo llamado M2 (ver Algoritmo 3). </P >     <P   align="justify" >Si se desea implementar la clase A como una unidad de extensi&oacute;n, de forma que pueda realizar la misma actividad descrita en M2, el desarrollador debe realizar un conjunto de pasos que comienzan por llevar la clase A (declaraci&oacute;n e implementaci&oacute;n) a una librer&iacute;a de enlace din&aacute;mico(DLL).Una vez hecho ello, se debe crear una clase que herede de CDynamicClass que permita interactuar con la clase A. En este &uacute;ltimo paso, las actividades a realizar son: asociar al m&eacute;todo M1 un identi&#64257;cador num&eacute;rico &uacute;nico en el contextoa de la clase (en este caso se asoci&oacute; a 1000001), registrar este m&eacute;todo en el constructor de la clase din&aacute;mica y sobrecargar los m&eacute;todos: CallMethod, Init y Finish, mas aquellos necesarios para las funcionalidades deseadas (ver Algoritmo 4). </P >     <P   align="justify" >Para completar la unidad de extensi&oacute;n se debe implementar cuatro funciones p&uacute;blicas de la DLL (GetClassID, GetDescription, Init y Finish). Por lo general, esto se realiza en el mismo lugar donde se implement&oacute; la funci&oacute;n DLLMain. El c&oacute;digo respectivo se encuentra en Algoritmo 5. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >Finalmente, la implementaci&acute;on del m&acute;etodo M2 de la clase B utilizando A como una unidad de extensi&acute;on est&acute;a en el Algoritmo 6. </P >     <P   align="justify" >Pese aque el anterior trabajo es realizado de forma manual por el desarrollador, es posible crear un programa que realice de forma autom&aacute;tica todos los pasos descritos anteriormente. </P >     <P   align="justify" >En[1] sepresenta el an&aacute;lisis,dise&ntilde;o eimplementaci&oacute;n de un sistema para el monitoreo de dispositivos USB que fue desarrollado utilizando la arquitectura presentada en este art&iacute;culo. </P >     <P   align="justify" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>7 Conclusiones</B></font></P >     <P   align="justify" >Existen diversas t&eacute;cnicas para cargar/descargar clases de forma din&aacute;mica en una aplicaci&oacute;n C++[6,12,3]. Cada una de estas t&eacute;cnicas presentan ventajas y desventajas con respecto a la arquitectura SDEM propuesta. Una de las limitantes m&aacute;s importantes de las t&eacute;cnicas anteriores es la necesidad de conocer una interfaz de las clases din&aacute;micas en tiempo de compilaci&oacute;n. El uso de una interfaz en tiempo de compilaci&oacute;n permiten mantener la seguridad de tipos y obtener un rendimiento adecuado contra la imposibilidad de llamar a m&eacute;todos que pueden estar implementados en la clase din&aacute;mica, pero no declarados en la clase proxy. </P >     <P   align="justify" >Otra limitante de las anteriores t&eacute;cnicas es la falta de control sobre las clases din&aacute;micas. Salvo en ODTE [12] las otras t&eacute;cnicas no proveen clases encargadas de monitorear las clases din&aacute;micas y los objetos de &eacute;stas, a&uacute;n as&iacute;, las clases encargadas de estetrabajo en ODTE son accedidas directamente por el desarrollador, quien puede corromperlas con facilidad. El presente trabajo propone una arquitectura mucho m&aacute;s elaborada que las anteriores, con tres subsistemas que permiten interactuar a diferentes niveles con las clases din&aacute;micas y sus objetos. </P >     <P   align="justify" >Aunque la arquitectura presentada da soporte a todos los elementos necesarios para desarrollar SDEMs, sacri&#64257;cados importantes elementos como son: la seguridadde tipos (que se pierde al utilizar funciones con n&uacute;mero variable de argumentos) y la facilidad de desarrollo desde el punto de vista del desarrollador. </P >     <P   align="justify" >Pese a las limitaciones del trabajo,que podr&iacute;an ser base de estudio para futuras investigaciones, su uso es adecuado para aplicaciones donde el n&uacute;merode clases din&aacute;micas es reducido, por ejemplo, donde las unidades de extensi&oacute;n representan subsistemas o m&oacute;dulos completos. Por otro lado, provee soporte para el desarrollo de unidades de extensi&oacute;n y facilita el desarrollo de aplicaciones que las utilicen, gracias a que con cada unidad de extensi&oacute;n se incluye amplia informaci&oacute;n sobre la clase din&aacute;mica. </P >     <P   align="justify" >Referencias </P >     <!-- ref --><P   align="justify" >[1] O. Antezana. Sistemas din&aacute;micamente extensibles y modi&#64257;cables. Tesis de Licenciatura, Universidad Cat&oacute;lica Boliviana, 2000. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000936&pid=S1683-0789200100020000300001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[2] G. Booch. Object Oriented Analysis and Design -with Applications. Benjamin -Cummings, segunda edici&oacute;n, 1994. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000937&pid=S1683-0789200100020000300002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[3] S. M. Doward, R. Sethi, y J. E. Shopiro. Adding new code to a running C++ program. En Proceedings of the USENIX C++ Conference, 1990. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000938&pid=S1683-0789200100020000300003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[4] R.A. Gingell, M. Lee, X.T. Dang, y M.S. Weeks. Shared libraries in SunOS. En Proceedings of the USENIX Summer Conference., 1987. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000939&pid=S1683-0789200100020000300004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[5] T.C. Goldstein y A. D. Sloane. The object binary interface -C++ objects for evolvable shared class libraries. Reporte T&acute;ecnico TR-94-26, Sun Microsystems Laboratories, Mountain View, California, 1994. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000940&pid=S1683-0789200100020000300005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[6] G. Hj&agrave;lmt`ysson y R. Gray. Dynamic C++ classes. a lightweight mechanism to update code in a running program. Reporte t&eacute;cnico, AT&amp;T Labs, 1997. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000941&pid=S1683-0789200100020000300006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[7] J. Kempf y P.B. Kessler. Cross-address space dynamic linking. Reporte T&eacute;cnico TR-92-2, Sun Microsystems Laboratories., Mountain View, California., 1992. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000942&pid=S1683-0789200100020000300007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[8] J.LangyD.B.Stewart.A study oftheapplicability of existing exception-handling techniques to component-based real-time systems. ACM Transactions on Programming Language and Systems, 20(2), 1998. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000943&pid=S1683-0789200100020000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[9] G. Letwin. Dynamic linking in OS/2. Byte, 13(4), Abril, 1998. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000944&pid=S1683-0789200100020000300009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[10] J.J. Putterss y H.H. Goguen. Incremental loading of subroutines at runtime. Reporte t&eacute;cnico, AT&amp;T Bell Laboratories, 1986. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000945&pid=S1683-0789200100020000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[11] R.W. Quong. The design and implementation of an incremental linker. Reporte T&eacute;cnico CSL-TR-88-381, Computer Systems Laboratory. Stanford University, 1989. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000946&pid=S1683-0789200100020000300011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[12] E. Smetak y J. Caputo. Using dynamic objects to build extensible MFC applications. Microsoft Systems Journal, Julio, 1997. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000947&pid=S1683-0789200100020000300012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[13] W. Wilson y R.A. Olsson. An approach to genuine dynamic linking. Software Practice and Experience, 21(4), Abril, 1991. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000948&pid=S1683-0789200100020000300013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Antezana]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Booch]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Object Oriented Analysis and Design -with Applications]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Doward]]></surname>
+<given-names><![CDATA[S. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sethi]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shopiro]]></surname>
+<given-names><![CDATA[J. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ Proceedings of the USENIX C++ Conference]]></conf-name>
+<conf-date>1990</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gingell]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lee]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dang]]></surname>
+<given-names><![CDATA[X.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weeks]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ Proceedings of the USENIX Summer Conference]]></conf-name>
+<conf-date>1987</conf-date>
+<conf-loc> </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Goldstein]]></surname>
+<given-names><![CDATA[T.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sloane]]></surname>
+<given-names><![CDATA[A. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The object binary interface -C++ objects for evolvable shared class libraries]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hjàlmt`ysson]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gray]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dynamic C++ classes. a lightweight mechanism to update code in a running program.]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kempf]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cross-address space dynamic linking]]></source>
+<year>1992</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Langy]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stewart]]></surname>
+<given-names><![CDATA[D.B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A study oftheapplicability of existing exception-handling techniques to component-based real-time systems]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Letwin]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Dynamic linking in OS/2. Byte]]></source>
+<year>1998</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Putterss]]></surname>
+<given-names><![CDATA[J.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goguen]]></surname>
+<given-names><![CDATA[H.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Incremental loading of subroutines at runtime]]></source>
+<year>1986</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quong]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The design and implementation of an incremental linker]]></source>
+<year>1989</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smetak]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caputo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Using dynamic objects to build extensible MFC applications]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olsson]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[An approach to genuine dynamic linking. Software Practice and Experience]]></source>
+<year>Abri</year>
+<month>l,</month>
+<day> 1</day>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

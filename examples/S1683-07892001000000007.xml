@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000000007</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[SISTEMA INFORMÁTICO DE ANÁLISIS DE GELES DE ELECTROFORESIS BIDIMENSIONAL: DE LA ADQUISICIÓN DE IMÁGENES A LA IDENTIFICACIÓN DE PROTEÍNAS]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vargas Altamirano]]></surname>
+<given-names><![CDATA[Reynaldo]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Instituto de Investigación en Informática Aplicada Departamento de Informática & Sistemas ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>1</numero>
+<fpage>01</fpage>
+<lpage>25</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000000007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000000007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000000007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[En el área de la medicina, la utilización de las técnicas de electroforesis bidimensional (2-DE) para el estudio de las expresiones y regulaciones proteicas en la evolución de las enfermedades ha aumentado considerablemente en los últimos años, extendiendo las disciplinas de la biología molecular y la bioinformática. En esta tarea, la comparación de imágenes 2-DE es el proceso principal para la integración y el acceso de información relativa a las proteínas en una red de base de datos global, permitiendo el intercambio de una cantidad considerable de información relativa a las proteínas. Este artículo describe un nuevo sistema informático de análisis de geles de electroforesis bidimensional, capaz de responder a los requerimientos actuales de los médicos y biólogos. Su realización aborda varios temas de investigación en informática incluyendo nuevas técnicas de alineamiento de imágenes, comparación automática de imágenes, emparejamiento de las formas, organización y el acceso a los datos de imágenes 2-DE y otros que han logrado mejorar el análisis de geles y permitir una mayor integración de datos relativos a las proteínas. Los resultados expuestos en este documento forman parte del sistema Melanie (Medical ELectrophoresis ANalysis Interactive Expert). de imágenes 2-DE.]]></p></abstract>
+</article-meta>
+</front><body><![CDATA[ <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>SISTEMA INFORM&Aacute;TICO DE AN&Aacute;LISIS DE GELES DE ELECTROFORESIS BIDIMENSIONAL: DE LA ADQUISICI&Oacute;N DE IM&Aacute;GENES A LA IDENTIFICACI&Oacute;N DE PROTE&Iacute;NAS</b> </FONT ></P>     <P align="center">Dr. Reynaldo Vargas Altamirano</P>     <P align="center"> Departamento de Inform&aacute;tica &amp; Sistemas </P>     <P align="center">Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada</P>      <P   align="center" ></B>e-mail: vargas@ucbcba.edu.bo</P >     <P   align="left" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Abstract</B></font></P >     <P   align="justify" >En el &aacute;rea de la medicina, la utilizaci&oacute;n de las t&eacute;cnicas de electroforesis bidimensional (2-DE) para el estudio de las expresiones y regulaciones proteicas en la evoluci&oacute;n de las enfermedades ha aumentado considerablemente en los &uacute;ltimos a&ntilde;os, extendiendo las disciplinas de la biolog&iacute;a molecular y la bioinform&aacute;tica. En esta tarea, la comparaci&oacute;n de im&aacute;genes 2-DE es el proceso principal para la integraci&oacute;n y el acceso de informaci&oacute;n relativa a las prote&iacute;nas en una red de base de datos global, permitiendo el intercambio de una cantidad considerable de informaci&oacute;n relativa a las prote&iacute;nas. </P >     <P   align="justify" >Este art&iacute;culo describe un nuevo sistema inform&aacute;tico de an&aacute;lisis de geles de electroforesis bidimensional, capaz de responder a los requerimientos actuales de los m&eacute;dicos y bi&oacute;logos. Su realizaci&oacute;n aborda varios temas de investigaci&oacute;n en inform&aacute;tica incluyendo nuevas t&eacute;cnicas de alineamiento de im&aacute;genes, comparaci&oacute;n autom&aacute;tica de im&aacute;genes, emparejamiento de las formas, organizaci&oacute;n y el acceso a los datos de im&aacute;genes 2-DE y otros que han logrado mejorar el an&aacute;lisis de geles y permitir una mayor integraci&oacute;n de datos relativos a las prote&iacute;nas. Los resultados expuestos en este documento forman parte del sistema Melanie (Medical ELectrophoresis ANalysis Interactive Expert). de im&aacute;genes 2-DE. </P >    <P  align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Introducci&oacute;n</B></font></P >     <P  align="justify" >La investigaci&oacute;n en comparaci&oacute;n autom&aacute;tica de im&aacute;genes es un tema de gran inter&eacute;s en diversos campos. En particular, en el campo de la medicina, el diagn&oacute;stico cl&iacute;nico por im&aacute;genes multimodales necesita t&eacute;cnicas avanzadas para la comparaci&oacute;n autom&aacute;tica de im&aacute;genes. Por otro lado, en el campo de la biolog&iacute;a molecular, el estudio de las expresiones y regulaciones proteicas en la evoluci&oacute;n de las enfermedades comprende las comparaciones de im&aacute;genes de geles de electroforesis bidimensional (two-dimensional electroforesis: 2-DE) [O&rsquo;Farrell 75] de diferente origen para detectar diferencias y similitudes entre ellas. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >En los &uacute;ltimos a&ntilde;os, la utilizaci&oacute;n de las t&eacute;cnicas 2-DE ha crecido considerablemente para el estudio de la relaci&oacute;n de las expresiones proteicas con las enfermedades, as&iacute; como el estudio de las relaciones entre las prote&iacute;nas y los genes. Dos hechos importantes han motivado a los laboratorios para que realicen comparaciones autom&aacute;ticas de diversos tipos de im&aacute;genes 2-DE. Por un lado, la alta reproducibilidad de los geles 2-DE debida a las nuevas t&eacute;cnicas de electroforesis como los gradientes de pH inmovilizados; as&iacute; como los m&eacute;todos de identificaci&oacute;n de prote&iacute;nas, por ejemplo, la micro-secuencia o la descomposici&oacute;n en amino&aacute;cidos. Por otro lado, nuevas facilidades como la importaci&oacute;n/exportaci&oacute;n de im&aacute;genes de sistemas inform&aacute;ticos de an&aacute;lisis de 2DE, frecuentemente utilizados en los laboratorios de investigaci&oacute;n, que permiten intercambiar im&aacute;genes y datos. En este sentido, existe un creciente inter&eacute;s de los investigadores en comparar y clasificar im&aacute;genes 2-DE de diversos tipos creadas a partir de muestras biol&oacute;gicas distintas, utilizando diversos protocolos 2-DE, donde las im&aacute;genes digitales son adquiridas con diferentes equipos (CCD, densit&oacute;metros, placas de f&oacute;sforo, etc.). El inter&eacute;s principal es integrar e intercambiar la informaci&oacute;n relativa a las prote&iacute;nas entre los distintos centros de investigaci&oacute;n. Esto es interesante en la medida en que varios laboratorios est&aacute;n desarrollando bases de datos de prote&iacute;nas accesibles a trav&eacute;s de Internet, permitiendo el intercambio de una cantidad considerable de informaci&oacute;n contenida en una diversidad de Bases de Datos. La integraci&oacute;n de estos datos con informaciones 2-DE es de gran inter&eacute;s para la comunidad biom&eacute;dica. Por esta raz&oacute;n, es indispensable crear un sistema inform&aacute;tico de an&aacute;lisis de im&aacute;genes 2-DE que sea capaz de resolver los problemas y responder a las necesidades ya descritas.  </P >    <P   align="justify" >Todo lo expuesto anteriormente supone un desaf&iacute;o interesante desde el punto de vista de la investigaci&oacute;n en inform&aacute;tica, principalmente en lo que respecta el estado del arte en comparaci&oacute;n autom&aacute;tica de im&aacute;genes en el &aacute;rea de la Visi&oacute;n por Computadora y el Tratamiento de Im&aacute;genes. Este art&iacute;culo resume el trabajo de tesis realizado en el grupo Melanie del Hospital Universitario de Ginebra (HUG) y de la Universidad de Ginebra (UGE), actualmente Instituto Suizo de Bioinform&aacute;tica (SIB-ISB) [Vargas 93a][Vargas 93b][Vargas 96].</P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Objetivo del trabajo</b></font></P >     <P   align="justify" >El objetivo de este trabajo ha sido la concepci&oacute;n de un nuevo sistema inform&aacute;tico de an&aacute;lisis de geles de electroforesis bidimensional de uso general, que sea capaz de responder a la evoluci&oacute;n de las t&eacute;cnicas biol&oacute;gicas. La realizaci&oacute;n de un sistema de esta naturaleza ha originado varios temas de investigaci&oacute;n en inform&aacute;tica incluyendo: el tratamiento de im&aacute;genes, las deformaciones de im&aacute;genes, el emparejamiento de las formas, el aprendizaje autom&aacute;tico, la clasificaci&oacute;n de im&aacute;genes basada en valores cuantitativos y la organizaci&oacute;n de datos de im&aacute;genes. Los objetivos espec&iacute;ficos de este trabajo de investigaci&oacute;n que han conducido a la realizaci&oacute;n del mismo han sido: </P > <OL   type="1" ><LI   align="justify" >mejorar los m&eacute;todos de detecci&oacute;n y de cuantificaci&oacute;n de las prote&iacute;nas en im&aacute;genes de geles 2-DE por modelizaci&oacute;n de las manchas y por estimaci&oacute;n del ruido de fondo de las im&aacute;genes; </P ></LI ><LI   align="justify" >estudiar las nuevas t&eacute;cnicas de emparejamiento autom&aacute;tico de im&aacute;genes de geles 2-DE para mejorar la robustez, la precisi&oacute;n y la velocidad del proceso de emparejamiento de im&aacute;genes 2-DE; </P ></LI ><LI   align="justify" >impulsar la clasificaci&oacute;n de im&aacute;genes a trav&eacute;s de la utilizaci&oacute;n de t&eacute;cnicas cl&aacute;sicas o t&eacute;cnicas de inteligencia artificial, como los m&eacute;todos estad&iacute;sticos o heur&iacute;sticos de clasificaci&oacute;n, o la redes artificiales de neuronas; </P ></LI ><LI   align="justify" >crear un sistema de an&aacute;lisis 2-DE con t&eacute;cnicas avanzadas, que comprenda funcionalidades de uso diverso, a saber: el an&aacute;lisis multimodalidad de im&aacute;genes 2-DE, la construcci&oacute;n de cartas proteicas, la comparaci&oacute;n y la identificaci&oacute;n autom&aacute;tica de las prote&iacute;nas, el acceso a las bases de datos de prote&iacute;nas y de im&aacute;genes 2-DE. </P ></LI ></OL >     <P   align="justify" >Este trabajo de tesis forma parte del sistema Melanie-II y apunta a hacer progresar el estado del arte en el an&aacute;lisis autom&aacute;tico de im&aacute;genes 2-DE. La mayor parte de las t&eacute;cnicas y de las mejoras presentadas en este documento se han integrado en el software Melanie-II y se utilizan a trav&eacute;s de interfaces del sistema Melanie-II. Estas mejoras consisten en: </P > <UL   type="disc" ><LI   align="justify" >la modelizaci&oacute;n de las manchas por funciones gaussianas para mejorar la cuantificaci&oacute;n y la detecci&oacute;n de las manchas; </P ></LI ><LI   align="justify" >la determinaci&oacute;n del ruido de fondo por interpolaci&oacute;n de un subconjunto de m&iacute;nimos locales para mejorar la cuantificaci&oacute;n; </P ></LI ><LI   align="justify" >el emparejamiento de manchas por alineamiento de los geles y la transformada jer&aacute;rquica de la distancia de Chanfer para impulsar la robustez, la precisi&oacute;n y la velocidad del proceso de emparejamiento; </P ></LI ><LI   align="justify" >la clasificaci&oacute;n utilizando redes de neuronas artificiales para la clasificaci&oacute;n de im&aacute;genes 2-DE en presencia de datos con ruido; </P ></LI ><LI   align="justify" >la identificaci&oacute;n de prote&iacute;nas por la asociaci&oacute;n de im&aacute;genes de geles con cartas proteicas de referencia y por la b&uacute;squeda en los servidores de datos proteicos. </P ></LI ></UL >    <p  align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3 La electroforesis bidimensional</b></font></p >     <P   align="justify" >La t&eacute;cnica de electroforesis bidimensional es una combinaci&oacute;n de dos t&eacute;cnicas bioqu&iacute;micas de separaci&oacute;n de las prote&iacute;nas. La primera, la focalizaci&oacute;n isoel&eacute;ctrica, se utiliza para la separaci&oacute;n de las prote&iacute;nas con relaci&oacute;n a su punto isoel&eacute;ctrico [Hochstrasser 86]. La segunda, la separaci&oacute;n por peso molecular, separa las prote&iacute;nas seg&uacute;n su tama&ntilde;o. La combinaci&oacute;n de estas dos t&eacute;cnicas permite separar m&aacute;s de cuatro mil prote&iacute;nas contenidas en una muestra biol&oacute;gica. En la tercera etapa, las prote&iacute;nas se colorean para distinguirlas. El resultado producido por esta t&eacute;cnica se llama gel 2-DE (ver Figura1). </P >     <p  align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>4 Tratamiento de im&aacute;genes 2-DE</B></font></p >     <p  align="justify" >El pretratamiento y tratamiento de im&aacute;genes 2-DE es imprescindible tomando en cuenta las caracter&iacute;sticas de este tipo de im&aacute;genes. Varias t&eacute;cnicas y m&eacute;todos han sido utilizados para este fin [Appel 97a][Appel 97b]. Sin embargo, la eliminaci&oacute;n del ruido de fondo y la modelizaci&oacute;n de las manchas proteicas no han sido tratados convenientemente. Esta secci&oacute;n describe las nuevas t&eacute;cnicas aplicadas a las im&aacute;genes de 2-DE para realizar estos dos importantes procesos.</p >     <p  align="justify" ><b>4.1 Eliminaci&oacute;n del ruido de fondo </b></p >     ]]></body>
+<body><![CDATA[<P   align="justify" >El ruido de fondo de las im&aacute;genes 2-DE es producido por el efecto de varios factores: la opacidad de los geles, la dispersi&oacute;n de las prote&iacute;nas debida al efecto migratorio, la t&eacute;cnica qu&iacute;mica de coloraci&oacute;n utilizada, la iluminaci&oacute;n, las imperfecciones de la digitalizaci&oacute;n de la imagen, etc. Con el fin de eliminar o atenuar estas imperfecciones, han sido propuestos dos m&eacute;todos de estimaci&oacute;n del ruido de fondo de las im&aacute;genes 2-DE, m&eacute;todos basados en los trabajos de Grimaud [Grimaud 92]. En el primer m&eacute;todo, los valores de los pixeles que se encuentran en una determinada reja y que est&aacute;n fuera de los contornos de las manchas detectadas, son aproximados por un polinomio de tercer grado. En el segundo m&eacute;todo, el ruido de fondo est&aacute; calculado por la interpolaci&oacute;n de los m&iacute;nimos locales significativos. Esta interpolaci&oacute;n es realizada por un umbral sobre las medidas de contraste asociadas a cada m&iacute;nimo local (ver Figura 2).</P >     <p  align="justify" ><B>4.2 Modelizaci&oacute;n de las manchas por funciones Gaussianas </b></p >    <P   align="justify" >La modelizaci&oacute;n de las manchas por funciones gaussianas ha sido muy utilizada para el an&aacute;lisis de im&aacute;genes 2-DE [Brown 82][Vincens 86][Garrels 89]. Esto es apropiado teniendo en cuenta el efecto de difusi&oacute;n gaussiana debido a la migraci&oacute;n de las prote&iacute;nas en el gel (red de pol&iacute;meros), raz&oacute;n por la cual, idealmente, la forma de las manchas debe ser gaussiana. Sin embargo, frecuentemente las manchas est&aacute;n superpuestas, saturadas y contienen ruido.  </P >    <P   align="justify" >La modelizaci&oacute;n es realizada por el m&eacute;todo <I>gaussian fitting </I>con funciones gaussianas simples o m&uacute;ltiples. El algoritmo del <I>gaussian fitting </I>consta de dos etapas. En primer lugar, se considera que la intensidad del ruido de fondo para cada mancha en una imagen 2-DE es constante o que puede ser aproximada por el m&eacute;todo de eliminaci&oacute;n del ruido de fondo. Con ello, los par&aacute;metros iniciales de cada funci&oacute;n gaussiana se calculan minimizando el error entre la funci&oacute;n gaussiana y la forma de la mancha, seg&uacute;n el m&eacute;todo de los m&iacute;nimos cuadrados. En segundo lugar, para cada mancha, se obtiene una mejor aproximaci&oacute;n a partir de los par&aacute;metros iniciales, seg&uacute;n el algoritmo del gradiente conjugado multidimensional (ver Figura 3, izquierda). Sin embargo, este primer m&eacute;todo puede producir resultados inesperados porque las im&aacute;genes de geles 2DE con frecuencia contienen cadenas proteicas y manchas m&uacute;ltiples que se superponen y producen resultados inesperados. Una posible soluci&oacute;n para este problema es modelizar un grupo de manchas, antes que una sola mancha a la vez, con una suma de funciones gaussianas, por el m&eacute;todo del <I>multiple gaussian fitting</I>. En una primera instancia, este m&eacute;todo realiza una aproximaci&oacute;n inicial de cada mancha superpuesta utilizando los m&iacute;nimos cuadrados. Seguidamente, el m&eacute;todo combina estas aproximaciones para formar una aproximaci&oacute;n global de la suma de funciones gaussianas. En una segunda instancia, el m&iacute;nimo se calcula utilizando el m&eacute;todo del gradiente conjugado multidimensional y la aproximaci&oacute;n global como punto de inicio (ver Figura 3, derecha).</P >     <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>5 Comparaci&oacute;n autom&aacute;tica de im&aacute;genes 2-DE </b></font></P >     <P   align="justify" >La detecci&oacute;n y la cuantificaci&oacute;n de im&aacute;genes 2-DE son de gran inter&eacute;s en el estudio cuantitativo de la variaci&oacute;n de intensidad de las manchas. Esto es posible a condici&oacute;n de que las manchas correspondientes a un grupo de geles sean previamente emparejadas. Con frecuencia, este emparejamiento resulta dif&iacute;cil teniendo en cuenta las distorsiones espaciales y los cambios de intensidad debidos a la t&eacute;cnica biol&oacute;gica de los geles 2-DE. Numerosos procesos de an&aacute;lisis de im&aacute;genes 2-DE necesitan una puesta en correspondencia de las manchas de un grupo de geles, incluyendo los estudios de variaciones cuantitativas de concentraci&oacute;n de prote&iacute;nas, la b&uacute;squeda de cambios significativos entre geles, la b&uacute;squeda de marcadores de enfermedades, la integraci&oacute;n e intercambio de informaci&oacute;n a partir de im&aacute;genes distintas, la identificaci&oacute;n de manchas utilizando cartas proteicas de referencia y servidores de bases de datos 2-DE, y otros. En este sentido, el emparejamiento es fundamental en el an&aacute;lisis de im&aacute;genes 2-DE. Las manchas proteicas correspondientes son emparejadas suponiendo que sus posiciones globales cambian de un gel a otro, pero sus posiciones relativas permanecen invariantes. De esta manera, el emparejamiento puede ser descompuesto en dos problemas: el emparejamiento global &oacute; alineaci&oacute;n de geles 2-DE asociado a las distorsiones globales, debidas a la adquisici&oacute;n de im&aacute;genes, la coloraci&oacute;n, el tiempo de migraci&oacute;n, el gradiente de pH y la porosidad; y el emparejamiento local o emparejamiento de agrupaciones de manchas asociado a las distorsiones locales, debidas a la concentraci&oacute;n y naturaleza de las muestras biol&oacute;gicas, efectos migratorios y otros. </P >     <P   align="justify" >Los m&eacute;todos de emparejamiento se caracterizan por cuatro grandes componentes: el espacio de la representaci&oacute;n, la medida de semejanza, el espacio de b&uacute;squeda, y la estrategia de b&uacute;squeda. Los m&eacute;todos de emparejamiento pueden ser agrupados en tres categor&iacute;as, seg&uacute;n el grado de abstracci&oacute;n de la representaci&oacute;n de los objetos comparados: m&eacute;todos basados en p&iacute;xeles, m&eacute;todos basados en las primitivas gr&aacute;ficas (contornos, puntos de inter&eacute;s, cumbres, etc), y m&eacute;todos basados en informaciones estructuradas (grafos, frames, etc). En la primera categor&iacute;a, los m&eacute;todos no necesitan un tratamiento de im&aacute;genes: el emparejamiento se realiza por la comparaci&oacute;n directa de los valores de los pixeles [Anadan 87]. Por el contrario, los m&eacute;todos de la segunda categor&iacute;a necesitan una detecci&oacute;n y una cuantificaci&oacute;n previas al proceso de emparejamiento [Goshtasby 86]. En cuanto a los m&eacute;todos de la tercera categor&iacute;a, necesitan una representaci&oacute;n de alto nivel, como las estructuras de grafos representando relaciones espaciales entre objetos [Mohr 90]. </P >    <p   align="justify" ><B>5.1 Alineaci&oacute;n de geles 2-DE </b></p >    <P   align="justify" >Frecuentemente, las deformaciones o transformaciones polinomiales (ver ecuaci&oacute;n 1) de im&aacute;genes se utilizan para el alineamiento de im&aacute;genes cuya fuente y grado de distorsi&oacute;n se desconocen. La alineaci&oacute;n entre dos geles se realiza en cuatro etapas. Primero, en una de las dos im&aacute;genes (imagen de referencia) se seleccionan algunos puntos de control o <I>landmarks. </I>Segundo, los puntos de control correspondientes se definen en el otro gel (el gel que va a ser alineado). Tercero, los coeficientes de las ecuaciones polinomiales se calculan minimizando el error de los puntos de control correspondientes seg&uacute;n el m&eacute;todo de los m&iacute;nimos cuadrados. En la cuarta etapa, la imagen se deforma utilizando las transformaciones polinomiales que resultan y la interpolaci&oacute;n bilineal. Se debe tener en cuenta que este algoritmo puede aplicarse a cada gel de un conjunto para tener un grupo de geles alineados a un gel de referencia.  </P >     <P   align="center" ><img src="imagenes/1-8.JPG" width="754" height="68"></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >En el sistema Melanie-II, se ha utilizado las transformaciones polinomiales de primer orden (Ecuaci&oacute;n 2), segundo orden (Ecuaci&oacute;n 3) y tercer orden (Ecuaci&oacute;n 4) con una sola variable. Raz&oacute;n por la cual, las l&iacute;neas horizontales y verticales se transforman en l&iacute;neas horizontales y verticales respectivamente. Sin embargo, cualquier otra l&iacute;nea recta se transforma en una curva (ver Figura 4). Las ecuaciones polinomiales utilizadas son: </P >     <P   align="center" ><img src="imagenes/2-8.JPG" width="604" height="245"></P >     <p  align="justify" ><B>5.2 Emparejamiento de grupos de manchas </B></p >    <P   align="justify" >Numerosas experiencias realizadas han mostrado que se ha adaptado el algoritmo de emparejamiento de constelaciones de manchas (<I>clusters</I>) para asociar im&aacute;genes 2-DE. Este m&eacute;todo se basa en el emparejamiento de los <I>clusters </I>(ver Figura 5) utilizando una medida de semejanza probabil&iacute;stica, seguida de una medida de verificaci&oacute;n de coherencia. Sin embargo, esta t&eacute;cnica resulta insuficiente para el emparejamiento de im&aacute;genes cuyas distorsiones son importantes. Una posible soluci&oacute;n a este problema consiste en alinear los geles antes de su emparejamiento. Utilizando este enfoque, el emparejamiento de las manchas en un conjunto de im&aacute;genes 2-DE se realiza de la siguiente manera: </P ><OL   type="1" >   <LI   align="justify" >En cada imagen 2-DE se seleccionan de dos a cinco puntos de control. </P ></LI ><LI   align="justify" >Se alinea cada imagen con el gel de referencia utilizando el m&eacute;todo descrito en la secci&oacute;n precedente y dos transformaciones polinomiales de un orden determinado (primer, segundo o tercer orden). </P ></LI >   <LI   align="justify" >Las manchas son emparejadas utilizando la t&eacute;cnica de <I>cluster matching </I>tenieno en cuenta la alineaci&oacute;n. Esto quiere decir que todos los valores cuantitativos se calculan por segunda vez utilizando las transformaciones polinomiales de alineaci&oacute;n. </LI > </OL >     <p  align="justify" ><B>5.3 Emparejamiento jer&aacute;rquico de geles 2-DE </B></p >    <P   align="justify" >El emparejamiento jer&aacute;rquico de geles 2-DE propuesto en este trabajo, se basa en la transformaci&oacute;n de la distancia de Chamfer [Barrow 77] en combinaci&oacute;n con la pir&aacute;mide de resoluci&oacute;n. El emparejamiento de un conjunto de im&aacute;genes 2-DE con un gel de referencia se realiza en varias etapas. En primer lugar, se construye una pir&aacute;mide de resoluci&oacute;n a partir de distancia de Chamfer para el gel de referencia. En segundo lugar, se estiman los puntos iniciales de b&uacute;squeda para cada gel utilizando dos m&eacute;todos alternativos: la alineaci&oacute;n global o el emparejamiento utilizando una resoluci&oacute;n baja en la pir&aacute;mide. En el primer m&eacute;todo, las im&aacute;genes se alinean con el gel de referencia seg&uacute;n el m&eacute;todo de alineaci&oacute;n descrito en la secci&oacute;n 5.2. Luego, las posiciones iniciales de b&uacute;squeda se estiman mediante funciones polinomiales de alineaci&oacute;n calculadas. En el segundo m&eacute;todo, las posiciones iniciales de b&uacute;squeda se calculan utilizando un nivel de resoluci&oacute;n bastante bajo en la pir&aacute;mide de resoluci&oacute;n, en funci&oacute;n de la m&aacute;xima deformaci&oacute;n prevista. Posteriormente, las posiciones &oacute;ptimas para cada mancha se buscan a partir de estas posiciones iniciales utilizando la medida de semejanza del Chamfer. Esta b&uacute;squeda puede empezar en la pir&aacute;mide a baja resoluci&oacute;n y despu&eacute;s guiar la b&uacute;squeda en resoluciones m&aacute;s finas. Para acabar, se mejoran las posiciones iniciales &oacute;ptimas por un test de coherencia basado en la interpolaci&oacute;n. En una &uacute;ltima etapa, pueden eliminarse los emparejamientos de manchas seg&uacute;n un criterio de calidad de emparejamiento. </P >     <p   align="justify" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Conclusi&oacute;n</B></font></p >     <p   align="justify" >En numerosos laboratorios, el an&aacute;lisis por computadora de im&aacute;genes de geles de electroforesis bidimensional se ha convertido en una pr&aacute;ctica habitual. En este trabajo, se han desarrollado m&eacute;todos de tratamiento de im&aacute;genes robustos y r&aacute;pidos para superar la complejidad del an&aacute;lisis cualitativo y cuantitativo de geles 2-DE. Se han utilizado t&eacute;cnicas recientes para filtrar las im&aacute;genes sin disminuir el contraste ni la sensibilidad en la detecci&oacute;n. Se ha podido hacer una estimaci&oacute;n exitosa del ruido de fondo de las im&aacute;genes 2-DE utilizando la interpolaci&oacute;n de los m&iacute;nimos locales significativos. Se ha mejorado la cuantificaci&oacute;n de las prote&iacute;nas por la modelizaci&oacute;n de las manchas por funciones gaussianas simples o m&uacute;ltiples.</p >     <P   align="justify" >La puesta en correspondencia de im&aacute;genes es fundamental para el an&aacute;lisis cuantitativo y cualitativo de im&aacute;genes de geles 2-DE. Esto tiende a resolver las distorsiones globales (debidas a la adquisici&oacute;n de im&aacute;genes, a la coloraci&oacute;n, al tiempo de migraci&oacute;n, al pH y al gradiente de porosidad), y las distorsiones locales (debidas a la naturaleza de la muestra biol&oacute;gica, a la concentraci&oacute;n de la muestra, y a las modificaciones proteicas). Las deformaciones polinomiales de im&aacute;genes que alinean dos im&aacute;genes donde la fuente y el grado de distorsi&oacute;n son desconocidos, y combinados con la asociaci&oacute;n de im&aacute;genes por la transformaci&oacute;n jer&aacute;rquica de Chamfer para encontrar las correspondencias &oacute;ptimas de las manchas de geles, ha dado alentadores resultados para el emparejamiento de im&aacute;genes 2-DE. </P >    <P   align="justify" >La organizaci&oacute;n y la comunicaci&oacute;n de los datos son ahora fundamentales para el an&aacute;lisis de im&aacute;genes 2-DE. Por un lado, la organizaci&oacute;n inform&aacute;tica de los datos 2-DE puede realizarse por dos enfoques alternativos: el enfoque por indexaci&oacute;n y el enfoque por gel de referencia. El enfoque por indexaci&oacute;n de las manchas toma en consideraci&oacute;n todos los emparejamientos posibles, pero pide demasiadas comparaciones. El enfoque por gel de referencia s&oacute;lo necesita un reducido n&uacute;mero de comparaciones, pero depende de la elecci&oacute;n del gel de referencia y del orden en el que las comparaciones han sido efectuadas. Por otro lado, el trabajo desarrollado ha permitido la implantaci&oacute;n de bases de datos 2-DE y la edici&oacute;n de cartas proteicas de referencia (Masters). Adem&aacute;s, ha simplificado considerablemente el intercambio y la integraci&oacute;n de informaci&oacute;n 2-DE y otras informaciones ( secuencias de prote&iacute;nas, composici&oacute;n en amino&aacute;cidos, secuencias de genes, etc.). Igualmente, se ha facilitado la identificaci&oacute;n de las prote&iacute;nas por la asociaci&oacute;n de las cartas proteicas de referencia y por interrogaciones a los servidores de las bases de datos proteicas disponibles a trav&eacute;s del mundo entero. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >Finalmente, las t&eacute;cnicas desarrollas han posibilitado mejorar la clasificaci&oacute;n de im&aacute;genes 2-DE para un an&aacute;lisis profundo de los datos 2-DE. Se trata de una b&uacute;squeda de semejanzas y diferencias entre im&aacute;genes 2-DE, con el fin de descubrir autom&aacute;ticamente nuevos marcadores de enfermedades y de formar autom&aacute;ticamente clases a partir de un conjunto de im&aacute;genes 2-DE. M&eacute;todos avanzados de clasificaci&oacute;n, como las derivadas del aprendizaje autom&aacute;tico, han podido ser utilizados, permitiendo clasificar im&aacute;genes 2-DE a pesar de la naturaleza imprecisa de las t&eacute;cnicas bioqu&iacute;micas y la introducci&oacute;n de ruido durante su tratamiento, gracias a las nuevas t&eacute;cnicas desarrolladas. En este sentido, se ha podido detectar cambios significativos de concentraciones proteicas, t&iacute;picos de estados fisiopatol&oacute;gicos, o de nuevos marcadores de enfermedades. </P >    <P   align="justify" >En conclusi&oacute;n, los m&eacute;todos y algoritmos descritos en este trabajo e implantados en el nuevo sistema Melanie-II han permitido poner a punto una herramienta amplia y capaz de seguir y de responder a la evoluci&oacute;n de las nuevas t&eacute;cnicas de an&aacute;lisis de im&aacute;genes de geles de electroforesis bidimensional. </P >    <p   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Bibliograf&iacute;a </B></font></p >    <!-- ref --><P   align="justify" ><b>[Anadan 87]</b> Anadan P. Measuring visual motion from image sequences. Ph. D. thesis in computer science. University of Massachusetts. May, 1987. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000396&pid=S1683-0789200100000000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><B> [Appel 97a] 	</B>Appel R.D., Palagi P.M., Walther D., Vargas J.R., Sanchez J-C, Ravier Florence, Pascuali C., Hochstrasser D. F.; Melanie II &ndash; a third-generation software package for analysis of two-dimensional electrophoresis images: I. Features and user interface; Electrophoresis 18, 2724-2734, 1997. </P >    <P   align="justify" ><B>[Appel 97b] 	</B>Appel R.D., Vargas J.R., Palagi P.M., Walther D., Hochstrasser D. F.; Melanie II &ndash; a third-generation software package for analysis of two-dimensional electrophoresis images: II Algorithms; Electrophoresis  18, 2738-2748, 1997. </P >    <!-- ref --><P   align="justify" ><B>[Barrow 77] 	</B>Barrow H.G., Tenenbaum J.M., Bolles R.C., and Wolf H.C. Parametric correspondance and chamfer matching: Two new techniques for image matching, in Proc. 5<Sup>th </Sup>. Joint Conf. Artificial Intelligence, Cambridge, MA, 656-663. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000399&pid=S1683-0789200100000000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><B>[Brown 82] 	</B>Brown W.T. and Ezer A. A Computer Program Using Gaussian Fifting for Evaluation of Two-Dimensional Gels. <I>Clin. Chem. 28</I>, 1041-1044, 1982. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000400&pid=S1683-0789200100000000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><B>[Garrels 89] 	</B>Garrels J.I., the QUEST System for Quantitative Analysis of Twodimensional Gels, J. Biol. Chem. 264, 5269-5282, 1989. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000401&pid=S1683-0789200100000000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><strong>[Goshtasby 86]</strong> Goshtasby A., Piecewise linear mapping functions form image registration. Pattern Recognition, 19, 6, 459-466, 1986.</P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000402&pid=S1683-0789200100000000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><strong>[Grimaud 92]</strong> Grimaud M. A new measure of contrast: the dynamics. SPIE vol. 1969 Image Algebra and Morphological Image Processing III, 292305. 1992.</P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000403&pid=S1683-0789200100000000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><strong>[Hochstrasser 86]</strong> Hochstrasser D., Augsburger V., Funk M., Appel R., Pellegrini C., Muller A.F. Immobilized pH gradients in capillary tubes and two dimensional gel electrophoresis. Electrophoresis 7, 505-511, 1986.</P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000404&pid=S1683-0789200100000000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><strong>[Mohr 90]</strong> Mohr R., Pavdlidis T. and Sanfeliu A. structural Pattern analysis. World Scientific, Teaneck, N.J., 1990.</P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000405&pid=S1683-0789200100000000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" > <strong>[O&rsquo;Farrell 75]</strong> O&rsquo;Farrell P.H., High resolution two-dimensional electrophoresis of proteins, J. Biol. Chem. 250, 4007-4017, 1975.</P >     <P   align="justify" ><strong>[Vargas 93a]</strong> Vargas J.R., Appel R.D., Hochstrasser D.F., Pellegrini C. Modeling and Quantification of protein Maps by Gaussian Fitting. Proc. CAIP&rsquo;93, 5th International Conference on Computer Analysis of Images and Patterns, Budapest, September 13-15, 1993. Springer Verlag ISBN 3-540-57233-3, 627-633.</P >     <P   align="justify" ><strong>[Vargas 93b]</strong> Vargas J.R., Bologna G., Appel R.D., Hochstrasser D.F., Pellegrini C. Classification of protein Patterns using Neural Networks: Pixel based versus Feature based Approach. Proc. AIME&rsquo;93, 5th Conference on AI in Medecine, Munich, Germany, Oct. 1993.</P >     <P   align="justify" ><strong>[Vargas 96]</strong> Vargas Altamirano J.R.; Two-Dimensional Gel Electrophoresis Computer Analysis System: From Image Adquisition to Protein Identification; PhD. Dissertation; D&eacute;partement d&rsquo;Informatique, Facult&eacute; de Sciences, Universit&eacute; de Gen&egrave;ve; Gen&egrave;ve, Suisse; Febrero de 1996.  </P >     <!-- ref --><P   align="justify" ><strong>[Vincens 86]</strong> Vincens P., HERMeS: A second generation approach to the automatic analysis of two-dimensional electrophoresis gels PartII: Spot detection and integration. Electrophoresis 7, 357-367, 1986.</P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000410&pid=S1683-0789200100000000700015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p  align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></p >     <P   align="justify" >Este trabajo ha sido desarrollado gracias al apoyo del grupo Melanie de la Unidad de Tratamiento y An&aacute;lisis de Im&aacute;genes (actualmente Instituto Suizo de Bioinform&aacute;tica) y el Laboratorio Central de Qu&iacute;mica Cl&iacute;nica del Hospital Universitario de Ginebra, la Fundaci&oacute;n Inter Maritime, el Centro Universitario de Inform&aacute;tica de la Universidad de Ginebra, la Fundaci&oacute;n Nacional Suiza para la Investigaci&oacute;n Cient&iacute;fica y el Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada de la Universidad Cat&oacute;lica Boliviana. </P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><B>Figura 1. </B><I>Imagen de un gel de electroforesis bidimensional producido a partir de una muestra de Escherichia Coli (E-Coli). Cada mancha, correspondiente a una prote&iacute;na espec&iacute;fica, se caracteriza por su punto isoel&eacute;ctrico (pH, primera dimensi&oacute;n), por su peso molecular (Dalton, segunda dimensi&oacute;n) y por su concentraci&oacute;n (el tama&ntilde;o y la densidad &oacute;ptica).</I></P >     <P   align="justify" ><B>Figura 2.</B><I><b>Izquierda.</b>-Perfil de una imagen 2-DE con valores de contraste asociados a cada m&iacute;nimo local. </I><B><I>Derecha</I></B><I>.-el ruido de fondo es estimado por interpolaci&oacute;n de los m&iacute;nimos locales significativos. </I></P >     <P   align="justify" ><B>Figura 3.</B><I><b>Izquierda.-</b>Modelizaci&oacute;n de un perfil de una mancha 2-DE (trazo continuo) con una funci&oacute;n gaussiana (trazo discontinuo). </I><B><I>Derecha</I></B><I>.-Modelizaci&oacute;n con la suma de funciones gaussianas(S1 y S2). La funci&oacute;n resultante S1 + S2 aproxima convenientemente la mancha m&uacute;ltiple 2-DE (trazo continuo). </I></P >    <P   align="justify" ><B>Figura 4.</B><I>Transformaci&oacute;n de una rejilla utilizando dos funciones polinomiales de una sola variable. Han sido utilizados: un polinomio de orden dos seg&uacute;n el eje horizontal y un segundo polinomio de orden tres seg&uacute;n el eje vertical y cuatro puntos de control. </I></P >    <P   align="justify" ><B>Figura 5. </B><I>Dos constelaciones similares de manchas 2-DE. </I></P >    <P   align="justify" ><B>Figura 6. </B><I>B&uacute;squeda de la posici&oacute;n &oacute;ptima para un grupo de manchas: (a) se superponen dos geles utilizando la alineaci&oacute;n. (b) la posici&oacute;n &oacute;ptima resultante correspondiente al m&iacute;nimo local seg&uacute;n la medida de distancia de Chamfer.</I></P >     <P   align="justify" >&nbsp;</P >     <P   align="justify" >  Gradiente no-lineal de pH inmovilizado (IPG) </P >     <div align="center"><IMG align="" width="492" height="400"  src="imagenes/v1n1a08_img_0.jpg" > </div>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><IMG align="" width="528" height="284"  src="imagenes/v1n1a08_img_3.jpg" > </p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>Posici&oacute;n Inicial - Posici&oacute;n &Oacute;ptima </p>     <p><IMG align="" width="480" height="205"  src="imagenes/v1n1a08_img_4.jpg" ></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><img align="" width="536" height="188"  src="imagenes/v1n1a08_img_1.jpg" ></p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><img align="" width="552" height="176"  src="imagenes/v1n1a08_img_2.jpg" ></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p><IMG align="" width="520" height="192"  src="imagenes/v1n1a08_img_5.jpg" > </p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[Anadan 87]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anadan]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[Appel 97a]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Palagi]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Walther]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanchez]]></surname>
+<given-names><![CDATA[J-C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ravier]]></surname>
+<given-names><![CDATA[Florence]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pascuali]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D. F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[- a third-generation software package for analysis of two-dimensional electrophoresis images: I. Features and user interface]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[Appel 97b]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walther]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanchez]]></surname>
+<given-names><![CDATA[J-C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Palagi]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+</name>
+<name>
+</name>
+<name>
+</name>
+<name>
+</name>
+<name>
+</name>
+</person-group>
+<source><![CDATA[II - a third-generation software package for analysis of two-dimensional electrophoresis images: II Algorithms]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[Barrow 77]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barrow]]></surname>
+<given-names><![CDATA[H.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tenenbaum]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bolles]]></surname>
+<given-names><![CDATA[R.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wolf]]></surname>
+<given-names><![CDATA[H.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parametric correspondance and chamfer matching: Two new techniques for image matching]]></source>
+<year></year>
+<edition>5th</edition>
+<page-range>656-663</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<label>[Brown 82]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[W.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ezer]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A Computer Program Using Gaussian Fifting for Evaluation of Two-Dimensional Gels]]></source>
+<year></year>
+<page-range>1041-1044</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<label>[Garrels 89]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Garrels]]></surname>
+<given-names><![CDATA[J.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[the QUEST System for Quantitative Analysis of Twodimensional Gels]]></source>
+<year>1989</year>
+<page-range>264, 5269-5282</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<label>[Goshtasby 86]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Goshtasby]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1986</year>
+<page-range>19, 6, 459-466</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<label>[Grimaud 92]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grimaud]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A new measure of contrast: the dynamics.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[Hochstrasser 86]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Augsburger]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Funk]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pellegrini]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Muller]]></surname>
+<given-names><![CDATA[A.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Immobilized pH gradients in capillary tubes and two dimensional gel electrophoresis.]]></source>
+<year>1986</year>
+<page-range>505-511</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<label>[Mohr 90]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mohr]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pavdlidis]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanfeliu]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[structural Pattern analysis]]></source>
+<year>1990</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[OFarrell 75]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[OFarrell]]></surname>
+<given-names><![CDATA[P.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[High resolution two-dimensional electrophoresis of proteins]]></source>
+<year>1975</year>
+<page-range>4007-4017</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<label>[Vargas 93a]</label><nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pellegrini]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Modeling and Quantification of protein Maps by Gaussian Fitting.]]></source>
+<year></year>
+<conf-name><![CDATA[ 5th International Conference on Computer Analysis of Images and Patterns]]></conf-name>
+<conf-date>September 13-15, 1993</conf-date>
+<conf-loc>Budapest </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[Vargas 93b]</label><nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bologna]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pellegrini]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+<conf-name><![CDATA[ Classification of protein Patterns using Neural Networks: Pixel based versus Feature based Approach. Proc. AIME93, 5th Conference on AI in Medecine]]></conf-name>
+<conf-date>Oct. 1993</conf-date>
+<conf-loc>Munich </conf-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[Vargas 96]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vargas Altamirano]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Two-Dimensional Gel Electrophoresis Computer Analysis System: From Image Adquisition to Protein Identification]]></source>
+<year>Febr</year>
+<month>er</month>
+<day>o </day>
+<publisher-loc><![CDATA[Genève ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[Vincens 86]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vincens]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[: A second generation approach to the automatic analysis of two-dimensional electrophoresis gels PartII: Spot detection and integration]]></source>
+<year>1986</year>
+<page-range>357-367</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

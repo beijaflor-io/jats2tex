@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282004001000002</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Herbivoría en relación al tamaño de la planta y a las diferencias de exposición de Pilea sp. (Urticaceae) en la Estación Biológica Tunquini, Cotapata, La Paz - Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Herbivory in relation to plant size and degree of exposition in Pilea sp.(Urticaceae) at the Estación Biológica Tunquini, Cotapata, La Paz - Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Medinaceli]]></surname>
+<given-names><![CDATA[Armando]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Miranda-Avilés]]></surname>
+<given-names><![CDATA[Fabricio]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Flores-Saldaña]]></surname>
+<given-names><![CDATA[N. Paola]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gutierrez-Calucho]]></surname>
+<given-names><![CDATA[Estela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Biología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Mayor de San Simón Centro de Biodiversidad y Genética Herbario Nacional Martín Cárdenas]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>10</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>10</month>
+<year>2004</year>
+</pub-date>
+<volume>39</volume>
+<numero>2</numero>
+<fpage>4</fpage>
+<lpage>8</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282004001000002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282004001000002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282004001000002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Analizamos el grado de herbivoría en plantas de Pilea sp. (Urticaceae) en dos zonas con diferente exposición (NO, SE) en un bosque húmedo montano situado en la Estación Biológica Tunquini, La Paz - Bolivia. Medimos el Índice de Herbivoría (IH) propuesto por Dominguez & Dirzo (1995), existiendo diferencias significativas en el grado de herbivoría entre plantas grandes y pequeñas. No encontramos diferencias significativas entre zonas con diferente exposición (zonas 1 y 2), ni se relaciona el índice de herbivoría en individuos pequeños con la distancia a individuos grandes.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[We have analized the herbivory degree in plants of Pilea sp. (Urticaceae) in two zones with different exposition (NW, SE) in a tropical montane cloud forest at Tunquini Biological Station, La Paz Bolivia. We have applied the herbivory index (IH) proposed by Dominguez & Dirzo (1995), that shows significant differences between large and small plants. We did not find significant differences between different zones with different exposition (zones 1 and 2). There is no relationship between herbivory index in small plants and distance to large plants.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bosque húmedo montano]]></kwd>
+<kwd lng="es"><![CDATA[Herbivoría]]></kwd>
+<kwd lng="es"><![CDATA[Pilea sp.]]></kwd>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[Montane tropical cloud forest]]></kwd>
+<kwd lng="en"><![CDATA[herbivory]]></kwd>
+<kwd lng="en"><![CDATA[Pilea sp.]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Herbivor&iacute;a en relaci&oacute;n al tama&ntilde;o de la planta y a las diferencias de exposici&oacute;n de <I>Pilea </I>sp. (Urticaceae) en la Estaci&oacute;n Biol&oacute;gica Tunquini, Cotapata, La Paz - Bolivia </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Herbivory in relation to plant size and degree of exposition in <I>Pilea</I> sp.(Urticaceae) at the Estaci&oacute;n Biol&oacute;gica Tunquini, Cotapata, La Paz - Bolivia </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Armando Medinaceli<Sup>1</Sup>*, Fabricio Miranda-Avil&eacute;s<Sup>1</Sup>, N. Paola Flores-Salda&ntilde;a<Sup>1</Sup> &amp; Estela Gutierrez-Calucho<Sup>2 </Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Carrera de Biolog&iacute;a, Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia </font>    <br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>2</Sup>Herbario Nacional Mart&iacute;n C&aacute;rdenas, Centro de Biodiversidad y Gen&eacute;tica,     ]]></body>
+<body><![CDATA[<br>   Universidad Mayor de San Sim&oacute;n, Cochabamba, Bolivia     <br> *Autor de correspondencia: <a href="mailto:manduche@linuxmail">manduche@linuxmail</a>.org, AP 4106 La Paz, Bolivia</font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen </b> </font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analizamos el grado de herbivor&iacute;a en plantas de <I>Pilea </I>sp. (Urticaceae) en dos zonas con diferente exposici&oacute;n (NO, SE) en un bosque h&uacute;medo montano situado en la Estaci&oacute;n Biol&oacute;gica Tunquini, La Paz - Bolivia. Medimos el &Iacute;ndice de Herbivor&iacute;a (IH) propuesto por Dominguez &amp; Dirzo (1995), existiendo diferencias significativas en el grado de herbivor&iacute;a entre plantas grandes y peque&ntilde;as. No encontramos diferencias significativas entre zonas con diferente exposici&oacute;n (zonas 1 y 2), ni se relaciona el &iacute;ndice de herbivor&iacute;a en individuos peque&ntilde;os con la distancia a individuos grandes. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras clave:</b> Bosque h&uacute;medo montano, Herbivor&iacute;a, <I>Pilea </I>sp., Bolivia. </font></P > <hr noshade>      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract </b> </font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We have analized the herbivory degree in plants of <I>Pilea </I>sp. (Urticaceae) in two zones with different exposition (NW, SE) in a tropical montane cloud forest at Tunquini Biological Station, La Paz Bolivia. We have applied the herbivory index (IH) proposed by Dominguez &amp; Dirzo (1995), that shows significant differences between large and small plants. We did not find significant differences between different zones with different exposition (zones 1 and 2). There is no relationship between herbivory index in small plants and distance to large plants. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>keywords:</b> Montane tropical cloud forest, herbivory, <I>Pilea</I> sp., Bolivia. </font></P > <hr noshade>     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b> </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La herbivor&iacute;a es la interacci&oacute;n planta-animal m&aacute;s frecuente en la naturaleza (Weis &amp; Berenbaum  1989) y juega un papel importante en la estructuraci&oacute;n de la vegetaci&oacute;n de un bosque (Harper  1969, Janzen 1970, Roldan 1997). Uno de los factores m&aacute;s relevantes para el desarrollo y  estructura del bosque es la luz (Hogan &amp; Machado 2002), que tambi&eacute;n afecta en la incidencia del ataque a plantas por herb&iacute;voros (Sagers 1992). Como se&ntilde;ala Sagers (1992), algunas especies de plantas que crecen en claros de bosque presentan un mayor grado de herbivor&iacute;a que especies que crecen bajo el dosel. Por otro lado, Feeny (1976) muestra que existe una relaci&oacute;n positiva entre cu&aacute;n conspicua es una planta y la tasa de herbivor&iacute;a que sufre. M&aacute;s a&uacute;n, la probabilidad de herbivor&iacute;a para una planta dada puede ser mayor por la cercan&iacute;a a un individuo atacado (Karban et al. 2003, Rousset &amp; Leport 2003). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la Estaci&oacute;n Biol&oacute;gica Tunquini (EBT), ubicada en el bosque montano de los Yungas de La Paz, el g&eacute;nero herb&aacute;ceo <I>Pilea </I>(Urticaceae) se encuentra ampliamente distribuido en la zona, siendo muy com&uacute;n a lo largo de las sendas, donde con frecuencia se encuentran individuos con se&ntilde;ales de herbivor&iacute;a foliar. El presente trabajo tiene como objetivo general documentar patrones de herbivor&iacute;a en <I>Pilea </I>sp. En particular, el trabajo se dirige a analizar el grado de herbivor&iacute;a en individuos de <I>Pilea sp. </I>de diferentes estadios de desarrollo (plantas grandes y peque&ntilde;as) en dos zonas de diferente exposici&oacute;n (Noroeste y Sureste). Adicionalmente, estudiamos el grado de herbivor&iacute;a, bajo el efecto de la distancia, en ambas zonas. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>&Aacute;rea de estudio </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El estudio se llev&oacute; a cabo en julio de 2003 (&eacute;poca seca) en la Estaci&oacute;n Biol&oacute;gica Tunquini, incluida en el Parque Nacional y&Aacute;rea Natural de Manejo Integrado Cotapata (67&ordm; 52&rsquo;12&rsquo;&rsquo;O; 16&ordm; 11&rsquo;24&rsquo;&rsquo;S) (Morales 1995), se ubica en la Cordillera Oriental, entre las provincias Murillo y Nor Yungas del departamento de La Paz, en un rango altitudinal de 1.500 a 3.600 m. Corresponde a un &aacute;rea ecol&oacute;gica muy heterog&eacute;nea, con una topograf&iacute;a de laderas empinadas, profundos valles y crestas expuestas con diferentes orientaciones. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La vegetaci&oacute;n corresponde al bosque h&uacute;medo monta&ntilde;oso de Yungas (700 -2.800 m), con precipitaciones anuales inferiores a los 2000 mm y temperaturas medias entre los 17&ordm;-20&ordm; C (Morales 1995). La vegetaci&oacute;n de la zona de estudio est&aacute; dominada por &aacute;rboles de los g&eacute;neros <I>Cecropia</I>, <I>Piper</I>, <I>Ochroma</I>, <I>Inga</I>,<I>Solanum</I>, <I>Croton</I>, <I>Ficus</I>, entre los arbustos <I>Baccharis</I>, <I>Barnadesia</I>, <I>Ribes</I>, <I>Berberis </I>y las hierbas con <I>Anthurium</I>, <I>Peperomia</I>, <I>Pilea</I>,<I>Heliconia </I>entre otras (Paniagua-Zambrana et al. 2003). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El g&eacute;nero <I>Pilea </I>se caracteriza por su h&aacute;bito herb&aacute;ceo, raramente arbustivo, sin pelos urticantes. Las hojas usualmente son opuestas pecioladas iguales o desiguales en pares, tres nervaduras principales, borde dentado y las flores en Inflorescencias axilares. Las est&iacute;pulas son membran&aacute;ceas (Ju&aacute;rez 1991). El g&eacute;nero presenta alrededor de 250 especies distribuidas en los tr&oacute;picos, subtr&oacute;picos y raramente en regiones templadas (Friis 1993). En la zona de estudio se encuentran peque&ntilde;os parches de 30 a 40 individuos en distintos estadios de desarrollo. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todo </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se seleccionaron dos grupos representativos de plantas en estado vegetativo de la especie <I>Pilea sp. </I>(Urticaceae) ubicados en dos zonas diferentes dentro del bosque con condiciones de temperatura y humedad similares (Zona 1: Senda de exposici&oacute;n Noroeste, Zona 2: Senda de exposici&oacute;n Sureste). La cobertura promedio del dosel en la primera es del 50% y en la segunda es del 40%, estos valores se los calcul&oacute; mediante un equipo casero an&aacute;logo al densit&oacute;metro de Lemmon. En cada una, se escogieron 10 individuos al azar, con un rango de altura entre 50 y 120 cm, a los que denominamos &ldquo;grandes&rdquo; y 10 individuos en un rango de 0-35 cm, denominados &ldquo;peque&ntilde;os&rdquo;, con promedios de 16 y 9 hojas por individuo, respectivamente. Escogimos las plantas peque&ntilde;as m&aacute;s cercanas a las grandes ya elegidas. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El &Iacute;ndice de Herbivor&iacute;a se evalu&oacute; siguiendo el m&eacute;todo planteado por Dom&iacute;nguez &amp; Dirzo (1995), diferenciando el grado de herbivor&iacute;a en seis rangos (0=hojas sin herbivor&iacute;a; 1=1 &ndash; 5%; 2=6&ndash;12%; 3= 13&ndash;25%; 4=26&ndash;50%; 5=51&ndash;100%). Cada hoja fue asignada a una de estas categor&iacute;as, y el conjunto de hojas por individuo se utiliz&oacute; para definir el &iacute;ndice de herbivor&iacute;a (IH): </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><img src="/img/revistas/reb/v39n2/ecuacion_a02_1.gif" width="139" height="57"></font></P >     <blockquote>       <blockquote>         <p align=""><font size="2" face="Verdana, Arial, Helvetica, sans-serif">donde, X<sub>i</sub>n<sub>i</sub> = n&uacute;mero de hojas con da&ntilde;o en la         categor&iacute;a i    <br>       N = n&uacute;mero total de hojas</font></p>   </blockquote> </blockquote>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para los datos obtenidos realizamos un an&aacute;lisis de varianza de 2 v&iacute;as (Software Statistica) para comparar la variaci&oacute;n en el IH en ambas zonas y entre plantas de diferentes tama&ntilde;os. Para analizar la relaci&oacute;n del IH y la distancia de individuos peque&ntilde;os a grandes se realiz&oacute; una regresi&oacute;n lineal. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El &Iacute;ndice de Herbivor&iacute;a no var&iacute;a entre zonas de distinta exposici&oacute;n, pero es mayor en individuos grandes que en individuos peque&ntilde;os (<a href="#f1">Fig. 1</a>, <a href="#t1">Tabla 1</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v39n2/figura_a02_1.gif" width="573" height="285"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t1"></a><img src="/img/revistas/reb/v39n2/tabla_a02_1.gif" width="571" height="181"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La regresi&oacute;n lineal mostr&oacute; que no existe una relaci&oacute;n significativa entre el grado de herbivor&iacute;a en individuos peque&ntilde;os y la distancia a individuos grandes (Zona 1: R2=0,028, P&lt;0,644; Zona 2 : R2=0,021, P&lt;0,691). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La herbivor&iacute;a afecta de diferente manera a las plantas, dependiendo de factores bi&oacute;ticos y abi&oacute;ticos (Coley &amp; Barone, 1996). Nuestros resultados muestran diferencias significativas en el &iacute;ndice de herbivor&iacute;a con respecto al tama&ntilde;o de las plantas (IH mayor en plantas grandes, menor en plantas peque&ntilde;as). Esta diferencia puede deberse al efecto de la apariencia, estudiado por Feeny (1976), siendo en este caso los individuos grandes el foco de atracci&oacute;n para los herb&iacute;voros. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sin embargo, se sabe que uno de los mecanismos de defensa de las plantas ante la herbivor&iacute;a es la producci&oacute;n de compuestos secundarios t&oacute;xicos (Chew &amp; Rodean 1979). Muchas especies de plantas en bosques tropicales presentan niveles m&aacute;s elevados de metabolitos secundarios en hojas j&oacute;venes que en hojas maduras (Becker 1981, Langenheim et al. 1986, Turner 1995, Coley &amp; Kursar 1996). En nuestro estudio los individuos peque&ntilde;os presentan mayor proporci&oacute;n de hojas j&oacute;venes que los individuos grandes, una mayor presencia de compuestos secundarios t&oacute;xicos podr&iacute;a explicar la diferencia en el grado de herbivor&iacute;a que encontramos. Sin embargo, no se puede asegurar que la diferencia en el grado de herbivor&iacute;a en plantas grandes y peque&ntilde;as pueda deberse a una susceptibilidad diferencial y no as&iacute;, a la diferencia en el tiempo de exposici&oacute;n a los herb&iacute;voros. Una aproximaci&oacute;n experimental permitir&aacute; dilucidar el proceso subyacente al patr&oacute;n encontrado. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">No existe relaci&oacute;n entre el &iacute;ndice de herbivor&iacute;a y la distancia del individuo peque&ntilde;o al de mayor talla. Esto posiblemente se debe a la disposici&oacute;n espacial (parches densos con individuos de distintos tama&ntilde;os) de la especie, propici&aacute;ndose un elevado efecto de la apariencia en individuos grandes (Feeny 1976) y focalizando la herbivor&iacute;a en &eacute;stos y a su vez inhibiendo el efecto de la distancia entre plantas peque&ntilde;as y grandes. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En relaci&oacute;n a la exposici&oacute;n de las plantas (zonas 1 y 2), el &Iacute;ndice de Herbivor&iacute;a no difiere significativamente. Estos valores difieren de lo encontrado por Sagers (1992) para un bosque tropical, quien menciona que las plantas que habitan zonas con mayor intensidad de luz (claros de bosque) son las que presentan valor elevado en el IH. Esta aparente discrepancia es debida en parte, a que la cobertura del dosel en ambas zonas es similar, por lo tanto la intensidad de luz tambi&eacute;n es similar. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabajo presenta patrones preliminares de la herbivor&iacute;a en <I>Pilea</I>, los que requieren de estudios complementarios donde se deber&aacute; tomar muestras m&aacute;s grandes, hacer evaluaciones estacionales y aplicar una aproximaci&oacute;n experimental. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A Ernesto Gianoli quien nos gui&oacute; desde el principio hasta el final de la realizaci&oacute;n del trabajo de campo y en la elaboraci&oacute;n del manuscrito, Luis F. Pacheco por la organizaci&oacute;n y colaboraci&oacute;n a lo largo del 2do Curso de Interacciones Planta-Animal, John D. y Catherine T. McArthur Foundation por el financiamiento del curso, a la Estaci&oacute;n Biol&oacute;gica Tunquini por el apoyo log&iacute;stico en el estudio. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias</b></font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Becker, P. 1981. Potential physical and chemical defenses of <I>Shorea </I>seedling leaves against insects. Malaysian Forestry 2/3: 346-356. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062274&pid=S1605-2528200400100000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Chew, F.S. &amp; Rodman, J.E. 1979. Plant resource for chemical defense. Pp. 271-308. En: Rosenthal, G.A. &amp; D.H. Janzen (eds.). Herbivores, Their Interactions with Secondary Plant Metabolites. Academic Press. Nueva York. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062275&pid=S1605-2528200400100000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Coley, P.D. &amp; T.A. Kursar 1996. Antiherbivore defenses of young tropical leaves: Physiological constraints and ecological tradeoffs. Pp. 305-336. En: Smith, A. P., Mulkey, S. S. &amp; Chazdon, R. L. (eds.) 1996. Tropical Forest Plant Ecophysiology, Chapman &amp; Hall. Nueva York. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062276&pid=S1605-2528200400100000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Coley, P.D. &amp; J.A. Barone 1996. Herbivory and plant defenses in tropical forests. Annual Review Ecological Systematic 27: 305-335. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dom&iacute;nguez, C. A. &amp; R. Dirzo 1995. Plant herbivore interactions in Mesoamerican tropical dry forests. Pp. 304 &ndash; 325. En: S.H. Bullock, E. Medina &amp; H. A. Mooney (eds.) Seasonally Dry Tropical Forests. Cambridge University Press. Cambridge. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Feeny, P. 1976. Plant appearence and chemical defense. Recent Advances in Phytochemestry 10: 1-40. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062279&pid=S1605-2528200400100000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Friis, I. 1993. Urticaceae. Pp. 612-630. En: K. Kubitzki, J. G. Rohwer &amp; V. Bittrich (Eds) The Families and Genera of Vascular Plants. Vol II, Springer-Verlag. Berlin. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062280&pid=S1605-2528200400100000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Harper, J.L.,1969. The role of depredation in vegetational diversity. Brookhaven Symposia in Biology 22: 48-62. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062281&pid=S1605-2528200400100000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hogan, K. &amp; J. L. Machado. 2002. The light environment in tropical forests: biological implications and measurements. Pp. 119-144. En: M. R. Guariguata &amp; G. H. Kattan. (Eds.). Ecolog&iacute;a y Conservaci&oacute;n de Bosques Neotropicales. Agroamerica Press, San Jose, Costa Rica. pp,. 119-144 </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062282&pid=S1605-2528200400100000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Janzen, D. 1970. Herbivores and the number of tree species in tropical forests. The American Naturalist 104: 501-526. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062283&pid=S1605-2528200400100000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ju&aacute;rez, F.1991. Urticaceae Jussieu. Flora del valle de Lerma. Aportes Bot&aacute;nicos de Salta 1(6): 1-16. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062284&pid=S1605-2528200400100000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Karban, R., Maron, J., Felton, G.W., Ervin, G. &amp; H. Eichenseer. 2003. Herbivore damage to sagebrush induces resistance in wild tobacco: evidence for eavesdropping between plants. Oikos 100: 325-330. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Langenheim, J.H., Macedo, C.A., Ross, M.K. &amp; W.H.Stubblebine 1986. Leaf development in the tropical leguminous tree <I>Copaifera </I>in relation to microlepidopteran herbivory. Biochemical Systematics and Ecology 14: 51-59. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Morales, C. (Ed.) 1995. Caminos de Cotapata. Instituto de Ecolog&iacute;a. Artes Gr&aacute;ficas Latina. La Paz. 174 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062287&pid=S1605-2528200400100000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Paniagua-Zambrana, N., C. Maldonado-Goyzueta &amp; C. Chumacero-Moscoso. 2003. Mapa de vegetaci&oacute;n de los alrededores de la Estaci&oacute;n Biol&oacute;gica de Tunquini, Bolivia. Ecolog&iacute;a en Bolivia 38 (1): 15-26. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Roldan, A.I., 1997. El s&iacute;ndrome del bosque vac&iacute;o: Es un fen&oacute;meno recurrente en los bosques neotropicales? Tesis de Magister en Ciencias. Universidad de Chile, Santiago. 63 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062289&pid=S1605-2528200400100000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Rousset, O. &amp; J. Leport 2003. Neighbourhood effects on the risk of an unpalatable plant being grazed. Plant Ecology 165: 197-206. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sagers, C.L. 1992. Plasticity of plant defenses in a neotropical shrub: effects of light and genotype. Bulletin of the Ecological Society of America 73: 332. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062291&pid=S1605-2528200400100000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Turner, IM. 1995. Foliar defenses and habitat adversity of tree woody plant communities in Singapore. Functional Ecology 9: 279-84. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062292&pid=S1605-2528200400100000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Weis 	A.E. &amp; M.R. Berenbaum. 1989. Herbivorous insects and green plants. Pp. 123-162. In: Abrahamson W.G. (Ed.), Plant-animal interactions. McGraw-Hill, New York. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062293&pid=S1605-2528200400100000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Noviembre de 2003 </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Renate Seidel </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Octubre de 2004. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Becker]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Potential physical and chemical defenses of Shorea seedling leaves against insects]]></article-title>
+<source><![CDATA[Malaysian Forestry]]></source>
+<year>1981</year>
+<volume>2/3</volume>
+<page-range>346-356</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chew]]></surname>
+<given-names><![CDATA[F.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodman]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant resource for chemical defense]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Rosenthal]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Janzen]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Herbivores, Their Interactions with Secondary Plant Metabolites]]></source>
+<year>1979</year>
+<page-range>271-308</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coley]]></surname>
+<given-names><![CDATA[P.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kursar]]></surname>
+<given-names><![CDATA[T.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Antiherbivore defenses of young tropical leaves: Physiological constraints and ecological tradeoffs]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[A. P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mulkey]]></surname>
+<given-names><![CDATA[S. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chazdon]]></surname>
+<given-names><![CDATA[R. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Tropical Forest Plant Ecophysiology]]></source>
+<year>1996</year>
+<month>19</month>
+<day>96</day>
+<page-range>305-336</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Chapman & Hall]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coley]]></surname>
+<given-names><![CDATA[P.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Barone]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Herbivory and plant defenses in tropical forests]]></article-title>
+<source><![CDATA[Annual Review Ecological Systematic]]></source>
+<year>1996</year>
+<volume>27</volume>
+<page-range>305-335</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Domínguez]]></surname>
+<given-names><![CDATA[C. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dirzo]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant herbivore interactions in Mesoamerican tropical dry forests]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Bullock]]></surname>
+<given-names><![CDATA[S.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Medina]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mooney]]></surname>
+<given-names><![CDATA[H. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Seasonally Dry Tropical Forests]]></source>
+<year>1995</year>
+<page-range>304 - 325</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Feeny]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant appearence and chemical defense]]></article-title>
+<source><![CDATA[Recent Advances in Phytochemestry]]></source>
+<year>1976</year>
+<volume>10</volume>
+<page-range>1-40</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Friis]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Urticaceae]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Kubitzki]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rohwer]]></surname>
+<given-names><![CDATA[J. G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bittrich]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Families and Genera of Vascular Plants]]></source>
+<year>1993</year>
+<volume>II</volume>
+<page-range>612-630</page-range><publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer-Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Harper]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The role of depredation in vegetational diversity]]></article-title>
+<source><![CDATA[Brookhaven Symposia in Biology]]></source>
+<year>1969</year>
+<volume>22</volume>
+<page-range>48-62</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hogan]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Machado]]></surname>
+<given-names><![CDATA[J. L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The light environment in tropical forests: biological implications and measurements]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Guariguata]]></surname>
+<given-names><![CDATA[M. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kattan]]></surname>
+<given-names><![CDATA[G. H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecología y Conservación de Bosques Neotropicales]]></source>
+<year>2002</year>
+<page-range>119-144</page-range><page-range>119-144</page-range><publisher-loc><![CDATA[San Jose ]]></publisher-loc>
+<publisher-name><![CDATA[Agroamerica Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Janzen]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Herbivores and the number of tree species in tropical forests]]></article-title>
+<source><![CDATA[The American Naturalist]]></source>
+<year>1970</year>
+<volume>104</volume>
+<page-range>501-526</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Juárez]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Urticaceae Jussieu]]></article-title>
+<source><![CDATA[Flora del valle de Lerma_ Aportes Botánicos de Salta]]></source>
+<year>1991</year>
+<volume>1</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>1-16</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Karban]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maron]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Felton]]></surname>
+<given-names><![CDATA[G.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ervin]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eichenseer]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Herbivore damage to sagebrush induces resistance in wild tobacco: evidence for eavesdropping between plants]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2003</year>
+<volume>100</volume>
+<page-range>325-330</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Langenheim]]></surname>
+<given-names><![CDATA[J.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Macedo]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ross]]></surname>
+<given-names><![CDATA[M.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stubblebine]]></surname>
+<given-names><![CDATA[W.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Leaf development in the tropical leguminous tree Copaifera in relation to microlepidopteran herbivory]]></article-title>
+<source><![CDATA[Biochemical Systematics and Ecology]]></source>
+<year>1986</year>
+<volume>14</volume>
+<page-range>51-59</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Morales]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Caminos de Cotapata]]></source>
+<year>1995</year>
+<page-range>174</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Artes Gráficas Latina]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Paniagua-Zambrana]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado-Goyzueta]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chumacero-Moscoso]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Mapa de vegetación de los alrededores de la Estación Biológica de Tunquini, Bolivia]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2003</year>
+<volume>38</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>15-26</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Roldan]]></surname>
+<given-names><![CDATA[A.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El síndrome del bosque vacío: Es un fenómeno recurrente en los bosques neotropicales?]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rousset]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leport]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Neighbourhood effects on the risk of an unpalatable plant being grazed]]></article-title>
+<source><![CDATA[Plant Ecology]]></source>
+<year>2003</year>
+<volume>165</volume>
+<page-range>197-206</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sagers]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plasticity of plant defenses in a neotropical shrub: effects of light and genotype]]></article-title>
+<source><![CDATA[Bulletin of the Ecological Society of America]]></source>
+<year>1992</year>
+<volume>73</volume>
+<page-range>332</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Turner]]></surname>
+<given-names><![CDATA[IM.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Foliar defenses and habitat adversity of tree woody plant communities in Singapore]]></article-title>
+<source><![CDATA[Functional Ecology]]></source>
+<year>1995</year>
+<volume>9</volume>
+<page-range>279-84</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Weis]]></surname>
+<given-names><![CDATA[A.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Berenbaum]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Herbivorous insects and green plants]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Abrahamson]]></surname>
+<given-names><![CDATA[W.G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Plant-animal interactions]]></source>
+<year>1989</year>
+<page-range>123-162</page-range><publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[McGraw-Hill]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

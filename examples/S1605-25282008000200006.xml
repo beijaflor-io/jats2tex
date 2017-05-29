@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282008000200006</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[seed germination of Corryocactus melanotrichus (K. schum.) Britton & Rose (Cactaceae): an endemic columnar cactus of the Bolivian Andes]]></article-title>
+<article-title xml:lang="es"><![CDATA[Germinación de semillas de Corryocactus melanotrichus (K. schum.) Britton & Rose (Cactaceae): un cactus columnar endémico de los Andes bolivianos]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Larrea-Alcázar]]></surname>
+<given-names><![CDATA[Daniel M.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[Ramiro Pablo]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología Centro de Análisis Espacial]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>08</month>
+<year>2008</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>08</month>
+<year>2008</year>
+</pub-date>
+<volume>43</volume>
+<numero>2</numero>
+<fpage>135</fpage>
+<lpage>140</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282008000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282008000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282008000200006&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><body><![CDATA[ <p align=right><font size="2"><b><font face="Verdana">Original</font></b></font></p>     <p align=center><font size="2" face="Verdana"><b><font size="4">seed germination of </font></b><font size="4"><i>Corryocactus melanotrichus </i><b>(K. schum.)    <br>   Britton &amp; Rose (Cactaceae):   an endemic columnar cactus    <br>   of the Bolivian Andes</b></font></font></p>     <p align=center><font size="4" face="Verdana"><b>Germinación de semillas de <i>Corryocactus melanotrichus </i>(K. schum.)    <br>   Britton &amp; Rose (Cactaceae):   un cactus columnar endémico    <br>   de los Andes bolivianos</b></font></p>     <p align=center>&nbsp;</p>     <p align=center><font size="3" face="Verdana"><b>Daniel M. Larrea-Alcázar &amp; Ramiro Pablo López</b></font></p>     <p align=center>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align=center><font size="2" face="Verdana">Centro de Análisis Espacial,   Instituto de Ecología, Universidad Mayor de San Andrés,    <br>   PO Box   10077 - Correo Central, La Paz, Bolivia    <br>   e-mail:   larrea.alcazar@gmail.com *corresponding author</font></p>     <p align=center>&nbsp;</p> <hr>     <p><font size="2" face="Verdana">It has been documented that most   columnar cactus species have anatomical features for vertebrate dispersal (Soriano &amp; Ruíz 2002, Godínez-Álvarez <i>et al. </i>2003). Frugivorous birds are known   consumers of cactus fruits   in different semi-arid zones of the Neotropics (Soriano <i>et al. </i>1999, Soriano &amp; Ruíz 2002). Although the recruitment pattern of   columnar cacti depends strongly on seed dispersal by animals,   our knowledge of the effect of seed ingestion by dispersers on the germination   is still unknown for most Andean columnar cactus species. Different studies   have indicated that seed germination in some cacti increases when the seeds are   ingested by bats and birds (Olin <i>et al. </i>1989, Naranjo <i>et al. </i>2003), when soaked in acid solutions or when imbibed for   different periods (McDonough 1964, Godínez-Álvarez &amp; Valiente-Banuet 1998). These results suggest   that seed treatments provided by dispersers   may play an important role in the establishment phase of cacti (Godínez-Álvarez <i>et al. </i>2003).</font></p>     <p><font size="2" face="Verdana">Dormancy in plants is a process where physiological activities cease in   a reversible manner, even when conditions of moisture, air and temperature are   suitable for germination. For cactus seeds, innate and enforced dormancy have been found (see Godínez-Álvarez <i>et al. </i>2003, Drezner &amp; Lazarus 2008). Innate dormancy (or primary dormancy)   prevents seed germination on the mother plant and for a time after dispersal. This   is produced by the presence of endogenous inhibitory compounds in the testa. Several works have demonstrated that some cactus   seeds need to be washed or imbibed for certain periods of time after sowing to   get high germination rates (see Rojas-Aréchiga &amp; Vasquez-Yanes 2000), meaning that in natural conditions the seeds may need long periods of   moisture to wash out soluble germination inhibitors from their testa. However, information concerning the dormancy behaviour of Andean cactus is still limited (Naranjo <i>et al. </i>2003).</font></p>     <p><font size="2" face="Verdana"><i>Corryocactus melanotrichus </i>(K. Schum.) Britton &amp; Rose is an endemic columnar cactus that grows in western Bolivia   (Hunt <i>et al. </i>2006). Flowering and fruiting of <i>C. melanotrichus </i>occurs between October and April. Their   mature individuals produce about 12-14 fruits / cactus (1-51; min-max; n=18) and their fruits may contain about   1,850 seeds / fruit (681-3,509; n= 14). Size of seeds fluctuates from 1.0 to 1.5 mm in long. Frugivorous birds, such as <i>Saltator aurantiirostris </i>(Viellot) (Cardinalidae),   have been observed consuming fruits of mature cacti (D.M. Larrea-Alcázar, pers. obs. ). Field essays suggest that natural regeneration of <i>C. melanotrichus </i>occurs via seed germination (A. Terán, unpublished data) as well as via vegetative propagation.   The habitat where this</font></p>     <p><font size="2" face="Verdana">species grows is   threatened by habitat loss and degradation due to wood extraction and cattle overgrazing (Beck &amp; García 1991). Progress in our knowledge   about the reproductive biology of this endemic cactus   is crucial to design management and   reintroduction programs of this Andean cactus.</font></p>     <p><font size="2" face="Verdana">The aim of our study was to ascertain threshold conditions for seed germination of <i>C. melanotrichus</i> and   relate the response obtained to a   presumed effect of seed digestion by potential flying dispersers. Specifically,   we simulated the passage of seeds through the gizzards when they are ingested by birds (Olin <i>et al. </i>1989)   and the acid conditions found in the digestive tract of birds and mammals (Howell 1974, Naranjo <i>et al. </i>2003) and   established the need of the seeds to be washed or imbibed for increase   their germination. We hypothesized that the pass through the digestive tract of   their vertebrate dispersers increases   germination velocity and capacity of the seeds.</font></p>     <p><font size="2" face="Verdana">Seeds were collected in April 2007 in the Mecapaca dry valley, located approximately 20 km   southwest of the city of La Paz, Bolivia (16<sup>º</sup>40’ S, 68<sup>º</sup>00’ W). This valley is located at   2900 m a.s.l. It has a precipitation of 490 mm / year, which falls mainly in summer, and   a mean annual temperature of around 17<sup>º</sup>C. In the past, the flora of   this valley was composed of <i>Schinopsis</i> Engler and <i>Schinus</i> L. (Anacardiaceae),   species of <i>Duranta</i> L. and <i>Citharexyllum</i> L. (Verbenaceae), <i>Jacaranda </i>Jussieu and <i>Tecoma</i> Jussieu (Bignoniaceae),   and species of <i>Caesalpinia</i> L. and <i>Prosopis</i> L.. Today, they are dominated, in the less disturbed sites (which are indeed very few), by <i>Prosopis</i> <i>flexuosa</i> DC. (Leg-Mim), <i>Pluchea fastigiata </i>Griseb., <i>Baccharis boliviensis </i>(Wedd.) Cabrera and <i>Verbesina cinerea </i>Rusby (Asteraceae), as well as by <i>Dodonaea viscosa   (L.)</i> Jacq. (Sapindaceae) (Beck &amp; García 1991). Seeds were obtained   from 25 mature fruits randomly   collected among 18 individuals. The   collected fruits were dried at room temperature and seeds were separated   by dissection and washed with tap water toremove any remaining pulp. Seeds were dried on absorbent paper before   placing them into Petri dishes for storage   at room temperature (19 ± 3<sup>º</sup>C)   in a fresh and dry place until experiments were carried out.</font></p>     ]]></body>
+<body><![CDATA[<p><font size="2" face="Verdana">Three   experiments were conducted to study germination   capacity: 1) <i>acid immersion treatment: </i>seeds were immersed in hydrochloric acid   solutions of pH 1, 2 and 4 for 1 h. After treatment,   seeds were washed with tap water and sown in Petri dishes; 2) <i>imbibition or water treatment: </i>seeds   were placed in a small glass container with tap water for 12, 24 and 48 h, and   then sown in Petri dishes; 3) <i>mechanical scarification   treatment: </i>seeds were rubbed   with sandpaper (WS-Flex 18, Hermes   P600) until the coat was almost cracked. Fifty seeds per dish were used and four replicates were established for   each treatment. A control treatment consisting of fifty seeds sown in Petri   dishes with 1% agar was also defined. In all cases, seeds were disinfected by   immersion in 5% sodium hypochlorite for 3-4   min and sown in Petri dishes with   agar at 1% in distilled water. All   germination experiments were performed at   laboratory room temperatures (16–25 <sup>º</sup>C) and natural daylight conditions. Seeds were counted 18   and 31 days after the experiment started. The criterion used to consider   a seed germinated was radicle emergence from the testa.</font></p>     <p><font size="2" face="Verdana">Data were normalized by an arcsine   transformation. Two separate one-way ANOVAs   followed by Tukey HSD tests were carried out   in order to compare the effect of acid immersion and imbibition treatment on seed germination with the control treatment, respectively. A t-test was used to compare the effect   of mechanical scarification treatment with   the control treatment. The null hypothesis considered an equal number of   germinated seeds between the treatment and   control. The package Statistica (version 6.0) was used for all analyses (StatSoft Inc. 2001).</font></p>     <p><font size="2" face="Verdana">Two parameters were taken in   consideration: (1)   germination capacity (GC), which refers to the percentage of seeds capable of germinating</font></p>     <p><font size="2" face="Verdana">under experimental conditions <i>(sensu </i>Debussche 1985) and indicates the success of germination under a particular treatment, and (2) minimum imbibition time (T<sub>mi</sub>), which is the minimum time required for the seeds to start germinating   once they have absorbed the necessary amount of water <i>(sensu </i>Debussche 1985).</font></p>     <p><font size="2" face="Verdana"><i>Acid   immersion treatment - </i>Seed   germination was a rapid   process that occurred within the first 4-5 days after the experiment started. After 18- days, immersion in hydrochloric acid   solutions of different pH significantly increased seed   germination in comparison with the control treatment <sup>(<i>F(</i></sup><i>3,16) </i>= 8.25; <i>P </i>= 0.03). Tukey HSD test differentiated the pH 1 and 4 acid immersion treatments from control trial (Table 1). However, seed germination did not show any significant differences between acid immersion and control treatments   after 31-days of observations <i>(F(3,16) </i>= 0.86; <i>P </i>= 0.49; Table 1).</font></p>     <p><font size="2" face="Verdana"><i>Imbibition or   water treatment - </i>Seed   germination occurred within the first 5 to 6 days after   the experiment started. After 18-days,   immersion of seeds in tap water for different periods significantly   increased seed germination compared to the   control treatment <sup>(<i>F(</i></sup><i>3,16) </i>= 25.53; <i>P </i>= 0.001). Tukey HSD test clearly differentiated the imbibition treatments from the control   trial (Table 2). After   31-days, seed germination did not show any significant   differences between imbibition and control treatments <i>(F(3,16) </i>= 1.86; <i>P </i>= 0.39; Table 2).</font></p>     <p><font size="2" face="Verdana"><i>Mechanical scarification treatment - </i>Seed germination occurred within the first 6 to 8 days after the   experiment started. After 18- days, mechanical scarification increased seed germination by more than 78% when compared with   the control treatment <i>(t </i>= 4.88; <i>P </i>= 0.003; Table 3). In   contrast, after 31-days the seed germination   did not show differences between the scarification treatment and control   trial <i>(t </i>= -0.12; <i>P </i>= 0.91; Table 3).</font></p>     <p><font size="2" face="Verdana">Seeds germinated rapidly within the first week and increased significantly their germination percentage   when immersed in acid solutions or when were rubbed withsandpaper. These results suggest that ingestion of seeds by dispersers can affect germination. In   fact, after 18-days all treatments increased germination capacity from 28.5%   (control) to 45–65% (Table 1) and decreased <sup>T</sup>mi (from 8 to 4–6   days). Recent studies on seed germination in columnar cactus species   have shown that the seed germination of <i>Pachycereus hollianus </i>(Weber) Buxb., <i>P. pringlei </i>(S. Wats.) Britton &amp; Rose and <i>Stenocereus gummosus </i>(Engelm.) Gibson &amp; Horak increased after seeds were soaked in acid solutions (Nolasco <i>et al. </i>1996, Godínez-Álvarez &amp; Valiente-Banuet 1998). In addition, seed germination of <i>Stenocereus griseus </i>(Haw.)   F. Buxb. and <i>Cereus repandus (L.) </i>Backeb. increased when they were ingested   by bats and birds (Naranjo <i>et al. </i>2003). This   shows that one of the most important consequences of the transit through the disperser’s digestive system is a decrease in the time necessary for   the initiation of germination and an   increase in its speed. Field observations in the Mecapaca dry valley have shown that fruits of <i>C. melanotrichus </i>are frequently consumed by frugivorous birds. Thus, the results presented here point to the fact that, together with transportation and seed   deposition in safe sites, which were not evaluated   in this work, the seed consumers may influence the minimum imbibition time (Tmi) instead of germination capacity (GC). With this information,   the role of the frugivorous birds that contribute in the dispersal process of this Andean   cactus could be evaluated reliably.</font></p>     <p><font size="2" face="Verdana">Imbibition of seeds for different periods enhanced seed germination. These results are in   contrast with those reported by Godínez­Álvarez &amp; Valiente-Banuet (1998) in which the seeds of <i>Neobuxbaumia tetetzo </i>(Coult.) Backeb. and <i>P. hollianus </i>imbibed   in tap water for different periods of time did not increase their seed germination. In fact, the germination capacity of <i>N. tetetzo </i>decreased   significantly when their seeds were imbibed for 24 and 48 h. Here we   recorded that imbibition of <i>C. melanotrichus </i>seeds for periods of 12, 24 and 48 h favours germination at least during the first 18-days</font></p>     <p><font size="2" face="Verdana"><b>Table 1.</b> Germination   capacity (GC) and minimum imbibition time <sub>(Tmi) </sub>of <i>Corryocactus</i> <i>melanotrichus</i> (Cactaceae) seeds germinated under different acid immersion   treatments at pH 1, 2 and 4. Values   shown are mean (%) ± SD of germinated seeds for each treatment. *: P &lt; 0.05; ns: non signifcant.   Letters indicate signifcant differences according to Tukey HSD test. Capacidad de germinación (CG) y tiempo mínimo   de imbibición (Tmi)   de semillas de <i>Corryocactus melanotrichus </i>(Cactaceae)   germinadas bajo diferentes tratamientos de   inmersión ácida a pH 1, 2 y 4. Los valores mostrados   son la media (%) ± DE de las semillas germinadas para cada tratamiento.   * P &lt; 0,05; ns: no signifcativo.   Las letras indican diferencias signifcativas de   acuerdo a la prueba de Tukey HSD.</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="2" face="Verdana"><img width=567 height=120 src="/img/revistas/reb/v43n2/v43n2a6_006.gif" v:shapes="_x0000_i1025"> </font></p>     <p align="left"><font size="2" face="Verdana"><br clear=all> </font><font size="2" face="Verdana">of germination. This suggests the seeds of this cactus   could germinate under different amounts of water <i>(sensu </i>Rojas-Aréchiga &amp; Vasquez-Yanes 2000). This may allow them to use   variable amounts of rainfall produced as episodic   storms which characterize the tropical semi-deserts.This topic may be considered of key importance   in semi-desert habitats where water   is a limiting ecological factor. In fact, seeds of <i>C. melanotrichus </i>on the soil surface in the Mecapaca valley are subjected to a long period of drought from April to October (5.5-28.5 mm /   month; min-max; data proportioned by Servicio Nacional de Metereología e Hidrología de Bolivia, SENAMI) and, thus, they should use   the available water during the rainy season from November to March (35.1-162.9   mm/ month). On the other hand, the results also show that the <i>C. melanotrichus </i>seeds do not present induced dormancy   mechanisms (or secondary dormancy). The   highest germination capacity percentages found in all treatments supported this assertion. This suggests that the <i>C. melanotrichus </i>seeds may quickly germinate and, hence,   they do not form part of the seed bank. In fact, the persistent soil seed bank of the</font></p>     <p><font size="2" face="Verdana">Mecapaca valley is   composed by other cactus species,   such as, <i>Echinopsis bridgesii </i>Salm-Dyck, <i>Austrocylindropuntia shaferi </i>(Britton &amp; Rose) Backeb. and <i>Oreocereus pseudofossulatus (D.R. </i>Hunt.) (Butrón 2005). This information may be applied to propagation projects that would support conservation programs of this Andean cactus.</font></p>     <p><font size="2" face="Verdana">In summary, our results show that germination of <i>C. melanotrichus </i>seeds are favoured by watering and ingestion by animals. A quick germination may be   highly advantageous as it allows the seeds   to escape ground-active seed predators. Opportunistic seed-eating ants of the genus <i>Pheidole</i> Westwood, <i>Forelius</i> Emery   and <i>Solenopsis</i> Westwood have been   recorded in the Mecapaca valley (D.M. Larrea-Alcázar, unpublished data). These ants could   reduce the presence of the seeds at the floor   level affecting the recruitment process of this cactus. This topic was not evaluated in this work and   should be part of a future research. Alternatively,   four cactus species are usually found   in the Mecapaca valley: the columnar <i>C. melanotrichus, </i>the globose <i>E. bridgesii, </i>the platyopuntioid <i>Opuntia sulphurea</i></font></p>     <p><font size="2" face="Verdana"><br clear=all> </font></p>     <p><font size="2" face="Verdana"><b>Table 2.</b> Germination   capacity (GC) and minimum imbibition time <sub>(Tmi) </sub>of <i>Corryocactus</i> <i>melanotrichus</i> (Cactaceae) seeds germinated under different imbibition treatments at 12, 24 and 48 h. Values shown are mean (%) ± SD of germinated   seeds for each treatment. **: P &lt; 0.01; ns: non signifcant.   Letters indicate signifcant differences according to Tukey HSD test. Capacidad de germinación (CG) y tiempo mínimo de   imbibición <sub>(Tmi) </sub>de semillas de <i>Corryocactus melanotrichus </i>(Cactaceae) germinadas bajo diferentes   tratamientos de imbibición por 12, 24 y 48 horas. Los valores mostrados son la   media (%) ± DE de las semillas germinadas para cada tratamiento. ** P &lt;   0,01; ns: no signifcativo.   Las letras indican diferencias signifcativas de   acuerdo a la prueba de Tukey HSD.</font></p>     <p align="center"><font size="2" face="Verdana"><b><img width=567 height=133 src="/img/revistas/reb/v43n2/v43n2a6_009.gif" v:shapes="_x0000_i1026"> </b></font></p>     <p align="left"><font size="2" face="Verdana"><b>Table 3.</b> Effect of   mechanical scarifcation on germination capacity (GC)   and minimum imbibition time <sub>(Tmi) </sub>of <i>Corryocactus melanotrichus </i>(Cactaceae)   germinated under a mechanical scarifcation treatment. Values shown are mean (%) ± SD of germinated seeds for each case. **: P &lt; 0.01; ns: non signifcant. Capacidad de   germinación (CG) y tiempo mínimo de imbibición <sub>(Tmi) </sub>de semillas de <i>Corryocactus melanotrichus </i>(Cactaceae)   germinadas bajo un   tratamiento de escarifcación mecánica. Los valores   mostrados son la media (%) ± DE de las semillas germinadas para cada   tratamiento. ** P &lt; 0,01; ns: no signifcativo.</font></p>     <p align="center"><font size="2" face="Verdana"><b><img width=511 height=178 src="/img/revistas/reb/v43n2/v43n2a6_011.gif" v:shapes="_x0000_i1027"> </b></font></p>     <p align="left"><font size="2" face="Verdana"><br clear=all> </font><font size="2" face="Verdana">(Salm-Dyck) Gillies, and the cylindropuntioid <i>A. shaferi </i>(López &amp; Valdivia 2007). An empirical approach   documenting germination capacity in four   cactus species that grow in this Andean semi-desert may help us to   evaluate the importance of dispersal by animals for the natural regeneration of   these cacti and the structure and   functioning of the xerophyllous plant communities where they occur.</font></p>     ]]></body>
+<body><![CDATA[<p align=center><font size="2" face="Verdana"><b>Acknowledgments</b></font></p>     <p><font size="2" face="Verdana">The authors thank the support given by the Laboratorio de Suelos (C. Ruíz &amp; S. Colque), Instituto de Ecología, Universidad Mayor de San Andrés in La Paz. Two anonymous reviewers provided valuable   insight into the manuscript. Pamela Canaviri helped   us with the preparation of hydrochloric acid   immersion </font><font size="2" face="Verdana">experiments.   This research was partially supported by the International Foundation for Science (IFS, Grant D4244-1).</font></p>     <p align=center>&nbsp;</p>     <p align=center><font size="2" face="Verdana"><b>References</b></font></p>     <!-- ref --><p><font size="2" face="Verdana">1.- Beck, S.   &amp; E. García. 1991. Flora y vegetación en los diferentes pisos altitudinales.   pp. 65-108 En: Forno,   E. &amp; M. Baudoin (eds.).   Historia Natural de un Valle en Los Andes: La Paz. Instituto de Ecología, Universidad Mayor de   San Andrés, La Paz.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070556&pid=S1605-2528200800020000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">2.- Butrón,   J.C. 2005. Variación estacional en composición   y abundancia del banco de semillas   del suelo de dos microhábitats en el valle   seco de Mecapaca (La Paz-Bolivia). Tesis de licenciatura en biología, Universidad Mayor   de San Andrés, La Paz. 53 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070557&pid=S1605-2528200800020000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">3.- Debussche, M.   1985. Rôle des oiseaux disséminateurs dans la germination des graines de plantes à fruits charnus en région méditerraneénne. Oecologia Plantarum 6: 365–374.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070558&pid=S1605-2528200800020000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">4.- Drezner, T.D.   &amp; B.L. Lazarus. 2008. The population dynamics of columnar and other cacti: a review. Geography Compass 2: 1-29.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070559&pid=S1605-2528200800020000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">5.- Godínez-Álvarez, H. &amp; A. Valiente-Banuet. 1998. Germination and early seedling growth of Tehuacan valley cacti species: the role of soils and seed ingestion by dispersers on   seedling growth. Journal of Arid Environments 39: 21-31.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070560&pid=S1605-2528200800020000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">6.- Godínez-Álvarez, H., T. Valverde &amp; P. Ortega-Baes. 2003. Demographic trends in the Cactaceae. The Botanical Review 69:   173-203.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070561&pid=S1605-2528200800020000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">7.- Hunt, D.R, N.P.   Taylor &amp; G. Charles. 2006. The new cactus lexicon. Volumes I. International Cactaceae Systematics Group. DH Books. Milbourne Port. 373 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070562&pid=S1605-2528200800020000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">8.- Howell, D.J. 1974. Bats and pollen: physiological aspects of the syndrome of chiropterophily. Comparative Biochemistry and Physiology 48: 263-276.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070563&pid=S1605-2528200800020000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">9.- López, R.P.   &amp; S. Valdivia. 2007. The importance of shrub   cover for four cactus species <u>dif</u>fering </font><font size="2" face="Verdana">in growth form in   an Andean semi-desert. Journal of Vegetation Science 18: 263-270.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070564&pid=S1605-2528200800020000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">10.- McDonough, W.T. 1964. Germination responses of <i>Carnegiea gigantea </i>and <i>Lemaireocereus</i> <i>thurberi.</i> Ecology   45: 155-159.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070565&pid=S1605-2528200800020000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">11.- Naranjo, M.E., C. Rengifo &amp; P.J. Soriano. 2003. Effect of ingestion by bats and birds on seed germination of <i>Stenocereus griseus </i>and <i>Subpilocereus repandus </i>(Cactaceae).   Journal of Tropical Ecology 19: 19-25.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070566&pid=S1605-2528200800020000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">12.- Nolasco, H., F.Vega-Villasante, H.L. Romero­Schmidt &amp; A. Díaz-Rondero. 1996. The effects of salinity, acidity,   light and temperature on the germination of cardón <i>(Pachycereus pringlei </i>(S. Wats.) Britton &amp; Rose, <i>Cactaceae).</i> Journal of Arid Environments 33: 87-94.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070567&pid=S1605-2528200800020000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">13.- Olin, G.,   S.M. Alcorn &amp; J.M. Alcorn. 1989. Dispersal of viable saguaro seeds by   white-winged doves <i>(Zenaida asiatica). </i>Southwestern Naturalist 34: 282-284.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070568&pid=S1605-2528200800020000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">14.- Rojas-Aréchiga, M. &amp; C. Vázquez-Yanes. 2000. Cactus seed germination. Journal of Arid Environments 44:   85-104.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070569&pid=S1605-2528200800020000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">15.- Soriano, P.J., M.E. Naranjo, C. Rengifo, M. Figuera, M. Rondón &amp; L. Ruíz.   1999. Aves consumidoras de frutos de cactáceas columnares del enclave semiárido de Lagunillas, Mérida,   Venezuela. Ecotropicos 12: 91-100.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070570&pid=S1605-2528200800020000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">16.- Soriano, P.J. &amp; A. Ruíz. 2002. The   role of bats and birds in   the reproduction of columnar cacti in the Northern   Andes. En: Evolution, ecology and   conservation of columnar cacti and   their mutualists (eds. Fleming T.H. &amp; A. Valiente-Banuet).   Arizona University Press, Tucson.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070571&pid=S1605-2528200800020000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font size="2" face="Verdana">17.- Statsoft, Inc. (2001). STATISTICA (data analysis software   system), version 6. www.statsoft. com.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=070572&pid=S1605-2528200800020000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font size="2" face="Verdana">Nota   recibida en: Junio de 2008. </font></p>     <p><font size="2" face="Verdana">Manejado por: Luis F.   Aguirre. </font></p>     <p><font size="2" face="Verdana">Aceptado   en: Agosto de 2008.</font></p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>1</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Flora y vegetación en los diferentes pisos altitudinales]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes]]></source>
+<year>1991</year>
+<page-range>65-108</page-range><publisher-name><![CDATA[Instituto de Ecología]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>2</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Butrón]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Variación estacional en composición y abundancia del banco de semillas del suelo de dos microhábitats en el valle seco de Mecapaca (La Paz-Bolivia)]]></source>
+<year>2005</year>
+<page-range>53</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<label>3</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Debussche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="pt"><![CDATA[Rôle des oiseaux disséminateurs dans la germination des graines de plantes à fruits charnus en région méditerraneénne]]></article-title>
+<source><![CDATA[Oecologia Plantarum]]></source>
+<year>1985</year>
+<volume>6</volume>
+<page-range>365-374</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<label>4</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Drezner]]></surname>
+<given-names><![CDATA[T.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lazarus]]></surname>
+<given-names><![CDATA[B.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The population dynamics of columnar and other cacti: a review]]></article-title>
+<source><![CDATA[Geography Compass]]></source>
+<year>2008</year>
+<volume>2</volume>
+<page-range>1-29</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<label>5</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Godínez-Álvarez]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valiente-Banuet]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Germination and early seedling growth of Tehuacan valley cacti species: the role of soils and seed ingestion by dispersers on seedling growth]]></article-title>
+<source><![CDATA[Journal of Arid Environments]]></source>
+<year>1998</year>
+<volume>39</volume>
+<page-range>21-31</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<label>6</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Godínez-Álvarez]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valverde]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ortega-Baes]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Demographic trends in the Cactaceae]]></article-title>
+<source><![CDATA[The Botanical Review]]></source>
+<year>2003</year>
+<volume>69</volume>
+<page-range>173-203</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<label>7</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hunt]]></surname>
+<given-names><![CDATA[D.R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taylor]]></surname>
+<given-names><![CDATA[N.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Charles]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The new cactus lexicon. Volumes I. International Cactaceae Systematics Group. DH Books.]]></source>
+<year>2006</year>
+<edition>Milbourne Port.</edition>
+<page-range>373</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<label>8</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Howell]]></surname>
+<given-names><![CDATA[D.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bats and pollen: physiological aspects of the syndrome of chiropterophily]]></article-title>
+<source><![CDATA[Comparative Biochemistry and Physiology]]></source>
+<year>1974</year>
+<volume>48</volume>
+<page-range>263-276</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<label>9</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valdivia]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The importance of shrub cover for four cactus species differing in growth form in an Andean semi-desert]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2007</year>
+<volume>18</volume>
+<page-range>263-270</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<label>10</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McDonough]]></surname>
+<given-names><![CDATA[W.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Germination responses of Carnegiea gigantea and Lemaireocereus thurberi.]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1964</year>
+<volume>45</volume>
+<page-range>155-159</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<label>11</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Naranjo]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rengifo]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soriano]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effect of ingestion by bats and birds on seed germination of Stenocereus griseus and Subpilocereus repandus (Cactaceae)]]></article-title>
+<source><![CDATA[Journal of Tropical Ecology]]></source>
+<year>2003</year>
+<volume>19</volume>
+<page-range>19-25</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<label>12</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nolasco]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vega-Villasante]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Romero­Schmidt]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Díaz-Rondero.]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The effects of salinity, acidity, light and temperature on the germination of cardón (Pachycereus pringlei (S. Wats.) Britton & Rose, Cactaceae).]]></article-title>
+<source><![CDATA[Journal of Arid Environments]]></source>
+<year>1996</year>
+<volume>33</volume>
+<page-range>87-94</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<label>13</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Olin]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alcorn]]></surname>
+<given-names><![CDATA[S.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alcorn.]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Dispersal of viable saguaro seeds by white-winged doves (Zenaida asiatica).]]></article-title>
+<source><![CDATA[Southwestern Naturalist]]></source>
+<year>1989</year>
+<volume>34</volume>
+<page-range>282-284</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<label>14</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rojas-Aréchiga]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vázquez-Yanes.]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cactus seed germination.]]></article-title>
+<source><![CDATA[Journal of Arid Environments]]></source>
+<year>2000</year>
+<volume>44</volume>
+<page-range>85-104</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<label>15</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soriano]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Naranjo]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rengifo]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Figuera]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rondón]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ruíz]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Aves consumidoras de frutos de cactáceas columnares del enclave semiárido de Lagunillas, Mérida, Venezuela.]]></article-title>
+<source><![CDATA[Ecotropicos]]></source>
+<year>1999</year>
+<volume>12</volume>
+<page-range>91-100</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<label>16</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soriano]]></surname>
+<given-names><![CDATA[P.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ruíz]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The role of bats and birds in the reproduction of columnar cacti in the Northern Andes.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Fleming]]></surname>
+<given-names><![CDATA[T.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valiente-Banuet]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<collab>Evolution, ecology and conservation of columnar cacti and their mutualists</collab>
+<source><![CDATA[]]></source>
+<year>2002</year>
+<publisher-loc><![CDATA[Tucson ]]></publisher-loc>
+<publisher-name><![CDATA[Arizona University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>17</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Statsoft]]></surname>
+<given-names><![CDATA[Inc.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[STATISTICA (data analysis software system), version 6.]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

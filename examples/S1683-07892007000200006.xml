@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892007000200006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Evaluación del compostaje de residuos de dos agroindustrias palmiteras del Trópico de Cochabamba en silos hiperventilados]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Yañez Q.]]></surname>
+<given-names><![CDATA[Paola]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Levy M.]]></surname>
+<given-names><![CDATA[Alberto]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Azero A.]]></surname>
+<given-names><![CDATA[Mauricio]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A">
+<institution><![CDATA[,  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<volume>3</volume>
+<numero>4</numero>
+<fpage>720</fpage>
+<lpage>735</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892007000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892007000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892007000200006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El procesamiento de palmito en las agroindustrias Bolhispania y Fabopal genera un promedio de 9.483 t año-1 de residuos sólidos orgánicos, los cuales bajo el sistema actual de disposición final a cielo abierto, provocan impactos negativos sobre el medio ambiente. Un equipo técnico propuso el compostaje de estos residuos a través de un proceso de alta temperatura, denominado compostaje en silos hiperventilados (CSH), aplicado por primera vez en Bolivia. En este contexto, se evaluó la etapa de descomposición rápida del proceso en los aspectos técnico y ambiental. Esta evaluación reveló varios aspectos positivos que la posicionan como una opción ventajosa; entre otras, permitió obtener un producto casi estable en un tiempo considerablemente menor al del compostaje convencional, no requirió de sistemas de volteo o aireación forzada, no generó lixiviado alguno y rindió un producto que cae dentro de los parámetros de calidad para su comercialización. Por otra parte, la evaluación identificó la necesidad de estandarizar el proceso de CSH, validar el periodo de descomposición y la fase de maduración del producto.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Compostaje]]></kwd>
+<kwd lng="es"><![CDATA[residuos de palmito]]></kwd>
+<kwd lng="es"><![CDATA[silos hiperventilados]]></kwd>
+<kwd lng="es"><![CDATA[Trópico de Cochabamba]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center"><strong><font size="4" face="Verdana, Arial, Helvetica, sans-serif">Evaluación del compostaje de residuos de dos agroindustrias palmiteras del Trópico de Cochabamba en silos hiperventilados</font></strong></p>      <p align="center"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Paola Yañez Q., Alberto Levy M., Mauricio Azero A. </font></strong></p>      <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Departamento de Ciencias Exactas e Ingeniería, Universidad Católica Boliviana    <br> Av. General Galindo s/n, Cochabamba, Bolivia</font></p>      <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">e-mail:  <a href="mailto:paola_yanezq@hotmail.com">paola_yanezq@hotmail.com</a>,<a href="mailto:mazero@ucbcba.edu.bo">mazero@ucbcba.edu.bo</a> </font></p>  <hr>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El procesamiento de palmito en las agroindustrias Bolhispania y Fabopal genera un promedio de 9.483 t año<sup>-1</sup> de residuos sólidos orgánicos, los cuales bajo el sistema actual de disposición final a cielo abierto, provocan impactos negativos sobre el medio ambiente. Un equipo técnico propuso el compostaje de estos residuos a través de un proceso de alta temperatura, denominado compostaje en silos hiperventilados (CSH), aplicado por primera vez en Bolivia. En este contexto, se evaluó la etapa de descomposición rápida del proceso en los aspectos técnico y ambiental.  Esta evaluación reveló varios aspectos positivos que la posicionan como una opción ventajosa; entre otras, permitió obtener un producto casi estable en un tiempo considerablemente menor al del compostaje convencional, no requirió de sistemas de volteo o aireación forzada, no generó lixiviado alguno y rindió un producto que cae dentro de los parámetros de calidad para su comercialización. Por otra parte, la evaluación identificó la necesidad de estandarizar el proceso de CSH, validar el periodo de descomposición y la fase de maduración del producto.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Palabras clave:</strong> Compostaje, residuos de   palmito, silos hiperventilados, Trópico de Cochabamba.</font></p> <hr>     <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>1 Introducción</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La mayoría de las agroindustrias palmiteras tienen una alta tasa de generación de residuos sólidos, entre los cuales el 98% son biodegradables y el 2% no lo son [5]. En la región del Trópico de Cochabamba, principal zona productora de palmito del país, dichas agroindustrias están interesadas en implementar procedimientos de transformación de residuos sólidos orgánicos que les permitan transformarlos en subproductos revalorizados, capaces de incorporarse a un circuito económico.  </font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Actualmente, los residuos orgánicos son dispuestos directamente sobre el suelo y a cielo abierto, en las inmediaciones de las plantas procesadoras.  Esta forma de manejo provoca impactos negativos en el ecosistema, tales como la necesidad progresiva de nuevas áreas para la disposición final. La disminución de la biodiversidad microbiana del suelo, modifica las condiciones naturales de circulación del agua y el aire hacia el suelo, y atrae macro vectores y micro vectores [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A fin de encontrar un proceso de tratamiento y valorización para estos residuos, el Programa de Desarrollo Alternativo Regional contrató un equipo técnico consultor [9] para proponer un sistema de gestión integrada de residuos sólidos en las agroindustrias palmiteras del Chapare, Bolhispania y Fabopal. Dicho grupo propuso la obtención de abono orgánico sólido a través de la técnica de compostaje. Esta elección se justificó por la demanda de abonos orgánicos existente para sistemas de producción de palmito, banano, piña, entre otros, considerando que los suelos tropicales se caracterizan por ser ácidos, escasos en materia orgánica, de mal drenaje y deficientes en macro y micronutrientes.  Además, para incrementar la rapidez de la descomposición, se probó una técnica de alta temperatura consistente en la hiperventilación pasiva del residuo a través de la construcción de silos a partir de mallas metálicas [9].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El compostaje de residuos orgánicos es un proceso biológico de descomposición aeróbica que por acción de organismos mesófilos y termófilos conduce a la producción de un residuo estable, que puede ser utilizado como enmienda orgánica [11]. Diferentes técnicas de compostaje han sido aplicadas para generar un producto revalorizado a partir de desechos domésticos e industriales [4], sin embargo, aún no se han desarrollado de manera suficiente los procedimientos y sistemas de control que permitan procesos de compostaje eficientes a nivel comercial [14]. Esta deficiencia se debe a que las interacciones entre los diversos factores que intervienen en este proceso biológico son complejos y con un fuerte componente local, que no está aún bien definido ni comprendido [14], a pesar de los esfuerzos considerables que se han puesto en ello [19]. Esta carencia en la técnica del compostaje conduce a que los proyectos de elaboración de compost enfrenten problemas técnicos, económicos, sociales y ambientales, que ponen en riesgo la sostenibilidad de los objetivos planteados al inicio del proyecto.  En esta línea, diversos autores [14] [12] recomiendan un mayor control técnico en todas las fases y actividades del proyecto.  Algunos factores que han sido señalados como importantes para un adecuado control son la temperatura, humedad, aireación, pH y <st1:PersonName ProductID="la relaci&#65523;n C" w:st="on">la relación C</st1:PersonName>/N [18]. Sin un seguimiento técnico de variables como éstas, el proceso de compostaje se torna artesanal y comienza a presentar problemas que dificultan su continuidad [18]. En este sentido, Lugo [14], en un estudio realizado en el Ecuador encontró que solamente el 14% de los proyectos realiza un control técnico durante el proceso de compostaje y que el 86% restante únicamente realiza control manual o empírico. Según este autor, esta forma de manejo determinó que el 25% de los proyectos no consigan cumplir con los objetivos planteados y el 87,5% no vendan el producto final por no cumplir con parámetros de calidad de abonos [15].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otro problema identificado, como lo señala Lugo, es que las metodologías de compostaje están dirigidas fundamentalmente a ambientes de regiones templadas, siendo limitada la literatura que apunta a zonas tropicales húmedas.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con referencia al Trópico de Cochabamba, las escasas experiencias documentadas sobre elaboración de abonos muestran que en su mayoría fueron proyectadas con un enfoque educativo y general, en los cuales se promovieron e implementaron métodos artesanales de compostaje, realizando el control técnico de parámetros a través de métodos manuales o empíricos como ser el tacto, olor, color, etc.  </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este sentido, el presente trabajo tiene el propósito de documentar la experiencia de compostaje mediante silos hiperventilados (CSH), a través de la descripción de la construcción e instalación de los silos en las agroindustrias Bolhispania y Fabopal del Trópico Cochabambino.  Adicionalmente, a fin de realizar un análisis ambiental, se realiza una comparación del proceso de compostaje en SH y el tratamiento actual de disposición a cielo abierto imperante en las dos agroindustrias, a partir del monitoreo de temperatura, pH, humedad y el control de la generación de lixiviado.  Con todo esto se pretende evaluar de manera preliminar el proceso de compostaje por SH, con el fin de aportar información que ayude en la generación de tecnologías adaptadas para mitigar los impactos ambientales de los residuos de la industria palmitera.</font></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif">   <strong>2 Materiales y métodos</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para evaluar la eficiencia del proceso de transformación del residuo y la calidad del compost obtenido, en principio, se cotejó el actual proceso de transformación de biomasa –de disposición a cielo abierto- en el predio de la agroindustria con el proceso de transformación de biomasa en el silo hiperventilado.  A continuación, se efectuó la evaluación de la técnica de CSH en base al seguimiento de parámetros específicos.  Todas las evaluaciones presentadas fueron llevadas a cabo en un período de tres meses, entre octubre y diciembre de 2002.</font></p>      <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>2.1 Diseño, construcción e instalación de puntos de monitoreo (PM) y silos de compostaje</strong></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se construyeron puntos de monitoreo para comparar la generación de lixiviado actualmente, con el sistema de disposición de residuos a cielo abierto, versus el sistema de compostaje de los residuos mediante silos hiperventilados.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Puntos de monitoreo en los sitios de disposición de residuos a cielo abierto</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con el objetivo de simular las actuales condiciones en las que se descomponen los residuos, de disposición a cielo abierto en predios aledaños a las agroindustrias, se establecieron dos puntos de monitoreo, uno por cada agroindustria.  Para este efecto, se enterró un balde plástico de una capacidad de <st1:metricconverter ProductID="50 L" w:st="on">50 L, cubriéndolo con una tapa perforada en el centro con la finalidad de introducir un trozo de tubo PVC perforado, que permita concentrar y guiar los lixiviados al fondo del balde.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para impedir la manipulación de los residuos del PM, se instaló una estructura de malla de gallinero que permitía aislarlos. El PM presentó un diámetro de <st1:metricconverter ProductID="58 cm" w:st="on">58 cm y una altura de <st1:metricconverter ProductID="80 cm" w:st="on">80 cm. Se ubicó dentro de éste  <st1:metricconverter ProductID="57 kg" w:st="on">57 kg de residuo de palmito (vainas, yucas y recortes de pulpa), pesados en tachos plásticos de <st1:metricconverter ProductID="60 L" w:st="on">60 L.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Puntos de monitoreo y construcción de los silos hiperventilados</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Además de los PM, se diseñaron baterías de reactores prototipo para el CSH, provenientes de la conjunción de conocimientos y tecnologías de compostaje de Takakura (aireación a través de chimeneas perforadas) y Jean Pain (metodología de compostaje en silos).  La característica principal de estos reactores es la completa aireación por todas las caras y al interior a través de chimeneas perforadas  [9]. La batería cilíndrica, con dimensiones de <st1:metricconverter ProductID="1,8 m" w:st="on">1,8 m de altura y <st1:metricconverter ProductID="2,5 m" w:st="on">2,5 m de diámetro, estuvo situada en una tarima a <st1:metricconverter ProductID="50 cm" w:st="on">50 cm del suelo y presentó una capacidad de <st1:metricconverter ProductID="8,8 m" w:st="on"> 8,8 m<sup>3</sup>.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los materiales utilizados para la construcción e instalación de cada silo fueron los siguientes:</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  2 vigas de 6 m (2” x 6”).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  4 vigas de 4 m (2” x 3”).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  1 rejilla cuadrada 2,5m x 2,5 m (fierro redondo <sup>5</sup>/<sub>14</sub> con reticulado cada 10 cm).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•   1 cilindro de 1,8  m de alto y 2,5 m de diámetro (malla de gallinero con trabillas de fierro redondo de <sup>1</sup>/<sub>4</sub> cada  <st1:metricconverter ProductID="20 cm" w:st="on">20 cm).</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  5 chimeneas de tubo PVC de 3” y 2 m de alto (perforaciones de 1”).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  18 m<sup>2</sup> de folia negra de plástico (9 m<sup>2</sup> para techo y 9 m<sup>2</sup> para recolector de   lixiviado).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">•  1 andamio móvil para cargado (dos turriles y cuatro tablas).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La instalación se inició con la construcción del soporte de madera, donde se ubicaron dos baterías con el objetivo de proveer mayor aireación a la mezcla y evitar el contacto con el agua, debido a que la topografía del lugar era bastante irregular y con tendencia a producir encharcamientos. Paralelamente se cavaron hoyos en los cuales se instalaron los recolectores de lixiviados, que constaron de turriles enterrados y hojas de plástico negro que van desde los turriles al soporte de madera, de la forma que se muestra en la figura 1. Más adelante se acoplaron a las rejillas los silos de malla de gallinero y fierro corrugado previamente armados. Se instalaron las chimeneas perforadas (5 por cada batería) ajustándolas a los cilindros (figura 1).</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se cubrió la base con material vegetal de desecho (pastos) para evitar que el material picado a compostar traspase la rejilla cuadrada de <st1:PersonName ProductID="la base. Una" w:st="on">la base. Una</st1:PersonName> vez cerradas las baterías se descargó el sustrato a compostar. Finalmente, se pasó a cubrir los cilindros con hoja de plástico negro dejando libres los extremos de las chimeneas con el propósito de mantener la aireación de la batería, tal como se observa en la figura 1.</font></p>      <p align="center"><a name="img1"></a><img src="/img/revistas/ran/v3n4/imagen06_1.gif" width="572" height="258"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La mezcla a la cual se realizó seguimiento técnico en las dos agroindustrias fue la siguiente:</font></p>      <p align="center"><a name="img2"></a><img src="/img/revistas/ran/v3n4/imagen06_2.gif" width="495" height="231"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se utilizó chancaca o miel de caña como principal fuente de energía para la fermentación. El inóculo microbiano consistió en levaduras, por su rol en degradar proteínas complejas y carbohidratos, y producir sustancias bioactivas (vitaminas, hormonas, enzimas) que estimulan el crecimiento y la actividad microbiana [20]. Todo el proceso de instalación y monitoreo del compostaje se realizó entre octubre y diciembre del año 2002.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">2.2 Parámetros de monitoreo del proceso de descomposición, tanto a cielo abierto como en los SH</font></strong></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El proceso de descomposición de los residuos fue monitoreado tanto para el caso de la disposición a cielo abierto como en los SH.  </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En base a pruebas realizadas previamente por el equipo técnico [9] y comportamientos normales mostrados por la literatura para las técnicas de alta temperatura -en el sentido de que en los primeros 10-15 días sucede la mayor parte del proceso de descomposición [4] [6], ocurriendo a continuación solamente la maduración del compost-.  Por esta razón, se estableció un periodo de estudio de 10 días, al cabo del cual se esperaba que el material habría pasado por la mayor parte del proceso activo de descomposición, perdiendo peso y volumen efectivamente.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Monitoreo de la descomposición en los sitios de disposición a cielo abierto</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En cada industria, se realizaron mediciones al inicio del período y al final (al cabo de 10 días).  Se midieron los siguientes parámetros: masa, humedad, temperatura, acidez y volumen de lixiviado generado en el PM.  Los primeros 4 parámetros se midieron en muestras compuestas tomadas en los puntos de monitoreo de cada industria.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Monitoreo de la descomposición en los silos hiperventilados</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Como factores de control del proceso se consideraron la temperatura, pH, humedad y generación de lixiviado.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Temperatura: </b>La temperatura se midió diariamente con la ayuda de un termómetro digital. El registro se realizó diariamente a la misma hora (11:00 am).  En los silos de compostaje se registraron temperaturas en tres niveles diferentes: en la parte superior, media y la base. En el PM se registró la temperatura en la base y la zona central. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b> pH: </b>Se midió diariamente sobre muestras extraídas de los diferentes residuos del material a ser compostado y una muestra de <st1:metricconverter ProductID="50 g" w:st="on">50  g de la mezcla obtenida de diferentes puntos del silo. Estos residuos se picaron y diluyeron en 200 ml de agua destilada, se agitó cuidadosamente hasta obtener una mezcla homogénea y se dejó reposar por 15 minutos.  Se utilizó un pH-metro digital en el caso de Bolhispania. En el caso de Fabopal, se utilizó papel indicador universal. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Contenido de humedad de los residuos:</b> Se extrajeron muestras al inicio y al final del proceso, las cuales fueron sometidas a secado en horno a 70 °C hasta obtener un peso constante. Posteriormente, se calculó el porcentaje de humedad de los residuos.  </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el caso de los residuos de palmito se seleccionaron muestras de los diferentes componentes (vainas, yucas, recortes), las cuales se picaron y mezclaron para ser sometidos al secado, así como muestras de los diferentes materiales a compostar. Para determinar el porcentaje de humedad de la mezcla se obtuvieron muestras de diferentes niveles del silo, se mezclaron y una porción fue sometida al secado.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Generación de lixiviado:</b> Se utilizó una balanza romana para pesar el balde receptor de lixiviado al cabo de los 10 días.  Posteriormente se enviaron muestras al laboratorio para analizar el contenido de sólidos totales, sólidos filtrables, sólidos suspendidos y DQO.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">2.3 Control de calidad del abono</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para evaluar la calidad del abono se determinó la concentración de nitrógeno, fósforo y potasio. Para este fin, se recolectó una muestra de abono orgánico fermentado de cada unidad experimental.  Los análisis fueron realizados en el Laboratorio de Suelos y Aguas de la Universidad Mayor de San Simón.<b></b></font></p>        <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">3 Resultados y discusión</a></font></strong></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">3.1 Descomposición de residuos según el manejo actual de disposición a cielo abierto</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los resultados obtenidos del seguimiento a los residuos en el PM durante el periodo de 10 días se muestran en el Tabla 2.  Allí se muestran los valores promedio de las dos industrias.</font></p>      <p align="center"><a name="img3"></a><img src="/img/revistas/ran/v3n4/imagen06_3.gif" width="513" height="262"></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los   valores de masa y porcentaje de humedad disminuyeron en un 30% y 37%   respectivamente. Este comportamiento estuvo acompañado de una generación de   lixiviado. El pH tuvo una variación de un potencial neutro a ácido (de 7 a 5) y   los registros de temperatura indicaron valores de 21-26 °C. Los valores de pH,   así como los valores de temperatura proporcionaron las condiciones adecuadas   para el desarrollo de microorganismos mesófilos [21]. Los ácidos orgánicos y/o   alcoholes producidos durante el proceso de descomposición influyen en la   acidificación del suelo [21], explicando los valores de pH más ácidos al décimo   día. Asimismo, la disminución del peso de los residuos está relacionada con la   pérdida de humedad y la transformación de la materia por parte de   microorganismos. De la misma manera, los valores de temperatura registrados   indican que el proceso no llegó a etapas termogénicas, sugiriendo que no se   eliminaron los mesófilos patógenos como hongos, esporas y semillas.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La carga contaminante del lixiviado generado por los residuos se encuentra por encima de los límites permisibles para descargas líquidas establecidas por la Ley 1333. Los valores de laboratorio correspondientes a <st1:PersonName ProductID="la agroindustria Bolhispania" w:st="on">la agroindustria Bolhispania</st1:PersonName> superan el límite en los siguientes porcentajes: sólidos suspendidos en 3.000 %, DQO 3.960 %; el pH con un valor ácido 5,0 estando los límites permisibles entre 6 y 9. En el caso de <st1:PersonName ProductID="la agroindustria Fabopal" w:st="on">la agroindustria Fabopal</st1:PersonName>, los límites se encuentran por encima en los siguientes porcentajes: sólidos suspendidos en 6.866 %, DQO 5.544 % y pH ácido 5,5 (ver Tabla 3).</font></p>      <p align="center"><a name="img4"></a><img src="/img/revistas/ran/v3n4/imagen06_4.gif" width="517" height="258"></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>3.2 Descomposición en los SH</strong></font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Temperatura</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los valores promedio de temperatura registrados en los SH se muestran en la Figura 3.</font></p>      <p align="center"><a name="img5"></a><img src="/img/revistas/ran/v3n4/imagen06_5.gif" width="499" height="292"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En los SH de ambas agroindustrias, la etapa de latencia pasó inadvertida puesto que el material tenía un tiempo de acopio, registrándose en el par de silos temperaturas iniciales correspondientes a la etapa mesotérmica 1 (10-40 ºC), la cual perduró entre el primer y segundo día. En el silo de la agroindustria Bolhispania se presentaron temperaturas más elevadas, comportamiento que se originó probablemente por el grado de compactación del material lo que provocó una pobre disipación de calor. La etapa termogénica (40-75 ºC) tuvo una duración de 7 días. En Bolhispania, incrementó durante los primeros dos días hasta alcanzar un máximo de 72 ºC, para luego disminuir sostenidamente hasta el 10º día.  En Fabopal, la temperatura se incrementó de manera paulatina durante 5 días, hasta alcanzar un máximo de 68 ºC, para luego caer sostenidamente hasta el 10º día.  La temperatura máxima alcanzada en los silos de compostaje aseguró la destrucción de gérmenes patógenos y favoreció la rápida descomposición de los materiales. Una temperatura más elevada hubiera ocasionado mayores pérdidas por oxidación de la materia orgánica y muerte de microorganismos beneficiosos.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La segunda etapa mesotérmica o de enfriamiento (&#8804; 40 ºC) tuvo una duración de 2 días, llegando a registrarse temperaturas entre 36 y 46 ºC al décimo día. Estos valores están por encima de la temperatura ambiente (aproximadamente 25 ºC en promedio, diario) indicando que el proceso de compostaje sigue en la etapa activa y que aún requiere de un periodo de descomposición, antes de dar lugar a la fase de maduración hasta alcanzar valores estables y cercanos a la temperatura ambiente.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En consecuencia, todavía se debe prever un período de descomposición activa en el SH y posteriormente un período de estabilización. Para tener una aproximación del tiempo que resta hasta obtener un compost final, se comparó las curvas de temperatura obtenidas en los SH con las curvas de temperatura presentadas en otras experiencias de compostaje que aplican diferentes métodos rápidos de compostaje de alta temperatura . Estos métodos cuentan con características similares a las observadas en los SH, entre las que podemos mencionar: periodos activos de descomposición cortos, altas temperaturas y aireación forzada [16]. Las experiencias consultadas registran tiempos de maduración en promedio de 40-50 días para la obtención de un compost estable a una temperatura final de 25 °C [4] [16]. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para realizar una aproximación comparativa se consideran los valores presentados en un estudio realizado en Corea el año 1996 [8]. La experiencia consistió en el empleo de la técnica rápida de pilas estáticas de aireación forzada continua e intermitente (PEAFCI) para obtener compost a partir de desechos de estiércol de ganado y cascarilla de arroz. El proceso se llevó a cabo en un invernadero, dentro del cual la temperatura ambiente interna estaba controlada por un calentador a combustible, manteniéndola dentro de un rango de 15 - 43°C; la aireación forzada fue suministrada a la masa a través de sopladores turbo.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el estudio mencionado, Hong [8] observó que el comportamiento de la temperatura presentó dos fases bien definidas. La primera, denominada activa, se desarrolló en 22 días y se caracterizó por alcanzar etapas termófilas y de enfriamiento hasta valores de 30 °C. La segunda etapa, denominada etapa de curación, se inició a partir de 23º día y se caracterizó por la disminución de la temperatura presentando poca variabilidad hasta estabilizarse en 25 °C al cabo de 40 días de iniciado el proceso. En la figura 4 se muestra de manera gráfica el comportamiento de estas dos fases en comparación con la curva de temperaturas promedio reportadas en los SH.</font></p>      <p align="center"><a name="img6"></a><img src="/img/revistas/ran/v3n4/imagen06_6.gif" width="494" height="334"></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La información presentada por Dalzell [4], Hong [8] y Mirsa [16]  sugiere que para la obtención del compost final, el proceso requiere probablemente de un periodo adicional próximo a los dos meses, para terminar el proceso activo de degradación y el período de maduración.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>pH</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El comportamiento del pH, según Labrador [13], se inicia en un valor cercano a 5,3 bajando a un valor de 4,2 al tercer día. Vuelve a incrementar hasta un valor máximo de 8 y finalmente, a partir del séptimo día, el valor de pH se estabiliza alrededor de 7,2 [13]. Los valores de pH en los SH siguen aproximadamente el comportamiento descrito en procesos típicos de compostaje, a excepción de que no presentaron un incremento de acidez en los primeros días.  Sin embargo, muestran hacia el final valores similares cuya tendencia se muestra en la Figura 5.  Comienzan con un pH moderadamente ácido, que luego asciende hasta niveles moderadamente alcalinos de 7-8, para estabilizarse alrededor de 7, valor considerado óptimo para la aplicación al suelo.</font></p>      <p align="center"><a name="img7"></a><img src="/img/revistas/ran/v3n4/imagen06_7.gif" width="506" height="330"></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Humedad</b> </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La mezcla de los materiales a compostar en el silo de la agroindustria Bolhispania contenía 61,5 % de humedad inicial y 39,3 % de humedad final. En el caso de Fabopal, se inició con 64,8 % de humedad y a los 10 días alcanzó 43,3 %. Este descenso en el contenido de humedad se explica por la relación entre la disminución de capacidad de retención de agua durante la biodegradación debido a la pérdida de contenido orgánico. Los valores finales de porcentaje de humedad se encuentran aún dentro del rango considerado como óptimo para una buena actividad microbiana, 30-60 % [21].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Generación de lixiviado</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En ambas industrias, durante el proceso de formación de compost, no se generó lixiviado debido talvez a la pérdida de humedad de 22,2 % y 21,5 % respectivamente (Tabla 4). Evidentemente el contenido de agua se disipó como vapor, favorecido por las altas temperaturas alcanzadas durante la etapa termófila.  En consecuencia, el suelo no recibió ningún aporte con potencial contaminante, como ocurre con el manejo actual, lo cual minimiza la reproducción de vectores, parásitos y la generación de malos olores.</font></p>      <p align="center"><a name="img8"></a><img src="/img/revistas/ran/v3n4/imagen06_8.gif" width="483" height="181"></p>        <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El control de generación de lixiviado es un factor importante debido a los posibles contaminantes que generan durante el compostaje de residuos agrícolas como el nitrógeno en forma de nitratos (NO<sub>3</sub><sup>-</sup>). Las pilas almacenadas y en proceso de maduración son fuentes potenciales de nitratos [17]. La lixiviación de nitrógeno a través del suelo puede contaminar las fuentes de suministro de agua, esto implica problemas sanitarios si el agua es usada para el consumo humano.  </font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">3.3 Calidad de abono</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Actualmente, no existe una norma internacional de calidad de compost.  Entre los países vecinos, Chile, a través del Instituto Nacional de Normalización (INN) -miembro de la International Organization for Standarization (ISO) y de la Comisión Panamericana de Normas Técnicas (COPANT)- ha elaborado un proyecto de norma Ncp880, que considera normativas de otros países  y antecedentes técnicos nacionales (CONAMA, 2003).  Esta norma se encuentra en etapa de consulta pública y aprobación, y considera, al igual que otros proyectos públicos de Perú [2] y Ecuador [15], como parámetros de calidad para la comercialización, los rangos establecidos por la Organización Mundial de la Salud en 1985.  </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las características y composición del compost obtenido en los SH, de manera general, se encuentran dentro de los rangos considerados aptos para la comercialización según la OMS. Los resultados del análisis químico de las muestras de compost se presentan en el Tabla 5.</font></p>      <p align="center"><a name="img9"></a><img src="/img/revistas/ran/v3n4/imagen06_9.gif" width="491" height="288"></p>        <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El pH final, obtenido en los abonos de Bolhispania y Fabopal (7,4 y 7,5), se encuentra dentro del rango de buena calidad. El resultado esperado de un pH neutro (6,6 - 7,3) son mínimos efectos fitotóxicos y en pH medianamente básicos (7,4 - 7,8) se espera la presencia de CaCO<sub>3</sub>.  El contenido de potasio, también, se encuentra dentro de los rangos normales para compost maduro (0,4 - 1,6%). La cantidad de estos macro elementos benefician la fertilidad global de los suelos agrícolas. Respecto al fósforo total, los valores se encuentran dentro de los valores de calidad (0,1 - 1,6%). La cantidad de fósforo podría disminuir en caso de existir lixiviación en los silos, situación que prácticamente no se dio en ningún caso. La cantidad y la forma que tiene el nitrógeno del compost es determinante para la calidad del producto. Para compost maduros, es deseable que el nitrógeno sea inorgánico en su mayoría y que la fracción de amoníaco sea mínima. Los análisis generalmente reportan la cantidad (porcentaje) de nitrógeno total inmediatamente soluble en el suelo (fertilizante). Los valores de nitrógeno total obtenidos en Bolhispania y Fabopal están alrededor del 1%, el cual cae dentro del rango de 0,4 - 3,5 % considerado normal para un compost maduro. La pérdida de nitrógeno en forma de amoniaco es mayor cuando el pH es más alto, por lo que adicionar material alcalino a las pilas de compost puede resultar más perjudicial que beneficioso si no es bien controlado. Con referencia a la materia orgánica, si bien no existe un nivel consensuado de materia orgánica, las cantidades deben ser evaluadas en función de la edad del material, su contenido de nitrógeno y el uso final del mismo. Por lo general la materia orgánica es medida en términos del total de biomasa (pérdida de peso en combustión menos nitrógeno total). La diferencia del porcentaje de materia orgánica en los abonos obtenidos en cada agroindustria, 65% en Bolhispania y 44% en Fabopal, puede tener su origen en el proceso térmico al que es sometido el cogollo en la agroindustria Fabopal , convirtiendo a las vainas en materia fácilmente degradable, considerando además que los residuos de palmito representan el 40% de la mezcla. La relación C/N en ambos casos es elevada respecto a la de un compost estable, o bien porque gran parte del carbono orgánico está en forma de lignina y celulosa que no son disponibles inmediatamente para el uso microbiano o bien por la pérdida de nitrógeno. Los valores elevados de C/N y materia orgánica pueden disminuir aún más a medida que la actividad microbiana transforme y asimile tanto el carbono como el nitrógeno, esto significa que es necesario aún validar el tiempo de maduración del producto obtenido.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">4 Conclusiones</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La implementación de la técnica de CSH reveló varias ventajas técnicas y ambientales que la posicionan como una alternativa interesante de manejo de residuos sólidos orgánicos.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los beneficios más importantes identificados en la evaluación fueron que la técnica de CSH permite obtener un producto estable en un tiempo considerablemente menor al del compostaje convencional, no requiere de sistemas de volteo o aireación forzada y tiene la ventaja adicional de reducir la generación de lixiviado al presentar condiciones que favorecen la evaporación.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Es posible valorizar el 100 % de los residuos de palmito.  Sin embargo, para tener una receta inicial equilibrada, se requiere de otros residuos agroindustriales, tales como la porcinaza, gallinaza, aserrín, cascarilla de arroz, etc., lo cual puede redundar en ventajas competitivas o en limitaciones, según la disponibilidad de los mismos para la industria.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El abono orgánico obtenido en la prueba piloto es de calidad suficiente según los parámetros de calidad comunes sugeridos por organismos internacionales. El análisis de estos parámetros indicó que es un material apto para la comercialización.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por el contrario durante la evaluación de la técnica de CSH, en principio, se identificó que el proceso activo de degradación, así como el periodo de maduración requiere ser establecido y validado debido a que los valores de temperatura al 10º día son aún elevados y su tendencia era todavía a decrecer.  Más aún, los análisis fisicoquímicos reportaron todavía valores elevados de C/N. </font></p>        <p align="justify"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>Referencias</strong></font></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[1]      BOLIVIA. 1995. <i>Reglamentación de <st1:PersonName ProductID="la Ley" w:st="on">la Ley</st1:PersonName> del Medio Ambiente Nº 1333</i>. Ministerio de Desarrollo sostenible y Medio Ambiente, Republica de Bolivia. Editorial Serrano Ltda. <st1:PersonName ProductID="La Paz-Bolivia." w:st="on">La Paz-Bolivia.</st1:PersonName> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002650&pid=S1683-0789200700020000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[2]      Cantanhede A.; Monge G.; Wharwood, G. 1993. <i>Proyecto de investigación en compostificación de Residuos de Mercados</i>. CEPIS. Lima. En <i>http://www.cepis.org</i>. (Verificado en 22/08/06).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002651&pid=S1683-0789200700020000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[3]      CONAMA. 2003. <i>Proyecto de norma en consulta publicas- Ncp880.c2003</i>. Chile. En <i>http://www.conama.org</i>. (Verificado en 28/08/07).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002652&pid=S1683-0789200700020000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[4]      Dalzell, H.; Biddlestone, A.; Gray, K.; Thurairajam, K. 1991. <i>Manejo del suelo; producción y uso del composte en ambientes tropicales y subtropicales</i>. FAO. Roma. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002653&pid=S1683-0789200700020000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[5]      ECON, Ecología y Conservación. 2003. <i>Identificación y tratamiento de residuos generados. </i>Cochabamba, Bolivia. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002654&pid=S1683-0789200700020000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[6]      FAO. 1978. <i>China: reciclaje de desechos orgánicos en agricultura</i>. Boletín de suelos N° 40. FAO. Roma. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002655&pid=S1683-0789200700020000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[7]      Ferrufino, A., Lens, J.; Vallejos, J. 1992. <i>Algunas características ecológicas del Chapare.</i> Boletín técnico del IBTA-Chapare. Nº 26. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002656&pid=S1683-0789200700020000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[8]      Hong, J.; Park, K.; Sohn, B. 1997. <i>Effect of composting heat from intermittent aerated static pile on the elevation of underground temperature.</i> American Society of Agricultural Engineers. Vol. 13 (5) 679-683. Korea. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002657&pid=S1683-0789200700020000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[9]      Jiménez, F.; Bayro, A.; Yañez, P.; Rodríguez, J. 2002. <i>Gestión de desechos de sólidos de palmito en el Trópico de Cochabamba - Fase I.</i> Proyecto CONCADE/DAI. Cochabamba, Bolivia. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002658&pid=S1683-0789200700020000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[10]     Kiely, G. 1999. <i>Ingeniería ambiental</i>.<i> Fundamentos, entornos, tecnologías y sistemas de gestión.</i> Volumen II. Mcgraw-Hill. Madrid, España. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002659&pid=S1683-0789200700020000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[11]     Körner, I.; Braukmeier, J.; Herrenklage, J.; Leikam, K.; Ritzkowski, M.; Schelegelmilch, M.; Stegmann, R. 2003. <i>Investigation and optimization of composting processes – test systems and practical examples</i>.  Waste Management 23 17-26.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002660&pid=S1683-0789200700020000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[12]     Labrador, J. 1996. <i>La materia orgánica en los agrosistemas.</i> Coedición Ministerio de Agricultura, Pesca y Alimentación. Ediciones Mundi-Prensa. Madrid, España. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002661&pid=S1683-0789200700020000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[13]     Liang, C.; Das, K.C.; McClendon, R.W. 2003. <i>The influence of temperature and moisture contents regimes on the aerobic microbial activity of a biosolids composting blend.</i>  Bioresource Technology 86, 131-137. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002662&pid=S1683-0789200700020000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[14]     Lugo, S. 1998. <i>Evaluación de los Proyectos de Compostaje en el Ecuador</i>. Fundación Natura-REPAMAR-CEPIS-GTZ. Quito, Ecuador. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002663&pid=S1683-0789200700020000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[15]     Mirsa, V.; Roy, R.; Hiraoka, H. 2003. <i>On-farm composting methods</i>. FAO/ Land and Water Discussion Paper. Roma.  En <i>http://ftp.fao.org/docrep/fao/006/y5104e/ y5104e00.pdf.  </i>(Verificado en 12/10/06).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002664&pid=S1683-0789200700020000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[16]     Negro, M.; Villa, F.; Aibar, J.; Alarcón, R.; Ciria, P.; de Benito, A.; García, G.; Lezaún, J.; Meco, R.; Pardo, G. 2005. <i>Producción y gestión del compost</i>. Centro de Técnicas Agrarias de Zaragoza España. En <i>http://www.agrilogica.com/tecnicas/ compost.</i> (Verificado en 28/08/06).</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002665&pid=S1683-0789200700020000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[17]     Restrepo, J. 1998. <i>La idea y el arte de fabricar los abonos orgánicos fermentados-aportes y recomendaciones. </i>SIMAS (Servicio de Información Mesoamericano sobre Agricultura Sostenible). Managua, Nicaragua. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002666&pid=S1683-0789200700020000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[18]     Suler, D.J.; Finstein, M.S. 1977. Effect of temperature, airation and moisture on CO<sub>2</sub> formation in bench-scale, constinuosly thermophilic composting of solid waste. Appl. Environ. Microbiol. 33 345-350  </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002667&pid=S1683-0789200700020000600018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[19]     Suquilanda, M. 2001. <i>Diagnóstico para el desarrollo de agricultura orgánica en el Trópico de Cochabamba. </i>Proyecto CONCADE/DAI. Cochabamba, Bolivia. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002668&pid=S1683-0789200700020000600019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[20]     Sztern, D.; Pravia, M. 1999.<i> Manual para la elaboración de compost. Bases conceptuales y procedimientos.</i> Montevideo. OPP/OPS (OPS/HEP/HES/URU/02-03).  En <i>http://www.ops.org.uy.</i> (Verificado en 28/05/06).  </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002669&pid=S1683-0789200700020000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<collab>Ministerio de Desarrollo sostenible y Medio Ambiente</collab>
+<source><![CDATA[Reglamentación de la Ley del Medio Ambiente Nº 1333]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cantanhede]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Monge]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wharwood]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Proyecto de investigación en compostificación de Residuos de Mercados]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<source><![CDATA[Proyecto de norma en consulta publicas- Ncp880.c2003]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dalzell]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Biddlestone]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gray]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thurairajam]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manejo del suelo: producción y uso del composte en ambientes tropicales y subtropicales]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<source><![CDATA[Identificación y tratamiento de residuos generados]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<source><![CDATA[China: reciclaje de desechos orgánicos en agricultura]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ferrufino]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lens]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vallejos]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Algunas características ecológicas del Chapare]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hong]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Park]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sohn]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Effect of composting heat from intermittent aerated static pile on the elevation of underground temperature]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jiménez]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bayro]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yañez]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodríguez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gestión de desechos de sólidos de palmito en el Trópico de Cochabamba - Fase I]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kiely]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ingeniería ambiental: Fundamentos, entornos, tecnologías y sistemas de gestión]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Körner]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Braukmeier]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herrenklage]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leikam]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ritzkowski]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schelegelmilch]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stegmann]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Investigation and optimization of composting processes: test systems and practical examples]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Labrador]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La materia orgánica en los agrosistemas]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liang]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Das]]></surname>
+<given-names><![CDATA[K.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McClendon]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The influence of temperature and moisture contents regimes on the aerobic microbial activity of a biosolids composting blend.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lugo]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evaluación de los Proyectos de Compostaje en el Ecuador]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mirsa]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roy]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hiraoka]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[On-farm composting methods: FAO/ Land and Water Discussion Paper]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>[16]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Negro]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villa]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aibar]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alarcón]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ciria]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[de Benito]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lezaún]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meco]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pardo]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Producción y gestión del compost]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>[17]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Restrepo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[La idea y el arte de fabricar los abonos orgánicos fermentados-aportes y recomendaciones]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>[18]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Suler]]></surname>
+<given-names><![CDATA[D.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Finstein]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Effect of temperature, airation and moisture on CO2 formation in bench-scale, constinuosly thermophilic composting of solid waste]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>[19]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Suquilanda]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Diagnóstico para el desarrollo de agricultura orgánica en el Trópico de Cochabamba]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<label>[20]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sztern]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pravia]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manual para la elaboración de compost: Bases conceptuales y procedimientos]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

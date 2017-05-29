@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300005</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Métodos para cuantificar diversidad y productividad vegetal de los bofedales frente al cambio climático]]></article-title>
+<article-title xml:lang="en"><![CDATA[Methods to quantify the diversity and the productivity of high-Andean wetlands under the effects of climate change]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa I.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Loza Herrera]]></surname>
+<given-names><![CDATA[Susi]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Lliully]]></surname>
+<given-names><![CDATA[Ariel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Palabral]]></surname>
+<given-names><![CDATA[Arely]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[Fabien]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Herbario Nacional (LPB) Museo Nacional de Historia Natural ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Mayor San Andrés Instituto de Ecología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>42</fpage>
+<lpage>55</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Se espera que el rápido retroceso glaciar, resultado del cambio climático iniciado hace muchas décadas pueda tener efectos negativos sobre la diversidad y productividad de plantas de los bofedales, a través de cambios de su extensión o área y de su distribución altitudinal. Esto manifiesta la importancia y necesidad de entender la estructura y funcionamiento de estos ecosistemas ante el calentamiento del clima. Proponemos un protocolo metodológico para examinar las respuestas de las comunidades vegetales de bofedales alto-andinos frente al cambio climático, tomando en cuenta en primer lugar variaciones de área y de altitud entre bofedales. Con 200 cuadrantes de 1 m² distribuidos a escala regional, proponemos hacer mediciones bióticas de riqueza especifica (número de especies) y de cobertura relativa de cada especie de planta. También proponemos medir el contenido de materia foliar seca como índice de productividad (LDMC, por sus siglas en inglés, leaf dry matter content). Describimos medidas abióticas como parámetros fisicoquímicos (pH, conductividad eléctrica, y nutrientes) en el agua y sustrato sobre los que se desarrollan estas plantas. Dado que las comunidades están dominadas por plantas en forma de cojín, también describimos métodos para caracterizar variaciones intra e interespecíficas entre cojines. Se sugieren métodos prácticos que optimizan el trabajo en campo y son aptos según los objetivos de investigación que se tengan. Se discute la pertinencia de los métodos sugeridos en este trabajo con otros métodos disponibles en la literatura, y de acuerdo con los resultados preliminares obtenidos, se comparan sus beneficios e inconveniencias.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The diversity and the productivity of high Andean wetlands (hereafter termed bofedales) are expected to be negatively impacted by the rapid glacial recession following the effects of recent and upcoming climate change, impacting their area and their elevational distribution. Accordingly, a topical conservation challenge is to understand the organization and the functioning of these ecosystems in the face of global warming. We present a series of methods designed to examine the responses of plant communities of high-Andean bofedales to climate change, with a specific attention to the variables area and elevation of bofedales. Using 200 plots 1 m² in size distributed across a regional sampling, we propose to conduct biotic measurements related to species richness and relative cover of plants, but also leaf dry mass content (LDMC), in order to estimate the productivity of the community. Moreover, we describe abiotic measurements such as physico-chemical parameters (pH, water conductivity, soil and water nutrients), which may help to infer variations in the productivity and the diversity of plant communities. Because the bofedales are dominated by a few cushion-forming species, we describe also methods to characterize cushion variation at inter- and intra- specific levels. All the methods discussed are of high practicability for non-specialists in order to optimize the time spent in the field. We finally discuss the relevance of each method described with the help of preliminary results, and comparing them with methods available in the literature.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Especie fundadora]]></kwd>
+<kwd lng="es"><![CDATA[Humedales alto-andinos]]></kwd>
+<kwd lng="es"><![CDATA[LDMC]]></kwd>
+<kwd lng="es"><![CDATA[Plantas en cojín]]></kwd>
+<kwd lng="es"><![CDATA[SLA]]></kwd>
+<kwd lng="en"><![CDATA[Cushion plants]]></kwd>
+<kwd lng="en"><![CDATA[Foundation species]]></kwd>
+<kwd lng="en"><![CDATA[High-Andean cushion bogs]]></kwd>
+<kwd lng="en"><![CDATA[LDMC]]></kwd>
+<kwd lng="en"><![CDATA[SLA]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p>&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Métodos para cuantificar diversidad y productividad vegetal de los bofedales frente al cambio climático</b></font></p>     <p>&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Methods to quantify the diversity and the productivity of high-Andean wetlands under the effects of climate change</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Rosa I. Meneses*<sup>1</sup> Susi Loza Herrera<sup>2,3</sup>, Ariel Lliully<sup>2,3</sup>, Arely Palabral<sup>2,3 </sup>&amp; Fabien Anthelme<sup>2,3</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Museo Nacional de Historia Natural, Herbario Nacional (LPB), Cota Cota, Casilla 8706, La Paz, Bolivia <sup>    <br> 2</sup>Instituto de Ecología, Universidad Mayor San Andrés de Bolivia,</font> <font face="Verdana" size="2">Casilla 10077 - Correo Central, La Paz, Bolivia.     ]]></body>
+<body><![CDATA[<br> <b>*Autora de correspondencia: </b><a href="mailto:rosaisela_meneses@yahoo.com">rosaisela_meneses@yahoo.com</a>    <br> </font><font face="Verdana" size="2"><sup>3</sup>UMR AMAP, Institut de Recherche pour le Développement (IRD), Boulevard de la Lironde, TA A-51/PS2, 34398 Montpellier Cedex 5, Francia</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Se espera que el rápido retroceso glaciar, resultado del cambio climático iniciado hace muchas décadas pueda tener efectos negativos sobre la diversidad y productividad de plantas de los bofedales, a través de cambios de su extensión o área y de su distribución altitudinal. Esto manifiesta la importancia y necesidad de entender la estructura y funcionamiento de estos ecosistemas ante el calentamiento del clima. Proponemos un protocolo metodológico para examinar las respuestas de las comunidades vegetales de bofedales alto-andinos frente al cambio climático, tomando en cuenta en primer lugar variaciones de área y de altitud entre bofedales. Con 200 cuadrantes de 1 m<sup>2</sup> distribuidos a escala regional, proponemos hacer mediciones bióticas de riqueza especifica (número de especies) y de cobertura relativa de cada especie de planta. También proponemos medir el contenido de materia foliar seca como índice de productividad (LDMC, por sus siglas en inglés, leaf dry matter content). Describimos medidas abióticas como parámetros fisicoquímicos (pH, conductividad eléctrica, y nutrientes) en el agua y sustrato sobre los que se desarrollan estas plantas. Dado que las comunidades están dominadas por plantas en forma de cojín, también describimos métodos para caracterizar variaciones intra e interespecíficas entre cojines. Se sugieren métodos prácticos que optimizan el trabajo en campo y son aptos según los objetivos de investigación que se tengan. Se discute la pertinencia de los métodos sugeridos en este trabajo con otros métodos disponibles en la literatura, y de acuerdo con los resultados preliminares obtenidos, se comparan sus beneficios e inconveniencias. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Especie fundadora, Humedales alto-andinos, LDMC, Plantas en cojín, SLA.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">The diversity and the productivity of high Andean wetlands (hereafter termed bofedales) are expected to be negatively impacted by the rapid glacial recession following the effects of recent and upcoming climate change, impacting their area and their elevational distribution. Accordingly, a topical conservation challenge is to understand the organization and the functioning of these ecosystems in the face of global warming. We present a series of methods designed to examine</font> <font face="Verdana" size="2">the responses of plant communities of high-Andean bofedales to climate change, with a specific attention to the variables area and elevation of bofedales. Using 200 plots 1 m<sup>2</sup> in size distributed across a regional sampling, we propose to conduct biotic measurements related to species richness and relative cover of plants, but also leaf dry mass content (LDMC), in order to estimate the productivity of the community. Moreover, we describe abiotic measurements such as physico-chemical parameters (pH, water conductivity, soil and water nutrients), which may help to infer variations in the productivity and the diversity of plant communities. Because the bofedales are dominated by a few cushion-forming species, we describe also methods to characterize cushion variation at inter- and intra- specific levels. All the methods discussed are of high practicability for non-specialists in order to optimize the time spent in the field. We finally discuss the relevance of each method described with the help of preliminary results, and comparing them with methods available in the literature. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Cushion plants, Foundation species, High-Andean cushion bogs, LDMC, SLA.</font></p> <hr noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales alto-andinos constituyen ecosistemas con áreas dispersas y discontinuas y son semi-acuáticos clasificados dentro del grupo de los humedales. Estos ecosistemas centran la atención de los científicos y de las instituciones gubernamentales porque proveen múltiples recursos vulnerables a la intensificación de las actividades humanas, incluso al cambio climático (MMAyA 2012). Tienen alta importancia para el hombre andino, que desde hace siglos realiza la actividad ganadera con los camélidos sudamericanos (Dangles <i>et al. </i>en este número especial; <a href="http://www.biothaw.ird.fr/" target="_blank">http://www.biothaw.ird.fr/</a>).</font></p>     <p align="justify"><font face="Verdana" size="2">Se espera que el cambio climático, a través del retroceso glaciar, tenga efectos negativos sobre la diversidad y productividad de los bofedales, principalmente porque se reduciría la disponibilidad de agua a largo plazo (Baraer <i>et al. </i>2012), afectando a las condiciones del sustrato y agua donde habitan estas plantas. La organización y la productividad de estas comunidades vegetales son altamente dependientes de las interacciones existentes entre los componentes bióticos, como flora y fauna y los componentes abióticos, como el suelo, agua, clima, entre otros (Squeo <i>et al. </i>2006, Segnini <i>et al. </i>2010). En consecuencia, examinar cambios en estas comunidades a </font><font face="Verdana" size="2">través de cambios en factores abióticos y bióticos locales es relevante para medir el estado de conservación de los bofedales frente al cambio climático.</font></p>     <p align="justify"><font face="Verdana" size="2">Las comunidades de bofedales alto-andinos están conformadas principalmente por plantas en cojín que pertenecen primordialmente a la familia Juncaceae (Ostria 1987, Ruthsatz 2012, Squeo <i>et al. </i>2010). Estos cojines se definen como hemicriptófitas que al crecer toman una forma hemisférica o sub-hemisférica hasta plana por la cercana ramificación de sus brotes y sus cortos internodos; sus hojas son usualmente pequeñas, permitiendo a los brotes estar estrechamente compactados (Aubert <i>et al. </i>2014). Los cojines pueden ser desde laxos hasta compactos, acumulan turba dentro de sus brotes y producen hasta 3 cm de turba y materia orgánica al año (Benavides <i>et al. </i>2013), generando poco a poco suelos orgánicos de varios metros de profundidad (Gould <i>et al. </i>2010). Casi la totalidad de las otras plantas se encuentran sobre o entre estos cojines, de tal manera que las interacciones entre plantas involucrando cojines son un factor sumamente importante en la organización de las comunidades vegetales de bofedales (Anthelme <i>et al. </i>2014, García <i>et al. </i>en este número especial). Diferentes cojines tienen efectos distintos sobre las comunidades vegetales de bofedales. Así, en cojines de <i>Distichia muscoides </i>(Juncaceae) se encuentran preferencialmente especies </font><font face="Verdana" size="2">como <i>Zameioscirpus muticus, Phylloscirpus boliviensis(Cyperaceae) y Ourisia muscosa </i>(Scrophulariaceae). Al contrario en cuadrantes dominados por <i>Oxychloe andina </i>(Juncaceae) hay especies más adaptadas a sitios con mayor sequedad, como <i>Festuca dolicophylla, F. rigescens </i>(Poaceae; Ruthsatz 2012) e incluso <i>Baccharis alpina </i>(Asteraceae), que es típica de laderas secas. Por este motivo, los cojines dominantes de bofedales pueden ser considerados como &quot;plantas fundadoras&quot; <i>(foundation species; </i>Ellison 2005). Cuando se trata de estudiar las respuestas de estos ecosistemas a los cambios climáticos, es importante estandarizar un protocolo de trabajo que permita evaluar los efectos distintos de las plantas en cojín sobre las comunidades vegetales.</font></p>     <p align="justify"><font face="Verdana" size="2">El objetivo de este artículo es proponer una metodología robusta para examinar los cambios de vegetación de los bofedales frente a los efectos del calentamiento del clima. Sin embargo la metodología propuesta puede ser fácilmente adaptada para examinar otros efectos, como sobrepastoreo, acciones de drenaje o minería. Se pretende, por tanto, que esta evaluación de la vegetación sea eficiente en tiempo para evaluar un mayor número de ambientes alto-andinos, optimizando el tiempo invertido al colectar datos en el campo y robusteciendo las pruebas estadísticas empleadas a través del incremento del número de muestras en la investigación. Proponemos estudiar cambios de vegetación a través de índices de diversidad así como indicios de productividad puntuales y no destructivos. Los datos serán luego incluidos dentro de un modelo socio-ecológico que considera no solo la vegetación sino también todos los componentes del bofedal para predecir su respuesta bajo los efectos del cambio climático (Rebaudo &amp; Dangles en este número especial). Es así que proponemos un protocolo específicamente diseñado para cumplir los objetivos específicos siguientes: 1) Determinar si variaciones en el área y en la altitud de los bofedales - como se espera bajo los efectos del cambio climático (Zeballos <i>et al. </i>en este número especial) - tienen </font><font face="Verdana" size="2">efecto significativo sobre la estructura de las comunidades vegetales, 2) examinar el papel que desempeña el tipo de cojín dominante sobre la estructura de las comunidades vegetales en comparación con los factores estudiados dentro del primer objetivo y 3) identificar cualquier otra variable ambiental posiblemente responsable de cambios en las comunidades vegetales.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="center"><font face="Verdana" size="2"><b>Selección de bofedales</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Un límite de pertinencia al seleccionar los sitios de estudio en ecología consiste en agrupar todo el esfuerzo de colecta de datos en un solo sitio o en un número bajo de sitios. Como resultado se pueden obtener relaciones estadísticas muy precisas y significativas entre variables pero la interpretación posiblemente es poco relevante porque los resultados dependen de las condiciones ambientales del sitio estudiado (<i>e.g., </i>en el caso de bofedales: la presencia de numerosos herbívoros, pendiente más fuerte que en los alrededores, de tamaño reducido, no representativo de los otros del sector, entre otros). Este defecto metodológico se puede evitar tomando en cuenta un panel de sitios suficientemente diversos y numerosos para representar de manera adecuada el tipo de sitios estudiados en la región. En nuestro caso, se seleccionaron 20 bofedales que se encuentran en cinco cuencas glaciales (o valles en U) de la Cordillera Real (departamento de La Paz, Bolivia). Desde el norte hacia el sur estos valles son: Hichu Khota (5 bofedales), Palcoco (2), Condoriri (3), Tuni (2) y Huayna Potosí (8) (<a href="#f1">Fig. 1</a>).</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_01.jpg" width="718" height="290"></p>     <p align="justify"><font face="Verdana" size="2">La base del trabajo es que el cambio climático en la Cordillera Real se traduce en un retroceso glacial significativo desde hace varias décadas (Rabatel <i>et al. </i>2013) y que este retroceso influirá sobre las características de los bofedales a través de cambios en la cantidad de agua que llega a estos (Baraer <i>et al. </i>2012, Zeballos <i>et al. </i>en este número especial). Nuestra hipótesis es </font><font face="Verdana" size="2">que estos cambios van a influir sobre el área de los bofedales (Dangles <i>et al. </i>en este número especial). En consecuencia, hemos elegido nuestros sitios de estudio de tal manera que representen un gradiente de superficie, desde 0.5-14 ha (<a href="#f2a">Fig. 2a</a>). También esperamos que las variaciones altitudinales puedan influir sobre la diversidad vegetal, con una reducción de la riqueza específica a mayor altitud (Sklenár &amp; Jørgensen 1999). Así, los bofedales seleccionados también están distribuidos a lo largo de un gradiente altitudinal, entre 4.445-5.045 m (<a href="#f2b">Fig. 2b</a>).</font></p>     <p align="justify"><a name="f2a"></a></p>     <p align="center"><i><img src="/img/revistas/reb/v49n3/a04_figura_05a.gif" width="719" height="217"></i></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="f2b"></a></p>     <p align="center"><i><img src="/img/revistas/reb/v49n3/a04_figura_05b.gif" width="719" height="285"></i></p>     <p align="justify"><font face="Verdana" size="2">En la Cordillera Real, los bofedales se caracterizan por estar compuestos mayormente por dos plantas en cojín de la familia Juncaceae, <i>Oxychloe andina </i>y <i>Distichia muscoides </i>(Ostria 1987). Son especies amenazadas y categorizadas como En Peligro (EN) dentro del libro rojo de la flora de Bolivia (MMAyA 2012). Se eligieron sitios donde se pueden encontrar áreas con más de 50% de cobertura de estos cojines bajo la hipótesis de que cada especie en cojín puede tener una respuesta ecológica distinta al cambio climático, asegurando seleccionar sitios con ambas especies (objetivo específico 2).</font></p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="2"><b>Elemento de base: el cuadrante</b></font></p>     <p align="justify"><font face="Verdana" size="2">Para estudiar cambios en las comunidades vegetales, se tienen tres variables explicativas <i>a</i></font> <font face="Verdana" size="2"><i>priori: área, </i>altitud y tipo de cojín (principalmente <i>O. andina </i>y D. <i>muscoides). </i>Las dos primeras variables se estudian a nivel del bofedal. Al contrario, la variación del tipo de cojín se estudia al nivel espacial inferior, dentro de cada bofedal (<a href="#f3">Fig. 3</a>). Así, en cada sitio se propone estudiar en igual cantidad cuadrantes dominados por <i>O. andina </i>y cuadrantes dominados por D. <i>muscoides.</i></font></p>     <p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_03.gif" width="705" height="537"></p>     <p align="justify"><font face="Verdana" size="2">Definir el tamaño y el número de repeticiones de cuadrantes, elementos de base del presente protocolo, es obviamente una decisión metodológica esencial. El método de cuadrantes es uno de los medios más habituales de muestreo de vegetación herbácea para evaluaciones florísticas (Stohlgren 2007). En los bofedales de la Cordillera Real, donde la altura de las plantas es muy baja con hierbas enanas creciendo entre cojines, se considera que un método adecuado son los cuadrantes de 1 m<sup>2</sup>, debido a que incorpora un gran número de individuos/formas de vida de la comunidad y ésta queda bien representada en términos de su estructura espacial. En esta superficie se logran registrar casi todas las especies presentes en una unidad fisonómicamente homogénea. También, esta superficie reduce la posibilidad de muestrear cuadrantes heterogéneos ya que un individuo en cojín frecuentemente cubre un área superior a 1 m<sup>2</sup> (Meneses 1997).</font></p>     <p align="justify"><font face="Verdana" size="2">El número de cuadrantes, por un lado, es un acuerdo entre el tiempo y el recurso humano disponible; por otro lado, depende de la pertinencia de las pruebas estadísticas a calcular después. Se eligió estudiar 10 cuadrantes por bofedal, para lograr un total de 200 cuadrantes para la región (<a href="#f3">Fig. 3</a>). Esta decisión toma en cuenta que, aparte de las medidas biológicas, se realizan también una serie de medidas abióticas que requieren mucho tiempo y varias personas en el campo (ver detalles más abajo). Con este diseño se logró colectar datos durante 20 días de trabajo continuo, con un equipo de cuatro botánicos en promedio.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Colecta de datos de vegetación</b></font></p>     <p align="center"><font face="Verdana" size="2"><b>Diversidad</b></font></p>     <p align="justify"><font face="Verdana" size="2">La colecta de datos de diversidad vegetal se puede realizar con un cuadrante de aluminio (más liviano que la madera y más tolerante a la humedad). La división del cuadrante en 100 sub-cuadrantes - cada uno de 100 cm<sup>2</sup> -permite estimar visualmente con precisión dos índices de base: número de especies (riqueza específica) y porcentaje de cobertura vegetal de cada especie observada (Kent &amp; Coker 1992; <a href="#f4">Fig. 4</a>). Aunque el número de individuos por especie es una medida particularmente útil en términos de abundancia (e.g. Anthelme <i>et al. </i>2012) no la tomamos en cuenta, porque en la mayor parte de las especies de bofedales no se puede diferenciar entre individuos. Con este método se puede determinar de forma rápida la diversidad y estructura de las comunidades de plantas. Se sugiere evaluar las plantas en época húmeda donde la mayoría de las especies está en floración y su identificación es precisa, especialmente en el caso de la familia Poaceae y algunos miembros de tamaño reducido de la familia Cyperaceae, como <i>Phylloscirpus </i></font><font face="Verdana" size="2"><i>boliviensis </i>(<a href="#f4">Fig. 4</a>). Sin embargo, si el estudio no es tan riguroso en términos de categorías taxonómicas, se pueden realizar evaluaciones en época seca porque las especies en cojín perduran durante todo el ciclo anual, así como algunas de sus especies acompañantes.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f4"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_04.jpg" width="703" height="403"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Productividad</b></font></p>     <p align="justify"><font face="Verdana" size="2">La productividad indica qué cantidad de energía que ingresa a un sistema se transforma en materia, es útil para conocer la capacidad de carga en herbívoros de los bofedales (ver Cochi <i>et al. </i>en este número especial) y también se puede conocer el estado de funcionamiento de todo el ecosistema. Proponemos dos medidas indirectas y puntuales para estimar sencillamente la productividad de plantas sin dañarlas mucho, éstas medidas contemplan: el área foliar específica (SLA) y el contenido de</font> <font face="Verdana" size="2">materia o masa foliar seca (LDMC; Cornelissen <i>et al. </i>2003). El SLA se mide a través del área de un lado de una hoja fresca dividido por su masa seca, expresada en cm<sup>2</sup>/g. En muchos casos el SLA de una especie se correlaciona con el crecimiento potencial relativo o tasa fotosintética máxima basada en el peso. </font></p>     <p align="justify"><font face="Verdana" size="2">Valores bajos tienden a corresponder con una inversión energética relativamente alta para la defensa de hojas y prolongada vida de las hojas. Al contrario, valores altos se traducen en una actividad fotosintética alta y por tanto un incremento en la producción de biomasa. El LDMC es la masa seca de una hoja (g) dividida por su masa fresca saturada de agua (g) y se expresa en g/g, se relaciona con la densidad promedio de los tejidos de las hojas, es así que hojas con un elevado LDMC tienden a ser relativamente tolerantes al estrés mecánico y por herbivoría principalmente, y especies con </font><font face="Verdana" size="2">bajo LDMC tienden a estar asociadas con un incremento de la tasa fotosintética (Cornelissen <i>et al. </i>2003). Estos dos índices son dependientes de las estrategias de conservación de recursos de cada especie (Grime 2006). Por ejemplo una planta perenne puede tener una productividad más alta que una planta anual sin que su SLA sea necesariamente más alta (Garnier <i>et al. </i>1997). Sin embargo, entre diferentes cojines de Juncaceae de bofedales las estrategias de conservación de recursos son muy cercanas, así que tenemos el supuesto que variaciones en SLA y LDMC traducen esencialmente variaciones de productividad (J. Cornelissen, com. pers. 2014). </font></p>     <p align="justify"><font face="Verdana" size="2">Se eligieron dos plantas en cojín dominantes, <i>Oxychloe andina </i>y <i>Distichia muscoides, </i>para realizar mediciones de productividad porque 1) son los componentes principales de los bofedales estudiados y 2) su productividad condiciona la productividad de todas las otras plantas a través de la formación de un sustrato orgánico. Para determinar la SLA y el LDMC de las especies en cojín, sin perturbar demasiado los bofedales, se extraen hojas de sitios representativos ubicados alrededor de </font><font face="Verdana" size="2">los cuadrantes evaluados, luego se guardan las muestras en bolsas tipo &quot;ziploc&quot; etiquetadas y almacenadas adecuadamente para que no pierdan su contenido de agua.</font></p>     <p align="justify"><font face="Verdana" size="2">Para determinar la SLA primero se sugiere seleccionar alrededor de 20 hojas enteras, jóvenes (fotosintéticamente más productivas) y sin ningún daño foliar aparente, luego se sugiere acomodarlas ordenadamente lo más extendidas posible sobre una pequeña pizarra utilizando escala <i>(e.g., </i>papel milimetrado o regla precisa) donde se rotula el código correspondiente (<a href="#f5">Fig. 5</a>) y luego se fotografía la pizarra con las hojas para medir la superficie de cada una éstas en el paquete ImageJ (<A href=http://rsb.info.nih.gov/ij/ target="_blank">http://rsb.info.nih.gov/ij/</A>).</font></p>     <p align="justify"><a name="f5"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_05.jpg" width="730" height="420"></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Para determinar el LDMC, tan pronto como se llega al laboratorio, se pesan mínimo 20 hojas seleccionadas (pueden ser las mismas que fueron para determinar la SLA) de cada especie colectada en cada sitio evaluado y se guardan en sobres de papel sabana etiquetados para secarlas en horno a 65&deg;C durante tres días hasta que las hojas pierdan toda el agua para volver a pesarlas. Al pesar las muestras, se debe utilizar la misma balanza para reducir el error. Al</font> <font face="Verdana" size="2">determinar el SLA y/o el LDMC, se recomienda procesar las muestras en laboratorio lo antes posible a menos que se tenga refrigeración de 3&deg;C o menos. De lo contrario, como las plantas de los bofedales son de alta montaña continuarán creciendo, pero por la privación de luz las hojas serán blancas y se alterarán los datos de campo.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Datos descriptivos complementarios</b></font></p>     <p align="justify"><font face="Verdana" size="2">Después de describir los patrones de diversidad y productividad de la vegetación, proponemos realizar mediciones microambientales para inferir los posibles mecanismos ecológicos que originan estos patrones. Estas mediciones se pueden dividir en tres tipos: 1) parámetros fisicoquímicos, 2) compactación de los cojines y 3) contenido de agua del sustrato.</font></p>     <p align="center"><font face="Verdana" size="2"><b>Parámetros fisicoquímicos</b></font></p>     <p align="justify"><font face="Verdana" size="2">La cantidad de materia orgánica, el pH, la conductividad y los nutrientes del agua y del sustrato contribuyen en la descripción</font> <font face="Verdana" size="2">del estado de los bofedales para hacerlos comparables con otros estudios. Por ejemplo, valores de pH muy bajos (alrededor de cinco) pueden deberse a efectos de la minería o materia orgánica en descomposición (Meneses 2012). En el caso de la minería, éste pH puede solubilizar metales pesados haciéndolos disponibles para las comunidades biológicas. Con el objetivo de conocer las condiciones fisicoquímicas del agua presente dentro del suelo orgánico, dentro de cojines seleccionados en pozos de aproximadamente 20 cm de profundidad (<a href="#f6a">Fig. 6a</a>) se mide <i>in situ </i>la temperatura, el pH y la conductividad eléctrica del agua. A este respecto, se sugiere utilizar el mismo equipo multiparámetro de campo (TESTR35 marca OAKTON, Malasia; <a href="#f6a">Fig. 6b</a>) por su practicidad de transporte y para reducir el error intrínseco de los equipos. Luego en cada pozo, con jeringa se recolectan 500 ml de agua en frascos plásticos estériles etiquetados para evaluar el contenido de nitrógeno, fósforo y potasio (NPK) que son los principales macronutrientes que pueden afectar a las plantas.</font></p>     <p align="justify"><a name="f6a"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_06.jpg" width="735" height="562"></p>     <p align="justify"><font face="Verdana" size="2">Al mismo tiempo, para conocer las condiciones del sustrato donde habitan los cojines, se recolectan muestras de materia orgánica extraídas al cavar los pozos (excluyendo el material vivo). Con estas muestras se puede determinar la cantidad de humedad, de nutrientes NPK y el porcentaje de materia orgánica. El nivel de nutrientes permite interpretar la productividad de las plantas de los bofedales. Sin embargo, se debe tomar en cuenta que especialmente el nitrógeno y fósforo son más fáciles de detectar en muestras de sustrato que en muestras de agua (J. Chincheros, com. pers. 2013). Coronel <i>et al. </i>(2004) y Meneses (2012) encontraron valores por debajo del límite de detección en pozas de bofedales altoandinos. Entonces se sugiere tomar en cuenta los límites de detección de los equipos que medirán estos</font> <font face="Verdana" size="2">parámetros; de lo contrario, estos no podrán determinarse con exactitud y las muestras obtenidas en campo no tendrán utilidad. Para estudios profundos sobre la dinámica del ciclaje de nutrientes, Bridgham <i>et al. </i>(1998) indican que la tasa de mineralización expresada por unidad de volumen de suelo o sustrato predice la disponibilidad de nutrientes en humedales de manera efectiva. La conductividad eléctrica (uS/ cm) es sensible a los cambios de temperatura: para evitar sesgos en las mediciones, se recomienda aplicar un factor de corrección (FC):</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_ecuacion_01.gif" width="234" height="27"></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">,donde </font>&Chi;<font face="Verdana" size="2"> es la temperatura de la medición de conductividad <i>in situ.</i></font></p>     <p align="justify"><font face="Verdana" size="2">Para calcular la conductividad estandarizada a 25&deg;C se aplica la fórmula:</font></p>     <p align="center"><font face="Verdana" size="2">conductividad estandarizada a 25&deg;C=(FC)(CE)</font></p>     <p align="justify"><font face="Verdana" size="2">,donde FC = factor de corrección y CE = conductividad eléctrica medida <i>in situ.</i></font></p>     <p align="center"><font face="Verdana" size="2"><b>Compactación</b></font></p>     <p align="justify"><font face="Verdana" size="2">La compactación (kPa) indica cuan duro o laxo es un cojín, lo que puede ser 1) una adaptación a las condiciones adversas como alta velocidad del viento, frío o pisoteo por los herbívoros y/o 2) puede reflejar la capacidad que posee un cojín para albergar otras especies, con la hipótesis de que cojines más duros serán menos colonizados por otras plantas (e.g. Michalet <i>et al. </i>2011). La compactación se puede medir con un compactómetro (Agratronix, Streetboro modelo OH 44241, USA) a través de cinco mediciones distribuidas uniformemente en cada cuadrante (<a href="#f6a">Fig.6c</a>).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Contenido de agua en el sustrato</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales son ambientes semi-acuáticos, así que se espera que el contenido de agua dentro del sustrato orgánico pueda ser un factor determinante de la diversidad y productividad de la vegetación. La cantidad de agua dentro del sustrato recolectado (% humedad) se puede determinar al pesar cada muestra de sustrato obtenida en el campo (peso fresco) y posteriormente la misma muestra se seca en un horno hasta que pierda todo su contenido de agua, para obtener el peso seco. La fórmula para calcular el porcentaje de humedad es:</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_ecuacion_02.gif" width="256" height="34"></p>     <p align="justify"><font face="Verdana" size="2">,donde P<sub>h</sub> es el peso del suelo húmedo (g) y P<sub>s </sub>el peso del suelo seco (g).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Análisis de datos</b></font></p>     <p align="justify"><font face="Verdana" size="2">El tema de ese artículo no se centra en presentar métodos estadísticos e índices de diversidad de plantas. Sin embargo, el protocolo es adecuado para 1) proveer indicios de diversidad </font><font size="2">&alpha;</font><font face="Verdana" size="2">, &beta; y </font><font size="2">&gamma;</font><font face="Verdana" size="2"> y 2) desarrollar análisis multivariados, los cuales ayudaran a definir un patrón global de distribución de las plantas en relación con variables ambientales abióticas como bióticas. En adecuación con el primer objetivo específico, cualquier índice de diversidad o de productividad de la vegetación(como el LDMC), se puede correlacionar con gradientes de área de bofedal o de altitud a través de regresiones. También se puede incluir estas variables dentro de análisis multivariados. En relación con el segundo objetivo (efecto del tipo de plantas en cojín sobre las comunidades vegetales), variables como pH, compactación del cojín, tasa de nutrientes pueden ser analizados a través análisis de varianza (ANOVA) y afines. Pero también puede utilizarse análisis de ordenación directa como el CCA, utilizando como única variable explicativa categórica el tipo de cojín para determinar efectos globales sobre la composición de las comunidades de plantas y sobre el conjunto de variables ambientales abióticas medidas. Para proveer un índice global del efecto de la heterogeneidad ambiental sobre la diversidad vegetal, se propone calcular la distancia Euclidiana (Quinn &amp; Keough 2002), que cuantifica cuan disimilares son dos cuadrantes según las variables ambientales medidas. Su fórmula es:</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_ecuacion_03.gif" width="121" height="80"></p>     <p align="justify"><font face="Verdana" size="2">,donde <i>X<sub>ji</sub> </i>es el valor de la variable ambiental <i>i </i>en el cuadrante <i>j y X<sub>ki</sub> </i>es el valor de la variable ambiental <i>i </i>en el cuadrante <i>k. </i>De acuerdo al protocolo planteado se propone promediar las distancias Euclidianas entre pares de cuadrantes para tener una medida de heterogeneidad por bofedal. Este cálculo se </font><font face="Verdana" size="2">realiza rápidamente en el programa PAST </font><font face="Verdana" size="2">(<a href="http://folk.uio.no/ohammer/past/" target="_blank">http://folk.uio.no/ohammer/past/</a>). Se introduce una matriz donde cada columna corresponde a cada parámetro ambiental medido y cada fila corresponde a cada cuadrante evaluado. La distancia Euclidiana puede tomar valores desde cero (para dos sitios exactamente similares) y no tiene límite superior entonces puede tomar valores muy grandes, se recomienda estandarizar las distancias obtenidas para tener valores entre 0 y 1, donde 1 es el máximo valor de heterogeneidad (Quenta 2013).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusión y perspectivas</b></font></p>     <p align="justify"><font face="Verdana" size="2">A la luz de los primeros resultados obtenidos, se puede evaluar parcialmente la pertinencia de los métodos utilizados y proponer modificaciones para mejorar estudios futuros en el tema. En cuanto al número de cuadrantes por </font><font face="Verdana" size="2">bofedales para tener buena representatividad de la diversidad, realizamos un gráfico de acumulación de especies en relación con el número de cuadrantes (<a href="#f7">Fig. 7</a>). Concluimos que se necesita un m&iacute;nimo de ocho-diez cuadrantes para obtener una buena representatividad, dependiendo de la heterogeneidad ambiental.</font></p>     <p align="justify"><a name="f7"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_07.gif" width="731" height="473"></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2"> En cuanto a la estimación de la productividad, el SLA parece no reflejar las diferencias en la productividad y en la estructura foliar de las diferentes especies en cojín (<a href="#f8">Fig. 8</a>). </font></p>     <p align="justify"><a name="f8"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a05_figura_08.gif" width="734" height="403"></p>     <p align="justify"><font face="Verdana" size="2">Esto puede deberse a las hojas cilíndricas características de la familia Juncaceae, especialmente <i>O. andina </i>tiene hojas fuertemente plegadas y dificultan la precisión de la determinación de su superficie. Al contrario, el LDMC mostró mejor las diferencias; así, <i>O. andina </i>es menos productiva pero más estrés tolerante que D. <i>muscoides, </i>apoyando cuantitativamente lo planteado por Ruthsatz (2012). También sugerimos realizar mediciones de LDMC en varias épocas del año</font> <font face="Verdana" size="2">para incrementar la relevancia de las relaciones observadas en la <a href="#f8">Fig. 8</a>, bajo la hipótesis de que la productividad de las plantas en cojín puede ser variable a lo largo del año.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos al Herbario Nacional de Bolivia por brindarnos sus instalaciones para el tratamiento de muestras en la secadora y a sus investigadores, J. Acho por su colaboración en el procesamiento de muestras de plantas y sustratos y a J. Chincheros por compartir su conocimiento de las relaciones entre nutrientes del suelo y plantas. Este estudio es parte del programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F., B. Buendia, C. Mazoyer &amp; O. Dangles. 2012. Unexpected mechanisms sustain the stress gradient hypothesis in a tropical alpine environment. Journal of Vegetation Science 23: 62-72.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Anthelme, F., L. A. Cavieres &amp; O. Dangles. 2014. Facilitation among plants in alpine environments in the face of climate change. Frontiers in Plant Science 5:387. doi: <a href="http://dx.doi.org/10.3389/fpls.2014.00387" target="_blank">10.3389/fpls.2014.00387</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Aubert, S., F. Boucher, S. Lavergne, J. Renaud &amp; P. Choler. 2014.1914-2014: A revised worldwide catalogue of cushion plants 100 years after Hauri and Schröter Alpine Botany 124: 59-70.</font></p>     <p align="justify"><font face="Verdana" size="2">Baraer, M., B. Mark, J. Mckenzie, T. Condom, T. Bury, J. Huh, K., Portocarrero, C. Gómez &amp; S. Rathay. 2012. Glacier recession and water resources in Peru, Cordillera Blanca. Journal of Glaciology 58:134-150.</font></p>     <p align="justify"><font face="Verdana" size="2">Beck, S., A. I. Domic, C. García, R. I. Meneses, K. Yager &amp; S. Halloy. 2010. El Parque Nacional Sajama y sus plantas. Fundación</font> <font face="Verdana" size="2">PUMA &amp; Conservación Internacional, La Paz. 250 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Benavides, J.C., D. H. Vitt, &amp; R. K. Wieder. 2013. The influence of climate change on recent peat accumulation patterns of <i>Distichia muscoides </i>cushion bogs in the high-elevation tropical Andes of Colombia. Journal of Geophysical Research: Biogeosciences 118 (4): 1627-1635.</font></p>     <p align="justify"><font face="Verdana" size="2">Bridgham, S., K. Updegraff y &amp; J. Pastor. 1998. Carbon, nitrogen and phosphorus mineralization in Northern wetlands. Ecology 79 (5): 1545-1561.</font></p>     <p align="justify"><font face="Verdana" size="2">Coronel, S., S. Declerck, M. Maldonado, F.&nbsp; Ollevier &amp; L. Brendonck. 2004. Temporary shallow pools in high-Andes &quot;bofedal&quot; peatlands: a limnological characterization at different spatial scales. Archives des Sciences 57: 85-96.</font></p>     <p align="justify"><font face="Verdana" size="2">Cornelissen, J., S. Lavorel, E. Garnier, S. Diaz, N. Buchmann, D. Gurvich, P. Reich, H. Steege, H. Morgan, M. van der Heijden, J. Pausas &amp; H. Poorter. 2003. A handbook of protocols for standardized and easy measurement of plant functional traits worldwide. Australian Journal of Botany 51: 335-380.</font></p>     <p align="justify"><font face="Verdana" size="2">Ellison, A. M., M. S. Bank, B. D. Clinton, E. A. Colburn, K. Elliott, C. R. Ford, D. R. Foster, B. D. Kloeppel, J. D Knoepp, G. M. Lovett, J. Mohan, D. A. Orwig, N. L. Rodenhouse, W. V. Sobczak, K. A. Stinson, J. K. Stone, C. M. Swan, J. Thompson, B. Von Holle &amp; J. R. Webster. 2005. Loss of foundation species: consequences for the structure and dynamics of forested ecosystems. Frontiers in Ecology and the Environment 3(9): 479-486.</font></p>     <p align="justify"><font face="Verdana" size="2">Garnier, E., P. Cordonnier, J. L. Guillerm &amp; L. Sonié. 1997. Specific leaf area and leaf nitrogen concentration in annual and perennial grass species growing in Mediterranean old-fields. Oecologia 111(4): 490-498.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Gould, B., B. León, A. M. Buffen &amp; L.</font> <font face="Verdana" size="2">G.&nbsp; Thompson. 2010. Evidence of a</font> <font face="Verdana" size="2">high-Andean, mid-Holocene plant community: an ancient DNA analysis of glacially preserved remains. American Journal of Botany 97(9): 1579-1584.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Grime, J. P. 2006. Plant strategies, vegetation processes, and ecosystem properties. John Wiley &amp; Sons, Hoboken. 456 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082058&pid=S1605-2528201400030000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Kent, M. &amp; P. Coker 1992. Vegetation description and analysis. A practical approach. Wiley, Nueva York. 363 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Lande, R. 1996. Statistics and partitioning of species diversity, and similarity among multiple communities. Oikos 76: 5-13.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Magurran, A. 2004. Measuring biological diversity. Blackwell, Oxford. 264 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082061&pid=S1605-2528201400030000500016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font face="Verdana" size="2">Meneses, R. I. 1997. Estudio de la vegetación en la zona minera de Milluni (Provincia Murillo, Departamento de La Paz). Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 107 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082062&pid=S1605-2528201400030000500017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Meneses, R. I. 2012. Estado de arte de los bofedales en la Cordillera Real en el área que abarca la cuenca de Khara Khota hasta la cuenca de Choqueyapu. Informe Banco Interamericano de Desarrollo (BID), La Paz. 74 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Michalet, R., S. Xiao, B. Touzard, D. S. Smith, L. A. Cavieres, R. M. Callaway &amp; T. G. Whitham. 2011. Phenotypic variation in nurse traits and community feedbacks define an alpine community. Ecology Letters 14(5): 433-443.</font></p>     <p align="justify"><font face="Verdana" size="2">MMAyA (Ministerio de Medio Ambiente y Agua). 2012. Libro rojo de la flora amenazada de Bolivia. Vol. I. Zona Andina. La Paz. 583 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Ostria, C.1987. Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie). Tesis de doctorado, Universidad de Paris, Paris. 180 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082066&pid=S1605-2528201400030000500021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Quenta, E. 2013. Estructuración espacial de metacomunidades de cladócera en los humedales altoandinos de la Cordillera Real. Tesis de maestría en ecología y conservación, Universidad Mayor de San Andrés, La Paz. 42 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Quinn, G. P. &amp; M.J. Keough. 2002. Experimental design and data analysis for biologists. First. Edition. Cambridge University Press, Cambridge. 537 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Rabatel, A., B. Francou, A.Soruco, J.Gomez, B. Caceres, J. L. Ceballos, R.Basantes, M. Vuille, J.-E. Sicart, C. Huggel, M. Scheel, Y. Lejeune, Y. Arnaud, M. Collet, T. Condom, G. Consoli, V. Favier, V. Jomelli, R. Galarraga, P. Ginot, L. Maisincho, J.Mendoza, M. Ménégoz, E. Ramirez, P. Ribstein, W. Suarez, M. Villacis &amp; P. Wagnon. 2012. Review article of the current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change. The Cryosphere Discussions 6: 2477-2536.</font></p>     <p align="justify"><font face="Verdana" size="2">Ruthsatz, B. 2012. Vegetación y ecología de los bofedales altoandinos de Bolivia. Phytoecologia 42:133-179.</font></p>     <p align="justify"><font face="Verdana" size="2">Sklená&#345;, P. &amp; P. M. Jørgensen. 1999. Distribution patterns of páramo plants in Ecuador. Journal of Biogeography 26: 681-691.</font></p>     <p align="justify"><font face="Verdana" size="2">Segnini, A., A. Posadas, R. Quiroz, D. M. B. P. Milori, S. C. Saab, L. M. Neto &amp; C. M. P. Vaz. 2010. Spectroscopic assessment of soil organic matter in wetlands from the high Andes. Soil Science Society of America Journal 74(6): 2246-2253.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Stohlgren, T. J. 2007. Measuring plant diversity: lessons from the field. Oxford University Press, Nueva York. 389 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=082074&pid=S1605-2528201400030000500029&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Veech, J.A., Summerville, K.S., Crist, T.O. &amp; J.C. Gering. 2002. The additive partitioning of species diversity: recent revival of an old idea. Oikos 99: 3-9.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[ ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buendia]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mazoyer]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Unexpected mechanisms sustain the stress gradient hypothesis in a tropical alpine environment]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2012</year>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>62-72</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caviares]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitation among plants in alpine environments in the face of climate change]]></article-title>
+<source><![CDATA[Frontiers in Plant Science]]></source>
+<year>2014</year>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>387</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aubert]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boucher]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lavergne]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renaud]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Choler]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[1914-2014: A revised worldwide catalogue of cushion plants 100 years after Hauri and Schröter]]></article-title>
+<source><![CDATA[Alpine Botany]]></source>
+<year>2014</year>
+<numero>124</numero>
+<issue>124</issue>
+<page-range>59-70</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baraer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mark]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mckenzie]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Condom]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bury]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huh]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Portocarrero]]></surname>
+<given-names><![CDATA[K.,]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rathay]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Glacier recession and water resources in Peru, Cordillera Blanca]]></article-title>
+<source><![CDATA[Journal of Glaciology]]></source>
+<year>2012</year>
+<numero>58</numero>
+<issue>58</issue>
+<page-range>134-150</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Domic]]></surname>
+<given-names><![CDATA[A.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yager]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El Parque Nacional Sajama y sus plantas]]></source>
+<year>2010</year>
+<page-range>250</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Fundación PUMA & Conservación Internacional]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Benavides]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vitt]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wieder]]></surname>
+<given-names><![CDATA[R.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The influence of climate change on recent peat accumulation patterns of Distichia muscoides cushion bogs in the high-elevation tropical Andes of Colombia]]></article-title>
+<source><![CDATA[Journal of Geophysical Research: Biogeosciences]]></source>
+<year>2013</year>
+<volume>118</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1627-1635</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bridgham]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Updegraffy]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pastor]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Carbon, nitrogen and phosphorus mineralization in Northern wetlands]]></article-title>
+<source><![CDATA[Ecology 79]]></source>
+<year>1998</year>
+<numero>(5)</numero>
+<issue>(5)</issue>
+<page-range>1545-1561</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coronel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Declerck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ollevier]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brendonck]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Temporary shallow pools in high-Andes "bofedal" peatlands: a limnological characterization at different spatial scales]]></article-title>
+<source><![CDATA[Archives des Sciences]]></source>
+<year>2004</year>
+<numero>57</numero>
+<issue>57</issue>
+<page-range>85-96</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cornelissen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lavorel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buchmann]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gurvich]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steege]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morgan]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van der Heijden]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pausas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A handbook of protocols for standardized and easy measurement of plant functional traits worldwide]]></article-title>
+<source><![CDATA[Australian Journal of Botany]]></source>
+<year>2003</year>
+<numero>51</numero>
+<issue>51</issue>
+<page-range>335-380</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bank]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clinton]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Colburn]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elliott]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ford]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Foster]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kloeppel]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Knoepp]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovett]]></surname>
+<given-names><![CDATA[G.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mohan]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Orwig]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodenhouse]]></surname>
+<given-names><![CDATA[N.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sobczak]]></surname>
+<given-names><![CDATA[W.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stinson]]></surname>
+<given-names><![CDATA[K.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stone]]></surname>
+<given-names><![CDATA[J.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Swan]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thompson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Von Holle]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Webster]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Loss of foundation species: consequences for the structure and dynamics of forested ecosystems]]></article-title>
+<source><![CDATA[Frontiers in Ecology and the Environment]]></source>
+<year>2005</year>
+<volume>3</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>479-486</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cordonnier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guillerm]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sonié]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Specific leaf area and leaf nitrogen concentration in annual and perennial grass species growing in Mediterranean old-fields]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>1997</year>
+<volume>111</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>490-498</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gould]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[León]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buffen]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thompson]]></surname>
+<given-names><![CDATA[L.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evidence of a high-Andean, mid-Holocene plant community: an ancient DNA analysis of glacially preserved remains]]></article-title>
+<source><![CDATA[American Journal of Botany]]></source>
+<year>2010</year>
+<volume>97</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>1579-1584</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grime]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Plant strategies, vegetation processes, and ecosystem properties]]></source>
+<year>2006</year>
+<page-range>456</page-range><publisher-loc><![CDATA[Hoboken ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kent]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coker]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vegetation description and analysis: A practical approach]]></source>
+<year>1992</year>
+<page-range>363</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lande]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistics and partitioning of species diversity, and similarity among multiple communities]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>1996</year>
+<numero>76</numero>
+<issue>76</issue>
+<page-range>5-13</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Magurran]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measuring biological diversity]]></source>
+<year>2004</year>
+<page-range>264</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Blackwell]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de la vegetación en la zona minera de Milluni (Provincia Murillo, Departamento de La Paz)]]></source>
+<year>1997</year>
+<page-range>107</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estado de arte de los bofedales en la Cordillera Real en el área que abarca la cuenca de Khara Khota hasta la cuenca de Choqueyapu]]></source>
+<year>2012</year>
+<page-range>74</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Banco Interamericano de Desarrollo (BID)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Xiao]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Touzard]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[D.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Whitham]]></surname>
+<given-names><![CDATA[T.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phenotypic variation in nurse traits and community feedbacks define an alpine community]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2011</year>
+<volume>14</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>433-443</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<collab>MMAyA (Ministerio de Medio Ambiente y Agua)</collab>
+<source><![CDATA[Libro rojo de la flora amenazada de Bolivia: Zona Andina]]></source>
+<year>2012</year>
+<volume>I</volume>
+<publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie)]]></source>
+<year>1987</year>
+<page-range>180</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quenta]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estructuración espacial de metacomunidades de cladócera en los humedales altoandinos de la Cordillera Real]]></source>
+<year>2013</year>
+<page-range>42</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quinn]]></surname>
+<given-names><![CDATA[G.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Keough]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Experimental design and data analysis for biologists]]></source>
+<year>2002</year>
+<edition>1</edition>
+<page-range>537</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Francou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gomez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caceres]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceballos]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Basantes]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vuille]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sicart]]></surname>
+<given-names><![CDATA[J.-E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huggel]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scheel]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lejeune]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arnaud]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Collet]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Condom]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Consoli]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Favier]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jomelli]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galarraga]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ginot]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maisincho]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mendoza]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ménégoz]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramirez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ribstein]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Suarez]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villacis]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wagnon]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Review article of the current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change]]></article-title>
+<source><![CDATA[The Cryosphere Discussions]]></source>
+<year>2012</year>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2477-2536</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ruthsatz]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Vegetación y ecología de los bofedales altoandinos de Bolivia]]></article-title>
+<source><![CDATA[Phytoecologia]]></source>
+<year>2012</year>
+<numero>42</numero>
+<issue>42</issue>
+<page-range>133-179</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sklená]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Distribution patterns of páramo plants in Ecuador]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>1999</year>
+<numero>26</numero>
+<issue>26</issue>
+<page-range>681-691</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Posadas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milori]]></surname>
+<given-names><![CDATA[D.M.B.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saab]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neto]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vaz]]></surname>
+<given-names><![CDATA[C.M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectroscopic assessment of soil organic matter in wetlands from the high Andes]]></article-title>
+<source><![CDATA[Soil Science Society of America Journal]]></source>
+<year>2010</year>
+<volume>74</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2246-2253</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stohlgren]]></surname>
+<given-names><![CDATA[T.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measuring plant diversity: lessons from the field]]></source>
+<year>2007</year>
+<page-range>389</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Veech]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Summerville]]></surname>
+<given-names><![CDATA[K.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crist]]></surname>
+<given-names><![CDATA[T.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gering]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The additive partitioning of species diversity: recent revival of an old idea]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2002</year>
+<numero>99</numero>
+<issue>99</issue>
+<page-range>3-9</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

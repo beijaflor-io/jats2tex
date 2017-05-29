@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000000002</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Avances en Proteómica]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pavisic]]></surname>
+<given-names><![CDATA[Davor]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Argote]]></surname>
+<given-names><![CDATA[Gonzalo]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Ordoñez]]></surname>
+<given-names><![CDATA[Soraya]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Antezana]]></surname>
+<given-names><![CDATA[Oscar]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cary]]></surname>
+<given-names><![CDATA[Ariel]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Antezana]]></surname>
+<given-names><![CDATA[Erick]]></given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[Reynaldo]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Instituto de Investigación en Informática Aplicada ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>1</numero>
+<fpage>01</fpage>
+<lpage>25</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000000002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000000002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000000002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Este artículo intenta brindar una introducción a la bioinformática, sus aplicaciones en la biología molecular y sus implicaciones en la medicina. Para esto, primeramente se define brevemente a los genes y su función en el proceso de formación de proteínas; estos dos términos ayudan a definir a la proteómica como el estudio de las proteínas expresadas por el genoma. El éxito de la proteómica depende de herramientas que permitan determinar la secuencia de aminoácidos que componen a una proteína. En este artículo se describen algunas técnicas bioinformáticas que actualmente se utilizan para la determinación de estas secuencias. La determinación de secuencias permite establecer una relación entre las proteínas y los genes que las codifican, conocimiento que puede servir para muchos propósitos diferentes. Entre los más importantes es establecer el papel que juegan los genes durante la enfermedad.]]></p></abstract>
+</article-meta>
+</front><body><![CDATA[ <p  align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Avances en Prote&oacute;mica</B></font>     <p >    <p  align="center" >Davor Pavisic -Gonzalo Argote -Soraya Ordo&ntilde;ez -Oscar Antezana  Ariel Cary -Erick Antezana -Reynaldo Vargas      <p >    <P   align="center" ><I>Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada </I></P >    <p   align="center" ><B>Universidad Cat&oacute;lica Boliviana </b></p >    <P   align="justify" >Resumen </P >    <P align="justify">  Este art&iacute;culo intenta brindar una introducci&oacute;n a la bioinform&aacute;tica, sus aplicaciones en la biolog&iacute;a molecular y sus implicaciones en la medicina. Para esto, primeramente se define brevemente a los genes y su funci&oacute;n en el proceso de formaci&oacute;n de prote&iacute;nas; estos dos t&eacute;rminos ayudan a definir a la prote&oacute;mica como el estudio de las prote&iacute;nas expresadas por el genoma. El &eacute;xito de la prote&oacute;mica depende de herramientas que permitan determinar la secuencia de amino&aacute;cidos que componen a una prote&iacute;na. En este art&iacute;culo se describen algunas t&eacute;cnicas bioinform&aacute;ticas que actualmente se utilizan para la determinaci&oacute;n de estas secuencias. La determinaci&oacute;n de secuencias permite establecer una relaci&oacute;n entre las prote&iacute;nas y los genes que las codifican, conocimiento que puede servir para muchos prop&oacute;sitos diferentes. Entre los m&aacute;s importantes es establecer el papel que juegan los genes durante la enfermedad. </P >    <p   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1. Introducci&oacute;n</B></font> </p >    <P   align="justify" >La publicaci&oacute;n de la teor&iacute;a de Darwin sobre la evoluci&oacute;n de las especies en 1859 y los postulados de Mendel sobre la herencia en 1866 se convirtieron en los primeros pasos dados en el &aacute;rea de la gen&eacute;tica. El descubrimiento de los genes como el elemento b&aacute;sico para la construcci&oacute;n de seres vivos convierte a la biolog&iacute;a, y m&aacute;s particularmenete a la biolog&iacute;a molecular, en uno de los focos de atenci&oacute;n m&aacute;s importantes para gran parte de los centros de investigaci&oacute;n, tanto p&uacute;blicos como privados. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >En Mayo de este a&ntilde;o, el <I>Human Genome Project </I>y la empresa Celera Genomics, anunciaron la finalizaci&oacute;n del primer borrador del genoma humano: aproximadamente 3 gigabytes de pares de bases A, C, T y G que podr&iacute;an, f&aacute;cilmente, llenar m&aacute;s de 2000 diskettes de computadora. Pero este evento es tan solo el umbral del portal que se abre ante un universo completamente nuevo y vasto. Actualmente los cient&iacute;ficos del &aacute;rea est&aacute;n generando bases de datos gigantescas que contienen detalles sobre d&oacute;nde y en qu&eacute; tejidos del cuerpo diferentes genes se &quot;activan&quot;, las formas de las prote&iacute;nas que los genes codifican, c&oacute;mo iteractuan las prote&iacute;nas unas con otras y el papel que juegan durante la enfermedad. La nueva disciplina de la bioinform&aacute;tica, una fusi&oacute;n entre las ciencias de la computaci&oacute;n y la biolog&iacute;a, intenta darle sentido a esta inmensa cantidad de informaci&oacute;n que, d&iacute;a a d&iacute;a aumenta exponencialmente. </P >    <P   align="justify" >El juego completo de instrucciones para replicar un organismo se encuentra en el <I>genoma. </I>El genoma contiene el plano maestro para todas las estructuras celulares y actividades que desarrollar&aacute; un organismo o c&eacute;lula durante su vida. Dentro del n&uacute;cleo de cada una de las millones de c&eacute;lulas humanas se encuentra el genoma humano. &Eacute;ste consiste de mol&eacute;culas de ADN enroscadas, muy compactas y de prote&iacute;nas asociadas que se organizan en estructuras llamadas <I>cromosomas</I>. Para cada organismo, desde simples bacterias hasta organismos sorprendentemente complejos como los seres humanos, los componentes de estos delgados hilos de ADN codifican toda la informaci&oacute;n necesaria para crear y mantener la vida. Para comprender c&oacute;mo el ADN desempe&ntilde;a su funci&oacute;n, es necesario un cierto conocimiento de su estructura y organizaci&oacute;n. </P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"  align="justify" ><B>El ADN</b> </font >    <P   align="justify" >Una mol&eacute;cula de ADN consiste de dos cadenas en forma de doble h&eacute;lice entrelazada de gran longitud. Cada cadena es un arreglo lineal de cuatro unidades similares que se repiten (<I>nucle&oacute;tidos). </I>Cada nucle&oacute;tido est&aacute; compuesto de un az&uacute;car, un fosfato y una base nitrogenada. Las cadenas de ADN se mantienen juntas por medio de enlaces d&eacute;biles de hidr&oacute;geno entre sus bases. Cuatro tipos de bases diferentes se encuentran en el ADN: <I>adenina </I>(A), <I>timina </I>(T), <I>guanina </I>(G) y <I>citosina </I>(C) (Figura 1.A). El orden particular del arreglo de bases a lo largo de esta columna es llamado secuencia de ADN. La secuencia especifica con exactitud las instrucciones gen&eacute;ticas que se requieren para crear y mantener con vida a un organismo determinado con sus rasgos &uacute;nicos y particulares. El tama&ntilde;o del genoma se mide generalmente por el n&uacute;mero de pares de bases; el genoma humano contiene aproximadamente tres mil millones de pares [1,2]. </P >    <P   align="justify" >Cada vez que una c&eacute;lula se divide en dos c&eacute;lulas hijas, el genoma completo debe ser duplicado. Para los humanos y otros organismos complejos, esta duplicaci&oacute;n ocurre en el n&uacute;cleo durante la divisi&oacute;n celular. En este proceso, la mol&eacute;cula de ADN se desenrrolla y los enlaces d&eacute;biles entre los pares de bases se rompen, permitiendo que las dos cadenas que la componen se separen. Cada cadena dirige la s&iacute;ntesis de una nueva cadena complementaria donde los nucle&oacute;tidos libres se unen con sus bases complementarias. Las estrictas reglas de formaci&oacute;n de pares de bases indican que la adenina se juntar&aacute; solamente con la timina formando un par A-T; y la citosina con la guanina formando un par C-G. Por lo tanto, cada c&eacute;lula hija recibe una cadena nueva y una cadena vieja de ADN (Figura 1.B). Este mecanismo de reproducci&oacute;n minimiza la incidencia de errores (mutaciones) que pueden afectar fuertemente al organismo resultante y a sus descendientes. </P >    <p  align="justify" ><B>Genes y Prote&iacute;nas</B> </p >    <P   align="justify" >Cada mol&eacute;cula de ADN contiene muchos miles de genes: las unidades b&aacute;sicas tanto f&iacute;sicas como funcionales de la herencia. Un gen es una secuencia espec&iacute;fica de bases de nucle&oacute;tidos que contiene la informaci&oacute;n requerida para construir una prote&iacute;na. Las prote&iacute;nas, a su vez, proveen los componentes estructurales de las c&eacute;lulas y los tejidos o desempe&ntilde;an la funci&oacute;n de enzimas que son esenciales para las reacciones bioqu&iacute;micas. Se estima que el genoma humano tiene m&aacute;s de 100,000 genes [3], los cuales var&iacute;an significativamente en su longitud extendi&eacute;ndose, generalmente, a varios miles de pares de bases. Sin embargo, se sabe que solamente un 10% del genoma incluye secuencias que codifican prote&iacute;nas. El resto del genoma contiene otros tipos de secuencias que no desempe&ntilde;an una funci&oacute;n de codificaci&oacute;n pero se cree que son secuencias de control y/o secuencias que delimitan a los genes y cuyas funciones todav&iacute;a permanecen un tanto obscuras. </P >    <P   align="justify" >Las prote&iacute;nas son mol&eacute;culas complejas relativamente grandes que est&aacute;n conformadas por largas cadenas de subunidades llamadas amino&aacute;cidos. Veinte tipos diferentes de amino&aacute;cidos pueden conformar a las prote&iacute;nas. Dentro del gen, secuencias espec&iacute;ficas de tres bases (<I>codones) </I>codifican a un amino&aacute;cido. Por ejemplo, la secuencia de bases ATG codifica al amino&aacute;cido <I>metionina</I>. El c&oacute;digo gen&eacute;tico incluye, entonces, una serie de codones que especifican qu&eacute; amino&aacute;cidos son necesarios para formar una prote&iacute;na espec&iacute;fica. </P >    <P   align="justify" >Las instrucciones codificadas para la generaci&oacute;n de prote&iacute;nas que se encuentran en un gen son transmitidas indirectamente v&iacute;a un &aacute;cido ribonucleico mensajero (mARN), una mol&eacute;cula intermediaria de &aacute;cido ribonucle&iacute;co en forma de cadena simple. Para que la informaci&oacute;n de un solo gen pueda ser expresada, una cadena complementaria de mARN es generada a partir de la plantilla de ADN original en el n&uacute;cleo; este proceso es llamado <I>transcripci&oacute;n</I>. El mARN generado sale del n&uacute;cleo al citoplasma celular donde, a su vez, sirve como plantilla para la s&iacute;ntesis de prote&iacute;nas. Esta s&iacute;ntesis se lleva a cabo en los ribosomas donde cada cod&oacute;n es <I>traducido </I>a un amino&aacute;cido. Las prote&iacute;nas van generandose a medida que los amino&aacute;cidos son adheridos a la cadena proteica (ver Figura 2). La prote&iacute;na, generalmente, sufre modificaciones estructurales durante su traducci&oacute;n o una vez que es liberada del ribosoma. Existen literalmente docenas de diferentes tipos de modificaciones que puede sufrir una prote&iacute;na; cada una de estas puede influir en las caracter&iacute;sticas y funciones de la prote&iacute;na lo que incluye un factor adicional de estudio a la secuencia de la prote&iacute;na: la estructura. </P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"   align="justify" ><B>2. La Bioinform&aacute;tica</B> </font >    <P   align="justify" >La Bioinform&aacute;tica es el &aacute;rea de la ciencia en la cual la biolog&iacute;a molecular, las ciencias de la computaci&oacute;n y las tecnolog&iacute;as de informaci&oacute;n se juntan en una sola disciplina. Los objetivos principales del &aacute;rea son crear y madurar nuevas perspectivas globales, a partir de las cuales principios biol&oacute;gicos unificadores pueden ser discernidos. </P >    <P   align="justify" >Existen tres &aacute;reas fundamentales en la bioinform&aacute;tica: el desarrollo de nuevos algoritmos y t&eacute;cnicas estad&iacute;sticas con las que se puedan encontrar y cuantificar relaciones entre elementos de bases de datos muy grandes; el an&aacute;lisis y la interpretaci&oacute;n de varios tipos de datos incluyendo secuencias de nucle&oacute;tidos y amino&aacute;cidos, dominios de prote&iacute;nas y estructuras proteicas; y, finalmente, el desarrollo e implementaci&oacute;n de herramientas que permitan administrar y acceder de forma eficiente a diferentes tipos de informaci&oacute;n. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >Los motivos por los cuales es interesante aplicar enfoques computacionales a problemas de la bioinform&aacute;tica incluyen: el crecimiento exponencial en la cantidad de informaci&oacute;n disponible; la necesidad de unificar la forma de clasificaci&oacute;n de la informaci&oacute;n para evitar un paradigma que se daba en el pasado: <I>un cient&iacute;fico-un gen/prote&iacute;na </I>y la necesidad de encontrar relaciones dentro de esta monta&ntilde;a de informaci&oacute;n por medio de la miner&iacute;a de datos, el proceso por el cual hip&oacute;tesis verificables son generadas y probadas con respecto a la estructura de un gen o prote&iacute;na de inter&eacute;s. </P >    <P   align="justify" >Una de las operaciones fundamentales en la bioinform&aacute;tica involucra la b&uacute;squeda de similitudes u homolog&iacute;as entre las nuevas secuencias de ADN y secuencias o fragmentos de ADN de otros organismos previamente encontrados. Encontrar similitudes permite a los investigadores predecir el tipo de prote&iacute;na que una nueva secuencia codifica. El &aacute;rea de secuenciamiento y estudio del genoma por medio de la bioinform&aacute;tica adopt&oacute; el nombre de <I>gen&oacute;mica </I>mientras que el estudio de las prote&iacute;nas expresadas por el gen adopt&oacute; el nombre de <I>prote&oacute;mica</I>. La gen&oacute;mica, que estudia la decodificaci&oacute;n de las reglas que el genoma de cada organismo contiene, permite determinar c&oacute;mo los amino&aacute;cidos ser&aacute;n encadenados para formar prote&iacute;nas. Esta codificaci&oacute;n se extrae directamente de los cromosomas de las c&eacute;lulas del individuo que se desea estudiar y es una caracter&iacute;stica pr&aacute;cticamente fija. Sin embargo, esta determinaci&oacute;n no dice mucho sobre la estructura final o funci&oacute;n de las prote&iacute;nas; una vez que una prote&iacute;na sale de la &quot;l&iacute;nea ensambladora&quot; de gen-a-prote&iacute;na, &eacute;sta es alterada a medida que toma su forma final: carbohidratos, fosfatos, sulfatos y otros residuos se adhieren a ella d&aacute;ndole su forma final y alterando su masa y funci&oacute;n. El proteoma (las prote&iacute;nas expresadas por el genoma), a diferencia del genoma, no es un conjunto de caracter&iacute;sticas est&aacute;ticas. Al contrario, el proteoma cambia dependiendo del estado de desarrollo del organismo, del tejido al que pertenece o incluso de acuerdo a las condiciones del medio en las que se encuentra el organismo [4]. </P >    <P   align="justify" ><B>Prote&oacute;mica</b> </P >    <P   align="justify" ></B>La prote&oacute;mica trata de subsanar el vac&iacute;o de conocimiento que existe entre el ADN y sus productos finales. El objetivo final de la prote&oacute;mica es la deducci&oacute;n de la estructura y las interacciones de todas las prote&iacute;nas en una c&eacute;lula dada. La comparaci&oacute;n de mapas proteicos de c&eacute;lulas sanas con los mapas de c&eacute;lulas enfermas podr&iacute;a permitir a los investigadores entender los cambios que ocurren en las se&ntilde;ales que generan las c&eacute;lulas y los procesos metab&oacute;licos que se llevan a cabo. Por ejemplo, las empresas farmac&eacute;uticas podr&iacute;an dise&ntilde;ar nuevas pruebas de diagn&oacute;stico e identificar nuevos y mejores receptores para nuevos f&aacute;rmacos. </P >    <P   align="justify" >Los bi&oacute;logos moleculares han estado tratando de desentra&ntilde;ar la configuraci&oacute;n proteica de las c&eacute;lulas por d&eacute;cadas; sin embargo, del mismo modo que con gen&oacute;mica, que trata de identificar a los genes, el &eacute;xito de prote&oacute;mica depende de la habilidad para desarrollar t&eacute;cnicas que puedan identificar r&aacute;pidamente el tipo, la cantidad y las actividades de miles de prote&iacute;nas en una c&eacute;lula. Esta informaci&oacute;n puede f&aacute;cilmente revolucionar el campo de la medicina. Por ejemplo, analizando una muestra del tejido de un paciente, ser&iacute;a posible detectar variaciones en las concentraciones normales de ciertas prote&iacute;nas y diagnosticar enfermedades mucho antes que los s&iacute;ntomas se presenten. Small Molecule Therapeutics, una empresa de New Jersey (USA), ha desarrollado una t&eacute;cnica para comprender la funci&oacute;n de una prote&iacute;na. Su t&eacute;cnica primero encuentra dos prote&iacute;nas que iteract&uacute;an entre s&iacute;, luego crea fragmentos de una de las prote&iacute;nas. Algunos de estos fragmentos pueden bloquear toda iteracci&oacute;n futura con la prote&iacute;na intacta. Los cient&iacute;ficos pueden deducir c&oacute;mo se alteran las funciones de una c&eacute;lula a causa de esta inhibici&oacute;n. La compa&ntilde;&iacute;a ha utilizado esta t&eacute;cnica para detectar inhibidores para la prote&iacute;na RAS que puede producir c&aacute;ncer [5]. </P > <font size="4" face="Verdana, Arial, Helvetica, sans-serif"  align="justify" ><B>3. Identificaci&oacute;n de Prote&iacute;nas</B > </FONT>     <P   align="justify" >En los proyectos de proteoma, los cuales apuntan a identificar y caracterizar todas las prote&iacute;nas expresadas por un organismo o tejido, la identificaci&oacute;n de prote&iacute;nas es una actividad central [3]. La identificaci&oacute;n hace que una prote&iacute;na sea descrita de acuerdo a la secuencia de amino&aacute;cidos que la conforman. Es posible, de este modo, establecer una relaci&oacute;n entre esas secuencias de amino&aacute;cidos con los genes que las codifican y, por lo tanto, relacionar los genomas con los proteomas. Una vez establecida la secuencia (o parte de la secuencia), la identificaci&oacute;n puede ser realizada comparando la secuencia obtenida con bases de datos enormes que contienen prote&iacute;nas y sus secuencias [6]. La identificaci&oacute;n es tambi&eacute;n el primer paso para los estudios de las modificaciones co y post-traducci&oacute;n que sufren las prote&iacute;nas. Adicionalmente, por medio de la identificaci&oacute;n es posible llegar a deducir la funci&oacute;n de las prote&iacute;nas dentro el organismo o tejido. </P >    <p  align="justify" ><B>El Problema de la Idenficaci&oacute;n de Prote&iacute;nas </B > </p>     <P   align="justify" >Antes del proceso de identificaci&oacute;n, es necesario desnaturalizar la prote&iacute;na (Figura 3). La desnaturalizaci&oacute;n se encarga de romper todos aquellos enlaces no-covalentes, as&iacute; como enlaces entre sus amino&aacute;cidos y cualquier grupo fosf&aacute;tico o con el entorno (enlaces d&eacute;biles). Estos enlaces son los que se encargan de dar su forma tridimensional a la prote&iacute;na. Al romperlos, se modifica la estructura de la prote&iacute;na de tal manera que su nueva forma sea la de una cadena lineal. La desnaturalizaci&oacute;n es necesaria para poder separar todas las prote&iacute;nas de una muestra. </P >    <P   align="justify" >Actualmente, la mejor forma de separar (y visualizar) las prote&iacute;nas de una muestra es a trav&eacute;s del uso de la t&eacute;cnica de Electroforesis Bidimensional en geles de polyacrilamida (Two-Dimensional Polyacrilamide Gel Electrophoresis o 2D-PAGE). 2D-PAGE posibilita generar, a partir de una muestra de un flu&iacute;do o de un tejido, un mapa de prote&iacute;nas ordenadas espacialmente en dos dimensiones. Completada su separaci&oacute;n mediante la t&eacute;cnica 2D-PAGE, cada una de las prote&iacute;nas presentes en la muestra puede ser aislada f&iacute;sicamente. Luego, es posible proceder a un an&aacute;lisis detallado para poder a) identificar directamente a la prote&iacute;na de acuerdo a sus atributos en el gel o, b) determinar la secuencia de amino&aacute;cidos que la compone para luego identificar a la prote&iacute;na. </P >    <p  align="justify" ><B>2D-PAGE </B></p >    ]]></body>
+<body><![CDATA[<P   align="justify" >Una vez depositada una muestra biol&oacute;gica en el gel, se genera el mapa proteico en dos etapas que corresponden a cada una de las dos dimensiones mencionadas: En la primer etapa, la focalizaci&oacute;n isoel&eacute;ctrica (IEF), las prote&iacute;nas son separadas en un gradiente de pH hasta que alcanzan una posici&oacute;n estacionaria donde su carga el&eacute;ctrica neta es cero (punto isoel&eacute;ctrio, <I>pI</I>)<Sup>1</Sup>. Las prote&iacute;nas separadas por IEF son separadas luego ortogonalmente por electroforesis en la presencia de sulfato dodecil de sodio (SDS-PAGE). En la segunda etapa, las prote&iacute;nas ligadas a SDS son separadas en el gel de </P > <hr>     <P   align="justify" ><Sup><FONT size="+1">1</Sup><FONT size="+1">El punto isoel&eacute;ctrico de una prote&iacute;na desnaturalizada es un par&aacute;metro que est&aacute; determinado por la composici&oacute;n de amino&aacute;cidos, las terminaciones N y C de los amino&aacute;cidos, y cualquier modificaci&oacute;n post-traducci&oacute;n que haya sufrido la prote&iacute;na. </P > <hr>     <P   >poliacrilamida de acuerdo a su peso molecular, <I>Mw</I>, aplicando una diferencia de potencial perpendicular al gradiente de pH. El peso molecular de una prote&iacute;na se ve afectado por la masa total de la misma. Adicionalmente, se efect&uacute;a un proceso de coloraci&oacute;n del gel para poner en evidencia a las prote&iacute;nas. La t&eacute;cnica m&aacute;s utilizada para la coloraci&oacute;n es la de <I>silver staining </I>[7]. El resultado de este proceso es un gel en el que las prote&iacute;nas que se encuentran en la muestra est&aacute;n separadas bidimensionalmente de acuerdo a su punto isoel&eacute;ctrico y su peso molecular. Cada prote&iacute;na es, por lo tanto, un punto (generalmente referido como <I>spot</I>) en el gel con varios atributos asociados (ver Figura 3). </P >    <P   >La introducci&oacute;n de los nuevos geles IPG (Immbolised pH gradient) eliminaron varios problemas de inestibilidad de gradiente y de pobre capacidad de carga de los geles. &Eacute;stos est&aacute;n disponibles comercialmente en una amplia variedad de intervalos de pH, por lo que se pueden hacer estudios espec&iacute;ficos de prote&iacute;nas en rangos determinados de pH. Esta disponibilidad comercial hace que distintos geles obtenidos por electroforesis puedan ser intercambiados y los resultados comparados entre laboratorios. Tambi&eacute;n, con la ayuda de software especializado, mapas producidos por diferentes laboratorios pueden ser directamente comparados. Esto ha llevado a que varios grupos de investigaci&oacute;n hagan disponibles sus mapas de prote&iacute;nas en Internet, como es el caso de SWISS-2DPAGE disponible en el servidor ExPASy en Ginebra Suiza [6]. </P >    <P   ><U>3.1.</U><U> Identificaci&oacute;n de prote&iacute;nas utilizando su Punto Isoel&eacute;ctrico y Peso Molecular </U>     <P>Una forma de identificar a las prote&iacute;nas de una imagen 2D PAGE es mediante el uso de un mapa 2D PAGE de referencia o gel maestro (<I>master gel</I>) [8]. El <I>master gel </I>es una imagen 2D PAGE representativa de un conjunto de geles y producida a partir de una muestra biol&oacute;gica espec&iacute;fica. Alternativamente, el master gel puede ser producido sint&eacute;ticamente mediante la uni&oacute;n ponderada de un grupo de geles. En estos mapas, cada <I>spot, </I>correspondiente a una prote&iacute;na, est&aacute; vinculado por un n&uacute;mero de acceso (AC) a una bases de datos proteica y posee un v&iacute;nculo a informaci&oacute;n textual relacionada a las prote&iacute;nas del mapa 2D PAGE. </P >     <P   >Dada una imagen 2D PAGE sin procesar, la identificaci&oacute;n de prote&iacute;nas se realiza de la siguiente manera. Primero, se realiza un an&aacute;lisis de la imagen para detectar y cuantificar los <I>spots </I>del mapa. Segundo, se realiza una comparaci&oacute;n con un <I>master gel</I>, emparejando los <I>spots </I>detectados con los correspondientes del <I>master gel. </I>Para realizar el an&aacute;lisis y emparejamiento de geles, existen sistemas inform&aacute;ticos comerciales como, por ejemplo, MELANIE-II que fue parcialmente desarrollado en el I.I.I.A.<Sup><FONT size="+1">2 </Sup><FONT size="+1">[9]. Si para un spot dado, existe su correspondiente par en el master gel, &eacute;ste puede ser f&aacute;cilmente asociado a una prote&iacute;na conocida. Finalmente, el nombre de la prote&iacute;na e informaci&oacute;n adicional puede ser obtenida consultando a los servidores de bases de datos de prote&iacute;nas con el n&uacute;mero de acceso del <I>master gel </I>[8]. </P >     <P   >El almacenamiento de estos mapas de referencia involucra grandes vol&uacute;menes de informaci&oacute;n. Por esto, es necesaria la utilizaci&oacute;n de bases de datos de prote&iacute;nas que integren esta informaci&oacute;n y sean accesibles a los investigadores de todo el mundo (Figura 4). Por tanto, estas bases de datos permiten compartir e integrar informaci&oacute;n concerniente a las prote&iacute;nas contenida en im&aacute;genes 2D PAGE, as&iacute; como tambi&eacute;n informaci&oacute;n relacionada: secuencias de prote&iacute;nas, composici&oacute;n de amino&aacute;cidos, etc. Actualmente, existen varias bases de datos proteicas accesibles mediante Internet [6]. Cada una de estas bases de datos almacena informaci&oacute;n de acuerdo a un inter&eacute;s espec&iacute;fico. </P >    <P   ><U><FONT size="+1">3.2.</U><U> Identificaci&oacute;n de prote&iacute;nas utilizando su Peptide Mass Fingerprint</U></P >     <P   >Alternativamente, despu&eacute;s de su separaci&oacute;n mediante la t&eacute;cnica 2D PAGE, la prote&iacute;na de inter&eacute;s es aislada y f&iacute;sicamente extraida para luego determinar algunos de sus atributos experimentalmente utilizando el an&aacute;lisis llamado <I>peptide mass fingerprint </I>(PMF). Este m&eacute;todo consiste en la fragmentaci&oacute;n de la prote&iacute;na en pedazos componentes o <I>p&eacute;ptidos </I>y la determinaci&oacute;n de sus correspondientes masas moleculares. La fragmentaci&oacute;n de la prote&iacute;na se logra generalmente por digesti&oacute;n de la prote&iacute;na con una enzima, por ejemplo la tripsina, o por alg&uacute;n otro medio qu&iacute;mico. La obtenci&oacute;n de las masas de los p&eacute;ptidos se basa en el resultado de un proceso de espectrometr&iacute;a de masas sobre la muestra fragmentada de la prote&iacute;na [3]. </P >     ]]></body>
+<body><![CDATA[<P   >La espectrometr&iacute;a de masas es una t&eacute;cnica anal&iacute;tica que determina de forma precisa el peso de una mol&eacute;cula particular o el peso de las mol&eacute;culas que componen una mezcla. En unos cuantos segundos, un espectr&oacute;metro de masas es capaz de ionizar una mezcla de p&eacute;ptidos y medir las relaciones masa/carga de cada uno de ellos. Los espectr&oacute;metros de masas que se utilizan para el an&aacute;lisis de p&eacute;ptidos tienen dos componentes principales: una fuente de iones que introduce la muestra al espectr&oacute;metro y un aparato que mide la masa de los iones introducidos. Existen dos m&eacute;todos de ionizaci&oacute;n que se utilizan particularmente para la identificaci&oacute;n. El primero es el <I>Matrix Assisted Laser Desorption/Ionisation Time of Flight Mass Espectrometry </I>(MALDI-TOF MS) [10]. &Eacute;ste genera iones a partir de una muestra s&oacute;lida y mide su masa en un &quot;tubo de vuelo&quot;. El segundo es <I>Electrospray Ionisation Mass Espectrometry </I>(ESI MS) [10], el cual genera iones a partir de una muestra l&iacute;quida y mide su masa en un aparato que puede tambi&eacute;n ser un detector de tiempo de vuelo. Si bien ambos m&eacute;todos producen resultados similares, aparentemente MALDI-TOF MS est&aacute; emergiendo como la mejor alternativa para el an&aacute;lisis de prote&iacute;nas [3]. En el MALDI-TOF MS la muestra es depositada sobre una sonda por co-cristalizaci&oacute;n con una <I>matriz </I>(&aacute;cido arom&aacute;tico que es f&aacute;cilmente soluble y absorbe la luz del l&aacute;ser utilizado para la ionizaci&oacute;n) y luego es introducida a la c&aacute;mara de ionizaci&oacute;n que se encuentra al vac&iacute;o. La ionizaci&oacute;n es inducida por pulsos cortos de un l&aacute;ser enfocado en la muestra. En las configuraciones m&aacute;s t&iacute;picas, las fuentes de iones de MALDI est&aacute;n acopladas a un analizador de masas que mide el <I>tiempo de vuelo</I>. La relaci&oacute;n masa a carga (m/z) de iones formados por este m&eacute;todo de ionizaci&oacute;n son luego medidos en el analizador de masas. Conociendo la carga de los iones medidos, es f&aacute;cil deducir su masa. Con este m&eacute;todo, es posible lograr exactitudes de 0.01% al analizar polip&eacute;ptidos con masas de hasta 30-40 kDa [10]. La espectrometr&iacute;a de masas da como resultado un espectro donde el eje horizontal corresponde a la relaci&oacute;n masa/carga de la part&iacute;cula </P > <hr>     <P   align="center" ><Sup>2</Sup>Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada, Universidad Cat&oacute;lica Boliviana. medida y el eje vertical corresponde al n&uacute;mero de part&iacute;culas medidas que tengan esa relaci&oacute;n particular. </P > <hr>     <P   >A pesar que la interpretaci&oacute;n de los espectros generados por esta t&eacute;cnica puede ser complicada, estos datos proveen informaci&oacute;n importante para: primero, determinar si &eacute;stos corresponden a una prote&iacute;na conocida y/o modificada; y segundo, para determinar si m&aacute;s de una prote&iacute;na es co-migradora en una banda de un spot en un gel. Esta informaci&oacute;n junto con el uso de recursos como las bases de datos de secuencias de prote&iacute;nas forman parte del coraz&oacute;n de la identificaci&oacute;n de prote&iacute;nas basadas en MS y es lograda mediante el uso de la inform&aacute;tica. </P >    <P   >El procedimiento de identificaci&oacute;n consiste en comparar el espectro experimental con espectros te&oacute;ricos. Esto se logra calculando todas las posibles masas que pueden ser generadas fragmentando todas las secuencias en una cierta prote&iacute;na contenida en una Base de Datos. Los resultados son desplegados como una lista de prote&iacute;nas candidatas ordenada de acuerdo a un criterio de bondad (Figura 5). Esta t&eacute;cnica, sin embargo, presenta algunas falencias: el programa no puede determinar a ciencia cierta si una identificaci&oacute;n es correcta; adem&aacute;s, para lograr una identificaci&oacute;n, es necesario que la prote&iacute;na buscada se encuentre en la base de datos y es deseable, por lo tanto, contar con la mayor cantidad de registros en la base. Adem&aacute;s, existe tambi&eacute;n la posibilidad que se encuentren masas de p&eacute;ptidos similares en diferentes elementos de una base de datos y a medida que se incrementan los registros de esta base, tambi&eacute;n se incrementan las posibilidades de tener un falso positivo. </P >    <P   >El I.I.I.A., en colaboraci&oacute;n con el S.I.B.<Sup>3 </Sup>de Ginebra y el H.U.G.<Sup>4</Sup>, est&aacute; desarrollando el proyecto <I>Biograph. </I>Este consiste en el desarrollo de una herramienta de software de apoyo a la t&eacute;cnica PMF para el an&aacute;lisis gr&aacute;fico de datos de espectrometr&iacute;a de masas. Esta herramienta posibilita al investigador comparar y anotar datos experimentales con datos te&oacute;ricos almacenados en bases de datos mundiales y a las cuales se accede mediante la red Interne.</P >     <P   ><U>3.3.Idenficaci&oacute;n de prote&iacute;nas utilizando el M&eacute;todo <I>de Novo</I></U></P >     <P   >Un segundo m&eacute;todo que utiliza a la espectrometr&iacute;a de masas para la identificaci&oacute;n de prote&iacute;nas es el m&eacute;todo <I>de Novo. </I>Este m&eacute;todo, a diferencia del anterior, no necesita una base de datos para determinar la secuencia de amino&aacute;cidos que conforman a un p&eacute;ptido y se realiza en dos etapas bien definidas. En una primera etapa (primer MS) se obtienen las masas de los p&eacute;tidos ya fragmentados previamente; en una seguna etapa (segundo MS) se fragmenta por segunda vez un p&eacute;ptido seleccionado y se obtiene su espectro pemitiendo un an&aacute;lisis a nivel de amino&aacute;cidos. Algunos espectr&oacute;metros de masa pueden seleccionar y fragmentar de forma autom&aacute;tica algunos p&eacute;ptidos y medir las relaciones masa/carga de cada uno de los fragmentos. Esta segunda fragmentaci&oacute;n puede lograrse mediante dos t&eacute;cnicas: por Descomposici&oacute;n Post-Fuente (PSD Post Source Decay) &oacute;, por Disociaci&oacute;n Inducida por Colisi&oacute;n (CID Collision Induced Dissociation). </P >     <P   >En la primera t&eacute;cnica, la muestra es bombardeada con un haz de luz l&aacute;ser de m&aacute;s alto poder que lo normal para dar mayor energ&iacute;a e ionizar a la muestra, la cu&aacute;l se fragmenta al momento de ingresar al </P > <hr>     <P align="center"   ><Sup>3</Sup>Swiss Institute of Bioinformatics, Ginebra -Suiza. </P > <hr>     <P   align="justify" >tubo del espectr&oacute;metro. En la segunda t&eacute;cnica, la muestra tambi&eacute;n es bombardeada con un haz de luz l&aacute;ser, pero la fragmentaci&oacute;n se la realiza en el interior del tubo de vuelo mediante la colisi&oacute;n de la muestra con un gas inerte. Este m&eacute;todo es llamado MS/MS porque consiste en la aplicaci&oacute;n doble del proceso de espectrometr&iacute;a de masas sobre una muestra y consiste en elegir electr&oacute;nicamente en el espectr&oacute;metro uno de los p&eacute;ptidos que sea de inter&eacute;s. Este p&eacute;ptido lleva el nombre de i&oacute;n padre. Posteriormente el i&oacute;n padre es reabsorbido en el espectr&oacute;metro donde se realiza un CID o PSD para fragmentarlo nuevamente y obtener pedazos que, a su vez, son medidos por el espectr&oacute;metro de masas. El resultado del proceso de doble de fragmentaci&oacute;n (MS/MS) es tambi&eacute;n un espectro donde el eje de absisas corresponde a las masas de los fragmentos medidos y el eje de ordenadas corresponde al n&uacute;mero de iones medidos para la masa correspondiente. El problema de secuenciamiento consiste en derivar la secuencia de amino&aacute;cidos que conforman al p&eacute;ptido analizado dado sus espectros MS/MS. De esta manera, es posible deducir la cadena de amino&aacute;cidos que componen al i&oacute;n padre. Para un proceso de fragmentaci&oacute;n ideal y para un espectr&oacute;metro de masas ideal, la secuencia de un p&eacute;ptido puede ser determinada simplemente comparando la diferencia de masas de iones consecutivos de un espectro con las masas te&oacute;ricas de los amino&aacute;cidos (Figura 6). Esta situaci&oacute;n ideal ocurrir&iacute;a si el proceso de fragmentaci&oacute;n pudiese ser controlado de tal modo que cada p&eacute;ptido estuviese cortado entre dos amino&aacute;cidos consecutivos y una &uacute;nica carga fuese retenida solamente en el pedazo con terminal-N. Sin embargo, en la pr&aacute;ctica, el proceso de fragmentaci&oacute;n en los espectr&oacute;metros de masas est&aacute; lejos de ser ideal. Como resultado, el secuenciamiento de p&eacute;ptidos continua siendo un problema abierto [11]. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >La ventaja de este m&eacute;todo, a diferencia de los mencionados previamente, radica en que su forma operativa no depende de una base de datos y la determinaci&oacute;n de secuencias de amino&aacute;cidos de las muestras analizadas puede lograrse sin tener datos hist&oacute;ricos del p&eacute;ptido o prote&iacute;na en cuesti&oacute;n. </P >    <P   align="justify" >El I.I.I.A., en colaboraci&oacute;n con la Universidad de Ginebra, el H.U.G. y la empresa Geneva Bioinformatics, est&aacute; investigando nuevos algoritmos para el secuenciamiento autom&aacute;tico de los espectros generados por MS/MS. Resultados preliminares muestran que, pese a la complejidad del problema, es posible automatizar este proceso [7]. </P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"  align="justify" ><B>4. Perspectivas Futuras </B></font >    <P   align="justify" >La investigaci&oacute;n en gen&eacute;tica molecular est&aacute; revolucionando a pasos gigantescos la pr&aacute;ctica m&eacute;dica y la investigaci&oacute;n biol&oacute;gica. La pr&aacute;ctica m&eacute;dica se ver&aacute; radicalmente alterada cuando se combine la informaci&oacute;n gen&eacute;tica con las nuevas tecnolog&iacute;as cl&iacute;nicas basadas en el diagn&oacute;stico del ADN. Se vislumbra el nacimiento de la &quot;Medicina Molecular&quot; que se caracterizar&aacute;, no s&oacute;lo por el tratamiento de los s&iacute;ntomas de las enfermedades, sino por la b&uacute;squeda de las causas &uacute;ltimas de &eacute;stas. Se desarrollar&aacute;n nuevas t&eacute;cnicas de diagn&oacute;stico, m&aacute;s r&aacute;pidas y m&aacute;s fiables que facilitar&aacute;n la prevenci&oacute;n de las enfermedades. Se desarrollar&aacute;n f&aacute;rmacos m&aacute;s espec&iacute;ficos y efectivos e incluso se practicar&aacute; la terapia g&eacute;netica. </P >    <P   align="justify" >Las herramientas inform&aacute;ticas son cruciales para almacenar e interpretar datos de un modo eficiente y</P > <hr>     <P   align="center" ><Sup>4</Sup> Hospital Universitario de Ginebra -Suiza. </P ><hr>     <P   align="justify" >robusto. Grandes bases de datos de informaci&oacute;n biol&oacute;gica son ya accesibles a trav&eacute;s de redes de comunicaci&oacute;n, en especial, a trav&eacute;s de Internet. La Bioinform&aacute;tica est&aacute; brindando herramientas imprescindibles para llegar a entender el flujo de informaci&oacute;n de los genes y sus estructuras moleculares, su funci&oacute;n bioqu&iacute;mica, su conducta biol&oacute;gica y, finalmente, su influencia en las enfermedades y en la salud. La Biolog&iacute;a Molecular est&aacute; experimentando un gran desarrollo que queda reflejado tanto en el enorme volumen de datos generado, como en la complejidad de las relaciones entre &eacute;stos. Los investigadores ya han identificado algunos genes individuales asociados a varias enfermedades; por ejemplo, la fibrosis c&iacute;stica, la distrofia muscular, la neurofibromatosis y el retinoblastoma [5]. A medida que progresen la gen&oacute;mica y la prote&oacute;mica, se descubrir&aacute;n los mecanismos que causan enfermedades afectadas por varios genes, por factores ambientales asociados y la forma en que var&iacute;an sus expresiones (las prote&iacute;nas). </P >    <P   align="justify" >La predisposici&oacute;n gen&eacute;tica est&aacute; implicada en el desarrollo de enfermedades card&iacute;acas, diabetes y varios tipos de c&aacute;ncer. La identificaci&oacute;n de estos genes y las prote&iacute;nas que estos expresan dar&aacute;n lugar a terapias m&aacute;s eficientes y medidas de prevenci&oacute;n. </P >    <P   align="justify" >El Proyecto Genoma Humano tiene como objetivo descubrir y localizar m&aacute;s de 80.000 genes del genoma y poner toda esta informaci&oacute;n a disposici&oacute;n de la comunidad de investigadores en Biomedicina. El estudio del genoma tambi&eacute;n contribuye al entendimiento del desarrollo embrionario y el envejecimiento humano. La investigaci&oacute;n gen&eacute;tica encontrar&aacute; m&uacute;ltiples aplicaciones en las industrias farmace&uacute;ticas y alimenticias. Tambi&eacute;n, en Salud P&uacute;blica se observan esfuerzos encaminados a la diseminaci&oacute;n de informaci&oacute;n gen&eacute;tica, la formaci&oacute;n de los profesionales de la Salud y el desarrollo de pol&iacute;ticas que incorporen el conocimiento gen&eacute;tico en la pr&aacute;ctica epidemiol&oacute;gica. </P >    <P   align="justify" >Entre los impactos potenciales de las tecnolog&iacute;as de adquisici&oacute;n y gesti&oacute;n de la informaci&oacute;n gen&eacute;tica, aplicadas en la investigaci&oacute;n biom&eacute;dica, se pueden citar: medicina preventiva, medicamentos personalizados por genotipo, procesamiento paralelo masivo de informaci&oacute;n gen&eacute;tica, diagn&oacute;stico en las postas m&eacute;dicas, sistemas de estudio epidemiol&oacute;gico-gen&eacute;ticos, etc. </P >    <P   align="justify" >El I.I.I.A., a trav&eacute;s de los convenios de colaboraci&oacute;n con el S.I.B. y el H.U.G., est&aacute; investigando tecnolog&iacute;as de punta y desarrollando algoritmos que apoyan directamente al progreso de la bioinform&aacute;tica, la biolog&iacute;a molecular y la medicina. </P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"   ><B><I>Referencias</I></B> </font >     ]]></body>
+<body><![CDATA[<!-- ref --><P   align="justify" >[1] H. Curtis &quot;Biolog&iacute;a&quot; 4ta. Edici&oacute;n Editorial Medica Panamericana Buenos Aires 1983. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000143&pid=S1683-0789200100000000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[2] J. Darnell, H. Lodish, D. Baltimore &quot;Mollecular Cell Biology&quot; 2<Sup>nd</Sup>. Edition Scientific American Books -Freeman &amp; Co. New York 1990. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000144&pid=S1683-0789200100000000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[3] Wilkins, Williams, Appel. &quot;Proteome Research: New Frontiers in Functional Genomics&quot;. Springer -Verlag. Berlin 1997. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000145&pid=S1683-0789200100000000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[4] K. Howard. &quot;The Bioinformatics Gold Rush&quot;, Scientific American, Vol 283, No 1. Julio 2000. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000146&pid=S1683-0789200100000000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[5] C. Ezzell. &quot;Beyond the Human Genome&quot;, Scientific American, Vol 283, No 1 Julio 2000. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000147&pid=S1683-0789200100000000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[6] Expasy (http://www.expasy.ch) </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000148&pid=S1683-0789200100000000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >[7] Identificaci&oacute;n de Prote&iacute;nas a Partir de Geles de Electroforesis Bidimensional. Technical Report: Instituto de Investigaci&oacute;n en Inform&aacute;tica Aplicada. Universidad Cat&oacute;lica Boliviana. 2000. </P >     <!-- ref --><P   align="justify" >[8] Vargas J. R. <I>Two-Dimensional Gel Electrophoresis Computer Analysis System: From Image Acquisition to Protein Identification</I>. Ph.D. Thesis, Geneva University, 1996. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000150&pid=S1683-0789200100000000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[9] Melanie-II software package reference. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000151&pid=S1683-0789200100000000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[10] S.Patterson, R. Aebersold. <I>Mass Spectrometric Approaches for the Identification of Gel-Separated Proteins</I>. Electrophoresis 16, 1995. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000152&pid=S1683-0789200100000000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[11] V. Dancik, T. Addona, K. Clauser, J. Vath, Pavel Pevzner. <I>De Novo Peptide Sequencing via Tandem Mass Epectrometry </I>-Journal of Computational Biology, Vol 6, No. 3/4, 1999. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000153&pid=S1683-0789200100000000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[12] The Human Genome Project &quot;To Know Ourselfs&quot; U.S. Department of Energy and The Human Genome Project. 1996. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000154&pid=S1683-0789200100000000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[13] Appel R.D., Sanchez J-C., Bairoch A., Golaz O., Miu M., Vargas R., Hochstrasser D. SWISS2DPAGE: <I>A Database of Two-dimensional Gel Electrophoresis Images</I>. Electrophoresis 14, 1232-1238, 1993. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000155&pid=S1683-0789200100000000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[14] Appel R.D., Bairoch A., Hochstrasser D.F. <I>A New Generation of Information Retrieval Tools for Biologists: The Example of the ExPASy WWW Server</I>. Trends Biochem. Sci. 19:258-260(1994). </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000156&pid=S1683-0789200100000000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[15] Hofmann K., Bucher P., Falquet L., Bairoch A. 	<I>The PROSITE database, its status in 1999, </I>Nucleic Acids Res. 27:215-219(1999). </P ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"  align="center" ><B><I>Leyendas de Figuras</I></B>  </font >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000157&pid=S1683-0789200100000000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><B>Figura 1. (A)</B> Las cuatro bases nitrogenadas de ADN. La adenina (A) se asocia con la timina (T) mientras que la citosina (C) se asocia con la guanina (G). Las cadenas se mantienen unidas por puentes de hidr&oacute;geno. La secuencia de bases en un gen contiene la informaci&oacute;n necesaria para la s&iacute;ntesis de prote&iacute;nas. <B>(B) </B>Replicaci&oacute;n: cada hilo simple se convierte en una plantilla para la s&iacute;ntesis de un nuevo hilo complementario y cada mol&eacute;cula hija forma una copia exacta de la mol&eacute;cula padre. </P >    <P   align="justify" ><B>Figura 2. </B>Cuando los genes son expresados, la informaci&oacute;n gen&eacute;tica (secuencia base) del ADN es copiada a una mol&eacute;cula mensajera mARN. Luego, las mol&eacute;culas de mARN abandonan el n&uacute;cleo de la c&eacute;lula y entran al citoplasma donde tripletas de bases (codones) especifican qu&eacute; amino&aacute;cidos particulares se deben enlazar para fabricar una prote&iacute;na indiviudal. Este proceso se lleva a cabo en los ribosomas que leen el c&oacute;digo gen&eacute;tico del mARN y, tomando los amino&aacute;cidos de los tARNs, los adjuntan a la prote&iacute;na que se est&aacute; formando. </P >    <P   align="justify" ><B>Figura 3. </B>Proceso 2D-PAGE. En esta figura se observa un gel con el mapa proteico obtenido mediante esta t&eacute;cnica. Las prote&iacute;nas en el gel han sido separadas en dos dimensiones: punto isoel&eacute;ctrico y peso molecular. Luego se realiz&oacute; un proceso de coloraci&oacute;n para poder resaltar el mapa proteico resultante. </P >    <P   align="justify" ><B>Figura 4. </B>Esta base de datos contiene mapas proteicos que muestran las posiciones de las prote&iacute;nas, as&iacute; como tambi&eacute;n sus posiciones te&oacute;ricas. Adem&aacute;s, puede ser accedida remotamente mediante Internet a trav&eacute;s del servidor ExPASy. Luego de realizar la consulta, dado un n&uacute;mero de acceso a la base de datos, SWISS-2DPAGE muestra el nombre de la prote&iacute;na, la posici&oacute;n de la prote&iacute;na en un mapa 2D PAGE, su descripci&oacute;n, una lista de mapas en los que se ha identificado la prote&iacute;na y otra informaci&oacute;n espec&iacute;fica. </P >    <P   align="justify" ><B>Figura 5. </B><I>Peptide Mass Fingerprint, </I>proceso de identificaci&oacute;n de prote&iacute;nas mediante la comparaci&oacute;n de datos de espectrometr&iacute;a de masas experimentales con datos te&oacute;ricos contenidos en bases de datos. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><B>Figura 6. </B>Determinaci&oacute;n de la secuencia de amino&aacute;cidos via el proceso MS-MS. </P >    <P   align="center" >Figura 1 Figura 2 </P >    <P   align="center" ><B>Figura 3. Figura 4. Figura 5. Figura 6. </P >     ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Curtis]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biología]]></source>
+<year></year>
+<edition>4ta. Edición</edition>
+<publisher-loc><![CDATA[Buenos Aires ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Medica Panamericana]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Darnell]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lodish]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baltimore]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mollecular Cell Biology]]></source>
+<year></year>
+<edition>2nd</edition>
+<publisher-loc><![CDATA[New York ]]></publisher-loc>
+<publisher-name><![CDATA[Edition Scientific American Books -Freeman & Co.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilkins]]></surname>
+</name>
+<name>
+<surname><![CDATA[Williams]]></surname>
+</name>
+<name>
+<surname><![CDATA[Appel]]></surname>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Proteome Research: New Frontiers in Functional Genomics]]></article-title>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Howard]]></surname>
+</name>
+</person-group>
+<source><![CDATA[The Bioinformatics Gold Rush]]></source>
+<year>Juli</year>
+<month>o </month>
+<day>20</day>
+<publisher-name><![CDATA[Scientific American]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ezzell]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Beyond the Human Genome]]></source>
+<year>Juli</year>
+<month>o </month>
+<day>20</day>
+<publisher-name><![CDATA[Scientific American]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<source><![CDATA[Expasy]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<source><![CDATA[Identificación de Proteínas a Partir de Geles de Electroforesis Bidimensional]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[J. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<collab>Melanie-II</collab>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Patterson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aebersold]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mass Spectrometric Approaches for the Identification of Gel-Separated Proteins]]></source>
+<year>1995</year>
+<publisher-name><![CDATA[Electrophoresis 16]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dancik]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Addona]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clauser]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vath]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pevzner]]></surname>
+<given-names><![CDATA[Pavel]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[De Novo Peptide Sequencing via Tandem Mass Epectrometry -Journal of Computational Biology]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<source><![CDATA[The Human Genome Project "To Know Ourselfs"]]></source>
+<year>1996</year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanchez]]></surname>
+<given-names><![CDATA[J-C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bairoch]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Golaz]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miu]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vargas]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Database of Two-dimensional Gel Electrophoresis Images]]></source>
+<year>1993</year>
+<page-range>1232-1238</page-range><publisher-name><![CDATA[Electrophoresis 14]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Appel]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bairoch]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hochstrasser]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A New Generation of Information Retrieval Tools for Biologists: The Example of the ExPASy WWW Server]]></source>
+<year>1994</year>
+<page-range>258-260</page-range><publisher-name><![CDATA[Trends Biochem. Sci. 19]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hofmann]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bucher]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Falquet]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bairoch]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The PROSITE database, its status in 1999]]></source>
+<year>1999</year>
+<page-range>215-219</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

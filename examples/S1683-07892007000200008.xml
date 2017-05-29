@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892007000200008</article-id>
+<title-group>
+<article-title xml:lang="en"><![CDATA[A Model for Internet Traffic Growth]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[W. Meijer]]></surname>
+<given-names><![CDATA[Johannes]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana  ]]></institution>
+<addr-line><![CDATA[ ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2007</year>
+</pub-date>
+<volume>3</volume>
+<numero>4</numero>
+<fpage>750</fpage>
+<lpage>760</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892007000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892007000200008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892007000200008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="en"><p><![CDATA[A simple model that let us predict the doubling time of Internet traffic is presented. The growth of this traffic depends on three factors, that is the doubling time of the number of users that are online, the doubling time of the time that they spend online and the doubling time of the bandwidth provided to the end user by telecommunication networks. The first and the second depend primarily on marketing strategies while the last one depends on Moore’s Law. In 2006 in Europe these three doubling times led to an expected doubling time for the traffic on the Internet of roughly 1.2 years. The real value of the doubling time of the traffic of a group of European Internet Exchanges agrees well with the expected value.]]></p></abstract>
+</article-meta>
+</front><body><![CDATA[ <p align="center"><strong><font size="4" face="Verdana, Arial, Helvetica, sans-serif">A Model for Internet Traffic Growth</font></strong></p>     <p align="center"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Johannes W. Meijer</font></strong></p>      <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Departamento de Ciencias Exactas e Ingeniería, Universidad Católica Boliviana    <br> Av. General Galindo s/n, Cochabamba, Bolivia</font></p>      <p align="justify"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">e-mail: <a href="mailto:lujan@ucbcba.edu.bo"> meijgia@hotmail.com</a></font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> </font></p> <hr>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract</b></font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A simple model that let us predict the doubling time of Internet traffic is presented. The growth of this traffic depends on three factors, that is the doubling time of the number of users that are online, the doubling time of the time that they spend online and the doubling time of the bandwidth provided to the end user by telecommunication networks. The first and the second depend primarily on marketing strategies while the last one depends on Moore’s Law. In 2006 in Europe these three doubling times led to an expected doubling time for the traffic on the Internet of roughly 1.2 years. The real value of the doubling time of the traffic of a group of European Internet Exchanges agrees well with the expected value.</font></p> <hr>     <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">1 Introduction </font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&quot;There’s plenty of room at the bottom!&quot; was the intriguing title of the speech that Richard Feynman gave at the end of 1959 at the annual meeting of the American Physical Society at Caltech. It was an invitation to enter a new field of physics. What Feynman talked about was the problem of manipulating and controlling things on a small scale. There was nothing in the physical laws that he could see that said the computer elements could not be made enormously smaller than they were. In fact, there might be certain advantages [1]. Gordon Moore of Intel pointed out that by making things smaller, everything gets better simultaneously. There is little need for tradeoffs. The speed of products goes up, the power consumption goes down, system reliability, as we put more of the system on a chip, improves by leaps and bounds, but especially the cost of doing things electronically drops as a result of the technology [2] [3]. In 1959 some people were already heading in the direction proposed by Feynman. Earlier that year Jack Kilby of Texas Instruments patented the first integrated circuit while Robert Noyce and his colleagues at Fairchild Semiconductor succeeded in turning the integrated circuit from a laboratory prototype into a product that could be produced in ever increasing numbers. A lot however still had to done. An important milestone was reached in 1971, when Intel succeeded in putting the first computer on a chip. At Intel they called it a microprocessor. Very soon it would become the soul of a new machine called the personal computer.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">2 Moore’s Law revisited</font></strong></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">It is not always chaos that rules the market although this seems frequently to be the case in the financial markets; this is certainly not the case in the ICT markets. In the ICT markets Moore’s Law rules supreme. Since Gordon Moore formulated his law in 1965 it has served as the ultimate ICT signpost and few people are willing to bet against it because everybody who did lost.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A generalization of Moore’s Law states that all performance indicators applicable to the field of information and communication technology improve by a factor of two every 1 to 2.5 years [4]. The storage capacity of hard disk drives doubles roughly every year and the processing power of microprocessors doubles every two years [5]. Furthermore in December 2002 I reported that the bandwidth provided by wireless and wireline networks doubled roughly every 2.5 years [6]. This doubling time has gone down to 1.7 years in recent years as I show in this article (Fig 1).</font></p>      <p align="center"><a name="img1"></a><img src="/img/revistas/ran/v3n4/tabla08_1.gif" width="483" height="313"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">There is a quick and simple way to determine the doubling time of a parameter. Determine the number of years that it takes for this parameter to grow by a factor of 1000. Divide this number of years by 10 and you find the value of the doubling time. This trick is justified due to the fact that 1000 &#8776; 2<sup>10</sup>. The exact relation between the doubling time DT and the growth percentage x is given by DT = ln (2) / ln (1+ x/100), see table 1 for some values.</font></p>      <p align="center"><a name="img2"></a><img src="/img/revistas/ran/v3n4/tabla08_2.gif" width="495" height="274"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The value of a doubling time is normally a long term average that varies over time [2]. Let’s assume that the growth of a specific market, e.g. the number of people online, follows an S-curve. Under these circumstances the growth percentage x(t) is a function of time that starts to decrease when half the population is online. When market saturation sets in, that is almost everybody is online, the growth percentage approaches zero and the doubling time infinite.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">3  Software, Science and Games.</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The software industry in general has always been the foremost driving force behind the semiconductor industry. The variation on Parkinson's Law &quot;Software expands to fill the available memory!&quot; speaks for itself [3]. Another relentless driver has been the scientific community which is constantly on the lookout for chips that can provide more processing power. The computer games industry is an equally powerful force that uses processing power and memory indiscriminately. Chess computers provide a nice example. In 1988 Igor Ivanov was the first international master who lost a serious game from a computer. Some commentators thought that Ivanov must have been drunk. They overlooked that Moore’s Law was at work here. Human chess players simply can’t keep up with computers that double their processing power every two years. In 1997 world champion Garry Kasparov learned it the hard way when he lost a short match from IBM’s Deep Blue and in 2006 world champion Vladimir Kramnik met the same fate against Deep Fritz [7]. </font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">4 Bandwidth the fifth basic need.</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Since the arrival of the Internet in 1991 and the Netscape browser in 1995 bandwidth has become, just like food, drink, sleep and sex, a primary need. In 1998 I reported that the average bandwidth provided by (POTS) modems and ISDN terminal equipment followed the rhythm of Moore’s Law with a doubling time of roughly 2.4 years [4]. Nielsen [8] and Eldering et. al. [9] reported doubling times of 1.6 and 1.9 years. These doubling times are lower due to their rather late introduction data for the earlier modems. Since the arrival of high speed ADSL terminals in 2001 this doubling time went down to 1.7 years, see figure 2. In 2005, when the average connection speed to the internet was 1116 kbps, top speeds of 12 Mbps downlink and 1024 kbps uplink were available to customers who were willing to pay for it. At that time just about 3% of the access connections made use of this top speed.</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">An intriguing fact is that from 1979 until 1996 the telephone network was, due to Shannon’s Law, transparent for all modem speeds. During that period bandwidth was essentially free. The development of modems was of course ruled by Moore’s Law. The question that comes to my mind is why the IT industry didn’t take advantage of this free bandwidth goldmine. The answer to this question is of course quite simple. It would have required Moore to quicken the pace of his own law. Apparently the rate of progress in the ICT market is limited by his law.</font></p>      <p align="center"><a name="img3"></a><img src="/img/revistas/ran/v3n4/tabla08_3.gif" width="474" height="261"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mobile data networks became available in earnest with GPRS networks in 2001. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Typical speeds of 40 kbps downlink and 20 kbps uplink became available. In 2004, when UMTS networks became operational, the initial speed was 64 kbps. In 2006 typical UMTS data rates of 384 kbps on R99 handsets became widely available. These three data points represent a doubling time of 1.6 years, which is similar to the one for fixed networks.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We observe once again that Moore’s Law rules supreme in both fixed and mobile networks. This was also shown by Phil Edholm of Nortel and <strong>Hossein Eslambolchi of AT&amp;T</strong><b> </b>[10].</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In 2002 I expected that broadband communication of 384 kbps on wireless networks would become available at the earliest in 2006 but more likely in 2008 [6; 11]. Mobility has proven to be a much desired feature for many applications by a whole lot of people. This has speeded up developments in mobile networks and the 384 kbps target was already reached in 2006.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nowadays HSDPA networks are being deployed in many countries. Typical downlink data rates up to 1 Mbps can be reached with these networks. The theoretical maximum data rate is 14.4 Mbps. I expect that it will take some time before these networks become the preferred way to connect to the internet..</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A bandwidth corollary to Moore’s Law</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The analysis given above leads to the following corollary to Moore’s Law: The bandwidth provided for by communications networks doubles roughly every 1.7 years. This corollary tells us that in 1.7 years we will have about twice today’s bandwidth at our disposal at a price we are willing to pay.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">5  The end of Moore’s Law</font></strong></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">According to Ed Schaller it is occasionally overlooked that, in stark contrast to what would seem to be implied by the dependable doubling of transistor densities, the route that led to today's chips was anything but smooth [3]. The cost of building a next generation chip factory or “fab” always was a big roadblock. This cost doubles roughly every four years, a phenomenon known as Rock’s Law [2]. So in the end it might be economics that will limit the number of components on a chip [12]. According to Gordon Moore in order to cram more components on a chip we depend on two size factors: bigger dice and finer dimensions [2]. Max Schultz argues that the end of the road for silicon will be reached by 2012 when the narrowest feature of silicon devices – the gate oxide – would reach its fundamental physical limit [13]. This implies that as soon as all the room at the bottom is used up Moore’s Law will be dead. So money and physics are the limiting factors to Moore’s Law [14]. The question that has to be answered in this decade is how to proceed beyond Moore’s Law.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">6  A brief History of Internet Traffic Doubling Times</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">From 1997 till 2000 representatives of WorldCom and its subsidiary UUNet told their audiences time and again that the Internet traffic was doubling every three to four months. These doubling times imply growth percentages between 700 and 1500 percent. Demand would far outstrip supply for the foreseeable future. The catch phrase they used to get their message through was “If you’re not scared, you don’t get it!” [15]. George Gilder shared the same unshakable belief in these doubling times which according to him would ultimately lead to an era of ‘free bandwidth’ [16]. Another proponent of this kind of doubling time was Larry Roberts, one of the founding fathers of the Internet, who stated in January 2000 that the doubling time of Internet traffic between 1997-2008 would be 6 months, i.e. a growth percentage of 300 percent [17]. In 2002 they all must have been scared when WorldCom had to file for Chapter 11 bankruptcy protection. It wasn’t the only mayor Telco that went down after the Internet bubble burst. Among the casualties were Global Crossing and KPNQwest.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">At the other end of the spectrum Coffman and Odlyzko discovered in 1998 that Internet traffic was doubling only roughly each year. More precisely it was growing at rates between 70% and 150% per year. Such growth rates applied not only to the entire Internet, but to a large range of individual institutions as well. Even when there were no obvious bottlenecks traffic tended not to grow faster [18]. At about the same time Peter Sevcik reported similar findings in Business Communications Review [19]. Roberts restated his earlier prediction in March 2002 when he said that Net traffic growth over the next few years could be between 100% and 200% per year. According to Coffman and Odlyzko this exponential growth appeared to reflect complicated interactions of technology, economics, and sociology, similar to, but more delicate than those that have produced Moore’s Law in semiconductors [20] [21] [22]. A simple model that explains the growth rates found by the Coffman and Odlyzko will be presented in the paragraphs that follow.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">7  Internet traffic, a combination of Moore’s law and smart marketing</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Internet traffic grows three ways – more users, longer connect times and more available bandwidth for the end user. The bandwidth factor has already been considered in the preceding paragraphs and what follows is a description of the effects of the other two factors. </font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The art of estimating how many people are online throughout the world is an inexact one at best. Surveys abound, using all sorts of measurement parameters. Most numbers are &quot;educated guesses&quot; at best as to how many people are online. Obviously the methodologies used by different marketing research institutes differ. For my analysis I am only interested in the growth rates per year. Absolute numbers don’t matter much. A sound methodology is sufficient. This becomes strikingly clear if we compare the numbers in table 2 from internetworldstats.com with those of comScore Networks of March 2007. The latter announced that between January 2006 and January 2007 the number of Internet users worldwide age 15+ increased with 10%; up from 677 to 745 million. Their user numbers are much lower than those given in table 2. The reported percentages are however similar.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The number of users on different continents grow at different rates. Differences in local market circumstances clearly play an important role.</font></p>      <p align="center"><a name="img1"></a><img src="/img/revistas/ran/v3n4/tabla08_1.gif" width="496" height="345"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Another factor that contributes to the growth of Internet traffic is the increase in the time that people spend online. The time online goes up now that ever more people are moving to broadband access for which they pay a flat fee. In March 2007 comScore Networks reported that for example in Canada in January 2007 the average broadband user was on-line for 41.3 hours versus 14.2 hours for narrowband users. A remarkable difference.</font></p>      ]]></body>
+<body><![CDATA[<p align="center"><a name="img5"></a><img src="/img/revistas/ran/v3n4/tabla08_5.gif" width="484" height="154"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In November 2006 the European Interactive Advertising Association (EIAA) published the data presented in table 3. We observe that the growth rate for the time spent on the internet in 2006 was 11% which leads to a doubling time of 6.6 years.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">7.1  A model for the growth of Internet traffic</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The doubling times for the number of people online, the time they spent on the web and the available bandwidth to the user in the year 2006 can be found in table 4. The increase of the total Internet traffic depends on these three factors. The combination of these three factors, under the assumption of exponential growth with doubling times DT, leads to IT(year) = IT(year=0).2<sup>year/DTnumber of users</sup>.2<sup>year/DTtime online</sup>.2<sup>year/DTbandwidth</sup> where IT stands for Internet Traffic. From this formula it follows that 1/DT<sub>internet traffic</sub> = 1/DT<sub>number of users</sub> + 1/DT<sub>time online</sub> + 1/DT<sub>bandwidth </sub>In Table 4 we apply this formula to the situation in Europe in 2006.</font></p>      <p align="center"><a name="img6"></a><img src="/img/revistas/ran/v3n4/tabla08_6.gif" width="480" height="194"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">With the three values given in table 4 it is easy to calculate that DTinternet traffic was 1.2 years for Europe in 2006. In the next paragraph I compare this calculated value with the actual value.</font></p>      <p align="justify"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">7.2  Internet traffic data from European Internet Exchanges</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In this paragraph I analyze Internet traffic data from several European Internet Exchanges. I collected the data in table 5 from their websites. Changes in the amount of traffic that passes through an Internet Exchange are normally due to market changes but unexpected large swings are most probably caused by rerouting of traffic. To limit the influence of this swing effect I have looked at the total traffic instead of at the traffic of individual exchanges. </font></p>      <p align="center"><a name="img7"></a><img src="/img/revistas/ran/v3n4/tabla08_7.gif" width="477" height="250"></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">I found for the total traffic of major European Internet Exchanges a doubling time of roughly 1.3 years in the period between February 2006 and February 2007.  We  can compare  the  observed  value  of  DTinternet  traffic = 1.3  years  with  the  calculated value  of DTinternet  traffic= 1.2 years.  These values coincide quite well. The DT of 1.3 years lies between the upper and lower bounds given by Coffman and Odlyzko of 0.75 (x = 150%) and 1.3 years (x = 70%).</font></p>      ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">At the FITCE congress in Berlin in 2003 I presented Internet traffic data for the year 2001. The three basic doubling times were all 2.5 years which led to a calculated DTinternet traffic for 2001 of 0.83 years. The measured DTinternet traffic was 0.95 years [23]. If we compare the 2006 and 2001 data we observe that both the growth of the number of users and the time that they spent online have slowed but that developments in technology have picked up speed.</font></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Let’s have a look into the future. As a starting point we take again the year 2006 for Europe. In 2006 the doubling time of the Internet traffic was roughly 1.2 years. At some point in time everybody will be online and DTnumber of users = &#8734; years. When the average time that users spend online doesn’t increase anymore we have DTtime online is infinite. Beyond that point in time only DTbandwidth, that is to say as long as Moore’s Law holds, will contribute to the doubling time of the Internet traffic which will eventually slow down to 1.7 years.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">8  Conclusions</font></strong></p>      <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">How fast does the traffic on the Internet double? Does it double every three months, six months, every year or every two years? The wrong answer to this question led to the downfall of several major players in the telecommunications market. So it is clear that a model that enables us to predict the doubling time for the traffic on the Internet can help us from losing fortunes again. In this article a simple model that enables us to predict the growth of this traffic was presented. It was shown that the growth of the traffic on the Internet depends on three factors: the doubling time of the bandwidth provided to the end user by telecommunication networks, the doubling time of the number of users that are online and the doubling time of the time that they spend online. The first one depends on Moore’s Law and the second and third depend on marketing strategies. In the future the doubling time of Internet traffic will slow down from 1.2 (x = 80 %) to 1.7 years (x = 50 %). These growth rates are all very high and must be considered disruptive from an engineering point of view. To be able to accommodate all this extra traffic special precautions have to be taken.</font></p>      <p align="justify"><strong><font size="3" face="Verdana, Arial, Helvetica, sans-serif">References</font></strong></p>      <!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[1]      Regis, Ed. 1997. Nano ! In: <i>http://www.zyvex.com/nanotech/feynman.html.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002749&pid=S1683-0789200700020000800001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[2]      Moore, G. 1965. <i>Cramming more components onto integrated circuits. Electronics</i>, Vol. 38, Nº 8, pp. 114-117, April 19. In: <i>http://www.ieee.org/portal/site/sscs/.</i> Look for Moore’s Law in the Technology section or the SSCS newsletter of September 2006.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002750&pid=S1683-0789200700020000800002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[3]      Schaller, R. R. 1997. <i>Moore</i><i>’s Law: past, present and future</i>. IEEE Spectrum. June.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002751&pid=S1683-0789200700020000800003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[4]      Meijer, J. W.; Geraards, M. 1998. <i>Convergence and Divergence in Business Communications. British Telecommunications Engineering</i>. Vol. 17, Part 2 (182-186), See also the Proceedings of the 37th FITCE congress, London. August. 1998. In: <i>www.fitce.org</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002752&pid=S1683-0789200700020000800004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[5]      Hennessy, J.L.; Patterson, D.A. 2002. <i>Computer Architecture, a quantitative approach.</i> 3rd edition. May. pp. 15, 456, 685, 686. Data on hard disk drives can be found at: <i>www.redhill.net.au</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002753&pid=S1683-0789200700020000800005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[6]      Meijer, J.W. 2002. UMTS, <i>Moore’s Law and Licklider’s Trap</i>, FITCE Forum, Dec.   In: <i>http://www.fitce.at/newsletter/dokumente/forum7.pdf.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002754&pid=S1683-0789200700020000800006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[7]      Moravec, H. 1998. <i>When will computer hardware match the human brain? Journal of Evolution andTechnology. </i>Vol. 1. In: <i>http://www.transhumanist.com/volume1/moravec.htm.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002755&pid=S1683-0789200700020000800007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[8]      Nielsen, J. 1998. <i>Nielsen’s Law of Internet Bandwidth</i>. In: <i>www.useit.com/alertbox/ 980405.html</i>. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002756&pid=S1683-0789200700020000800008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[9]      Eldering, C.; Silla, M. L.; Eisenach, J. A. 1999. <i>Is there a Moore’s Law for Bandwidth? </i>IEEE Communications Magazine. October. pp. 117-121.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002757&pid=S1683-0789200700020000800009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[10]    Cherry, S. 2004. <i>Edholm's Law of bandwidth</i>. IEEE Spectrum. July. p. 58. In: <i>http://www.questnet.net.au/questnet2006/papers/Phil_Edholm_v1.pdf.</i> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002758&pid=S1683-0789200700020000800010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[11]    Meijer, J.W. 2002. <i>The iron laws that rule the ICT markets.</i> Acta Nova. Vol. 2, N° 1. December. pp. 82-91. UCB, Cochabamba,   Bolivia. In: <i>www.ucbcba.edu.bo.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002759&pid=S1683-0789200700020000800011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[12]    Meieran, E.S. 1998. <i>21st Century Semiconductor Manufacturing Capabilities</i>. Intel Technology Journal. pp. 1-8. Q4. In: <i>www.intel.com</i>. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002760&pid=S1683-0789200700020000800012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[13]    Schultz, M.<i> </i>1999.<i> The end of the road for silicon?</i> Nature. Vol. 399. pp. 729-730 </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002761&pid=S1683-0789200700020000800013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[14]    Moore, G. 2003. <i>No exponential is forever. International Solid State Circuits Conference</i>, February. ISSCC. IEEE International Volume. Issue. pp. 20-23, Vol. 1. In: <i>http://sscs.org/History/MooresLaw.htm</i>. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002762&pid=S1683-0789200700020000800014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[15]    Dreazen, Y.J. 2002. <i>How widely optimistic data drove telecoms to build fiber glut</i>. Wall Street Journal, September 26. In: <i>www.cmg.org/downloads/Fiber_Glut_WSJ_ 020926.pdf.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002763&pid=S1683-0789200700020000800015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[16]    Gilder, G. 1998. <i>Paradigm Party</i>. Forbes ASAP, 24 August. In: <i>www.forbes.com/asap/ 1998/0824/094.html. </i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002764&pid=S1683-0789200700020000800016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[17]    Roberts, L. 2000. <i>Beyond Moore's Law: Internet growth trends</i>. IEEE Computer. Vol. 33, N° 1. January. pp. 117-119.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002765&pid=S1683-0789200700020000800017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[18]    Coffman, K.G.; Odlyzko, A.M. 1998. <i>The size and growth rate of the Internet</i>. First Monday, October. In: <i>www.dtc.umn.edu/~odlyzko/doc/networks.html. </i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002766&pid=S1683-0789200700020000800018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[19]    Sevcik, P. 1999. <i>The Myth of Internet Growth</i>. Business Communication Review. January. pp. 12-14. <i>In: www.bcr.com.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002767&pid=S1683-0789200700020000800019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[20]    Odlyzko, A. 2000. <i>Internet Growth: Myth and Reality, Use and Abuse</i>. iMP: Information Impacts Magazine. November. In: <i>www.dtc.umn.edu/~odlyzko/doc/ networks.html.</i> </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002768&pid=S1683-0789200700020000800020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[21]    Coffman, K.G.; Odlyzko, A.M. 2002. <i>Internet growth: Is there a “Moore’s Law” for data traffic?.</i> Handbook of Massive Data Sets. Abello, J.; Pardalos, P. M.; Resende, M. G. C. (Eds.) Kluwer. pp. 47-93. In:<i> www.dtc.umn.edu/~odlyzko/doc/networks.html</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002769&pid=S1683-0789200700020000800021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[22]    Coffman, K.G.; Odlyzko, A.M. 2002. <i>Growth of the Internet, Optical Fiber Telecommunications</i> IV B: Systems and Impairments. Kaminow, I. P.; Li, T. (Eds.) Academic Press. pp. 17-56. In: <i>www.dtc.umn.edu/~odlyzko/doc/networks.html.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002770&pid=S1683-0789200700020000800022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[23]    Meijer, J.W. 2003. Internet traffic growth. A combination of Moore's Law and smart marketing. Journal of the Communications Network. Vol. 2, N° 3. pp. 83-88. See also the Proceedings of the 42nd FITCE congress, Berlin September 2003. <i>In: www.fitce.org</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002771&pid=S1683-0789200700020000800023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[24]    The GVU Center of the Georgia Institute of Technology. Heavy Reading Market Research. Central Bureau for Statistics The Netherlands. Planet Internet The Netherlands. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002772&pid=S1683-0789200700020000800024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[25]    In: <i>www.internetworldstats.com.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002773&pid=S1683-0789200700020000800025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[26]    In: <i>www.eiaa.net</i>.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002774&pid=S1683-0789200700020000800026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">[27]    In: <i>www.euro-ix.net.</i></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=002775&pid=S1683-0789200700020000800027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Regis]]></surname>
+<given-names><![CDATA[Ed.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nano !]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moore]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Cramming more components onto integrated circuits]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schaller]]></surname>
+<given-names><![CDATA[R. R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Moore’s Law: past, present and future]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meijer]]></surname>
+<given-names><![CDATA[J. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Geraards]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Convergence and Divergence in Business Communications]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hennessy]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Patterson]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Computer Architecture, a quantitative approach]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meijer]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Moore’s Law and Licklider’s Trap]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moravec]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[When will computer hardware match the human brain?]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nielsen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Nielsen’s Law of Internet Bandwidth]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eldering]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silla]]></surname>
+<given-names><![CDATA[M. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eisenach]]></surname>
+<given-names><![CDATA[J. A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Is there a Moore’s Law for Bandwidth?]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cherry]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Edholm's Law of bandwidth]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meijer]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The iron laws that rule the ICT markets]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meieran]]></surname>
+<given-names><![CDATA[E.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[21st Century Semiconductor Manufacturing Capabilities]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schultz]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The end of the road for silicon?]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<label>[14]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Moore]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[No exponential is forever]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<label>[15]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Dreazen]]></surname>
+<given-names><![CDATA[Y.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[How widely optimistic data drove telecoms to build fiber glut]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<label>[16]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gilder]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Paradigm Party]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<label>[17]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Roberts]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Beyond Moore's Law]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<label>[18]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coffman]]></surname>
+<given-names><![CDATA[K.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Odlyzko]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<label>[19]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sevcik]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Myth of Internet Growth]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<label>[20]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Odlyzko]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internet Growth: Myth and Reality, Use and Abuse]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<label>[21]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coffman]]></surname>
+<given-names><![CDATA[K.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Odlyzko]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internet growth: Is there a “Moore’s Law” for data traffic?]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<label>[22]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Coffman]]></surname>
+<given-names><![CDATA[K.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Odlyzko]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Growth of the Internet, Optical Fiber Telecommunications IV]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<label>[23]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meijer]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Internet traffic growth: A combination of Moore's Law and smart marketing]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B24">
+<label>[24]</label><nlm-citation citation-type="">
+<source><![CDATA[The GVU Center of the Georgia Institute of Technology. Heavy Reading Market Research. Central Bureau for Statistics The Netherlands. Planet Internet The Netherlands.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B25">
+<label>[25]</label><nlm-citation citation-type="">
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<label>[26]</label><nlm-citation citation-type="">
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<label>[27]</label><nlm-citation citation-type="">
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

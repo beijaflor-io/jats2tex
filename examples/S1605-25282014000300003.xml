@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300003</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Uso de imágenes satelitales, modelos digitales de elevación y sistemas de información geográfica para caracterizar la dinámica espacial de glaciares y humedales de alta montaña en Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Using satellite images, digital elevation models and geographic information systems to characterize the spatial dynamics of glaciers and high Andean wetlands in Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Zeballos]]></surname>
+<given-names><![CDATA[Gabriel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[Álvaro]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Cusicanqui]]></surname>
+<given-names><![CDATA[Diego]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Joffré]]></surname>
+<given-names><![CDATA[Rafael]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[Antoine]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Escuela Militar de Ingeniería Carrera de Ingeniería Geográfica ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Geología y del Medio Ambiente ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Universidad Grenoble Alpes  ]]></institution>
+<addr-line><![CDATA[Grenoble ]]></addr-line>
+<country>Francia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>14</fpage>
+<lpage>26</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300003&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300003&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Debido al cambio climático y acelerado retroceso glaciar, está disminuyendo la disponibilidad de agua en los Andes Centrales. En este sentido, los humedales altoandinos destacan por su capacidad de reserva y regulación hidrológica. Con el fin de comprender mejor sus dinámicas, este estudio plantea un método para el análisis espacial de múltiples factores que afectan su vulnerabilidad frente al cambio climático a través de la variación de la superficie de glaciares y humedales de la Cordillera Real (Bolivia) empleando imágenes Landsat. El método permite relacionar la variación de estos objetos con factores externos e internos, tales como la variación de la precipitación y la propia morfometría física de las cuencas de drenaje. Las imágenes se corrigen geométricamente y atmosféricamente previamente a la aplicación de un algoritmo diseñado para la determinación del área de los objetos. En dicho algoritmo se considera la aplicación de una clasificación no supervisada y de índices de diferencia normalizada de vegetación, de nieve/ hielo, y de agua. Finalmente, se realiza un análisis de regresión lineal múltiple, contrastando la dinámica espacial de los humedales con datos de precipitación acumulada, y datos morfométricos de las cuencas, obtenidos a partir de un mosaico del modelo digital de elevación GDEM-Aster V2 (global digital elevation model, versión 2, Satélite ASTER). Esta metodología puede también ser empleado con imágenes y modelos digitales de elevación de mejor resolución como se espera en siguientes fases del proyecto BIOTHAW.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Due to the climate change and glacier shrinking, water resource in the central Andes is overall expected to decrease in the next decades. Accordingly, the characteristics of high Andean wetlands as hydrologic regulators and natural reservoirs will take even more importance than they do today. In order to better understand their dynamics this study proposes a method for the spatial analysis of multiple factors affecting their vulnerability through the use of Landsat images, in order to analyze the variation of the glacier and wetlands area of the Cordillera Real (Bolivia). The method relates the variability of these objects with external and internal factors, such as the precipitation and the physical morphometry of the drainage basins. The images are geometrically and radiometrically corrected prior to the execution of an algorithm designed for the assessment of the objects area. Such algorithm includes a non supervised classification, and the application of normalized difference of vegetation, water, and snow/ice indexes. Finally, a multi-lineal regression analysis is proposed to correlate the spatial dynamics of the wetlands with accumulated precipitation and basin morphometry data. The morphometry is obtained from a mosaic of the digital elevation model GDEM-Aster V2 (global digital elevation model, version 2, Satellite Aster). This methodological model can also be applied to more precise images and DEMs, as will be part of the next phase of the project BIOTHAW.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Análisis espacial]]></kwd>
+<kwd lng="es"><![CDATA[Andes centrales]]></kwd>
+<kwd lng="es"><![CDATA[Humedales tropicales altoandinos]]></kwd>
+<kwd lng="es"><![CDATA[Percepción remota]]></kwd>
+<kwd lng="es"><![CDATA[Retroceso glaciar]]></kwd>
+<kwd lng="en"><![CDATA[Central Andes]]></kwd>
+<kwd lng="en"><![CDATA[Glacier retreat]]></kwd>
+<kwd lng="en"><![CDATA[High Andean tropical wetlands]]></kwd>
+<kwd lng="en"><![CDATA[Remote sensing]]></kwd>
+<kwd lng="en"><![CDATA[Spatial analysis]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Uso de imágenes satelitales, modelos digitales de elevación y</b></font> <font size="4"><b><font face="Verdana">sistemas de información geográfica para caracterizar la dinámica</font> <font face="Verdana">espacial de glaciares y humedales de alta montaña en Bolivia</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Using satellite images, digital elevation models and geographic information systems to characterize the spatial dynamics of glaciers and high Andean</font> <font face="Verdana" size="3">wetlands in Bolivia</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Gabriel Zeballos<sup>1</sup>*, Álvaro Soruco<sup>2</sup>, Diego Cusicanqui<sup>1</sup>, Rafael Joffré<sup>1</sup> &amp; Antoine Rabatel<sup>3</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1 </sup>Escuela Militar de Ingeniería, Carrera de Ingeniería Geográfica, Casilla postal: 3-12416, La Paz, Bolivia</font>    <br>   <b><font face="Verdana" size="2">*Autor para correspondencia: </font></b><font face="Verdana" size="2"><a href="mailto:delnuevomundo@gmail.com">delnuevomundo@gmail.com    ]]></body>
+<body><![CDATA[<br> </a></font><font face="Verdana" size="2"><sup>2 </sup>Instituto de Geología y del Medio Ambiente, Universidad Mayor de San Andrés,</font> <font face="Verdana" size="2">Casilla postal 35140, La Paz, Bolivia. <sup>    <br>   3 </sup>Universidad Grenoble Alpes, CNRS, LGGE (UMR 5183), F-38000 Grenoble, Francia.</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Debido al cambio climático y acelerado retroceso glaciar, está disminuyendo la disponibilidad de agua en los Andes Centrales. En este sentido, los humedales altoandinos destacan por su capacidad de reserva y regulación hidrológica. Con el fin de comprender mejor sus dinámicas, este estudio plantea un método para el análisis espacial de múltiples factores que afectan su vulnerabilidad frente al cambio climático a través de la variación de la superficie de glaciares y humedales de la Cordillera Real (Bolivia) empleando imágenes Landsat. El método permite relacionar la variación de estos objetos con factores externos e internos, tales como la variación de la precipitación y la propia morfometría física de las cuencas de drenaje. Las imágenes se corrigen geométricamente y atmosféricamente previamente a la aplicación de un algoritmo diseñado para la determinación del área de los objetos. En dicho algoritmo se considera la aplicación de una clasificación no supervisada y de índices de diferencia normalizada de vegetación, de nieve/ hielo, y de agua. Finalmente, se realiza un análisis de regresión lineal múltiple, contrastando la dinámica espacial de los humedales con datos de precipitación acumulada, y datos morfométricos de las cuencas, obtenidos a partir de un mosaico del modelo digital de elevación GDEM-Aster V2 (global digital elevation model, versión 2, Satélite ASTER). Esta metodología puede también ser empleado con imágenes y modelos digitales de elevación de mejor resolución como se espera en siguientes fases del proyecto BIOTHAW.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras claves: </b>Análisis espacial, Andes centrales, Humedales tropicales altoandinos, Percepción remota, Retroceso glaciar.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Due to the climate change and glacier shrinking, water resource in the central Andes is overall expected to decrease in the next decades. Accordingly, the characteristics of high Andean wetlands as hydrologic regulators and natural reservoirs will take even more importance than</font> <font face="Verdana" size="2">they do today. In order to better understand their dynamics this study proposes a method for the spatial analysis of multiple factors affecting their vulnerability through the use of Landsat images, in order to analyze the variation of the glacier and wetlands area of the Cordillera Real (Bolivia). The method relates the variability of these objects with external and internal factors, such as the precipitation and the physical morphometry of the drainage basins. The images are geometrically and radiometrically corrected prior to the execution of an algorithm designed for the assessment of the objects area. Such algorithm includes a non supervised classification, and the application of normalized difference of vegetation, water, and snow/ice indexes. Finally, a multi-lineal regression analysis is proposed to correlate the spatial dynamics of the wetlands with accumulated precipitation and basin morphometry data. The morphometry is obtained from a mosaic of the digital elevation model GDEM-Aster V2 (global digital elevation model, version 2, Satellite Aster). This methodological model can also be applied to more precise images and DEMs, as will be part of the next phase of the project BIOTHAW.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Central Andes, Glacier retreat, High Andean tropical wetlands, Remote sensing, Spatial analysis.</font></p> <hr noshade>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Considerando que los glaciares y los humedales son dos de las fuentes de agua dulce superficial más importantes en la Tierra (Vorosmarty 2009), su estudio, conservación yuso sostenible son temas prioritarios a nivel mundial. Los humedales destacan además porque cumplen múltiples funciones en el ecosistema (Vitt 2008), son hábitats únicos de vida silvestre, regulan los ciclos hidrológicos y bio-geo-químicos, y para la sociedad tienen importancia agropecuaria, paisajística y económica (Vorosmarty 2009). En los Andes centrales, cuyas estaciones secas son muy marcadas (Favier <i>et al. </i>2004), tal es el caso de la Cordillera Real en Bolivia, estos reservorios llegan a ser las fuentes naturales de agua prioritarias para el ecosistema (Squeo <i>et al. </i>2006, Vorosmarty 2009, Segnini <i>et al. </i>2010). En este contexto, surge la amenaza del cambio climático, cuyos impactos a los ecosistemas tropicales de montaña son diversos (Kohler &amp; Maselli 2012) y que ponen en riesgo la sostenibilidad de los glaciares y de los humedales. A fin de ampliar el conocimiento que permitiría contribuir con la mitigación de los impactos, es importante comprender las dinámicas geográficas y la vulnerabilidad que tienen los glaciares y humedales altoandinos (Dangles <i>et al. </i>en este número especial).</font></p>     <p align="justify"><font face="Verdana" size="2">Tratando de interrelacionar estas problemáticas, en 2012 se inició el proyecto BIOTHAW (Dangles <i>et al. </i>en este número especial). El presente artículo se enmarca dentro de dicho proyecto. Su objetivo general es de presentar los métodos utilizados dentro de BIOTHAW como ejemplos de metodologías diseñadas para cuantificar la evolución espacio-temporal de los glaciares y humedales. Específicamente, se emplean imágenes satelitales Landsat, en un esquema propuesto con distintas fases metodológicas. La primera fase contempla la recopilación de datos, levantamiento de información de campo, y el tratamiento y correcciones de las imágenes satelitales. La siguiente fase consiste en clasificar y sistematizar la información contenida en las imágenes satelitales (a nivel de cuencas), a través de un Sistema de Información Geográfica (SIG). A partir de esta información se realiza el inventario, análisis y categorización de los patrones de variabilidad de los glaciares y humedales. La secuencia metodológica se presenta en la <a href="#f2">Fig. 2</a> y es detallada a continuación. El producto final esperado es mejorar nuestro conocimiento de la relación entre la evolución observada de los glaciares y de los humedales bajo los efectos del cambio climático.</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_02.gif" width="643" height="825"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Área de estudio</b></font></p>     <p align="justify"><font face="Verdana" size="2">Al igual que el resto de los Andes Tropicales, la Cordillera Real (15º45'-16º45'Sur, 67º-40'-68º40'Oeste) (<a href="#f1">Fig. 1</a>) es una de las regiones más afectadas por el cambio climático y retroceso glaciar (Bradley <i>et al. </i>2006, Urrutia &amp; Vuille 2009, en Kohler &amp; Maselli 2009, Rabatel <i>et al. </i>2013). Además, los datos científicos existentes en esta región permiten aplicar los métodos propuestos en este artículo. El primer inventario de los glaciares de la Cordillera Real fue realizado por Jordan (1991) a partir de fotografías aéreas de 1975. A partir del año 1991 se inició el programa de monitoreo de glaciares tropicales GREAT-ICE (Glaciers et Ressource en Eau dans les Andes Tropicales: Indicateurs Climatiques et Environnementaux, por sus siglas en francés). A través de este programa se realizaron los estudios más relevantes de la región sobre las variaciones de balance de masa y su relación con los factores climáticos y sus variabilidades (Rabatel <i>et al. </i>2013). En este sentido, Soruco (2008), quien aplicó métodos de fotogrametría, demostró que hubo un retroceso del 48% de la superficie glaciar en toda la región central de la Cordillera Real desde 1975.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_01.jpg" width="764" height="905"></p>     <p align="justify"><font face="Verdana" size="2">Respecto a los humedales de la Cordillera Real, los primeros estudios en Bolivia fueron realizados a través del Instituto de Ecología de la UMSA (Estenssoro 1991, Meneses 1997). Estas investigaciones mostraron la alta vulnerabilidad de los humedales frente a la amenaza de actividades humanas. Yager (2009) estudió humedales dentro del contexto de territorios tradicionalmente pastoriles en los Andes y encontró una relación de su variación en su tamaño con el derretimiento glaciar y la desecación. Más aún, se identificó que la presión antropogénica, a través de la sobreexplotación de turba (Estenssoro 1991), la contaminación minera (Meneses 1997) y el cambio de uso de suelos, pone en riesgo su conservación. Considerando que el retroceso acelerado de glaciares tropicales por debajo de 5.400 m puede llegar a ser total, la cantidad </font><font face="Verdana" size="2">de agua que alimenta a los ríos dependientes de cuencas con glaciares será escasa (Baraer <i>et al. </i>2012).</font></p>     <p align="justify"><font face="Verdana" size="2">Para nuestro estudio, se tomaron en cuenta las áreas desde 4.050-6.500 m, que incluye los pisos altoandino, subnival y nival (Montes de Oca 2005). Los glaciares están presentes a partir de los 4.900 m. alineados en una cadena montañosa de orientación noroeste - sudeste, donde todo el flanco oriental, que pertenece a la cuenca amazónica, forma un obstáculo al paso de los alisios húmedos del Atlántico y del Amazonas. Esto determina una gran descarga de precipitación en la ladera este y por ende una meteorización más importante que la ladera occidental, que pertenece a la cuenca Cerrada o del Altiplano, que presenta un clima mayormente seco o de transición (Montes de Oca 2005).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Obtención de datos</b></font></p>     <p align="justify"><font face="Verdana" size="2">La <a href="#t1">tabla 1</a> presenta las imágenes y los distintos sensores del programa, que abarcan el período 1984-2009. Las imágenes del programa Landsat fueron seleccionadas por sus características de precisión radiométrica y espacial, estas imágenes son las más usadas para análisis multi-temporal de vegetación (Lunneta &amp; Balogh 1999, Baker <i>et al. </i>2006). Todas las imágenes se pueden descargar del servidor Earth Explorer (<A href=http://earthexplorer.usgs.gov target="_blank">http://earthexplorer.usgs.gov/</A> que pertenece al USGS (Servicio Geológico de los Estados Unidos, por sus siglas en inglés). Se deben escoger solamente aquellas imágenes correspondientes a la época seca (mayo-agosto), para evitar la influencia de nubes y precipitaciones estacionales en el análisis. No se toman en cuenta las imágenes Landsat 7 ETM+ posteriores al 31 de mayo de 2003, ya que a partir de esta fecha presentan un bandeado, producto de un daño en el dispositivo óptico-mecánico </font><font face="Verdana" size="2">del sensor (<a href="http://landsat.usgs.gov/products_slcoffbackground.php" target="_blank">http://landsat.usgs.gov/products_slcoffbackground.php</a>). El Modelo Digital de Elevaciones (DEM, por sus siglas en inglés), que permite delimitar las cuencas</font> <font face="Verdana" size="2">y caracterizar sus parámetros morfométricos (altura, pendiente, orientación, cantidad de radiación solar y longitud de cuenca), corresponde a la versión 2 del satélite Aster GDEM (<A href=http://gdem.ersdac.jspacesystems.or.jp target="_blank">http://gdem.ersdac.jspacesystems.or.jp</A>), que igualmente se puede descargar del servidor Earth Explorer de la USGS.</font></p>     <p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_tabla_01.gif" width="678" height="678"></p>     <p align="center">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Correcciones y procesamiento digital de las imágenes satelitales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Todas las imágenes se corrigen y procesan digitalmente de la misma manera. Antes de realizar la generación de índices y la clasificación (ver Clasificación de imágenes satelitales),</font> <font face="Verdana" size="2">se realizan las siguientes operaciones: 1) Corregistro de imágenes, 2) corrección atmosférica y 3) conversión de números digitales a valores de reflectancia. El corregistro se realiza con la herramienta AutoSync del software Erdas IMAGINE v.2011. Esta herramienta reconoce algebraicamente las coordenadas de puntos en común entre dos imágenes satelitales y realiza la corrección geométrica entre las mismas de manera casi automática, mediante estéreo-correlación de los niveles digitales entre ambas imágenes. Para llevar a cabo este proceso, se elige la imagen Máster (imagen con las mejores características geométricas), a la cual todas las </font><font face="Verdana" size="2">demás imágenes (imágenes esclavas) se ajustan geométricamente en un análisis multitemporal. En nuestro caso se eligió la imagen Landsat ETM+ LE70010712002311EDC00 en su banda 8 de 15 m como la imagen Master. Un levantamiento de información de campo con GPS diferencial determina el error de la imagen. </font></p>     <p align="justify"><font face="Verdana" size="2">El proceso de corrección atmosférica se realiza con la herramienta ATCOR3 (Atmospheric correction v. 3, de la compañía GEOSYSTEMS GmbH) del software Erdas IMAGINE. Esta herramienta toma en cuenta el relieve del lugar en el proceso de corrección radiométrica. Para este procesamiento, el</font> <font face="Verdana" size="2">programa requiere utilizar un modelo digital de elevaciones del lugar de adquisición de cada imagen satelital. A partir del MDE, se calculan diferentes parámetros topográficos que corresponden a: 1. Mapa de pendientes, 2. mapa de orientaciones, 3. mapa de sombras y </font><font face="Verdana" size="2">4. mapa de visibilidad. Además, la herramienta considera también el momento exacto de la adquisición de la imagen (hora de adquisición del centro de la imagen en UTC), lo cual permite conocer las posiciones cenital y acimutal exactas del sol y por consiguiente los ángulos de incidencia durante la adquisición de la imagen.</font></p>     <p align="justify"><font face="Verdana" size="2">La transformación de los números digitales de los pixeles de las imágenes satelitales a valores de reflectancia puede realizarse empelando la herramienta Landsat 7 Reflectance del software Erdas Imagine. Las imágenes de Landsat 4 y </font><font face="Verdana" size="2">5,&nbsp;pueden ser corregidas a su equivalente de Landsat 7 mediante el algoritmo elaborado por Grant &amp; Carter (2011) de modo que pudieran ser procesadas con dicha herramienta. En estos procesos se consideran los parámetros de calibración radiométricos del sensor (incluidos en los archivos de metadatos de cada imagen satelital), los valores de radiancia corregidos atmosféricamente y el ángulo de la altura del sol en el momento de la captura de la imagen. Una vez llevados a cabo tanto las correcciones geométricas como las correcciones atmosféricas, es posible pasar a la etapa de categorización mediante la clasificación de imágenes satelitales.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Clasificación de imágenes satelitales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las imágenes son tanto clasificadas, como analizadas por medio de índices de diferencia normalizada. En el primer caso, se realizó una clasificación no supervisada en 30 clusteres, empleando el método de ISODATA de Erdas Imagine. Este método toma en cuenta las características de los pixeles en todas las bandas, lo que ayuda a identificar objetos como el agua, cuya reflectancia depende y varía en cada banda según su composición. En el segundo caso, se aplican diferentes índices</font> <font face="Verdana" size="2">radiométricos con diferentes combinaciones de pares de bandas espectrales y con una específica aplicación de umbrales. En este trabajo, tres índices ampliamente descritos en la literatura son utilizados (Liang 2004, Riggs &amp; Hall 2011). Se tratan de los índices de diferencia normalizada de vegetación, de nieve y hielo y de agua (NDVI, NDSI, y NDWI, respectivamente) que permiten con la aplicación de umbrales, discriminar objetos específicos en la imagen en función de sus características radiométricas. Para la determinación del umbral de vegetación (0.75), se realizan salidas al campo, midiendo en terreno la superficie de los humedales para aplicar el umbral más ajustado. En los otros casos, los umbrales radiométricos pueden ser ajustados visualmente sobre la base de umbrales obtenidos en investigaciones similares (0.2 para agua y 0.4 para nieve) (Maestro &amp; Recio 2004, Ji <i>et al. </i>2009).</font></p>     <p align="justify"><font face="Verdana" size="2">Para automatizar el proceso de tratamiento de las imágenes, se generó un algoritmo de clasificación. Para este trabajo, el algoritmo realizado se divide en tres fases presentadas en la <a href="#f3">figura 3</a>, donde se destacan las siguientes fases: 1) la preparación de las imágenes (en azul), 2) la clasificación (en verde) y 3) el control topológico para obtener la categorización final de los objetos (en amarillo). El algoritmo permite obtener para cada imagen Landsat seleccionada una capa vectorial tanto de la extensión de los nevados, como de los humedales y de las lagunas presentes en las imágenes y su respectivo valor en una tabla que identifica la evolución de los objetos a lo largo de los años. Dichas capas pueden ser sobrepuestas para ilustrar la evolución espacio-temporal de las variables estudiadas (<a href="#f4">Fig. 4</a>).</font></p>     <p align="justify"><a name="f3" id="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_03.gif" width="765" height="1015"></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center"><a name="f4"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_04.jpg" width="759" height="713"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Determinación y caracterización de cuencas</b></font></p>     <p align="justify"><font face="Verdana" size="2">Proponemos realizar la determinación de cuencas a través de la herramienta Spatial Analyst del software ArcGIS v.10 (aplicación del ArcToolbox, caja de herramientas de </font><font face="Verdana" size="2">Hydrology). Con el programa se calcula el área de drenaje hacia 121 puntos seleccionados previamente, a través de un MDE. Luego, se caracterizan todas las sub-cuencas, micro-cuencas y humedales en estos sitios, en función de su pendiente, orientación, cantidad de radiación solar recibida en un año, tamaño, longitud máxima de su eje y factores de forma. Estos valores posteriormente son agrupados en polígonos, para establecer dichas características estadísticas en función al agrupamiento de</font> <font face="Verdana" size="2">los polígonos mediante la herramienta Zonal Statistic as Table (aplicación del ArcToolbox) de ArcGIS v10. Estas características intrínsecas de cada cuenca hidrológica son determinadas para relacionar con los resultados obtenidos en base a la clasificación de imágenes (<a href="#f3">Fig. 3</a>).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Análisis de las variaciones</b></font></p>     <p align="justify"><font face="Verdana" size="2">Finalmente, para entender las dinámicas de la variabilidad de los objetos bajo estudio</font> <font face="Verdana" size="2">(humedales, lagunas y glaciares), se analiza la relación entre la cantidad de precipitación acumulada y área de los objetos. Luego se realiza un análisis multi-variable en función del nivel de análisis (sub-cuencas y micro-cuencas) y de la orientación de las vertientes (occidental y oriental). Para cada clase, se analizan primero las relaciones entre los objetos (humedales</font> <font face="Verdana" size="2">vs. lagunas vs. nevados) y luego entre los humedales y los factores físicos de la cuenca. La variable dependiente es la variación de los humedales. Las variables independientes corresponden a las variaciones de las otras variables (glaciares, precipitación) y los factores físicos de cada cuenca.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Validación de los métodos</b></font></p>     <p align="justify"><font face="Verdana" size="2">La metodología aplicada permite realizar un análisis previo de la evolución de los humedales y nevados en relación con la precipitación y los parámetros morfológicos. La variabilidad de las coberturas puede relacionarse con factores tales como la cantidad de precipitación acumulada desde el inicio del año hidrológico o la morfometría de la cuenca. Los datos de precipitación (<a href="#f5a">Fig. 5a</a>) son más adecuados si provienen de estaciones que obtienen datos más representativos a nivel regional. En el caso de los humedales, su variación está vinculada a la cantidad de precipitación y la cobertura de nieve; y el número de otros humedales en la misma cuenca aguas arriba. Por su balance de masa, las coberturas de glaciares y nieve también pueden relacionarse con la cantidad de precipitación acumulada (<a href="#f5b">Fig. 5b</a>).</font></p>     <p align="justify"><a name="f5a"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_05.gif" width="748" height="349"></p>     <p align="center"><a name="f5b"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a03_figura_05b.gif" width="748" height="462"></p>     <p align="justify"><font face="Verdana" size="2">Los parámetros morfológicos de las cuencas a nivel de micro-cuencas están vinculados con la capacidad de acumulación de precipitaciones de la cuenca y la probabilidad de ocurrencia de crecientes (área e índice de Gravelius Kc, P &lt; 0.05). El índice de Gravelius define la relación entre los perímetros de la cuenca hidrográfica y de un círculo que contenga la misma área de la misma; así, una cuenca circular tiene mayores posibilidades de producir avenidas superiores dadas su simetría. El método permite evidenciar si los humedales son más saludables en pendientes poco pronunciadas, y con la presencia de otros humedales aguas arriba.</font></p>     <p align="justify"><font face="Verdana" size="2">Los humedales tienen una fuerte dependencia de la disponibilidad espacial y temporal del agua de precipitación. Esto puede ser atenuado o incrementado por las condiciones físicas y paisajísticas de las cuencas asociadas. Esto significa que, debido a una menor capacidad de captación del agua de precipitación, las microcuencas con menor tamaño o formas más oblongas y ejes de ríos más cortos, tienden a mostrar mayor vulnerabilidad y retroceso rápido de humedales. Con todo, se debe notar que</font> <font face="Verdana" size="2">los humedales son un elemento del paisaje sumamente complejo, y variable, en el que intervienen no solamente los factores de tipo climático y topográfico, pero también otros factores que no formaron parte de este estudio, como los factores de tipo hidrogeológico y geoquímico. Es importante resaltar que en este estudio se consideraron todos los humedales y no solamente los bofedales <i>sensu stricto </i>(ver definiciones en Ostria 1987 y Squeo <i>et al. </i>2006). Estos últimos corresponden a las partes más irrigadas y de suelo con mayor porcentaje de material orgánico que las vegas y pastizales húmedos. Estas características no pueden ser discriminadas por las imágenes satelitales utilizadas (30 m), por lo que no pudieron ser distinguidas. Se espera superar esta limitación con el análisis de imágenes de alta resolución <i>Pléiades </i>(50 cm), que fueron adquiridas dentro del programa BIOTHAW recientemente, y con lo que se espera constituir una línea base para el estudio de la evolución de los bofedales en la Cordillera Real en el futuro.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusión</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Esta investigación es la primera aproximación de desarrollo de un método que permita cuantificar la variabilidad de los humedales dentro del contexto del cambio climático en la Cordillera Real de Bolivia. Para esto se propone un algoritmo específico que considera las características propias de la región. Tomando en cuenta que las coberturas totales de nieve y humedales pueden tener una alta variabilidad interanual, el algoritmo ayuda a cuantificar la evolución temporal de la superficie de los nevados y humedales durante periodo de tiempo de varios años. Se encontró un porcentaje de retroceso muy similar a lo obtenido con métodos aerofotogramétricos (48% determinado por Soruco (2008), contra un 47% aplicando el método propuesto en este estudio).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos a todo el personal de los institutos de Investigación para el Desarrollo (IRD), de Ecología (IE), y de Geología (IGEMA) de la UMSA, por su apoyo directo e indirecto a esta investigación. Este estudio es parte de los programa: &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB), y del LMI GREAT-ICE del IRD. Antoine Rabatel del LGGE agradece también al apoyo brindado por el LabEx OSUG@2020 (Investissements d'avenir -ANR10LABX56).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Baker, C., R. Lawrence, C. Montagne &amp; D. Patten. 2006. Mapping Wetlands and Riparian Areas Using Landsat ETM+ Imagery and Decision-Tree Based Models. Wetlands 26(2): 465-474.</font></p>     <p align="justify"><font face="Verdana" size="2">Baraer, M., B. Mark, J. Mackenzie, T. Condom, J. Bury, K. Huh, C. Portocarrero, J. Gómez &amp; S. Rathay. 2012. Glacier recession and water resources in Peru's Cordillera Blanca. Journal of Glaciology 58(207): 134-150.</font></p>     <p align="justify"><font face="Verdana" size="2">Bradley R. S., M. Vuille M, H. F. Diaz &amp; W. Vergara. 2006. Threats to water supply in the tropical Andes. Science 312:1755-1756.</font></p>     <p align="justify"><font face="Verdana" size="2">Estenssoro, S. 1991. Bofedales de la cuenca alta del Valle de La Paz. pp. 109-121. En: Baudoin, M. &amp; E. Forno (eds.) Historia Natural de un Valle en Los Andes: La Paz. Instituto de Ecología, Universidad Mayor de San Andrés, La Paz.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Favier, V., P. Wagnon, J. P. Chazarin, L. Maisincho &amp; A. Coudrain. 2004. One-year measurements of surface heat budget on the ablation zone of Antizana </font><font face="Verdana" size="2">Glacier 15, Ecuadorian Andes. Journal of Geophysical Research 109(D18105).</font></p>     <p align="justify"><font face="Verdana" size="2">Grant, J. &amp; L. Carter. 2011. Calculating Vegetation Indices from Landsat 5 TM and Landsat 7ETM+Data. Colorado State University, Fort Collins. 18 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Ji, L., L. Zhang &amp; B. Wylie. 2009. Analysis of dynamic thresholds for the normalized difference water index. Photogrammetric Engineering &amp; Remote Sensing 75(11): 1307-1317.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Jordan, E. 1991.Die Gletscher der bolivianischen Anden. Steiner Verlag, Stuttgart. 365 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081730&pid=S1605-2528201400030000300008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Kohler, T. &amp; D. Maselli. 2009. Mountains and climate change - from understanding to action. Geographica Bernensia, Berna. 75 p.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Liang, S. 2004. Quantitative remote sensing of land surfaces. Wiley &amp; Sons, Hoboken. 560 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081732&pid=S1605-2528201400030000300010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Lunneta, R. &amp; M. Balogh. 1999. Application of multi-temporal Landsat 5 TM imagery for wetland identification. Photogrammetric Enginnering &amp; Remote Sensing 65(8): 1303-1310.</font></p>     <p align="justify"><font face="Verdana" size="2">Maestro Cano, I. C. &amp; J. A. Recio. 2004. Análisis comparativo de distintos métodos de estimación de la superficie glaciar en el Pirineo axial aragonés a partir de imágenes Landsat. GeoFocus 4: 79-92.</font></p>     <p align="justify"><font face="Verdana" size="2">Meneses, R. I. 1997. Estudio de la vegetación en la zona minera de Milluni (Provincia Murillo, Departamento de La Paz). Tesis de licenciatura en biología, Universidad Mayor de San Andrés, La Paz. 107 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Montes De Oca, I. 2005. Enciclopedia geográfica de Bolivia. Atenea. La Paz. 872 p.</font></p>     ]]></body>
+<body><![CDATA[<!-- ref --><p align="justify"><font face="Verdana" size="2">Ostria, C. 1987. Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie). Tesis de doctorado, Universidad de Paris, Paris. 180 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081737&pid=S1605-2528201400030000300015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Rabatel, A., B. Francou, A. Soruco, J. Gómez, B. Cáceres, J. L. Ceballos, R. Basantes, M. Vuille, J.-E. Sicart, C. Huggel, M. Scheel, Y. Lejeune, Y. Arnaud, M. Collet, T.</font></p>     <p align="justify"><font face="Verdana" size="2">Condom, G. Consoli, V. Favier, V. Jomelli, R. Galarraga, P. Ginot, L. Maisincho, M. Ménégoz, J. Mendoza, E. Ramírez, P. Ribstein, W. Suarez, M. Villacis &amp; P. Wagnon. 2013. Current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change. Cryosphere 7: 81-102.</font></p>     <p align="justify"><font face="Verdana" size="2">Riggs, G. &amp; D. Hall. 2011. MODIS snow and ice products and their assessment and applications. pp. 681 - 707 En: Ramachadran, B., C. Justice &amp; M. J. Abrams (eds.) Land Remote Sensing and Global Environmental Change. Springer Verlag, Londres.</font></p>     <p align="justify"><font face="Verdana" size="2">Segnini, A., A. Posadas, R. Quiroz, D. M. B. P. Milori, S. C. Saab, L. M. Neto &amp; C. M. P. Vaz. 2010. Spectroscopic assessment of soil organic matter in wetlands from the high Andes. Soil Science Society of American Journal 74(6): 2246-2253.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Soruco, A. 2008. Etude du retrait des glaciers depuis cinquante ans dans les bassins hydrologiques alimentant en eau la ville de La Paz - Bolivie (16º S). Tesis de doctorado, Universidad Grenoble, Grenoble, 235 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=081742&pid=S1605-2528201400030000300019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     <p align="justify"><font face="Verdana" size="2">Vitt, D. H. 2008. Peatlands. pp. 330 - 339. En: S. E. Jørgensen (ed.) Ecosystem Ecology. Elsevier, Copenhagen.</font></p>     <p align="justify"><font face="Verdana" size="2">Vorosmarty, C. J. 2009. The earth's natural water cycles. pp. 166 - 172, En: World water assessment programme (ed.) Water in a Changing World. UNESCO, Paris.</font></p>     <p align="justify"><font face="Verdana" size="2">Yager, K. 2009. A header's landscape: deglaciation, desiccation and managing green pastures in the Andean puna. Tesis de doctorado, Yale University, New Haven. 340 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baker]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lawrence]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montagne]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Patten]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mapping Wetlands and Riparian Areas Using Landsat ETM+ Imagery and Decision-Tree Based Models]]></article-title>
+<source><![CDATA[Wetlands]]></source>
+<year>2006</year>
+<volume>26</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>465-474</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baraer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mark]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mackenzie]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Condom]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bury]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huh]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Portocarrero]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rathay]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Glacier recession and water resources in Peru's Cordillera Blanca]]></article-title>
+<source><![CDATA[Journal of Glaciology]]></source>
+<year>2012</year>
+<volume>58</volume>
+<numero>207</numero>
+<issue>207</issue>
+<page-range>134-150</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bradley]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vuille]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[H.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vergara]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Threats to water supply in the tropical Andes]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2006</year>
+<numero>312</numero>
+<issue>312</issue>
+<page-range>1755-1756</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Estensoro]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales de la cuenca alta del Valle de La Paz.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<month>19</month>
+<day>91</day>
+<page-range>109-121</page-range><publisher-loc><![CDATA[Universidad Mayor de San Andrés, La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Instituto de Ecología]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Favier]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wagnon]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chazarin]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maisincho]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coudrain]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[One-year measurements of surface heat budget on the ablation zone of Antizana Glacier 15, Ecuadorian Andes]]></article-title>
+<source><![CDATA[Journal of Geophysical Research]]></source>
+<year>2004</year>
+<volume>109</volume>
+<numero>D18105</numero>
+<issue>D18105</issue>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grant]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carter]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Calculating Vegetation Indices from Landsat 5 TM and Landsat 7ETM+Data]]></source>
+<year>2011</year>
+<page-range>18</page-range><publisher-loc><![CDATA[Fort Collins ]]></publisher-loc>
+<publisher-name><![CDATA[Colorado State University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ji]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zhang]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wylie]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Analysis of dynamic thresholds for the normalized difference water index]]></article-title>
+<source><![CDATA[Photogrammetric Engineering & Remote Sensing]]></source>
+<year>2009</year>
+<volume>75</volume>
+<numero>11</numero>
+<issue>11</issue>
+<page-range>1307-1317</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jordan]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Die Gletscher der bolivianischen Anden]]></source>
+<year>1991</year>
+<page-range>365</page-range><publisher-loc><![CDATA[Stuttgart ]]></publisher-loc>
+<publisher-name><![CDATA[Steiner Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kohler]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maselli]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Mountains and climate change - from understanding to action]]></source>
+<year>2009</year>
+<page-range>75</page-range><publisher-loc><![CDATA[Berna ]]></publisher-loc>
+<publisher-name><![CDATA[Geographica Bernensia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liang]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Quantitative remote sensing of land surfaces]]></source>
+<year>2004</year>
+<page-range>560</page-range><publisher-loc><![CDATA[Hoboken ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Luneta]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Balogh]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Application of multi-temporal Landsat 5 TM imagery for wetland identification]]></article-title>
+<source><![CDATA[Photogrammetric Enginnering & Remote Sensing]]></source>
+<year>1999</year>
+<volume>65</volume>
+<numero>8</numero>
+<issue>8</issue>
+<page-range>1303-1310</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maestro_eCano]]></surname>
+<given-names><![CDATA[I.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Recio]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Análisis comparativo de distintos métodos de estimación de la superficie glaciar en el Pirineo axial aragonés a partir de imágenes Landsat]]></article-title>
+<source><![CDATA[GeoFocus]]></source>
+<year>2004</year>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>79-92</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de la vegetación en la zona minera de Milluni (Provincia Murillo, Departamento de La Paz)]]></source>
+<year>1997</year>
+<page-range>107</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montes_eDe_eOca]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Enciclopedia geográfica de Bolivia]]></source>
+<year>2005</year>
+<page-range>872</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Atenea]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie)]]></source>
+<year>1987</year>
+<page-range>180</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rabatel]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Francou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cáceres]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ceballos]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Basantes]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vuille]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sicart]]></surname>
+<given-names><![CDATA[J.-E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Huggel]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Scheel]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lejeune]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arnaud]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Collet]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Condom]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Consoli]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Favier]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jomelli]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Galarraga]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ginot]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maisincho]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ménégoz]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mendoza]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramírez]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ribstein]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Suarez]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villacís]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wagnon]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Current state of glaciers in the tropical Andes: a multi-century perspective on glacier evolution and climate change]]></article-title>
+<source><![CDATA[Cryosphere]]></source>
+<year>2013</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>81-102</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Riggs]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hall]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[MODIS snow and ice products and their assessment and applications.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Ramachadran]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Justice]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Abrams]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Land Remote Sensing and Global Environmental Change]]></source>
+<year>2011</year>
+<month>20</month>
+<day>11</day>
+<page-range>681 – 707</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Springer Verlag]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Posadas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milori]]></surname>
+<given-names><![CDATA[D.M.B.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saab]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neto]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vaz]]></surname>
+<given-names><![CDATA[C.M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectroscopic assessment of soil organic matter in wetlands from the high Andes]]></article-title>
+<source><![CDATA[Soil Science Society of American Journal]]></source>
+<year>2010</year>
+<volume>74</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2246-2253</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Etude du retrait des glaciers depuis cinquante ans dans les bassins hydrologiques alimentant en eau la ville de La Paz - Bolivie (16º S)]]></source>
+<year>2008</year>
+<page-range>235</page-range><publisher-loc><![CDATA[Grenoble ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vitt]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Peatlands.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Jørgensen]]></surname>
+<given-names><![CDATA[S.E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecosystem Ecology]]></source>
+<year>2008</year>
+<month>20</month>
+<day>08</day>
+<page-range>330 - 339</page-range><publisher-loc><![CDATA[Copenhagen ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vorosmarty]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The earth's natural water cycles.]]></article-title>
+<collab>World water assessment programme</collab>
+<source><![CDATA[Water in a Changing World]]></source>
+<year>2009</year>
+<month>20</month>
+<day>09</day>
+<page-range>166 – 172</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+<publisher-name><![CDATA[UNESCO]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yager]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[A header's landscape: deglaciation, desiccation and managing green pastures in the Andean puna]]></source>
+<year>2009</year>
+<page-range>340</page-range><publisher-loc><![CDATA[New Haven ]]></publisher-loc>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

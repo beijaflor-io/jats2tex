@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300009</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Métodos para evaluar el efecto del pastoreo sobre las comunidades vegetales de bofedales]]></article-title>
+<article-title xml:lang="en"><![CDATA[Methods to evaluate the effects of domestic herbivores on the vegetation communities of bofedales]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Garcia]]></surname>
+<given-names><![CDATA[Mary Carolina]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa Isela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Naoki]]></surname>
+<given-names><![CDATA[Kazuya]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[Fabien]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad de Concepción Facultad de Ciencias Naturales y Oceanógraficas Departamento de Botánica]]></institution>
+<addr-line><![CDATA[Concepción ]]></addr-line>
+<country>Chile</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Institut de Recherche pour le Développement (IRD) UMR AMAP ]]></institution>
+<addr-line><![CDATA[Montpellier Cedex ]]></addr-line>
+<country>Francia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Herbario Nacional de Bolivia Museo Nacional de Historia Natural ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidad Mayor San Andrés Instituto de Ecología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>91</fpage>
+<lpage>103</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300009&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300009&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los bofedales son ecosistemas semi-acuáticos de la zona altoandina dominados por plantas en forma de cojín. Han sido y son usados para el pastoreo desde hace varias generaciones. Los herbívoros son conocidos por afectar la composición y riqueza de las especies en una comunidad vegetal. En bofedales el pastoreo, además de tener un efecto directo sobre la estructura de la comunidad, podría tener un efecto indirecto a través de cambios en las interacciones entre las especies dominantes (plantas en cojín) y sus especies acompañantes. En la Cordillera Real de Bolivia, los bofedales están formados principalmente por las plantas en cojín Distichia muscoides y Oxychloe andina. Nuestro objetivo es proveer una lista de protocolos que permitirán identificar el impacto directo e indirecto de la herbivoría, a través de la modificación de los cojines expuestos al pastoreo y sobre la productividad y la biodiversidad de los bofedales. Discutimos métodos a nivel comunitario y poblacional, utilizando al mismo tiempo protocolos observacionales y experimentales. En particular explicamos en detalle un método experimental para excluir los herbívoros con cajas de exclusión en metal. Proponemos índices de rendimiento fisiológicos y morfológicos para seguir variaciones en las plantas en cojín.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Bofedales are azonal, high-Andean wetlands dominated by cushion-forming vascular plants. Among other ecosystem services, they provide a crucial resource in nutrients for domestic herbivores, for centuries. Herbivores are generally known to affect both the composition and the species richness of plant communities. In bofedales, beyond this direct effect, herbivores are also expected to impact severely plant communities across changes in the direction and intensity of plant-plant interactions between the dominant, cushion species (Juncaceae) and their associated species. In the Cordillera Real of Bolivia, bofedales are dominated by two cushion species: Distichia muscoides and Oxychloe andina. Our objective is to provide a panel of easy-to-use methods designed to evaluate precisely the direct and indirect (through changes in plant-plant interactions) impacts of domestic herbivores on the organization and the dynamics of bofedales' plant communities. We present methods both at community and population levels, discussing the observational vs. the experimental approaches. We describe in details the use of exclusion fences in order to experimentally remove the effects of herbivores in situ and we propose pertinent physiological and morphological indices so as to estimate the health of plant communities.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Distichia muscoides]]></kwd>
+<kwd lng="es"><![CDATA[Interacciones planta-planta]]></kwd>
+<kwd lng="es"><![CDATA[Oxychloe andina]]></kwd>
+<kwd lng="es"><![CDATA[Plantas en cojín]]></kwd>
+<kwd lng="es"><![CDATA[Trasplantes]]></kwd>
+<kwd lng="en"><![CDATA[Cushion plants]]></kwd>
+<kwd lng="en"><![CDATA[Distichia muscoides]]></kwd>
+<kwd lng="en"><![CDATA[Oxychloe andina]]></kwd>
+<kwd lng="en"><![CDATA[Plant-plant interactions]]></kwd>
+<kwd lng="en"><![CDATA[Transplant]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p>&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>Métodos para evaluar el efecto del pastoreo sobre las comunidades vegetales de bofedales</b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Methods to evaluate the effects of domestic herbivores on the vegetation communities of bofedales</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Mary Carolina Garcia<sup>1,2</sup>*, Rosa Isela Meneses<sup>3</sup>, Kazuya Naoki<sup>4</sup> &amp; Fabien Anthelme<sup>2</sup>*</b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Departamento de Botánica, Facultad de Ciencias Naturales y Oceanógraficas, Universidad de</font> <font face="Verdana" size="2">Concepción, Casilla 160-C, Concepción, Chile. <sup>    <br> 2</sup>UMR AMAP, Institut de Recherche pour le Développement (IRD), Boulevard de la Lironde, TA A-51/</font><font face="Verdana" size="2">PS2, 34398 Montpellier Cedex 5, Francia.</font>    ]]></body>
+<body><![CDATA[<br> <font face="Verdana" size="2"><sup>3</sup>Museo Nacional de Historia Natural, Herbario Nacional de Bolivia, Calle 26, Cota Cota, La Paz, Bolivia.</font>    <br> <font face="Verdana" size="2"><sup>4</sup>Instituto de Ecología, Universidad Mayor San Andrés, Casilla 10077 - Correo Central, La Paz, Bolivia.</font>    <br> <b><font face="Verdana" size="2">* Autores para correspondencia:</font></b><font face="Verdana" size="2"> <a href="mailto:garcia_mc@yahoo.com">garcia_mc@yahoo.com</a>; </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="mailto:fabien.anthelme@ird.fr">fabien.anthelme@ird.fr</a></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales son ecosistemas semi-acuáticos de la zona altoandina dominados por plantas en forma de cojín. Han sido y son usados para el pastoreo desde hace varias generaciones. Los herbívoros son conocidos por afectar la composición y riqueza de las especies en una comunidad vegetal. En bofedales el pastoreo, además de tener un efecto directo sobre la estructura de la comunidad, podría tener un efecto indirecto a través de cambios en las interacciones entre las especies dominantes (plantas en cojín) y sus especies acompañantes. En la Cordillera Real de Bolivia, los bofedales están formados principalmente por las plantas en cojín <i>Distichia muscoides </i>y <i>Oxychloe andina. </i>Nuestro objetivo es proveer una lista de protocolos que permitirán identificar el impacto directo e indirecto de la herbivoría, a través de la modificación de los cojines expuestos al pastoreo y sobre la productividad y la biodiversidad de los bofedales. Discutimos métodos a nivel comunitario y poblacional, utilizando al mismo tiempo protocolos observacionales y experimentales. En particular explicamos en detalle un método experimental para excluir los herbívoros con cajas de exclusión en metal. Proponemos índices de rendimiento fisiológicos y morfológicos para seguir variaciones en las plantas en cojín.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b><i>Distichia muscoides, </i>Interacciones planta-planta, <i>Oxychloe andina, </i>Plantas en cojín, Trasplantes.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bofedales are azonal, high-Andean wetlands dominated by cushion-forming vascular plants. Among other ecosystem services, they provide a crucial resource in nutrients for domestic herbivores, for centuries. Herbivores are generally known to affect both the composition and the species richness of plant communities. In bofedales, beyond this direct effect, herbivores are also expected to impact severely plant communities across changes in the direction and intensity of plant-plant interactions between the dominant, cushion species (Juncaceae) and their associated species. In the Cordillera Real of Bolivia, bofedales are dominated by two cushion species: <i>Distichia muscoides </i>and <i>Oxychloe andina. </i>Our objective is to provide a panel of easy-to-use methods designed </font><font face="Verdana" size="2">to evaluate precisely the direct and indirect (through changes in plant-plant interactions) impacts of domestic herbivores on the organization and the dynamics of bofedales' plant communities. We present methods both at community and population levels, discussing the observational vs. the experimental approaches. We describe in details the use of exclusion fences in order to experimentally remove the effects of herbivores <i>in situ </i>and we propose pertinent physiological and morphological indices so as to estimate the health of plant communities. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Cushion plants, <i>Distichia muscoides, Oxychloe andina, </i>Plant-plant interactions, Transplant.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales son ecosistemas semi-acuáticos presentes en ambientes alpinos y subalpinos <i>sensu </i>Körner (2003), principalmente en los Andes tropicales. Están formados por comunidades de plantas dependientes de agua y suelos húmicos con elevada materia orgánica (Squeo <i>et al. </i>2006, Beck <i>et al. </i>2010). Estos se caracterizan por presentar una mayor riqueza de plantas y cobertura que sus alrededores. Además cumplen un importante rol ecológico y económico al proveer alimento y recurso para las comunidades indígenas a través del pastoreo (Villagrán &amp; Castro 1997) con su capacidad de retención de agua y con su almacenamiento de carbono (Segnini <i>et al. </i>2010, Ruthsatz 2012, Dangles <i>et al. </i>en este número especial).</font></p>     <p align="justify"><font face="Verdana" size="2">Las comunidades vegetales de los bofedales están conformadas principalmente por plantas en cojín (cojines) de la familia Juncaceae y Cyperaceae. Algunas especies representativas son <i>Oxychloe andina, Distichia muscoides, Zameioscirpus muticus, Phylloscirpus desertícola, Plantago tubulosa, Oreobolus obtusangulus </i>y <i>Patosia clandestina, </i>que difieren en abundancia y presencia según su área de distribución a lo largo de los Andes (Troll 1960, Squeo <i>et al. </i>2006, Beck <i>et al. </i>2010, Ruthsatz 2012). Debido a su función crucial en la estructura de los bofedales, esas especies pueden ser consideradas como especies fundadoras <i>(foundation species; </i>Ellison <i>et al. </i>2005). Por consiguiente, se espera que tengan efectos positivos importantes sobre las otras especies de plantas de los bofedales (facilitación entre plantas; Callaway 2007, Brooker <i>et al. </i>2008).</font></p>     <p align="justify"><font face="Verdana" size="2">En los ecosistemas altoandinos y en particular los bofedales, el pastoreo de camélidos ha estado y está presente por más de 9.000 años (Browman 1984), siendo parte de la dinámica de la vegetación. La presencia de los herbívoros modifica la diversidad y composición de plantas (Cesa &amp; Paruelo 2011) y también la heterogeneidad de la vegetación dominante, alterando los procesos de colonización de especies (Adler <i>et al. </i>2001). Además los herbívoros afectan las interacciones entre especies (Catorci <i>et al. </i>2013) y en consecuencia afectan la estructura y funcionamiento del ecosistema. Sin embargo, el efecto de los herbívoros puede diferir según las condiciones del sitio e intensidad de pastoreo (Olff &amp; Ritchie 1998). Por ejemplo, en sitios mésicos (bofedales) moderadamente pastoreados por camélidos incrementa la diversidad vegetal a corto tiempo a diferencia de sitios secos (Buttolph &amp; Coppock 2004).</font></p>     <p align="justify"><font face="Verdana" size="2">Con la disminución de la herbivoría, se espera un incremento de la abundancia de los cojines dominantes de los bofedales, como también el resto de otras plantas que crece entre las hojas y ramas de estos (Ostria 1987). Los cojines favorecen el crecimiento de plantas sobre ellos, pero éstos a su vez difieren en composición y abundancia según el tipo de cojín (Ruthsatz 2012). Tenemos la hipótesis que el pastoreo, además de alterar la composición y estructura de las comunidades, podría tener un efecto especie-específico según el tipo de cojín dominante del bofedal (en inglés: <i>species-specific effects, </i>Callaway 2007). El comprobar esta hipótesis es un reto relativamente complejo, que requiere un método de investigación </font><font face="Verdana" size="2">robusto y adecuado, tomando en cuenta el papel desempeñado por las interacciones entre plantas.</font></p>     <p align="justify"><font face="Verdana" size="2">Los métodos para examinar interacciones entre plantas son relativamente numerosos y variados (ver Callaway 2007). Básicamente, se pueden dividir en dos categorías: métodos observacionales (en inglés: <i>spatial pattern analysis, </i>como López <i>et al. </i>2007, Anthelme <i>et al. </i>2012, Cavieres <i>et al. </i>2014) y métodos experimentales, a través de la manipulación de los factores abióticos y bióticos, como herbívoros (Anthelme <i>et al. </i>2014), temperatura (Cavieres &amp; Sierra-Almeida 2012), humedad (Liancourt <i>et al. </i>2005) y/o presencia de plantas vecinas (Schöb <i>et al. </i>2014). Cada método tiene una contribución relevante y su complementariedad es útil para explicar patrones de asociaciones espaciales entre plantas (Schöb <i>et al. </i>2012). </font></p>     <p align="justify"><font face="Verdana" size="2">El método observacional es particularmente interesante para trabajar a nivel de las comunidades vegetales enteras, sin enfocar específicamente sobre un par de plantas. El estudio es generalmente relevante cuando es realizado a lo largo de gradientes ambientales, dado que se puede examinar variaciones en interacciones entre plantas en diferentes condiciones ambientales (Anthelme &amp; Dangles 2012). Contrariamente, cuando se trata de examinar a detalle una interacción entre pocas especies, manipular <i>in situ </i>el ambiente permite de proveer datos precisos sobre su fisiología y otros directamente utilizables para el manejo del ecosistema. Sin embargo, este método todavía está poco desarrollado en los ambientes alpinos de los Andes (Anthelme &amp; Dangles 2012).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Más allá de proponer métodos para examinar los efectos del cambio climático sobre el área, el funcionamiento y la dinámica de los bofedales (este número especial; Gonzales <i>et al., </i>Meneses <i>et al., </i>Naoki <i>et al.), </i>el enfoque de este artículo es de examinar los efectos de los herbívoros domésticos con el fin de tener una interpretación sintética del efecto del ser humano sobre los bofedales. El obtener gradientes de intensidad de herbivoría sin </font><font face="Verdana" size="2">manipulación del ambiente es difícil por la complejidad de historia de una parcela. En consecuencia, sugerimos usar un método experimental <i>in situ </i>excluyendo herbívoros (Smit <i>et al. </i>2007, Anthelme &amp; Michalet 2009, Graff &amp; Aguiar 2011) para examinar su efecto sobre las comunidades vegetales. Discutimos un protocolo experimental <i>in situ </i>hecho para evaluar el efecto del pastoreo sobre las comunidades vegetales de los bofedales (diversidad vegetal, productividad y reproducción), a través de cambios en la dirección y la intensidad en las interacciones entre dos especies clave. Nuestro protocolo en la Cordillera Real (Bolivia) está diseñado para cumplir los siguientes objetivos específicos: 1) evaluar el efecto directo del pastoreo sobre la comunidad vegetal (cobertura, abundancia, diversidad, productividad, reproducción y sobrevivencia); 2) analizar el papel del tipo de cojín sobre la relación entre pastoreo y comunidad vegetal (riqueza, abundancia, composición, diversidad &#946;, sobrevivencia y establecimiento); y 3) determinar la relevancia de la morfología (altura, compactación), cobertura y temperatura foliar de los cojines sobre la comunidad vegetal, con y sin pastoreo.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="center"><font face="Verdana" size="2"><b>Selección de bofedales y duración del estudio</b></font></p>     <p align="justify"><font face="Verdana" size="2">La selección de sitios debe considerar una misma exposición, composición vegetal, elevación y grado de pastoreo para disminuir posibles co-variables que afecten la respuesta. Generalmente en la alta montaña la vegetación tiene un lento de crecimiento (Körner <i>et al. </i>2003), efectos y/o cambios en su composición, estructura de la comunidad vegetal y/o, la magnitud de la interacción dependerá del tiempo de evaluación y el tipo de datos tomados. Por tanto, se sugiere considerar mediciones a corto, mediano (dos años) y largo plazo (&gt; 5 años). Igualmente, dependiendo el contexto del </font><font face="Verdana" size="2">lugar, es importante acuerdos previos con las comunidades indígenas del área para lograr la sostenibilidad de las evaluaciones en el tiempo. </font></p>     <p align="justify"><font face="Verdana" size="2">En la Cordillera Real de Bolivia hay numerosos valles con bofedales de fácil acceso desde la parte occidental (para más detalles ver Meneses <i>et al., </i>Zeballos <i>et al. </i>en este número especial). Nosotros hemos elegido el Valle Palcoco, donde los bofedales están dominados por cojines de <i>O. andina </i>y <i>D. muscoides </i>(Juncaceae). Nuestro interés es que en este valle el manejo de los bofedales es principalmente a nivel familiar (Hoffmann <i>et al. </i>en este número especial), así que es más fácil obtener un acuerdo para ubicar nuestro material experimental. No incluimos sitios a elevaciones menores de 4.400 m porque generalmente son muy disturbados y disminuye la cobertura de cojines de Juncaceae, siendo remplazados por &quot;vegas&quot; dominadas por Poaceae (Ostria 1987).</font></p>     <p align="center"><font face="Verdana" size="2"><b>Cajas de exclusiones y controles</b></font></p>     <p align="justify"><font face="Verdana" size="2">La cantidad de repeticiones depende del tiempo y esfuerzo disponible para el estudio. En nuestro caso, hemos seleccionado un total de 80 cojines (40 de D. <i>muscoides </i>y 40 de O. <i>andina), </i>que distribuimos en tres bofedales para tener una mayor representatividad de las variaciones ambientales: Willacota (28 individuos), Challapampa (24) y Laguna (28; <a href="#f1">Fig. 1</a>; <a href="#t1">tabla 1</a>). </font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a09_figura_01.jpg" width="731" height="644"></p>     ]]></body>
+<body><![CDATA[<p align="center">&nbsp;</p>     <p align="center"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a09_tabla_01.gif" width="704" height="353"></p>     <p align="justify"><font face="Verdana" size="2">Agrupando cojines de una misma especie en parejas espacialmente adyacentes, permite comparar el efecto de los herbívoros: se puede equipar el primer cojín con una caja de exclusión (tratamiento &quot;sin herbivoría&quot;) mientras que el segundo carece de protección (tratamiento &quot;control&quot;; <a href="#f2">Fig. 2</a>). </font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a09_figura_02.jpg" width="707" height="603"></p>     <p align="justify"><font face="Verdana" size="2">Cada cojín está ubicado dentro de un cuadrante con área de 1 m<sup>2</sup> con una cobertura de cojín entre 30-100% y de preferencia sin contener la presencia de otro cojín (<a href="#f3">Fig. 3</a>). </font></p>     <p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a09_figura_03.jpg" width="723" height="614"></p>     <p align="justify"><font face="Verdana" size="2">Sugerimos armar cajas de exclusión de metal de 1.5 x 1.5 m y de 80 cm de alto, forradas con malla en la parte superior y alambre tejido en las partes laterales para evitar el ingreso de herbívoros (<a href="#f2">Fig. 2</a>). Los 0.5 m</font> <font face="Verdana" size="2">excedentes en cada lado de la caja de exclusión consideran el efecto de borde y posible ramoneo de animales. Cada cuadrante tiene numeración en las esquinas dispuestas en sentido del reloj, empezando con la estaca &quot;1&quot; en dirección norte.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Diversidad y composición vegetal</b></font></p>     <p align="justify"><font face="Verdana" size="2">Se sugiere la evaluación de la diversidad </font><font size="2"><i>&#945;</i></font><font face="Verdana" size="2"> y &#946; (ver detalles en Chao <i>et al. </i>2012) para tener una visión representativa de la diversidad en presencia/ausencia de herbívoros y en presencia de cojines de <i>O. andina </i>y/o D. <i>muscoides. </i>Para realizar estas evaluaciones, registramos en cada cuadrante el porcentaje de cobertura del suelo desnudo, el total de especies y la cobertura vegetal relativa de cada especie que supera el 1% sobre la cojín (estimación visual y en posición vertical, con ayuda de una cuadrilla con sub-cuadrantes de 10 x 10 cm; <a href="#f3">Fig. 3a</a>).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Estimación de la productividad</b></font></p>     <p align="justify"><font face="Verdana" size="2">La tasa de crecimiento relativo es el incremento en biomasa por unidad de biomasa y tiempo (Villar <i>et al. </i>2008). En las plantas, los cambios en su tasa de crecimiento están determinados por diferentes factores fisiológicos y ecológicos. La herbivoría y las interacciones entre especies pueden modificar el estado fisiológico de las plantas de bofedales, modificando la producción de biomasa de la comunidad directamente o a través de cambios de productividad de los cojines dominantes (ver Meneses <i>et al. </i>en este número especial). Existen algunas aproximaciones estrechamente relacionadas con la tasa de crecimiento y tasa fotosintética como el área específica foliar (SLA, <i>specific leaf area </i>en inglés) y el contenido de materia seca foliar (LDMC, <i>leaf dry matter content </i>en inglés) (Cornelissen <i>et al. </i>2003, Wright <i>et al. </i>2004, Villar <i>et al. </i>2008). El SLA corresponde a la relación del área foliar y peso de la hoja (m<sup>2</sup>kg-<sup>1</sup>) (Villar <i>et al. </i>2008). El LDMC corresponde a la masa seca foliar en estufa (mg) dividido por la masa fresca saturada de </font><font face="Verdana" size="2">agua (g) expresado en mg.g<sup>-1</sup> (Cornelissen <i>et al. </i>2003). Esta medición está relacionada con la capacidad de fotosíntesis y con la economía del agua en la planta. Mientras disminuye el LMDC incrementa la disponibilidad de agua y es menos probable el daño físico (Cornelissen <i>et al. </i>2003). Sin embargo, se mostró que la medición del SLA no es adecuada para los cojines de O. <i>andina </i>y D. <i>muscoides </i>por el volumen acicular y abombado de las hojas (Loza <i>et al. </i>en prep.). En consecuencia, proponemos para los cojines la medición del LDMC, que está altamente correlacionado con el SLA (Roche <i>et al. </i>2004). Mientras que para las plantas que crecen sobre </font><font face="Verdana" size="2">los cojines se puede estimar la productividad con el tamaño - altura (cm) y área ocupada (cm<sup>2</sup>) - en el tiempo.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Plantas en cojín</b></font></p>     <p align="justify"><font face="Verdana" size="2">Se puede utilizar la producción de biomasa de <i>O. andina </i>y D. <i>muscoides </i>como indicador de producción del bofedal, tomando en cuenta que son las especies dominantes. Para medir el LDMC en <i>O. andina </i>y D. <i>muscoides </i>por cuadrante, seleccionamos al azar y cortamos 10-20 rosetas (grupos de hojas sanas con &gt; del 50% de coloración verde; <a href="#f3">Fig. 3b</a>). Las rosetas deben</font> <font face="Verdana" size="2">ser limpiadas de hojas antiguas y conservadas en agua hasta la medición del peso húmedo (previamente quitando el exceso de agua). Luego, las muestras son secadas a 80&deg;C hasta obtener un peso constante y registrar su peso seco (g). Sugerimos la repetición de la toma de muestras varias veces a lo largo del tiempo (de preferencia en la misma temporada) para detectar si hay cambios en la respuesta de las plantas debido a la exclusión de herbívoros.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Otras plantas</b></font></p>     <p align="justify"><font face="Verdana" size="2">Para plantas representativas creciendo sobre los cojines dominantes se propone la medición del tamaño en el tiempo: 1) altura máxima; tamaño</font> <font face="Verdana" size="2">desde la base hasta la punta más extrema, 2) altura promedio; tamaño desde la base hasta la altura donde llegan la mayor parte de las hojas, 3) área basal; estimación del largo x ancho y 4) número de hojas con &gt; 50% de la hoja verde). Estas mediciones son indicios dependientes de la presencia/ausencia de herbívoros. En nuestro caso se puede medir una especie con alta palatabilidad <i>(Deyeuxia rigescens, </i>Poaceae) y otra poco palatable <i>(Festuca rigescens, </i>Poaceae; R.I. Meneses, com. pers. 2014) creciendo sobre D. <i>muscoides. </i>Nuestras variables son &quot;pastoreo&quot; (ausencia y presencia) y especie (palatable y no palatable). Seleccionamos 45 individuos D. <i>rigescens </i>y 40 de <i>F. rigescens </i>creciendo sobre el cojín con y sin exclusión distribuidos a lo largo</font> <font face="Verdana" size="2">de los tres bofedales. Cada individuo puede ser marcado con un clavo y su ubicación registrada con la ayuda de la cuadrilla (<a href="#f3">Fig. 3a</a>). Se espera realizar varias mediciones en el tiempo para detectar incremento o decrementos en el tamaño debido al efecto de los herbívoros domésticos.</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a09_tabla_02.gif" width="736" height="489"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Reproducción de <i>O</i>. <i>andina </i>y <i>D. muscoides</i></b></font></p>     <p align="justify"><font face="Verdana" size="2">La cantidad de recursos invertidos a reproducción depende de factores abióticos y bióticos como también de la historia de vida de la especie (Obeso 2002). Estos son reflejados principalmente en la asignación en biomasa a las estructuras reproductivas (Obeso 2002, Karlsson &amp; Méndez 2005), pero también puede ser reflejo de la cantidad invertida en estructuras reproductivas. La eficiencia en la asignación de recursos a reproducción indica un compromiso en la cantidad asignada en crecer, sobrevivir o reproducirse (Monson <i>et al. </i>2006).</font></p>     <p align="justify"><font face="Verdana" size="2">Se propone estimar la asignación en cantidad de producción de frutos producidos por O. <i>andina y D. muscoides </i>en presencia/ausencia de herbívoros. Por cojín escogimos al azar tres sub-cuadrantes de 10 x 10 cm en los cuales contamos los frutos. Registramos la ubicación de los sub-cuadrantes utilizando dos clavos en posición diagonal (e.g. B3, C9, F8; <a href="#f3">Fig. 3a</a>). La época de medición (años 1-5) corresponde a las fechas de floración de las especies: abril-mayo para <i>O. andina </i>y diciembre para D. <i>muscoides </i>(R. I. Meneses, com. pers. 2014).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Rendimiento de una especie trasplantada <i>in situ</i></b></font></p>     <p align="justify"><font face="Verdana" size="2">El trasplante <i>in situ </i>tiene varias ventajas respecto a monitoreo de individuos existentes en el mismo sitio; elimina el ruido de fondo debido a la historia de vida de cada individuo, los individuos son de la misma edad y crecen en condiciones ambientales similares.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">También disminuye las variaciones micro-ambientales no deseadas entre ellos, gracias a la posibilidad de escoger precisamente el lugar de trasplantación. Por estas razones estimamos útil complementar nuestro protocolo con el seguimiento de una especie trasplantada <i>(Deyeuxia rigescens, </i>Poaceae). Los individuos trasplantados pueden ser colectados a partir de semillas (marzo-mayo, meses adecuados para la colecta de semillas de <i>D. rigescens </i>en la Cordillera Real) y posteriormente crecidos en un ambiente controlado (vivero) antes de ser trasplantados. Otra posibilidad, como en nuestro caso es colectar <i>in situ </i>plántulas de un mismo rango de edad y aclimatarlos por un espacio de tiempo (aproximadamente un mes) en condiciones controladas similares a las del bofedal y luego trasplantarlas. Se recomienda el uso de una pinza para la colecta de plántulas en el campo y colocar cada plántula en bolsas individuales con sustrato de bofedal para evitar daños en la raíz. Idealmente el trasplante deberá ser realizado durante la época húmeda para favorecer el establecimiento de los individuos. Sugerimos utilizar 10 plántulas por tratamiento para trasplantar (variable 1: cojín, variable 2: pastoreo). La cantidad de plántulas y réplicas sugeridas está basado en otros experimentos (Cavieres <i>et al. </i>2007). Por tratamiento colocamos las plántulas trasplantadas dispuestas en un transecto (separados uno del otro por 10 cm consecutivamente para evitar interferencia entre ellos) ubicadas en las áreas borde (<a href="#f2">Fig. 2</a>). En los dos extremos de cada transecto colocamos dos estacas de madera para su identificación. Planificamos visitas de monitoreo 1) después de un mes y luego 2) 4-6 meses. Los bofedales situados en los Andes tropicales no están regidos por un régimen climático extremo anual, presentan alta materia orgánica y humedad relativa a diferencia de sitios de montaña árido que necesitan monitoreos continuos. En cada visita se registrará el número de plántulas muertas y vivas, la altura y el área basal por cada individuo (Aguiar <i>et al. </i>1992).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Características morfológicas de los cojines <i>O. andina </i>y <i>D. muscoides</i></b></font></p>     <p align="justify"><font face="Verdana" size="2">En medios ambientes alpinos, las interacciones positivas entre plantas juegan un papel importante en la organización y la dinámica de las comunidades vegetales (Callaway <i>et al. </i>2002, Anthelme &amp; Dangles 2012, Cavieres <i>et al. </i>2014). En los bofedales, estas interacciones son importantes por la cantidad de la plantas terrestres que crecen únicamente sobre los cojines de Juncaceae (Loza <i>et al. </i>en prep.). Las interacciones podrían verse afectadas por el estado fisiológico de las especies que interactúan (Schöb <i>et al. </i>2013). A su vez, el estado fisiológico puede ser reflejado a partir de rasgos funcionales y morfológicos. Se puede examinar variaciones morfológicas en los cojines (compactación y temperatura foliar) en relación a la presencia/ausencia de herbívoros y como estos afectan la magnitud de interacción con las otras plantas.</font></p>     <p align="justify"><font face="Verdana" size="2">La compactación es una medida utilizada principalmente para estimar la dureza del sustrato. Esta medición en los cojines reflejará su capacidad por facilitar el ingreso y presencia de otras plantas (Michalet <i>et al. </i>2011, Al Hayek <i>et al. </i>2014). El penetrómetro propuesto (Agratronix, Streetboro, OH 44241, USA) tiene una escala gráfica que va desde menor compactación (0-200 psi, equivalente a 0-1.379 kPa), condiciones intermedias de compactación (200-300 psi, equivalente a 1.379-2.068 kPa) hasta mayor compactación (&gt; 2.068 kPa). Se sugiere hacer cinco mediciones al azar sobre cada cojín, tomando las muestras afuera de los cuadrantes, para evitar dañar la vegetación estudiada a largo plazo.</font></p>     <p align="justify"><font face="Verdana" size="2">La diferencia de temperaturas superficiales extremas entre plantas en cojín o entre cojines y el suelo vecino es uno de los factores que explica el efecto positivo de esas plantas sobre las comunidades vegetales alpinas (Cavieres <i>et al. </i>2006, Nyakata &amp; McGeoch 2008, Maestre <i>et al. </i>2009). Recientemente, la comercialización de cámaras térmicas portátiles ha permitido </font><font face="Verdana" size="2">especializar datos de temperatura en la superficie de los cojines (Scherrer &amp; Körner 2011), dando la posibilidad de correlacionar mapas de temperatura con mapas de abundancia de plantas e interpretar con más precisión patrones de asociaciones espaciales entre cojines y otras plantas (Anthelme <i>et al. </i>2014). Sugerimos tomar fotos &quot;normales&quot; y fotos térmicas de todos los cuadrantes con y sin exclusión en el mismo día y durante las horas de máxima radiación y sin nubosidad (12:00-14:30). En complemento de este método, sugerimos también medir las temperaturas debajo de la superficie, donde se coloca el meristemo de las plantas (3-4 cm debajo de la superficie; E. Hiltbrunner, com. pers. 2014). Se puede realizar ese tipo de medición por ejemplo con TidbiT v2 Temp data loggers, con 10 repeticiones en cada tratamiento.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Conclusión y perspectivas</b></font></p>     <p align="justify"><font face="Verdana" size="2">En el caso específico de los bofedales, para examinar el efecto del pastoreo sobre la organización y la dinámica de las comunidades vegetales se necesita tomar en cuenta con rigor las variaciones de las características de las especies fundadoras, es decir las plantas en cojín (D. <i>muscoides </i>y <i>O. andina </i>en el caso de la Cordillera Real). Por esta razón, el diseño propuesto está enfocado a evaluar variaciones inter- e intraespecíficas en los cojines. Se espera que pueda ser útil para otros estudios con este tipo de ecosistema, principalmente en los Andes. El número de análisis realizados, repeticiones propuestos por cada tratamiento es un acuerdo entre el tiempo/financiamiento disponible y la relevancia de los análisis estadísticos.</font></p>     <p align="justify"><font face="Verdana" size="2">Con menos recursos disponibles, se puede reducir el número de análisis (p.e. eliminar la etapa trasplantes o tomar datos de temperaturas puntuales con loggers o termómetros en vez de utilizar cámaras térmicas). Contrariamente, con más tiempo y/o recursos materiales, sería relevante también estudiar variaciones en el tipo de herbivoría, con las hipótesis 1) que camélidos, ovinos y bovinos tienen un </font><font face="Verdana" size="2">impacto significativamente diferente sobre las comunidades vegetales de los bofedales y 2) que los camélidos, alpacas y llamas no tienen exactamente los mismos requerimientos. Igualmente, separar los efectos del pisoteo vs. la depredación de material vegetal sobre la vegetación podría llevar a entender mejor los efectos de la ganadería sobre la estructura de los bofedales. Examinar estos factores de variación en relación con el tipo de herbivoría necesitaría observaciones finas en el campo, lo que se podría hacer con cámaras de grabación &quot;time-lapse&quot; (Wingscapes WSCA04Timelapse Outdoor PlantCam; E. Hiltbrunner, com. pers. 2014). Desde el punto de vista de las respuestas de las plantas a la herbivoría, también se pueden considerar otros rasgos de vida funcionales que podrían llegar a un mejor entendimiento del sistema, como la longevidad de hojas, lo cual juega un papel crucial en la producción primaria neta (Craine &amp; Reich 2001).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos a E. Hiltbrunner por sus comentarios generales sobre el estudio, a M. Kraemer por la elaboración del mapa de ubicación, a las familias Flores y Vargas de la comunidad de Palcoco por facilitar el trabajo en los bofedales y a S. Pfanzelt por ayudarnos con la construcción de las cajas de exclusión. Este estudio es parte del programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Adler, P., D. Raff &amp; W. Lauenroth. 2001. The effect of grazing on the spatial heterogeneity of vegetation. Oecologia 128: 465-479.</font></p>     <p align="justify"><font face="Verdana" size="2">Aguiar, M. R., A. Soriano &amp; O. E. Sala. 1992. Competition and facilitation in the recruitment of seedlings in Patagonian steppe. Functional Ecology: 66-70.</font></p>     <p align="justify"><font face="Verdana" size="2">Al Hayek, P., B. Touzard, Y. Le Bagousse-Pinguet &amp; R. Michalet. 2014. Phenotypic differentiation within a foundation grass species correlates with species richness in a subalpine community. Oecologia 176(2): 533-544.</font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F., B. Buendia, C. Mazoyer &amp; O. Dangles. 2012. Unexpected mechanisms sustain the stress gradient hypothesis in a tropical alpine environment. Journal of Vegetation Science 23: 62-72.</font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F., L. A. Cavieres &amp; O. Dangles. 2014. Facilitation among plants in alpine environments in the face of climate change. Frontiers in Plant Science 5:387. doi:<a href="http://dx.doi.org/10.3389/fpls.2014.00387" target="_blank">10.3389/fpls.2014.00387</a>.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Anthelme, F. &amp; O. Dangles. 2012. Plant-plant interactions in tropical alpine environments. Perspectives in Plant Ecology Evolution and Systematics 14:363-372.</font></p>     <p align="justify"><font face="Verdana" size="2">Anthelme, F. &amp; R. Michalet. 2009. Grass-to-tree facilitation in an arid grazed environment (Aïr mountains, Sahara). Basic and Applied Ecology 10: 437-446.</font></p>     <p align="justify"><font face="Verdana" size="2">Beck, S., A. Domic, C. Garcia, R. I. Meneses, K. Yager &amp; S. Halloy. 2010. El Parque Nacional Sajama y sus plantas. Herbario Nacional de Bolivia, La Paz. 250 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Brooker, R. W., F. E. Maestre, R. M. Callaway, C. J. Lortie, L. Cavieres, G. Kunstler, P. Liancourt, K. Tielbörger, J.M. J. Travis, F. Anthelme, C. Armas, L. Coll, E. Corcket, S. Delzon, E. Forey, J. Olofsson, Z. Kikvidze, J. Olofsson, F. Pugnaire, C. L Quiroz, P. Saccone, K. Schiffers, M. Seifan, B. Touzardand &amp; R. Michalet. 2008. Facilitation in plant communities: the past, the present, and the future. Journal of Ecology 96:18-34.</font></p>     <p align="justify"><font face="Verdana" size="2">Browman, D. L. 1984. Pastoralism and development in high Andean arid lands. Journal of Arid Environments 7:313-328.</font></p>     <p align="justify"><font face="Verdana" size="2">Buttolph, L. P. &amp;D. L. Coppock. 2004. Influence of deferred grazing on vegetation dynamics and livestock productivity in an Andean pastoral system. Journal of Applied Ecology 41: 664-674.</font></p>     <p align="justify"><font face="Verdana" size="2">Callaway, R. M. 2007. Positive interactions and interdependence in plant communities. Springer, Dordrecht. 415 p. Callaway, R. M., R. Brooker, P. Choler, Z. Kikvidze, C. J. Lortie, R. Michalet, L. Paolini, F. I. Pugnaire, B. Newingham &amp; E. T. Aschehoug. 2002. Positive interactions among alpine plants increase with stress. Nature 417: 844-848.</font></p>     <p align="justify"><font face="Verdana" size="2">Catorci, A., S. Cesaretti, J. L. Velasquez, S. Burrascano &amp; H. Zeballos. 2013. Management type affects composition and facilitative processes in altoandine drygrassland. Acta Oecologica 52:19-28.</font></p>     <p align="justify"><font face="Verdana" size="2">Cavieres, L. A., E. I. Badano, A. Sierra-Almeida, S. Gómez &amp; M. A. Molina-Montenegro. 2006. Positive interactions between alpine plant species and the nurse cushion plant <i>Laretia acaulis </i>do not increase with elevation in the Andes of central Chile. New Phytologist 169:59-69.</font></p>     <p align="justify"><font face="Verdana" size="2">Cavieres, L. A., E. I. Badano, A. Sierra-Almeida &amp; M. A. Molina-Montenegro. 2007. Microclimatic modifications of cushion plants and their consequences for seedling survival of native and non-native herbaceous species in the high Andes of central Chile. Arctic, Antarctic, and Alpine Research 39: 229-236.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Cavieres, L. A., R. W. Brooker, B. J. Butterfield, B. J. Cook, Z. Kikvidze, C. J. Lortie, R.Michalet, F. I. Pugnaire, C. Schöb, S. Xiao, F. Anthelme, R. G. Björk, K. J. M. Dickinson, B.H. Cranston, R. Gavilán, A. Gutiérrez-Girón, R. Kanka, J. P. Maalouf, A. F. Mark, J. Noroozi, R. Parajuli, G. K. Phoenix, A. M. Reid, W. M. Ridenour, C. Rixen, S. Wipf, L Zhao, A. Escudero, B.F. Zaitchik, E. Lingua, E. T. Aschehoug &amp; R. M. Callaway. 2014. Facilitative plant interactions and climate simultaneously </font><font face="Verdana" size="2">drive alpine plant diversity. Ecology Letters 17:193-202.</font></p>     <p align="justify"><font face="Verdana" size="2">Cavieres, L. A. &amp; A. Sierra-Almeida. 2012. Facilitative interactions do not wane with warming at high elevations in the Andes. Oecologia 170: 575-584.</font></p>     <p align="justify"><font face="Verdana" size="2">Cesa, A. &amp; J. Paruelo. 2011. Changes in vegetation structure induced by domestic grazing in Patagonia (Southern Argentina). Journal of Arid Environments 75:1129-1135.</font></p>     <p align="justify"><font face="Verdana" size="2">Chao, A., C. H. Chiu &amp;T. Hsieh. 2012. Proposing a resolution to debates on diversity partitioning. Ecology 93: 2037-2051.</font></p>     <p align="justify"><font face="Verdana" size="2">Cornelissen J., S. Lavorel, E. Garnier, S. Diaz, N. Buchmann, D. Gurvich, P. Reich, H. Steege, H. Morgan, M. van der Heijden, J. Pausas &amp; H. Poorter. 2003. A handbook of protocols for standardized and easy measurement of plant functional traits worldwide. Australian Journal of Botany 51: 335-380.</font></p>     <p align="justify"><font face="Verdana" size="2">Craine, J. M., &amp; P. B. Reich. 2001. Elevated CO2 and nitrogen supply alter leaf longevity of grassland species. New Phytologist 150(2): 397-403.</font></p>     <p align="justify"><font face="Verdana" size="2">Ellison, A. M., M. S. Bank, B. D. Clinton, E. A. Colburn, K. Elliott, C. R. Ford, D. R. Foster, B. D. Kloeppel, J. D Knoepp, G. M. Lovett, J. Mohan, D. A. Orwig, N. L. Rodenhouse, W. V. Sobczak, K. A. Stinson, J. K. Stone, C. M. Swan, J. Thompson, B. Von Holle &amp; J. R. Webster. 2005. Loss of foundation species: consequences for the structure and dynamics of forested ecosystems. Frontiers in Ecology and the Environment 3(9): 479-486.</font></p>     <p align="justify"><font face="Verdana" size="2">Graff, P. &amp;M. R. Aguiar. 2011. Testing the role of biotic stress in the stress-gradient hypothesis. Processes and patterns in arid rangelands. Oikos 120:1023-1030.</font></p>     <p align="justify"><font face="Verdana" size="2">Karlsson, P. S. &amp; M. Mendez. 2005. The resource economy of plant reproduction. pp. 1-49. En: Reekie, E. G. &amp; F.A. Bazzaz (eds.) Reproductive Allocation in Plants. Elsevier, Amsterdam.</font></p>     <p align="justify"><font face="Verdana" size="2">Körner, C. 2003. Alpine plant life: functional plant ecology of high mountain ecosystems. Springer, Berlin.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Liancourt, P., R. M. Callaway &amp; R. Michalet. 2005. Stress tolerance and competitive response ability determine the outcome of biotic interactions. Ecology 86: 1611-1618.</font></p>     <p align="justify"><font face="Verdana" size="2">López, R. P., S. Valdivia, N. Sanjinés &amp; D. De la Quintana. 2007. The role of nurse plants in the establishment of shrub seedlings in the semi-arid subtropical Andes. Oecologia 152: 779-790.</font></p>     <p align="justify"><font face="Verdana" size="2">Loza, S., R. I. Meneses &amp; F. Anthelme. en prep. Comunidades vegetales de los bofedales de la Cordillera Real bajo el calentamiento del clima.</font></p>     <p align="justify"><font face="Verdana" size="2">Maestre, F. T., R. M. Callaway, F. Valladares &amp; C. J. Lortie. 2009. Refining the stress-gradient hypothesis for competition and facilitation in plant communities. Journal of Ecology 97:199-205.</font></p>     <p align="justify"><font face="Verdana" size="2">Michalet, R., S. Xiao, B. Touzard, D. S. Smith, L. A. Cavieres, R. M. Callaway &amp; T. G. Whitham. 2011. Phenotypic variation in nurse traits and community feedbacks define an alpine community. Ecology Letters 14(5): 433-443.</font></p>     <p align="justify"><font face="Verdana" size="2">Monson, R. K., T. N. Rosenstiel, T. A. Forbis, D. A. Lipson &amp; C. H. Jaeger. 2006. Nitrogen and carbon storage in alpine plants. Integrative and Comparative Biology 46: 35-48.</font></p>     <p align="justify"><font face="Verdana" size="2">Nyakatya, M. J. &amp; M. A. McGeoch. 2008. Temperature variation across Marion Island associated with a keystone plant species <i>Azorella selago </i>Hook. (Apiaceae). Polar Biology 31:139-151.</font></p>     <p align="justify"><font face="Verdana" size="2">Obeso, J. R. 2002. The costs of reproduction in plants. New Phytologist 155: 321-348.</font></p>     <p align="justify"><font face="Verdana" size="2">Olff, H. &amp; M. E. Ritchie. 1998. Effects of herbivores on grassland plant diversity. Trends in Ecology &amp; Evolution 13: 261-265.</font></p>     <p align="justify"><font face="Verdana" size="2">Ostria, C. 1987. Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota </font><font face="Verdana" size="2">(Cordillère Orientale, Bolivie). Tesis de doctorado, Université Paris 6, Paris. 180 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Roche, P., N. Díaz-Burlinson, &amp; S. Gachet. 2004. Congruency analysis of species ranking based on leaf traits: which traits are the more reliable? Plant Ecology 174:37-48.</font></p>     <p align="justify"><font face="Verdana" size="2">Ruthsatz, B. 2012. Vegetación y ecología de los bofedales altoandinos de Bolivia. Phytoecologia 42:133-179.</font></p>     <p align="justify"><font face="Verdana" size="2">Scherrer, D. &amp; C. Körner. 2011. Topographically controlled thermal-habitat differentiation buffers alpine plant diversity against climate warming. Journal of Biogeography 38: 406-416.</font></p>     <p align="justify"><font face="Verdana" size="2">Schöb, C., P. M., Kammer &amp; Z. Kikvidze. 2012. Combining observational and experimental methods in plant-plant interaction research. Plant Ecology &amp; Diversity 5: 27-36.</font></p>     <p align="justify"><font face="Verdana" size="2">Schöb, C., C. Armas, M. Guler, I. Prieto &amp; F. I. Pugnaire. 2013. Variability in functional traits mediates plant interactions along stress gradients. Journal of Ecology 101:753-762.</font></p>     <p align="justify"><font face="Verdana" size="2">Schöb, C., R. Michalet, L. A. Cavieres, F. I. Pugnaire, R.W. Brooker, B. J. Butterfield, B. J. Cook, Z. Kikvidze, C. J. Lortie, S. Xiao, P. Al Hayek, F. Anthelme, B. H. Cranston, M. C. García, Y. Le Bagousse-Pinguet, A. M. Reid, P. C. le Roux, L. Emanuele, M. J. Nyakatya, B. Touzard, L. Zhao &amp; R. M. Callaway. 2014. A global analysis of bi-directional interactions in alpine plant communities shows facilitators experiencing strong reciprocal fitness costs. New Phytologist 202: 95-105.</font></p>     <p align="justify"><font face="Verdana" size="2">Segnini, A., A. Posadas, R. Quiroz, D. M. B. P. Milori, S. C. Saab, L. M. Neto, &amp; C. M. P. Vaz. 2010. Spectroscopic assessment of soil organic matter in wetlands from the high Andes. Soil Science Society of America Journal 74(6): 2246-2253.</font></p>     <p align="justify"><font face="Verdana" size="2">Smit, C., C. Vandenberghe, J. den Ouden &amp; H. Müller-Schärer. 2007. Nurse plants, tree saplings and grazing pressure: changes in facilitation along a biotic </font><font face="Verdana" size="2">environmental gradient. Oecologia 152: 265-273.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza.2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     <p align="justify"><font face="Verdana" size="2">Troll, C. 1960. The relationship between the climates, ecology and plant geography of the southern cold temperate zone and of the tropical high mountains. Proceedings of the Royal Society of London. Series B.&nbsp;Biological Sciences 152(949): 529-532. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Villagrán M. C. &amp;R. V. Castro. 1997. Etnobotánica</font> <font face="Verdana" size="2">y manejo ganadero de las vegas, bofedales y quebradas en el Loa superior, Andes de Antofagasta, Segunda Región, Chile. Chungara: 275-304.</font></p>     <p align="justify"><font face="Verdana" size="2">Villar, R., J. Ruiz-Robleto, J. L. Quero, H. Poorter, F. Valladares &amp; T. Marañon. 2004. Tasas de crecimiento en especies leñosas: aspectos funcionales e implicaciones ecológicas. pp. 191-227. En: Valladares, F. (ed.) Ecología del Bosque Mediterráneo en un Mundo Cambiante. Ministerio de Medio Ambiente, Madrid. <a href="http://www.globimed.net/publicaciones/LibroEcoIndice.htm" target="_blank">http://www.globimed.net/publicaciones/LibroEcoIndice.htm</a>.</font></p>     <p align="justify"><font face="Verdana" size="2">Wright, I. J., P. B. Reich, M. Westoby, D. D. Ackerly, Z. Baruch, F. Bongers, J. Cavender-Bares, T. Chapin, J. H.C. Cornelissen, M. Diemer, J. Flexas, E. Garnier, P. K. Groom, J. Gulias, K. Hikosaka, B. B. Lamont, T. Lee, W. Lee,</font> <font face="Verdana" size="2">C.&nbsp;Lusk, J. J. Midgley, M.-L. Navas, Ü. Niinemets, J. Oleksyn, N. Osada, H. Poorter, P. Poot, L. Prior, V. I. Pyankov, C. Roumet, S. C. Thomas, M. G. Tjoelker, E. J. Veneklaas &amp; R. Villar. 2004. The worldwide leaf economics spectrum. Nature 428: 821-827.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Adler]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Raff]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lauenroth]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[The effect of grazing on the spatial heterogeneity of vegetation]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2001</year>
+<numero>128</numero>
+<issue>128</issue>
+<page-range>465-479</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aguiar]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soriano]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sala]]></surname>
+<given-names><![CDATA[O.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Competition and facilitation in the recruitment of seedlings in Patagonian steppe]]></article-title>
+<source><![CDATA[Functional]]></source>
+<year>1992</year>
+<numero>Ecology</numero>
+<issue>Ecology</issue>
+<page-range>66-70</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Al_eHayek]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Touzard]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le_eBagousse-Pinguet]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phenotypic differentiation within a foundation grass species correlates with species richness in a subalpine community]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2014</year>
+<volume>176</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>533-544</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buendia]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mazoyer]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Unexpected mechanisms sustain the stress gradient hypothesis in a tropical alpine environment]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2012</year>
+<numero>23</numero>
+<issue>23</issue>
+<page-range>62-72</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Caviares]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitation among plants in alpine environments in the face of climate change]]></article-title>
+<source><![CDATA[Frontiers in Plant Science]]></source>
+<year>2014</year>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>387</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dangles]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant-plant interactions in tropical alpine environments]]></article-title>
+<source><![CDATA[Perspectives in Plant Ecology Evolution and Systematics]]></source>
+<year>2012</year>
+<numero>14</numero>
+<issue>14</issue>
+<page-range>363-372</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Grass-to-tree facilitation in an arid grazed environment (Aïr mountains, Sahara)]]></article-title>
+<source><![CDATA[Basic and Applied Ecology]]></source>
+<year>2009</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>437-446</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Domic]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garcia]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yager]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El Parque Nacional Sajama y sus plantas]]></source>
+<year>2010</year>
+<page-range>250</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Herbario Nacional de Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maestre]]></surname>
+<given-names><![CDATA[F.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kunstler]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Liancourt]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tielbörger]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Travis]]></surname>
+<given-names><![CDATA[J.M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Armas]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coll]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Corcket]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delzon]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Forey]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olofsson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Olofsson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[C.L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saccone]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schiffers]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Seifan]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Touzardand]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitation in plant communities: the past, the present, and the future]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2008</year>
+<numero>96</numero>
+<issue>96</issue>
+<page-range>18-34</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Browman]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Pastoralism and development in high Andean arid lands]]></article-title>
+<source><![CDATA[Journal of Arid Environments]]></source>
+<year>1984</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>313-328</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Buttolph]]></surname>
+<given-names><![CDATA[L.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coppock]]></surname>
+<given-names><![CDATA[D.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Influence of deferred grazing on vegetation dynamics and livestock productivity in an Andean pastoral system]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>2004</year>
+<numero>41</numero>
+<issue>41</issue>
+<page-range>664-674</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Positive interactions and interdependence in plant communities]]></source>
+<year>2007</year>
+<page-range>415</page-range><publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Choler]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Paolini]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Newingham]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aschehoug]]></surname>
+<given-names><![CDATA[E.T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Positive interactions among alpine plants increase with stress]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2002</year>
+<numero>417</numero>
+<issue>417</issue>
+<page-range>844-848</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Catorci]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cesaretti]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Velasquez]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Burrascano]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zeballos]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Management type affects composition and facilitative processes in altoandine drygrassland]]></article-title>
+<source><![CDATA[Acta Oecologica]]></source>
+<year>2013</year>
+<numero>52</numero>
+<issue>52</issue>
+<page-range>19-28</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Badano]]></surname>
+<given-names><![CDATA[E.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sierra-Almeida]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Molina-Montenegro]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Positive interactions between alpine plant species and the nurse cushion plant Laretia acaulis do not increase with elevation in the Andes of central Chile]]></article-title>
+<source><![CDATA[New Phytologist]]></source>
+<year>2006</year>
+<numero>169</numero>
+<issue>169</issue>
+<page-range>59-69</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Badano]]></surname>
+<given-names><![CDATA[E.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sierra-Almeida]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Molina-Montenegro]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Microclimatic modifications of cushion plants and their consequences for seedling survival of native and non-native herbaceous species in the high Andes of central Chile]]></article-title>
+<source><![CDATA[Arctic, Antarctic, and Alpine Research]]></source>
+<year>2007</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>229-236</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Butterfield]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cook]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schöb]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Xiao]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Björk]]></surname>
+<given-names><![CDATA[R.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dickinson]]></surname>
+<given-names><![CDATA[K.J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cranston]]></surname>
+<given-names><![CDATA[B.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gavilán]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gutiérrez-Girón]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kanka]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maalouf]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mark]]></surname>
+<given-names><![CDATA[A.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Noroozi]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parajuli]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Phoenix]]></surname>
+<given-names><![CDATA[G.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reid]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ridenour]]></surname>
+<given-names><![CDATA[W.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rixen]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wipf]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zhao]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Escudero]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zaitchik]]></surname>
+<given-names><![CDATA[B.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lingua]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aschehoug]]></surname>
+<given-names><![CDATA[E.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitative plant interactions and climate simultaneously drive alpine plant diversity]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2014</year>
+<numero>17</numero>
+<issue>17</issue>
+<page-range>193-202</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Caviares]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sierra-Almeida]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitative interactions do not wane with warming at high elevations in the Andes]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2012</year>
+<numero>170</numero>
+<issue>170</issue>
+<page-range>575-584</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cesa]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Paruelo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Changes in vegetation structure induced by domestic grazing in Patagonia (Southern Argentina)]]></article-title>
+<source><![CDATA[Journal of Arid Environments]]></source>
+<year>2011</year>
+<numero>75</numero>
+<issue>75</issue>
+<page-range>1129-1135</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chao]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chiu]]></surname>
+<given-names><![CDATA[C.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hsieh]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Proposing a resolution to debates on diversity partitioning]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2012</year>
+<numero>93</numero>
+<issue>93</issue>
+<page-range>2037-2051</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cornelissen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lavorel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buchmann]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gurvich]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Steege]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morgan]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van_eder_eHeijden]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pausas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A handbook of protocols for standardized and easy measurement of plant functional traits worldwide]]></article-title>
+<source><![CDATA[Australian Journal of Botany]]></source>
+<year>2003</year>
+<numero>51</numero>
+<issue>51</issue>
+<page-range>335-380</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Craine]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Elevated CO2 and nitrogen supply alter leaf longevity of grassland species]]></article-title>
+<source><![CDATA[New Phytologist]]></source>
+<year>2001</year>
+<volume>150</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>397-403</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bank]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clinton]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Colburn]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elliott]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ford]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Foster]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kloeppel]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Knoepp]]></surname>
+<given-names><![CDATA[J.D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovett]]></surname>
+<given-names><![CDATA[G.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mohan]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Orwig]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rodenhouse]]></surname>
+<given-names><![CDATA[N.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sobczak]]></surname>
+<given-names><![CDATA[W.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stinson]]></surname>
+<given-names><![CDATA[K.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stone]]></surname>
+<given-names><![CDATA[J.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Swan]]></surname>
+<given-names><![CDATA[C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thompson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Von_eHolle]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Webster]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Loss of foundation species: consequences for the structure and dynamics of forested ecosystems]]></article-title>
+<source><![CDATA[Frontiers in Ecology and the Environment]]></source>
+<year>2005</year>
+<volume>3</volume>
+<numero>9</numero>
+<issue>9</issue>
+<page-range>479-486</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Graff]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aguiar]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Testing the role of biotic stress in the stress-gradient hypothesis: Processes and patterns in arid rangelands]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2011</year>
+<numero>120</numero>
+<issue>120</issue>
+<page-range>1023-1030</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Karlsson]]></surname>
+<given-names><![CDATA[P.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mendez]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The resource economy of plant reproduction.]]></article-title>
+<source><![CDATA[]]></source>
+<year>2005</year>
+<page-range>1-49</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Reekie]]></surname>
+<given-names><![CDATA[E.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bazzaz]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Reproductive Allocation in Plants]]></source>
+<year></year>
+<publisher-loc><![CDATA[Amsterdam ]]></publisher-loc>
+<publisher-name><![CDATA[Elsevier]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Körner]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Alpine plant life: functional plant ecology of high mountain ecosystems]]></source>
+<year>2003</year>
+<publisher-loc><![CDATA[Berlin ]]></publisher-loc>
+<publisher-name><![CDATA[Springer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liancourt]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Stress tolerance and competitive response ability determine the outcome of biotic interactions]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2005</year>
+<numero>86</numero>
+<issue>86</issue>
+<page-range>1611-1618</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[R.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valdivia]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanjinés]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[De_ela Quintana]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The role of nurse plants in the establishment of shrub seedlings in the semi-arid subtropical Andes]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2007</year>
+<numero>152</numero>
+<issue>152</issue>
+<page-range>779-790</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loza]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[R.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Comunidades vegetales de los bofedales de la Cordillera Real bajo el calentamiento del clima]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maestre]]></surname>
+<given-names><![CDATA[F.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valladares]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Refining the stress-gradient hypothesis for competition and facilitation in plant communities]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2009</year>
+<numero>97</numero>
+<issue>97</issue>
+<page-range>199-205</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Xiao]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Touzard]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[D.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Whitham]]></surname>
+<given-names><![CDATA[T.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Phenotypic variation in nurse traits and community feedbacks define an alpine community]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2011</year>
+<volume>14</volume>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>433-443</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Monson]]></surname>
+<given-names><![CDATA[R.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rosenstiel]]></surname>
+<given-names><![CDATA[T.N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Forbis]]></surname>
+<given-names><![CDATA[T.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lipson]]></surname>
+<given-names><![CDATA[D.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jaeger]]></surname>
+<given-names><![CDATA[C.H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nitrogen and carbon storage in alpine plants]]></article-title>
+<source><![CDATA[Integrative and Comparative Biology]]></source>
+<year>2006</year>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>35-48</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nyakatya]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McGeoch]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Temperature variation across Marion Island associated with a keystone plant species Azorella selago Hook]]></article-title>
+<source><![CDATA[(Apiaceae). Polar Biology]]></source>
+<year>2008</year>
+<numero>31</numero>
+<issue>31</issue>
+<page-range>139-151</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Obeso]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The costs of reproduction in plants]]></article-title>
+<source><![CDATA[New Phytologist]]></source>
+<year>2002</year>
+<numero>155</numero>
+<issue>155</issue>
+<page-range>321-348</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Olff]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ritchie]]></surname>
+<given-names><![CDATA[M.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of herbivores on grassland plant diversity]]></article-title>
+<source><![CDATA[Trends in Ecology & Evolution]]></source>
+<year>1998</year>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>261-265</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Phytoécologie et Paleoécologie de la vallée altoandine de Hichu Khota (Cordillère Orientale, Bolivie)]]></source>
+<year>1987</year>
+<page-range>180</page-range><publisher-loc><![CDATA[Paris ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Roche]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Díaz-Burlinson]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gachet]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Congruency analysis of species ranking based on leaf traits: which traits are the more reliable?]]></article-title>
+<source><![CDATA[Plant Ecology]]></source>
+<year>2004</year>
+<numero>174</numero>
+<issue>174</issue>
+<page-range>37-48</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ruthsatz]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Vegetación y ecología de los bofedales altoandinos de Bolivia]]></article-title>
+<source><![CDATA[Phytoecologia]]></source>
+<year>2012</year>
+<numero>42</numero>
+<issue>42</issue>
+<page-range>133-179</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Scherrer]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Körner]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Topographically controlled thermal-habitat differentiation buffers alpine plant diversity against climate warming]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2011</year>
+<numero>38</numero>
+<issue>38</issue>
+<page-range>406-416</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schöb]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kammer]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Combining observational and experimental methods in plant-plant interaction research]]></article-title>
+<source><![CDATA[Plant Ecology & Diversity]]></source>
+<year>2012</year>
+<numero>5</numero>
+<issue>5</issue>
+<page-range>27-36</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schöb]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Armas]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Guler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Prieto]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Variability in functional traits mediates plant interactions along stress gradients]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2013</year>
+<numero>101</numero>
+<issue>101</issue>
+<page-range>753-762</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schöb]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavieres]]></surname>
+<given-names><![CDATA[L.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Butterfield]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cook]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Xiao]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Al_eHayek]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cranston]]></surname>
+<given-names><![CDATA[B.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Le_eBagousse-Pinguet]]></surname>
+<given-names><![CDATA[Y.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reid]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[le_eRoux]]></surname>
+<given-names><![CDATA[P.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Emanuele]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nyakatya]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Touzard]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zhao]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A global analysis of bi-directional interactions in alpine plant communities shows facilitators experiencing strong reciprocal fitness costs]]></article-title>
+<source><![CDATA[New Phytologist]]></source>
+<year>2014</year>
+<numero>202</numero>
+<issue>202</issue>
+<page-range>95-105</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Segnini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Posadas]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroz]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Milori]]></surname>
+<given-names><![CDATA[D.M.B.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saab]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neto]]></surname>
+<given-names><![CDATA[L.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vaz]]></surname>
+<given-names><![CDATA[C.M.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spectroscopic assessment of soil organic matter in wetlands from the high Andes]]></article-title>
+<source><![CDATA[Soil Science Society of America Journal]]></source>
+<year>2010</year>
+<volume>74</volume>
+<numero>6</numero>
+<issue>6</issue>
+<page-range>2246-2253</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smit]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vandenberghe]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[den_eOuden]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Müller-Schärer]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nurse plants, tree saplings and grazing pressure: changes in facilitation along a biotic environmental gradient]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>2007</year>
+<numero>152</numero>
+<issue>152</issue>
+<page-range>265-273</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Troll]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The relationship between the climates, ecology and plant geography of the southern cold temperate zone and of the tropical high mountains]]></article-title>
+<source><![CDATA[Proceedings of the Royal Society of London]]></source>
+<year>1960</year>
+<volume>152</volume>
+<numero>949</numero>
+<issue>949</issue>
+<page-range>529-532</page-range></nlm-citation>
+</ref>
+<ref id="B48">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Villagrán]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Castro]]></surname>
+<given-names><![CDATA[R.V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Etnobotánica y manejo ganadero de las vegas, bofedales y quebradas en el Loa superior, Andes de Antofagasta]]></source>
+<year>1997</year>
+<edition>2</edition>
+<page-range>275-304</page-range><publisher-loc><![CDATA[Chile ]]></publisher-loc>
+<publisher-name><![CDATA[Chungara]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B49">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Villar]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ruiz-Robleto]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quero]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valladares]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marañon]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Tasas de crecimiento en especies leñosas: aspectos funcionales e implicaciones ecológicas.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Valladares]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Ecología del Bosque Mediterráneo en un Mundo Cambiante]]></source>
+<year>2004</year>
+<page-range>191-227</page-range><publisher-loc><![CDATA[Madrid ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Medio Ambiente]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B50">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wright]]></surname>
+<given-names><![CDATA[I.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Westoby]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackerly]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baruch]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bongers]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cavender-Bares]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chapin]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cornelissen]]></surname>
+<given-names><![CDATA[J.H.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diemer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Flexas]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Groom]]></surname>
+<given-names><![CDATA[P.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gulias]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hikosaka]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lamont]]></surname>
+<given-names><![CDATA[B.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lee]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lee]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lusk]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Midgley]]></surname>
+<given-names><![CDATA[J.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Navas]]></surname>
+<given-names><![CDATA[M.-L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Niinemets]]></surname>
+<given-names><![CDATA[Ü.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oleksyn]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Osada]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poot]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Prior]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pyankov]]></surname>
+<given-names><![CDATA[V.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roumet]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tjoelker]]></surname>
+<given-names><![CDATA[M.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Veneklaas]]></surname>
+<given-names><![CDATA[E.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villar]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The worldwide leaf economics spectrum]]></article-title>
+<source><![CDATA[Nature]]></source>
+<year>2004</year>
+<numero>428</numero>
+<issue>428</issue>
+<page-range>821-827</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

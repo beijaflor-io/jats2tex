@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300010</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Procesos ecológicos a múltiples escalas que afectan a las dinámicas de comunidades de plantas en los humedales altoandinos de Bolivia]]></article-title>
+<article-title xml:lang="en"><![CDATA[Multi-scale ecological processes driving plant community dynamics in high-elevation peatlands of Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Munoz]]></surname>
+<given-names><![CDATA[François]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Anthelme]]></surname>
+<given-names><![CDATA[Fabien]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Raevel]]></surname>
+<given-names><![CDATA[Valérie]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Université Montpellier  ]]></institution>
+<addr-line><![CDATA[Montpellier cedex ]]></addr-line>
+<country>Francia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Institut de Recherche pour le Développement (IRD) Institut de Recherche pour le Développement (IRD) ]]></institution>
+<addr-line><![CDATA[Montpellier ]]></addr-line>
+<country>Francia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>104</fpage>
+<lpage>119</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300010&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300010&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Algunas especies de plantas, dispuestas en forma de cojines, dominan y determinan el funcionamiento y la resiliencia de los humedales altoandinos (bofedales) frente al cambio climático y al derretimiento de los glaciares. Se tiene la hipótesis de que estas especies fundadoras influyen sobre el ambiente biótico y abiótico de las comunidades de plantas que habitan en los cojines. Se elaboró un esquema de meta-comunidad para investigar las dinámicas de las comunidades asociadas a dos especies de cojín dominantes, Oxychloe andina (OA) y Distichia muscoides (DM). En base a la composición funcional y florística, se propone un marco conceptual para evaluar la relativa influencia del filtro en base al nicho (en inglés: niche-based filtering) en contraste con los factores ambientales de OA y DM, la limitación de dispersión y la estocasticidad demográfica al conjunto de la comunidad. Los procesos del filtro en base al nicho pueden ser identificados mediante el análisis de la variación de los rasgos funcionales dentro y entre las comunidades y se selecciona un conjunto de especies relevantes para el análisis. Se propone un muestreo a múltiples escalas para abordar los efectos de la limitación de dispersión sobre las dinámicas de estos ecosistemas. Conjuntamente al supuesto básico del filtro en base al nicho, que básicamente diferencia las dinámicas de comunidad de los cojines de OA y DM, algunas covariantes ambientales también influyen de forma secundaria a la dinámica de comunidades en los cojines de OA.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[A few dominant cushion plant species dominate and determine the functioning and resilience of high-elevation peatlands of Andes (bofedales), in the face of climate change and glacier melting. We hypothesize that these foundation species strongly influence the abiotic and biotic environment of plant communities inhabiting the cushions. We developed a metacommunity framework to investigate the dynamics of communities associated with two dominant cushion species, Oxychloe andina (OA) and Distichia muscoides (DM). Based on both taxonomical and functional composition, we propose a framework to assess the relative influence of niche-based filtering in contrasting OA and DM environments, dispersal limitation and demographic stochasticity to community assembly. Niche-based processes were identified by analyzing functional trait variation within and between communities while we selected a minimal set of species relevant for this analysis. We propose a multiscale sampling to address the effect of dispersal limitation on the dynamics of these fragmented ecosystems. We assess the contribution of source-sink dynamics and demographic stochasticity by contrasting the distribution of scarce and abundant plants in OA and DM cushions. Then, we analyze and discuss the validity of the proposed framework based on preliminary results. While our basic assumption is that niche-based filtering basically contrast community dynamics in OA and DM cushions, some environmental covariates also influence secondarily community dynamics in OA cushions.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Filtro en base al nicho]]></kwd>
+<kwd lng="es"><![CDATA[Interacciones entre plantas]]></kwd>
+<kwd lng="es"><![CDATA[Limitación de dispersión]]></kwd>
+<kwd lng="es"><![CDATA[Metacomunidades]]></kwd>
+<kwd lng="es"><![CDATA[Rasgos funcionales]]></kwd>
+<kwd lng="en"><![CDATA[Biotic interactions]]></kwd>
+<kwd lng="en"><![CDATA[Dispersal limitation]]></kwd>
+<kwd lng="en"><![CDATA[Functional traits]]></kwd>
+<kwd lng="en"><![CDATA[Metacommunity]]></kwd>
+<kwd lng="en"><![CDATA[Niche-based filtering]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="4">Procesos ecológicos a múltiples escalas que afectan a las</font> <font face="Verdana" size="4">dinámicas de comunidades de plantas en los humedales</font> <font face="Verdana" size="4">altoandinos de Bolivia</font></b></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Multi-scale ecological processes driving plant community dynamics in high-elevation peatlands of Bolivia</b></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>François Munoz<sup>1</sup>, Fabien Anthelme<sup>2</sup> &amp; Valérie Raevel<sup>2</sup>*</b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Université Montpellier 2, UMR-AMAP, TA A-51/PS2, 34398 Montpellier cedex 05, Francia</font>    <br> <font face="Verdana" size="2"><sup>2</sup>Institut de Recherche pour le Développement (IRD), UMR AMAP, Montpellier, Francia</font>    ]]></body>
+<body><![CDATA[<br> <b><font face="Verdana" size="2">*Autora de correspondencia: </font></b><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="mailto:vraevel@gmail.com">vraevel@gmail.com</a></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Algunas especies de plantas, dispuestas en forma de cojines, dominan y determinan el funcionamiento y la resiliencia de los humedales altoandinos (bofedales) frente al cambio climático y al derretimiento de los glaciares. Se tiene la hipótesis de que estas especies fundadoras influyen sobre el ambiente biótico y abiótico de las comunidades de plantas que habitan en los cojines. Se elaboró un esquema de meta-comunidad para investigar las dinámicas de las comunidades asociadas a dos especies de cojín dominantes, <i>Oxychloe andina </i>(OA) y <i>Distichia muscoides </i>(DM). En base a la composición funcional y florística, se propone un marco conceptual para evaluar la relativa influencia del filtro en base al nicho (en inglés: <i>niche-based filtering) </i>en contraste con los factores ambientales de OA y DM, la limitación de dispersión y la estocasticidad demográfica al conjunto de la comunidad. Los procesos del filtro en base al nicho pueden ser identificados mediante el análisis de la variación de los rasgos funcionales dentro y entre las comunidades y se selecciona un conjunto de especies relevantes para el análisis. Se propone un muestreo a múltiples escalas para abordar los efectos de la limitación de dispersión sobre las dinámicas de estos ecosistemas. Conjuntamente al supuesto básico del filtro en base al nicho, que básicamente diferencia las dinámicas de comunidad de los cojines de OA y DM, algunas covariantes ambientales también influyen de forma secundaria a la dinámica de comunidades en los cojines de OA. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Filtro en base al nicho, Interacciones entre plantas, Limitación de dispersión, Metacomunidades, Rasgos funcionales.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">A few dominant cushion plant species dominate and determine the functioning and resilience of high-elevation peatlands of Andes (bofedales), in the face of climate change and glacier melting. We hypothesize that these foundation species strongly influence the abiotic and biotic environment of plant communities inhabiting the cushions. We developed a metacommunity framework to investigate the dynamics of communities associated with two dominant cushion species, <i>Oxychloe andina </i>(OA) and <i>Distichia muscoides </i>(DM). Based on both taxonomical and functional composition, we propose a framework to assess the relative influence of niche-based filtering in contrasting OA and DM environments, dispersal limitation and demographic stochasticity to community </font><font face="Verdana" size="2">assembly. Niche-based processes were identified by analyzing functional trait variation within and between communities while we selected a minimal set of species relevant for this analysis. We propose a multiscale sampling to address the effect of dispersal limitation on the dynamics of these fragmented ecosystems. We assess the contribution of source-sink dynamics and demographic stochasticity by contrasting the distribution of scarce and abundant plants in OA and DM cushions. Then, we analyze and discuss the validity of the proposed framework based on preliminary results. While our basic assumption is that niche-based filtering basically contrast community dynamics in OA and DM cushions, some environmental covariates also influence secondarily community dynamics in OA cushions.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key-words:</b> Biotic interactions, Dispersal limitation, Functional traits, Metacommunity, Niche-based filtering.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales son un tipo de turbera o humedales con plantas de cojín rodeados por ecosistemas secos a gran altitud en los Andes. Están compuestos por especies adaptadas a requerimientos muy específicos, incluyendo el bajo promedio de temperatura, fuerte variación diaria de temperatura, suelos saturados de agua estacional o permanente, radiación solar intensa y a veces elevados niveles de salinidad (Squeo <i>et al. 2006). </i>Tienen una elevada capacidad de almacenamiento de agua dentro de un suelo orgánico que a menudo es más de 3 m de profundidad (Cooper <i>et al. </i>2010). Si bien, las listas florísticas están disponibles y permiten delinear la composición de las comunidades vegetales en bofedales (p.e., Ruthsatz 2012), poco se sabe sobre el funcionamiento ecológico de estos ecosistemas (ver Cooper <i>et al. </i>2010). En el contexto del cambio climático, se presume que el deshiele de los glaciares afectará al funcionamiento general de los humedales en los Andes y las regiones circundantes (Benavides <i>et al. </i>2013), que a su vez puede modificar importantes servicios ecosistémicos proporcionados por los bofedales para millones de personas, tales como la disponibilidad de agua y los recursos para los herbívoros domésticos (Dangles <i>et al. </i>en este número especial). Como consecuencia, la comprensión del funcionamiento de los humedales altoandinos es vital para predecir y evitar los próximos cambios en la biodiversidad</font> <font face="Verdana" size="2">y la dinámica de los ecosistemas en esta región. Uno de los principales objetivos del proyecto BIO-THAW es investigar los procesos ecológicos que dirigen la composición de las comunidades vegetales y la dinámica en las turberas de alta elevación de los Andes bolivianos (ver García <i>et al. </i>y Meneses <i>et al. </i>en este número especial). </font></p>     <p align="justify"><font face="Verdana" size="2">Una importante característica de bofedales es que están dominados espacialmente por pocas especies de plantas grandes que forman cojines pertenecientes, en su mayoría, a la familia Juncaceae, en la que otras especies de plantas subordinadas pueden habitar (Ostria 1987, Squeo <i>et al. </i>2006.). Entre estas especies fundadoras o alternativamente especies &quot;nodrizas&quot;, <i>Distichia muscoides </i>(DM) y <i>Oxychloe andina </i>(OA) son las plantas con distribución más extensa en la Cordillera Real de Bolivia. Otra característica específica de los bofedales es que forman ecosistemas insulares, aislados entre sí 1) por una matriz de ecosistemas secos y 2) por montañas que son fuertes barreras físicas (Ostria 1987, Squeo <i>et al. </i>2006). Como consecuencia, se tiene la hipótesis que los bofedales representan una meta-comunidad a gran escala con una conexión limitada entre sus componentes (<a href="#f1">Fig. 1a</a>) (Leibold <i>et al. </i>2004, Holyoak <i>et al. </i>2005), pero unido a un grupo de especies global común adaptado a este ambiente (<a href="#f2">Fig. 2</a>; ver Gonzales <i>et al. </i>en este número especial). Además, cada bofedal está asociado a especies locales, incluyendo aquellas que han logrado pasar las barreras de dispersión y han podido establecerse. Estas especies</font> <font face="Verdana" size="2">locales es un subconjunto de las globales (<a href="#f2">Fig. 2</a>). Posteriormente, estas especies se someten a un filtro local adicional, dependiendo de las condiciones bióticas y abióticas dentro del bofedal (Lortie <i>et al. </i>2004). Nuestra hipótesis básica es que las especies de cojín son especies fundadoras <i>(sensu </i>Ellison <i>et al. </i>2005) que determinan el ambiente local y abiótico para otras especies de plantas que habitan en los cojines.</font></p>     <p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_figura_01.gif" width="716" height="373"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_figura_02.gif" width="721" height="578"></p>     <p align="justify"><font face="Verdana" size="2">Nuestro objetivo es proponer un marco conceptual y metodológico para caracterizar los procesos ecológicos que determinan la composición florística y la composición funcional de las comunidades de plantas subordinadas a lo largo de los tipos de cojín a diferentes escalas espaciales, desde una escala a nivel de cojín hasta una regional. La <a href="#f2">figura 2</a> representa la base conceptual de nuestra contribución. Se analizará y validará la metodología general mediante la realización de análisis preliminares de composición florística. Estos análisis están diseñados para detectar posibles sesgos susceptibles de afectar las pruebas de las hipótesis anteriores.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Hipótesis básica del conjunto de comunidades <i>(community assembly)</i></b></font></p>     <p align="justify"><font face="Verdana" size="2">Diferentes filtros se combinan para producir una determinada composición de comunidad (Lortie <i>et al. </i>2004). Una tarea difícil es explicar los efectos respectivos de cada uno de estos filtros desde una única observación de la composición de la comunidad resultante. Se propone interpretar los procesos ecológicos basados en datos florísticas y de composición funcional de las comunidades de plantas. Los rasgos funcionales son características morfológicas, fisiológicas y fenológicas de las especies, que representan las habilidades de las plantas para establecerse, sobrevivir y reproducirse en la comunidad (Violle <i>et al. </i>2007). Como consecuencia, la diversidad de los rasgos funcionales en la comunidad informará sobre cómo las habilidades subyacentes</font> <font face="Verdana" size="2">están afectadas por los filtros ecológicos. Adicionalmente, los patrones de la composición florística permitirán informar el efecto de los procesos demográficos con respecto al nacimiento, vida y muerte dentro las especies. Desde esta premisa, proponemos una metodología para direccionar tres elementos complementarios.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Filtro basado en la dispersión</b></font></p>     <p align="justify"><font face="Verdana" size="2">Debido a las barreras de dispersión, las especies locales que están en los bofedales conforman sub-comunidades distintas de aquellas globales comunes (<a href="#f2">Fig. 2</a>). Si la limitación de dispersión es fuerte, estas sub-comunidades se hacen más pequeñas y cada vez más diferentes entre los bofedales. Si la dispersión fuera ilimitada, las sub-comunidades locales serían idénticas entre ellas e idénticas a la comunidad global. Proponemos estudiar la diversidad beta entre los bofedales para caracterizar la extensión de la limitación de dispersión en los bofedales (Munoz <i>et al. </i>2008, Munoz <i>et al. </i>en este número especial). Esto proporciona una visión sobre cómo la biodiversidad de los bofedales puede adaptarse a futuros cambios ambientales, los cuales podrían requerir colonizar nuevamente sitios disponibles, mientras los sitios existentes van en retroceso.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Filtro en base al nicho y ecología funcional</b></font></p>     <p align="justify"><font face="Verdana" size="2">La <a href="#f2">figura 2</a> muestra que el filtro de dispersión no afecta a los rasgos de las especies relacionados con la supervivencia y la reproducción en los bofedales (símbolos), porque éste está relacionado básicamente con las habilidades de dispersión y barreras físicas. Por otro lado, el ambiente local restringe la variedad de los rasgos funcionales de las especies que son adecuadas para el establecimiento local, sobrevivencia y reproducción (Cornwell &amp; Ackerly 2009). Una vez que el grupo de especies fisiológicamente adaptadas ha sido filtrado, las especies que </font><font face="Verdana" size="2">coexisten luchan por la sobrevivencia y reproducción en la comunidad local (<a href="#f2">Fig. 2</a>). Las interacciones bióticas tendrán influencia sobre la abundancia relativa de las especies en la comunidad (Cingolani <i>et al. </i>2007). Las especies en forma de cojín dominantes pueden facilitar el establecimiento de las otras especies, mientras que las interacciones negativas entre estas últimas, como la competencia, son las que determinan su abundancia.</font></p>     <p align="justify"><font face="Verdana" size="2">El objetivo de la ecología funcional es relacionar estos procesos ecológicos con la diversidad de los rasgos funcionales observados en las comunidades (McGill <i>et al. </i>2006). Se aplicará este enfoque al contexto de los bofedales. Nuestra hipótesis es que los distintos factores abióticos (disponibilidad de nutrientes y humedad) y bióticos (protección y materia orgánica proporcionada por las especies fundadoras) afectan la diversidad de la comunidad de plantas que se encuentran en los cojines de DM y OA.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Dinámicas de las especies abundantes y raras</b></font></p>     <p align="justify"><font face="Verdana" size="2">Un resultado básico esperado de la competencia entre las plantas es que las especies más competitivas serán más abundantes, mientras que las menos competitivas disminuirán en abundancia y posiblemente tiendan a extinguirse. Sin embargo, la colonización continua puede proporcionar a la comunidad nuevos inmigrantes desde la comunidad de especies disponibles (Mouquet &amp;Loreau 2003). Entonces, la teoría ecológica predice que las especies más abundantes son aquellas que están más adaptadas y son más competitivas a persistir a largo plazo, mientras que las menos abundantes tienen mayor probabilidad a desaparecer por alguna eventualidad (especies transitorias; Grime 1998). Estas últimas básicamente persisten por recolonización desde otras comunidades (balance entre competición-colonización, Loreau &amp; Mouquet 1999). Nosotros investigaremos estos procesos</font> <font face="Verdana" size="2">mediante la comparación de los patrones de abundancia y las especies de plantas raras en los cojines de DM y OA.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Área de estudio</b></font></p>     <p align="justify"><font face="Verdana" size="2">El área de estudio está localizado en la Cordillera Real, una cadena montañosa cerca de la ciudad de La Paz, Bolivia. Está compuesta por varios valles en los cuales se encuentran numerosos bofedales. La mayor parte de estos valles está dominada por glaciares en las partes altas (Soruco <i>et al. </i>2009). Las precipitaciones se concentran desde diciembre hasta marzo (época húmeda): 107.1&plusmn;35.5mm (registros desde 2000-2009, Estación de EPSAS) con una temperatura media alrededor de 6.4 <i>-C. </i>La época seca desde abril hasta noviembre: 23&plusmn; 14.4 mm, con una temperatura media alrededor de los 4.5&deg;C (ver Zeballos <i>et al. </i>en este número).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Estrategia de muestreo</b></font></p>     <p align="justify"><font face="Verdana" size="2">Meneses <i>et al. </i>(en este número especial) seleccionaron cinco valles separados por cadenas montañosas. El grupo de valles representa la escala espacial de la meta-comunidad, mientras que cada valle constituye una escala de paisaje intermedio con una historia común de retroceso glaciar (<a href="#f1">Fig. 1a</a>). En cada valle, los bofedales están separados por pequeñas colinas convexas. En nuestro caso, fueron seleccionados 19 bofedales, donde el rango de altitud varía entre 4.445-4.990 m (detalles y mapa en Meneses <i>et al. </i>en este número especial). El pastoreo por los herbívoros está presente y extensivo en los bofedales muestreados (camélidos, ovejas y vacas; Cochi <i>et al. </i>en este número especial).</font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales forman un ecosistema compuesto por la mayoría de plantas en forma de cojín. Cada bofedal seleccionado incluye al menos un 50% de plantas en cojín, principalmente <i>Distichia muscoides </i>(DM) y <i>Oxychloe andina </i>(OA) (ver fotos de cada especie en Garcia <i>et al. </i>en este número especial). En cada bofedal, proponemos</font> <font face="Verdana" size="2">definir 10 parcelas de 1 m<sup>2</sup> distribuidas entre los cojines de DM y OA (<a href="#f1">Fig. 1b</a>, <a href="#t1">tabla 1</a>). En cada parcela, las especies de plantas pueden ser registradas y sus porcentajes de cobertura estimados visualmente a través de subparcelas de 10 x 10 cm dentro de la parcela principal. El porcentaje de suelo desnudo y del cojín principal (DM or OA) tiene que ser estimado en cada parcela. Adicionalmente, Meneses <i>et al. </i>(2014 en este número especial) sugieren medir las condiciones bióticas y abióticas de los cojines de DM y OA, los cuales constituyen el sustrato necesario para otras plantas. Los datos abióticos tomados en cuenta son la conductividad eléctrica, temperatura, pH, altitud, altura sobre el nivel del agua y la compactación del cojín. Los datos bióticos también incluyen la producción de biomasa de los cojines, la cantidad de nitrógeno, fósforo y potasio en las hojas, el contenido de materia seca de la hoja (LMDC) y el área específica de la hoja (SLA) de las especies de cojín (para más detalles ver Meneses <i>et al. </i>en este número especial).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_tabla_01.gif" width="702" height="253"></p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="justify"><font face="Verdana" size="2">De aquí en adelante se presentarán los análisis que pueden ser realizados para evaluar las tres hipótesis presentadas previamente. Precisamente, se propone caracterizar las influencias respectivas de la limitación de dispersión y el filtro ambiental en la composición </font><font face="Verdana" size="2">funcional florística de la comunidad de plantas vasculares en los cojines de DM y OA. Las condiciones bióticas y abióticas varían entre los dos tipos de cojín (ver Meneses <i>et al. </i>en este número especial) y representan un filtro ambiental básico para la comunidad de plantas asociadas (<a href="#f2">Fig. 2</a>).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Filtro basado en la dispersión</b></font></p>     <p align="justify"><font face="Verdana" size="2">La diversidad beta mide los cambios en la composición de las comunidades (Huston 1994). Existen básicamente dos componentes principales de diversidad beta: direccional y &quot;no direccional&quot; (Anderson <i>et al. </i>2011). El componente direccional representa los cambios de composición a lo largo de gradientes, porque las especies con diferentes preferencias ecológicas son encontradas en comunidades a lo largo de gradientes ambientales. El componente no-direccional reconoce los cambios de composición que son encontrados en el mismo contexto ambiental y por tanto no están relacionados al filtro ambiental del hábitat. La teoría de biogeografía de islas (MacArthur &amp; Wilson 1967) y aplicaciones posteriores a la ecología de comunidades (Wright <i>et al. </i>1998) relacionan el componente no-direccional a los efectos de la limitación de dispersión. Una comunidad (o isla) que está más aislada a la comunidad regional (<a href="#f2">Fig. 2</a>) que a otra comunidad puede desarrollar un </font><font face="Verdana" size="2">número reducido de especies <i>(nestedness pattern, </i>Baselga 2010). Cuando se comparan estas dos comunidades, existirá una diversidad beta no-nula, a pesar que las especies muestran preferencias ecológicas comparables. Se aplicó mayor esfuerzo para documentar cada uno de estos dos componentes de los patrones de biodiversidad observados.</font></p>     <p align="justify"><font face="Verdana" size="2">En el contexto de los bofedales, proponemos considerar un gradiente ambiental simplista representado por las características ambientales diferenciadas de los cojines de DM y OA. La diversidad beta direccional es entonces básicamente el cambio de composición entre los cojines de DM y OA. El componente no-direccional depende del marco a múltiples escalas presentado en la figura 1, a nivel de cojín, bofedal, valle y a niveles regionales. Una manera simple para evaluar este componente es evaluar la diversidad beta en los cojines de DM y OA, respectivamente, a escalas espaciales anidadas. Por tanto, estos análisis representarán los niveles de limitación de dispersión. Un siguiente paso es la conversión de esta medida de diversidad beta en una medición de patrones de migración. La teoría neutral de ecología (Hubbell 2001) provee un marco relacionado con la variación entre las comunidades por migración y sobrevivencia local. Munoz <i>et al. </i>(2008) propusieron un método simple para medir un parámetro de migración para cada comunidad, representando la relativa intensidad y frecuencia de inmigración desde la comunidad regional. Entonces una perspectiva es la de relacionar la medición de las barreras físicas actuales con la dispersión o las barreras ecológicas relacionadas a las habilidades y vectores de dispersión (anemocoria y zoocoria).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Ecología funcional de comunidades de plantas asociadas a las especies de cojín</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">El objetivo aquí es caracterizar los procesos ecológicos del grupo de comunidades de plantas,</font> <font face="Verdana" size="2">en base a la variación de los rasgos funcionales entre comunidades. A pesar de que varios procesos ecológicos operan simultáneamente sobre el conjunto de comunidades, se espera que ellos pueden ser separados, utilizando rasgos funcionales específicos (Kraft <i>et al. </i>2008, Jung <i>et al. </i>2010, Kraft &amp; Ackerly 2010). El filtro ambiental selecciona especies que muestran habilidades eco-fisiológicas específicas para establecerse, sobrevivir y reproducirse. Esta selección se refleja en la composición de los rasgos funcionales locales (<a href="#f2">Fig. 2</a>). De esta manera, el filtro ambiental limita el rango y la varianza de los valores de los rasgos funcionales (convergencia de rasgos) (Pillar <i>et al. </i>2009), relacionados a la eficacia <i>o fitness </i>de las especies. Interacciones bióticas como competencia y facilitación (Valiente-Banuet &amp; Verdu 2007) producen una diferenciación de nicho, i.e., sobreposición de los rasgos funcionales en la comunidad. Sin embargo, esto impacta en forma diferenciada a la diversidad de rasgos funcionales, dependiendo de la dimensión del nicho considerado. La competencia conduce a una mayor divergencia funcional y equitatividad en la comunidad por los valores de los rasgos relacionados con el establecimiento, persistencia y reproducción; mientras que la facilitación conduce una baja divergencia y equitatividad en la comunidad por los mismos rasgos (Pillar <i>et al. </i>2009). Sin embargo, la competencia puede dirigir hacia una similitud en los valores de los rasgos relacionados a la habilidad competitiva (Mayfield &amp; Levine 2010, Kraft <i>et al. </i>2014).</font></p>     <p align="justify"><font face="Verdana" size="2">Inicialmente, se propone seleccionar rasgos funcionales que representan aspectos clave de la historia de vida de las especies en estas comunidades (Adler <i>et al. </i>2014), relacionados a la adquisición de recursos y conservación (área específica de la hoja, SL Ay contenido de materia seca en la hoja, LDMC), habilidad competitiva (altura), habilidades de colonización y establecimiento (masa de la semilla, modo de dispersión, forma de la semilla) y fenología (tiempo de vida y forma de crecimiento).</font></p>     <p align="justify"><font face="Verdana" size="2">Estos rasgos son aproximaciones clásicas de distintos componentes primarios de las estrategias ecológicas de las plantas (Westoby 1998, Grime 2006). Especialmente, LDMC está relacionada a la actividad fotosintética y a la disponibilidad de agua. El área específica de la hoja (SLA) refleja un balance entre la elevada tasa de crecimiento, corta longevidad de la hoja y elevadas tasas de fotosíntesis (elevado SLA) vs. el lento crecimiento, larga longevidad de la hoja y bajas tasas fotosintéticas (bajo SLA) (Westoby 1998).</font></p>     <p align="justify"><font face="Verdana" size="2">Estos rasgos pueden ser medidos siguiendo protocolos estandarizados y requieren al menos de 10 individuos por especie (Cornelissen <i>et al. </i>2003). Debido a que la medición de los rasgos funcionales para todas las especies de la comunidad muestreada es una enorme tarea, se debe elegir un numero de rasgos suficientemente alto para ser representativo y al mismo tiempo suficiente bajo para ser realizable (Pakeman &amp; Quested 2007). Para llegar a tal compromiso, primero se puede seleccionar las especies subordinadas más abundantes de todo el conjunto de las parcelas y añadir especies que son local pero no regionalmente abundantes y que estaban presentes en más de una parcela. Así se obtiene valores de los rasgos funcionales de al menos el 70% de la cobertura de la vegetación por cada parcela. Por encima del límite del 70%, el número de especies a medir se incrementa rápidamente, entonces se selecciona este límite como satisfactorio.</font></p>     <p align="justify"><font face="Verdana" size="2">En base a los valores de los rasgos medidos, se puede analizar la distribución de los rasgos funcionales de las comunidades ecológicas. Para analizar el filtro ambiental, se calcula la media (CWM, Garnier <i>et al. </i>2004, Violle <i>et al. </i>2007) y variancia (CWV, Sonnier <i>et al. </i>2010) de los valores de los rasgos encontrados las parcelas, ponderado de acuerdo a la cobertura relativa de las especies. Por lo tanto, para cada rasgo j mediante las siguientes ecuaciones:</font></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_ecuacion_01.gif" width="135" height="50"></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_ecuacion_02.gif" width="374" height="54"></p>     <p align="justify"><font face="Verdana" size="2">,donde <i>x<sub>i </sub></i>y <i>t<sub>ij</sub></i> = cobertura relativa y el valor del rasgo <i>j</i> de la especie <i>i, </i>respectivamente y <i>S = </i>número de especies dentro la comunidad. Se espera que CWM cambie entre las comunidades donde el filtro ambiental es diferente (ambas comunidades de <a href="#f2">Fig. 2</a>) y se espera que disminuya de acuerdo con la limitación del variación de los rasgos en las comunidades. En el estudio, se espera las variaciones significativas en CWM entre los cojines de DM y OA en respuesta a la variación abiótica local y al ambiente biótico. Las variaciones en CWV indican la intensidad del filtro ambiental en cada tipo de cojín. La diferenciación del nicho a través de las interacciones abióticas puede ser detectado mediante la medición de la equititavidad funcional en las comunidades (Stubbs &amp; Wilson 2004). La distancia al vecino más cercano (NND) representa la extensión en el cual cada especie se desvía desde las especies más similares, un rasgo determinado. Cuando una diferenciación de nicho ocurre, las especies que muestran valores de rasgos funcionales similares no son seleccionadas, dando lugar a un elevado NND en la comunidad (Jung <i>et al. </i>2010), pero también una baja variación de este NND (el patrón regular). Por tanto, se sugiere el promedio de NND sobre todas las especies dentro de la comunidad (MNND) y la variancia correspondiente (VNND). El coeficiente de variación correspondiente <img src="/img/revistas/reb/v49n3/a10_ecuacion_03.gif" width="159" height="13"> esperado a disminuir cuando ocurre la diferenciación de nicho. La <a href="#t2">tabla 2</a> resume el significado ecológico de estos rasgos basados en estadísticas y los patrones esperados en base a al filtro ambiental y una diferenciación del nicho.</font></p>     <p align="justify"><a name="t2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_tabla_02.gif" width="738" height="300"></p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Dinámicas de la comunidad y patrones de abundancia local</b></font></p>     <p align="justify"><font face="Verdana" size="2">La matriz parcela por especies está compuesta de datos en porcentaje de cobertura por</font> <font face="Verdana" size="2">cada especie. Dentro de una segunda matriz consideramos solo los valores pequeños (de o por debajo del 1%) para representar la situación de las especies a baja densidad (<a href="#f3">Fig. 3</a>). También dentro de una tercera matriz consideramos solo datos de abundancia altas (estrictamente sobre el 1%, <a href="#f3">Fig. 3</a>). Si los individuos de una especie están distribuidos al azar en los cojines de DM y OA (es decir que los individuos no diferencian el filtro de habitat entre los cojines), el número de individuos encontrados en DM o OA entre <i>n </i>individuos debería seguir una ley binomial de parámetros <i>(n,p = </i>0.5). A considerar un número alto de sorteo, la distribución de los individuos se convierte a una distribución cercana Gaussiana de media <i>np </i>y varianza <i>np(1-p). </i>Acá no se conoce cuántos individuos están considerados, porque los datos son porcentajes de cobertura. Asumiendo que estos datos son proporcionales al número de especies, se espera que la cobertura de especies en DM y OA siga una distribución Gaussiana de promedio <i>p </i>y varianza <i>p(1-p)/n. </i>Entonces se puede comparar el histograma de la proporción de las especies relativas en DM o OA con la distribución Gaussiana esperada, mediante la realización de una prueba de Shapiro-Wilk de normalidad por ejemplo (<a href="#f3">Fig. 3</a>).</font></p>     <p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_figura_03.gif" width="715" height="503"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Validación del esquema de muestreo</b></font></p>     <p align="justify"><font face="Verdana" size="2">En nuestro sitio de estudio, se encontraron 69 especies de plantas vasculares en las comunidades de plantas subordinadas del muestreo dominante de cojines OA y DM, distribuidas en 16 familias y 41 géneros. Las familias más abundantes son Poaceae (14) y Asteraceae (15). La riqueza varía desde 5-23 especies. Basados en estos datos, para el análisis de los rasgos funcionales se seleccionaron 20 especies que son las más abundantes en todo el grupo; además de 10 taxa que fueron localmente abundantes y presentes en varias parcelas (ver <a href="#a1">Anexo 1</a>). Se obtuvo un promedio del 92% de cobertura por cada parcela y un mínimo de 70% de cobertura en una del valle de Hichu Khota.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Esfuerzo de muestreo a lo largo de los valles y tipos de cojín</b></font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Existe una variación en el tamaño de muestreo entre los valles y los tipos de cojín (DM vs. OA, <a href="#t1">Tabla 1</a>), dependiendo de las dificultades encontradas en el trabajo de campo. Evaluamos si estas variaciones son lo suficientemente grandes para producir un desbalance en el muestreo y los peligros potenciales en el análisis de datos mediante la realización de pruebas </font><font face="Verdana" size="2">de independencia de <i>x</i>-cuadrado. Debido a los tres niveles del sistema de muestreo -valles, bofedales y cojines- los tres niveles del balance del muestreo fueron evaluados: número de cojines de DM y OA 1) a lo largo de los valles 2), entre los bofedales 3) y entre los cojines 4) (<a href="#t3">Tabla 3</a>). Ninguna de estas pruebas fue significativa, por lo que se deduce que el</font> <font face="Verdana" size="2">esquema de muestreo es lo suficientemente equilibrado para análisis posteriores.</font></p>     <p align="justify"><a name="t3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_tabla_03.gif" width="735" height="169"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Variación florística secundaria en base al ambiente</b></font></p>     <p align="justify"><font face="Verdana" size="2">El esquema de la <a href="#f1">figura 1</a> está basado en dos supuestos importantes: 1) la existencia de una</font> <font face="Verdana" size="2">diferencia ambiental entre los cojines de DM y OA, que es la único filtro sobre la comunidad de especies de plantas subordinadas; y 2) una limitación de dispersión, que es una fuente de cambio composicional entre las comunidades que habitan en los tipos de cojines DM y OA. Las violaciones a estos supuestos pueden sesgar nuestras conclusiones con respecto a las tres principales hipótesis que queremos abordar. El principal sesgo puede ser a través del efecto de las co-variantes ambientales a la variación de la composición en un tipo de cojín determinado. La variación ambiental podría ser entonces confundida con la limitación de dispersión de los efectos estocásticos locales. Por lo tanto, se caracterizó la variación de la composición florística entre parcelas de un determinado tipo de cojín DM o OA, mediante un análisis de correspondencia no simétrica (NSCA, Gimaret-Carpentier <i>et al. </i>1998, Kroonenberg &amp; Lombardo 1999). Este método permite investigar la desviación de la composición de </font><font face="Verdana" size="2">cada parcela desde el promedio de todas las consideradas en el análisis. Todos los análisis pueden ser realizados mediante funciones del paquete <i>ade4 </i>en el programa R (Chessel <i>et al. </i>2004). Como ejemplo, la <a href="#f4">Fig. 4</a> muestra la principal variación de la composición florística en los cojines de DM (a) y OA (b). La <a href="#f4">figura 4a</a> enfatiza que <i>Zameioscirpus muticus </i>es una especie localmente subdominante en los cojines de DM (eje horizontal), como recientemente notificado por Ruthsatz (2012). <i>Poa gimnantha </i>y <i>Plantago tubulosa </i>también forman importantes poblaciones en algunos plots de DM (eje vertical). Al contrario, la <a href="#f4">Fig. 4b</a> muestra que <i>Festuca dolicophylla </i>(eje horizontal) y <i>Deyeuxia heterophylla </i>(especies típicas de laderas; Renvoize 1998) pueden ser subdominantes en los cojines de OA. Este análisis indica que los cojines de DM y OA generan diferentes tipos de comunidades de plantas subordinadas.</font></p>     <p align="justify"><a name="f4"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_figura_04.gif" width="729" height="470"></p>     <p align="justify"><font face="Verdana" size="2">Se abordó la contribución de co-variantes ambientales a la composición de la variación entre cada tipo de cojín. Se realizó un NSCA limitada por los datos ambientales bióticos y no bióticos reportados en los cojines (Lebreton <i>et al. </i>1991). La versión limitada de NSCA destaca la parte de la desviación explicada por las variables ambientales (Pélissier <i>et al. </i>2003). Realizando una prueba de aleatorización de Monte Carlo <i>(randtest </i>en el paquete de <i>R ade4, </i>999 permutaciones and 0.1% de resolución) permite evaluar la significancia de la relación entre los cojines y las variables ambientales (Chessel <i>et al. </i>2004).</font></p>     <p align="justify"><font face="Verdana" size="2">El efecto ambiental fue marginalmente significativo sobre la composición de los cojines de DM (P = 0.05), pero fue más pronunciado en los cojines de OA (P &lt; 0.01). Por lo tanto variables ambientales ocultas basadas en el filtro existen en los cojines de OA y deberían ser reconocidas en futuras investigaciones dentro del marco básico de la <a href="#f1">figura 1</a>. Por otro lado, los cojines de DM son más consistentes con nuestra hipótesis sobre ambientes homogéneos, excepto en cuanto a la preferencia de <i>Zameioscirpus muticus </i>por una mayor elevación del bofedal y por un bajo nivel del agua superficial (<a href="#f5">Fig. 5a</a>).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f5"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a10_figura_05.gif" width="715" height="962"></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos a E. Quenta para la traducción del artículo en castellano. Este trabajo es parte del programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW, AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Anderson, M. J., T. O. Crist, J. M. Chase, M. Vellend, B. D. Inouye, A. L. Freestone, N. J. Sanders, H. V. Cornell, L. S. Comita, K. F. Davies, S. P. Harrison, N. J. B. Kraft, J. C. Stegen &amp; N. G. Swenson. 2011. Navigating the multiple meanings of &#946; diversity: a roadmap for the practicing ecologist. Ecology Letters 14(1): 19-28.</font></p>     <p align="justify"><font face="Verdana" size="2">Baselga, A. 2010. Partitioning the turnover and nestedness components of beta diversity. Global Ecology and Biogeography 19: 134-143.</font></p>     <p align="justify"><font face="Verdana" size="2">Benavides, J. C., D. H. Vitt &amp; R. K. Wieder. 2013. The influence of climate change on recent peat accumulation patterns of <i>Distichia muscoides </i>cushion bogs in the high-elevation tropical Andes of Colombia. Journal of Geophysical Research: Biogeosciences 118:1627-1635.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Chessel, D., A. B. Dufour &amp; J. Thioulouse. 2004. The ade4 package-I-One-table methods. R news 4: 5-10.</font></p>     <p align="justify"><font face="Verdana" size="2">Cingolani, A. M., M. Cabido, D. E. Gurvich, D.&nbsp; Renison &amp; S. Díaz. 2007. Filtering processes in the assembly of plant communities: Are species presence and abundance driven by the same traits? Journal of Vegetation Science 18: 911-920.</font></p>     <p align="justify"><font face="Verdana" size="2">Cooper, D., E. Wolf, C. Colson, W. Vering, A. Granda &amp; M. Meyer. 2010. Alpine peatlands of the Andes, Cajamarca, Peru. Arctic, Antarctic, and Alpine Research 42:19-33.</font></p>     <p align="justify"><font face="Verdana" size="2">Cornelissen, J. H. C., S. Lavorel, E. Garnier, S. Diaz, N. Buchmann, D. E. Gurvich, P. B. Reich, H. ter Steege, H. D. Morgan, M. G. A. van der Heijden, J. G. Pausas &amp; H. Poorter. 2003. A handbook of protocols for standardised and easy measurement of plant functional traits worldwide. Australian Journal of Botany 51:335-380.</font></p>     <p align="justify"><font face="Verdana" size="2">Cornwell, W. K. &amp; D. D. Ackerly. 2009. Community assembly and shifts in plant trait distributions across anenvironmental gradient in coastal California. Ecological Monographs 79:109-126.</font></p>     <p align="justify"><font face="Verdana" size="2">Ellison, A. M., M. S. Bank, B. D. Clinton,</font> <font face="Verdana" size="2">E.&nbsp; A. Colburn, K. Elliott, C. R. Ford,</font> <font face="Verdana" size="2">D. R. Foster, B. D. Kloeppel, J. D. Knoepp &amp; G. M. Lovett. 2005. Loss of foundation species: consequences for the structure and dynamics of forested ecosystems. Frontiers in Ecology and the Environment 3: 479-486.</font></p>     <p align="justify"><font face="Verdana" size="2">Garnier, E., J. Cortez, G. Billes, M. L. Navas, C. Roumet, M. Debussche, G. Laurent, A. Blanchard, D. Aubry, A. Bellmann, C. Neill &amp; J. P. Toussaint. 2004. Plant functional markers capture ecosystem properties during secondary succession. Ecology 85: 2630-2637.</font></p>     <p align="justify"><font face="Verdana" size="2">Gimaret-Carpentier, C., D. Chessel &amp; J. P. Pascal. 1998. Non-symmetric correspondence analysis: an alternative for species occurrences data. Plant Ecology 138: 97-112.</font></p>     <p align="justify"><font face="Verdana" size="2">Grime, J. P. 1998. Benefits of plant diversity to ecosystems: immediate, filter and founder effects. Journal of Ecology 86: 902-910.</font></p>     <p align="justify"><font face="Verdana" size="2">Grime, J. P. 2006. Plant strategies, vegetation processes, and ecosystem properties. John Wiley &amp; Sons, Hoboken, 456 p.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Holyoak, M., M. A. Leibold &amp; R. D. Holt, editors. 2005. Metacommunities - spatial dynamics and ecological communities. University of Chicago Press, Chicago. 513 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Hubbell, S. P. 2001. The unified neutral theory of biodiversity and biogeography. Princeton University Press, Princeton y Oxford. 375 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Huston, M. A. 1994. Biological diversity: the coexistence of species. Cambridge University Press, Cambridge. 681 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Jung, V., C. Violle, C. Mondy, L. Hoffmann &amp; S. Muller. 2010. Intraspecific variability and trait-based community assembly. Journal of Ecology 98:1134-1140.</font></p>     <p align="justify"><font face="Verdana" size="2">Kraft, N. J. B. &amp; D. D. Ackerly. 2010. Functional trait and phylogenetic tests of community assembly across spatial scales in an Amazonian forest. Ecological Monographs 80: 401-422.</font></p>     <p align="justify"><font face="Verdana" size="2">Kraft, N. J. B., R. Valencia &amp;D. D. Ackerly. 2008. Functional traits and niche-based tree community assembly in an Amazonian forest. Science 322: 580-582.</font></p>     <p align="justify"><font face="Verdana" size="2">Kroonenberg, P. M. &amp; R. Lombardo. 1999. Nonsymmetric correspondence analysis: A tool for analysing contingency tables with a dependence structure. Multivariate Behavioral Research 34: 367-396.</font></p>     <p align="justify"><font face="Verdana" size="2">Lebreton, J. D., R. Sabatier, G. Banco &amp; A. M. Bacou. 1991. Principal component and correspondence analyses with respect to instrumental variables: an overview of their role in studies of structure-activity and species-environment relationships. pp. 85-114. En: Devillers, J. &amp; W. Karcher (eds.) Applied Multivariate Analysis in SAR and Environmental Studies. Kluwer, Dordrecht.</font></p>     <p align="justify"><font face="Verdana" size="2">Leibold, M. A., M. Holyoak, N. Mouquet, P. Amarasekare, J. M. Chase, M. F. Hoopes, R. D. Holt, J. B. Shurin, R. Law, D. Tilman, M. Loreau &amp; A. Gonzalez. 2004. The metacommunity concept: a framework for multi-scale community ecology. Ecology Letters 7: 601-613.</font></p>     <p align="justify"><font face="Verdana" size="2">Loreau, M. &amp; N. Mouquet. 1999. Immigration and the maintenance of local species diversity. The American Naturalist 154:427-440.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Lortie, C. J., R. W. Brooker, P. Choler, Z. Kikvidze, R. Michalet, F. I. Pugnaire &amp; R. M. Callaway. 2004. Rethinking plant community theory. Oikos 107: 433-438.</font></p>     <p align="justify"><font face="Verdana" size="2">Mac Arthur, R. &amp; R. Levins. 1967. The limiting similarity, convergence, and divergence of coexisting species. American Naturalist 101: 377-385.</font></p>     <p align="justify"><font face="Verdana" size="2">MacArthur, R. &amp; E. Wilson. 1967. The theory of island biogeography. Princeton University Press, Princeton. 203 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Mayfield, M. M. &amp; J. M. Levine. 2010. Opposing effects of competitive exclusion on the phylogenetic structure of communities. Ecology Letters 13:1085-1093.</font></p>     <p align="justify"><font face="Verdana" size="2">McGill, B. J., B. J. Enquist, E. Weiher &amp; M. Westoby. 2006. Rebuilding community </font><font face="Verdana" size="2">ecology from functional traits. Trends in Ecology &amp; Evolution 21:178-185.</font></p>     <p align="justify"><font face="Verdana" size="2">Montesinos-Navarro, A., J. G. Segarra-Moragues, A. Valiente-Banuet &amp; M. Verdú. 2012. Plant facilitation occurs between species differing in their associated arbuscular mycorrhizal fungi. New Phytologist 196: 835-844.</font></p>     <p align="justify"><font face="Verdana" size="2">Mouquet, N. &amp; M. Loreau. 2003. Community patterns in source-sink metacommunities. American Naturalist 162:14.</font></p>     <p align="justify"><font face="Verdana" size="2">Munoz, F., P. Couteron &amp; B. Ramesh. 2008. Beta-diversity in spatially implicit neutral models: a new way to assess species migration. The American Naturalist 172:116-127.</font></p>     <p align="justify"><font face="Verdana" size="2">Munoz, F., B. R. Ramesh &amp; P. Couteron. 2014. How do habitat filtering and niche conservatism affect community composition at different taxonomic resolutions? Ecology 95: 2179-2191.</font></p>     <p align="justify"><font face="Verdana" size="2">Ostria, C. 1987. La végétation d'une vallée alto-andine (Hichu Kkota, Cordillère orientale, Bolivie). I-Données générales. Bulletin de la Société Botanique de France. Lettres Botaniques 134:385-397.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Pakeman, R. J. &amp;H. M. Quested. 2007. Sampling plant functional traits: what proportion of the species need to be measured? Applied Vegetation Science 10: 91-96.</font></p>     <p align="justify"><font face="Verdana" size="2">Pélissier, R., P. Couteron, S. Dray &amp; D. Sabatier. 2003. Consistency between ordination techniques and diversity measurements: two strategies for species occurrence data. Ecology 84: 242-251.</font></p>     <p align="justify"><font face="Verdana" size="2">Pillar, V. D., L. D. Duarte, E. E. Sosinski &amp; F. Joner. 2009. Discriminating trait-convergence and trait-divergence assembly patterns in ecological community gradients. Journal of Vegetation Science 20: 334-348.</font></p>     <p align="justify"><font face="Verdana" size="2">Renvoize, S. A. 1998. Gramíneas de Bolivia. Kew Royal Botanic Gardens, Londres. 644p.</font></p>     <p align="justify"><font face="Verdana" size="2">Ruthsatz, B. 2012. Vegetación y ecología de los bofedales altoandinos de Bolivia. Phytocoenologia 42:133-179.</font></p>     <p align="justify"><font face="Verdana" size="2">Sonnier, G., B. Shipley &amp; M.-L. Navas. 2010. Quantifying relationships between </font><font face="Verdana" size="2">traits and explicitly measured gradients of stress and disturbance in early successional plant communities. Journal of Vegetation Science 21:1014-1024.</font></p>     <p align="justify"><font face="Verdana" size="2">Soruco, A., C. Vincent, B. Francou &amp; J. F. Gonzalez. 2009. Glacier decline between 1963 and 2006 in the Cordillera Real, Bolivia. Geophysical Research Letters 36: L03502.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena De Historia Natural 79:245-255.</font></p>     <p align="justify"><font face="Verdana" size="2">Stubbs, W. J. &amp; J. B. Wilson. 2004. Evidence for limiting similarity in a sand dune community. Journal of Ecology 92: 557-567.</font></p>     <p align="justify"><font face="Verdana" size="2">Valiente-Banuet, A. &amp; M. Verdu. 2007. Facilitation can increase the phylogenetic diversity of plant communities. Ecology Letters 10:1029-1036.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Violle, C., M. L. Navas, D. Vile, E. Kazakou, C. Fortunel, I. Hummel &amp; E. Garnier. 2007. Let the concept of trait be functional! Oikos 116: 882-892.</font></p>     <p align="justify"><font face="Verdana" size="2">Westoby, M. 1998. A leaf-height-seed (LHS) plant ecology strategy scheme. Plant and Soil 199: 213-227.</font></p>     <p align="justify"><font face="Verdana" size="2">Wright, D. H., B. D. Patterson, G. M. Mikkelson, A.Cutler &amp; W.Atmar. 1998. A comparative analysis of nested subset patterns of species composition. Oecologia 113:1-20.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[M.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crist]]></surname>
+<given-names><![CDATA[T.O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chase]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vellend]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Inouye]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Freestone]]></surname>
+<given-names><![CDATA[A.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanders]]></surname>
+<given-names><![CDATA[N.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cornell]]></surname>
+<given-names><![CDATA[H.V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Comita]]></surname>
+<given-names><![CDATA[L.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Davies]]></surname>
+<given-names><![CDATA[K.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harrison]]></surname>
+<given-names><![CDATA[S.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kraft]]></surname>
+<given-names><![CDATA[N.J.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stegen]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Swenson]]></surname>
+<given-names><![CDATA[N.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Navigating the multiple meanings of &#946; diversity: a roadmap for the practicing ecologist]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2011</year>
+<volume>14</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>19-28</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Baselga]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Partitioning the turnover and nestedness components of beta diversity]]></article-title>
+<source><![CDATA[Global Ecology and Biogeography]]></source>
+<year>2010</year>
+<numero>19</numero>
+<issue>19</issue>
+<page-range>134-143</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Benavides]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vitt]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wieder]]></surname>
+<given-names><![CDATA[R.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The influence of climate change on recent peat accumulation patterns of Distichia muscoides cushion bogs in the high-elevation tropical Andes of Colombia]]></article-title>
+<source><![CDATA[Journal of Geophysical Research: Biogeosciences]]></source>
+<year>2013</year>
+<numero>118</numero>
+<issue>118</issue>
+<page-range>1627-1635</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Chessel]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dufour]]></surname>
+<given-names><![CDATA[A.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Thioulouse]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The ade4 package-I-One-table methods]]></article-title>
+<source><![CDATA[R news]]></source>
+<year>2004</year>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>5-10</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cingolani]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cabido]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gurvich]]></surname>
+<given-names><![CDATA[D.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Renison]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Díaz]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Filtering processes in the assembly of plant communities: Are species presence and abundance driven by the same traits?]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2007</year>
+<numero>18</numero>
+<issue>18</issue>
+<page-range>911-920</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cooper]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wolf]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Colson]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vering]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Granda]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meyer]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Alpine peatlands of the Andes, Cajamarca, Peru]]></article-title>
+<source><![CDATA[Arctic, Antarctic, and Alpine Research]]></source>
+<year>2010</year>
+<numero>42</numero>
+<issue>42</issue>
+<page-range>19-33</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cornelissen]]></surname>
+<given-names><![CDATA[J.H.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lavorel]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Diaz]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Buchmann]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gurvich]]></surname>
+<given-names><![CDATA[D.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reich]]></surname>
+<given-names><![CDATA[P.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[ter Steege]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morgan]]></surname>
+<given-names><![CDATA[H.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[van der Heijden]]></surname>
+<given-names><![CDATA[M.G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pausas]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poorter]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A handbook of protocols for standardised and easy measurement of plant functional traits worldwide]]></article-title>
+<source><![CDATA[Australian Journal of Botany]]></source>
+<year>2003</year>
+<numero>51</numero>
+<issue>51</issue>
+<page-range>335-380</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cornwell]]></surname>
+<given-names><![CDATA[W.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackerly]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Community assembly and shifts in plant trait distributions across anenvironmental gradient in coastal California]]></article-title>
+<source><![CDATA[Ecological Monographs]]></source>
+<year>2009</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>109-126</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellison]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bank]]></surname>
+<given-names><![CDATA[M.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Clinton]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Colburn]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elliott]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ford]]></surname>
+<given-names><![CDATA[C.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Foster]]></surname>
+<given-names><![CDATA[D.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kloeppel]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Knoepp]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lovett]]></surname>
+<given-names><![CDATA[G.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Loss of foundation species: consequences for the structure and dynamics of forested ecosystems]]></article-title>
+<source><![CDATA[Frontiers in Ecology and the Environment]]></source>
+<year>2005</year>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>479-486</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cortez]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Billes]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Navas]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roumet]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Debussche]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laurent]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Blanchard]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aubry]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bellmann]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Neill]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Toussaint]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant functional markers capture ecosystem properties during secondary succession]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2004</year>
+<numero>85</numero>
+<issue>85</issue>
+<page-range>2630-2637</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gimaret-Carpentier]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chessel]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pascal]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Non-symmetric correspondence analysis: an alternative for species occurrences data]]></article-title>
+<source><![CDATA[Plant Ecology]]></source>
+<year>1998</year>
+<numero>138</numero>
+<issue>138</issue>
+<page-range>97-112</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grime]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Benefits of plant diversity to ecosystems: immediate, filter and founder effects]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>1998</year>
+<numero>86</numero>
+<issue>86</issue>
+<page-range>902-910</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grime]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Plant strategies, vegetation processes, and ecosystem properties]]></source>
+<year>2006</year>
+<page-range>456</page-range><publisher-loc><![CDATA[Hoboken ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Holyoak]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leibold]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holt]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Metacommunities - spatial dynamics and ecological communities]]></source>
+<year>2005</year>
+<page-range>513</page-range><publisher-loc><![CDATA[Chicago ]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hubbell]]></surname>
+<given-names><![CDATA[S.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The unified neutral theory of biodiversity and biogeography]]></source>
+<year>2001</year>
+<page-range>375</page-range><publisher-loc><![CDATA[Princeton y Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Huston]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biological diversity: the coexistence of species]]></source>
+<year>1994</year>
+<page-range>681</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+<publisher-name><![CDATA[Cambridge University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Jung]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Violle]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mondy]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoffmann]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Muller]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Intraspecific variability and trait-based community assembly]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2010</year>
+<numero>98</numero>
+<issue>98</issue>
+<page-range>1134-1140</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kraft]]></surname>
+<given-names><![CDATA[N.J.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackerly]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Functional trait and phylogenetic tests of community assembly across spatial scales in an Amazonian forest]]></article-title>
+<source><![CDATA[Ecological Monographs]]></source>
+<year>2010</year>
+<numero>80</numero>
+<issue>80</issue>
+<page-range>401-422</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kraft]]></surname>
+<given-names><![CDATA[N.J.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valencia]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackerly]]></surname>
+<given-names><![CDATA[D.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Functional traits and niche-based tree community assembly in an Amazonian forest]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2008</year>
+<numero>322</numero>
+<issue>322</issue>
+<page-range>580-582</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kroonenberg]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lombardo]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Nonsymmetric correspondence analysis: A tool for analysing contingency tables with a dependence structure]]></article-title>
+<source><![CDATA[Multivariate Behavioral Research]]></source>
+<year>1999</year>
+<numero>34</numero>
+<issue>34</issue>
+<page-range>367-396</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lebreton]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sabatier]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Banco]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bacou]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Principal component and correspondence analyses with respect to instrumental variables: an overview of their role in studies of structure-activity and species-environment relationships.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Devillers]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Karcher]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Applied Multivariate Analysis in SAR and Environmental Studies]]></source>
+<year>1991</year>
+<page-range>85-114</page-range><publisher-loc><![CDATA[Dordrecht ]]></publisher-loc>
+<publisher-name><![CDATA[Kluwer]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Leibold]]></surname>
+<given-names><![CDATA[M.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holyoak]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mouquet]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Amarasekare]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chase]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoopes]]></surname>
+<given-names><![CDATA[M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holt]]></surname>
+<given-names><![CDATA[R.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shurin]]></surname>
+<given-names><![CDATA[J.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Law]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tilman]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loreau]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzalez]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The metacommunity concept: a framework for multi-scale community ecology]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2004</year>
+<numero>7</numero>
+<issue>7</issue>
+<page-range>601-613</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Loreau]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mouquet]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Immigration and the maintenance of local species diversity]]></article-title>
+<source><![CDATA[The American Naturalist]]></source>
+<year>1999</year>
+<numero>154</numero>
+<issue>154</issue>
+<page-range>427-440</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lortie]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brooker]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Choler]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kikvidze]]></surname>
+<given-names><![CDATA[Z.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Michalet]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pugnaire]]></surname>
+<given-names><![CDATA[F.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Callaway]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rethinking plant community theory]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2004</year>
+<numero>107</numero>
+<issue>107</issue>
+<page-range>433-438</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mac Arthur]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Levins]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The limiting similarity, convergence, and divergence of coexisting species]]></article-title>
+<source><![CDATA[American Naturalist]]></source>
+<year>1967</year>
+<numero>101</numero>
+<issue>101</issue>
+<page-range>377-385</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[MacArthur]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The theory of island biogeography]]></source>
+<year>1967</year>
+<page-range>203</page-range><publisher-loc><![CDATA[Princeton ]]></publisher-loc>
+<publisher-name><![CDATA[Princeton University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mayfield]]></surname>
+<given-names><![CDATA[M.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Levine]]></surname>
+<given-names><![CDATA[J.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Opposing effects of competitive exclusion on the phylogenetic structure of communities]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2010</year>
+<numero>13</numero>
+<issue>13</issue>
+<page-range>1085-1093</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[McGill]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Enquist]]></surname>
+<given-names><![CDATA[B.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weiher]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Westoby]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Rebuilding community ecology from functional traits]]></article-title>
+<source><![CDATA[Trends in Ecology & Evolution]]></source>
+<year>2006</year>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>178-185</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montesinos-Navarro]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Segarra-Moragues]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valiente-Banuet]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Verdú]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Plant facilitation occurs between species differing in their associated arbuscular mycorrhizal fungi]]></article-title>
+<source><![CDATA[New Phytologist]]></source>
+<year>2012</year>
+<numero>196</numero>
+<issue>196</issue>
+<page-range>835-844</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mouquet]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Loreau]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Community patterns in source-sink metacommunities]]></article-title>
+<source><![CDATA[American Naturalist]]></source>
+<year>2003</year>
+<numero>162</numero>
+<issue>162</issue>
+<page-range>14</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Munoz]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Couteron]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramesh]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Beta-diversity in spatially implicit neutral models: a new way to assess species migration]]></article-title>
+<source><![CDATA[The American Naturalist]]></source>
+<year>2008</year>
+<numero>172</numero>
+<issue>172</issue>
+<page-range>116-127</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Munoz]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramesh]]></surname>
+<given-names><![CDATA[B.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Couteron]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[How do habitat filtering and niche conservatism affect community composition at different taxonomic resolutions?]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2014</year>
+<numero>95</numero>
+<issue>95</issue>
+<page-range>2179-2191</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ostria]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="fr"><![CDATA[La végétation d'une vallée alto-andine (Hichu Kkota, Cordillère orientale, Bolivie): I-Données générales]]></article-title>
+<source><![CDATA[Bulletin de la Société Botanique de France. Lettres Botaniques]]></source>
+<year>1987</year>
+<numero>134</numero>
+<issue>134</issue>
+<page-range>385-397</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pakeman]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quested]]></surname>
+<given-names><![CDATA[H.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sampling plant functional traits: what proportion of the species need to be measured?]]></article-title>
+<source><![CDATA[Applied Vegetation Science]]></source>
+<year>2007</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>91-96</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pélissier]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Couteron]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dray]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sabatier]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Consistency between ordination techniques and diversity measurements: two strategies for species occurrence data]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>2003</year>
+<numero>84</numero>
+<issue>84</issue>
+<page-range>242-251</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pillar]]></surname>
+<given-names><![CDATA[V.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Duarte]]></surname>
+<given-names><![CDATA[L.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sosinski]]></surname>
+<given-names><![CDATA[E.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Joner]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Discriminating trait-convergence and trait-divergence assembly patterns in ecological community gradients]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2009</year>
+<numero>20</numero>
+<issue>20</issue>
+<page-range>334-348</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Renvoize]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Gramíneas de Bolivia]]></source>
+<year>1998</year>
+<page-range>644</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Kew Royal Botanic Gardens]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ruthsatz]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Vegetación y ecología de los bofedales altoandinos de Bolivia]]></article-title>
+<source><![CDATA[Phytocoenologia]]></source>
+<year>2012</year>
+<numero>42</numero>
+<issue>42</issue>
+<page-range>133-179</page-range></nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sonnier]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shipley]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Navas]]></surname>
+<given-names><![CDATA[M.-L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Quantifying relationships between traits and explicitly measured gradients of stress and disturbance in early successional plant communities]]></article-title>
+<source><![CDATA[Journal of Vegetation Science]]></source>
+<year>2010</year>
+<numero>21</numero>
+<issue>21</issue>
+<page-range>1014-1024</page-range></nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soruco]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vincent]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Francou]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gonzalez]]></surname>
+<given-names><![CDATA[J.F.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Glacier decline between 1963 and 2006 in the Cordillera Real, Bolivia]]></article-title>
+<source><![CDATA[Geophysical Research Letters]]></source>
+<year>2009</year>
+<numero>36</numero>
+<issue>36</issue>
+<page-range>L03502</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena De Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stubbs]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[J.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evidence for limiting similarity in a sand dune community]]></article-title>
+<source><![CDATA[Journal of Ecology]]></source>
+<year>2004</year>
+<numero>92</numero>
+<issue>92</issue>
+<page-range>557-567</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Valiente-Banuet]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Verdu]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Facilitation can increase the phylogenetic diversity of plant communities]]></article-title>
+<source><![CDATA[Ecology Letters]]></source>
+<year>2007</year>
+<numero>10</numero>
+<issue>10</issue>
+<page-range>1029-1036</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Violle]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Navas]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vile]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kazakou]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fortunel]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hummel]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Garnier]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Let the concept of trait be functional!]]></article-title>
+<source><![CDATA[Oikos]]></source>
+<year>2007</year>
+<numero>116</numero>
+<issue>116</issue>
+<page-range>882-892</page-range></nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Westoby]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A leaf-height-seed (LHS) plant ecology strategy scheme]]></article-title>
+<source><![CDATA[Plant and Soil]]></source>
+<year>1998</year>
+<numero>199</numero>
+<issue>199</issue>
+<page-range>213-227</page-range></nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wright]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Patterson]]></surname>
+<given-names><![CDATA[B.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mikkelson]]></surname>
+<given-names><![CDATA[G.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cutler]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Atmar]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A comparative analysis of nested subset patterns of species composition]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>1998</year>
+<numero>113</numero>
+<issue>113</issue>
+<page-range>1-20</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

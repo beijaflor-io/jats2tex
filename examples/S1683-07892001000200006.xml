@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000200006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Computación Cuántica]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Saniz Balderrama]]></surname>
+<given-names><![CDATA[Rolando]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Departamento de Ciencias Exactas ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>2</numero>
+<fpage>190</fpage>
+<lpage>196</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000200006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000200006&amp;lng=en&amp;nrm=iso"></self-uri></article-meta>
+</front><body><![CDATA[ <p align="center"><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>Computación Cuántica</B></font></p>      <p align=center><font size="3" face="Verdana, Arial, Helvetica, sans-serif">Rolando Saniz Balderrama</font></p>      <p align=center>Departamento de Ciencias Exactas</p>      <p align=center>Universidad Católica Boliviana, Regional Cochabamba</p>      <p align=center>e-mail: <u><a href="mailto:saniz@ucbcba.edu.bo">saniz@ucbcba.edu.bo</a></u></p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1 Introducción</b></font></p>      <p>Todas las computadoras de hoy en día, desde la máquina que usa una persona en un café Internet para revisar su casilla electrónica, hasta las máquinas de última generación utilizadas por los investigadores en el CERN (Centro Europeo de Investigación Nuclear), cerca de Ginebra, en Suiza, son máquinas de Turing. Desde ese punto de vista, no son más sofisticadas que la Máquina Analítica de Charles Babbage de los años 1830. Todas obedecen al mismo principio, el de la Máquina Universal de Turing. En la actualidad, las computadoras más avanzadas siguen siendo máquinas que operan de manera sequencial sobre las operaciones elementales en que los programas dividen las tareas que se quieren ejecutar. Las llamadas supercomputadoras &quot;paralelas&quot;, al fin y al cabo, no son más que varias máquinas trabajando en conjunto de cierta manera, y cada una de manera sequencial. El problema es que ese principio de funcionamiento limita seriamente las tareas computacionales que se pueden ejecutar. No se pueden atacar, por ejemplo, problemas grandes fuera de la clase P. Recordemos que un problema de la clase P es aquel para el cual el mejor algoritmo tiene un tiempo de ejecución polinomial en función del tamaño del input. La factorización de un número entero, por ejemplo, no está en P. No se dice que una factorización es imposible de realizar, ya que una computadora cualquiera puede, en principio, emprender la tarea, sino que para factorizar un entero grande se requiere tal capacidad de cálculo que, desde el punto de vista práctico, se puede considerar la tarea irrealizable.</p>      <p align="center">A esto se añade otro problema, que se va haciendo más importante con el paso del tiempo. Desde el punto de vista físico, las computadoras actuales están basadas en un tipo de transistor, el CMOSFET, del inglés Complementary Metal Oxide Semiconductor Field Effect Transistor. Mucho del progreso en la capacidad de las computadoras se debe a la miniaturización de los componentes en un chip, gracias a los avances de la tecnología litográfica. Actualmente, por ejemplo, se pueden realizar compuertas lógicas y conexiones cuyo tamaño está por debajo del micrón (milésima de milímetro). En 1965, Gordon E. Moore, entonces de la compañía Fairchild Semiconductor, hizo notar que el número de transistores en los microprocesadores se estaba multiplicando<br clear=all> <img src="/img/revistas/ran/v1n2/1-Saniz.JPG" width="749" height="267"></p>      <p><b>Figura 1:</b> Alan Turing, Richard Feynman y David Deutsch: de la computadora universal a la computadora cuántica universal.</p>      <p>aproximadamente por 4 cada 3,4 años. Sorprendentemente, la observación de Moore sigue siendo válida hoy, habiéndose popularizado como la &quot;ley de Moore&quot;. Pero esta tendencia no podrá continuar indefinidamente. Aparte de la limitación fundamental de que no se podrán hacer reducciones por debajo de la escala molecular o atómica, los problemas técnicos planteados por la miniaturización se tornan cada vez más difíciles de resolver. De acuerdo a Joel Birnbaum, Director Científico de Hewlett Packard, esto se refleja en la &quot;segunda ley de Moore&quot;, que indica que el costo de producción se ha estado multiplicando por 4 cada 2 años, es decir, mucho más rápido que el incremento de capacidad de las computadoras. Esto puede causar el fin de la ley de Moore, porque no se podrán justificar grandes inversiones en investigación, desarrollo y manufactura de una tecnología sólo marginalmente mejor [1].</p>      ]]></body>
+<body><![CDATA[<p>Es por estas razones que muchos investigadores buscan construir computadoras basadas en un nuevo paradigma tecnológico y un nuevo principio computacional. Una de las corrientes más importantes es la de la computación cuántica. La idea de la computación cuántica fue introducida por primera vez en 1982, por Richard Feynman (premio Nobel de Física en 1965), cuando consideró la simulación de sistemas en mecánica cuántica por otros sistemas cuánticos [2]. Sin embargo, la computación cuántica quedaba en un plano hipotético y no fue hasta 1985 que se logró un avance fundamental en esta dirección, con la publicación de David Deutsch, del Departamento de Física de la Universidad de Oxford, del artículo en el que describía una computadora cuántica universal [3], probablemente haciendo pasar a la historia la máquina universal descrita por Alan Turing, en Cambridge, en los años 30 [4].</p>      <p>Si bien las computadoras cuánticas no son aún una realidad, se han dado pasos importantes tanto en el desarrollo de bits cuánticos y compuertas lógicas cuánticas como en el desarrollo de algoritmos cuánticos. En la siguiente sección se tratará del principio en el que se basa la computación cuántica y de cómo funcionaría.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>2 Bits cuánticos y paralelismo cuántico</B></font></p>     <p>Las computadoras actuales, o clásicas, tienen como   unidad básica el bit.   Este puede estar en uno de dos estados,   convencionalmente 0 ó 1. En una computadora cuántica,</p>     <p align="center">   <img src="/img/revistas/ran/v1n2/2-Sainz.JPG" width="314" height="325"></p>     <p><b>Figura 2:</b> Un qubit en el registro de entrada estará dado por una combinación lineal de cuatro estados, cada uno con cierta amplitud de probabilidad a¿. Una operación / sobre el qubit lleva a un registro de salida en el que las cuatro amplitudes de probabilidad habrán cambiado, en un sólo paso.</p>      <p>en cambio, un bit cuántico, o &quot;qubit&quot;, como se le ha venido a llamar en abreviación de &quot;quantum bit&quot;, puede estar no sólo en uno de los estados 0 ó 1, sino que también puede estar en una superposición de ambos. En mecánica cuántica, en general, un sistema tiene acceso a un número discreto de estados—que puede ser infinito, y puede ser &quot;preparado&quot; experimentalmente en uno de esos estados o en una superposición de dos o más de entre ellos. Este es el elemento fundamental en la idea de computadora cuántica de Deutsch y el origen de su enorme potencial. Supongamos que se tiene un registro físico de ocho bits. En una computadora clásica se puede almacenar sólo uno de los 256 (2<sup>8</sup>) números dados por las configuraciones 00000000,10000000, 01000000 ..., etc. En cambio una computadora cuántica puede almacenar los 256 números a la vez. Más aún, puede operar sobre los 256 números a la vez. Obviamente el operar sobre los 256 números en un solo paso reduce el tiempo de cálculo de manera radical respecto a una máquina clásica, que tiene que operar sobre cada número, del 0 al 255, uno después del otro. Las computadoras cuánticas poseen, pues, un paralelismo intrínseco, diferente al de las máquinas paralelas actuales que, como se observó más arriba, siguen siendo máquinas sequenciales. En la Fig. 1 ilustramos cómo se opera en paralelo sobre los cuatro números de un qubit hecho de dos bits físicos.</p>      <p>El gran potencial de la computación cuántica fue finalmente puesto en evidencia, y de manera contundente, cuando Peter Schor, de los AT&amp;T Bell Laboratories, publicó en 1994 un algoritmo de factorización en tiempo polinomial para computadoras cuánticas [5]. El número más grande que las supercomputadoras clásicas han logrado factorizar tiene 140 dígitos. Se ha estimado que factorizar un número de 1000 dígitos tomaría alrededor de 10<sup>20</sup> años, Le., 10 mil millones de veces la edad del Universo (que tiene, en principio, alrededor de 15 mil millones de años). El algoritmo de Shor, en cambio, permitiría factorizar un número de 1000 dígitos en aproximadamente media hora [6]. Dicho esto, es importante hacer notar que una computadora cuántica no es más rápida que una supercomputadora en cualquier cálculo.   La multiplicación de dos números, por ejemplo, no es más rápida en una computadora cuántica. La gran ventaja de la computación cuántica se ponde de manifiesto en problemas &quot;paralelizables&quot;, es decir, aquellos problemas en los que se pueden ejecutar diferentes cálculos simultáneamente en la búsqueda de su solución. La mayor parte de los problemas de interés, sin embargo, son paralelizables en mayor o menor grado. Es por esta razón que se han desarrollado las supercomputadoras paralelas actuales y que se las considera los instrumentos computacionales más avanzados de los que se dispone hoy. </p>      <p>Otro de los algoritmos fantásticos desarrollados para computadoras cuánticas es el algoritmo de búsqueda de Lov Grover, de Lucent Technologies, capaz de encontrar uno de los ítems de una base de datos desordenada de <i>N </i>entradas en<i> <img src="/img/revistas/ran/v1n2/3-Sainz.JPG" width="26" height="17"></i>pasos—en promedio, en lugar de los <i>N/2 </i>que se requieren en promedio en una computadora actual [7]. Es evidente que la diferencia es realmente enorme cuando se trata de bases de datos grandes.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>3 Algoritmo de Schor</B></font></p>      ]]></body>
+<body><![CDATA[<p>En esta sección se ilustra el algoritmo de Schor con un ejemplo simple, poniendo en evidencia las ventajas del paralelismo cuántico. Factorizar un número <i>N </i>es encontrar su factores primos, es decir, los números primos que, multiplicados, dan <i>N. </i>La manera más simple de saber si un primo <i>p </i>(menor a la raíz cuadrada de <i>N) </i>es factor de <i>N </i>es dividir <i>N </i>por <i>p, </i>y si el resto de la división es 0, <i>p </i>es un factor. El problema es que este algoritmo no es eficiente para números grandes. Suponiendo que una computadora puede hacer pruebas con 10<sup>10</sup> números primos <i>p </i>por segundo (más rápido que una supercomputadora actual), factorizar un número de 60 dígitos tomaría más tiempo que la edad del Universo.</p>      <p>El algoritmo de Shor explota el paralelismo intrínseco de la computación cuántica. Se basa en un resultado conocido de teoría de números que convierte la factorización en la evaluación del período de una sucesión larga (el período r de la sucesión 1 5 13 0 2 1 5 13 0 2 1 5 13 0 2..., por ejemplo, es 5). Supongamos que se desea factorizar el número <i>N = </i>14. Para empezar se toma al azar un número <i>a </i>más pequeño que <i>N, </i>por ejemplo 5. Se define entonces la función <i>f(n) = </i>5<sup>n</sup>mod l4. El resultado de teoría de números mencionado dice que / es periódica y que su período está relacionado con los factores de 14. Se puede verificar fácilmente que la sucesión determinada por <i>f</i> al ser evaluada en <i>n </i>= 0,1,2,3,... es 1,5,11,13,9,3,1,5,11,... Se observa que el período de esta sucesión es r = 6. Luego, para encontrar los factores de <i>N </i>sólo se requiere encontrar el máximo común divisor de <i>N </i>y <i>a<sup>r/</sup><sup>2</sup> </i>+ 1 (o de <i>N </i>y <i>a<sup>r/</sup><sup>2</sup> </i>— 1). Así, el máximo común divisor de 14 y de 5<sup>6</sup>/<sup>2</sup> +1 = 126 es 7. En el presente caso, la división de 14 por 7 da directamente el otro factor, 2. (El factor 2 es el máximo común divisor de 14 y 5<sup>6/</sup><sup>2</sup> — 1 = 124.) En una computadora clásica este método no es nada ventajoso. Efectivamente, encontrar el período de / requiere que ésta se evalúe muchas veces y se puede demostrar que el número de evaluaciones necesarias es del mismo orden de magnitud que en el caso del método del resto descrito al inicio de esta sección. Una computadora cuántica, en cambio, actuando sobre un registro en que están representados los estados 0,1,2,3,... puede evaluar en un solo paso <i>f</i>(O), <i>f</i>(l), <i>f</i>(2), <i>f</i>(3),..., valores que están representados todos en el registro de salida. Encontrar el período a partir de este registro es una tarea relativamente directa, que se efectúa con la versión cuántica de lo que se llama la transformada de Fourier. El algortimo necesario, también desarrolado por Shor, se ejecuta igualmente en tiempo polinomial. </p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>4 Computadoras cuánticas</B></font></p>      <p>Como se ha mencionado en la introducción, las computadoras cuánticas, capaces de ejecutar algoritmos cuánticos, están aún en estado embrionario. Los investigadores aún deberán resolver varios problemas de orden científico y tecnológico antes de poder desarrollar una computadora cuántica. Pues, ya en 1995 se elaboraron compuertas lógicas cuánticas a dos qubits en base a sistemas atómicos. En el National Institute of Standards and Technology (NIST), en los Estados Unidos, se utilizaron los estados de vibración de iones de Berilio confinados a un espacio microscópico [9]. En la Ecole Nórmale Supérieure, en Francia, el grupo del Profesor Haroche empleó un campo electromagnético a dos niveles para cambiar los niveles de energía de un átomo de Rydberg en una cavidad [8]. Luego, en 1997, un equipo conformado por investigadores del Massachusetts Institute of Technology (MIT) y de Los Alamos National Laboratory (estado de New México, Estados Unidos), logró realizar con éxito la operación de primero básico 1 + 1 = 2 con un sistema de tres qubits en base a moléculas, y explotando el conocido principio de Resonancia Magnética Nuclear (RMN), utilizado cotidianamente en análisis químicos y en medicina [10]. Los qubits están definidos por el spin de algunos de los átomos en una molécula y la preparación del estado inicial, las operaciones lógicas y la lectura del resultado se hacen en base a pulsos de láser. Aunque no lo parezca, este trabajo fue un gran triunfo. Efectivamente, una de los mayores dificultades que enfrentaban los investigadores era el mantener a los qubits en una superposición estable de los diferentes estados de los bits individuales. El problema es que una superposición como la de la Figura 1, <img src="/img/revistas/ran/v1n2/4-Saniz.JPG" width="299" height="20">, es frágil, en el sentido que cualquier perturbación, por ejemplo una vibración o un fotón, hace caer al sistema a uno solo de los cuatro estados, destruyendo el ingrediente básico del paralelismo cuántico. En reali­dad algunos investigadores pensaban que este problema era insalvable y que impediría el desarrollo de computadoras cuánticas. Aislar una molécula (o átomo), utilizada como bit físico, de manera que no tenga ninguna interacción no deseada con su entorno es prácticamente imposible. Para eludir este problema, el equipo MIT-Los Alamos utilizó, no una, sino un vasto número de moléculas para representar un qubit, tantas como las que se encuentran, por ejemplo, en una muestra de líquido en un tubo de ensayo (~ 10<sup>23</sup>). De esta manera lograron mantener un número suficiente de moléculas en el necesario &quot;estado coherente&quot;, como se dice científicamente, para realizar el cómputo cuántico, porque las interacciones no deseadas con el entorno y la lectura del resultado sólo afectan a una pequeña fracción del todo. En realidad, como dicen Gershenfeld y Chuang [10], los investigadores que han estado utilizando espectroscopia RMN, en el es­tudio de moléculas complicadas, desde hace décadas, han estado haciendo computación cuántica sin saberlo.</p>     <p align="center"><img src="/img/revistas/ran/v1n2/5-Saniz.JPG" width="598" height="246"></p>     <p><b>Figura 3:</b> El microchip, símbolo de la tecnología de las computadoras de hoy y un baño de moléculas de cafeína, ejemplo de la inesperada dirección que puede tomar la tecnología del futuro.</p>      <p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>5 Mirando hacia adelante</B></font></p>      <p>Es de esperar que, en los años que vienen, las computadoras clásicas muestren progresos impresionantes en cuanto a capacidad. Puede ser que incluso se lleguen a implemen-tar los &quot;cristales fotónicos&quot; y que la velocidad de la computadoras se multiplique por un factor considerable [11]. Sin embargo, estos progresos seguirán incrementando la capacidad de nuestras computadoras de manera lineal, a diferencia de la computación cuántica, que lo haría de manera exponencial.</p>      <p>Otro aspecto grato de la computación cuántica es que, al parecer, como en el caso del RMN, no requerirá necesariamente de grandes esfuerzos en nanotecnología y equipos de fabricación sofisticados. Por ejemplo, Gershenfeld y Chuang utilizaron una simple molécula de cloroformo, CHCI3, para elaborar una compuerta lógica O-exclusiva en base a dos spines nucleares—el del carbono (con un neutrón adicional) y el del hidrógeno. Para tener una computadora cuántica de mayor capacidad, se requerirán moléculas con más qubits, desde luego. Un candidato parece ser la molécula de cafeína [6]. El problema actual con moléculas demasiado grandes es que la señal RMN decrece con el número de núcleos magnéticos en la molécula [10]. Pero, como hace notar el mismo Lov Grover, es muy difícil predecir la rapidez con que se hará progreso en el futuro. A título de ejemplo cita un extracto del número de Marzo de 1949 de <i>Popular Mechanics </i>en el que, en un comentario sobre la computadora ENIAC (Electronic Numerical Integrator and Calculator), se dice &quot;Donde una calculadora en la ENIAC está equipada con 18.000 tubos de vacío y pesa 30 toneladas, la computadoras en el futuro puede que tengan solamente 1.000 tubos de vacío y pesen solo 1,5 toneladas&quot; [12]. Es así que puede que los componentes básicos de las computadoras del futuro se parezcan más a una taza de café que a un microchip actual.</p>      <p>Tal vez se puede tener una idea de la rapidez con que está avanzando la computa­ción cuántica viendo los trabajos de investigación que se han estado realizando en este campo en los últimos años. Si, por ejemplo, el lector hace una búsqueda en el servidor de preprints de Los Alamos de las palabras claves &quot;quantum AND (computer OR com-puting)&quot;, encontrará que en estos últimos años se han publicado centenas de trabajos en este campo [13].   Los tópicos cubiertos hacen una lista muy larga, contemplando tanto aspectos teóricos como experimentales. Para dar una idea de la gran variedad de tópicos estudiados se pueden mencionar, por ejemplo, diferentes principios sobre los que se pueden desarrollar qubits, nuevos algoritmos cuánticos, teoría de la informa­ción cuántica, corrección de errores—software y hardware, decoherencia, codificación, velocidad de operación, memoria cuántica, formalismo matemático, etc. También se están considerando las posibles aplicaciones concretas, entre las cuales la modelación de sistemas físicos está en los primeros lugares, lo que, después de todo, era la idea original de Richard Feynman. Todo indica que el progreso en los próximos 10 años será increíble y, dentro de 25 años, es posible que los investigadores tengan colegas con una rapidez de cálculo y memoria fantásticas, una capacidad de aprendizaje y deducción difícilmente igualables y, además, curiosamente fáciles de confundir con una persona, algo reminiscente del personaje de HAL de &quot;2001 Odisea del Espacio&quot; de Arthur C. Clarke (ver el artículo de D. Pavisic en la página 203 de este mismo número de Acta Nova). </p>      ]]></body>
+<body><![CDATA[<p><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>Referencias</B></font></p>      <!-- ref --><p>[1] J. Birnbaum, Am. Phys. Soc. News Vol. 8, No. 6, 8 (1999).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001408&pid=S1683-0789200100020000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[2] R. Feynman, Int. J. Theor. Phys. 21, 467 (1982).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001409&pid=S1683-0789200100020000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[3] D. Deutsch, Proc. R. Soc. London A 400, 97 (1985).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001410&pid=S1683-0789200100020000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[4] A. M. Turing, Proc. London Math. Soc. 2, 230 (1936).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001411&pid=S1683-0789200100020000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[5] P. W. Shor, en Proc. 35th Annual Symposium on Foundations of Computer Science, Shafi Goldwasser, ed. (IEEE Computer Society Press, 1994).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001412&pid=S1683-0789200100020000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[6] M. Antia y P. G. Brown, The Sciences, 11 (May/June 1997).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001413&pid=S1683-0789200100020000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[7] L. K. Grover, en Proc. 28th Ann. ACM Symp. Theory of Computing (ACM Press, 1996).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001414&pid=S1683-0789200100020000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[8] P. Domokos, J. M. Raimond, M. Bruñe y S. Haroche, Phys. Rev. A 52, 3554 (1995).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001415&pid=S1683-0789200100020000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[9] C. Monroe, D. M. Meekhof, B. E. King, W. M. Itano y D. J. Wineland, Phys. Rev. Lett. 75, 4714 (1995).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001416&pid=S1683-0789200100020000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[10] N. A. Gershenfeld y I. L. Chuang, Science 275, 350 (1997).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001417&pid=S1683-0789200100020000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[11] Para leer sobre un avance reciente en este campo ver, por ejemplo, Sergey I. Boz-hevolnyi, J. Erland, K. Leosson, P. M. W. Skovgaard y J. M. Hvam, Phys. Rev. Lett. 86, 3008 (2001).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001418&pid=S1683-0789200100020000600011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[12] L. K. Grover, The Sciences, 24 (July/August 1999).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001419&pid=S1683-0789200100020000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p>[13] Ver &quot;Quantum physics&quot; en &lt;<u><a href="http://xxx.lanl.gov">http://xxx.lanl.gov</a></u>&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=001420&pid=S1683-0789200100020000600013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Birnbaum]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Am. Phys. Soc. News]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Feynman]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Int. J. Theor. Phys.]]></source>
+<year>1982</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Deutsch]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1985</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Turing]]></surname>
+<given-names><![CDATA[A. M]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1936</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Shor]]></surname>
+<given-names><![CDATA[P. W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Antia]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[P. G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>May/</year>
+<month>Ju</month>
+<day>ne</day>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grover]]></surname>
+<given-names><![CDATA[L. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1996</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Domokos]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Raimond]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bruñe]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Haroche]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1995</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Monroe]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Meekhof]]></surname>
+<given-names><![CDATA[D. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[King]]></surname>
+<given-names><![CDATA[B. E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Itano]]></surname>
+<given-names><![CDATA[W. M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wineland]]></surname>
+<given-names><![CDATA[D. J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1995</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>[10]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gershenfeld]]></surname>
+<given-names><![CDATA[N. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Chuang]]></surname>
+<given-names><![CDATA[I. L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>1997</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<label>[11]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Boz-hevolnyi]]></surname>
+<given-names><![CDATA[Sergey I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Erland]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Leosson]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Skovgaard]]></surname>
+<given-names><![CDATA[P. M. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hvam]]></surname>
+<given-names><![CDATA[J. M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<label>[12]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grover]]></surname>
+<given-names><![CDATA[L. K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>July</year>
+<month>/A</month>
+<day>ug</day>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<label>[13]</label><nlm-citation citation-type="">
+<source><![CDATA[Quantum physics]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

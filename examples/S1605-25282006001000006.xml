@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282006001000006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Diversidad, endemismo y conservación de la ornitofauna del Parque Nacional Tunari (Cochabamba, Bolivia)]]></article-title>
+<article-title xml:lang="en"><![CDATA[Diversity, endemism and conservation issues of the avifauna of Tunari National Park (Cochabamba, Bolivia)]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Balderrama T.]]></surname>
+<given-names><![CDATA[José Antonio]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Centro de Biodiversidad y Genética  ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>10</month>
+<year>2006</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>10</month>
+<year>2006</year>
+</pub-date>
+<volume>41</volume>
+<numero>2</numero>
+<fpage>149</fpage>
+<lpage>170</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282006001000006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282006001000006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282006001000006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El objetivo del presente trabajo fue evaluar la diversidad y endemismo de la ornitofauna del PNT, proporcionando pautas sobre su valor biológico y conservación. Se estudiaron 14 localidades (2.800-4.100 m) desde 1998 a la fecha y se revisó una lista publicada de las aves del Parque Nacional Tunari (PNT). Se registró un total de 187 especies distribuidas en 38 familias. Tres son endémicas de Bolivia, 31 endémicas a los Andes Centrales, 11 a los Andes altos de Bolivia y Argentina (EBA 056) y dos a los Yungas altos de Bolivia y Perú (EBA 055). Se registró una especie en peligro de extinción, una especie vulnerable y siete especies casi amenazadas. Cuatro especies de aves registradas en el PNT no han sido registradas en ninguna otra área protegida en Bolivia. Se presentan 57 registros de especies nuevas para el PNT y 29 nuevos registros altitudinales para Bolivia. El PNT es una de las áreas protegidas más importantes relacionadas a diversidad y endemismo de aves de Valles y Puna en Bolivia, resguarda la mayor población de Poospiza garleppi y protege poblaciones de otras aves endémicas y amenazadas, por lo que cumple un papel fundamental en la conservación de esta avifauna.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The aim of this study was to evaluate the diversity and endemism of the avifauna of Tunari National Park (PNT) indicating its biological value and conservation importance. I studied 14 localities (2,800-4,100 m) from 1998 to 2006 and reviewed a published list of the birds of PNT. A total of 187 species distributed in 38 families were recorded. Three are Bolivian endemics, 31 endemic to the Central Andes (CAN) zoogeographic region, 11 to the endemic Bird Area High Andes of Bolivia and Argentina (EBA 056) and two to the upper Yungas of Bolivia and Perú EBA (055). One endangered, one vulnerable and seven near threatened species were recorded. Four bird species present in PNT have not been recorded in anyother protected area in Bolivia. Fiftyseven species recorded during field work are new species for PNT, and new elevational records for Bolivia are presented for 29 species. PNT is one of the most important protected areas in Bolivia with respect to the diversity and endemism of inter-Andean dry valley and puna birds, and it protects a large proportion of the global population of Poospiza garleppi and other endemic and threatened birds, playing an important role in the conservation of these avifaunas.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Diversidad]]></kwd>
+<kwd lng="es"><![CDATA[endemismo]]></kwd>
+<kwd lng="es"><![CDATA[conservación]]></kwd>
+<kwd lng="es"><![CDATA[avifauna]]></kwd>
+<kwd lng="es"><![CDATA[Parque Nacional Tunari]]></kwd>
+<kwd lng="en"><![CDATA[Diversity]]></kwd>
+<kwd lng="en"><![CDATA[endemism]]></kwd>
+<kwd lng="en"><![CDATA[conservation]]></kwd>
+<kwd lng="en"><![CDATA[avifauna]]></kwd>
+<kwd lng="en"><![CDATA[Tunari National Park]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Diversidad, endemismo y conservaci&oacute;n de la ornitofauna del    Parque Nacional Tunari (Cochabamba, Bolivia) </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Diversity, endemism and conservation issues of the avifauna of Tunari  National Park (Cochabamba, Bolivia) </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Jos&eacute; Antonio Balderrama T. </b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Centro de Biodiversidad y Gen&eacute;tica, Casilla 538, Cochabamba, Bolivia  Asociaci&oacute;n Armon&iacute;a &ndash; BirdLife International, Casilla 3566, Santa Cruz de la Sierra, Bolivia.  email: <a href="mailto:tangara_sp@hotmail.com">tangara_sp@hotmail.com</a></font></P >     <P   align="center" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P > <hr noshade> <H4   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Resumen </font></H4 >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El objetivo del presente trabajo fue evaluar la diversidad y endemismo de la ornitofauna del PNT, proporcionando pautas sobre su valor biol&oacute;gico y conservaci&oacute;n. Se estudiaron 14 localidades (2.800-4.100 m) desde 1998 a la fecha y se revis&oacute; una lista publicada de las aves del Parque Nacional Tunari (PNT). Se registr&oacute; un total de 187 especies distribuidas en 38 familias. Tres son end&eacute;micas de Bolivia, 31 end&eacute;micas a los Andes Centrales, 11 a los Andes altos de Bolivia y Argentina (EBA 056) y dos a los Yungas altos de Bolivia y Per&uacute; (EBA 055). Se registr&oacute; una especie en peligro de extinci&oacute;n, una especie vulnerable y siete especies casi amenazadas. Cuatro especies de aves registradas en el PNT no han sido registradas en ninguna otra &aacute;rea protegida en Bolivia. Se presentan 57 registros de especies nuevas para el PNT y 29 nuevos registros altitudinales para Bolivia. El PNT es una de las &aacute;reas protegidas m&aacute;s importantes relacionadas a diversidad y endemismo de aves de Valles y Puna en Bolivia, resguarda la mayor poblaci&oacute;n de <I>Poospiza garleppi </I>y protege poblaciones de otras aves end&eacute;micas y amenazadas, por lo que cumple un papel fundamental en la conservaci&oacute;n de esta avifauna. </font></P >     <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>Palabras clave:</B> Diversidad, endemismo, conservaci&oacute;n, avifauna, Parque Nacional Tunari </font></P > <hr noshade> <H4   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Abstract </font></H4 >    <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The aim of this study was to evaluate the diversity and endemism of the avifauna of Tunari National Park (PNT) indicating its biological value and conservation importance. I studied 14 localities (2,800-4,100 m) from 1998 to 2006 and reviewed a published list of the birds of PNT. A total of 187 species distributed in 38 families were recorded. Three are Bolivian endemics, 31 endemic to the Central Andes (CAN) zoogeographic region, 11 to the endemic Bird Area High Andes of Bolivia and Argentina (EBA 056) and two to the upper Yungas of Bolivia and Per&uacute; EBA (055). One endangered, one vulnerable and seven near threatened species were recorded. Four bird species present in PNT have not been recorded in anyother protected area in Bolivia. Fiftyseven species recorded during field work are new species for PNT, and new elevational records for Bolivia are presented for 29 species. PNT is one of the most important protected areas in Bolivia with respect to the diversity and endemism of inter-Andean dry valley and puna birds, and it protects a large proportion of the global population of <I>Poospiza garleppi </I>and other endemic and threatened birds, playing an important role in the conservation of these avifaunas.</font></P >     <P   > <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>Key words: </B>Diversity, endemism, conservation, avifauna, Tunari National Park </font></P > <hr noshade>     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El Parque Nacional Tunari (PNT) fue creado en 1962 con 6.000 ha con un rango altitudinal comprendido entre los 2.750 y 4.400 m, para proteger a la ciudad de Cochabamba de desbordes de torrenteras; re&uacute;ne a tres zonas ecol&oacute;gicas principales: Valle y puna al sur y ceja de monte al norte. Los estudios e investigaciones sobre ornitofauna y vertebrados en general en el departamento de Cochabamba y espec&iacute;ficamente en los valles y bosques andinos est&aacute;n increment&aacute;ndose, pero a&uacute;n se desconocen muchos aspectos de la distribuci&oacute;n, ecolog&iacute;a, comportamiento y otros aspectos biol&oacute;gicos de las aves. El libro sobre las aves altoandinas de Fjelds&aring; &amp; Krabbe (1990) se constituye en la publicaci&oacute;n m&aacute;s importante sobre la avifauna cochabambina y espec&iacute;ficamente sobre la parte andina. La mayor parte de los trabajos sobre las aves de Cochabamba est&aacute; referida a ciertos h&aacute;bitats altoandinos y su conservaci&oacute;n, principalmente a bosques de <I>Polylepis </I>(kewi&ntilde;a): Fjelds&aring; (1993), Hjarsen (1998), Herzog et al. (2002, 2003), Fjelds&aring; &amp; Hjarsen (1998), Fjelds&aring; &amp; Kessler (2004); en relaci&oacute;n a trabajos espec&iacute;ficos sobre aves del PNT se encuentran los de Arias (1995), Hjarsen (1997) y Balderrama &amp; Ramirez (2001). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El objetivo del presente trabajo es el de evaluar la ornitofauna presente en el PNT y proporcionar pautas sobre su valor biol&oacute;gico hasta ahora subestimado. Es as&iacute; que el presente trabajo presenta informaci&oacute;n a cerca de la riqueza espec&iacute;fica de aves del Parque Nacional Tunari y su importancia en cuanto a la conservaci&oacute;n de aves end&eacute;micas y amenazadas que se encuentran presentes en esta &aacute;rea protegida. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>&Aacute;reas de estudio </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El PNT comprende a las provincias de Ayopaya, Cercado, Quillacollo, Chapare y Tapacar&iacute; del departamento de Cochabamba. Tiene una superficie aproximada de 300.000 hect&aacute;reas, con un rango altitudinal que oscila entre los 2.750 y 4.400 m (Suarez 1986, Cardozo 1988, Marconi 1992, SERNAP 2000). Re&uacute;ne tres zonas principales: Puna y valles al sur y ceja de monte al norte. El clima en la vertiente sur es templado (mesot&eacute;rmico) con niveles de precipitaci&oacute;n anual inferiores a los 600 mm en la regi&oacute;n de valles secos interandinos; en la zona de la puna presenta un ombrotipo pluviestracional, mientras que hacia la ceja de monte (Navarro &amp; Maldonado 2002). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hidrogr&aacute;ficamente corresponde a la cuenca Superior del Amazonas, las subcuencas de los r&iacute;os Beni y Mamor&eacute;. Los r&iacute;os de la cuenca del Tunari son tributarios del r&iacute;o Altamachi, Esp&iacute;ritu Santo y Grande (Fundaci&oacute;n Sim&oacute;n I Pati&ntilde;o 1999). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el presente trabajo se inventariaron a las aves en un total de 14 localidades, cubriendo un rango altitudinal comprendido entre los 2.800 a 4.100 m, desde octubre de 1998 a marzo de 2005 (<a href="#f1">Fig. 1</a>). La clasificaci&oacute;n de las zonas de vida correspondiente a cada localidad esta realizada en funci&oacute;n a Hennessey et al. (2003). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v41n2/figura_a06_1.gif" width="580" height="718"></font></P >     <blockquote>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>1) 	Liriuni (2.800 a 3.000 m, 17&ordm;19&rsquo;S 66&ordm;20&rsquo;W) </B>(Zona de valle y transici&oacute;n a puna) Situada al sureste del PNT, a las faldas de la cordillera del Tunari. Es un lugar muy frecuentado por la gente por las aguas termales, tambi&eacute;n es un ambiente muy degradado por cultivos y algunas plantaciones de &aacute;rboles de <I>Eucalyptus globulus</I>, queda muy poco de la vegetaci&oacute;n potencial de <I>Carica quercifolia</I>, <I>Kageneckia lanceolata</I>, <I>Jacaranda mimosifolia</I>, <I>Tipuana tipu </I>y <I>Erythrina falcata</I>, actualmente solamente est&aacute;n presentes etapas seriales de <I>Eupatorium buniifolium </I>y <I>Dodonaea viscosa </I>(&ldquo;chacateales&rdquo;) (Navarro 1997) (<a href="#f2">Fig. 2a</a>). </font></p> </blockquote>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2"></a><img src="/img/revistas/reb/v41n2/figura_a06_2.jpg" width="579" height="760"></font></P >     <blockquote>       ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>2) 	Parque Tunari km 3 (2.800 a 3.000 m, 17 <Sup>o</Sup>20&rsquo; S y 66<Sup>o</Sup>08&rsquo; W)</B>(Zona de valle y transici&oacute;n a puna) Presenta un caso similar al de Liriuni y representa una de las zonas m&aacute;s visitadas por la gente, debido a la presencia de un parque recreativo. Existen grandes extensiones reforestadas con varias especies de eucaliptos y pinos. Se puede observar a su vez un sendero &ldquo;ecol&oacute;gico&rdquo; que se inicia a la entrada del parque y que termina en el km 12 del PTN, pero que atraviesa principalmente los bosques de eucaliptos y pinos que no son los m&aacute;s interesantes desde un punto de vista conservacionista y educativo. </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>3) 	Microcuenca Taqui&ntilde;a (2.800-3.800 m, 17 <Sup>o</Sup>18&rsquo; S y 66<Sup>o</Sup>10&rsquo;W) </B>(Zona de valle, transici&oacute;n a puna y puna -<I>Polylepis</I>) Se encuentra ubicada en el cant&oacute;n Santa Ana de Cala Cala de la provincia Cercado. En la zona pune&ntilde;a del estudio (3.100 a 3.800 m) se observan bosques relictuales de <I>Polylepis besseri </I>asociados a pastizales de <I>Festuca </I>spp. Otras especies vegetales presentes en estos bosques son: <I>Puya atra</I>, <I>Escallonia resinosa, Schinus andinus, Baccharis </I>spp<I>., Gynoxys glabriuscula, Berberis rariflora, Calceolaria parvifolia </I>y <I>Nothoscordum andicola</I>, en las cercan&iacute;as a quebradas y r&iacute;os est&aacute;n presentes <I>Minthostachys andina </I>y <I>Kageneckia lanceolata </I>(Arias 1995). La zona comprendida entre los 2.750 a 3.000 corresponde a una asociaci&oacute;n vegetal de <I>Baccharis, Dodonaea </I>y <I>Schinus</I>, m&aacute;s propia de los valles interandinos de Bolivia. Otras especies presentes en esta zona son: <I>Baccharis dracunculifolia</I>, <I>Buddleja tucumanensis, Kageneckia lanceolata, Carica quercifolia </I>y <I>Minthostachys andina</I>. En la parte m&aacute;s cercana a los r&iacute;os se observan otras especies vegetales como el sauco (<I>Zanthoxylum coco</I>), molle (<I>Schinus molle</I>), tipa (<I>Tipuana tipu</I>) y algunos k&rsquo;i&ntilde;is <I>(Acacia macracantha</I>) (Arias 1995). En las zonas m&aacute;s degradadas se observan especies muy resistentes e invasivas como <I>Dodonaea viscosa</I> y <I>Eryngium paniculatum</I>. </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>4) 	Candelaria norte (3.550 a 3.850 m, 17&ordm;15&rsquo;S y 65&ordm;55&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) Es una localidad situada en la regi&oacute;n este del PNT. Est&aacute; intensamente cultivada en las laderas de los cerros. Todav&iacute;a existen peque&ntilde;os fragmentos de bosques de <I>Polylepis besseri </I>en el sector m&aacute;s sure&ntilde;o y <I>P. racemosa</I> hacia el oriente, donde existe un peque&ntilde;o contacto con la ceja de monte que produce un incremento en la humedad. Otra planta interesante que puede encontrarse en las laderas es la <I>Puya raimondii </I>que es m&aacute;s abundante en algunas quebradas casi inaccesibles (<a href="#f2">Fig. 2b</a>). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>5) 	Candelaria sur (3.300 a 3.600 m, 17&ordm;16&rsquo;S y 65&ordm;54&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) La composici&oacute;n flor&iacute;stica del bosque muestra 29 especies vegetales distribuidas en 16 familias, siendo Asteraceae y Rosaceae las m&aacute;s abundantes. En el estrato arb&oacute;reo se registraron cuatro especies, en el arbustivo 15 y en el herb&aacute;ceo 10. Es m&aacute;s diversa que Candelaria norte, pero en esta localidad existen plantaciones de eucalipto y pino que han sustituido a la vegetaci&oacute;n nativa en varios sectores (Balderrama &amp; Herzog datos no publicados). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>6) 	Parque Tunari km12 (3.350 a 3.650 m, 17&ordm;19&rsquo;S y 66&ordm;08&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) Es un peque&ntilde;o relicto de bosque de <I>Polylepis besseri </I>de aproximadamente 10 ha; dentro de este fragmento se encuentran varios cultivos, principalmente de tub&eacute;rculos. Este fragmento de bosque se encuentra intercalado con parcelas de cultivo, algunas veces son abandonadas y tambi&eacute;n rodeada por plantaciones de eucalipto y pino. En esta localidad las familias de plantas m&aacute;s abundantes son Asteraceae, Poaceae y Bromeliaceae (Balderrama &amp; Ramirez 2001). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>7) 	Thola Pujru (3.400 a 3.600 m, 17&ordm;17&rsquo;S y 66&ordm;13&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) Es una comunidad peque&ntilde;a situada a 15 km de Pairumani. Se encuentran peque&ntilde;os relictos de bosques de Kewi&ntilde;a (<I>Polylepis besseri</I>) y Aliso (<I>Alnus acuminata</I>) bien conservados, tambi&eacute;n el sotobosque es muy rico en especies principalmente de <i>Baccharis </i>spp<i>.</i>y <i>Berberis</i>spp. y otras especies herb&aacute;ceas <a href="#f2">(Fig. 2c</a>). En esta cuenca los bosques de kewi&ntilde;a son los que dominan en sus diferentes estados de sucesi&oacute;n hacia el disclimax, por la quema y cultivos.xisten pocas plantaciones de eucalipto y pino. La superficie total de la cobertura de bosque de kewi&ntilde;a es de aproximadamente 20.7 ha (M. Zarate, com. pers. 2006).</font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>8) San Miguel (3.700 a 3.900 m, 17&ordm;16&rsquo;S y 66&ordm;20&rsquo;W)</b> (Zona de puna -<i>Polylepis</i>) Es una comunidad asentada en la prepuna sur de la Cordillera del Tunari a 22 km de Quillacollo. Esta localidad est&aacute; caracterizada por la presencia de bosques de <i>Polylepis besseri </i>ssp. <i>subtusalbida </i>y <i>Citharexylum punctatum</i>. Presenta una elevada humedad ambiental lo que promueve una alta diversidad de especies vegetales. Existen varios fragmentos de bosques rodeados por parcelas cultivadas. En esta localidad existen programas de agroforester&iacute;a, con una alta diversidad de especies vegetales y animales (Balderrama &amp; Ramirez 2001). Se encuentra registrado un total de 135 especies de plantas, correspondiendo a 96 g&eacute;neros y 42 familias. Las familias con mayor n&uacute;mero de especies son Asteraceae, Poaceae y Caryophyllaceae. Del total de especies registradas, seis est&aacute;n presentes en el estrato arb&oacute;reo, 20 en el estrato arbustivo y 109 en el estrato herb&aacute;ceo (Ram&iacute;rez 2003). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>9)Laphia (3.600 a 3.900 m, 17&ordm;15&rsquo;S y 66&ordm;14&rsquo;W) </b>(Zona de puna -<I>Polylepis</I>) La composici&oacute;n flor&iacute;stica presenta especies propias de bosques andinos, como: <I>Polylepis besseri </I>subsp. <I>subtusalbida</I>, <I>Berberis commutata</I>, <I>Salpichroa glandulosa</I>, <I>Tristerix penduliflorus </I>y <I>Calceolaria engleriana</I>. En general existen pajonales enanos; la vegetaci&oacute;n boscosa es estratificada en arbustedas y herbazales medianos a peque&ntilde;os. La zona boscosa se encuentra principalmente alrededor del centro de la comunidad. La flora se distribuye en 30 familias con 54 g&eacute;neros y 62 especies, las familias con mayor n&uacute;mero de especies son: Asteracea con 16 y Scrophulariaceae con cuatro (Limachi 2002). Este es probablemente el bosque de <i>Polylepis besseri </i>con mayor extensi&oacute;n en todo el departamento de Cochabamba. Sin embargo, esta zona se caracteriza por la producci&oacute;n de carb&oacute;n, por lo que la explotaci&oacute;n y p&eacute;rdida del bosque es alarmante. </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>10) Chorojo (3.700 a 3.800 m, 17&ordm;27&rsquo;S y 66&ordm;28&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) La composici&oacute;n flor&iacute;stica del bosque muestra 34 especies vegetales distribuidas en 18 familias, siendo Asteraceae y Poaceae las familias m&aacute;s abundantes. En el estrato arb&oacute;reo se registra una sola especie, en el arbustivo 12 y en el herb&aacute;ceo 21. Este es un bosque bastante antiguo con &aacute;rboles muy gruesos y altos. Tambi&eacute;n se tienen programas de agroforester&iacute;a, pero a&uacute;n as&iacute; la desaparici&oacute;n de los relictos de bosque es cada vez m&aacute;s alta (Balderrama &amp; Herzog, datos no publicados). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>11) Pintumayu (3.600 a 3.900 m, 17&ordm;19&rsquo;S y 66&ordm;09&rsquo;W) </B>(Zona de puna -<I>Polylepis</I>) (<a href="#f2">Fig. 2d</a>). La mayor parte de esta cuenca est&aacute; cubierta por bosques de eucalipto y pino. Existen microbosques hasta matorrales de <I>Polylepis</I>, cuya altura se encuentra entre 57 m de alto. Estos bosques est&aacute;n restringidos hacia las m&aacute;rgenes de los bosques ex&oacute;ticos, laderas con pendientes fuertes y suelos rocosos. Tambi&eacute;n existen bosques mixtos de kewi&ntilde;a con eucalipto, donde las poblaciones de kewi&ntilde;a se mantienen relativamente densas a pesar de los &aacute;rboles de eeucalipto con 20-25 m de alto. Otro tipo de bosque es el dominado por eeucaliptos, donde los bosques de Kewi&ntilde;a han sido anulados casi por completo. El bosque de Eucalipto es alto hasta casi 30 m, con el suelo cubierto por pajonal. Existen otros bosques mixtos de kewi&ntilde;a con pino, donde la kewi&ntilde;a tambi&eacute;n ha quedado dentro de las plantaciones de pino. En esta etapa serial de disclimax , los bosques de kewi&ntilde;a todav&iacute;a sobreviven con relativamente baja densidad. Tambi&eacute;n existen densos bosques de pino, cuya altura aproximada es de 20 m de alto, donde los bosques de kewi&ntilde;a han sido reducidos por la cobertura del dosel del pino (M. Zarate, com. pers. 2006). </font></p>       ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>12) Janko Khala (3.900 a 4.000 m, 17&ordm;15&rsquo;S y 66&ordm;22&rsquo;W) </B>(Zona de puna) (<a href="#f2">Fig. 2e</a>). Comunidad que se encuentra situada en la Puna sur de la Cordillera del Tunari. La vegetaci&oacute;n caracter&iacute;stica son los pajonales de <I>Stipa ichu </I>con arbustedas de <I>Baccharis </I>spp. La topograf&iacute;a es escabrosa, con una modelaci&oacute;n glaciar. Tambi&eacute;n existen peque&ntilde;as lagunas cercanas a la localidad, donde pueden encontrarse algunos bofedales peque&ntilde;os con presencia principalmente de <I>Plantago tubulosa. </I>En esta localidad tambi&eacute;n ha sido registrado el gato andino (<I>Oreailurus jacobita</I>) considerado en peligro de extinci&oacute;n, siendo el &uacute;nico registro comprobado en Cochabamba (Villalba et al. 2004). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>13) Laguna Larati (3.600 m, 17&ordm;20&rsquo;S y 66&ordm;01&rsquo;W) </B>(Zona de puna) Esta laguna se encuentra aproximadamente a 15 km del Cant&oacute;n Sacaba de la provincia Chapare en el sector suroeste del PNT. Tiene una profundidad aproximada de 2 m en &eacute;poca de lluvias y llega hasta casi secarse durante la &eacute;poca seca, su &aacute;rea aproximada es de 80 ha. Presenta sedimentos de textura fina y los porcentajes de materia org&aacute;nica var&iacute;an de acuerdo al sector de la laguna. Esta laguna tiene la particularidad de ser llenada por los pobladores una vez al a&ntilde;o, mediante el desv&iacute;o de un arroyo aleda&ntilde;o a la zona, para luego utilizar el agua para riego de sus cultivos. En esta laguna se observan plantas hel&oacute;fitas de aguas profundas<I>Typha dominguensis</I>, <I>Hydrocotyle ranunculoides</I> y <I>Schoenoplectus californicus</I>, plantas hidr&oacute;fitas sumergidas <I>Myriophyllum quitense </I>y <I>Potamogeton pusillus </I>y plantas hidr&oacute;fitas anfif&iacute;ticas <I>Potamogeton ferrugineus </I>(Arrazola 2000). </font></p>       <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><B>14) Laguna Wara Wara y alrededores (4.050 m, 17&ordm;15&rsquo;S y 65&ordm;55&rsquo;W) </B>(Zona de puna) (<a href="#f2">Fig. 2f</a>) Laguna situada en la puna de la parte central del PNT. Tiene una superficie de 26 ha y una profundidad m&aacute;xima de 10 m. Los afluentes principales son dos arroyos originados por agua de deshiele, debido a que es una laguna glaciar de aguas fr&iacute;as. Los sedimentos son arenolimosos, especialmente en las orillas y el contenido de materia org&aacute;nica es m&iacute;nimo (Maldonado &amp; Goitia 1992). Las zonas aleda&ntilde;as a la laguna presentan bofedales planos donde son caracter&iacute;sticas las especies vegetales <I>Hypsela reniformis</I> y <I>Plantago tubulosa</I>; en aguas someras aleda&ntilde;as pueden encontrarse comunidades de <I>Lachemilla diplophylla</I> y <I>Lilaeopsis macloviana</I>. La laguna presenta comunidades de plantas hidr&oacute;fitas anfif&iacute;ticas de <I>Ranunculus flagelliformes</I> y plantas hidr&oacute;fitas de aguas profundas de <I>Callitriche deflexa</I>, rodeadas por pajonales de <I>Stipa ichu </I>y <I>Festuca </I>spp. (Maldonado &amp; Goitia, 1992). </font></p> </blockquote>     <p align="justify">&nbsp;</p>     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"></B>La obtenci&oacute;n de los registros de las aves en cada localidad fue realizada mediante transectas altitudinales y longitudinales, anot&aacute;ndose a todas las aves observadas o escuchadas en cada sitio. Tambi&eacute;n fueron realizadas grabaciones de los cantos y llamadas de las aves para una mejor identificaci&oacute;n de las mismas, metodolog&iacute;a sugerida por Parker (1991). Tambi&eacute;n se armaron redes de neblina en las localidades donde fue posible para maximizar el esfuerzo en la obtenci&oacute;n de datos sobre la riqueza de especies de aves presentes en el PNT (Ralph et al. 1995). La identificaci&oacute;n de las aves fue realizada mediante las gu&iacute;as de aves de Fjelds&aring; &amp; Krabbe (1990) y Ridgely &amp; Tudor (1989, 1994); la identificaci&oacute;n de los cantos de aves fue realizada mediante colaboraci&oacute;n de S. K. Herzog y el CD ROM Aves de Bolivia de Mayer (2000). Tambi&eacute;n se consult&oacute; la lista de aves para el Parque Tunari presentada en Hennessey et al. (2003). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para describir el endemismo de aves se utiliz&oacute; la definici&oacute;n de Stattersfield et al. (1998) que consideran a las especies end&eacute;micas como especies cuyo &aacute;mbito de distribuci&oacute;n est&aacute; restringido a un &aacute;rea menor a 50.000 km<Sup>2</Sup>. Es as&iacute; que regiones con un alto n&uacute;mero de dichas especies fueron declaradas como &aacute;reas de endemismo de aves (EBA siglas en ingl&eacute;s), las cuales fueron clasificadas de acuerdo a su prioridad para la conservaci&oacute;n. En Bolivia existen reconocidas cinco EBAs. De estas cinco EBAs, dos est&aacute;n en el PNT: Andes altos de Bolivia y Argentina (EBA 056) y Yungas altos de Bolivia y Per&uacute; (EBA 055). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otro enfoque utilizado para considerar el endemismo en aves fue el publicado por Stotz et al. (1996), quienes dividieron al Neotr&oacute;pico en regiones zoogeogr&aacute;ficas, de las cuales tres est&aacute;n presentes en Bolivia: Amazon&iacute;a del Sur, Andes Centrales y Centro de Sudam&eacute;rica. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados</b> </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fue registrado un total de 187 especies de aves distribuidas en 38 familias, siendo las m&aacute;s ricas en especies Tyrannidae con 28, seguida por Emberizidae con 24 y Furnariidae con 15 (<a href="#a1">Anexo 1</a>). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">De todas las especies registradas, tres son end&eacute;micas de Bolivia (<I>Aglaeactis pamela, Poospiza garleppi </I>y <I>Oreopsar bolivianus</I>) (<a href="#t1">Tabla 1</a>, <a href="#f3">Fig. 3</a>), 11 son end&eacute;micas a la EBA de los Andes altos de Bolivia y Argentina (056) y dos end&eacute;micas a los Yungas altos de Bolivia y Per&uacute; (055) (<a href="#t2">Tabla 2</a>). En relaci&oacute;n al endemismo zoogeogr&aacute;fico sugerido por Stotz et al. (1996), fueron registradas 31 especies de aves end&eacute;micas a los Andes Centrales (CAN) (Hennessey et al. 2003) (<a href="#t2">Tabla 2</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t1"></a><img src="/img/revistas/reb/v41n2/tabla_a06_1.gif" width="575" height="280"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f3"></a><img src="/img/revistas/reb/v41n2/figura_a06_3.gif" width="569" height="214"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t2"></a><img src="/img/revistas/reb/v41n2/tabla_a06_2.gif" width="572" height="514"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tambi&eacute;n fueron registradas nueve especies con cierto tipo de amenaza; de ellas una especie en peligro de extinci&oacute;n (<I>P. garleppi</I>), una especie vulnerable (<I>Agriornis andicola</I>) y siete especies casi amenazadas (BirdLife International 2004) (<a href="#t3">Tabla 3</a>). </font></P >     <P   align="center" ><a name="t3"></a><img src="/img/revistas/reb/v41n2/tabla_a06_3.gif" width="573" height="234"></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Un total de 27 especies se constituye en nuevos registros altitudinales en Bolivia, en relaci&oacute;n a Hennessey et al. (2003) (<a href="#t4">Tabla 4</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t4"></a><a href="/img/revistas/reb/v41n2/tabla_a06_4.gif"><img src="/img/revistas/reb/v41n2/tabla_a06_4_.gif" width="350" height="267" border="0"></a></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Adem&aacute;s, se observaron 57 registros de especies nuevas y siete registros de familias nuevas para el PNT, en relaci&oacute;n a Hennessey et al. (2003) (<a href="#a1">Anexo 1</a>). Cinco especies reportadas para el PNT en Hennessey et al. (2003) no fueron encontradas durante el trabajo de campo del presente estudio (<a href="#a1">Anexo 1</a>). Por &uacute;ltimo, Hennessey et al. (2003) adem&aacute;s citan a <I>Veniliornis nigriceps</I>, <I>Piculus rivolii </I>(Picidae) y <I>Elaenia pallatangae </I>(Tyrannidae) para el PNT, cuyos registros actualmente est&aacute;n considerados dudosos (S.K. Herzog, com. pers. 2006), y por lo tanto no se incluye a estas especies en el <a href="#a1">Anexo 1</a>. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se pudo observar que los bosques de <I>Polylepis </I>de la zona pune&ntilde;a representan el h&aacute;bitat m&aacute;s importante para la conservaci&oacute;n de la avifauna del Parque Nacional Tunari y Cochabamba, ya que albergan al 78% de todas las especies de aves amenazadas registradas en el PNT y el 32% de las especies de aves amenazadas registradas en Cochabamba. Tambi&eacute;n se observ&oacute; que el 91% de las aves end&eacute;micas de la EBA 056 (Andes Altos de Bolivia y Argentina) registradas en el PNT y el 71% de las mismas registradas en Cochabamba est&aacute;n presentes en estos bosques. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La informaci&oacute;n sobre la avifauna del PNT a un principio era muy confusa, probablemente debido a que los l&iacute;mites no estaban bien definidos. Es as&iacute; que Su&aacute;rez (1986) afirmaba que el PNT era muy pobre en cuanto a fauna y flora y a&ntilde;adiendo que Jos&eacute; Cabot a fines de 1985 identific&oacute; 58 especies de aves y ninguna digna de menci&oacute;n salvo la paloma <I>Columba fasciata </I>que es propia de bosques h&uacute;medos subtropicales. El SERNAP (2000) menciona que hasta el momento de su publicaci&oacute;n se encontraban registradas 23 especies de aves, a&uacute;n menos que las anteriormente mencionadas por Su&aacute;rez (1986). Nuevamente el SERNAP (2001) presenta los datos no publicados de Jos&eacute; Balderrama donde menciona que en el PNT existen 163 especies de aves. Posteriormente se presenta una lista de las aves del PNT m&aacute;s detallada en Hennessey et al. (2003), donde se registran 134 especies de aves. Con el presente estudio se registraron 190 especies de aves, de las cuales 56 son nuevos registros para el PNT, que representan en total un 80% de todas las aves presentes en las regiones de puna y transici&oacute;n de valle a puna del pa&iacute;s (Hennessey et al. 2003). Es as&iacute; que el PNT se constituye en una de las &aacute;reas protegidas m&aacute;s ricas en especies de la regi&oacute;n pune&ntilde;a de Bolivia. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El PNT alberga a tres especies de aves end&eacute;micas de Bolivia, que representan el 50% de las end&eacute;micas existentes entre la Puna y la transici&oacute;n de valle a puna del pa&iacute;s, constituy&eacute;ndose tambi&eacute;n en una de las &aacute;reas protegidas con m&aacute;s especies de aves end&eacute;micas en estas zonas (Hennessey et al. 2003, Rocha et al. 2003). De las especies de aves end&eacute;micas registradas en el PNT, <I>Poospiza garleppi </I>es la m&aacute;s amenazada y est&aacute; catalogada como en peligro de extinci&oacute;n (BirdLife International 2004). Esta especie solo est&aacute; registrada en el departamento de Cochabamba y est&aacute; casi restringida a la cuenca del Tunari (Fjelds&aring; &amp; Krabbe 1990, Hjarsen 1997, SERNAP 2000, Balderrama &amp; Ramirez 2001, Balderrama &amp; Herzog datos no publicados). Esta ave end&eacute;mica y amenazada no fue reportada en esta &aacute;rea protegida por BirdLife International (1992), aun cuando en la misma publicaci&oacute;n se mencionaba que fueron colectados varios espec&iacute;menes de Liriuni y Monte Tunari, localidades situadas dentro del PNT. Tampoco figura en la publicaci&oacute;n m&aacute;s reciente sobre las aves amenazadas de Bolivia (Rocha et al. 2003). Esta misma especie fue incluida dentro del PNT por el SERNAP (2000), Balderrama &amp; Ram&iacute;rez (2001) y Hennessey et al. (2003). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Recientemente, se ha establecido que la mayor&iacute;a de su poblaci&oacute;n est&aacute; situada en esta &aacute;rea protegida (Balderrama &amp; Herzog datos no publicados), por lo cual su conservaci&oacute;n depende en gran medida de las actividades en conservaci&oacute;n a realizarse en el PNT. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el PNT se registraron 11 especies de aves end&eacute;micas a los Andes altos de Bolivia y Argentina (EBA 056), que representa casi el 60% de aves end&eacute;micas a esta EBA registradas en el pa&iacute;s (Stattersfield et al. 1998, Hennessey et al. 2003). Adem&aacute;s existen en el PNT nueve especies de aves amenazadas de extinci&oacute;n, constituy&eacute;ndose en una de las &aacute;reas protegidas m&aacute;s importantes en este sentido y especialmente para la zona Pune&ntilde;a y de transici&oacute;n a valles (BirdLife International 2004). Las especies <I>Agriornis andicola</I>, <I>Phleocryptes melanops</I>, <I>P. garleppi </I>y <I>Sicalis luteocephala </I>no han sido registradas en ning&uacute;n otro &aacute;rea protegida en todo el pa&iacute;s (Hennessey et al. 2003), dependiendo su conservaci&oacute;n de las decisiones a ser tomadas en el PNT. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El conocimiento de la diversidad de aves del PNT todav&iacute;a no es completo, ya que no existen estudios en el sector yungue&ntilde;o del parque, debido principalmente a la falta de una definici&oacute;n clara de sus l&iacute;mites. Pero existen estudios en el sector yungue&ntilde;o pr&oacute;ximos al PNT (Balderrama 2005), donde se han registrado a especies end&eacute;micas <I>Grallaria erythrotis</I> y <I>Schizoeaca harterti</I>; cerca a 54 especies de aves a&uacute;n no registradas en el PNT, lo cual incrementar&iacute;a el valor de conservaci&oacute;n del PNT. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Aspectos de conservaci&oacute;n </b></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A pesar de que el PNT es considerado como &ldquo;cr&iacute;ticamente importante para la conservaci&oacute;n&rdquo; (Fjelds&aring; &amp; Kessler, 2004) y la vertiente sur un &aacute;rea importante para la conservaci&oacute;n de aves (AICA) (Soria &amp; Hennessey 2005), debido a la alta diversidad y endemismo de aves altoandinas que presenta, enfrenta muchos problemas de &iacute;ndole ecol&oacute;gico, social y pol&iacute;tico. La Cooperaci&oacute;n T&eacute;cnica Suiza (COTESU) con el objetivo de proteger las cuencas de la ladera sur del PNT, implement&oacute; el Programa de Repoblamiento Forestal desde el a&ntilde;o 1978 con plantaciones extensivas de eucaliptos y pinos (Crespo 1989). Tambi&eacute;n el Programa Forestal PROFOR incentiv&oacute; el desarrollo de estas plantaciones con fines comerciales, as&iacute; como dom&eacute;sticos y en menor medida la forestaci&oacute;n asociada a la protecci&oacute;n contra la erosi&oacute;n. Mediante este proyecto se plantaron m&aacute;s de 15 millones de &aacute;rboles en la zona andina de Cochabamba. Cerca del 80% fue de <I>Eucalyptus globulus </I>y <I>Pinus radiata </I>(Smith 1994). La introducci&oacute;n de especies ex&oacute;ticas es tan antigua y tan extendida que una encuesta realizada a la poblaci&oacute;n boliviana sobre la conservaci&oacute;n de la biodiversidad (Pacheco &amp; Rojas 1996) resalt&oacute; que la gente no diferencia entre especies nativas y no nativas; el 76% de los encuestados consider&oacute; importante la conservaci&oacute;n del pino, siendo &eacute;sta una especie introducida. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aunque en principio, el objetivo principal de la reforestaci&oacute;n de las cuencas con especies ex&oacute;ticas fue una medida r&aacute;pida de protecci&oacute;n contra las inundaciones que ocasionaban muchos da&ntilde;os -debido a que se realiz&oacute; sin una debida planificaci&oacute;n ni suficientes bases t&eacute;cnicas y cient&iacute;ficas- actualmente ha derivando en problemas de mayor &iacute;ndole como la amenaza a la biodiversidad y la disponibilidad de agua (Aleman 1997, Hjarsen 1997, Cavelier &amp; Santos 1999). La introducci&oacute;n de especies ex&oacute;ticas como el pino y el eucalipto ocasiona un cambio en la biodiversidad; este caso fue estudiado por algunos autores como Hjarsen (1997), Fjelds&aring; &amp; Hjarsen (1998) y Balderrama et al. (en prep.) que observaron que la estructura de la comunidad, riqueza de especies, densidad de individuos y abundancia de especies de rangos restringidos var&iacute;an significativamente entre las plantaciones de &aacute;rboles ex&oacute;ticos en relaci&oacute;n a h&aacute;bitats de bosques naturales. Existen otros factores de estos &aacute;rboles ex&oacute;ticos que son negativos para el medio ambiente, como podr&iacute;an ser la acumulaci&oacute;n de ac&iacute;culas y la alta biomasa de ra&iacute;ces finas y alcoholes de las hojas de eucalipto que matan a las bacterias del suelo, adem&aacute;s de la reducida biomasa que aportan, tambi&eacute;n consumen mucha agua, los niveles de nutrientes en el suelo se vuelven bajos y pueden incrementar la erosi&oacute;n del suelo (Cavelier &amp; Santos 1999, Fjelds&aring; &amp; Kessler 2004). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otro problema importante es el mal uso del suelo, mayormente relacionado con comunidades rurales asentadas en la Cordillera, ya que esta poblaci&oacute;n se dedica principalmente actividades agr&iacute;colas y pecuarias. La agricultura migratoria tradicional, el mal uso del agua para riego, el sobrepastoreo, el uso irracional de los bosques nativos e incendios entre otros, generan problemas de erosi&oacute;n, empobrecimiento del suelo, riesgos de inundaci&oacute;n, p&eacute;rdida de cobertura vegetal adem&aacute;s de la p&eacute;rdida de fauna, lo que repercute tambi&eacute;n en da&ntilde;os ambientales, econ&oacute;micos y sociales para los mismos pobladores (PROMIC 2003). Aunque en 2001, el Centro de Levantamientos Aeroespaciales (CLAS), propuso un plan de uso de suelos (PLUS) para el PNT, los resultados de esta consultor&iacute;a fueron poco difundidos y aplicados; de esta manera, las pr&aacute;cticas culturales referentes al suelo contin&uacute;an mal orientadas (Crespo et. al. 2005). Los campesinos no reciben capacitaci&oacute;n acerca del buen uso del suelo, principalmente aquellos que viven en comunidades alejadas, las cuales las condiciones del terreno son muy hostiles (C&oacute;rdova &amp; Ib&aacute;&ntilde;ez 1998). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los asentamientos urbanos se constituyen en otro problema para el PNT. Se realizan en forma desmedida y no planificada sobre las planicies aluviales de las cuencas del Parque, zona principal de recarga de acu&iacute;feros; siendo la Cordillera del Tunari, la principal proveedora del recurso agua para la regi&oacute;n de Cochabamba. Consecuentemente, los asentamientos van provocando una serie de da&ntilde;os ambientales, como la contaminaci&oacute;n de las aguas subterr&aacute;neas, disminuci&oacute;n de la capa fre&aacute;tica, erosi&oacute;n, disminuci&oacute;n de la permeabilidad de suelos y contaminaci&oacute;n de los mismos por la falta de tratamiento de los residuos s&oacute;lidos (CLAS 2001, Jef. Consult. PNT 2003, PROMIC 2003). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El incumplimiento de normas a nivel pol&iacute;tico institucional y de la poblaci&oacute;n en general se constituye en un gran problema de corrupci&oacute;n y a causa de ello se agudizan cada vez m&aacute;s los conflictos del P.N.T., donde el control es deficiente debido a su extensi&oacute;n y f&aacute;cil accesibilidad (Crespo et al. 2005). El PNT no cuenta con una gesti&oacute;n de &aacute;rea protegida, por lo cual no existe todav&iacute;a una pol&iacute;tica definida para el Parque. Por otra parte, el SNAP no incluye al PNT, lo cual repercute en la falta de recursos econ&oacute;micos y falta de inter&eacute;s por parte de las autoridades locales y estatales para resolver problemas tales como la ilegalidad de los asentamientos urbanos y sobreexplotaci&oacute;n de los recursos naturales en el Parque (DNCB 1997). As&iacute; mismo, la falta de articulaci&oacute;n entre los instrumentos de planificaci&oacute;n del SNAP y los planes de desarrollo municipal y departamental, limita las posibilidades de compatibilizar pol&iacute;ticas de conservaci&oacute;n y desarrollo; como tambi&eacute;n la insuficiente o inexistente coordinaci&oacute;n entre instituciones, organizaciones gubernamentales y no gubernamentales (ONG&lsquo;s) con las &aacute;reas protegidas (Crespo et al. 2005). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Existen pocos programas o proyectos relacionados a educaci&oacute;n ambiental o con fines de conservaci&oacute;n de la biodiversidad y desafortunadamente son solamente puntuales; no han sido aplicados al conjunto de todo el Parque. PROMIC desde 1991 aplica un m&eacute;todo para la reversi&oacute;n del proceso de degradaci&oacute;n en la Cordillera, atenuaci&oacute;n de los riesgos naturales y preservaci&oacute;n de los recursos naturales, particularmente los h&iacute;dricos, priorizando 9 de las 39 cuencas existentes entre Sacaba y Vinto (PROMIC 2003). Por su parte, el PCI (Project Concern International) se dedic&oacute; a incentivar la conservaci&oacute;n de bosques de <I>Polylepis </I>para contrarrestar el problema de la introducci&oacute;n de especies ex&oacute;ticas, para ello llev&oacute; a cabo un trabajo participativo en la comunidad de San Miguel (Municipio de Quillacollo) que se encuentra dentro de la Cordillera del Tunari. Se llev&oacute; a cabo un plan de manejo racional de los bosques, incluyendo la reforestaci&oacute;n con la instalaci&oacute;n de viveros de especies nativas que permitiesen la regeneraci&oacute;n de recursos forestales (Mardeshy &amp; Su&aacute;rez 2000). Agroecolog&iacute;a Universidad Cochabamba (AGRUCO/UMSS-COSUDE) trabaja en coordinaci&oacute;n con municipios, prefectura y comunidades a nivel de organizaciones y sindicatos. Su objetivo principal es la informaci&oacute;n, capacitaci&oacute;n y reflexi&oacute;n a las comunidades, acerca de la situaci&oacute;n legal y normativas que rigen en el Parque (Crespo et al. 2005). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Debido a que el Parque Nacional Tunari se constituye en una de las &aacute;reas protegidas m&aacute;s importantes en cuanto a diversidad y endemismo de aves de la regi&oacute;n altoandina de Bolivia, es muy importante la implementaci&oacute;n de programas de educaci&oacute;n ambiental a las comunidades presentes en el Parque y a los visitantes. Tambi&eacute;n es relevante la creaci&oacute;n de programas de desarrollo rural donde se de a conocer la importancia de los bosques nativos y pautas para un adecuado manejo de los recursos, as&iacute; como implementar sistemas de agroforester&iacute;a ventajosos para las comunidades y para el ecosistema. Otro paso importante es el desarrollo de programas de reforestaci&oacute;n adecuados con vegetaci&oacute;n nativa y no con especies ex&oacute;ticas que son ecol&oacute;gicamente desventajosas. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">A IdeaWild por la dotaci&oacute;n de equipo para la realizaci&oacute;n de gran parte del trabajo. Al Dr. Sebastian K. Herzog por su ayuda desinteresada en la identificaci&oacute;n de cantos y revisi&oacute;n del presente manuscrito. Al financiamiento de la Cooperaci&oacute;n Belga -VLIR - Proyecto Tunari y al Proyecto P03CC002 apoyado por el convenio ASDI - UMSS (DICyT). A la Asociaci&oacute;n ARMONIA Proyecto <I>Poospiza garleppi</I>. A los guardaparques del PNT y las comunidades donde se realizaron los censos. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aleman, F. 1997. Manejo de ecosistemas agrosilvopastoriles. Caso: Bosque nativo e implantado en subcuencas de la cordillera del Tunari. Tesis de maestr&iacute;a. CESU &ndash; Universidad Mayor de San Sim&oacute;n, Cochabamba, 80 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Arias, S. 1995. Inventariaci&oacute;n de la fauna y flora de la Cuenca Taqui&ntilde;a. Pp: 131-182. En: E. Daza (Ed.). Apuntes hist&oacute;ricos de la Cervecer&iacute;a Taqui&ntilde;a S.A. en ocasi&oacute;n de su Centenario-Ecolog&iacute;a y Medio Ambiente. Taqui&ntilde;a S.A. Cochabamba. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066149&pid=S1605-2528200600100000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Arrazola, B. V. 2000. Estudio de las comunidades vegetales acu&aacute;ticas de seis lagunas de los pisos mesotropical, supratropical y orotropical de Cochabamba. Tesis de Licenciatura en Biolog&iacute;a. Universidad Mayor de San Sim&oacute;n, Cochabamba. 106 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066150&pid=S1605-2528200600100000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Balderrama, T. 2005. Efecto de la alteraci&oacute;n de h&aacute;bitats sobre la avifauna en bosques de los pisos bioclim&aacute;ticos supratropical yungue&ntilde;o y supratropical pune&ntilde;o (Cochabamba - Bolivia). Tesis de Maestr&iacute;a, Universidad mayor de San Sim&oacute;n, Facultad de Ciencias y Tecnolog&iacute;a. Cochabamba. 112 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066151&pid=S1605-2528200600100000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Balderrama, J. &amp; M. Ram&iacute;rez. 2001. Diversidad y endemismo de aves en dos fragmentos de Bosque de <I>Polylepis besseri </I>en el Parque Nacional Tunari. Rev. Bol. Ecol. 9: 45-60. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BirdLife International. 1992. Aves amenazadas de las Am&eacute;ricas (Libro Rojo de BirdLife International/UICN) Cambridge. 852 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066153&pid=S1605-2528200600100000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">BIRDLIFE 	INTERNATIONAL. 2004. Threatened Birds of the World 2004. CD &ndash; ROM. Cambridge. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cardozo, A. 1988. &Aacute;reas protegidas de Bolivia. Asociaci&oacute;n Pro Defensa de la Naturaleza, La Paz, 84 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066155&pid=S1605-2528200600100000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cavelier, J. &amp; C. Santos. 1999. Efectos de plantaciones abandonadas de especies ex&oacute;ticas y nativas sobre la regeneraci&oacute;n natural de un bosque montano en Colombia. Rev. biol. Trop. 47(4): 1-7. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">CLAS (Centro de Levantamientos Aeroespaciales y Aplicaciones SIG). 2001. CD ROM: Elaboraci&oacute;n del Plan de Uso del Suelo. Parque Nacional Tunari. Universidad Mayor de San Sim&oacute;n. Cochabamba. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066157&pid=S1605-2528200600100000600010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">C&oacute;rdoba, J. y C, Ib&aacute;&ntilde;ez. 1998. An&aacute;lisis de los Sistemas Agropuecuarios en las &aacute;reas de influencia de las Cuencas &ldquo;La Llave&rdquo; y &ldquo;Huallaquea&rdquo;. Tesis de Licenciatura en Agronom&iacute;a. Fac. de Ciencias Agr&iacute;colas y Pecuarias &ldquo;Mart&iacute;n C&aacute;rdenas&rdquo;Universidad Mayor de San Sim&oacute;n. Cochabamba. 130 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Crespo, W. 1989. Influencia de la Reforestaci&oacute;n sobre la vegetaci&oacute;n nativa del Parque Nacional Tunari. Tesis de Licenciatura en Biolog&iacute;a. Facultad de Ciencias y Tecnolog&iacute;a. Universidad Mayor de San Sim&oacute;n, Cochabamba, 89 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066159&pid=S1605-2528200600100000600012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Crespo, M. S., S. K. Moya &amp; R. Quinteros. 2005. Parque Nacional Tunari: Perspectivas para la conservaci&oacute;n de la biodiversidad. Trabajo pr&aacute;ctico dirigido, para la obtenci&oacute;n del Diploma en &ldquo;Ecolog&iacute;a y Medio Ambiente&rdquo;. Universidad Mayor de San Sim&oacute;n, Cochabamba. 87 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">DNCB (Direcci&oacute;n Nacional de Conservaci&oacute;n de la Biodiversidad. 1997. Reglamento general de &aacute;reas protegidas. Coordinaci&oacute;n de Asesor&iacute;a Legal. La Paz. 186 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066161&pid=S1605-2528200600100000600014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjelds&aring;, J. 1993. The avifauna of the <I>Polylepis </I>woodlands of the Andean highlands: the efficiency of basing conservation priorities on patterns of endemism. Bird Conservation International 3: 37-55. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066162&pid=S1605-2528200600100000600015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjelds&aring;, J. &amp; T. Hjarsen. 1998. Needs for sustainable land management in biologically unique areas in the andean highland. Pp. 151-162. En: III Simposio Internacional de Desarrollo Sustentable de Monta&ntilde;as: entendiendo las interfaces ecol&oacute;gicas para la gesti&oacute;n de los paisajes culturales en los Andes. AMA, CLACS, CEPEIGE y Corporaci&oacute;n Editora Nacional. Quito. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066163&pid=S1605-2528200600100000600016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjelds&aring;, J. &amp; M. Kessler. 2004. Conservaci&oacute;n de la biodiversidad de los bosques de <I>Polylepis </I>de las tierras altas de Bolivia. Una contribuci&oacute;n al manejo sustentable en los Andes. DIVA Technical Report 11.Editorial FAN, Santa Cruz de la Sierra. 214 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066164&pid=S1605-2528200600100000600017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Fjelds&aring; J. &amp; N. Krabbe. 1990. Birds of the high Andes. University of Copenhagen &amp; Svendborg, Apollo Books. Copenhagen. 876 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066165&pid=S1605-2528200600100000600018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">FUNDACI&Oacute;N SIM&Oacute;N I. PATI&Ntilde;O (Ed.). 1999. Areas Protegidas en el Departamento de Cochabamba. Rev. Trimestral, Bolivia Ecol&oacute;gica 13: 1-24. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066166&pid=S1605-2528200600100000600019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hennessey, A. B., S. K. Herzog &amp; F. Sagot. 2003. Lista anotada de las aves de Bolivia. Quinta edici&oacute;n. Asociaci&oacute;n Armon&iacute;a/ BirdLife International, Santa Cruz de la Sierra. 238 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066167&pid=S1605-2528200600100000600020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Herzog, S.K., R. Soria A., A. Troncoso J. &amp; E. Matthysen. 2002. Composition and spatial structure of avian mixed-species flocks in a high-Andean Polylepis forest in Bolivia. Ecotropica 8: 133-143. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Herzog, S.K, R Soria A. &amp; E Matthysen. 2003. Seasonal variation in avian community composition in a high-Andean Polylepis (Rosaceae) forest fragment. Wilson Bull. 115: 438-447. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hjarsen, T. 1997. Bird fauna and vegetation in natural woodlands and <I>Eucalyptus </I>plantations in the high Andes in Bolivia. Implications for development of sustainable agroforestry techniques. Proceedings of the IUFRO Conference on Silviculture and Improvements of <I>Eucalyptus</I>. EMBRAPA, 4: 89-94. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066170&pid=S1605-2528200600100000600023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hjarsen, T. 1998. Biological diversity in high altitude woodlands and plantations in the Bolivian Andes: Implications for development of sustainable land-use. Pp. 145-149. En: III Simposio Internacional de Desarrollo Sustentable de Monta&ntilde;as: entendiendo las interfaces ecol&oacute;gicas para la gesti&oacute;n de los paisajes culturales en los Andes. AMA, CLACS, CEPEIGE y Corporaci&oacute;n Editora Nacional. Quito. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066171&pid=S1605-2528200600100000600024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Jefatura-Consultora del Parque Nacional Tunari. 2003. Informaci&oacute;n para reuniones t&eacute;cnicas de asentamientos urbanos ubicados en el Parque Nacional Tunari. Prefectura del departamento de Cochabamba. 98 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066172&pid=S1605-2528200600100000600025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Limachi, M. 	2002. Evaluaci&oacute;n del Bosque de <I>Polylepis besseri </I>subsp. <I>subtusalbida </I>(Kessler, 1995), en la Comunidad Laphia, Cochabamba-Bolivia. Tesis de Licenciatura en Biolog&iacute;a. Universidad Mayor de San Sim&oacute;n. Cochabamba. 101 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066173&pid=S1605-2528200600100000600026&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Maldonado, M. &amp; E. Goitia. 	1992. Aporte Limnol&oacute;gico al desarrollo de la piscicultura en Cochabamba. Pp. 339-349. En: Los recursos h&iacute;dricos en Bolivia y su dimensi&oacute;n ambiental. Ed. Arol. Cochabamba-Bolivia. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066174&pid=S1605-2528200600100000600027&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Marconi, M. 1992. Capitulo XI. El Sistema Nacional de &Aacute;reas Protegidas y las &Aacute;reas Bajo Manejo Especial. Pp. 321-370. En: Marconi (Ed.). Conservaci&oacute;n de la Diversidad Biol&oacute;gica en Bolivia. Centro de Datos para la Conservaci&oacute;n. La Paz. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066175&pid=S1605-2528200600100000600028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mardeshi, M. y R, Su&middot;rez. 2000. Proceso Participativo en la Conservaci&oacute;n del Bosque de <I>Polylepis </I>en la comunidad de San Miguel, Cochabamba. Pp. 50. <I>En</I>: Res&uacute;menes I Congreso Internacional de Ecolog&iacute;a y Conservaci&oacute;n de bosques de <I>Polylepi</I>s. Centro de Biodiversidad y Gen&eacute;tica. Cochabamba. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mayer, S. 2000. Aves de Bolivia 2.0, Sonidos y Fotograf&iacute;as. CD ROM. Birds Songs International. Westernieland, Holanda. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066177&pid=S1605-2528200600100000600030&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Navarro, G. &amp; M. Maldonado. 2002. Geograf&iacute;a ecol&oacute;gica de Bolivia. Vegetaci&oacute;n y ambientes acu&aacute;ticos. Centro de Ecolog&iacute;a Sim&oacute;n I. Pati&ntilde;o. Cochabamba. 719 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066178&pid=S1605-2528200600100000600031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pacheco, L. F. &amp; P. Rojas. 1996. La percepci&oacute;n del habitante urbano frente a la conservaci&oacute;n de la vida silvestre en Bolivia. Vida Silvestre Neotropical 5(1): 33 - 39. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Parker, T. A., III. 1991. On the use of tape recorders in avifaunal surveys. Auk 108: 443-444. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066180&pid=S1605-2528200600100000600033&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Programa Manejo Integral de Cuencas <I>(</I>PROMIC) 2003. Experiencias en el manejo y conservaci&oacute;n de suelos en el marco del manejo integral de cuencas en Cochabamba. Disponible en: Pubicaciones digitales: <a href="http://www.promicbolivia.org" target="_blank">www.promicbolivia.org</a> </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066181&pid=S1605-2528200600100000600034&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ralph, J. C., G. R. Geupel, P. Pyle, T. E. Martin, D. F. Desante &amp; B. Mila. 1995. Manual de m&eacute;todos de campo para el monitoreo de las aves terrestres. General technical report. Albany. 47 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066182&pid=S1605-2528200600100000600035&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ram&iacute;rez, M. 	2003. Estructura y composici&oacute;n flor&iacute;stica en tres fragmentos de bosques de <I>Polylepis besserii </I>subsp. <I>subtusalbida </I>en San Miguel (Cochabamba&ndash;Bolivia). Tesis de Licenciatura en Biolog&iacute;a. Universidad Mayor de San Sim&oacute;n. Cochabamba. 98 p. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ridgely, R.S. &amp; G. Tudor. 1989. The birds of South America. Volume I. The oscine passerines. Oxford University Press, Oxford. 516 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066184&pid=S1605-2528200600100000600037&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ridgely, R.S. &amp; G. Tudor. 1994. The birds of South America. Volume II. The suboscine passerines. Oxford University Press, Oxford. 814 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066185&pid=S1605-2528200600100000600038&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Rocha, O., C. Quiroga &amp; B. Hennessey. 2003. Aves. Pp. 31-54. En: E. Flores &amp; C. Miranda (Eds.). Fauna Amenazada de Bolivia. &iquest;Animales sin Futuro?. Ministerio de Desarrollo Sostenible, La Paz. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066186&pid=S1605-2528200600100000600039&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SERNAP (Servicio Nacional de &Aacute;reas Protegidas) (ed.). 2000. Informaci&oacute;n T&eacute;cnica del Sistema Nacional de &Aacute;reas Protegidas de Bolivia. . Pp. 150-153. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066187&pid=S1605-2528200600100000600040&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">SERNAP (eds.). 2001. Sistema Nacional de &Aacute;reas Protegidas de Bolivia. 2&ordf; Edici&oacute;n. Ministerio de Desarrollo Sostenible y Planificaci&oacute;n. Servicio Nacional de &Aacute;reas Protegidas. La Paz, 218 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066188&pid=S1605-2528200600100000600041&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Smith, A. 1994. Incentivos en proyectos forestales comunitarios: &iquest;Ayuda u obst&aacute;culo? Red Forestal de Desarrollo. RDFN, N&ordm; 17: 1-10. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066189&pid=S1605-2528200600100000600042&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Soria, R. W. &amp; B. Hennessey. 2005. &Aacute;reas importantes para la conservaci&oacute;n de las aves en Bolivia. Pp. 57 &ndash; 116. En: BirdLife Internacional &amp; Conservaci&oacute;n Internacional (eds.). &Aacute;reas Importantes para la Conservaci&oacute;n de las Aves en los Andes Tropicales: Sitios Prioritarios para la Conservaci&oacute;n de la Biodiversidad. BirdLife Internacional (Serie de Conservaci&oacute;n de BirdLife No.14), Quito. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stattersfield, A. J., M. J. Crosby, A. J. Long &amp;D. C. Wege. 1998. Endemic Bird Areas of the World. Priorities for Conservation Status N&ordm; 7, Birdlife International. UK. 860 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066191&pid=S1605-2528200600100000600044&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stotz, D., J. Fitzpatrick, T. A. Parker III &amp; D. Moskovits. 1996. Neotropical Birds: Ecology and Conservation. Field Museum of Natural History. The University of Chicago Press. Chicago and London. 502 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066192&pid=S1605-2528200600100000600045&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Suarez, M. O. 1986. Parques nacionales y afines de Bolivia. Academia Nacional de Ciencias de Bolivia. La Paz. 134 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066193&pid=S1605-2528200600100000600046&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Villalba, L., M. Lucherini, S. Walker, D. Cossios, A. Iriarte, J. Sanderson, G. Gallardo, F. Alfaro, C. Napolitano &amp; C. Sillero-Zubiri. 2004. El gato andino: Plan de acci&oacute;n para su conservaci&oacute;n. Alianza Gato Andino. La Paz. 64 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=066194&pid=S1605-2528200600100000600047&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><a name="a1"></a></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="/img/revistas/reb/v41n2/anexo_a06_1.gif">Anexo 1: Lista de especies de aves del Parque Nacional Tunari</a></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Julio de 2005.</font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Sebastian Herzog </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Septiembre de 2006. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Aleman]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manejo de ecosistemas agrosilvopastoriles: Caso: Bosque nativo e implantado en subcuencas de la cordillera del Tunari]]></source>
+<year>1997</year>
+<page-range>80</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arias]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Inventariación de la fauna y flora de la Cuenca Taquiña]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Daza]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Apuntes históricos de la Cervecería Taquiña S.A. en ocasión de su Centenario-Ecología y Medio Ambiente]]></source>
+<year>1995</year>
+<page-range>131-182</page-range><publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[Taquiña S.A.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arrazola]]></surname>
+<given-names><![CDATA[B. V.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estudio de las comunidades vegetales acuáticas de seis lagunas de los pisos mesotropical, supratropical y orotropical de Cochabamba]]></source>
+<year>2000</year>
+<page-range>106</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Balderrama]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Efecto de la alteración de hábitats sobre la avifauna en bosques de los pisos bioclimáticos supratropical yungueño y supratropical puneño (Cochabamba - Bolivia)]]></source>
+<year>2005</year>
+<page-range>112</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Balderrama]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramírez]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diversidad y endemismo de aves en dos fragmentos de Bosque de Polylepis besseri en el Parque Nacional Tunari]]></article-title>
+<source><![CDATA[Rev. Bol. Ecol.]]></source>
+<year>2001</year>
+<volume>9</volume>
+<page-range>45-60</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="">
+<collab>BirdLife International</collab>
+<source><![CDATA[Aves amenazadas de las Américas (Libro Rojo de BirdLife International/UICN)]]></source>
+<year>1992</year>
+<page-range>852</page-range><publisher-loc><![CDATA[Cambridge ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="">
+<collab>BIRDLIFE INTERNATIONAL</collab>
+<source><![CDATA[Threatened Birds of the World 2004]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cardozo]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Áreas protegidas de Bolivia]]></source>
+<year>1988</year>
+<page-range>84</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Asociación Pro Defensa de la Naturaleza]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cavelier]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Santos]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Efectos de plantaciones abandonadas de especies exóticas y nativas sobre la regeneración natural de un bosque montano en Colombia]]></article-title>
+<source><![CDATA[Rev. biol. Trop.]]></source>
+<year>1999</year>
+<volume>47</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>1-7</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<collab>CLAS (Centro de Levantamientos Aeroespaciales y Aplicaciones SIG)</collab>
+<source><![CDATA[CD ROM: Elaboración del Plan de Uso del Suelo. Parque Nacional Tunari]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[Universidad Mayor de San Simón]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Córdoba]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibáñez]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Análisis de los Sistemas Agropuecuarios en las áreas de influencia de las Cuencas &#8220;La Llave&#8221; y &#8220;Huallaquea&#8221;]]></source>
+<year>1998</year>
+<page-range>130</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Crespo]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Influencia de la Reforestación sobre la vegetación nativa del Parque Nacional Tunari]]></source>
+<year>1989</year>
+<page-range>89</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Crespo]]></surname>
+<given-names><![CDATA[M. S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moya]]></surname>
+<given-names><![CDATA[S. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quinteros]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parque Nacional Tunari: Perspectivas para la conservación de la biodiversidad]]></source>
+<year>2005</year>
+<page-range>87</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<collab>DNCB (Dirección Nacional de Conservación de la Biodiversidad)</collab>
+<source><![CDATA[Reglamento general de áreas protegidas]]></source>
+<year>1997</year>
+<page-range>186</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Coordinación de Asesoría Legal]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldså]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The avifauna of the Polylepis woodlands of the Andean highlands: the efficiency of basing conservation priorities on patterns of endemism]]></article-title>
+<source><![CDATA[Bird Conservation International]]></source>
+<year>1993</year>
+<volume>3</volume>
+<page-range>37-55</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldså]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hjarsen]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Needs for sustainable land management in biologically unique areas in the andean highland]]></article-title>
+<source><![CDATA[]]></source>
+<year>1998</year>
+<conf-name><![CDATA[III Simposio Internacional de Desarrollo Sustentable de Montañas: entendiendo las interfaces ecológicas para la gestión de los paisajes culturales en los Andes]]></conf-name>
+<conf-loc> </conf-loc>
+<page-range>151-162</page-range><publisher-loc><![CDATA[Quito ]]></publisher-loc>
+<publisher-name><![CDATA[AMA, CLACS, CEPEIGE y Corporación Editora Nacional]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldså]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kessler]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Conservación de la biodiversidad de los bosques de Polylepis de las tierras altas de Bolivia. Una contribución al manejo sustentable en los Andes]]></source>
+<year>2004</year>
+<page-range>214</page-range><publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+<publisher-name><![CDATA[FAN]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fjeldså]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Krabbe]]></surname>
+<given-names><![CDATA[N.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Birds of the high Andes]]></source>
+<year>1990</year>
+<page-range>876</page-range><publisher-loc><![CDATA[Copenhagen ]]></publisher-loc>
+<publisher-name><![CDATA[Apollo Books]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<collab>FUNDACIÓN SIMÓN I. PATIÑO (Ed.)</collab>
+<article-title xml:lang="es"><![CDATA[Areas Protegidas en el Departamento de Cochabamba]]></article-title>
+<source><![CDATA[Rev. Trimestral, Bolivia Ecológica]]></source>
+<year>1999</year>
+<volume>13</volume>
+<page-range>1-24</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hennessey]]></surname>
+<given-names><![CDATA[A. B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S. K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sagot]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Lista anotada de las aves de Bolivia]]></source>
+<year>2003</year>
+<edition>Quinta</edition>
+<page-range>238</page-range><publisher-loc><![CDATA[Santa Cruz de la Sierra ]]></publisher-loc>
+<publisher-name><![CDATA[Asociación Armonía/ BirdLife International]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Troncoso]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Matthysen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Composition and spatial structure of avian mixed-species flocks in a high-Andean Polylepis forest in Bolivia]]></article-title>
+<source><![CDATA[Ecotropica]]></source>
+<year>2002</year>
+<volume>8</volume>
+<page-range>133-143</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[R A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Matthysen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Seasonal variation in avian community composition in a high-Andean Polylepis (Rosaceae) forest fragment]]></article-title>
+<source><![CDATA[Wilson Bull.]]></source>
+<year>2003</year>
+<volume>115</volume>
+<page-range>438-447</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hjarsen]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Bird fauna and vegetation in natural woodlands and Eucalyptus plantations in the high Andes in Bolivia. Implications for development of sustainable agroforestry techniques. Proceedings of the IUFRO Conference on Silviculture and Improvements of Eucalyptus]]></article-title>
+<source><![CDATA[EMBRAPA]]></source>
+<year>1997</year>
+<volume>4</volume>
+<page-range>89-94</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hjarsen]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Biological diversity in high altitude woodlands and plantations in the Bolivian Andes: Implications for development of sustainable land-use]]></article-title>
+<source><![CDATA[]]></source>
+<year>1998</year>
+<conf-name><![CDATA[III Simposio Internacional de Desarrollo Sustentable de Montañas: entendiendo las interfaces ecológicas para la gestión de los paisajes culturales en los Andes]]></conf-name>
+<conf-loc>Quito </conf-loc>
+<page-range>145-149</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<collab>Jefatura-Consultora del Parque Nacional Tunari</collab>
+<source><![CDATA[Información para reuniones técnicas de asentamientos urbanos ubicados en el Parque Nacional Tunari]]></source>
+<year>2003</year>
+<page-range>98</page-range><publisher-name><![CDATA[Prefectura del departamento de Cochabamba]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Limachi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evaluación del Bosque de Polylepis besseri subsp. subtusalbida (Kessler, 1995), en la Comunidad Laphia, Cochabamba-Bolivia]]></source>
+<year>2002</year>
+</nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Goitia]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Aporte Limnológico al desarrollo de la piscicultura en Cochabamba]]></article-title>
+<source><![CDATA[Los recursos hídricos en Bolivia y su dimensión ambiental]]></source>
+<year>1992</year>
+<page-range>339-349</page-range><publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[Arol]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Marconi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Capitulo XI. El Sistema Nacional de Áreas Protegidas y las Áreas Bajo Manejo Especial]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Marconi]]></surname>
+</name>
+</person-group>
+<source><![CDATA[Conservación de la Diversidad Biológica en Bolivia]]></source>
+<year>1992</year>
+<page-range>321-370</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Datos para la Conservación]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mardeshi]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Suarez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Proceso Participativo en la Conservación del Bosque de Polylepis en la comunidad de San Miguel, Cochabamba]]></article-title>
+<source><![CDATA[]]></source>
+<year>2000</year>
+<conf-name><![CDATA[I Congreso Internacional de Ecología y Conservación de bosques de Polylepis]]></conf-name>
+<conf-loc>Cochabamba </conf-loc>
+<page-range>50</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mayer]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Aves de Bolivia 2.0, Sonidos y Fotografías]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Westernieland ]]></publisher-loc>
+<publisher-name><![CDATA[Birds Songs International]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Maldonado]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Geografía ecológica de Bolivia. Vegetación y ambientes acuáticos]]></source>
+<year>2002</year>
+<page-range>719</page-range><publisher-loc><![CDATA[Cochabamba ]]></publisher-loc>
+<publisher-name><![CDATA[Centro de Ecología Simón I. Patiño]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rojas]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[La percepción del habitante urbano frente a la conservación de la vida silvestre en Bolivia]]></article-title>
+<source><![CDATA[Vida Silvestre Neotropical]]></source>
+<year>1996</year>
+<volume>5</volume>
+<numero>1</numero>
+<issue>1</issue>
+<page-range>33 - 39</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Parker]]></surname>
+<given-names><![CDATA[T.A.III.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[On the use of tape recorders in avifaunal surveys]]></article-title>
+<source><![CDATA[Auk]]></source>
+<year>1991</year>
+<volume>108</volume>
+<page-range>443-444</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="">
+<collab>Programa Manejo Integral de Cuencas (PROMIC)</collab>
+<source><![CDATA[Experiencias en el manejo y conservación de suelos en el marco del manejo integral de cuencas en Cochabamba]]></source>
+<year>2003</year>
+</nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ralph]]></surname>
+<given-names><![CDATA[J.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Geupel]]></surname>
+<given-names><![CDATA[G.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pyle]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martin]]></surname>
+<given-names><![CDATA[T.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Desante]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mila]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manual de métodos de campo para el monitoreo de las aves terrestres]]></source>
+<year>1995</year>
+<page-range>47</page-range><publisher-loc><![CDATA[Albany ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ramírez]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Estructura y composición florística en tres fragmentos de bosques de Polylepis besserii subsp. subtusalbida en San Miguel (Cochabamba-Bolivia)]]></source>
+<year>2003</year>
+<page-range>98</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ridgely]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tudor]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The birds of South America]]></source>
+<year>1989</year>
+<volume>I</volume>
+<page-range>516</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ridgely]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tudor]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The birds of South America]]></source>
+<year>1994</year>
+<volume>II</volume>
+<page-range>814</page-range><publisher-loc><![CDATA[Oxford ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rocha]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hennessey]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Flores]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miranda]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Fauna Amenazada de Bolivia. ¿Animales sin Futuro?]]></source>
+<year>2003</year>
+<page-range>31-54</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Desarrollo Sostenible]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<nlm-citation citation-type="">
+<collab>SERNAP (Servicio Nacional de Áreas Protegidas)</collab>
+<source><![CDATA[Información Técnica del Sistema Nacional de Áreas Protegidas de Bolivia]]></source>
+<year>2000</year>
+<page-range>150-153</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<nlm-citation citation-type="book">
+<collab>SERNAP</collab>
+<source><![CDATA[Sistema Nacional de Áreas Protegidas de Bolivia]]></source>
+<year>2001</year>
+<edition>2</edition>
+<page-range>218</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Ministerio de Desarrollo Sostenible y Planificación. Servicio Nacional de Áreas Protegidas]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B42">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Incentivos en proyectos forestales comunitarios: ¿Ayuda u obstáculo?]]></article-title>
+<source><![CDATA[Red Forestal de Desarrollo. RDFN]]></source>
+<year>1994</year>
+<volume>17</volume>
+<page-range>1-10</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[R.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hennessey]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Áreas importantes para la conservación de las aves en Bolivia]]></article-title>
+<collab>BirdLife Internacional & Conservación Internacional</collab>
+<source><![CDATA[Áreas Importantes para la Conservación de las Aves en los Andes Tropicales: Sitios Prioritarios para la Conservación de la Biodiversidad]]></source>
+<year>2005</year>
+<page-range>57 - 116</page-range><publisher-loc><![CDATA[Quito ]]></publisher-loc>
+<publisher-name><![CDATA[BirdLife Internacional]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B44">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stattersfield]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Crosby]]></surname>
+<given-names><![CDATA[M. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Long]]></surname>
+<given-names><![CDATA[A. J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wege]]></surname>
+<given-names><![CDATA[D. C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Endemic Bird Areas of the World]]></source>
+<year>1998</year>
+<page-range>860</page-range><publisher-name><![CDATA[Birdlife International]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stotz]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fitzpatrick]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parker III]]></surname>
+<given-names><![CDATA[T. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moskovits]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Neotropical Birds: Ecology and Conservation]]></source>
+<year>1996</year>
+<page-range>502</page-range><publisher-loc><![CDATA[Chicago and London ]]></publisher-loc>
+<publisher-name><![CDATA[The University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B46">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Suarez]]></surname>
+<given-names><![CDATA[M. O.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Parques nacionales y afines de Bolivia]]></source>
+<year>1986</year>
+<page-range>134</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Academia Nacional de Ciencias de Bolivia]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B47">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Villalba]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lucherini]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cossios]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Iriarte]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sanderson]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gallardo]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Alfaro]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Napolitano]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sillero-Zubiri]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[El gato andino: Plan de acción para su conservación]]></source>
+<year>2004</year>
+<page-range>64</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Alianza Gato Andino]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

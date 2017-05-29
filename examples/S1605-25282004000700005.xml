@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282004000700005</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Vizcachas (Lagidium viscacia, Chinchillidae) en hábitats fragmentados en la ciudad de La Paz y sus alrededores: bases para su conservación]]></article-title>
+<article-title xml:lang="en"><![CDATA[Vizcachas (Lagidium viscacia, Chinchillidae) in fragmented habitats in the city of La Paz and surrounding areas: Basis for its conservation]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[Teresa]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Fontúrbel]]></surname>
+<given-names><![CDATA[Francisco]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Achá]]></surname>
+<given-names><![CDATA[Darío]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Rodríguez F.]]></surname>
+<given-names><![CDATA[Jaime]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Molina]]></surname>
+<given-names><![CDATA[Carlos]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[María Cristina]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[María Reneé]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Buitrón]]></surname>
+<given-names><![CDATA[Carola]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Canseco]]></surname>
+<given-names><![CDATA[Angela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[Marianela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Higueras]]></surname>
+<given-names><![CDATA[Yara]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Kopp]]></surname>
+<given-names><![CDATA[David]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pacajes]]></surname>
+<given-names><![CDATA[Janette]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Romecin]]></surname>
+<given-names><![CDATA[Paola]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Urrelo]]></surname>
+<given-names><![CDATA[Vivian]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Colección Boliviana de Fauna  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Escuela Militar de Ingeniería Carrera de Ingeniería Ambiental ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Biología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>07</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>07</month>
+<year>2004</year>
+</pub-date>
+<volume>39</volume>
+<numero>1</numero>
+<fpage>53</fpage>
+<lpage>74</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282004000700005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282004000700005&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282004000700005&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[En 1999, en la ciudad de La Paz y sus alrededores, se examinaron 13 sitios (de 17 proyectados) donde se encontraron poblaciones de vizcacha (Lagidium viscacia) aisladas en pequeños fragmentos de hábitats remanentes, cada día más amenazados por el crecimiento urbano de la ciudad. En siete sitios se encontraron vizcachas en barrancos o quebradas pendientes con roquedales; en los otros seis, estaban en barrancos y quebradas pendientes compuestas de suelo arcilloso de origen glaciar (löss); ciertos autores consideran que este tipo de hábitat no es propicio para la vizcacha. Usando nueve criterios indirectos, a los que se le atribuyeron cuatro grados de intensidad, se determinó el grado de intervención de cada uno de los sitios. En 1999, cinco sitios tenían una intervención baja, cinco media y tres alta. En 2003, se re-visitaron ocho sitios y se comprobó que dos de ellos habían sido destruidos totalmente, dos presentaban intervención baja, tres media y uno, alta. La comparación de la vegetación de un sitio con alta intervención con otro de baja intervención mostró diferencias significativas, tanto en el área general como en el área próxima a las guaridas de las vizcachas. No obstante, las especies de plantas agrupadas en categorías tuvieron una similitud notable y ambas áreas presentan un índice de diversidad comparable para la transecta y para las áreas próximas a las guaridas. Finalmente, se identificaron siete factores de amenaza que en interdependencia con la historia natural de la vizcacha afectan la conservación de la esa especie en la ciudad de La Paz y sus alrededores. Entre las amenazas más críticas están la fragmentación del hábitat, la calidad y tamaño del hábitat y la pérdida del ecosistema.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[In 1999, in the city of La Paz and its surroundings, we investigated 13 sites (from 17 potential locations) where we found populations of viscachas (Lagidium viscacia) isolated on small fragments of remnant habitats each day more threatened by urban development of the city. At seven sites we found viscachas in cliffs or steep slopes with rocks; at the other six sites they were in cliffs or steep slopes formed by clay soil of glacial origin (löss). Some authors do not consider this appropriate habitat for viscachas. Through the use of nine indirect criteria of disturbance with four degrees of intensity, we determined the degree of deterioration for each one of the sites. In 1999, five sites had low, five sites had medium, and three sites had high levels of disturbance. In 2003, we re-visited eight sites, two of the sites were completely destroyed, two exhibited low disturbance, three medium, and one high. The comparison of the vegetation of one highly disturbed site with one with little disturbance showed significant differences, as much for the general area as for areas near viscacha burrows. Nevertheless, percentage of items in categories of plants was notably similar, and both areas had comparable diversity indices for the transects across the area as well as adjacent to the burrows. Finally, we identified seven threat factors that, in interdependence with the natural history of the viscacha, affect the conservation of this species in the city of La Paz and its surroundings. Among the most critical threats are habitat fragmentation, the quality and size of the habitat, and loss of the ecosystem itself.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Lagidium viscacia]]></kwd>
+<kwd lng="es"><![CDATA[vizcacha]]></kwd>
+<kwd lng="es"><![CDATA[Bolivia]]></kwd>
+<kwd lng="es"><![CDATA[fragmentación]]></kwd>
+<kwd lng="es"><![CDATA[conservación]]></kwd>
+<kwd lng="es"><![CDATA[extinción local]]></kwd>
+<kwd lng="es"><![CDATA[desarrollo urbano]]></kwd>
+<kwd lng="en"><![CDATA[Lagidium viscacia]]></kwd>
+<kwd lng="en"><![CDATA[viscachas]]></kwd>
+<kwd lng="en"><![CDATA[Bolivia]]></kwd>
+<kwd lng="en"><![CDATA[fragmentation]]></kwd>
+<kwd lng="en"><![CDATA[conservation]]></kwd>
+<kwd lng="en"><![CDATA[local extinction]]></kwd>
+<kwd lng="en"><![CDATA[urban development]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Vizcachas (<I>Lagidium viscacia</I>, Chinchillidae) en h&aacute;bitats fragmentados en la ciudad de La Paz y sus alrededores: bases para su conservaci&oacute;n </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Vizcachas (<I>Lagidium viscacia</I>, Chinchillidae) in fragmented habitats in the city of La Paz and surrounding areas: Basis for its conservation </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Teresa Tarifa<Sup>1,2</Sup>, Francisco Font&uacute;rbel<Sup>3</Sup>, Dar&iacute;o Ach&aacute;<Sup>4</Sup>, Jaime Rodr&iacute;guez F.<Sup>4</Sup>, Carlos    Molina<Sup>4</Sup>, Mar&iacute;a Cristina L&oacute;pez<Sup>4</Sup>, Mar&iacute;a Rene&eacute; Baudoin<Sup>4</Sup>, Carola Buitr&oacute;n<Sup>4</Sup>, Angela    Canseco<Sup>4</Sup>, Marianela Garc&iacute;a<Sup>4</Sup>, Yara Higueras<Sup>4</Sup>, David Kopp<Sup>4</Sup>, Janette Pacajes<Sup>4</Sup>, Paola  Romecin<Sup>4</Sup> &amp; Vivian Urrelo<Sup><Sup>4 </Sup></Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Colecci&oacute;n Boliviana de Fauna, Casilla 8706, La Paz, Bolivia. </font>    <br>   <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>2</Sup>Direcci&oacute;n actual: Museum of Natural History, Albertson College, 2112 Cleveland Boulevard,  Caldwell, Idaho 83605; USA. E-mail: <a href="mailto:teresa_tarifa@yahoo.com">teresa_tarifa@yahoo.com</a> </font>    ]]></body>
+<body><![CDATA[<br> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>3</Sup>Carrera de Ingenier&iacute;a Ambiental, Escuela Militar de Ingenier&iacute;a, Casilla 180, La Paz, Bolivia. </font>    <br> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>4</Sup>Carrera de Biolog&iacute;a, Universidad Mayor de San Andr&eacute;s, Casilla 10077, La Paz, Bolivia. </font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En 1999, en la ciudad de La Paz y sus alrededores, se examinaron 13 sitios (de 17 proyectados) donde se encontraron poblaciones de vizcacha (<I>Lagidium viscacia</I>) aisladas en peque&ntilde;os fragmentos de h&aacute;bitats remanentes, cada d&iacute;a m&aacute;s amenazados por el crecimiento urbano de la ciudad. En siete sitios se encontraron vizcachas en barrancos o quebradas pendientes con roquedales; en los otros seis, estaban en barrancos y quebradas pendientes compuestas de suelo arcilloso de origen glaciar (l&ouml;ss); ciertos autores consideran que este tipo de h&aacute;bitat no es propicio para la vizcacha. Usando nueve criterios indirectos, a los que se le atribuyeron cuatro grados de intensidad, se determin&oacute; el grado de intervenci&oacute;n de cada uno de los sitios. En 1999, cinco sitios ten&iacute;an una intervenci&oacute;n baja, cinco media y tres alta. En 2003, se re-visitaron ocho sitios y se comprob&oacute; que dos de ellos hab&iacute;an sido destruidos totalmente, dos presentaban intervenci&oacute;n baja, tres media y uno, alta. La comparaci&oacute;n de la vegetaci&oacute;n de un sitio con alta intervenci&oacute;n con otro de baja intervenci&oacute;n mostr&oacute; diferencias significativas, tanto en el &aacute;rea general como en el &aacute;rea pr&oacute;xima a las guaridas de las vizcachas. No obstante, las especies de plantas agrupadas en categor&iacute;as tuvieron una similitud notable y ambas &aacute;reas presentan un &iacute;ndice de diversidad comparable para la transecta y para las &aacute;reas pr&oacute;ximas a las guaridas. Finalmente, se identificaron siete factores de amenaza que en interdependencia con la historia natural de la vizcacha afectan la conservaci&oacute;n de la esa especie en la ciudad de La Paz y sus alrededores. Entre las amenazas m&aacute;s cr&iacute;ticas est&aacute;n la fragmentaci&oacute;n del h&aacute;bitat, la calidad y tama&ntilde;o del h&aacute;bitat y la p&eacute;rdida del ecosistema. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras clave:</b> <I>Lagidium viscacia</I>, vizcacha, Bolivia, fragmentaci&oacute;n, conservaci&oacute;n, extinci&oacute;n local, desarrollo urbano. </font></P > <hr noshade>     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract </b></font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">In 1999, in the city of La Paz and its surroundings, we investigated 13 sites (from 17 potential locations) where we found populations of viscachas (<I>Lagidium viscacia</I>) isolated on small fragments of remnant habitats each day more threatened by urban development of the city. At seven sites we found viscachas in cliffs or steep slopes with rocks; at the other six sites they were in cliffs or steep slopes formed by clay soil of glacial origin (l&ouml;ss). Some authors do not consider this appropriate habitat for viscachas. Through the use of nine indirect criteria of disturbance with four degrees of intensity, we determined the degree of deterioration for each one of the sites. In 1999, five sites had low, five sites had medium, and three sites had high levels of disturbance. In 2003, we re-visited eight sites, two of the sites were completely destroyed, two exhibited low disturbance, three medium, and one high. The comparison of the vegetation of one highly disturbed site with one with little disturbance showed significant differences, as much for the general area as for areas near viscacha burrows. Nevertheless, percentage of items in categories of plants was notably similar, and both areas had comparable diversity indices for the transects across the area as well as adjacent to the burrows. Finally, we identified seven threat factors that, in interdependence with the natural history of the viscacha, affect the conservation of this species in the city of La Paz and its surroundings. Among the most critical threats are habitat fragmentation, the quality and size of the habitat, and loss of the ecosystem itself. </font></P >    <P   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Key words:</b> <I>Lagidium viscacia</I>, viscachas, Bolivia, fragmentation, conservation, local extinction, urban development. </font></P > <hr noshade>     ]]></body>
+<body><![CDATA[<P   >&nbsp;</P >     <P   >&nbsp;</P >     <P align="center"   ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b></font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Dentro de las ciudades, el &eacute;xito de las especies     silvestres nativas depende frecuentemente de     tres importantes factores: a) su habilidad de     adaptarse a un nuevo h&aacute;bitat compuesto de     especies de plantas for&aacute;neas, el que representa     una restricci&oacute;n en la oferta de alimento y de     refugio, b) su resistencia a las enfermedades     diseminadas por las especies introducidas y c)     la posibilidad de que sus poblaciones puedan     enfrentar la competencia por recursos con     animales dom&eacute;sticos y seres humanos o la     acci&oacute;n predadora de ambos. En el caso de la     ciudad de La Paz y sus alrededores, poco o     nada se conoce acerca de los efectos del avance     urbano sobre las especies de fauna nativa     silvestre que habitan en fragmentos de h&aacute;bitats   que quedan. Una de esas especies es la vizcacha.</font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> La vizcacha (<i>Lagidium</i> spp.) es un roedor   histricomorfo de tama&ntilde;o mediano (1-3 kg de   peso), miembro de la familia Chinchillidae,   una familia propia de Sudam&eacute;rica a la que   pertenecen la chinchilla (<i>Chinchilla</i> spp.) y la   vizcacha de la pampa (<i>Lagostomus maximus</i>)   (Rowlands 1974, Mann 1978). Se reconocen tres   especies de vizcachas: <i>Lagidium peruanum</i>,   distribuida en los Andes del centro y sur del   Per&uacute;; <i>Lagidium viscacia</i>, que abarca desde el   extremo sur de Per&uacute;, el oeste y sur de Bolivia,   norte y centro de Chile hasta el oeste de   Argentina; y <i>Lagidium wolffshoni</i>, presente en el   sur de Chile y en el sudoeste de Argentina   (Nowak 1999, Betancourt &amp; Saavedra 2002).   En Bolivia se reconocen tres subespecies de <i>Lagidium viscacia: L. v. cuscus, L. v. cuvieri</i> y <i>L.v.   perlutea</i>. La subespecie presente en la ciudad de   La Paz y sus alrededores es <i>L. v. cuvieri</i> que se   distribuye en los departamentos de La Paz y   Oruro (Anderson 1997).</font></P >     <P align="justify"   ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Las vizcachas viven en lugares &aacute;ridos,   abruptos, barrancosos y con grandes pedregales   (Pearson 1948, Rowlands 1974). La importante   presencia de rocas en su h&aacute;bitat ha sido destacada como un recurso cr&iacute;tico y se ha considerado a las vizcachas como especialistas en h&aacute;bitats rocosos (Mann 1945, Pearson 1948, 1949, 1951, 1957, Rowlands 1974, Mann 1978, Mengoni-Go&ntilde;alons 1986, Galende &amp; Grigera 1998, Galende et al. 1998, Walker et al. 2000a, b, Walker 2001). Para las vizcachas las rocas son esenciales porque proveen sitios seguros para asolearse, descansar, hacer nidos y refugiarse de predadores (Pearson 1948, Mengoni-Go&ntilde;alons 1986, Galende &amp; Grigera 1998, Walker et al. 2000a, b, Walker 2001). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las vizcachas tienen h&aacute;bitos matinales y crepusculares y se agrupan en colonias, denominadas &ldquo;vizcacheras&rdquo;, aunque probablemente viven en grupos familiares dentro de sus guaridas (Rowlands 1974, Galende &amp; Grigera 1998, Galende et al. 1998). Se alimentan en &aacute;reas pr&oacute;ximas a su refugio o en &aacute;reas m&aacute;s lejanas donde buscan de manera preferencial gram&iacute;neas, que constituyen el &iacute;tem principal de su dieta. En menor proporci&oacute;n consumen arbustos, hierbas, musgos y l&iacute;quenes (Pearson 1948, Mann 1978, Puig et al. 1998, Galende &amp; Grigera 1998, Galende et al. 1998, Cort&eacute;s et al. 2002). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la ciudad de La Paz y sus alrededores, la poblaciones de vizcachas han sufrido una alteraci&oacute;n notable de su h&aacute;bitat. El avance de la urbanizaci&oacute;n ha destruido su ambiente y consecuentemente ha reducido su h&aacute;bitat a fragmentos. Sumada a la destrucci&oacute;n de su h&aacute;bitat, est&aacute; la predaci&oacute;n humana que disminuye a&uacute;n m&aacute;s las dispersas poblaciones que quedan de la especie. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Un estudio anterior sobre los mam&iacute;feros del valle de La Paz, realizado por Mercado &amp; Miralles (1991), reporta datos generales sobre la historia natural de la vizcacha, pero no menciona ning&uacute;n dato espec&iacute;fico sobre su distribuci&oacute;n y ecolog&iacute;a en el valle de La Paz; por ello, en el presente estudio nos planteamos seis objetivos: 1) determinar la presencia de la vizcacha en h&aacute;bitats remanentes en el &aacute;rea urbana y en los alrededores de la ciudad de La Paz; 2) determinar las caracter&iacute;sticas f&iacute;sicas de h&aacute;bitats remanentes en que se encuentren vizcachas, 3) determinar el grado de intervenci&oacute;n humana en esos h&aacute;bitats, 4) caracterizar la vegetaci&oacute;n en dos h&aacute;bitats con distinto grado de intervenci&oacute;n humana, 5) identificar los factores de amenaza para la conservaci&oacute;n de la vizcacha en la ciudad y sus alrededores y 6) proponer &aacute;reas concretas para la conservaci&oacute;n de la vizcacha en la ciudad de La Paz y sus alrededores. </font></P >     <P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>&Aacute;rea de estudio </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La ciudad de La Paz est&aacute; ubicada en el borde noreste del Altiplano, al pie de la Cordillera Oriental (Liberman 1991). Abarca un &aacute;rea aproximada de 60 km<Sup>2</Sup>, desde los bordes del Altiplano hasta los valles fluviales del sur (Garc&iacute;a 1991). Ocupa una cuenca originada por un hundimiento y luego profundizada por la erosi&oacute;n del r&iacute;o La Paz y sus afluentes. Su relieve es irregular y complejo, con la presencia de serran&iacute;as, quebradas, terrazas y llanuras aluviales anchas y estrechas, resultado de eventos geol&oacute;gicos ocurridos durante el Plioceno y Cuaternario (Pleistoceno-Holoceno) (Liberman 1991, Garc&iacute;a 1997, Zelada 1999). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La ciudad y sus poblaciones adyacentes tienen diferencias altitudinales marcadas, descendiendo paulatinamente desde El Alto, a una altura de 4.100 m, hacia las zonas m&aacute;s bajas al sur del r&iacute;o La Paz, a alturas cercanas a los 2.600 m. Las variaciones altitudinales, acompa&ntilde;adas por distintos gradientes de pendientes, la diversa exposici&oacute;n de las laderas a los rayos solares y a la direcci&oacute;n de los vientos, las diferencias de humedad y temperatura, determinan la conformaci&oacute;n de diversos ambientes naturales con variaciones en la vegetaci&oacute;n y en los componentes de los ecosistemas (Lorini 1991). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El clima de la ciudad se caracteriza por variaciones t&eacute;rmicas m&aacute;s pronunciadas a lo largo del d&iacute;a que a lo largo del a&ntilde;o (Lorini 1991, Garc&iacute;a 1997). Cada nivel altitudinal en la ciudad tiene un r&eacute;gimen clim&aacute;tico distinto, pero en todos ellos alterna una estaci&oacute;n &aacute;rida prolongada (7 a 8 meses) y una estaci&oacute;n de lluvias corta de caracter&iacute;stica monomodal (4 a 5 meses). La precipitaci&oacute;n disminuye en sentido norte-sur y tiene valores entre 500 y 600 mm de promedio anual (Garc&iacute;a 1997). En la &eacute;poca lluviosa, las lluvias caen con intensidad aumentando su efecto erosivo (Lorini 1991). Las temperaturas promedio anuales de las distintas zonas de la ciudad y lugares adyacentes oscilan entre 7.4&ordm;C (El Alto) y 13.6&ordm;C (Calacoto). En las zonas altas, por encima de los 3.700 m (zona norte de La Paz y ciudad de El Alto), se producen heladas durante 4 meses o m&aacute;s, mientras que en las zonas de menor altura (centro de la ciudad y zona sur), la temperatura desciende por debajo de O&ordm;C s&oacute;lo en algunos d&iacute;as del a&ntilde;o (Garc&iacute;a 1997). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La vegetaci&oacute;n de la ciudad ha pasado por varias transformaciones que se pueden reconstruir en base a las especies remanentes de las comunidades originales (Garc&iacute;a 1997); actualmente est&aacute; muy alterada en todo el valle de La Paz (Beck &amp; Garc&iacute;a 1991). Los estratos predominantes son los herb&aacute;ceos y los arbustivos, con especies tanto nativas como introducidas que son cultivadas o crecen espont&aacute;neamente. La vegetaci&oacute;n urbana es poco densa y se encuentra en forma de manchas dispersas (Garc&iacute;a 1991, 1997). En los sectores en peligro de erosi&oacute;n, los bosquecillos de las &aacute;reas forestales constan de <I>Eucalyptus </I>spp., <I>Pinus radiata</I> y <I>Cupressus macrocarpa</I> (Garc&iacute;a 1997). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El trabajo se realiz&oacute; en dos etapas. La primera se llev&oacute; a cabo en 1999 y fue dedicada a ubicar poblaciones de vizcachas tanto en la ciudad de La Paz como en sus alrededores y a caracterizar la vegetaci&oacute;n en dos sitios con diferente grado de intervenci&oacute;n. La segunda etapa se realiz&oacute; en 2003, en que se re-evalu&oacute; el estado de algunos de los sitios estudiados en 1999, considerando especialmente aquellos que hab&iacute;an sido identificados como los m&aacute;s propensos a desaparecer a causa del avance urbano. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En 1999, en la ciudad y sus alrededores se examinaron 17 lugares potenciales para la presencia de vizcachas. Se tomaron en cuenta especialmente quebradas con pendientes abruptas y barrancos con abundancia de rocas o con grietas profundas. La presencia de vizcachas fue confirmada principalmente por la observaci&oacute;n directa de los animales, pero en ausencia del registro directo se buscaron heces frescas. Las heces de la vizcacha son caracter&iacute;sticas e inconfundibles y, por ello, son consideradas un buen indicador de la presencia de la especie. La latitud y longitud de los lugares se determin&oacute; usando un GPS. Se establecieron las cotas mediante las curvas de nivel de la carta (altura geoide H) y, mediante el programa de computaci&oacute;n EGM 96, se calcul&oacute; la altura elipsoidal. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Tanto en la investigaci&oacute;n de 1999 como en la de 2003 se evalu&oacute; el grado de intervenci&oacute;n humana en cada sitio usando nueve criterios cualitativos indirectos: residuos s&oacute;lidos, heces de animales, excrementos humanos, estado de la vegetaci&oacute;n, construcciones civiles, animales dom&eacute;sticos, derrumbes, cazadores y/o cartuchos y accesibilidad del sitio. A cada criterio se le atribuyeron cuatro grados de intensidad usando valores num&eacute;ricos entre 0 y 3. El valor cero significa intensidad nula del criterio, en tanto que los valores de 1 a 3 sirven para indicar la presencia del criterio en tres grados de intensidad de intervenci&oacute;n. Para cada uno de los sitios investigados determinamos el valor de cada criterio y lo comparamos con las caracter&iacute;sticas de todos los sitios. La suma de los valores de cada uno de los nueve criterios dio el valor de intervenci&oacute;n humana en cada lugar. En el rango de 1 a 27, definimos tres grados de intervenci&oacute;n: baja de 1 a 9, media de 10 a 18 y alta de 19 a 27. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para obtener datos comparativos sobre el h&aacute;bitat de la vizcacha, en 1999 caracterizamos la vegetaci&oacute;n en dos sitios con distinto grado de intervenci&oacute;n humana; uno con baja intervenci&oacute;n (cerro La Muela del Diablo) y otro con alta (Cota-Cota Calle 35). Para lograr un inventario completo de la vegetaci&oacute;n y para colectar las plantas en una etapa de vida que permitiera su confiable identificaci&oacute;n, se efectuaron visitas frecuentes a ambos sitios durante el per&iacute;odo de estudio. Dado el esfuerzo que demand&oacute; la caracterizaci&oacute;n bot&aacute;nica de esos dos sitios, no se repiti&oacute; el mismo esfuerzo en otros sitios no intervenidos e intervenidos de la ciudad de La Paz y sus alrededores. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La vegetaci&oacute;n se caracteriz&oacute;: 1) realizando una colecta lo m&aacute;s completa posible de todas las especies de plantas presentes en cada sitio, considerando el &aacute;rea en general y el &aacute;rea alrededor de las guaridas de las vizcachas y 2) elaborando un registro de la frecuencia de cada especie vegetal encontrada a lo largo de la l&iacute;nea de una transecta. La transecta se traz&oacute; por donde se observaban cambios evidentes a simple vista. Cada 10 cm a lo largo de la transecta se anot&oacute; la especie. Las especies vegetales se identificaron utilizando como referencia las colecciones bot&aacute;nicas del Herbario Nacional de Bolivia en La Paz. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Comparamos la vegetaci&oacute;n de los dos sitios calculando el coeficiente de disimilaridad de Bray-Curtis -usando el programa computarizado SYSTAT 10 (SYSTAT 2000)- el &iacute;ndice de similitud de Jacard y el &iacute;ndice de diversidad de Shannon-Wiener (H&rsquo;). El coeficiente de disimilitud de Bray-Curtis se calcul&oacute; usando el n&uacute;mero de individuos de cada especie registrados alo largo de la transecta y en las &aacute;reas pr&oacute;ximas a las guaridas; ese coeficiente se convirti&oacute; a similitud usando la relaci&oacute;n (1 &ndash; Bray-Curtis = similitud). Tambi&eacute;n se calcul&oacute; el mismo &iacute;ndice para las plantas agrupadas en cinco categor&iacute;as de &iacute;tem. El &iacute;ndice de similitud de Jacard se calcul&oacute; sobre la base de la presencia o ausencia de las especies de plantas tanto en el &aacute;rea de la transecta como en los alrededores de las guaridas. Finalmente, para el c&aacute;lculo del &iacute;ndice de Shannon-Wiener (H&rsquo;) se us&oacute; el n&uacute;mero de individuos registrados a lo largo de la transecta y en el &aacute;rea pr&oacute;xima a las guaridas. En 2003 no se replic&oacute; la caracterizaci&oacute;n de la vegetaci&oacute;n, debido a que los dos sitios caracterizados previamente en 1999 no mostraron un cambio en su grado de intervenci&oacute;n. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados </b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Vizcachas en h&aacute;bitats remanentes </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El trabajo de campo se llev&oacute; a cabo entre el 21 de agosto y el 21 de noviembre de 1999 y entre el 10 de enero y el 20 de febrero de 2003. Trabajamos en 13 de los 17 sitios proyectados en un principio debido a que en cuatro de ellos o no se comprob&oacute; la presencia de vizcachas o era dif&iacute;cil el acceso. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Establecimos que las poblaciones de vizcachas en la ciudad y sus alrededores se encuentran aisladas en peque&ntilde;os fragmentos de h&aacute;bitat remanentes, los cuales se ven cada d&iacute;a m&aacute;s amenazados por el crecimiento urbano. Doce de los 13 sitios estudiados en la ciudad de La Paz y sus alrededores con presencia de vizcachas se encontraban en la zona sur (<a href="#t1">Tabla 1</a>, <a href="#f1">Fig. 1</a>). La presencia de vizcachas en esta zona se debe probablemente a que es la que m&aacute;s recientemente ha sido urbanizada. El crecimiento urbano en la zona sur de la ciudad ha sido desordenado, influido por las mismas caracter&iacute;sticas geogr&aacute;ficas del terreno; a pesar de este proceso se han conservado peque&ntilde;os fragmentos de h&aacute;bitat que, aunque muy intervenidos, permiten la sobrevivencia de poblaciones de vizcachas. </font></P >     <P   align="center" ><a name="t1"></a><img src="/img/revistas/reb/v39n1/tabla_a05_1.gif" width="580" height="766"></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v39n1/figura_a05_1.gif" width="576" height="586"></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La presencia de la vizcacha en los sitios de estudio se estableci&oacute; en la mayor&iacute;a de los casos (8 sitios, 62% del total) por la observaci&oacute;n directa de individuos (rango 2 a 9 individuos); en los restantes 5 sitios (38% del total) por la presencia de heces frescas (<a href="#t1">Tabla 1</a>). El sitio donde mayor n&uacute;mero de individuos y heces frescas se observaron fue el de La Muela del Diablo, especialmente en una zona con quebradas de muy variables caracter&iacute;sticas. Sin embargo, nuestro m&eacute;todo de estudio no permiti&oacute; determinaci&oacute;n de diferencias de abundancia entre sitios.</font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" > <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Nuevo tipo de h&aacute;bitat para la vizcacha</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">    <br>   Siete de los 13 sitios &ndash;Vino Tinto, Kantutani,   Achumani (barranco debajo de la meseta), La   Muela del Diablo, Achocalla, Mallasa y Anantaen   que se encontraron vizcachas eran h&aacute;bitats   considerados &ldquo;t&iacute;picos&rdquo; para esta especie, es   decir barrancos o quebradas pendientes con   roquedales. No obstante, los otros 6 sitios &ndash;   cerro Kellumani, calle 1 de Obrajes (Cementerio   Jard&iacute;n), Ermita de Schoenstatt en Achumani, El   Pedregal y los ambos sitios en Cota-Cota&ndash; eran   barrancos y quebradas pendientes compuestas de suelo arcilloso de origen glaciar (<I>l&ouml;ss</I>). Este tipo de h&aacute;bitat no est&aacute; mencionado en la literatura como un ambiente propicio para la vizcacha. Sin embargo, las grietas profundas que se encuentran en ese tipo de suelo parecen brindar lugares apropiados donde las vizcachas pueden construir sus nidos, encontrar refugio y tomar sol. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La pendiente de los barrancos y quebradas de arcilla de glaciar (<I>l&ouml;ss</I>) era muy variable, desde 35 a 60 grados. Tambi&eacute;n la vegetaci&oacute;n fue muy cambiable, desde bosquecillos de <I>Eucalyptus </I>con abundantes gram&iacute;neas de bajo porte y algunas compuestas hasta muy escasa y compuesta mayormente de hierbas y arbustos de compuestas. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Comparaci&oacute;n del grado de intervenci&oacute;n de los sitios en 1999 y 2003 </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En 1999, de los 13 sitios estudiados, cinco presentaban las mejores condiciones para proteger las poblaciones de vizcachas all&iacute; existentes. Tres de ellos &ndash;el cerro La Muela del Diablo, Achocalla y Ananta&ndash; estaban a&uacute;n alejados del &aacute;rea urbana de la ciudad, en tanto que los otros dos &ndash;cerro Kellumani y el barranco de Achumani debajo de la Meseta de Achumani&ndash; aunque estaban dentro del &aacute;rea urbana de la ciudad presentaban un grado de intervenci&oacute;n bajo. De estos dos &uacute;ltimos sitios, el m&aacute;s apropiado para mantener las poblaciones de vizcachas era el barranco de Achumani, que al mismo tiempo era el m&aacute;s amenazado debido a que est&aacute; ubicado en un &aacute;rea de r&aacute;pido avance urbano. De los restantes sitios, cinco se encontraban con un grado de intervenci&oacute;n medio: Vino Tinto, Kantutani, Ermita de Schoenstatt, El Pedregal y Cota-Cota Calle 29, en tanto que tres sitios presentaban un grado de intervenci&oacute;n alto: Obrajes Calle 1, Cota-Cota Calle 35 y Mallasa camino a Valencia (<a href="#t2">Tabla 2</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t2"></a><img src="/img/revistas/reb/v39n1/tabla_a05_2.gif" width="578" height="610"></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La re-visita a algunos de los sitios en 2003, despu&eacute;s de m&aacute;s de 3 a&ntilde;os, confirm&oacute; como resultado m&aacute;s significativo que el avance urbano es la causa m&aacute;s importante para la destrucci&oacute;n de las poblaciones remanentes de vizcacha en la ciudad de La Paz y alrededores. Dos sitios, que en 1999 presentaban un grado de intervenci&oacute;n alto (Obrajes Calle 1) y medio (El Pedregal), fueron totalmente devastados con la consiguiente desaparici&oacute;n de las poblaciones de vizcachas all&iacute; existentes. As&iacute; mismo, el sitio en el cerro Kellumani que presentaba un grado de intervenci&oacute;n bajo en 1999, en 2003 present&oacute; un grado de intervenci&oacute;n medio, lo cual pone en serio riesgo uno de los sitios en mejor estado de conservaci&oacute;n para las poblaciones de vizcachas. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El avance urbano que se constat&oacute; en 2003 en esos tres sitios estuvo vinculado a construcciones civiles. En Obrajes Calle 1, los factores de intervenci&oacute;n causados en 1999 debido a la construcci&oacute;n del cementerio, algunas casas y una avenida (<a href="#f2">Fig. 2</a>), se incrementaron mediante la destrucci&oacute;n y aplanamiento de uno de los cerros colindantes para ampliar el cementerio. </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2"></a><img src="/img/revistas/reb/v39n1/figura_a05_2.gif" width="569" height="385"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La quebrada que queda detr&aacute;s del &aacute;rea mencionada se ha convertido en un dep&oacute;sito de escombros de construcci&oacute;n y residuos s&oacute;lidos. Las quebradas m&aacute;s alejadas, por su inaccesibilidad, est&aacute;n a&uacute;n intactas, pero la vegetaci&oacute;n de las laderas se ha reducido considerablemente, se encuentran rodeadas de casas, del cementerio (en su nueva y antigua construcci&oacute;n) y de dos avenidas, y por tanto, no constituyen un h&aacute;bitat apropiado para la vizcacha. En El Pedregal, ya en 1999 el terreno presentaba una gran cantidad de sifonamientos producto de movimientos recientes de tierra realizados usando dinamita, para albergar nuevos asentamientos humanos, as&iacute; como tambi&eacute;n por la presencia de derrumbes. En 1999, juzg&aacute;bamos que la accesibilidad de este sitio era baja; no obstante, en 2003, fue sorprendente constatar que la quebrada hab&iacute;a desaparecido. El cerro fue derribado para brindar seguridad a la urbanizaci&oacute;n vecina &ndash;que por efecto de las fuertes lluvias estaba amenazada por derrumbes&ndash; y porque se tiene planificado construir una nueva urbanizaci&oacute;n en ese terreno. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El cerro Kellumani en 1999 tenia como factores principales de intervenci&oacute;n la contaminaci&oacute;n con residuos s&oacute;lidos y heces, presencia de animales dom&eacute;sticos, la proximidad a varias casas y tambi&eacute;n la evidencia de derrumbes. No obstante, el sitio era poco accesible. En 2003, constatamos un repentino crecimiento urbano en esta zona, especialmente en la adyacente al Complejo de Achumani y m&aacute;s espec&iacute;ficamente en la urbanizaci&oacute;n Los Jardines del Sur. La cantidad de casas y calles ha crecido notablemente. Se observ&oacute; que, a diferencia de 1999, gran parte de la superficie de las quebradas m&aacute;s accesibles estaba siendo utilizada en sus partes altas para cultivos. En la parte media, existen tambi&eacute;n algunas viviendas precarias y toda la parte baja est&aacute; cercada como propiedad de la mencionada urbanizaci&oacute;n. Solamente unos barrancos de dif&iacute;cil acceso en la parte oeste permanecen sin intervenci&oacute;n directa, pero est&aacute;n afectadas por los asentamientos vecinos. La contaminaci&oacute;n de varias fuentes fueron otros factores de intervenci&oacute;n que se incrementaron notablemente en este lugar. Considerando el grado de intervenci&oacute;n y el ritmo de avance urbano al que est&aacute; sometido este sitio no vemos futuro para las poblaciones de vizcachas que all&iacute; habitan. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por otra parte, cinco sitios re-visitados en 2003 &ndash;Ermita Schoenstatt, barranco de Achumani, Cota-Cota Calle 29, Cota-Cota Calle 35 y cerro La Muela del Diablo&ndash; no hab&iacute;an cambiado en su grado de intervenci&oacute;n. Entre estos, est&aacute;n dos sitios con un grado de intervenci&oacute;n bajo que tienen importancia para la conservaci&oacute;n de las vizcachas: el cerro La Muela del Diablo y el barranco de Achumani debajo de la Meseta. El cerro La Muela del Diablo tiene una gran formaci&oacute;n rocosa y aunque sus alrededores se hallan intervenidos, este sitio permanece a&uacute;n aislado de los asentamientos humanos y de los principales lugares de pastoreo del ganado dom&eacute;stico. A diferencia de otros lugares, aqu&iacute; las vizcachas tienen la posibilidad de desplazarse a lugares menos accesibles para sus predadores (<a href="#f3">Figuras 3</a> y <a href="#f4">4</a>). En el sitio en Achumani debajo de la Meseta, el barranco es grande, pendiente y medianamente pedregoso, por lo que las vizcachas se encuentran protegidas. Los cazadores no vienen aqu&iacute; con frecuencia porque cuando la presa cae al barranco es imposible recuperarla. Debido a su inaccesibilidad el lugar no presentaba ning&uacute;n cambio en 2003 y consideramos que es el sitio m&aacute;s propicio en el &aacute;rea urbana para la protecci&oacute;n de la vizcacha. </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f3"></a><img src="/img/revistas/reb/v39n1/figura_a05_3.gif" width="572" height="356"></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f4"></a><img src="/img/revistas/reb/v39n1/figura_a05_4.gif" width="569" height="371"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las quebradas que se encuentran en la parte posterior de la Ermita de Schoenstatt continuaban en el mismo estado que en 1999. Se ha concluido la construcci&oacute;n de un muro de contenci&oacute;n que en cierto modo protege las quebradas; sin embargo, por la parte superior de la quebrada se evidencia el avance urbano proveniente de la Meseta de Achumani. En 1999, la quebrada de Cota Cota situada a la altura de la Calle 29, ten&iacute;a un grado de intervenci&oacute;n medio, presentaba el suelo erosionado y era muy inestable. Este lugar era muy similar a la quebrada de la Calle 35, pero estaba menos contaminado e intervenido. En 2003, no se observaron mayores cambios en estas quebradas. La presencia del Campus Universitario ha limitado el avance de otras construcciones a la altura de la Calle 29 y no se ha detectado un incremento de la intervenci&oacute;n humana. En la Calle 35 el mayor cambio observado est&aacute; en la fisonom&iacute;a de algunos sectores de la quebrada, que se encuentra m&aacute;s erosionada por efecto de las constantes lluvias, y presenta evidencia de algunos peque&ntilde;os derrumbes. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cinco sitios no fueron re-visitados en 2003, por razones de log&iacute;stica y accesibilidad, debido a que la re-visita se realiz&oacute; durante la &eacute;poca de lluvias. Entre estos sitios est&aacute;n los de Achocalla (<a href="#f5">Figura 5</a>) y Ananta que en 1999 presentaban un grado de intervenci&oacute;n bajo debido a que estaban, y a&uacute;n est&aacute;n, alejados de la ciudad. As&iacute; mismo, prevemos que los otros dos sitios en el &aacute;rea urbana de la ciudad, Vino Tinto y Kantutani, continuaran con un grado de intervenci&oacute;n medio debido a que no est&aacute;n situados en un &aacute;rea de expansi&oacute;n urbana creciente. Finalmente, no esperamos que Mallasa, que ten&iacute;a un grado de intervenci&oacute;n alto en 1999, cambie de estado debido a que est&aacute; en un &aacute;rea de expansi&oacute;n urbana creciente y r&aacute;pida en la que las vizcachas no tienen muchas oportunidades de sobrevivir. </font></P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f5"></a><img src="/img/revistas/reb/v39n1/figura_a05_5.gif" width="570" height="364"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En Vino Tinto, la quebrada continua bastante segura para las vizcachas por su inaccesibilidad para los humanos. En Kantutani, la accesibilidad y los factores de intervenci&oacute;n son mayores y, a pesar de estar alejado de los sitios de avance urbano r&aacute;pido, no tiene muchas oportunidades de conservar las poblaciones de vizcachas all&iacute; existentes. Finalmente, toda la regi&oacute;n de Mallasa est&aacute; en general muy intervenida, incluso en el Valle de la Luna que es un paseo tur&iacute;stico. Debido al grado de intervenci&oacute;n alto en Mallasa, las vizcachas no tienen muchas oportunidades de sobrevivir all&iacute;. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Caracterizaci&oacute;n de la vegetaci&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La vegetaci&oacute;n en la quebrada de la Calle 35 de Cota Cota es diferente de la vegetaci&oacute;n del cerro La Muela del Diablo (0.624, coeficiente de similitud de 1 &ndash; Bray-Curtis). Esta diferencia est&aacute; definida por dos aspectos: 1) la frecuencia con que las diferentes especies est&aacute;n presentes en cada &aacute;rea, y 2) la existencia de especies diferentes en los dos sitios. La diferencia en la vegetaci&oacute;n es mayor en el &aacute;rea pr&oacute;xima a las guaridas (0.731, 1 &ndash; Bray-Curtis) que en el &aacute;rea de la transecta en general (<a href="#t3">Tabla 3</a>). </font></P >     <P   align="center" ><a name="t3"></a><img src="/img/revistas/reb/v39n1/tabla_a05_3.gif" width="580" height="1470"></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cuando se comparan las especies agrupadas en categor&iacute;as de &iacute;tem la similitud aumenta notablemente (0.391, 1 &ndash;Bray-Curtis), lo que indica que aunque las especies son diferentes, las categor&iacute;as de plantas que componen la vegetaci&oacute;n de ambos sitios son similares (<a href="#t4">Tabla 4</a>). </font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="t4"></a><img src="/img/revistas/reb/v39n1/tabla_a05_4.gif" width="578" height="252"></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El an&aacute;lisis de las especies comunes a la Calle 35 de Cota Cota y a La Muela del Diablo muestra que las especies de los dos sitios son diferentes tanto a lo largo de la transecta en general (0.46, &iacute;ndice similitud de Jacard) como en el &aacute;rea circundante a las guaridas (0.558, Jacard) aunque agrupadas en categor&iacute;as de &iacute;tem se encuentra similitud. Apesar de que las especies de los dos sitios son diferentes y su frecuencia de ocurrencia tambi&eacute;n, la diversidad en los dos sitios es muy semejante para la transecta en general (&iacute;ndice de diversidad de Shannon-Wiener, H&rsquo;= 2.9357 Calle 35 de Cota Cota y H&rsquo; = 2.2944 La Muela del Diablo). Lo mismo ocurre en ambos sitios en las &aacute;reas pr&oacute;ximas a las guaridas (H&rsquo; = 2.1242 Calle 35 de Cota Cota y H&rsquo;= 2.2594 La Muela del Diablo). Al parecer la vegetaci&oacute;n de todo el valle de La Paz est&aacute; deteriorada en tal manera que el grado de intervenci&oacute;n actual no produce una diferencia substancial entre los sitios m&aacute;s pr&oacute;ximos o m&aacute;s alejados del &aacute;rea urbana. </font></P >     <P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la ciudad de La Paz y sus alrededores, especialmente en la zona sur de la ciudad, la vizcacha est&aacute; amenazada por el crecimiento urbano. Con el espacio agotado en las diversas zonas, y especialmente en la central, el crecimiento de la ciudad ha determinado que se establezcan nuevas &aacute;reas de urbanizaci&oacute;n en los potenciales lugares de expansi&oacute;n de la llamada zona sur. El crecimiento urbano y poblacional de la ciudad se puede ver claramente revisando los &uacute;ltimos datos del Instituto Nacional de Estad&iacute;sticas (INE 1999) que muestran un crecimiento del Producto Interno Bruto (PIB) de un 4.80% para el &aacute;rea urbana, el mismo que, se estima, ser&aacute; de 6.70% el a&ntilde;o 2010. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se ha considerado que el principal factor que determina la distribuci&oacute;n de la vizcacha es la disponibilidad de un h&aacute;bitat propicio y la calidad de &eacute;ste (Pearson 1948, Walker et al. 2003). La caracter&iacute;stica esencial del h&aacute;bitat de la vizcacha es sin duda la disponibilidad de rocas, las que le ofrecen refugio y sitios apropiados para sus nidos (Pearson 1948, 1949, 1957, Rowlands 1974, Mengoni-Go&ntilde;alons 1986, Galende &amp; Grigera 1998, Galende et al. 1998, Walker et al. 2000a, Walker et al. 2000b, Walker 2001). No obstante, es probable que en el Valle de La Paz, debido a la ausencia de h&aacute;bitats propicios, algunas de las poblaciones hayan sobrevivido en h&aacute;bitats marginales, constituidos por las formaciones de arcilla glaciar (<I>l&ouml;ss</I>) que forman algunos barrancos y quebradas en la ciudad. Al parecer, aunque ese h&aacute;bitat carece de rocas, las profundas grietas en la formaci&oacute;n arcillosa se constituyen en sitios adecuados para que las vizcachas encuentren un lugar apropiado de refugio. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aunque no se determin&oacute; el tama&ntilde;o de los fragmentos y de las poblaciones de vizcachas en cada sitio, parece que algunas poblaciones (p.e. Mallasa, Ermita de Schoenstatt y Kantutani) son muy reducidas, confinadas en peque&ntilde;as quebradas que ofrecen un h&aacute;bitat de pobre calidad. Estas poblaciones peque&ntilde;as son m&aacute;s propensas a la extinci&oacute;n local que aquellas grandes que ocupan un &aacute;rea mayor y de mejor calidad (Walker 2001). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otra caracter&iacute;stica de un h&aacute;bitat propicio para la vizcacha es la presencia en la base del roquedal de un &aacute;rea plana donde la vegetaci&oacute;n pueda crecer (Rowlands 1974). De acuerdo con Pearson (1948), las vizcachas pueden comer muchos tipos de plantas que est&aacute;n disponibles a grandes altitudes, pero otros autores sugieren que las vizcachas buscan selectivamente las gram&iacute;neas y que para ello se aventuran m&aacute;s all&aacute; de sus refugios a pesar del riesgo de ser v&iacute;ctimas de sus predadores (Puig et al. 1998). En algunos sitios en la ciudad de La Paz se observaron heces en lugares alejados de las guaridas, lo que hace pensar que incluso en h&aacute;bitats remanentes y marginales, como los de la ciudad de La Paz y sus alrededores, las vizcachas seleccionan alg&uacute;n tipo de vegetaci&oacute;n para su dieta. Se observaron sitios planos en Mallasa, en la quebrada de El Pedregal y en La Muela del Diablo. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><I><b>Amenazas para su conservaci&oacute;n </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La conservaci&oacute;n de una especie depende de la interdependencia entre las caracter&iacute;sticas de su historia natural y los factores de amenaza que la afectan. Discutimos a continuaci&oacute;n siete factores de amenaza que en interrelaci&oacute;n con la historia natural de la vizcacha afectan la sobrevivencia y conservaci&oacute;n de esa especie en la ciudad de La Paz y sus alrededores. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>1) Fragmentaci&oacute;n del h&aacute;bitat </b></I></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las poblaciones de vizcacha en la ciudad y sus alrededores han sufrido una insularizaci&oacute;n de sus colonias debido a los cambios en la matriz conformada por los parches de h&aacute;bitat que ocupan. Es probable que en la ciudad de La Paz, donde las poblaciones locales son muy peque&ntilde;as, no existan maneras de dispersi&oacute;n entre ellas, y en consecuencia la p&eacute;rdida ocasional de algunos individuos, debido a la predaci&oacute;n o la caza con fines deportivos, podr&iacute;a contribuir a la extinci&oacute;n local de las poblaciones, de acuerdo con el an&aacute;lisis de la demograf&iacute;a estoc&aacute;stica, tal como lo demostr&oacute; Walker et al. (2000a) para el caso de las poblaciones de vizcachas en la Patagonia Argentina. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el caso de la vizcacha el efecto de rescate puede ser irrelevante si no previene apropiadamente la inminente extinci&oacute;n local de la especie. La vizcacha es una especie que presenta limitado movimiento de individuos entre &aacute;reas, lo que es todav&iacute;a m&aacute;s evidente en el caso de las hembras, las cuales permanecen en sus colonias natales mucho m&aacute;s que los machos, que son los que m&aacute;s se dispersan (Galende et al. 1998, Walker 2001). Incluso entre las metapoblaciones la dispersi&oacute;n ser&iacute;a muy baja y cada parche podr&iacute;a representar una poblaci&oacute;n distinta y separada. Aunque los machos llegaran a dispersarse entre los fragmentos de h&aacute;bitat, la colonizaci&oacute;n depender&iacute;a en &uacute;ltima instancia de la mucho m&aacute;s rara dispersi&oacute;n de las hembras, lo cual hace a la especie m&aacute;s propensa a la extinci&oacute;n local (Walker 2001). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el caso de la ciudad de La Paz hay que considerar adem&aacute;s que, aunque los fragmentos estuvieran cercanos, la posibilidad de re-colonizar los parches vac&iacute;os es muy escasa dado que las vizcachas tendr&iacute;an que dispersarse a trav&eacute;s de calles o avenidas y arriesgarse a ser atropelladas o a ser v&iacute;ctimas de predadores en su intento de inmigraci&oacute;n. As&iacute; mismo, en la ciudad, la estocasticidad ambiental y las cat&aacute;strofes, como las que ocurren cuando todo el h&aacute;bitat de un sitio es destruido para construir, pueden ser causas de la extinci&oacute;n local de algunas poblaciones, como fue observado en este estudio en Obrajes Calle 1 y en El Pedregal. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sugerimos que, incluso si no existieran interacciones significantes entre las poblaciones de los diferentes fragmentos, ser&iacute;a conveniente tener m&uacute;ltiples refugios como seguro contra cat&aacute;strofes locales. Por otra parte, proponemos que se protejan no s&oacute;lo los fragmentos ocupados por poblaciones, sino tambi&eacute;n aquellos actualmente desocupados, estos &uacute;ltimos podr&iacute;an constituirse en sitios donde las vizcachas podr&iacute;an migrar y luego colonizar, estableci&eacute;ndose as&iacute; una metapoblaci&oacute;n entre las poblaciones de varios fragmentos. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>2) Calidad del h&aacute;bitat </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La carencia de un h&aacute;bitat apropiado es una limitaci&oacute;n b&aacute;sica a la distribuci&oacute;n de los especialistas estrictos en el uso de h&aacute;bitat, como es la vizcacha (Galende &amp; Grigera 1998, Walker et al. 2003). En la ciudad de La Paz las poblaciones de vizcacha est&aacute;n usando un nuevo tipo de h&aacute;bitat formado por arcilla glaciar (<I>l&ouml;ss</I>), y no sabemos si las caracter&iacute;sticas de este h&aacute;bitat son apropiadas para la sobrevivencia de una especie especialista. Tampoco sabemos c&oacute;mo el comportamiento y la ecolog&iacute;a de la especie han cambiado en respuesta a la alteraci&oacute;n de su h&aacute;bitat. La conservaci&oacute;n y manejo a la luz de estos conocimientos es la &uacute;nica alternativa para salvar las poblaciones y evitar su extinci&oacute;n local. Otro factor que podr&iacute;a afectar la sobrevivencia de las vizcachas en la ciudad de La Paz y sus alrededores es la disponibilidad de recursos alimenticios. Aunque Pearson (1948) mencion&oacute; que las vizcachas subsist&iacute;an primariamente de cualesquiera plantas que encontraban cerca de sus guaridas, estudios espec&iacute;ficos sobre la dieta de esa especie demostraron su preferencia alimenticia por gram&iacute;neas (Galende &amp; Grigera 1998, Gallende et al. 1998, Puig et al. 1998, Cort&eacute;s et al. 2002). En la ciudad de La Paz y sus alrededores, en los dos h&aacute;bitats caracterizados se determin&oacute; una diferencia en la disponibilidad de gram&iacute;neas, tanto en el &aacute;rea alrededor de las guaridas como en la m&aacute;s alejada de ellas. S&oacute;lo estudios espec&iacute;ficos que se realicen en la ciudad de La Paz podr&aacute;n indicarnos la importancia de cada &iacute;tem en la dieta de la vizcacha. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>3) Tama&ntilde;o del h&aacute;bitat </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El tama&ntilde;o del h&aacute;bitat disponible influye en la estructura y organizaci&oacute;n social y en las estrategias reproductivas de la vizcacha (Walker 2001). En la Patagonia argentina, se determin&oacute; que en peque&ntilde;as quebradas los grupos de mayor tama&ntilde;o ten&iacute;an cerca de 20 individuos (Walker 2001), en comparaci&oacute;n con las agregaciones de 75 individuos que encontr&oacute; Pearson (1948) en &aacute;reas rocosas m&aacute;s extensas en Per&uacute;. Es probable que las poblaciones peque&ntilde;as debido a esta relaci&oacute;n tambi&eacute;n se constituya en una amenaza inminente para la conservaci&oacute;n de las poblaciones. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>4) Predaci&oacute;n </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En general, las vizcachas tienen pocos predadores exitosos, hecho que tiene relaci&oacute;n con su baja tasa reproductiva (Pearson, 1948). Entre los predadores m&aacute;s eficientes de las vizcachas est&aacute;n los gatos andinos (<I>Lynchailurus </I>y <I>Oreailurus</I>) (Mann 1978, Yensen &amp; Seymour 2000). As&iacute; mismo, se ha mencionado al zorro andino (<I>Lyncalopex </I>[= <I>Pseudalopex</I>] <I>culpaeus</I>) como un predador de la vizcacha (Mann 1948, Pearson 1948, Rowlands 1974, Walker et al. 2000a). En la ciudad de La Paz y sus alrededores los gatos andinos han sido eliminados de la cadena tr&oacute;fica y s&oacute;lo en un lugar (la Ermita de Schoenstatt) se report&oacute; la presencia del zorro andino. No obstante, en los sitios altamente intervenidos es probable que corran el riesgo de predaci&oacute;n, o al menos amedrentamiento, por parte de perros vagabundos y semi-vagabundos. Pearson (1948) afirm&oacute; que los perros vagabundos o semi-vagabundos son en importancia los segundos predadores de la vizcacha despu&eacute;s de los zorros. No sabemos si los gatos dom&eacute;sticos tambi&eacute;n tienen un rol como predadores de las vizcachas. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>5) Caza </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La caza de la vizcacha ha afectado a las poblaciones de esta especie desde el tiempo de los Incas (Pearson 1948) y desde entonces hasta el presente su piel ha sido utilizada con fines comerciales (Yensen &amp; Tarifa datos no publicados). La disminuci&oacute;n de algunas poblaciones de vizcachas por efecto de la cacer&iacute;a fue denunciada en Chile y Per&uacute; hace m&aacute;s de 20 a&ntilde;os por Pine et al. (1979) y Grimwood (1968). En La Paz las vizcachas han sido cazadas durante a&ntilde;os para alimentaci&oacute;n, para usar su piel y como pr&aacute;ctica &ldquo;deportiva&rdquo;. Esta pr&aacute;ctica tiene un mayor impacto en el caso de peque&ntilde;as poblaciones aisladas que son m&aacute;s f&aacute;cilmente v&iacute;ctimas de la caza, lo que conduce a su extinci&oacute;n (Walker 2001). Por otra parte, el h&aacute;bito diurno de las vizcachas aumenta el riesgo de predaci&oacute;n por parte de los humanos. Mann (1978) describi&oacute; el comportamiento de la vizcacha como dominado por una &ldquo;tranquilidad y gentil mansedumbre&rdquo;, lo que contribuye a que el animal sea m&aacute;s susceptible a convertirse en victima de la cacer&iacute;a. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>6) Especies introducidas </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la Patagonia Argentina la vizcacha ha mostrado una superposici&oacute;n tr&oacute;fica con especies introducidas y dom&eacute;sticas, tales como <I>Lepus</I> y <I>Bos taurus </I>(Galende &amp; Grigera 1998, Galende et al. 1998). En La Muela del Diablo habr&iacute;a que considerar esa alta superposici&oacute;n entre la dieta de la vizcacha y la del ganado vacuno, ya que ambos son altos consumidores de pastos. En el caso de <I>Lepus europaeus</I>, especie introducida en Bolivia, la superposici&oacute;n en la dieta podr&iacute;a afectar poblaciones en otras &aacute;reas del pa&iacute;s, donde las liebres han ingresado y compiten por recursos con la fauna nativa. Es probable que <I>L. europaeus </I>est&eacute; presente en los alrededores de La Paz, ya que ha sido documentado en el &aacute;rea del Lago Titicaca. Es importante documentar en la ciudad de La Paz y sus alrededores la presencia de <I>Lepus </I>en los sitios donde hay vizcachas. </font></P >     <P   align="justify" >&nbsp;</P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><I><b>7) Enfermedades </b></I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La introducci&oacute;n de roedores, como <I>Mus musculus</I>, a causa de la acumulaci&oacute;n de residuos s&oacute;lidos y la presencia de casas, se constituye en un peligro relacionado con la transmisi&oacute;n de enfermedades que no podemos descartar que hayan afectado a las poblaciones de vizcachas en el &aacute;rea urbana. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Importancia de la vizcacha en la ciudad de La Paz </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el pasado, la vizcacha estaba presente en la ciudad de La Paz en &aacute;reas que ahora est&aacute;n totalmente urbanizadas. Por ejemplo, hace medio siglo exist&iacute;an poblaciones de vizcacha en Miraflores (en m&aacute;s una secci&oacute;n de la actual avenida Busch), en Obrajes, en Calacoto, en el Mont&iacute;culo en Sopocachi, en el cerro Laikakota y donde actualmente se encuentra la avenida del Poeta (M. O. Ribera 2004, com. pers.). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Datos m&aacute;s recientes muestran que la extinci&oacute;n local de las vizcachas en el per&iacute;metro urbano ha sido acelerada, por ejemplo a principios de los a&ntilde;os 80, en la zona que actualmente es la urbanizaci&oacute;n Auquisama&ntilde;a se encontraban a&uacute;n, en sitios de f&aacute;cil acceso, grupos de vizcachas. Una situaci&oacute;n similar ocurri&oacute; en la zona de Alto Obrajes en la quebrada hacia Irpavi (M. O. Ribera 2004, com. pers.). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las &aacute;reas m&aacute;s alejadas del per&iacute;metro urbano no han tenido una historia diferente en cuanto a la conservaci&oacute;n de las poblaciones de vizcacha. En la mitad de los a&ntilde;os 80, en el Cactario Municipal entre Aranjuez y Mallasa se observaban regularmente peque&ntilde;os grupos de vizcachas. Entre 1986 y 1991, en las quebradas al sur-suroeste entre Bajo Llojeta y Las Lomas, se pod&iacute;an observar vizcachas con regularidad. Actualmente, toda la zona de Bajo Llojeta ha sido urbanizada y terraplenada y las vizcachas s&oacute;lo persisten en los cerros m&aacute;s alejados y de dif&iacute;cil acceso (M. O. Ribera 2004, com. pers.). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las &aacute;reas de la ciudad de La Paz y sus alrededores en las que hay a&uacute;n remanentes del h&aacute;bitat para la vizcacha podr&iacute;an constituirse en sitios de atractivo tur&iacute;stico y paisaj&iacute;stico. Esta posibilidad es especialmente aplicable en uno de los sitios urbanos, el barranco de Achumani debajo de la meseta, y a tres sitios con baja intervenci&oacute;n humana y alejados del &aacute;rea urbana de la ciudad, como La Muela del Diablo, Achocalla y Ananta. Recordando que La Paz es una ciudad que carece de &aacute;reas verdes y lugares de esparcimiento esas &aacute;reas ser&iacute;an de especial importancia local. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la ciudad de La Paz y en sus alrededores a&uacute;n quedan sitios promisorios para indagar en busca de vizcachas, tal es el caso de, por ejemplo de, a) Urbanizaci&oacute;n Villa Bella, b) Sendero del &Aacute;guila, en los cerros de Aranjuez, c) algunos lugares en Kupini o en la zona de Khallapa que tienen formaciones de suelo arcilloso de origen glaciar (<I>l&ouml;ss</I>), d) la zona de Chicani por arriba de Alto Irpavi, y e) la zona de los &ldquo;<I>Badlands</I>&rdquo; entre Achocalla y Mallasilla (M. Tarifa 2003, com. pers., M. O. Ribera 2004, com. pers.). Adem&aacute;s de otras zonas en la periferia de la ciudad y en zonas de transici&oacute;n entre lo urbano y lo rural. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las zonas identificadas en este estudio y las que a&uacute;n quedan por identificar deber&iacute;an ser declaradas Santuarios o Espacios de Protecci&oacute;n de la Vizcacha, como una medida urgente para salvar las poblaciones que quedan all&iacute;. &Aacute;reas como las quebradas altas de los r&iacute;os Irpavi y Achumani, por encima de los 3.900 m, hacia la gran meseta de Huallatani Pampa, deber&iacute;an ser declaradas como &Aacute;rea Protegida Municipal. All&iacute; se han observado c&oacute;ndores, tarukas, zorros, titis y con frecuencia pumas (M. O. Ribera 2004, com. pers.). </font></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La falta de conocimientos es una limitante en la tarea de trazar estrategias apropiadas y efectivas para prevenir la extinci&oacute;n de la vizcacha en la ciudad de La Paz y sus alrededores. Se requiere con urgencia realizar estudios sobre la din&aacute;mica y estructura de las poblaciones, el uso de h&aacute;bitat, la dieta, el comportamiento, la estrategia reproductiva, competencia con otras especies, entre otros. Adem&aacute;s, un factor de mucha importancia a la hora de salvar una especie de la extinci&oacute;n, en este caso local, es nuestra &eacute;tica en la interacci&oacute;n con el medio ambiente. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hace m&aacute;s de 50 a&ntilde;os Pearson (1948: 373) escribi&oacute;: &ldquo;Las vizcachas son tan f&aacute;ciles de atrapar y cazar con armas de fuego que si el hombre quisiera podr&iacute;a r&aacute;pidamente reducirlas de uno de los mam&iacute;feros m&aacute;s abundantes de los altos Andes a uno de los m&aacute;s raros. Mientras tanto, su silbido de penetrante sonido y su simp&aacute;tica presencia ser&aacute;n la bienvenida para los pastores y viajeros en un reino &aacute;rido&rdquo;[traducci&oacute;n del ingl&eacute;s de TT]. La destrucci&oacute;n del h&aacute;bitat y la cacer&iacute;a de la vizcacha nos han privado en la ciudad de La Paz de continuar disfrutando de la bienvenida y de la presencia de una de las especies m&aacute;s t&iacute;picas, bellas y gentiles del paisaje andino. Ojal&aacute; que sea factible hacer un esfuerzo para preservar esta especie donde a&uacute;n queda para que contin&uacute;e ennobleciendo el paisaje de la ciudad de La Paz y sus alrededores. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Conclusiones y recomendaciones</b> </font></P > <TABLE width="644" border=0   align="center" cellpadding=2 cellspacing=0 > <TR    ><TD    align="left" width="22"  valign="top" height="15"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1) </font></TD ><TD    align="left" width="614"  valign="top" height="15"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las poblaciones de <I>Lagidium viscacia </I>de los alrededores de la ciudad de La Paz est&aacute;n sufriendo una dr&aacute;stica reducci&oacute;n por el avance urbano y la destrucci&oacute;n progresiva de sus h&aacute;bitats. </font></TD > </TR ><TR    ><TD    align="left" width="22"  valign="top" height="22"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2) </font></TD ><TD    align="left" width="614"  valign="middle" height="22"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El avance urbano de la ciudad de La Paz &ndash; y en especial de la zona sur&ndash; no es planificado y no considera factores de impacto ambiental, en especial la destrucci&oacute;n y fragmentaci&oacute;n de h&aacute;bitats de especies nativas como la vizcacha. </font></TD ></TR ><TR    ><TD    align="left" width="22"  valign="top" height="21"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3) </font></TD ><TD    align="left" width="614"  valign="middle" height="21"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Entre los factores de amenaza m&aacute;s importantes para la conservaci&oacute;n de la vizcacha en la ciudad de La Paz y sus alrededores est&aacute;n la fragmentaci&oacute;n del h&aacute;bitat, la calidad y tama&ntilde;o del h&aacute;bitat, la p&eacute;rdida del ecosistema y la cacer&iacute;a. </font></TD ></TR ><TR    ><TD    align="left" width="22"  valign="top" height="21"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4) </font></TD ><TD    align="left" width="614"  valign="middle" height="21"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sugerimos que las autoridades pertinentes tomen medidas para controlar la caza de la vizcacha. Si bien no se trata de una especie protegida en el &aacute;mbito nacional, es obvio que se trata de una especie que en la ciudad de La Paz y sus alrededores se encuentra en peligro de extinci&oacute;n local. </font></TD ></TR ><TR    ><TD    align="left" width="22"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">5)</font></TD><TD    align="left" width="614"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En la ciudad de La Paz y sus alrededores existe actualmente la posibilidad de declarar algunos sitios identificados en este estudio y otros que quedan por determinar como Santuarios o Espacios de Protecci&oacute;n de la Vizcacha o &Aacute;rea Protegida Municipal. </font></TD ></TR ><TR    ><TD    align="left" width="22"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">6) </font></TD><TD    align="left" width="614"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se propone que se realice una labor de educaci&oacute;n destinada a gu&iacute;as de turismo, escolares y al p&uacute;blico en general con el fin proteger la vizcacha y su h&aacute;bitat como una riqueza natural y de atractivo tur&iacute;stico y paisaj&iacute;stico en la ciudad y sus alrededores. </font></TD ></TR ><TR    ><TD    align="left" width="22"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">7)</font></TD><TD    align="left" width="614"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se requiere con urgencia realizar estudios sobre la din&aacute;mica y estructura de las poblaciones, uso de h&aacute;bitat, dieta, comportamiento, estrategia reproductiva, competencia con otras especies, rol ecol&oacute;gico de la especie en sus h&aacute;bitats, etc. </font></TD ></TR ></TABLE >     <p>&nbsp;</p>     <p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos</b></font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Los autores agradecen a Marcos Tarifa por la cuidadosa revisi&oacute;n de la redacci&oacute;n, por sus valiosos comentarios que nos ayudaron a expresar con mayor claridad nuestras ideas y por la informaci&oacute;n sobre otros lugares promisorios para vizcachas en los alrededores de La Paz; a Eric Yensen por sus &uacute;tiles comentarios a la versi&oacute;n inicial de este art&iacute;culo, su asistencia con estad&iacute;stica y por su ayuda con el resumen en ingl&eacute;s. TT agradece a Catalina de Tarifa y Jes&uacute;s I. Tarifa por su invalorable apoyo log&iacute;stico para elaborar versiones previas de este art&iacute;culo, a Cristine Schutz de la biblioteca de Albertson College of Idaho por su asistencia en conseguir literatura especializada, a Lynn C. Branch, R. Susan Walker, Andr&eacute;s J. Novaro y Carola Azurduy por el envi&oacute; de literatura especializada. TT fue curadora de la colecci&oacute;n de mam&iacute;feros de la Colecci&oacute;n Boliviana de Fauna y miembro del Instituto de Ecolog&iacute;a y la Carrera de Biolog&iacute;a de la Universidad Mayor de San Andr&eacute;s en 1999, y agradece el apoyo de esas instituciones. Agradecemos el apoyo y el buen trabajo de Johnny Orihuela en la elaboraci&oacute;n del mapa de los sitios de estudio. Las recomendaciones efectuadas por la editora asociada Lilian Painter ayudaron a mejorar la redacci&oacute;n del manuscrito. Los aportes efectuados por Marco Octavio Ribera, en calidad de revisor, proporcionaron importantes datos hist&oacute;ricos sobre la vizcacha en la ciudad de La Paz y sus alrededores y ayudaron a mejorar la parte de la propuesta ligada a la conservaci&oacute;n de la vizcacha. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias </b></font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Anderson, S. 1997. Mammals of Bolivia, taxonomy and distribution. Bulletin of the American Museum of Natural History, 231: 1-231. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061832&pid=S1605-2528200400070000500001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Beck, S. &amp; E., Garc&iacute;a. 1991. Flora y vegetaci&oacute;n en los diferentes pisos altitudinales. pp. 65-108. En: E. Forno &amp; M. Baudoin (eds.). Historia Natural de un Valle en Los Andes: La Paz. Editorial Instituto de Ecolog&iacute;a &ndash;Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Betancourt, J. L. &amp; B. Saavedra. 2002. Paleomadrigueras de roedores, un nuevo m&eacute;todo para el estudio del Cuaternario en zonas &aacute;ridas de Sudam&eacute;rica. Revista Chilena de Historia Natural 75: 527-546. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cort&eacute;s, A., J. R. Rau, E. Miranda &amp; J. E. Jim&eacute;nez. 2002. H&aacute;bitos alimenticios de <I>Lagidium viscacia</I> y <I>Abrocoma cinerea</I>: roedores sint&oacute;picos en ambientes altoandinos del norte de Chile. Revista Chilena de Historia Natural 75: 583-593. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Galende, G.I. &amp; D. Grigera. 1998. Relaciones alimentar&iacute;as de <I>Lagidium viscacia </I>(Rodentia, Chinchillidae) con herb&iacute;voros introducidos en el Parque Nacional Nahuel Huapi, Argentina. Iheringia, Ser. Zool., Porto Alegre 84: 3-10. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Galende, G.I., D. Grigera &amp; J. Von Thungen. 1998. Composici&oacute;n de la dieta del chinchill&oacute;n (<I>Lagidium viscacia</I>, Chinchillidae) en el noroeste de la Patagonia. Mastozoolog&iacute;a Neotropical 5(2): 123-128. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Garc&iacute;a, E. 1991. Flora de la ciudad de La Paz. pp. 151-168. En: E. Forno &amp; M. Baudoin (eds.). Historia Natural de un Valle en Los Andes: La Paz. Editorial Instituto de Ecolog&iacute;a &ndash;Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Garc&iacute;a, E. 1997. Composici&oacute;n flor&iacute;stica y ecolog&iacute;a de las comunidades ruderales de las calles de la ciudad de La Paz. Ecolog&iacute;a en Bolivia 29: 1-18. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061839&pid=S1605-2528200400070000500008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Grimwood, I.R. 1968. Notes on the distribution and status of some Peruvian mammals. American Committee for International Wild Life Protection and New York Zoological Society, Special Publication 21: 1-86. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061840&pid=S1605-2528200400070000500009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Instituto Nacional de Estad&iacute;sticas. 1999. Estad&iacute;sticas sobre La Paz &ndash; Anexo I.Datos tomados de la p&aacute;gina web del INE: <U><a href="http://www.ine.gov.bo" target="_blank">http://www.ine.gov.bo</a> </U></font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mann F., G. 1945. Mam&iacute;feros de Tarapac&aacute;. Observaciones realizadas durante una expedici&oacute;n al Alto Norte de Chile. Biol&oacute;gica 2: 23-141. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061842&pid=S1605-2528200400070000500011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mann F., G. 1978. Los peque&ntilde;os mam&iacute;feros de Chile. Gayana Zoolog&iacute;a 40: 1-342. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061843&pid=S1605-2528200400070000500012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mengoni-Go&ntilde;alons, G.L. 1986. Vizcacha (<I>Lagidium viscacia</I>) and taruca (<I>Hippocamelus </I>sp.) in early southandean economies. Archaeozoologia, M&eacute;langes: 63-71. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061844&pid=S1605-2528200400070000500013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Mercado, I. &amp; J. Miralles. 1991. Mam&iacute;feros. pp. 293-343. En: E. Forno &amp; M. Baudoin (eds.). Historia Natural de un Valle en Los Andes: La Paz. Editorial Instituto de Ecolog&iacute;a &ndash;Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nowak, R.M. 1999. Walker&rsquo;s Mammals of the world. Sexta edici&oacute;n, Volumen II. The Johns Hopkins University Press, Baltimore. 1936 p. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Liberman C., M. 1991. Geolog&iacute;a del valle de La Paz. pp. 19-26. En: E. Forno &amp; M. Baudoin (eds.). Historia Natural de un Valle en Los Andes: La Paz. Editorial Instituto de Ecolog&iacute;a &ndash;Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Lorini L., J. 1991. Clima. pp. 27-46. En: E. Forno &amp; M. Baudoin (eds.). Historia Natural de un Valle en Los Andes: La Paz. Editorial Instituto de Ecolog&iacute;a &ndash;Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, O.P. 1948. Life history of mountain viscachas in Peru. Journal of Mammalogy 29(4): 345-374. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061849&pid=S1605-2528200400070000500018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, O.P. 1949. Reproduction of a South American rodent, the mountain viscacha. American Journal of Anatomy 84: 143-174. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061850&pid=S1605-2528200400070000500019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, O.P. 1951. Mammals in the highlands of Southern Peru. Bulletin of the Museum of Comparative Zoology 106(3): 117-174. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061851&pid=S1605-2528200400070000500020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pearson, O.P. 1957. Additions to the mammalian fauna of Peru and notes on some other Peruvian mammals. Breviora 73: 1-7. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061852&pid=S1605-2528200400070000500021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pine, R.H., S.D. Miller &amp; M.L. Schamberger. 1979. Contributions to the Mammalogy of Chile. Mammalia 43(3): 339-376. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Puig, S., F. Videla, M. Cona, S. Monge &amp; V. Roig. 1998. Diet of the mountain viscacha (<I>Lagidium viscacia</I>Molina, 1782) and food availability in northern Patagonia, Argentina. Zeitschrift f&uuml;r S&auml;ugetierkunde 63(4): 228-238. </font></P >    <!-- ref --><P   align="" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Rowlands, I.W. 	1974. Mountain viscacha. Symp. Zool. Soc. Lond. 34: 131-142. SYSTAT. 2000. SYSTAT 10. SPSS Inc., Chicago, Illinois. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061855&pid=S1605-2528200400070000500024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref -->    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061856&pid=S1605-2528200400070000500025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Walker, R.S., G. Ackermann, J. Schachter-Broide, V. Pancotto &amp;A.J. Novaro. 2000a. Habitat use by mountain viscachas (<I>Lagidium viscacia </I>Molina, 1782) in the Patagonia steppe. Zeitschrift fur S&auml;ugetierkunde 65: 293-300. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Walker, R.S., V. Pancotto, J. Schachter-Broide, G. Ackermann &amp; A.J. Novaro. 2000b. Evaluation of a fecal-pellet index of abundance for mountain viscachas (<I>Lagidium viscacia</I>) in Patagonia. Mastozoolog&iacute;a Neotropical 7(2): 89-94. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Walker, R.S. 2001. Effects of landscape structure on the distribution of mountain vizcacha (<I>Lagidiumviscacia</I>) in the Patagonian steppe. Ph. D. dissertation. University of Florida, Gainesville. 94 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061859&pid=S1605-2528200400070000500028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Walker, R.S., A.J. Novaro &amp; L.C. Branch. 2003. Effects of patch attributes, barriers, and distance between patches on the distribution of a rock-dwelling rodent (<I>Lagidium viscacia</I>).  Landscape Ecology 18: 187-194. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Yensen, E. &amp; K.L. Seymour. 2000. <I>Oreailurus jacobita</I>. Mammalian Species 644: 1-6. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Zelada, R. 1999. 	Bibliograf&iacute;a geol&oacute;gica de la ciudad de La Paz. pp. 139-144. En: X. Medinacelli (ed.). Balance Bibliogr&aacute;fico de la Ciudad de La Paz, Facultad de Humanidades y Ciencias de la Educaci&oacute;n, Universidad Mayor de San Andr&eacute;s, La Paz, Bolivia.</font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=061862&pid=S1605-2528200400070000500031&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Agosto de 2003. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Lilian Painter </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptado en: Junio de 2004. </font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals of Bolivia, taxonomy and distribution]]></article-title>
+<source><![CDATA[Bulletin of the American Museum of Natural History]]></source>
+<year>1997</year>
+<volume>231</volume>
+<page-range>1-231</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beck]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Flora y vegetación en los diferentes pisos altitudinales]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<page-range>65-108</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Instituto de Ecología -Universidad Mayor de San Andrés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Betancourt]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Saavedra]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Paleomadrigueras de roedores, un nuevo método para el estudio del Cuaternario en zonas áridas de Sudamérica]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2002</year>
+<volume>75</volume>
+<page-range>527-546</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cortés]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rau]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miranda]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jiménez]]></surname>
+<given-names><![CDATA[J.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Hábitos alimenticios de Lagidium viscacia y Abrocoma cinerea: roedores sintópicos en ambientes altoandinos del norte de Chile]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2002</year>
+<volume>75</volume>
+<page-range>583-593</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Galende]]></surname>
+<given-names><![CDATA[G.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grigera]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Relaciones alimentarías de Lagidium viscacia (Rodentia, Chinchillidae) con herbívoros introducidos en el Parque Nacional Nahuel Huapi, Argentina]]></article-title>
+<source><![CDATA[Iheringia, Ser. Zool., Porto Alegre]]></source>
+<year>1998</year>
+<volume>84</volume>
+<page-range>3-10</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Galende]]></surname>
+<given-names><![CDATA[G.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grigera]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Von Thungen]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Composición de la dieta del chinchillón (Lagidium viscacia, Chinchillidae) en el noroeste de la Patagonia]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>1998</year>
+<volume>5</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>123-128</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Flora de la ciudad de La Paz]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<page-range>151-168</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Instituto de Ecología -Universidad Mayor de San Andrés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[García]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Composición florística y ecología de las comunidades ruderales de las calles de la ciudad de La Paz]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>1997</year>
+<volume>29</volume>
+<page-range>1-18</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Grimwood]]></surname>
+<given-names><![CDATA[I.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Notes on the distribution and status of some Peruvian mammals]]></article-title>
+<source><![CDATA[American Committee for International Wild Life Protection and New York Zoological Society, Special Publication]]></source>
+<year>1968</year>
+<volume>21</volume>
+<page-range>1-86</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="">
+<collab>Instituto Nacional de Estadísticas</collab>
+<source><![CDATA[Estadísticas sobre La Paz- Anexo I]]></source>
+<year>1999</year>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mann F.]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mamíferos de Tarapacá Observaciones realizadas durante una expedición al Alto Norte de Chile]]></article-title>
+<source><![CDATA[Biológica]]></source>
+<year>1945</year>
+<volume>2</volume>
+<page-range>23-141</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mann F.]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Los pequeños mamíferos de Chile]]></article-title>
+<source><![CDATA[Gayana Zoología]]></source>
+<year>1978</year>
+<volume>40</volume>
+<page-range>1-342</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mengoni-Goñalons]]></surname>
+<given-names><![CDATA[G.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Vizcacha (Lagidium viscacia) and taruca (Hippocamelus sp.) in early southandean economies]]></article-title>
+<source><![CDATA[Archaeozoologia]]></source>
+<year>1986</year>
+<page-range>63-71</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mercado]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miralles]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Mamíferos]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[M.]]></surname>
+<given-names><![CDATA[Baudoin]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<page-range>293-343</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Instituto de Ecología -Universidad Mayor de San Andrés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nowak]]></surname>
+<given-names><![CDATA[R.M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Walker&#8217;s Mammals of the world]]></source>
+<year>1999</year>
+<volume>II</volume>
+<edition>Sexta</edition>
+<page-range>1936</page-range><publisher-loc><![CDATA[Baltimore ]]></publisher-loc>
+<publisher-name><![CDATA[The Johns Hopkins University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Liberman C.]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Geología del valle de La Paz]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<page-range>19-26</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Instituto de Ecología -Universidad Mayor de San Andrés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lorini L.]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Clima]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Forno]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Baudoin]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Historia Natural de un Valle en Los Andes: La Paz]]></source>
+<year>1991</year>
+<page-range>27-46</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Instituto de Ecología -Universidad Mayor de San Andrés]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[O.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Life history of mountain viscachas in Peru]]></article-title>
+<source><![CDATA[Journal of Mammalogy]]></source>
+<year>1948</year>
+<volume>29</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>345-374</page-range></nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[O.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Reproduction of a South American rodent, the mountain viscacha]]></article-title>
+<source><![CDATA[American Journal of Anatomy]]></source>
+<year>1949</year>
+<volume>84</volume>
+<page-range>143-174</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[O.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mammals in the highlands of Southern Peru]]></article-title>
+<source><![CDATA[Bulletin of the Museum of Comparative Zoology]]></source>
+<year>1951</year>
+<volume>106</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>117-174</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pearson]]></surname>
+<given-names><![CDATA[O.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Additions to the mammalian fauna of Peru and notes on some other Peruvian mammals]]></article-title>
+<source><![CDATA[Breviora]]></source>
+<year>1957</year>
+<volume>73</volume>
+<page-range>1-7</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pine]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Miller]]></surname>
+<given-names><![CDATA[S.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schamberger]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Contributions to the Mammalogy of Chile]]></article-title>
+<source><![CDATA[Mammalia]]></source>
+<year>1979</year>
+<volume>43</volume>
+<numero>3</numero>
+<issue>3</issue>
+<page-range>339-376</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Puig]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Videla]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cona]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[S]]></surname>
+<given-names><![CDATA[Monge.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Roig]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Diet of the mountain viscacha (Lagidium viscaciaMolina, 1782) and food availability in northern Patagonia, Argentina]]></article-title>
+<source><![CDATA[Zeitschrift für Säugetierkunde]]></source>
+<year>1998</year>
+<volume>63</volume>
+<numero>4</numero>
+<issue>4</issue>
+<page-range>228-238</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Rowlands]]></surname>
+<given-names><![CDATA[I.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Mountain viscacha]]></article-title>
+<source><![CDATA[Symp. Zool. Soc. Lond.]]></source>
+<year>1974</year>
+<volume>34</volume>
+<page-range>131-142</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="book">
+<collab>SYSTAT</collab>
+<source><![CDATA[SYSTAT 10]]></source>
+<year>2000</year>
+<publisher-loc><![CDATA[Chicago^eIllinois Illinois]]></publisher-loc>
+<publisher-name><![CDATA[SPSS Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackermann]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schachter-Broide]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pancotto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Habitat use by mountain viscachas (Lagidium viscacia Molina, 1782) in the Patagonia steppe]]></article-title>
+<source><![CDATA[Zeitschrift fur Säugetierkunde]]></source>
+<year>2000</year>
+<month>a</month>
+<volume>65</volume>
+<page-range>293-300</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pancotto]]></surname>
+<given-names><![CDATA[V.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schachter-Broide]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ackermann]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluation of a fecal-pellet index of abundance for mountain viscachas (Lagidium viscacia) in Patagonia]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>2000</year>
+<month>b</month>
+<volume>7</volume>
+<numero>2</numero>
+<issue>2</issue>
+<page-range>89-94</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Effects of landscape structure on the distribution of mountain vizcacha (Lagidiumviscacia) in the Patagonian steppe]]></source>
+<year>2001</year>
+<page-range>94</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Branch]]></surname>
+<given-names><![CDATA[L.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effects of patch attributes, barriers, and distance between patches on the distribution of a rock-dwelling rodent (Lagidium viscacia)]]></article-title>
+<source><![CDATA[Landscape Ecology]]></source>
+<year>2003</year>
+<volume>18</volume>
+<page-range>187-194</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yensen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Seymour]]></surname>
+<given-names><![CDATA[K.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Oreailurus jacobita]]></article-title>
+<source><![CDATA[Mammalian Species]]></source>
+<year>2000</year>
+<volume>644</volume>
+<page-range>1-6</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zelada]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bibliografía geológica de la ciudad de La Paz]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Medinacelli]]></surname>
+<given-names><![CDATA[X.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Balance Bibliográfico de la Ciudad de La Paz]]></source>
+<year>1999</year>
+<page-range>139-144</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

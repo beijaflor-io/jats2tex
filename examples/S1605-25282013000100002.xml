@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282013000100002</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[El rol de las poblaciones marginales en la conservación del acervo genético de la única conífera del sur de Yungas en Argentina y Bolivia, Podocarpus parlatorei (Podocarpaceae)]]></article-title>
+<article-title xml:lang="en"><![CDATA[The role of the marginal populations in the conservation of the gene pool of the only conifer Podocarpus parlatorei from south Yungas in Argentine and Bolivia]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[Maria Paula]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Premoli]]></surname>
+<given-names><![CDATA[Andrea C.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Nacional del Comahue Consejo Nacional de Investigaciones Científicas y Tecnológicas Instituto de Investigaciones en Biodiversidad y Medioambiente]]></institution>
+<addr-line><![CDATA[Bariloche ]]></addr-line>
+<country>Argentina</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>04</month>
+<year>2013</year>
+</pub-date>
+<volume>48</volume>
+<numero>1</numero>
+<fpage>4</fpage>
+<lpage>16</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282013000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282013000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282013000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[La conservación del acervo genético asegura el potencial evolutivo y los eventos de especiación. Para desarrollar potenciales planes de conservación, uso sustentable y manejo de las especies, es importante conocer los patrones de distribución de las variantes genéticas y de la diversidad genética. Podocarpus parlatorei (Podocarpaceae) es una especie protegida bajo el Apéndice I de CITES y es la única conífera nativa tolerante al frío que habita la selva montana del extremo sur de Yungas subtropicales. Presenta una distribución naturalmente fragmentada, que abarca 13° de latitud sobre la cordillera Oriental. En este trabajo analizamos 21 poblaciones de Argentina y Bolivia, que incluyen todo el rango de distribución, con dos marcadores moleculares distintos para analizar el rol de las poblaciones marginales como reservorio de variantes particulares y de diversidad genética. Utilizamos electroforesis de isoenzimas y secuencias de ADN del cloroplasto. Calculamos parámetros de diversidad genética, aplicamos análisis multivariados de agrupamiento en base a distancias genéticas y bayesiano de estructuración. Los resultados ponen de manifiesto que existen variantes genéticas únicas para ambos marcadores en las poblaciones del sur de la distribución y para poblaciones del norte. La distribución de la diversidad genética entre ambos marcadores difiere, siendo para isoenzimas las poblaciones del sur las más diversas y para ADN del cloroplasto las del centro de la distribución. Las poblaciones con alta diversidad y haplotipos únicos no se encuentran dentro de áreas protegidas, por lo que sugerimos que algunas poblaciones sean consideradas en futuros planes de conservación.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[The conservation of the gene pool preserves the evolutionary potential and speciation events. To develop potential plans for conservation, sustainable use, and management of the species, it is important to know the distribution patterns of genetic variants and genetic diversity. Podocarpus parlatorei (Podocarpaceae) is the only cold-tolerant native conifer listed as CITES Appendix I from the southern-most limit of the subtropical Yungas. It has a naturally fragmented distribution, covering 13° of latitude on the Eastern Cordillera. In this paper we analyze 21 populations from Argentina and Bolivia, through the entire range, with two molecular markers to detect the role of marginal populations as reservoirs of unique genetic variants and diversity. We used isozyme electrophoresis and chloroplast DNA sequences. We calculated different parameters of genetic diversity, we performed multivariate analysis using genetic distances between population pairs and of Bayesian structure. The results show that unique genetic variants for both markers exist in southern and northern populations. The distribution of genetic diversity between markers is different, being that of isozymes of southern populations the most diverse and of chloroplast DNA those at the distribution center. Some of these populations are located outside protected areas, so we suggest some populations to be considered in future conservation plans.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bosque montano]]></kwd>
+<kwd lng="es"><![CDATA[Filogeografía]]></kwd>
+<kwd lng="es"><![CDATA[Genética de poblaciones]]></kwd>
+<kwd lng="es"><![CDATA[Podocarpaceae]]></kwd>
+<kwd lng="es"><![CDATA[Sudamérica]]></kwd>
+<kwd lng="en"><![CDATA[Montane forest]]></kwd>
+<kwd lng="en"><![CDATA[Phylogeography]]></kwd>
+<kwd lng="en"><![CDATA[Podocarpaceae]]></kwd>
+<kwd lng="en"><![CDATA[Population genetics]]></kwd>
+<kwd lng="en"><![CDATA[South America]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>El rol de las poblaciones marginales en la conservación del acervo</b></font> <b><font face="Verdana" size="4">genético de la única conífera del sur de Yungas en Argentina y</font> <font face="Verdana" size="4">Bolivia, <i>Podocarpus parlatorei </i>(Podocarpaceae)</font></b></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>The role of the marginal populations in the conservation of the gene pool of</b></font> <b><font face="Verdana" size="3">the only conifer <i>Podocarpus parlatorei </i>from south Yungas in</font> <font face="Verdana" size="3">Argentine and Bolivia</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Maria Paula Quiroga<sup>1</sup> &amp; Andrea C. Premoli<sup>1,2</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Laboratorio Ecotono, Instituto de Investigaciones en Biodiversidad y Medioambiente, Consejo Nacional</font> <font face="Verdana" size="2">de Investigaciones Científicas y Tecnológicas, Universidad Nacional del Comahue, Quintral 1250,</font> <font face="Verdana" size="2">8400 Bariloche, Argentina Email: <a href="mailto:emepequ@gmail.com">emepequ@gmail.com</a>, <a href="mailto:paulaquiroga@comahue-conicet.gob.ar">paulaquiroga@comahue-conicet.gob.ar</a></font>    <br> <font face="Verdana" size="2">* Autora de correspondencia</font>    ]]></body>
+<body><![CDATA[<br> <font face="Verdana" size="2"><sup>2</sup>Universidad Nacional del Comahue, Centro Regional Universitario Bariloche, Quintral 1250, 8400 Bariloche, Argentina <a href="mailto:andrea.premoli@gmail.com">andrea.premoli@gmail.com</a></font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">La conservación del acervo genético asegura el potencial evolutivo y los eventos de especiación. Para desarrollar potenciales planes de conservación, uso sustentable y manejo de las especies, es importante conocer los patrones de distribución de las variantes genéticas y de la diversidad genética. <i>Podocarpus parlatorei </i>(Podocarpaceae) es una especie protegida bajo el Apéndice I de CITES y es la única conífera nativa tolerante al frío que habita la selva montana del extremo sur de Yungas subtropicales. Presenta una distribución naturalmente fragmentada, que abarca 13&deg; de latitud sobre la cordillera Oriental. En este trabajo analizamos 21 poblaciones de Argentina y Bolivia, que incluyen todo el rango de distribución, con dos marcadores moleculares distintos para analizar el rol de las poblaciones marginales como reservorio de variantes particulares y de diversidad genética. Utilizamos electroforesis de isoenzimas y secuencias de ADN del cloroplasto. Calculamos parámetros de diversidad genética, aplicamos análisis multivariados de agrupamiento en base a distancias genéticas y bayesiano de estructuración. Los resultados ponen de manifiesto que existen variantes genéticas únicas para ambos marcadores en las poblaciones del sur de la distribución y para poblaciones del norte. La distribución de la diversidad genética entre ambos marcadores difiere, siendo para isoenzimas las poblaciones del sur las más diversas y para ADN del cloroplasto las del centro de la distribución. Las poblaciones con alta diversidad y haplotipos únicos no se encuentran dentro de áreas protegidas, por lo que sugerimos que algunas poblaciones sean consideradas en futuros planes de conservación.</font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Bosque montano, Filogeografía, Genética de poblaciones, Podocarpaceae, Sudamérica.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">The conservation of the gene pool preserves the evolutionary potential and speciation events. To develop potential plans for conservation, sustainable use, and management of the species, it is</font> <font face="Verdana" size="2">important to know the distribution patterns of genetic variants and genetic diversity. <i>Podocarpus parlatorei </i>(Podocarpaceae) is the only cold-tolerant native conifer listed as CITES Appendix I from the southern-most limit of the subtropical Yungas. It has a naturally fragmented distribution, covering 13&deg; of latitude on the Eastern Cordillera. In this paper we analyze 21 populations from Argentina and Bolivia, through the entire range, with two molecular markers to detect the role of marginal populations as reservoirs of unique genetic variants and diversity. We used isozyme electrophoresis and chloroplast DNA sequences. We calculated different parameters of genetic diversity, we performed multivariate analysis using genetic distances between population pairs and of Bayesian structure. The results show that unique genetic variants for both markers exist in southern and northern populations. The distribution of genetic diversity between markers is different, being that of isozymes of southern populations the most diverse and of chloroplast DNA those at the distribution center. Some of these populations are located outside protected areas, so we suggest some populations to be considered in future conservation plans. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Key words:</b> Montane forest, Phylogeography, Podocarpaceae, Population genetics, South America.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Las poblaciones marginales siempre han sido objeto de estudio y prioritarias en prácticas de conservación, por presentar características que las hacen únicas o particulares respecto del resto de la distribución de una especie dada. Si bien, en algunas circunstancias pueden apreciarse caracteres morfológicos que las hacen distintivas, muchas veces las poblaciones marginales presentan huellas genéticas de eventos contemporáneos y/o históricos que no son fácilmente detectables. Las poblaciones marginales a la distribución de las especies son relevantes en conservación en relación con la protección de procesos evolutivos y potenciales eventos de especiación (Lesica &amp; Allendorf 1995). En ambientes marginales pueden existir presiones diferenciales que seleccionen determinados genotipos que podrían resultar en novedades evolutivas. Sin embargo y en comparación con poblaciones centrales, las poblaciones marginales poseen menor diversidad genética producto del menor tamaño poblacional, la endogamia y el aislamiento (Eckert <i>et al. </i>2008). Además, se encuentran más expuestas que las poblaciones centrales a sufrir modificaciones en los tamaños poblacionales, ya sea porque son relicto de una distribución más amplia de una especie que se encuentra</font> <font face="Verdana" size="2">en retracción o porque son poblaciones nuevas de una especie que se encuentra en expansión. Si bien ambas alternativas implican cambios en el rango geográfico, la primera implica la reducción del tamaño poblacional y/o del área de distribución geográfica con consecuencias genéticas de deriva génica y endogamia, mientras que la segunda contempla un posible aumento del tamaño poblacional y los efectos genéticos del evento fundador.</font></p>     <p align="justify"><font face="Verdana" size="2">Las especies responderán a los cambios climáticos según sus tolerancias ecológicas pudiendo modificar sus áreas geográficas de distribución. Bajo esta premisa, las especies mesotérmicas y por lo tanto intolerantes a las bajas temperaturas se verán beneficiadas durante periodos climáticos cálidos incrementando sus áreas de distribución. Mientras que las microtérmicas que son tolerantes a climas fríos reducirán sus áreas de distribución durante los interglaciares y serán desplazadas por competencia hacia zonas de mayor altitud. Por otro lado, las especies microtérmicas ampliarán su rango en períodos climáticos fríos dependiendo de la disponibilidad de áreas libres de hielo. La configuración actual de las áreas de distribución, es producto de sucesivas alternancias de periodos cálidos y fríos ocurridos desde fines del Neógeno (Plioceno</font> <font face="Verdana" size="2">hace 5.3 millones de años) y durante el Cuaternario (Pleistoceno hace 2.5 millones de años) (Hewitt 2004). Así, en las zonas montañosas subtropicales de Sudamérica, ocurre una marcada estructuración altitudinal de las especies según sus tolerancias ecológicas. </font></p>     <p align="justify"><font face="Verdana" size="2">El género <i>Podocarpus </i>(Podocarpaceae) está ampliamente distribuido en toda la cadena montañosa de los Andes tropicales y subtropicales de Mesoamérica y Sudamérica. Los registros polínicos muestran que es un género que ha respondido a los cambios climáticos, desplazándose altitudinalmente según sus tolerancias ecológicas y periodo climático (Cárdenas <i>et al. </i>2011). Sin embargo, no es posible identificar a las distintas especies de <i>Podocarpus </i>en el registro polínico, ya que el polen es morfológicamente similar para todas ellas (Hooghiemstra <i>et al. </i>2006). La única conífera que crece en el bosque montano de Yungas es <i>Podocarpus parlatorei </i>Pilg. Es una especie tolerante a climas fríos y la única representante de la familia Podocarpaceae de distribución subtropical que alcanza las latitudes más australes en Yungas con una amplitud geográfica de 13&deg; de latitud. <i>Podocarpus parlatorei </i>pertenece a la sección <i>Capitulatis, </i>las especies de <i>Podocarpus </i>de esta sección poseen una distribución disyunta: hacia latitudes tropicales en el bosque de Yungas y en el norte de Brasil, hacia el este en la Mata Atlántica y en el bosque templado austral hacia el sur. En Bolivia <i>Podocarpus parlatorei </i>se distribuye en los Yungas peruano-bolivianos (Navarro &amp; Ferreira 2004) y en Argentina en el bosque boliviano-tucumano (según Josse <i>et al</i>. 2003), los cuales se encuentran naturalmente fragmentados, ya que ocupan las superficies más elevadas de las montañas o los frentes que reciben las lluvias provenientes del Atlántico. En este estudio daremos elementos de base molecular para analizar la dinámica de las poblaciones marginales de <i>P. parlatorei. </i>Marcadores moleculares que difieren en su tasa de mutación permiten analizar procesos que impactaron sobre los rangos de las especies</font> <font face="Verdana" size="2">en distintas ventanas temporales. Así los polimorfismos isoenzimáticos permiten inferir sobre la historia contemporánea (Holocénica) de las poblaciones, mientras que las secuencias de ADN del cloroplasto se relacionan con procesos antiguos (Pleistocénicos). Sobre la base de las características genéticas de poblaciones de <i>Podocarpus parlatorei </i>de Bolivia y Argentina el objetivo es determinar si existieron áreas estables a lo largo de la distribución geográfica y si las poblaciones marginales sufrieron retracciones o expansiones dependiendo de los periodos climáticos cálidos y fríos, respectivamente. Finalmente y en base a información genética sugerimos acciones de conservación de las poblaciones marginales para esta especie.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Métodos</b></font></p>     <p align="justify"><font face="Verdana" size="2"><i>Podocarpus parlatorei </i>puede formar bosques mixtos con <i>Alnus acuminata </i>(Betulaceae), <i>Cedrela lilloi </i>(Meliaceae) y <i>Juglans australis </i>(Juglandaceae) o bien formar bosques monoespecíficos, como los que se encuentran al sur de la distribución en Argentina en la provincia de Catamarca (Fra <i>et al. </i>2007). A lo largo de toda la distribución, se colectaron en total 208 individuos pertenecientes a 21 poblaciones, de las cuales cuatro se ubican en Bolivia y las restantes en Argentina (<a href="#t1">Tabla 1</a>). Todos los individuos analizados, independientemente de su estado actual de conservación, provinieron de poblaciones silvestres, donde no ha ocurrido ningún tipo de manejo forestal, ni cultivo por semillas. Se utilizaron dos marcadores moleculares neutros diferentes para analizar los niveles y distribución de la diversidad genética de las poblaciones. Las isoenzimas son nucleares (diploide), de herencia codominante, que sufre recombinación. Las secuencias de ADN del cloroplasto (ADNc) son marcadores haploides que no sufren recombinación y además en podocarpáceas posee herencia uniparental de tipo paterna (Wilson &amp; Owens 1997).</font></p>     <p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v48n1/a02_tabla_01.gif" width="854" height="635"></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">El estudio isoenzimático incluyó el muestreo y análisis de 17 poblaciones de Argentina y una en Bolivia (466 individuos totales, 25-30 individuos por población). Se extrajeron las enzimas según el protocolo de Mitton <i>et al. </i>(1979). Se resolvieron 16 locus isoenzimáticos corridos sobre geles de almidón al 12% P/V, en tres sistemas buffer diferentes: Sistema A (Clayton &amp; Treliak 1972) a pH 6.1 sobre el que se resolvieron isocitrato deshidrogenasa (Idh), malato deshidrogenasa (Mdh1, Mdh2, Mdh3) y fosfoglucoisomerasa (Pgi1, Pgi2). En el sistema 16 (O'Malley <i>et al. </i>1979) a pH 8.5, se resolvieron los loci de peroxidasa anódica (PerA1, PerA2, PerA3, PerA4, PerA5). El tercer sistema utilizado fue 26 (Poulik 1957) a pH 8.2 en el cual se resolvieron menadiona reductasa (Mnr 1, Mnr2, Mnr3) y fosfoglucomutasa (Pgm1, Pgm2).</font></p>     <p align="justify"><font face="Verdana" size="2">Con estos datos se calcularon diversos parámetros de diversidad poblacional tales como el número medio de alelos por locus (N<sub>A</sub>), el número efectivo de alelos por locus (N<sub>E</sub>), el porcentaje de loci polimórficos <i>sensu stricto </i>(P<sub>SS</sub>) y la heterocigosis observada (H<sub>O</sub>) y esperada (H<sub>E</sub>) bajo la condición de equilibrio Hardy - Weinberg. Con estas variables genéticas se realizaron regresiones múltiples con la latitud, longitud y elevación de cada una de las poblaciones.</font></p>     <p align="justify"><font face="Verdana" size="2">La estructura genética se analizó con el programa de inferencia bayesiana STRUCTURE V 2.3.1. (Falush <i>et al. </i>2007), que permite explorar si existe diferenciación genética entre las poblaciones. Se utilizó el modelo de mezcla con frecuencias dependientes donde se corrieron 500.000 réplicas de cadenas de Markov de Monte Carlo (MCMC por sus siglas en inglés) con un quemado previo de 150000. La corrida se realizó para valores de <i>K </i>(valor máximo de poblaciones posibles) entre 1-7 poblaciones con cinco réplicas para cada <i>K. </i>El número óptimo de <i>K </i>fue seleccionado siguiendo la metodología de Evanno <i>et al. </i>(2005). Este análisis sólo se realizó con los datos isoenzimáticos, ya que el programa no admite datos haploides.</font></p>     <p align="justify"><font face="Verdana" size="2">Asimismo se analizaron los patrones de agrupamiento poblacional mediante análisis multivariado en base a distancias genéticas (Nei 1972) con el programa Popgen v. 3.2 (Yeh &amp; Boyle 1997).</font></p>     <p align="justify"><font face="Verdana" size="2">Para los análisis de ADN del cloroplasto (ADNc) las extracciones se realizaron en base al protocolo de extracción para plantas del mini-kit de QIAGEN. Se extrajo ADN de 10 individuos por población y se incluyeron las poblaciones Tarija (TJ), Valle Serrano (VS) y Monteagudo (MG) de Bolivia; para la población Tarija se utilizó material de los herbarios de La Paz y de Cochabamba. El número de individuos por población es menor que para isoenzimas, porque se espera encontrar menor cantidad de polimorfismo por ser un marcador evolutivamente más conservado. Se amplificó la región intergénica no codificante trnL-trnF (Taberlet 1995) mediante reacción en cadena de la polimerasa (PCR, por sus siglas en inglés). Esta fue la única región polimórfica que se obtuvo luego de buscar polimorfismo en otras cuatro regiones del cloroplasto, tres marcadores para el ADN de la mitocondria y la región ITS1-2 del ADN nuclear. Las secuencias fueron analizadas en un secuenciador ABI 3100 Avant del Laboratorio Ecotono de la Universidad Nacional del Comahue en Bariloche (Argentina).</font></p>     <p align="justify"><font face="Verdana" size="2">Las secuencias se alinearon manualmente con el programa MEGA4 (Tamura <i>et al. </i>2007). Para cada especie se calcularon diversos parámetros de diversidad genética: Número de haplotipos (H), diversidad genética (h) y diversidad nucleotídica (p) utilizando el programa ARLEQUIN v 3.0 (Excoffier <i>et al. </i>2005). Estas variables se correlacionaron con la latitud, longitud y elevación, mediante regresiones lineales y no lineales. La relación entre los diferentes haplotipos se analizó mediante un análisis de red de expansión mínima con el programa Network 4.5 (<a href="http://www.fluxus-engineering.com" target="_blank">fluxus-engineering.com</a>), bajo el supuesto de unión media (Bandelt <i>et al. </i>1999). También se analizaron los patrones de estructuración</font> <font face="Verdana" size="2">geográfica mediante análisis multivariado de agrupamiento de pares de distancias genéticas (Nei 1972) con el programa Popgen v.3.2 (Yeh &amp; Boyle 1997). La asociación entre ambas matrices de pares de valores de distancia genética (isoenzimas y ADNc) se analizó mediante test de Mantel.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Resultados</b></font></p>     <p align="justify"><font face="Verdana" size="2">El análisis con isoenzimas arrojó un 58.82% de polimorfismo para <i>Podocarpus parlatorei </i>(de los 16 loci que se resolvieron, nueve resultaron polimórficos). Las variables del número de alelos efectivos por locus (N<sub>E</sub>), la heterocigosis observada (H<sub>O</sub>) y esperada (H<sub>E</sub>) resultaron estar asociadas significativamente de manera</font> <font face="Verdana" size="2">positiva con la latitud (R=0.54, p=0.01; R=0.65, p=0.002; R=0.60, p=0.007, respectivamente), mientras que el número de alelos por locus (N<sub>A</sub>) aumentó significativamente con la longitud (R=0.48, p=0.04) (<a href="#t1">Tabla 1</a>).</font></p>     <p align="justify"><font face="Verdana" size="2">El análisis bayesiano de estructuración geográfica con datos isoenzimáticos distingue claramente dos grupos <i>(K=2) </i>(<a href="#f1">Fig. 1</a>), uno formado por las poblaciones del sur (CC, PG, TG, LB, TF y ER) y otro por las restantes. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v48n1/a02_figura_01.gif" width="648" height="500"></p>     <p align="justify"><font face="Verdana" size="2">Un resultado similar arrojó el análisis multivariado de agrupamiento de pares de distancias genéticas (<a href="#f2">Fig. 2a</a>) para datos enzimáticos, donde se agrupan las seis poblaciones antes mencionadas. </font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v48n1/a02_figura_02.gif" width="615" height="765"></p>     <p align="justify"><font face="Verdana" size="2">Estas seis poblaciones tienen variantes genéticas que las distinguen de las demás tales como la variación observada en la</font> <font face="Verdana" size="2">frecuencia del alelo más común para los loci MDH1 y PGI1 y la presencia de alelos de baja frecuencia ausentes en las demás poblaciones (<a href="#f3">Fig. 3</a> gráfico de tortas de la izquierda).</font></p>     <p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v48n1/a02_figura_03.gif" width="630" height="951"></p>     <p align="justify"><font face="Verdana" size="2">La secuencia del fragmento trnL-trnF del ADNc de <i>Podocarpus parlatorei </i>resultó variable, consistiendo entre 330-278 pares de bases (pb).</font></p>     <p align="justify"><font face="Verdana" size="2">La diferencia corresponde a una inserción-deleción de 13 pb que puede repetirse entre unay tres veces y a tres sitios polimórficos (transición/ transversión). La diversidad genética haploide muestra una asociación geográfica con la latitud de manera cuadrática, siendo las poblaciones ubicadas a latitudes extremas las que presentan</font> <font face="Verdana" size="2">una menor diversidad genética (R=0.50, p=0.07). Se detectaron en total ocho haplotipos (H) (JQ860351 a JQ860358 <a href="http://www.ncbi.nlm.nih.gov" target="_blank">www.ncbi.nlm.nih.gov</a>) (<a href="#f3">Fig. 3a</a>, gráficos de tortas de la derecha). Uno de ellos está presente en todas las poblaciones analizadas (H1), mientras que un segundo haplotipo de amplia distribución tiende a disminuir su frecuencia hacia los extremos norte y sur de la distribución (H2); el H3 sólo se encuentra en la población MG ubicada al norte de la distribución en Bolivia y el H4 en la población SA en el centro de la distribución en Argentina; los H5, H6 y H7 son más frecuentes en las poblaciones del centro de la distribución; finalmente el H8 se encuentra restringido a las poblaciones del sur de la distribución en las provincias de Catamarca y sur de Tucumán en Argentina.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">La relación entre los haplotipos resultó de tipo estrella (<a href="#f3">Fig. 3b</a>). Esta red representa el menor número de cambios ordenados entre las secuencias de los distintos haplotipos. Cada círculo representa un haplotipo y su tamaño la frecuencia. Los haplotipos centrales son comunes a partir de los cuales salen hacia la periferia otros haplotipos menos frecuentes o raros, sugiriendo que estas variables derivaron de un ancestro común. Si bien la red no está perfectamente resuelta dado que existe una circularidad, esto permite postular hipótesis parsimoniosas, sugiriendo una relativamente reciente diversificación de las variantes haplotídicas para este marcador en esta especie.</font></p>     <p align="justify"><font face="Verdana" size="2">El test de Mantel realizado entre las matrices de pares de distancias genéticas de datos isoenzimáticos y de las secuencias de ADNc indicó que no están relacionadas (R=0.093, p=0.1), sugiriendo que los patrones de diversidad genética son divergentes entre ambos marcadores (<a href="#f2">Figs. 2a-b</a>). En el caso de las isoenzimas, agrupa poblaciones con similares valores de diversidad genética, siendo las poblaciones del sur un grupo consolidado con elevada diversidad genética. Sin embargo para los datos de ADNc, el primer clado agrupa</font> <font face="Verdana" size="2">tanto a poblaciones del sur como del norte con baja diversidad genética. Luego los demás agrupamientos nuclean a las poblaciones del centro con moderada a elevada diversidad, discriminando entre poblaciones con distinta frecuencia de los haplotipos más comunes, ya sea rojo (H1) o verde (H2).</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Discusión</b></font></p>     <p align="justify"><font face="Verdana" size="2">La utilización de marcadores moleculares con diferente tipo de ploidía, herencia, tasa de mutación y recombinación, permiten realizar distintas interpretaciones orientadas a postular hipótesis bajo diferentes escenarios históricos. Las isoenzimas por su naturaleza de herencia biparental, permiten tener una visión contemporánea de la condición de diversidad y variación genética dentro y entre las poblaciones. Si bien las isoenzimas son marcadores relativamente económicos, presentan mucha menor variación que los microsatélites, pero estos a su vez requieren ser desarrollados para cada especie en particular. Esto implica un costo mayor y una compleja puesta a punto.</font></p>     <p align="justify"><font face="Verdana" size="2">Por otro lado, en el caso de <i>P. parlatorei, </i>la información suministrada por las secuencias de ADN del cloroplasto, permite conocer aspectos de la filogeografía de la especie y la relación entre las poblaciones inferida por el flujo polínico. Dadas las condiciones de este marcador, los resultados son una imagen de una combinación de eventos antiguos como los períodos glaciarios que dejaron su impronta en las características genéticas actuales. De esta forma, la señal antigua provista por haplotipos de ADNc ampliamente distribuidos estaría mostrando la presencia continua de la especie a lo largo de su rango durante períodos fríos mientras que la mayor diversidad isoenzimática hacia el sur reflejaría refugios durante períodos cálidos (Quiroga &amp; Premoli 2007). Por otro lado, las que presentan en promedio mayor número de alelos se ubican sobre el oeste de la distribución en áreas</font> <font face="Verdana" size="2">donde la especie habría persistido a lo largo de los recientes cambios en el clima ya que las poblaciones hacia el este habrían sufrido cuellos de botella genéticos y por lo tanto estarían más empobrecidas genéticamente (Quiroga <i>et al. </i>2012). En el caso particular de <i>P. parlatorei, </i>el uso de marcadores moleculares es una gran ayuda a la hora de postular hipótesis de tipo biogeográficas y/o filogeográficas, ya que en Podocarpaceae, si bien los registros polínicos son abundantes en todo el continente, el polen es morfológicamente similar en todo el género <i>Podocarpus </i>(Hooghiemntra <i>et al. </i>2006), por lo que utilizar los datos palinológicos puede llevar a errores de interpretación para una especie en particular. Por otro lado, la combinación de datos moleculares con técnicas de modelaje de nicho ecológico (Quiroga <i>et al. </i>2012, Premoli <i>et al. </i>2012), permiten analizar diverso tipo de hipótesis espacialmente explícitas que difícilmente podrían ser puestas a prueba solamente con herramientas como el registro fósil.</font></p>     <p align="justify"><font face="Verdana" size="2">Las poblaciones marginales de <i>R parlatorei </i>poseen características genéticas particulares. Tal es el caso de la población VR ubicada a latitudes intermedias con elevada heterocigosis, lo que podría interpretarse como una posible área de contacto secundario entre la zona de distribución austral y la zona central, en concordancia con los sectores biogeográficos propuestos por Brown y Ramadori (1989). Por el contrario, las poblaciones TF y LT son las que presentan menor diversidad genética (H<sub>E</sub>). La primera es un bosque próximo a la cuidad de Tucumán y es un bosque secundario, según el registro de Carilla &amp; Grau (2011). Mientras que LT es una población que tuvo una historia de un alto impacto por sobrepastoreo. Ambas habrían sufrido posibles cuellos de botella demográficos lo que explicaría el bajo valor de heterocigosis isoenzimática.</font></p>     <p align="justify"><font face="Verdana" size="2">El agrupamiento obtenido que incluye a las poblaciones australes CC, PG, TG, LB, TF y la población ER permitiría definirlas como marginales. Las cinco primeras se</font> <font face="Verdana" size="2">encuentran en el extremo sur de la distribución, constituyendo poblaciones relativamente pequeñas, particularmente en la provincia de Catamarca (Fran <i>et al. </i>2007). La población ER está ubicada sobre el extremo este de la distribución dentro del Parque Nacional El Rey. Esta podría ser una población relicto de una distribución más amplia antiguamente, como se sugiere a partir del análisis de modelaje de nicho ecológico (Quiroga <i>et al. </i>2012).</font></p>     <p align="justify"><font face="Verdana" size="2">El registro polínico de <i>Podocarpus </i>para Sudamérica refleja los cambios en la vegetación ocurridos a lo largo del tiempo ocasionados por las diferentes condiciones climáticas (Cárdenas <i>et al. </i>2011). El modelaje de nicho ecológico de <i>Podocarpus parlatorei </i>sugiere la hipótesis que las especies tolerantes al frío habrían respondido mediante descensos altitudinales y expansión longitudinal hacia el este en períodos glaciares sin mayores cambios latitudinales (Quiroga <i>et al. </i>2012). Esto explicaría la concordancia con una elevada diversidad genética para ambos marcadores hacia el centro de la distribución. De esta manera, el centro podría funcionar como un área fuente de haplotipos, ya que habría mantenido poblaciones grandes y continuas durante los períodos fríos. Por otro lado, la señal contemporánea provista por las isoenzimas, tales como una mayor diversidad genética y la presencia de haplotipos de ADNc exclusivos al sur de la distribución, sugiere un área potencial de refugio para especies tolerantes al clima frío durante periodos cálidos.</font></p>     <p align="justify"><font face="Verdana" size="2">El potencial evolutivo y la resiliencia de las especies en el largo plazo dependen del grado y distribución de la variación genética (Millar &amp; Libby 1991, Newton <i>et al. </i>1999). Por lo tanto, los estudios genéticos pueden realizar un valioso aporte para el desarrollo de prácticas efectivas de conservación tendientes a proteger sus acervos genéticos (Premoli 1994). La conservación a largo plazo de las especies depende probablemente de la protección de las poblaciones genéticamente variables y de las que presentan características genéticas únicas.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">El concepto de unidades evolutivamente significativas (ESUs) se creó como una forma práctica de enfocar la conservación de los recursos genéticos ya que representan unidades poblacionales que merecen manejo propio y que tienen una alta prioridad de conservación (Ryder 1986). Estas unidades deben dar una idea acerca de los procesos evolutivos y la distribución de la diversidad genética para llevar a cabo estrategias de conservación.</font></p>     <p align="center"><b><font face="Verdana" size="2">Sugerencias para la conservación de poblaciones de <i>P. parlatorei</i></font></b></p>     <p align="justify"><font face="Verdana" size="2">Dentro del área de distribución de <i>P</i>. <i>parlatorei, </i>hay distintas áreas de conservación como parques nacionales, reservas nacionales y provinciales que protegen la flora y fauna. La mayoría de éstas se encuentran en el centro de la distribución de <i>P</i>. <i>parlatorei: </i>Cuatro en Bolivia - una en el Departamento de Chuquisaca y tres en el Departamento de Tarija y 11 en Argentina: tres en Salta, tres en Jujuy y cinco en Tucumán. La población EN resultó ser la más diversa haplotídicamente y se encuentra dentro de una reserva nacional. Las poblaciones que presentan haplotipos únicos no están dentro de ninguna de las áreas protegidas mencionadas. Tal sería el caso de las poblaciones CC, PG, TG, LB que son marginales en el sur, SA en el centro y MG en el norte. En general, las poblaciones del sur de la distribución consisten de pequeños parches que varían entre 180-2.500 ha (Fra <i>et al. </i>2007); en estas mismas poblaciones se detectó la mayor diversidad isoenzimática de todas las poblaciones analizadas. Como ya mencionó, según Fra <i>et al. </i>(2007), los pinares son protectores de importantes cuencas hídricas y hábitat de especies de flora y fauna autóctonas, muchas de ellas endémicas de estos ambientes y algunas en riesgo de extinción. Todas estas razones justifican el destinar estos ambientes, cuyo tipo forestal lo define la presencia de <i>Podocarpus parlatorei, </i>como áreas protegidas.</font></p>     <p align="justify"><font face="Verdana" size="2">Para preservar el acervo genético de <i>Podocarpus parlatorei </i>sería óptimo desarrollar prácticas de manejo y conservación para proteger las variantes únicas y la elevada diversidad genética que poseen. Tal es el caso de las poblaciones CC, PG, TG, LB y SA de Argentina y MG de Bolivia para variantes haplotídicas; y por sus altos niveles de diversidad isoenzimática en el caso de las poblaciones del sur. De esta manera, se preserva el acervo genético completo, siendo las mismas potenciales fuentes de germoplasma para programas de restauración. Sorprendentemente, <i>P</i>. <i>parlatorei, </i>es una excelente recolonizadora de ambientes disturbados (Arturi <i>et al. </i>1998), por lo que se la puede considerar como especie clave para planes de manejo y de uso sustentable. Futuras investigaciones en relación con la conservación de semillas en bancos de germoplasma, permitirán no sólo preservar su acervo genético, sino además conocer más en profundidad acerca de la ecología de esta especie miembro de un género fundamental para la comprensión de la historia biogeográfica del continente sudamericano.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Arturi, M. F., H. R. Grau, P. G. Aceñolaza &amp; A. D. Brown. 1998. Estructura y sucesión en bosques montanos del Noroeste de Argentina. Revista de Biología Tropical 46: 525-532.</font></p>     <p align="justify"><font face="Verdana" size="2">Brown A. D &amp; E. D. Ramadori. 1989. Patrón de distribución, diversidad y características ecológicas de especies arbóreas de las selvas y bosques montanos del noroeste de la Argentina, pp. 177-181. En: Anales VI Congreso Forestal Argentino, El Liberal, Santiago del Estero.</font></p>     <p align="justify"><font face="Verdana" size="2">Carilla, J. &amp; A. Grau. 2011. Tendencias sucesionales de los bosques montanos subtropicales del noroeste argentino. BOSQUE 32: 97-111.</font></p>     <p align="justify"><font face="Verdana" size="2">Cárdenas, M. L., W. D. Gosling, S. C. Sherlock, I. Poole, R. T. Pennington &amp; P. Mothes. 2011.</font> <font face="Verdana" size="2">The response of vegetation on the Andean flank in western Amazonia to Pleistocene climate change. Science 331:1055-1058.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Eckert, C. G., K. E. Samis &amp; S. C. Lougheed. 2008. Genetic variation across species' geographical ranges: the central-marginal hypothesis and beyond. Molecular Ecology 17:1170-1188.</font></p>     <p align="justify"><font face="Verdana" size="2">Excoffier, L., G. Laval &amp; S. Schneider. 2006. Arlequin ver. 3.11: An integrated software package for population genetics data analysis. Evolutionary Bioinformatics Online 1: 47-50.</font></p>     <p align="justify"><font face="Verdana" size="2">Fra, E. A., R. S. Salinas &amp; M. del Valle Perea. 2007. Distribución del pino del cerro, <i>Podocarpus parlatorei </i>Pilger (Podocarpaceae), en la provincia de Catamarca, Argentina. Lilloa 44:99-105.</font></p>     <p align="justify"><font face="Verdana" size="2">Hewitt, G. 1996. Some genetic consequences of ice ages, and their role in divergence and speciation. Biological Journal of the Linnean Society 58: 247-276.</font></p>     <p align="justify"><font face="Verdana" size="2">Hewitt, G. 2004. Genetic consequences of climatic oscillations in the Quaternary. Philosophical Transactions of the Real Society of London B 359:183-195.</font></p>     <p align="justify"><font face="Verdana" size="2">Hooghiemstra, H., V. M. Wijninga &amp; A. M. Cleef. 2006. The paleobotanical record of the Colombia implications for biogeography and biodiversity. Annals of the Missouri Botanical Garden 93: 297-324.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Josse, C., Navarro, G., Comer, P., Evans, R., Faber-Langendoen, D., Fellows, M., Kittel, G., Menard, S., Pyne, M., Reid, M., Schulz, K., Snow, K., Teague, J. 2003. Ecological systems of Latin America and the Caribbean: a working classification of terrestrial systems. NatureServe, Arlington. 47 p.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078714&pid=S1605-2528201300010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Lesica, P. &amp; F. W. Allendorf. 1995. When are peripheral populations valuable for conservation? Conservation Biology 9: 753-760.</font></p>     <p align="justify"><font face="Verdana" size="2">Millar, C. I. &amp; W. J. Libby. 1991. Strategies for conservation clinal, ecotypic, and disjunct</font> <font face="Verdana" size="2">population diversity in widespread species. pp 149-170. En: Falk, D. A. &amp; K. E. Holsinger (eds). Genetics and Conservation of Rare Plants. Oxford University Press, Nueva York.</font></p>     <p align="justify"><font face="Verdana" size="2">Navarro, G. &amp; W. Ferreira. 2004. Zonas de vegetación potencial de Bolivia: Una base para el análisis de vacíos en conservación. Revista Boliviana de Ecología y Conservación Ambiental 15:1-40.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Newton, A. C., T. R. Allnutt, A. C. M. Gillies, A. J. Lowe &amp; R. A. Ennos. 1999. Molecular phylogeography, intraspecific variation and the conservation of tree species. Trends in Ecology and Evolution 14: 140-145.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Premoli, A. C. 1994. South American temperate conifer species: a larger list. Biodiversity and Conservation 3: 295-297.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078719&pid=S1605-2528201300010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Premoli, A. C., M. P. Quiroga, P. Mathiasen &amp; T. Kitzberger. 2012. Ecological niche modeling meets phylogeography to unravel hidden past history of key forest genera in plant geography: <i>Podocarpus </i>and <i>Nothofagus. </i>Natureza &amp; Conservação 10:160-168.</font></p>     <p align="justify"><font face="Verdana" size="2">Quiroga, M. P., S. Pacheco, L. R. Malicia &amp; A. C. Premoli. 2012. Shrinking forests under warming: evidence of <i>Podocarpus parlatorei </i>(pino del cerro) from the Subtropical Andes. Journal of Heredity doi:10.1093/jhered/ess03</font></p>     <p align="justify"><font face="Verdana" size="2">Quiroga, M. P. &amp; A. Premoli. 2007. Genetic patterns in <i>Podocarpus parlatorei </i>reveal long term persistence of cold tolerant elements in southern Yungas. Journal of Biogeography 34: 447-455.</font></p>     <!-- ref --><p align="justify"><font face="Verdana" size="2">Ryder, O. A. 1986. Species conservation and systematics:The dilemma of subspecies. Trends in Ecology and Evolution 1:9-10.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=078723&pid=S1605-2528201300010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p align="justify"><font face="Verdana" size="2">Tamura, K., J. Dudley, M. Nei &amp; S. Kumar. 2007. MEGA4: Molecular Evolutionary Genetics. Analysis (MEGA) software version 4.0. Molecular Biology and Evolution 24:1596-1599.</font></p>     <p align="justify"><font face="Verdana" size="2">Yeh, F. C. &amp; T. J. B. Boyle. 1997. Population genetic analysis of co-dominant and dominant markers and quantitative traits. Belgian Journal of Botany 129:157.</font></p>     <p align="justify"><font face="Verdana" size="2">Wilson, V. R. &amp; J. N. Owens. 1997. Cytoplasmic </font><font face="Verdana" size="2">inheritance in <i>Podocarpus totara </i></font><font face="Verdana" size="2">(Podocarpaceae). International Society for Horticultural Science ISHS. Acta Horticulturae 615 cta Hort. (ISHS) 615:171-172, IV International Conifer Conference, Londres.</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2"><b>Artículo recibido en:</b> Octubre de 2012.     <br>     <b>Manejado por:</b> Katya Romoleroux.     <br>     <b>Aceptado en:</b> Febrero de 2013.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Arturi]]></surname>
+<given-names><![CDATA[M.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grau]]></surname>
+<given-names><![CDATA[H.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aceñolaza]]></surname>
+<given-names><![CDATA[P.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[A.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Estructura y sucesión en bosques montanos del Noroeste de Argentina]]></article-title>
+<source><![CDATA[Revista de Biología Tropical]]></source>
+<year>1998</year>
+<volume>46</volume>
+<page-range>525-532</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="confpro">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brown]]></surname>
+<given-names><![CDATA[A.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramadori]]></surname>
+<given-names><![CDATA[E.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Patrón de distribución, diversidad y características ecológicas de especies arbóreas de las selvas y bosques montanos del noroeste de la Argentina]]></article-title>
+<source><![CDATA[]]></source>
+<year>1989</year>
+<conf-name><![CDATA[ Anales VI Congreso Forestal Argentino]]></conf-name>
+<conf-loc>Santiago del Estero </conf-loc>
+<page-range>177-181</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Carilla]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Grau]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Tendencias sucesionales de los bosques montanos subtropicales del noroeste argentino]]></article-title>
+<source><![CDATA[BOSQUE]]></source>
+<year>2011</year>
+<volume>32</volume>
+<page-range>97-111</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Cárdenas]]></surname>
+<given-names><![CDATA[M.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gosling]]></surname>
+<given-names><![CDATA[W.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sherlock]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Poole]]></surname>
+<given-names><![CDATA[I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pennington]]></surname>
+<given-names><![CDATA[R.T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mothes]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The response of vegetation on the Andean flank in western Amazonia to Pleistocene climate change]]></article-title>
+<source><![CDATA[Science]]></source>
+<year>2011</year>
+<volume>331</volume>
+<page-range>1055-1058</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Eckert]]></surname>
+<given-names><![CDATA[C.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Samis]]></surname>
+<given-names><![CDATA[K.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lougheed]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Genetic variation across species' geographical ranges: the central-marginal hypothesis and beyond]]></article-title>
+<source><![CDATA[Molecular Ecology]]></source>
+<year>2008</year>
+<volume>17</volume>
+<page-range>1170-1188</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Excoffier]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laval]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schneider]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Arlequin ver. 3.11: An integrated software package for population genetics data analysis]]></article-title>
+<source><![CDATA[Evolutionary Bioinformatics Online]]></source>
+<year>2006</year>
+<volume>1</volume>
+<page-range>47-50</page-range></nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Fra]]></surname>
+<given-names><![CDATA[E.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Salinas]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[del_eValle_ePerea]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Distribución del pino del cerro, Podocarpus parlatorei Pilger (Podocarpaceae), en la provincia de Catamarca, Argentina]]></article-title>
+<source><![CDATA[Lilloa]]></source>
+<year>2007</year>
+<volume>44</volume>
+<page-range>99-105</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hewitt]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Some genetic consequences of ice ages, and their role in divergence and speciation]]></article-title>
+<source><![CDATA[Biological Journal of the Linnean Society]]></source>
+<year>1996</year>
+<volume>58</volume>
+<page-range>247-276</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hewitt]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Genetic consequences of climatic oscillations in the Quaternary]]></article-title>
+<source><![CDATA[Philosophical Transactions of the Real Society of London B]]></source>
+<year>2004</year>
+<volume>359</volume>
+<page-range>183-195</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hooghiemstra]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wijninga]]></surname>
+<given-names><![CDATA[V.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cleef]]></surname>
+<given-names><![CDATA[A.M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[The paleobotanical record of the Colombia implications for biogeography and biodiversity]]></article-title>
+<source><![CDATA[Annals of the Missouri Botanical Garden]]></source>
+<year>2006</year>
+<volume>93</volume>
+<page-range>297-324</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Josse]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Comer]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Evans]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Faber-Langendoen]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fellows]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kittel]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Menard]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pyne]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reid]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schulz]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Snow]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Teague]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecological systems of Latin America and the Caribbean: a working classification of terrestrial systems]]></article-title>
+<source><![CDATA[NatureServe]]></source>
+<year>2003</year>
+<page-range>47</page-range><publisher-loc><![CDATA[Arlington ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Lesica]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Allendorf]]></surname>
+<given-names><![CDATA[F.W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[When are peripheral populations valuable for conservation?]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>1995</year>
+<volume>9</volume>
+<page-range>753-760</page-range></nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Millar]]></surname>
+<given-names><![CDATA[C.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Libby]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Strategies for conservation clinal, ecotypic, and disjunct population diversity in widespread species]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Falk]]></surname>
+<given-names><![CDATA[D. A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Holsinger]]></surname>
+<given-names><![CDATA[K. E.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Genetics and Conservation of Rare Plants]]></source>
+<year>1991</year>
+<page-range>149-170</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Oxford University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Navarro]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ferreira]]></surname>
+<given-names><![CDATA[W.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Zonas de vegetación potencial de Bolivia: Una base para el análisis de vacíos en conservación]]></article-title>
+<source><![CDATA[Revista Boliviana de Ecología y Conservación Ambiental]]></source>
+<year>2004</year>
+<volume>15</volume>
+<page-range>1-40</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Newton]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Allnutt]]></surname>
+<given-names><![CDATA[T.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gillies]]></surname>
+<given-names><![CDATA[A.C.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lowe]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ennos]]></surname>
+<given-names><![CDATA[R.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Molecular phylogeography, intraspecific variation and the conservation of tree species]]></article-title>
+<source><![CDATA[Trends in Ecology and Evolution]]></source>
+<year>1999</year>
+<volume>14</volume>
+<page-range>140-145</page-range></nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Premoli,]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[South American temperate conifer species: a larger list]]></article-title>
+<source><![CDATA[Biodiversity and Conservation]]></source>
+<year>1994</year>
+<volume>3</volume>
+<page-range>295-297</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Premoli]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mathiasen]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kitzberger]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecological niche modeling meets phylogeography to unravel hidden past history of key forest genera in plant geography: Podocarpus and Nothofagus]]></article-title>
+<source><![CDATA[Natureza & Conservação]]></source>
+<year>2012</year>
+<volume>10</volume>
+<page-range>160-168</page-range></nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Malicia]]></surname>
+<given-names><![CDATA[L.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Premoli]]></surname>
+<given-names><![CDATA[A.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Shrinking forests under warming: evidence of Podocarpus parlatorei (pino del cerro) from the Subtropical Andes]]></article-title>
+<source><![CDATA[Journal of Heredity]]></source>
+<year>2012</year>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Quiroga]]></surname>
+<given-names><![CDATA[M.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Premoli]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Genetic patterns in Podocarpus parlatorei reveal long term persistence of cold tolerant elements in southern Yungas]]></article-title>
+<source><![CDATA[Journal of Biogeography]]></source>
+<year>2007</year>
+<volume>34</volume>
+<page-range>447-455</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ryder]]></surname>
+<given-names><![CDATA[O.A]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Species conservation and systematics: The dilemma of subspecies]]></article-title>
+<source><![CDATA[Trends in Ecology and Evolution]]></source>
+<year>1986</year>
+<volume>1</volume>
+<page-range>9-10</page-range></nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Tamura]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Dudley]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nei]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kumar]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[MEGA4: Molecular Evolutionary Genetics. Analysis (MEGA) software version 4.0]]></article-title>
+<source><![CDATA[Molecular Biology and Evolution]]></source>
+<year>2007</year>
+<volume>24</volume>
+<page-range>1596-1599</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yeh]]></surname>
+<given-names><![CDATA[F.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Boyle]]></surname>
+<given-names><![CDATA[T.J.B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Population genetic analysis of co-dominant and dominant markers and quantitative traits]]></article-title>
+<source><![CDATA[Belgian Journal of Botany]]></source>
+<year>1997</year>
+<volume>129</volume>
+<page-range>157</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[V. R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Owens]]></surname>
+<given-names><![CDATA[J. N.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Cytoplasmic inheritance in Podocarpus totara (Podocarpaceae)]]></article-title>
+<source><![CDATA[Acta Horticulturae]]></source>
+<year>1997</year>
+<numero>615</numero>
+<issue>615</issue>
+<page-range>171-172</page-range><publisher-name><![CDATA[International Society for Horticultural Science ISHS]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

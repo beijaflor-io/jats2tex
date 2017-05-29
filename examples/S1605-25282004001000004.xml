@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282004001000004</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Diseño de un programa de monitoreo para puma y zorro en el Altiplano]]></article-title>
+<article-title xml:lang="en"><![CDATA[Design of a monitoring program for puma and culpeo fox in the Altiplano]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[Luis F.]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gallardo]]></surname>
+<given-names><![CDATA[Giovana]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Nuñez]]></surname>
+<given-names><![CDATA[Angela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Centro de Estudios en Biología Teórica y Aplicada (BIOTA)  ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Instituto de Ecología Estación Biológica Tunquini ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>10</month>
+<year>2004</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>10</month>
+<year>2004</year>
+</pub-date>
+<volume>39</volume>
+<numero>2</numero>
+<fpage>21</fpage>
+<lpage>32</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282004001000004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282004001000004&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282004001000004&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El monitoreo de poblaciones animales se realiza muchas veces sin un diseño que asegure la utilidad de los datos con un buen nivel de precisión para detectar las tendencias de la población de interés . Esta deficiencia puede resultar en el desperdicio de tiempo y dinero y, peor aún, en la toma de decisiones equivocadas con relación al manejo y conservación de las especies. El puma (Puma concolor) y el zorro (Pseudalopex culpaeus) causan cuantiosos daños a la economía del ganadero en la región del altiplano boliviano. Cualquier decisión con relación al manejo de este conflicto debe estar aparejada con un eficiente programa de monitoreo de los efectos de dicho manejo en las poblaciones de esos depredadores. En este trabajo utilizamos un simulador de computadora para diseñar un programa de monitoreo de estas dos especies, basado en un estudio piloto de campo, de tal manera que se inviertan los recursos necesarios para asegurar una cantidad de datos suficiente para detectar las tendencias de las poblaciones de puma y zorro en el Parque Nacional Sajama. Nuestros resultados indican que se requieren siete muestreos anuales de huellas en al menos ocho parcelas, cada una con 18 transectos de 2.5 km cada uno, para asegurar una potencia del 80% en la detección de decrementos equivalentes al 3% anual, a lo largo de un periodo de 10 años de seguimiento a las poblaciones de puma. Las poblaciones de zorro pueden ser monitoreadas eficientemente con este mismo diseño, con la ventaja adicional de ser posible el seguimiento a sus tendencias en cada una de las parcelas de muestreo por separado. Este diseño requeriría de un área de estudio mayor a la del Parque Nacional Sajama, por lo cual sería deseable realizar este trabajo en conjunto con las autoridades del colindante Parque Nacional Lauca, en Chile, donde podrían establecerse algunas de las parcelas de trabajo.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Monitoring of animal populations often lacks an adequate design that ensures the usefulness of collected data to detect population trends with an acceptable degree of precission. This deficiency may result in the waste of time and money and, even worse, mistakes in the decisions about the conservation and management of particular species. Puma (Puma concolor) and culpeo foxes (Pseudalopex culpaeus) are responsible of considerable economic losses due to predation on livestock in the Bolivian Altiplano. Any decision in relation to the management of this conflict must be linked to an efficient monitoring program of the effects of such management on the populations of those predators. In this paper, we report on the use of a computer simulator to design, based on a pilot field study, a monitoring program for those species, in such way that necessary resources are invested to ensure obtaining enough data to detect population trends for both, culpeo foxes and pumas within the Sajama National Park. Our results suggest that, for pumas, it is necessary to do track counts seven times a year in at least eight plots, each one with at least 18 transects of 2.5 km, (distant 5 km from each other) to reach a power of 80% to detect decreases equivalent to 3% per year during a period of 10 years. Culpeo foxes can be efficiently monitored with the same design, which would additionally allow us to monitor their trends separately for each plot. This design requires a study area larger than the Sajama National Park and, therefore, would be desirable to coordinate efforts with appropriate authorities in order to establish some of the plots within the neighboring Lauca National Park, in Chile.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Análisis de potencia]]></kwd>
+<kwd lng="es"><![CDATA[Parque Nacional Sajama]]></kwd>
+<kwd lng="es"><![CDATA[Altiplano]]></kwd>
+<kwd lng="es"><![CDATA[tendencias poblacionales]]></kwd>
+<kwd lng="es"><![CDATA[recuento de huellas]]></kwd>
+<kwd lng="es"><![CDATA[Puma concolor]]></kwd>
+<kwd lng="es"><![CDATA[Pseudalopex culpaeus]]></kwd>
+<kwd lng="en"><![CDATA[Power analysis]]></kwd>
+<kwd lng="en"><![CDATA[Sajama National Park]]></kwd>
+<kwd lng="en"><![CDATA[Altiplano]]></kwd>
+<kwd lng="en"><![CDATA[population trends]]></kwd>
+<kwd lng="en"><![CDATA[track counts]]></kwd>
+<kwd lng="en"><![CDATA[Felis concolor]]></kwd>
+<kwd lng="en"><![CDATA[Pseudalopex culpaeus]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <P   align="right" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Art&iacute;culo</b></font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><b>Dise&ntilde;o de un programa de monitoreo para puma y zorro en el Altiplano </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Design of a monitoring program for puma and culpeo fox in the Altiplano </b></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Luis F. Pacheco<Sup>1,2</Sup>, Giovana Gallardo<Sup>1</Sup> &amp; Angela Nu&ntilde;ez<Sup>1 </Sup></b></font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>1</Sup>Centro de Estudios en Biolog&iacute;a Te&oacute;rica y Aplicada (BIOTA), Casilla 9641, La Paz, Bolivia  Correo electr&oacute;nico: <a href="mailto:luispacheco11@yahoo.com">luispacheco11@yahoo.com</a></font>    <br> <font size="2" face="Verdana, Arial, Helvetica, sans-serif"><Sup>2</Sup>Estaci&oacute;n Biol&oacute;gica Tunquini, Instituto de Ecolog&iacute;a    Casilla 10077, Correo Central  La Paz, Bolivia </font></P >     ]]></body>
+<body><![CDATA[<P   align="center" >&nbsp;</P >     <P   align="center" >&nbsp;</P > <hr noshade>      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Resumen </b> </font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El monitoreo de poblaciones animales se realiza muchas veces sin un dise&ntilde;o que asegure la utilidad de los datos con un buen nivel de precisi&oacute;n para detectar las tendencias de la poblaci&oacute;n de inter&eacute;s . Esta deficiencia puede resultar en el desperdicio de tiempo y dinero y, peor a&uacute;n, en la toma de decisiones equivocadas con relaci&oacute;n al manejo y conservaci&oacute;n de las especies. El puma (<I>Puma concolor</I>) y el zorro (<I>Pseudalopex culpaeus</I>) causan cuantiosos da&ntilde;os a la econom&iacute;a del ganadero en la regi&oacute;n del altiplano boliviano. Cualquier decisi&oacute;n con relaci&oacute;n al manejo de este conflicto debe estar aparejada con un eficiente programa de monitoreo de los efectos de dicho manejo en las poblaciones de esos depredadores. En este trabajo utilizamos un simulador de computadora para dise&ntilde;ar un programa de monitoreo de estas dos especies, basado en un estudio piloto de campo, de tal manera que se inviertan los recursos necesarios para asegurar una cantidad de datos suficiente para detectar las tendencias de las poblaciones de puma y zorro en el Parque Nacional Sajama. Nuestros resultados indican que se requieren siete muestreos anuales de huellas en al menos ocho parcelas, cada una con 18 transectos de 2.5 km cada uno, para asegurar una potencia del 80% en la detecci&oacute;n de decrementos equivalentes al 3% anual, a lo largo de un periodo de 10 a&ntilde;os de seguimiento a las poblaciones de puma. Las poblaciones de zorro pueden ser monitoreadas eficientemente con este mismo dise&ntilde;o, con la ventaja adicional de ser posible el seguimiento a sus tendencias en cada una de las parcelas de muestreo por separado. Este dise&ntilde;o requerir&iacute;a de un &aacute;rea de estudio mayor a la del Parque Nacional Sajama, por lo cual ser&iacute;a deseable realizar este trabajo en conjunto con las autoridades del colindante Parque Nacional Lauca, en Chile, donde podr&iacute;an establecerse algunas de las parcelas de trabajo. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Palabras clave:</b> An&aacute;lisis de potencia, Parque Nacional Sajama, Altiplano, tendencias poblacionales, recuento de huellas, <I>Puma concolor</I>, <I>Pseudalopex culpaeus</I>. </font></P > <hr noshade>      <p align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Abstract </b> </font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Monitoring of animal populations often lacks an adequate design that ensures the usefulness of collected data to detect population trends with an acceptable degree of precission. This deficiency may result in the waste of time and money and, even worse, mistakes in the decisions about the conservation and management of particular species. Puma (<I>Puma concolor</I>) and culpeo foxes (<I>Pseudalopex culpaeus</I>) are responsible of considerable economic losses due to predation on livestock in the Bolivian Altiplano. Any decision in relation to the management of this conflict must be linked to an efficient monitoring program of the effects of such management on the populations of those predators. In this paper, we report on the use of a computer simulator to design, based on a pilot field study, a monitoring program for those species, in such way that necessary resources are invested to ensure obtaining enough data to detect population trends for both, culpeo foxes and pumas within the Sajama National Park. Our results suggest that, for pumas, it is necessary to do track counts seven times a year in at least eight plots, each one with at least 18 transects of 2.5 km, (distant 5 km from each other) to reach a power of 80% to detect decreases equivalent to 3% per year during a period of 10 years. Culpeo foxes can be efficiently monitored with the same design, which would additionally allow us to monitor their trends separately for each plot. This design requires a study area larger than the Sajama National Park and, therefore, would be desirable to coordinate efforts with appropriate authorities in order to establish some of the plots within the neighboring Lauca National Park, in Chile. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Keywords:</b> Power analysis, Sajama National Park, Altiplano, population trends ,track counts, <I>Felis concolor</I>, <I>Pseudalopex culpaeus</I>. </font></P > <hr noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Introducci&oacute;n</b></font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> Ning&uacute;n grupo de organismos ofrece mayor   desaf&iacute;o para su conservaci&oacute;n que los grandes   carn&iacute;voros (Noss et al. 1996). Si bien el zorro (<i>Pseudalopex culpaeus</i>) puede no ser considerado como de gran tama&ntilde;o, ocupa el segundo puesto entre los carn&iacute;voros del Altiplano sudamericano, luego del puma (<i>Puma concolor</i>).</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> El da&ntilde;o que ocasionan ambas especies al ganado   cam&eacute;lido es considerable (Pacheco et al. 2004)   y el zorro ser&iacute;a el que causa mayores da&ntilde;os   econ&oacute;micos en el Altiplano boliviano (Ribera   1999). Dada que la econom&iacute;a de la zona est&aacute;   basada en la ganader&iacute;a de cam&eacute;lidos, es   necesario mitigar este conflicto de intereses   entre la conservaci&oacute;n de estos carn&iacute;voros y los   ganaderos, para asegurar su apoyo a la conservaci&oacute;n de la fauna silvestre.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cualquier acci&oacute;n que se decida tomar sobre   el manejo del conflicto debe considerar   cuidadosamente el efecto de dichas actividades   en las poblaciones de estos carn&iacute;voros. Para   esto, es necesario dise&ntilde;ar un programa de   monitoreo de las poblaciones que nos asegure   detectar sus tendencias y nos adviertan a tiempo   de los efectos del manejo sobre la conservaci&oacute;n   de las especies involucradas. Adem&aacute;s de ser   eficiente, el programa de monitoreo debe evitar   comprometer a recursos humanos y monetarios   en exceso. En particular, el programa de   monitoreo debe dise&ntilde;arse de manera que   asegure una potencia de detecci&oacute;n m&iacute;nima (i.e.80%) de las tendencias de la poblaci&oacute;n, pero que evite la acumulaci&oacute;n de datos innecesarios.</font></p>     <p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Para esto es necesario realizar un an&aacute;lisis   prospectivo de potencia con base a un estudio   piloto (Steidl et al. 1997). El an&aacute;lisis de potencia   para programas de monitoreo ha recibido   considerable atenci&oacute;n en la literatura reciente   (i.e. Beier &amp; Cunningham 1996 para pumas;   Hatfield et al. 1996 para rapaces; Smith &amp;   Harke 2001 para otras aves; Travaini et al.   2003a, 2003b para zorros; ver Gibbs et al. 1998   y Gibbs 2000 para informaci&oacute;n sobre varias   especies). En este trabajo, nosotros evaluamos   la potencial utilidad de un dise&ntilde;o de muestreo   para el monitoreo de poblaciones de puma y   zorro en el Altiplano de Bolivia, mediante un   an&aacute;lisis de potencia (Elzinga et al. 2001),   siguiendo un procedimiento similar al   empleado por Pacheco (en prensa), con   modificaciones respecto a la toma de datos en   campo.</font></p>     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las evaluaciones de abundancia de carn&iacute;voros son especialmente dif&iacute;ciles, debido a que las especies de este grupo generalmente presentan densidades bajas, &aacute;mbitos de hogar grandes y las observaciones directas son infrecuentes. Por ejemplo, en la Patagonia argentina, el zorro alcanza una densidad de 0.21&ndash;1.31 individuos/ km<Sup>2</Sup>, con &aacute;mbitos de hogar que var&iacute;an entre 8.2&plusmn;0.6 km2 para hembras y 10.2 &plusmn;1.5 km<Sup>2 </Sup>para machos (Novaro 1997, Novaro et al. 2000). Novaro (1995) utiliz&oacute; estaciones odor&iacute;feras para estudiar cambios temporales en la densidad de zorros y Pacheco (en prensa) propuso un programa de monitoreo de sus poblaciones en un sitio de la puna h&uacute;meda de Bolivia, usando tambi&eacute;n atrayentes odor&iacute;feros. Este &uacute;ltimo trabajo sugiere que las poblaciones de zorros pueden ser monitoreadas con base a un &iacute;ndice de huellas de manera relativamente econ&oacute;mica. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El caso del puma es m&aacute;s dif&iacute;cil, ya que sus densidades bordean los dos individuos (adultos) por 100 km<Sup>2 </Sup>y posee &aacute;mbitos de hogar entre 24 y &gt;1000 km<Sup>2 </Sup>(Nowell &amp; Jakson 1996, Franklin et al. 1999, Logan &amp; Sweanor 2001). El monitoreo de poblaciones de puma por m&eacute;todos indirectos (huellas) ha sido realizado por Smalwood (1994) y Beier &amp; Cunningham (1996), quienes estimaron necesario realizar recuentos de huellas en un m&iacute;nimo de 30 transectos de 8 km cada uno, para detectar cambios dr&aacute;sticos (50%) entre dos muestreos para una poblaci&oacute;n de pumas en California. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En este trabajo, utilizamos informaci&oacute;n de un estudio piloto de campo para dise&ntilde;ar un programa de monitoreo de las poblaciones de puma y zorro con base en huellas, en un &aacute;rea protegida del Altiplano boliviano donde ambas especies ocasionar&iacute;an da&ntilde;os considerables a la ganader&iacute;a de cam&eacute;lidos. Nuestro objetivo es dar las bases necesarias para el monitoreo de esas especies, asegurando que la informaci&oacute;n obtenida sea de utilidad para responder a preguntas sobre las tendencias poblacionales y que permitan evaluar las futuras acciones de manejo de estas especies, a la vez que se evite el desperdicio de tiempo y recursos en la toma de datos innecesarios o de dudosa interpretaci&oacute;n (Gibbs et al. 1999). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Materiales y m&eacute;todos </b></font></P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Sitio de estudio </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El trabajo se llev&oacute; a cabo dentro del Parque Nacional Sajama (PNS), ubicado en el Departamento de Oruro (Bolivia), colindante con el Parque Nacional Lauca de Chile. El PNS abarca una superficie de aproximadamente 1.020 km<Sup>2 </Sup>(a&uacute;n sin l&iacute;mites definidos) y un rango de alturas de 4.200 a &gt; 6.500 m. La estaci&oacute;n de lluvias se extiende desde noviembre a marzo o abril, con una precipitaci&oacute;n de 400 mm anuales. El parque incluye la subregi&oacute;n biogeogr&aacute;fica de Puna ylas ecoregiones Altoandina occidental y Puna seca. Se pueden distinguir cuatro grandes formaciones vegetales: 1) Tolar &ndash; pajonal, donde predominan gram&iacute;neas duras y arbustos como <I>Festuca orthophyla</I>, <I>Parastrephia lepidophylla</I>, <I>Baccharis santelicis </I>(<I>= Baccharis incarum</I>), <I>Deyeuxia </I>sp. y <I>Junelia minima</I>;  2) Bosques de que&ntilde;ua (<I>Polylepis tarapacana</I>), que llegan hasta los 5.200 m (Ribera 1999) y son caracter&iacute;sticos del &aacute;rea, con especies como <I>Senecio escorzonerifolius</I>, <I>Chersodoma jodopappa</I>, y cact&aacute;ceas del g&eacute;nero <I>Mayhuenopsis</I>; 3) Bofedales, en los cuales predominan <I>Distichia muscoides </I>y <I>Deyeuxia curvula</I>, y 4) Vegetaci&oacute;n en zonas con predominio de rocas (roquedales) con predominio de especies en roseta como ser: <I>Azorella compacta, Parastrephia quadrangularis</I>, <I>Poa asperiflora</I>, <I>P. pearsonii</I>, <I>Deyeuxia </I>sp., <I>Adesmia spinossisima</I>, <I>Pignuphyllum molle</I> y <I>P. tetrastichum. </I></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">La fauna silvestre que interact&uacute;a con el puma y el zorro incluye a la vicu&ntilde;a (<I>Vicugna vicugna</I>), taruka (<I>Hippocamelus antisensis</I>), quirquincho (<I>Chaetophractus nationi</I>), titi (<I>Oreailurus jacobita</I> y <I>Lynchailurus pajeros</I>), zorrino (<I>Conepatus chinga</I>), furuna (<I>Galictis cuja</I>), vizcacha (<I>Lagidium viscacia</I>), <I>Chinchillula sahamae, Microcavia niata, Galea musteloides</I> y otros roedores de menor tama&ntilde;o y la liebre europea (<I>Lepus capensis</I>; Yensen &amp; Tarifa 1993, Pacheco et al. 2004). </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>M&eacute;todos </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Se parti&oacute; con un estudio piloto, para lo cual se estableci&oacute; una parcela de muestreo que comprend&iacute;a 18 transectos, cada uno de 2.5 km de longitud, separados por un m&iacute;nimo de 5 km y un m&aacute;ximo de 10 km entre s&iacute;, repartidos de manera que cubr&iacute;an gran parte del PNS. Los transectos se recorrieron apie en tres ocasiones cada uno (por GG y AN), generalmente en d&iacute;as continuados, contabilizando las huellas frescas; aquellas consideradas m&aacute;s antiguas que un d&iacute;a, seg&uacute;n el criterio de gu&iacute;as locales experimentados, fueron desechadas para minimizar los problemas de tener transectos con huellas de distinta edad y en consideraci&oacute;n a que las huellas viejas son menos visibles y m&aacute;s dif&iacute;cilmente identificables. A cada recorrido contando huellas por los 18 transectos lo denominamos muestreo. Para agilizar el trabajo, las huellas s&oacute;lo se contaron si estaban dentro de un ancho de banda de 2 m. No se utiliz&oacute; atrayente alguno. No se recorrieron todos los transectos el mismo d&iacute;a, debido a la distancia entre los mismos y el tiempo que se ocup&oacute; en recorrer cada uno; por lo tanto, llev&oacute; m&aacute;s de un d&iacute;a completar cada muestreo. Todo el trabajo se realiz&oacute; durante la &eacute;poca seca, entre abril y agosto de 2002. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Siguiendo las recomendaciones de Sargeant et al. (1998) y el criterio de Pacheco (en prensa), tomamos como variable respuesta la proporci&oacute;n de transectos con huella (sin importar cu&aacute;ntas huellas) del total (18) instalado en la parcela para cada muestreo. Tomando los resultados de los tres muestreos, se calcul&oacute; una media y una desviaci&oacute;n est&aacute;ndar para cada especie. Los datos de media y desviaci&oacute;n est&aacute;ndar fueron introducidos en el programa de simulaci&oacute;n Monitor (vs. 6.2, Gibbs 1995), el cual calcula la potencia de detecci&oacute;n con base en esos datos, adem&aacute;s del n&uacute;mero de parcelas muestreadas, n&uacute;mero de conteos por parcela y el intervalo entre los conteos. Monitor utiliza simulaciones de Monte Carlo para modelar recuentos en el tiempo y genera tasas de detecci&oacute;n observadas mediante un an&aacute;lisis de regresi&oacute;n (<I>route regression</I>, Gibbs &amp; Melvin, en Travaini et al. 2003a). Es un modelo lineal por el cual los cambios poblacionales son modelados como un proceso multiplicativo, donde el recuento esperado en el a&ntilde;o &ldquo;t + 1&rdquo; es un m&uacute;ltiplo del recuento del a&ntilde;o &ldquo;t&rdquo; (Gibbs 1995, Travaini et al. 2003a). Este programa est&aacute; recomendado por Thomas &amp; Krebs (1997) en el an&aacute;lisis de potencia para el dise&ntilde;o de tendencias poblacionales. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con base en lo publicado por Logan &amp; Sweanor (2001) sobre incrementos en densidad de una poblaci&oacute;n de pumas de 30-37% en siete a&ntilde;os y por Novaro (1997) sobre el incremento de 38% en seis a&ntilde;os para una poblaci&oacute;n de zorro no sometida a cacer&iacute;a, pensamos que una disminuci&oacute;n del 3% anual ser&iacute;a razonablemente significativo desde el punto de vista biol&oacute;gico. Nuestra meta fue lograr un programa de monitoreo que en 10 a&ntilde;os permita detectar disminuciones equivalentes a un m&iacute;nimo de 3% anual, con un </font><font size="2" face="Georgia, Times New Roman, Times, serif">&alpha;</font><font size="2" face="Verdana, Arial, Helvetica, sans-serif">= 0.1, siguiendo un modelo lineal, con pruebas de dos colas (ya que en realidad no sabemos si la poblaci&oacute;n aumentar&aacute; o disminuir&aacute;). Para cada caso simulado, utilizamos 500 repeticiones. Si bien la mayor&iacute;a de las poblaciones que han sido objeto de seguimiento por m&aacute;s de cinco a&ntilde;os muestran trayectorias irregulares, el uso de un modelo lineal se justifica en ciertas circunstancias, como &eacute;sta, en que se trata de especies en posible declinaci&oacute;n y en peligro (Gibbs 2000). El uso de un valor de <font face="Georgia, Times New Roman, Times, serif">&alpha;</font> mayor a lo normalmente usado en an&aacute;lisis estad&iacute;sticos se justifica bajo la consideraci&oacute;n que un error tipo I (concluir que existe una tendencia cuando &eacute;sta no existe) puede ser menos grave en conservaci&oacute;n, que el no poder detectar una tendencia (principalmente si es negativa) cuando &eacute;sta existe (error tipo II, Steidl et al. 1997, Gibbs et al. 1999). El uso de un <font face="Georgia, Times New Roman, Times, serif">&alpha;</font>&lt; 0,1 incrementar&iacute;a el margen de error tipo II. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nosotros esperabamos que el dise&ntilde;o resulte en una potencia del 80% para detectar un cambio cuando &eacute;ste exista (siguiendo el criterio de Beier &amp; Cunningham 1996, Steidl et al. 1997, Gibbs et al. 1999, Travaini et al. 2003a y Pacheco en prensa). Cuando no se alcanzaba la potencia deseada con el dise&ntilde;o simulado inicialmente (basado en el dise&ntilde;o planteado como base para el estudio piloto), realizamos cambios en el dise&ntilde;o original, buscando incrementar la potencia de detecci&oacute;n de las tendencias poblacionales. Las variables que manejamos para simular los cambios en el dise&ntilde;o original fueron: n&uacute;mero de parcelas a muestrearse y n&uacute;mero de muestreos por ocasi&oacute;n (a&ntilde;o) y por parcela. La media y desviaci&oacute;n est&aacute;ndar para cada parcela a&ntilde;adida a la simulaci&oacute;n fue igual a la observada en el caso de la parcela de 18 transectos del muestreo piloto. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptamos que un &iacute;ndice con base en huellas no necesariamente reflejar&aacute; las tendencias de la poblaci&oacute;n (Walker et al. 2000). De esta manera, cuando nos referimos a tendencias se trata de la frecuencia de huellas en los transectos como un estimador de la poblaci&oacute;n. Volvemos a tocar este punto en la discusi&oacute;n. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Resultados </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El estudio piloto arroj&oacute; un porcentaje promedio de transectos con huella del puma de 14.8 (ds = 8.5), mientras que un promedio de 40.7% (ds = 8.5) de los transectos ten&iacute;an huellas de zorro. Utilizando estas cifras como inicio de las simulaciones con Monitor, los resultados fueron los que detallamos a continuaci&oacute;n: </font></P >    <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Programa de monitoreo para el puma </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Si se continuara con el programa de monitoreo basado s&oacute;lo en una parcela como la usada para el estudio piloto, se requerir&iacute;a un m&iacute;nimo de 35 muestreos para alcanzar una potencia de detecci&oacute;n del 80% con el fin de detectar disminuciones del 3% anual en un periodo de 10 a&ntilde;os (<a href="#f1">Fig. 1</a>). La misma potencia podr&iacute;a alcanzarse con unos 18 muestreos anuales, si la disminuci&oacute;n a detectarse fuera del 5% anual. El incremento a tres parcelas no produce cambio significativo, mientras que un programa de monitoreo que considere 12 muestreos en cinco parcelas o -alternativamente siete muestreos en ocho parcelas- alcanzar&iacute;a la potencia deseada del 80% (<a href="#f1">Fig. 1</a>).</font></P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f1"></a><img src="/img/revistas/reb/v39n2/figura_a04_1.gif" width="576" height="339"></font></P >     <P   align="center" >&nbsp;</P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Programa de monitoreo para el zorro </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Con s&oacute;lo incrementar el n&uacute;mero de muestreos a cinco por a&ntilde;o en la misma parcela de 18 transectos, se alcanzar&iacute;a una potencia mayor al 80%. Alternativamente, podr&iacute;an realizarse cuatro muestreos en tres parcelas o tres muestreos en cuatro parcelas para obtener los mismos resultados (<a href="#f2">Fig. 2</a>).</font></P >     ]]></body>
+<body><![CDATA[<P   align="center" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a name="f2"></a><img src="/img/revistas/reb/v39n2/figura_a04_2.gif" width="570" height="346"></font></P >     <P   align="center" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Discusi&oacute;n</b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El peligro de llevar a cabo un programa de monitoreo de poblaciones sin un dise&ntilde;o que asegure la utilidad de la informaci&oacute;n obtenida est&aacute; en la asignaci&oacute;n de recursos humanos y monetarios que no brinden informaci&oacute;n interpretable. Espec&iacute;ficamente, podemos cometer un error tipo II al no detectar una tendencia en la poblaci&oacute;n, cuando &eacute;sta en realidad existe (Gibbs et al. 1999). Por ejemplo, Stirrat et al. (2001) demostraron que el programa de monitoreo de cocodrilos (<I>Crocodylus porosus</I>) en Australia prove&iacute;a informaci&oacute;n adecuada (con suficiente potencia para detectar cambios poblacionales) s&oacute;lo cuando se hac&iacute;an conteos directos de los animales desde un bote, pero no en el caso de los conteos desde helic&oacute;pteros. Desafortunadamente, este programa de monitoreo con base en conteos desde helic&oacute;ptero se hab&iacute;a llevado a cabo por un periodo de 10 a&ntilde;os y abarc&oacute; 70 r&iacute;os y arroyos de Australia. De manera similar, Hill et al. (2003) informaron que su programa de monitoreo, que incluy&oacute; recorridos mensuales a lo largo de transectos lineales por siete a&ntilde;os y cubri&oacute; un total de 7.535 km de recorridos en la Reserva Mbaracay&uacute; del Paraguay, no ha sido capaz de detectar disminuciones del 80% en la tasa de encuentro con pecar&iacute;es de collar (<I>Tayassu tajacu</I>), aunque s&iacute; detect&oacute; tendencias positivas y negativas para otras especies. </font></P >      <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En el caso del puma, Smallwood (1994) y Smallwood &amp; Fitzhugh (1995) reportan un programa de monitoreo de dicha especie con base en 121 transectos de 11.3 km, separados por 16 km, los cuales fueron recorridos en distintas oportunidades entre 1985 y 1992. El an&aacute;lisis estad&iacute;stico de estos datos impidi&oacute; rechazar la hip&oacute;tesis nula de una disminuci&oacute;n en la poblaci&oacute;n del Estado de California, la cual se supon&iacute;a en declinaci&oacute;n. En otro trabajo basado en simulaciones, Beier &amp; Cunningham (1996) indican que ser&iacute;a necesario contabilizar huellas en al menos 30 transectos de 8 km de longitud para detectar (con un potencia del 80% y <font face="Georgia, Times New Roman, Times, serif">&alpha;</font> = 0.2) reducciones del 50% en una poblaci&oacute;n de pumas de California entre dos periodos de muestreo consecutivos. Para detectar cambios del 10% (entre dos periodos de muestreo), con un <font face="Georgia, Times New Roman, Times, serif">&alpha;</font> = 0.2, el n&uacute;mero de transectos estimado por ellos asciende a 700. Nuestra estimaci&oacute;n de 35 muestreos en una parcela de 18 transectos establecida en un &aacute;rea de 1.000 km<Sup>2 </Sup>para alcanzar un potencia de detecci&oacute;n del 80% con disminuciones equivalentes al 3% anual ycon <font face="Georgia, Times New Roman, Times, serif">&alpha;</font> = 0.1, quedar&iacute;a entonces dentro lo razonable para ser aplicada en un programa de monitoreo de puma en el Altiplano boliviano. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">En un estudio similar, Travaini et al. (2003b) proponen que para detectar una disminuci&oacute;n del 50% en una poblaci&oacute;n de zorros de la Patagonia argentina a lo largo de 10 a&ntilde;os y con una potencia del 80%, es suficiente con activar una vez al a&ntilde;o 16 l&iacute;neas (separadas por 1.000 m entre s&iacute;) de huelleros, cada una con seis estaciones (huelleros cebados con carne), separadas por 500 m. El trabajo de Pacheco (en prensa) propone que para un programa de monitoreo de zorro en la Puna h&uacute;meda del PN Cotapata (Bolivia), con similares requerimientos y alcances que lo propuesto aqu&iacute;, es necesario establecer una parcela con 12 l&iacute;neas de seis huelleros cada una (cuadrantes de registro de huellas de 1 m<Sup>2 </Sup>y cebados con atrayentes odor&iacute;feros) y revisar cada l&iacute;nea 14 veces por a&ntilde;o o, alternativamente, establecer cinco de esas parcelas y reducir el n&uacute;mero de muestreos a cinco por parcela. Si bien ese trabajo no es directamente comparable con el del PN Sajama, es notorio que el zorro mostr&oacute; las tasas de visita a los huelleros m&aacute;s altas y relativamente es menos variable que las especies estudiadas por Pacheco en Cotapata (que incluy&oacute; <I>Hippocamelus antisensis, Mazama chunyi, Leopardus tigrinus </I>y <I>Oreailurus jacobita </I>y/o <I>Lynchailurus pajeros</I>). Tal parece que el zorro es una especie cuyo monitoreo no implica mayores problemas, tanto si se usan atrayentes y muestreos en huelleros, como cuando s&oacute;lo se registran huellas como &iacute;ndice pasivo de actividad, asociado a la abundancia o si se realizan conteos directos (ver Novaro et al. 2000, Travaini et al. 2003a, 2003b). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Una discusi&oacute;n sobre la confiabilidad del programa de monitoreo propuesto en &eacute;ste trabajo debe considerar aspectos relacionados al desempe&ntilde;o del simulador utilizado. Hatch (2003) indica que el programa Monitor s&oacute;lo considera la variabilidad intra-anual en los conteos, pero no toma en cuenta la variabilidad interanual, la cual afectar&aacute; de manera aditiva la potencia de detecci&oacute;n en el an&aacute;lisis de regresi&oacute;n. Hatch (2003) tambi&eacute;n indica que el supuesto de c&aacute;lculo utilizado por Monitor, en que la varianza ser&aacute; constante a lo largo del periodo de monitoreo, no considera que la precisi&oacute;n tender&aacute; a incrementarse a medida que la poblaci&oacute;n se reduce (en una poblaci&oacute;n en declinaci&oacute;n). De tal manera, que el dise&ntilde;o presentado aqu&iacute; podr&iacute;a estar por un lado sobreestimando la potencia de detecci&oacute;n de nuestro programa de monitoreo al no incluir la variaci&oacute;n interanual en los muestreos, pero por otro lado podr&iacute;amos estarla subestimando, al suponer una varianza constante a lo largo de todo el periodo de monitoreo. Si bien estos posibles sesgos no son necesariamente proporcionales, el sentido de ellos es opuesto y nos permite especular que, de alguna manera, podr&iacute;an compensarse. Sin embargo, es necesario revisar y, seg&uacute;n los resultados de esa revisi&oacute;n, readecuar el dise&ntilde;o propuesto en el presente trabajo luego de tres o m&aacute;s a&ntilde;os de muestreos, para incluir expl&iacute;citamente en el modelo el efecto aditivo de la variaci&oacute;n interanual en los conteos y, en el caso de hallarse una tendencia negativa en la poblaci&oacute;n (aunque no sea estad&iacute;sticamente significativa), intentar incluir la posible reducci&oacute;n en la varianza total. Hatch (2003) adem&aacute;s indica que los recuentos de se&ntilde;ales repetidos en un mismo a&ntilde;o deben ser tratados como pseudor&eacute;plicas en el an&aacute;lisis de regresi&oacute;n sobre la tendencia de la poblaci&oacute;n. Las simulaciones realizadas para este trabajo se basan en muestreos con intervalos de uno o pocos d&iacute;as, lo cual incrementa la posibilidad de que exista autocorrelaci&oacute;n entre los resultados (Thomas &amp; Krebs 1997). Sin embargo, la variaci&oacute;n intra-anual adquirir&aacute; mayor importancia, a medida que se incremente el intervalo entre los muestreos del mismo a&ntilde;o (ver Travaini et al. 2003a). De cualquier manera, la revisi&oacute;n del dise&ntilde;o -luego de algunos a&ntilde;os de muestreo- ayudar&aacute; a definir si para cada a&ntilde;o debe usarse s&oacute;lo la media de todos los muestreos (n=1 para cada parcela) o tomarlos como r&eacute;plicas. De igual manera, debe evaluarse la probable autocorrelaci&oacute;n de los muestreos dentro de un mismo a&ntilde;o y durante a&ntilde;os consecutivos, como una rutina en cualquier programa de seguimiento de tendencias poblacionales. Entonces, a pesar de que es imposible considerar ahora todas las fuentes de variaci&oacute;n, el presente dise&ntilde;o es un avance con relaci&oacute;n a la pr&aacute;ctica usual de obtenci&oacute;n de datos sin una m&iacute;nima consideraci&oacute;n de su futura utilidad para responder a las preguntas sobre tendencias poblacionales. Con esas consideraciones, sostenemos que el programa dise&ntilde;ado en este trabajo para el seguimiento de las tendencias poblacionales de puma y zorro en el Altiplano disminuyen enormemente las probabilidades de ejecutar un programa de varios a&ntilde;os que obtenga datos in&uacute;tiles por ser escasos o en exceso. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Otro factor a tomarse en cuenta sobre la aparente solidez del dise&ntilde;o aqu&iacute; propuesto (considerando s&oacute;lo una parcela y realizaci&oacute;n de ~25 conteos) es que la ausencia de una tendencia negativa en la poblaci&oacute;n estudiada no debe interpretarse directamente como que no existen problemas demogr&aacute;ficos, ya que es posible que un sistema fuente-sumidero est&eacute; actuando para mantener la poblaci&oacute;n en estudio (Brawn &amp; Robinson 1996). En nuestro caso, todos los transectos de la &uacute;nica parcela estar&iacute;an dentro del PNS (~1.020 km<Sup>2</Sup>) y podr&iacute;a ocurrir que las poblaciones de pumas y zorros sean mantenidas por inmigraci&oacute;n desde el vecino Parque Nacional Lauca (~3.000 km<Sup>2</Sup>) en Chile, mientras nuestro programa de monitoreo nos mostrar&iacute;a ausencia de tendencia decreciente. Bajo esta consideraci&oacute;n, es mejor establecer m&aacute;s parcelas, de manera que el &aacute;rea bajo estudio sea mayor, especialmente en el caso del puma, cuyos movimientos dentro de un mismo &aacute;mbito de hogar y m&aacute;s a&uacute;n durante la migraci&oacute;n post independencia cubren distancias enormes (Nowell &amp; Jackson 1996, Logan &amp; Sweanor 2001). </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Las alternativas para el monitoreo de puma de: a) realizar 35 muestreos en una sola parcela y b) establecer ocho parcelas y realizar siete muestreos, deben ser consideradas a la luz de los recursos disponibles y la factibilidad del trabajo en el campo. Un programa de monitoreo que implique 35 d&iacute;as de trabajo puede ocasionar dificultades de organizaci&oacute;n mayores que si se trata de siete d&iacute;as. Sin embargo, el &aacute;rea a cubrirse con ocho parcelas debe incluir necesariamente zonas fuera del &aacute;rea protegida. Si bien esto puede parecer un problema a primera vista, sugerimos aqu&iacute; que ser&aacute; una ventaja, considerando que 3-4 de las parcelas adicionales podr&iacute;an establecerse en el vecino Parque Nacional Lauca (Chile), lo cual obligar&iacute;a a emprender tareas conjuntas, con las obvias ventajas para el desarrollo de la ciencia y mejoras en la conservaci&oacute;n para ambos pa&iacute;ses. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">El resto de las parcelas deber&iacute;an establecerse en &aacute;reas adyacentes al PN Sajama, en territorio boliviano, para lograr una idea del estado de las especies fuera del &aacute;rea protegida, donde ya se tienen reclamos sobre problemas de depredaci&oacute;n de ganado por puma, por ejemplo en la Provincia Mejillones del departamento de Oruro. Una ventaja adicional de establecer varias parcelas, en lugar de incrementar el n&uacute;mero de conteos en una sola, es que cada parcela del programa de monitoreo de puma podr&iacute;a ser analizada por separado para el caso del zorro, pues los siete conteos a realizarse en cada parcela ser&iacute;an te&oacute;ricamente ser suficientes para detectar tendencias similares del zorro dentro de cada parcela (o regi&oacute;n de aproximadamente 1.000 km<Sup>2</Sup>). </font></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Por tanto, sugerimos que el dise&ntilde;o del programa de monitoreo de puma y zorro siga el siguiente modelo: </font></P ><TABLE width="631" border=0   align="center" cellpadding=2 cellspacing=0 >   <TR    ><TD    align="left" width="36"  valign="top" height="15"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1) </font></TD ><TD    align="left" width="587"  valign="top" height="15"  >    <div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Establecer ocho parcelas, cada una con 18 transectos de 2.5 km cada uno y separados al menos por 5 km. </font></div></TD >   </TR ><TR    ><TD    align="left" width="36"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2) </font></TD ><TD    align="left" width="587"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Realizar al menos siete muestreos anuales en cada uno de los transectos de cada parcela. </font></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3) </font></TD ><TD    align="left" width="587"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Analizar los datos anualmente para hacer ajustes al modelo. </font></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4) </font></TD ><TD    align="left" width="587"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hacer una revisi&oacute;n detallada del programa luego de 3-4 a&ntilde;os, para evaluar: </font></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="18"  ></TD><TD    align="left" width="587"  valign="middle" height="18"  >    <div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">a) el posible efecto aditivo de la variaci&oacute;n interanual de los muestreos en la potencia del dise&ntilde;o y</font></div></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="16"  ></TD><TD    align="left" width="587"  valign="top" height="16"  >    <div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">b) la autocorrelaci&oacute;n entre muestreossucesivos y la posibilidad de espaciar temporalmente los muestreos en el a&ntilde;o para que no sean considerados pseuror&eacute;plicas. </font></div></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="16"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">5) </font></TD ><TD    align="left" width="587"  valign="top" height="16"  >    <div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Establecer un convenio de trabajo conjuntocon la administraci&oacute;n del Parque Nacional Lauca, sobre la base del establecimiento de 3-4 parcelas de muestreo en dicho Parque, para monitorear las poblaciones de puma y zorro en ambas &aacute;reas protegidas. </font></div></TD ></TR ><TR    ><TD    align="left" width="36"  valign="top" height="14"  ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">6) </font></TD ><TD    align="left" width="587"  valign="top" height="14"  >    <div align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Establecer el resto de las parcelas en &aacute;reas de amortiguaci&oacute;n del PN Sajama, de manera que podamos tener una buena idea sobre las tendencias de la poblaci&oacute;n de puma en un &aacute;rea de gran tama&ntilde;o y bajo distinto r&eacute;gimen de protecci&oacute;n, adem&aacute;s de ideas menos finas de las tendencias del zorro en cada parcela. Esto estar&iacute;a de acuerdo con lo sugerido por Schonewald-Cox et al. (1991) y Smallwood &amp; Schonewald-Cox (1998) en que los estudios relacionados con abundancia de carn&iacute;voros deben ser realizados en grandes extensiones, ya que las estimaciones de densidad tienden a ser mayores cuanto menor es el &aacute;rea de estudio. El estudio m&aacute;s importante a la fecha sobre la ecolog&iacute;a del puma se realiz&oacute; en un &aacute;rea de 2.059 km<sup>2 </sup>(Logan &amp; Sweanor 2001), que sugiere que el &aacute;rea adecuada destinada a monitorear nuestra poblaci&oacute;n de pumas es de 6.000-8.000 km<sup>2</sup>. </font></div></TD ></TR ></TABLE >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dado que la relaci&oacute;n entre la densidad de huellas y de individuos no es necesariamente lineal ni constante (Gibbs 2000, Walker et al. 2000), es necesario calibrar el &iacute;ndice de huellas con estimaciones de densidad de las poblaciones. Sin embargo, los pocos estudios disponibles indican que las huellas son un buen &iacute;ndice de la densidad real de las poblaciones de puma (Van Dyke et al. 1986), zorro (Novaro et al. 2000) y otros carn&iacute;voros (Stander 1998, Warrick &amp; Harris 2001, pero ver Serv&iacute;n et al. (1987). Adem&aacute;s, si la calibraci&oacute;n entre frecuencia de huellas y densidad de animales no se ha hecho, este es un problema menor para los casos, como &eacute;ste en que el &iacute;ndice de huellas se usa para el monitoreo de una poblaci&oacute;n en el tiempo y no para comparar densidades de poblaciones en distintos sitios (Wilson &amp; Delahay 2001). </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabajo muestra la importancia de realizar un estudio piloto de campo y ajustar un dise&ntilde;o para los programas de monitoreo, si se desea disminuir las probabilidades de desperdiciar esfuerzos de campo en obtener datos que no sean suficientes para asegurarnos que estamos detectando las tendencias de las poblaciones. Creemos que este tipo de dise&ntilde;os deben realizarse de manera rutinaria para mejorar la eficiencia y confiabilidad en el manejo de la vida silvestre. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Agradecimientos </b></font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Este trabajo se realiz&oacute; con el apoyo de Wildlife Conservation Society a LFP. Financiamiento adicional y gran motivaci&oacute;n vino del Cat Action Treasury. El manuscrito se escribi&oacute; con el apoyo de la John D. &amp; Catherine T. MacArthur Foundation al trabajo de LFP en la Estaci&oacute;n Biol&oacute;gica Tunquini. Peter Feinsinger, Walfrido Tom&aacute;s, Eric Yensen, Javier Simonetti y especialmente Andr&eacute;s Novaro y un revisor an&oacute;nimo dieron importantes sugerencias para aclarar este manuscrito. Rosa I. Meneses del Herbario Nacional de Bolivia contribuy&oacute; con la descripci&oacute;n de la vegetaci&oacute;n. James Gibbs resolvi&oacute; algunas dudas sobre el uso de Monitor. Nuestro agradecimiento a la administraci&oacute;n del Parque Nacional Sajama por el permiso para trabajar en la zona y a Wilfredo Choque &Aacute;lvarez, Santos Nina &Aacute;lvarez, Eliseo &Aacute;lvarez Nina, Eustaquio Marca Marca, Antonio Huarachi Marca, Eloy &Aacute;lvarez Laura y Juan Bernardino Apata Madani, del cuerpo de guardaparques del PN Sajama, quienes colaboraron eficientemente con las tareas de campo. Una menci&oacute;n especial a la se&ntilde;ora Teresa Mar&iacute;n Molina por su apoyo durante el trabajo de campo. </font></P >     <P   align="justify" >&nbsp;</P >     <P   align="center" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>Referencias </b></font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Beier, P. &amp; S.C. Cunningham. 1996. Power of track surveys to detect changes in cougar populations. Wildlife Society Bulletin 24: 540-546. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Brawn, J.D. &amp; S.K. Robinson 1996. Source-sink dynamics may complicate interpretation of long-term census data. Ecology 77: 3-12. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Elzinga, C.L., D.W. Salzer, J.W. Willoughby &amp; J.P. Gibbs. 2001. Monitoring plant and animal populations. Blackwell Science, Massachussets. 360 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062543&pid=S1605-2528200400100000400003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Franklin, W.L., W.E. Johnson, R.J. Sarno &amp; J.A. Iriarte. 1999. Ecology of the Patagonia puma<I>Felis concolor patagonica</I>in southern Chile. Biological Conservation 90: 33-40. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gibbs, J.P. 1995. MONITOR. Vs. 6.2 User&acute;s manual. Department of Biology, Yale University, New Haven, Connecticut. 30 p. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062545&pid=S1605-2528200400100000400005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gibbs, J.P. 2000. Monitoring populations. pp. 213-252 En: L. Boitani &amp; T.K. Fuller (eds.). Research Techniques in Animal Ecology. Controversies and Consequences. Columbia University Press, Nueva York. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062546&pid=S1605-2528200400100000400006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gibbs, J.P., S. Droege &amp; P. Eagle. 1998. Monitoring populations of plants and animals. BioScience 48: 935-940. </font></P >    ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Gibbs, J.P., H.L. Snell &amp; C.E. Causton. 1999. Effective monitoring for adaptive management: lessons from the Gal&aacute;pagos Islands. Journal of Wildlife Management 63: 1055-1065. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hatfield, J.S., W.R. Gould IV, B.A. Hoover, M.R. Fuller &amp; E.L. Lindquist. 1996. Detecting trends in raptor counts: power and type I error rates of various statistical tests. Wildlife Society Bulletin 24: 505-515. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hatch, S.A. 2003. Statistical power for detecting trends with applications to seabird monitoring. Biological Conservation 11: 317-329. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062550&pid=S1605-2528200400100000400010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hill, K., G. McMillan &amp; R. Fari&ntilde;a. 2003. Huntingrelated changes in game encounter rates from 1994 to 2001 in the Mbaracayu Reserve, Paraguay. Conservation Biology 17: 1312-1323. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Logan, K.A., &amp; L.L. Sweanor. 2001. Desert puma: evolutionary ecology and conservation of an enduring carnivore. Island Press, Washington. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Noss, R.F., H.B. Quigley, M.G. Hornocker, T. Merril &amp; P.C. Paquet. 1996. Conservation biology and carnivore conservation in the Rocky mountains. Conservation Biology 10: 949-963. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Novaro, A.J. 1995. Sustainability of harvest of culpeo foxes in Patagonia. Oryx 29: 18-22. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062554&pid=S1605-2528200400100000400014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Novaro, A.J. 1997. Source-sink dynamics induced by hunting: case study of culpeo foxes on rangelands in Patagonia, Argentina. Ph.D. Dissertation, University of Florida, Gainesville. 212 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062555&pid=S1605-2528200400100000400015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Novaro, A.J., M.C. Funes, C. Rambeaud &amp; O. Monsalvo. 2000. Calibraci&oacute;n de &iacute;ndice de estaciones odor&iacute;feras para estimar tendencias poblacionales del zorro colorado (<I>Pseudalopex culpaeus</I>) en Patagonia. Mastozoolog&iacute;a Neotropical 7: 81-88. </font></P >     <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Nowell, K. &amp; P. Jackson. 1996. Wild cats. Status survey and conservation action plan. IUCN/SSC Cat Specialist Group. Gland. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062557&pid=S1605-2528200400100000400017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pacheco, L.F. (en prensa). Monitoreo de mam&iacute;feros grandes en praderas altoandinas y bosques nublados de Bolivia. Ecolog&iacute;a Austral. </font></P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062558&pid=S1605-2528200400100000400018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Pacheco, L.F., Lucero, A. &amp; M. Villca. 2004. Dieta del puma (<I>Puma concolor</I>) en el Parque Nacional Sajama, Bolivia. Ecolog&iacute;a en Bolivia 39: 75-83. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Ribera, M. 1999. Evaluaci&oacute;n integral del impacto de depredaci&oacute;n del puma (<I>Felis concolor</I>) y el zorro (<I>Pseudalopex culpaeus</I>), sobre el ganado cam&eacute;lido en el Parque Nacional Sajama. Informe no publicado, disponible en la oficina del PN Sajama, La Paz, 121 p. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062560&pid=S1605-2528200400100000400020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sargeant,G.A., D.H. Johnson &amp; W.E. Berg. 1998.Interpreting carnivore scent-station surveys. Journal of Wildlife Management 62: 1235-1245. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Schonewald-Cox C., R. Azari &amp; S. Blume. 1991. Scale, variable density, and conservation planning for mammalian carnivores. Conservation Biology 5: 491-495. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Servin, J.I., J.R. Rau &amp; M. Delibes. 1987. Use of radio tracking to improve the estimation by track counts of the relative abundance of red fox. Acta Theriologica 32: 489-492. </font></P >    <!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Smallwood, K.S.1994. Trends in California mountain lion populations. Southwestern Naturalist 39: 67-72. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062564&pid=S1605-2528200400100000400024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Smallwood, K.S. &amp; E.L. Fitzhugh. 1995. A track count for estimating mountain lion (<I>Puma concolor californica</I>) population trend. Biological Conservation 71: 252-259. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Smallwood, K.S. &amp; C. Schonewald-Cox. 1998. Study design and interpretation of mammalian carnivore density estimates. Oecologia 113: 474-491. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Smith, W.P. &amp; V.L. Harke. 2001. Marbled murrelet surveys: site and annual variation, sampling effort and statistical power. Wildlife Society Bulletin 29: 568-577. </font></P >     ]]></body>
+<body><![CDATA[<!-- ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stander, P.E. 1998. Spoor counts as indices of large carnivore populations: the relationship between spoor frequency, sampling effort and true density. Journal of Applied Ecology 35: 378-385. </font></P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=062568&pid=S1605-2528200400100000400028&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Steidl, R.J., J.P. Hayes &amp; E. Schauber. 1997. Statistical power in wildlife research. Journal of Wildlife Management 61: 270-279. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Stirrat, S.C., D. Lawson, W.J. Freeland &amp; R. Morton. 2001. Monitoring <I>Crocodylus porosus </I>populations in the Northern territory of Australia: a retrospective power analysis. Wildlife Research 28: 547-554. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Thomas, L. &amp; C.J. Krebs. 1997. A review of statistical power analysis software. Bulletin of the Ecological Society of America 78: 126-139. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Travaini, A., S.C. Zapata, C. Zoratti, G. Soria, F. Esc&oacute;bar, G. Aguilera &amp; P. Collavino. 2003a. Dise&ntilde;o de un programa de seguimiento de poblaciones de c&aacute;nidos silvestres en ambientes esteparios de la Patagonia, Argentina. Acta Zool&oacute;gica Mexicana 90: 1-14. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Travaini, A., J. Pereyra, R. Mart&iacute;nez-Peck &amp; S.C. Zapata. 2003b. Monitoreo de zorros colorados (<I>Pseudalopex culpaeus</I>) y grises (<I>Pseudalopex griseus</I>) en Patagonia: dise&ntilde;o y comparaci&oacute;n de dos m&eacute;todos alternativos. Mastozoolog&iacute;a Neotropical 10: 277-291. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Van Dyke, F.G., R.H. Brocke &amp; H.G. Shaw. 1986. Use of track counts as indices of mountain lion presence. Journal of Wildlife Management 50: 102-108. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Walker, R.S., A.J. Novaro &amp; J.D. Nichols. 2000. Consideraciones para la estimaci&oacute;n de abundancia de poblaciones de. mam&iacute;feros. Mastozoolog&iacute;a Neotropical 7: 73-80. </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Warrick, G.D. &amp; C.E. Harris. 2001. Evaluation of spotlight and scent-station surveys to monitor kit fox abundance. Wildlife Society Bulletin 29: 827-832. </font></P >    <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Wilson, G.J. &amp; R.J. Delahay. 2001. A review of methods to estimate the abundance of terrestrial carnivores using field signs and observation. Wildlife Research 28: 151-164. </font></P >     ]]></body>
+<body><![CDATA[<P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Yensen, E. &amp; T. Tarifa. 1993. Reconocimiento de los mam&iacute;feros del Parque Nacional Sajama. Ecolog&iacute;a en Bolivia 21: 45-66.</font></P >     <P   align="justify" >&nbsp;</P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo recibido en: Abril de 2004 </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Manejado por: Javier Simonetti </font></P >     <P   align="justify" ><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Aceptada en: Octubre de 2004</font></P >      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Beier]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cunningham]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Power of track surveys to detect changes in cougar populations]]></article-title>
+<source><![CDATA[Wildlife Society Bulletin]]></source>
+<year>1996</year>
+<volume>24</volume>
+<page-range>540-546</page-range></nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Brawn]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Robinson]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Source-sink dynamics may complicate interpretation of long-term census data]]></article-title>
+<source><![CDATA[Ecology]]></source>
+<year>1996</year>
+<volume>77</volume>
+<page-range>3-12</page-range></nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Elzinga]]></surname>
+<given-names><![CDATA[C.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Salzer]]></surname>
+<given-names><![CDATA[D.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Willoughby]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Monitoring plant and animal populations]]></source>
+<year>2001</year>
+<page-range>360</page-range><publisher-loc><![CDATA[^eMassachussets Massachussets]]></publisher-loc>
+<publisher-name><![CDATA[Blackwell Science]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Franklin]]></surname>
+<given-names><![CDATA[W.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Johnson]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sarno]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Iriarte]]></surname>
+<given-names><![CDATA[J.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Ecology of the Patagonia pumaFelis concolor patagonicain southern Chile]]></article-title>
+<source><![CDATA[Biological Conservation]]></source>
+<year>1999</year>
+<volume>90</volume>
+<page-range>33-40</page-range></nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[MONITOR. Vs. 6.2 User´s manual]]></source>
+<year>1995</year>
+<page-range>30</page-range><publisher-loc><![CDATA[New Haven^eConnecticut Connecticut]]></publisher-loc>
+<publisher-name><![CDATA[Department of Biology, Yale University]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Monitoring populations]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Boitani]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fuller]]></surname>
+<given-names><![CDATA[T.K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Research Techniques in Animal Ecology. Controversies and Consequences]]></source>
+<year>2000</year>
+<page-range>213-252</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Columbia University Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Droege]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Eagle]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Monitoring populations of plants and animals]]></article-title>
+<source><![CDATA[BioScience]]></source>
+<year>1998</year>
+<volume>48</volume>
+<page-range>935-940</page-range></nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Gibbs]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Snell]]></surname>
+<given-names><![CDATA[H.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Causton]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Effective monitoring for adaptive management: lessons from the Galápagos Islands]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>1999</year>
+<volume>63</volume>
+<page-range>1055-1065</page-range></nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hatfield]]></surname>
+<given-names><![CDATA[J.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gould IV]]></surname>
+<given-names><![CDATA[W.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hoover]]></surname>
+<given-names><![CDATA[B.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fuller]]></surname>
+<given-names><![CDATA[M.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lindquist]]></surname>
+<given-names><![CDATA[E.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Detecting trends in raptor counts: power and type I error rates of various statistical tests]]></article-title>
+<source><![CDATA[Wildlife Society Bulletin]]></source>
+<year>1996</year>
+<volume>24</volume>
+<page-range>505-515</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hatch]]></surname>
+<given-names><![CDATA[S.A.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical power for detecting trends with applications to seabird monitoring]]></article-title>
+<source><![CDATA[Biological Conservation]]></source>
+<year>2003</year>
+<volume>11</volume>
+<page-range>317-329</page-range></nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Hill]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[McMillan]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fariña]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Huntingrelated changes in game encounter rates from 1994 to 2001 in the Mbaracayu Reserve, Paraguay]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>2003</year>
+<volume>17</volume>
+<page-range>1312-1323</page-range></nlm-citation>
+</ref>
+<ref id="B12">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Logan]]></surname>
+<given-names><![CDATA[K.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sweanor]]></surname>
+<given-names><![CDATA[L.L.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Desert puma: evolutionary ecology and conservation of an enduring carnivore]]></source>
+<year>2001</year>
+<publisher-loc><![CDATA[Washington ]]></publisher-loc>
+<publisher-name><![CDATA[Island Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B13">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Noss]]></surname>
+<given-names><![CDATA[R.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Quigley]]></surname>
+<given-names><![CDATA[H.B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hornocker]]></surname>
+<given-names><![CDATA[M.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Merril]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Paquet]]></surname>
+<given-names><![CDATA[P.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Conservation biology and carnivore conservation in the Rocky mountains]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>1996</year>
+<volume>10</volume>
+<page-range>949-963</page-range></nlm-citation>
+</ref>
+<ref id="B14">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Sustainability of harvest of culpeo foxes in Patagonia]]></article-title>
+<source><![CDATA[Oryx]]></source>
+<year>1995</year>
+<volume>29</volume>
+<page-range>18-22</page-range></nlm-citation>
+</ref>
+<ref id="B15">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Source-sink dynamics induced by hunting: case study of culpeo foxes on rangelands in Patagonia, Argentina]]></source>
+<year>1997</year>
+<page-range>212</page-range><publisher-loc><![CDATA[Gainesville ]]></publisher-loc>
+<publisher-name><![CDATA[University of Florida]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B16">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Funes]]></surname>
+<given-names><![CDATA[M.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rambeaud]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Monsalvo]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Calibración de índice de estaciones odoríferas para estimar tendencias poblacionales del zorro colorado (Pseudalopex culpaeus) en Patagonia]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>2000</year>
+<volume>7</volume>
+<page-range>81-88</page-range></nlm-citation>
+</ref>
+<ref id="B17">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Nowell]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jackson]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Wild cats. Status survey and conservation action plan]]></source>
+<year>1996</year>
+<publisher-loc><![CDATA[Gland ]]></publisher-loc>
+<publisher-name><![CDATA[IUCN/SSC Cat Specialist Group]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B18">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Monitoreo de mamíferos grandes en praderas altoandinas y bosques nublados de Bolivia]]></source>
+<year></year>
+<publisher-name><![CDATA[Ecología Austral]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B19">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Pacheco]]></surname>
+<given-names><![CDATA[L.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lucero]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villca]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Dieta del puma (Puma concolor) en el Parque Nacional Sajama, Bolivia]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2004</year>
+<volume>39</volume>
+<page-range>75-83</page-range></nlm-citation>
+</ref>
+<ref id="B20">
+<nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ribera]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Evaluación integral del impacto de depredación del puma (Felis concolor) y el zorro (Pseudalopex culpaeus), sobre el ganado camélido en el Parque Nacional Sajama]]></source>
+<year>1999</year>
+<page-range>121</page-range><publisher-loc><![CDATA[La Paz ]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B21">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Sargeant]]></surname>
+<given-names><![CDATA[G.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Johnson]]></surname>
+<given-names><![CDATA[D.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Berg]]></surname>
+<given-names><![CDATA[W.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Interpreting carnivore scent-station surveys]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>1998</year>
+<volume>62</volume>
+<page-range>1235-1245</page-range></nlm-citation>
+</ref>
+<ref id="B22">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Schonewald Cox]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Azari]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Blume]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Scale, variable density, and conservation planning for mammalian carnivores]]></article-title>
+<source><![CDATA[Conservation Biology]]></source>
+<year>1991</year>
+<volume>5</volume>
+<page-range>491-495</page-range></nlm-citation>
+</ref>
+<ref id="B23">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Servin]]></surname>
+<given-names><![CDATA[J.I.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Rau]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delibes]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Use of radio tracking to improve the estimation by track counts of the relative abundance of red fox]]></article-title>
+<source><![CDATA[Acta Theriologica]]></source>
+<year>1987</year>
+<volume>32</volume>
+<page-range>489-492</page-range></nlm-citation>
+</ref>
+<ref id="B24">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smallwood]]></surname>
+<given-names><![CDATA[K.S.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Trends in California mountain lion populations]]></article-title>
+<source><![CDATA[Southwestern Naturalist]]></source>
+<year>1994</year>
+<volume>39</volume>
+<page-range>67-72</page-range></nlm-citation>
+</ref>
+<ref id="B25">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smallwood]]></surname>
+<given-names><![CDATA[K.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fitzhugh]]></surname>
+<given-names><![CDATA[E.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A track count for estimating mountain lion (Puma concolor californica) population trend]]></article-title>
+<source><![CDATA[Biological Conservation]]></source>
+<year>1995</year>
+<volume>71</volume>
+<page-range>252-259</page-range></nlm-citation>
+</ref>
+<ref id="B26">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smallwood]]></surname>
+<given-names><![CDATA[K.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schonewald-Cox]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Study design and interpretation of mammalian carnivore density estimates]]></article-title>
+<source><![CDATA[Oecologia]]></source>
+<year>1998</year>
+<volume>113</volume>
+<page-range>474-491</page-range></nlm-citation>
+</ref>
+<ref id="B27">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Smith]]></surname>
+<given-names><![CDATA[W.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harke]]></surname>
+<given-names><![CDATA[V.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Marbled murrelet surveys: site and annual variation, sampling effort and statistical power]]></article-title>
+<source><![CDATA[Wildlife Society Bulletin]]></source>
+<year>2001</year>
+<volume>29</volume>
+<page-range>568-577</page-range></nlm-citation>
+</ref>
+<ref id="B28">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stander]]></surname>
+<given-names><![CDATA[P.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Spoor counts as indices of large carnivore populations: the relationship between spoor frequency, sampling effort and true density]]></article-title>
+<source><![CDATA[Journal of Applied Ecology]]></source>
+<year>1998</year>
+<volume>35</volume>
+<page-range>378-385</page-range></nlm-citation>
+</ref>
+<ref id="B29">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Steidl]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hayes]]></surname>
+<given-names><![CDATA[J.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Schauber]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Statistical power in wildlife research]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>1997</year>
+<volume>61</volume>
+<page-range>270-279</page-range></nlm-citation>
+</ref>
+<ref id="B30">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stirrat]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lawson]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Freeland]]></surname>
+<given-names><![CDATA[W.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Morton]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Monitoring Crocodylus porosus populations in the Northern territory of Australia: a retrospective power analysis]]></article-title>
+<source><![CDATA[Wildlife Research]]></source>
+<year>2001</year>
+<volume>28</volume>
+<page-range>547-554</page-range></nlm-citation>
+</ref>
+<ref id="B31">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Thomas]]></surname>
+<given-names><![CDATA[L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Krebs]]></surname>
+<given-names><![CDATA[C.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A review of statistical power analysis software]]></article-title>
+<source><![CDATA[Bulletin of the Ecological Society of America]]></source>
+<year>1997</year>
+<volume>78</volume>
+<page-range>126-139</page-range></nlm-citation>
+</ref>
+<ref id="B32">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Travaini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zapata]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zoratti]]></surname>
+<given-names><![CDATA[C.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Soria]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Escóbar]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aguilera]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Collavino]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Diseño de un programa de seguimiento de poblaciones de cánidos silvestres en ambientes esteparios de la Patagonia, Argentina]]></article-title>
+<source><![CDATA[Acta Zoológica Mexicana]]></source>
+<year>2003</year>
+<month>a</month>
+<volume>90</volume>
+<page-range>1-14</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Travaini]]></surname>
+<given-names><![CDATA[A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Pereyra]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martínez-Peck]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Zapata]]></surname>
+<given-names><![CDATA[S.C.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Monitoreo de zorros colorados (Pseudalopex culpaeus) y grises (Pseudalopex griseus) en Patagonia: diseño y comparación de dos métodos alternativos]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>2003</year>
+<month>b</month>
+<volume>10</volume>
+<page-range>277-291</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[van Dyke]]></surname>
+<given-names><![CDATA[F.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brocke]]></surname>
+<given-names><![CDATA[R.H.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Shaw]]></surname>
+<given-names><![CDATA[H.G.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Use of track counts as indices of mountain lion presence]]></article-title>
+<source><![CDATA[Journal of Wildlife Management]]></source>
+<year>1986</year>
+<volume>50</volume>
+<page-range>102-108</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Walker]]></surname>
+<given-names><![CDATA[R.S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Novaro]]></surname>
+<given-names><![CDATA[A.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Nichols]]></surname>
+<given-names><![CDATA[J.D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Consideraciones para la estimación de abundancia de poblaciones de mamíferos]]></article-title>
+<source><![CDATA[Mastozoología Neotropical]]></source>
+<year>2000</year>
+<volume>7</volume>
+<page-range>73-80</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Warrick]]></surname>
+<given-names><![CDATA[G.D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Harris]]></surname>
+<given-names><![CDATA[C.E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Evaluation of spotlight and scent-station surveys to monitor kit fox abundance]]></article-title>
+<source><![CDATA[Wildlife Society Bulletin]]></source>
+<year>2001</year>
+<volume>29</volume>
+<page-range>827-832</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Wilson]]></surname>
+<given-names><![CDATA[G.J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Delahay]]></surname>
+<given-names><![CDATA[R.J.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[A review of methods to estimate the abundance of terrestrial carnivores using field signs and observation]]></article-title>
+<source><![CDATA[Wildlife Research]]></source>
+<year>2001</year>
+<volume>28</volume>
+<page-range>151-164</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Yensen]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tarifa]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Reconocimiento de los mamíferos del Parque Nacional Sajama]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>1993</year>
+<volume>21</volume>
+<page-range>45-66</page-range></nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892001000000006</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Cartografía de las transiciones electrónicas en cristales ferromagnéticos]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Saniz]]></surname>
+<given-names><![CDATA[Rolando]]></given-names>
+</name>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana Departamento de Ciencias Exactas ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>00</month>
+<year>2001</year>
+</pub-date>
+<volume>1</volume>
+<numero>1</numero>
+<fpage>01</fpage>
+<lpage>25</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892001000000006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892001000000006&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892001000000006&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El conocimiento de las transiciones electrónicas posibles entre estados de un sistema, dentro del marco de la mecánica cuántica, es fundamental para poder comprender las propiedades del sistema y su respuesta a un estímulo exterior. En este trabajo estudiamos los ‘mapas’ de las transiciones de intercambio posibles entre estados electrónicos en un modelo de cristal ferromagnético, tomando en cuenta las transiciones de Stoner, con inversión del spin electrónico, y las transiciones sin inversión de spin. Estos mapas ponen en evidencia el origen de la estructura de la respuesta del material cuando sometido a un análisis de espectroscopía electrónica.]]></p></abstract>
+<kwd-group>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="center"> <font size="4" face="Verdana, Arial, Helvetica, sans-serif">Cartograf&iacute;a de las transiciones electr&oacute;nicas en cristales ferromagn&eacute;ticos</font></p>     <P   align="center" ></B>Rolando Saniz </P >     <P   align="center" ><I>Departamento de Ciencias Exacta</I></B><I>s  </I><I>Universidad Cat&oacute;lica Boliviana, Casilla #5381, Cochabamba  </I></P >     <P   >El conocimiento de las transiciones electr&oacute;nicas posibles entre estados de un sistema, dentro del marco de la mec&aacute;nica cu&aacute;ntica, es fundamental para poder comprender las propiedades del sistema y su respuesta a un est&iacute;mulo exterior. En este trabajo estudiamos los &lsquo;mapas&rsquo; de las transiciones de intercambio posibles entre estados electr&oacute;nicos en un modelo de cristal ferromagn&eacute;tico, tomando en cuenta las transiciones de Stoner, con inversi&oacute;n del spin electr&oacute;nico, y las transiciones sin inversi&oacute;n de spin. Estos mapas ponen en evidencia el origen de la estructura de la respuesta del material cuando sometido a un an&aacute;lisis de espectroscop&iacute;a electr&oacute;nica. <I>Palabras clave: </I>Transiciones de Stoner; Espectroscop&iacute;a electr&oacute;nica; ferromagnetismo itinerante. </P >    <P   ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>1. Introducci&oacute;n </B></font></P >    <P   >La estructura electr&oacute;nica de un material juega un papel sumamente importante en determinar muchas de sus propiedades. Podemos citar, e.g. la resistividad, la reflectividad, la conductividad t&eacute;rmica, la susceptibilidad, y otras de gran inter&eacute;s pr&aacute;ctico. Por esta raz&oacute;n es que una las primeras tareas al estudiar un material es tratar de determinar te&oacute;rica y experimentalmente su estructura electr&oacute;nica. Desde el punto de vista te&oacute;rico, existen hoy en d&iacute;a m&eacute;todos sofisticados como FPLAPW (Full Potential Linear Augmented Plane Wave) o FPLMTO (Full Potential Linear Muffin-Tin Orbital), utilizando ambos de m&eacute;todos que se utilizan seg&uacute;n el material que se desea estudiar. Se tiene, por ejemplo, la fotoemisi&oacute;n, uno de los primeros, y la difusi&oacute;n de muones, uno de los m&aacute;s recientes. </P >    <P   align="justify" >Entre los materiales m&aacute;s estudiados por su utilidad en la tecnolog&iacute;a de informaci&oacute;n de hoy, est&aacute;n los materiales de ferromagnetismo itinerante. Los ejemplos m&aacute;s comunes de este tipo de material son los metales de transici&oacute;n Fe, Ni y Co. La gran diferencia entre &eacute;stos y otros materiales radica en que en ellos los niveles de energ&iacute;a electr&oacute;nicos no presentan degeneraci&oacute;n de spin. Este es precisamente el origen de su ferromagnetismo. En efecto, en los materiales ferromagn&eacute;ticos existe una separaci&oacute;n entre los niveles energ&eacute;ticos de los electrones con spin en un sentido y los electrones con spin opuesto, separaci&oacute;n conocida como la separaci&oacute;n de intercambio. Debido a esta separaci&oacute;n, los niveles energ&eacute;ticos con un sentido de spin est&aacute;n en general por debajo los de sus semejantes de spin inverso, y por consiguiente m&aacute;s poblados. El hecho que los electrones en el material presentan un sentido preferencial de spin le confiere propiedades magn&eacute;ticas por el momento magn&eacute;tico asociado al spin electr&oacute;nico. </P >    <P   align="justify" >No es de extra&ntilde;ar, entonces, que uno de los m&eacute;todos m&aacute;s utilizados en los &uacute;ltimos a&ntilde;os en el estudio de materiales ferromagn&eacute;ticos trata de distinguir entre electrones con spin opuesto. Se trata de la espectroscopia SPEELS, del ingl&eacute;s Spin-Polarised Electron Energy Loss Spectroscopy. Este m&eacute;todo consiste en enviar un electr&oacute;n de spin conocido sobre una muestra de material y en recoger el electr&oacute;n difundido, midiendo su energ&iacute;a, cantidad de movimiento y spin. Si el spin del electr&oacute;n recogido es diferente al del electr&oacute;n incidente, se dice que ha habido una difusi&oacute;n con &lsquo;inversi&oacute;n de spin&rsquo;. En realidad, este nombre se presta a confusi&oacute;n porque lo que ocurre en realidad es que le electr&oacute;n incidente se queda en el material en un estado vac&iacute;o con spin apropiado y el electr&oacute;n recogido viene de un estado ocupado de spin opuesto. M&aacute;s correctamente se habla de difusi&oacute;n con intercambio. Por otra parte, si el spin del electr&oacute;n incidente y del electr&oacute;n observado son iguales, puede haber ocurrido tanto una difusi&oacute;n mismo. </P >    <P   align="justify" >Para interpretar los resultados de los m&eacute;todos espectrosc&oacute;picos, en general y no s&oacute;lo en el caso de SPEELS, es &uacute;til determinar exactamente cu&aacute;les estados ocupados y cu&aacute;les estados libres pueden intervenir en los que se llama la creaci&oacute;n de un par &lsquo;electron-hueco&rsquo;, es decir, el proceso por el cual un electr&oacute;n pasa a ocupar un estado vac&iacute;o y otro (o el mismo) deja un estado ocupado. En este trabajo estudiamos los &lsquo;mapas&rsquo; de las transiciones posibles, tanto con intercambio como directas, de las parejas posibles en funci&oacute;n de la energ&iacute;a de la pareja y de las bandas electr&oacute;nicas a las que pertenecen. Este tipo de an&aacute;lisis ha demostrado ser &uacute;til en la elucidaci&oacute;n de la fenomenolog&iacute;a de la espectroscop&iacute;a SPEELS aplicada a cristales ferromagn&eacute;ticos [1]. En el presente estudio, hacemos un an&aacute;lisis m&aacute;s detallado de la dependencia de estos mapas respecto al &aacute;ngulo de incidencia de los haces de electrones utilizados, as&iacute; como de la faceta expuesta por los cristales. En la siguiente secci&oacute;n se presenta el modelo que cristal ferromagn&eacute;tico con el que se ha realizado el trabajo y la funci&oacute;n respuesta del sistema que pone en evidencia la utilidad de los mapas mencionados. El Secci&oacute;n 3 se presentan los resultados principales de este estudio. Finalmente, en la Secci&oacute;n 4 se procede a comentar sobre los resultados del trabajo, incluyendo algunas conclusiones. </P >    <P   align="justify" ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><B>2. Modelo de cristal ferromagn&eacute;tico y funci&oacute;n respuesta</B></font> </P >     ]]></body>
+<body><![CDATA[<P   align="justify" >Los materiales ferromagn&eacute;ticos como el Fe, Ni o Co presentan un magnetismo itinerante, debido a su car&aacute;cter met&aacute;lico. Por esta raz&oacute;n, los niveles electr&oacute;nicos se describen bien por funciones de onda de Bloch del tipo</P >     <P   align="center" ><img src="imagenes/1-7.JPG" width="490" height="102"></P >     <P   align="justify" >En esta ecuaci&oacute;n, N<sub>0</sub> es el n&uacute;mero de iones en el cristal, n es el &iacute;ndice de banda, k el vector de onda y <img src="imagenes/nsigma.JPG" width="29" height="26"> la funci&oacute;n de spin. Escribimos las funciones de Wannier<img src="imagenes/tetank.JPG" width="32" height="30"> como combinaciones lineales de orbitales at&oacute;micos <img src="imagenes/Fim.JPG" width="32" height="26"></P >     <P   align="center" ><img src="imagenes/2-7.JPG" width="510" height="77"></P >     <P   align="justify" >En nuestro modelo tomamos en cuenta solamente los orbitales 3<I>d</I>, que son los principales responsables del magnetismo en los metales de transici&oacute;n que se quiere modelizar. Los coeficientes <I>b<sub>nm</sub></I> diagonalizan el Hamiltoniano cristalino y est&aacute;n normalizados, de manera que definen una matriz unitaria. Para fijar par&aacute;metros, tomamos el caso del Fe. Los cinco orbitales 3<I>d </I>fueron determinados en base a la aproximaci&oacute;n de Griffith [2] y la constante de red se fij&oacute; en <I>a</I>=2.87 &Aring; [3]. Definiendo <I>a</I><Sup>&dagger;</Sup><sub>nk&sigma; </sub>como el operador de creaci&oacute;n de una part&iacute;cula en el estado de Bloch de vector de onda k y spin s en la banda n, el Hamiltoniano de electrones independientes se escribe </P >     <P   align="center" ><img src="imagenes/3-7.JPG" width="598" height="61"></P >     <P   align="justify" >donde las funciones &epsilon;<sub><I>n</I></sub>(<B>p</B>) son las energ&iacute;as de banda paramagn&eacute;ticas determinadas en el proceso de diagonalizaci&oacute;n. Como Hamiltoniano de interacci&oacute;n tomamos un modelo de Hubbard, a saber</P >     <P   align="center" ><img src="imagenes/4-7.JPG" width="621" height="87"></P >     <P   align="justify" >donde las sumas se realizan sobre &iacute;ndices orbitales <I>m,m&rsquo;</I>, los iones <I>j </I>y el spin &sigma;. Es as&iacute; que tenemos una repulsi&oacute;n de Coulomb <I>U </I>entre electrones de spin opuesto que se encuentran en el mismo i&oacute;n. En la base de estados de Bloch, &eacute;ste Hamiltoniano se escribe</P >     <P   align="center" ><img src="imagenes/5-7.JPG" width="842" height="90"></P >     ]]></body>
+<body><![CDATA[<P   align="justify" >donde hemos definido <img src="imagenes/5.1-7.JPG" width="218" height="44"></P >     <P   >La secci&oacute;n eficaz de difusi&oacute;n de un electr&oacute;n polarizado por un sistema de N electrones de electrones es proporcional a la parte imaginaria de una funci&oacute;n retardada, dada por [4]</P >     <P align="center"   ><img src="imagenes/6-7.JPG" width="706" height="73"></P >     <P align="justify"   >donde <I>E </I>es la energ&iacute;a perdida, &Omega; es el &aacute;ngulo s&oacute;lido, <I>m </I>la masa del electr&oacute;n y &beta; = 1/<I>k</I><sub>B</sub><I>T</I>. La cantidad de movimiento transferida en la colisi&oacute;n es <B>q </B>= <B>p</B><sub><I>i</I></sub>&minus;<B>p</B><sub><I>f</I></sub>, con <B>p</B><sub><I>i</I></sub> y <B>p</B><sub><I>f </I></sub> las cantidades de movimiento de los electrones incidente y difundido, respectivamente, y definiciones similares para los spin &sigma;<sub><I>i </I></sub> y &sigma;<sub><I>f</I></sub>. En el presente caso, la funci&oacute;n retardada se puede obtener por continuaci&oacute;n anal&iacute;tica de una funci&oacute;n de correlaci&oacute;n &chi; que, como se ha demostrado anteriormente [1], se divide en dos</P >     <P align="center"   ><img src="imagenes/7-7.JPG" width="764" height="49"></P >     <P   >El primer t&eacute;rmino es el que contiene las transiciones de Stoner, que son las que nos ocupan en este art&iacute;culo. El segundo t&eacute;rmino contiene todos los efectos a muchas part&iacute;culas, en particular los modos colectivos (ondas de spin). Tomando la continuaci&oacute;n anal&iacute;tica <I>i</I>&omega;<sub><I>n </I></sub>&rarr; <I>E+i</I>&eta;, el t&eacute;rmino de Stoner se escribe</P >     <P align="center"   ><img src="imagenes/8-7.JPG" width="824" height="85"></P >     <P   >En esta ecuaci&oacute;n, hemos introducido la probabilidad de ocupaci&oacute;n del estado nk&sigma;, definida por f<sub>nk&sigma;</sub> = <img src="imagenes/acruz.JPG" width="113" height="26"> y la energ&iacute;a de las part&iacute;culas individuales modificada por la energ&iacute;a de intercambio</P >     <P align="center"   ><img src="imagenes/9-7.JPG" width="642" height="81"></P >     <P   >Es as&iacute; que, en nuestro modelo, las bandas con spin hacia arriba y spin hacia abajo est&aacute;n r&iacute;gidamente separadas por una cantidad <img src="imagenes/delta.JPG" width="165" height="28"> donde</P >     ]]></body>
+<body><![CDATA[<P align="center"   ><img src="imagenes/10-7.JPG" width="606" height="93"></P >     <P align="left"   >&nbsp;</P >     <P   >es el n&uacute;mero medio por i&oacute;n de estados con spin s.</P >     <P align="justify"   >En la Figura 1(a) podemos ver las bandas de energ&iacute;a electr&oacute;nicas de nuestro modelo, con la separaci&oacute;n &Delta; entre bandas con spin mayoritario y minoritario. El ancho de banda fue fijado a 4.7 eV, que corresponde aproximadamente al ancho de banda de los electrones 3<I>d </I>en el Fe [5]. La separaci&oacute;n de bandas es de 2 eV. El nivel de Fermi fue determinado con la condici&oacute;n de tener 6 electrones por c&eacute;lula unitaria. En la Figura 1(b) podemos ver la densidad de estados electr&oacute;nicos para ambas orientaciones de spin. Se pueden apreciar claramente las regiones enlace y anti-enlace, t&iacute;picas de los materiales BCC con niveles <I>d </I>incompletos. As&iacute;, los picos m&aacute;s modestos corresponden a estados de simetr&iacute;a <I>t</I><sub><I>2g </I></sub>y los picos elevados a estados de simetr&iacute;a <I>e</I><sub><I>g</I></sub>. Esto &uacute;ltimos proveen de una gran cantidad de estados de spin opuesto a ambos lados del nivel de Fermi. </P >     <P align="justify"   >FIG. 1. (a) Estructura de bandas de energ&iacute;a del Fe en nuestro modelo para vectores de onda a lo largo de las direcciones de simetr&iacute;a principales. Las l&iacute;neas continuas representan estados de spin mayoritario y las l&iacute;neas punteadas estados de spin minoritario. (b) Densidad de estados electr&oacute;nicos del Fe en nuestro modelo. La separaci&oacute;n de bandas es de 2 eV. </P >     <P align="justify"   >Las transiciones de Stoner posibles est&aacute;n determinadas por los ceros de la Eq. (8) y la ocupaci&oacute;n de los estados involucrados en la transici&oacute;n. Esto define lo que se conoce como densidad de estados de Stoner (cf. siguiente secci&oacute;n). Estas transiciones est&aacute;n ponderados por un peso definido por</P >     <P align="center"   ><img src="imagenes/11-7.JPG" width="850" height="76"></P >     <P align="justify"   >Este t&eacute;rmino depende de las funciones de Wannier y de la interacci&oacute;n de Coulomb <I>v </I>entre el electr&oacute;n incidente y los electrones del cristal. La suma es sobre la red de vectores rec&iacute;procos. El papel de este t&eacute;rmino en espectroscop&iacute;a es muy importante y ha sido analizado en otro trabajo [1]. Como mencionado en la introducci&oacute;n, aqu&iacute; nos concentraremos en la densidad de estados de Stoner.</P >     <P align="justify"   ><font size="3" face="Verdana, Arial, Helvetica, sans-serif"><b>3. Cartograf&iacute;a de los estados de Stoner</b></font> </P >     <P   align="justify" >La densidad de estados de Stoner en funci&oacute;n de la energ&iacute;a perdida y de las bandas de energ&iacute;a involucradas est&aacute; definida por </P >    ]]></body>
+<body><![CDATA[<P   align="center" ><img src="imagenes/12-7.JPG" width="806" height="71"></P >     <P   align="justify" >donde &delta; es la funci&oacute;n delta de Dirac. En los experimentos espectrosc&oacute;picos m&aacute;s comunes se emplea la geometr&iacute;a siguiente [6]. El haz de electrones incidentes tiene una polarizaci&oacute;n opuesta a la de la muestra. Luego, &eacute;sta expone la superficie (110) y el plano de difusi&oacute;n est&aacute; definido por la normal a la superficie [110] y el eje [001]. Si denominamos <I>u </I>el eje perpendicular a la superficie, la cantidad de movimiento <B>q </B>transferida en el proceso de difusi&oacute;n com&uacute;nmente empleada en el an&aacute;lisis de resultados experimentales se escribe</P >     <P   align="center" ><img src="imagenes/13-7.JPG" width="693" height="106"></P >     <P   align="justify" >donde &theta; es el &aacute;ngulo de incidencia. Esta cantidad de movimiento corresponde al caso en que el electr&oacute;n incidente sufre primero una reflexi&oacute;n el&aacute;stica sobre la red y/o los electrones de la misma, para luego sufrir una difusi&oacute;n inel&aacute;stica que dirige al electr&oacute;n difundido en la direcci&oacute;n de observaci&oacute;n. Como se mostr&oacute; en un anterior trabajo, existen otros dos procesos que contribuyen a la secci&oacute;n eficaz con la misma energ&iacute;a perdida e igual cantidad de movimiento transferida, a saber [7]</P >     <P   align="center" ><img src="imagenes/14-7.JPG" width="686" height="130"></P >     <P   >En el segundo caso, a diferencia del primero, la reflexi&oacute;n el&aacute;stica se produce despu&eacute;s de la difusi&oacute;n  inel&aacute;stica. En el tercer caso tenemos un proceso de difusi&oacute;n inel&aacute;stica puro, es decir que la cantidad de movimiento transferida corresponde enteramente al cambio de cantidad de movimiento de la part&iacute;cula difundida. Un an&aacute;lisis de la diferencia entre las contribuciones a la secci&oacute;n eficaz total de los tres procesos cae fuera del alcance de este trabajo. Sin embargo, podemos indicar que es dif&iacute;cil identificar experimentalmente las tres contribuciones, por lo que s&oacute;lo se analiza la secci&oacute;n eficaz total.</P >     <P   align="justify" >En la Figura 2 presentamos los mapas de transiciones de Stoner posibles para diferentes &aacute;ngulos de incidencia. Los tres &aacute;ngulos considerados son 45&deg;, 60&deg; y 75&deg;, presentados en las Figuras 2(a), 2(b) y 2(c), respectivamente. Las curvas de nivel son curvas de igual densidad de transiciones o estados de Stoner en funci&oacute;n de la energ&iacute;a absorbida por el par de Stoner y las bandas entre las que ocurri&oacute; la transici&oacute;n. La energ&iacute;a del electr&oacute;n incidente es de 22 eV, que corresponde a la energ&iacute;a utilizada experimentalmente en la Ref. [6]. Lo primero que se observa es que se identifican exactamente las energ&iacute;as a las que se pueden producir transiciones entre las diferentes bandas. Las curvas de nivel dependen de manera muy sensible de la estructura de banda del material y constituyen en una &lsquo;huella digital&rsquo; del mismo. Es as&iacute; que estos mapas son adem&aacute;s un instrumento &uacute;til y eficaz para distinguir entre diferentes modelos o c&aacute;lculos de estructura de banda y para validarlos, ya que est&aacute;n ligados directamente a las observaciones experimentales. Luego vemos que las regiones de transici&oacute;n posibles son esencialmente las mismas en los tres casos. S&oacute;lo cambian las alturas relativas. Es decir que el &aacute;ngulo de incidencia no determina las transiciones son posibles (que constituyen una propiedad del material), pero s&iacute; su cantidad. Estos mapas est&aacute;n directamente relacionados con uno de los trabajos m&aacute;s importantes en este campo. Hace varios a&ntilde;os, Abraham y Hopster [8] midieron el espectro SPEELS del Ni con una alta resoluci&oacute;n para un &aacute;ngulo de incidencia de 55&deg; y encontraron un umbral para las transiciones de Stoner alrededor de 65 meV. Interpretaron su resultado en t&eacute;rminos de la estructura de banda 3<I>d </I>del Ni a lo largo de la direcci&oacute;n &Gamma;<I>-X</I>. Un mapa de las transiciones de Stoner entre bandas <I>d </I>para ese &aacute;ngulo validar&iacute;a o contestar&iacute;a inmediatamente esa interpretaci&oacute;n. </P >     <P   align="justify" >FIG. 2. Curvas de nivel de la densidad de transiciones de Stoner para un electrÃ³n incidente con una energ&iacute;a de 22 eV para diferentes &aacute;ngulos de incidencia respecto a la normal [110]. El plano de difusi&oacute;n est&aacute; dado por la normal y el eje [001]. Las transiciones posibles se identifican muy claramente, tanto en lo que respecta a la energ&iacute;a como a las bandas involucradas. Los &aacute;ngulos de incidencia son los indicados por &theta; en cada caso. </P >     <P   align="justify" >Los c&aacute;lculos anteriores se realizaron para un haz de electrones incidentes sobre la superficie del cristal dada por la normal [110]. Uno bien puede preguntarse cu&aacute;l es la influencia de la simetr&iacute;a del cristal sobre el espectro de incidencia, es decir, si se realiza una observaci&oacute;n sobre otras facetas del cristal. La Figura 3 hace una comparaci&oacute;n de los mapas de las transiciones de Stoner posibles para un cristal exponiendo tres facetas distintas, a saber [110], [100] y [111]. Vemos nuevamente que la diferencia entre los diferentes casos es relativamente leve. Como antes, esto se debe a que se toman en cuenta las transiciones posibles entre todos los estados dentro de la zona de Brillouin. Por consiguiente los experimentos realizados sobre diferentes facetas estudian las mismas transiciones. Es resultado es &uacute;til, sin embargo, porque diferentes facetas pueden ser m&aacute;s o menos pr&aacute;cticas desde el punto de vista experimental, e.g. el clivaje o la magnetizaci&oacute;n pueden ser m&aacute;s o menos simples de acuerdo a la direcci&oacute;n en el cristal. </P >    <P   align="justify" >FIG. 3. Curvas de nivel de la densidad de transiciones de Stoner posibles para un haz de electrones incidente sobre tres facetas distintas de un cristal de Fe. El &aacute;ngulo de incidencia es 60&deg; en los tres casos y la energ&iacute;a de incidencia de 22 eV. La faceta expuesta es la indicada por la normal en cada caso. </P >    ]]></body>
+<body><![CDATA[<P   align="justify" >Finalmente, hemos considerado los mapas de transiciones de Stoner para un haz de electrones incidente con una polarizaci&oacute;n igual a la de la muestra. Esto es de inter&eacute;s puesto que experimentalmente es la denominada asimetr&iacute;a entre los espectros para haces polarizados paralela y antiparalelamente a la magnetizaci&oacute;n del cristal que pone en evidencia el espectro de Stoner (ver, por ejemplo, [6,8]). En especial y que esto sirve para eliminar las transiciones directas del espectro de Stoner (i.e. aquellas en las que no existe intercambio, ver las obras citadas anteriormente). Por tanto, es importante analizar el mapa de transiciones de Stoner en las que el electr&oacute;n se encuentra en un estado mayoritario y el hueco en un estado minoritario. En la Figura 4 presentamos las transiciones posibles en este caso para los mismos &aacute;ngulos de incidencia que en la Figura 2. El hecho de que las densidades de estado son bajas es simplemente consecuencia de que existen muy pocos estados de spin mayoritario vac&iacute;os (ver Fig. 1(b)). Aparte de la ligera dependencia respecto al &aacute;ngulo de incidencia, estas figuras nos muestran esencialmente dos cosas. Primero, que las transiciones de Stoner en cuesti&oacute;n est&aacute;n concentradas en energ&iacute;as bajas, alrededor de 0.5 eV y 1 eV, y comprenden sobre todo electrones en estados minoritarios del tipo <I>t</I><sub><I>2g </I></sub>(bandas 3<I>d </I>inferiores) y huecos en estados mayoritarios <I>e</I><sub><I>g </I></sub>(bandas 3<I>d </I>superiores). A pesar de que nuestro modelo es relativamente simple, explica muy bien los resultados experimentales de Venus y Kirschner. [6] En efecto, en dicha referencia se puede observar que los espectros para diferentes &aacute;ngulos de incidencia en el caso de un electr&oacute;n incidente mayoritario muestran sistem&aacute;ticamente un m&aacute;ximo relativo en la secci&oacute;n eficaz por debajo de 1 eV. Segundo, que las transiciones consideradas no contribuyen al espectro en la regi&oacute;n del pico de Stoner, que en general se encuentra por encima de la energ&iacute;a de separaci&oacute;n de bandas &Delta; [6,8] (2 eV en nuestro caso), y se limitan a bajas energ&iacute;as. Por consiguiente, toda estructura alrededor y por encima de la energ&iacute;a &Delta; en el espectro se deber&aacute; a transiciones sin inversi&oacute;n de spin. Esto es importante porque nos da una indicaci&oacute;n del grado de polarizaci&oacute;n del haz de electrones incidente, un par&aacute;metro que juega un papel fundamental en la determinaci&oacute;n de la resoluci&oacute;n experimental. </P >     <P   align="justify" >FIG. 4. Curvas de nivel de la densidad de transiciones de Stoner para electrones con spin mayoritario con una energ&iacute;a de 22 eV incidiendo sobre el cristal con diferentes &aacute;ngulos respecto a la normal. Los &aacute;ngulos de incidencia son los indicados por &theta; en cada caso. Las bajas densidades reflejan el hecho que existen muy pocos estados mayoritarios disponibles para una transiciÃ³n de Stoner.</P >     <P   align="justify" ><font size="4" face="Verdana, Arial, Helvetica, sans-serif"><B>4. Comentarios y conclusiones</B></font></P >     <P   align="justify" >En este trabajo hemos estudiado los mapas de las transiciones de Stoner posibles en un modelo de cristal ferromagn&eacute;tico. Aunque se emplearon par&aacute;metros que corresponden al Fe, nuestros resultados son cualitativos y se aplican a cualquier material que presente magnetismo itinerante. Es as&iacute; que un c&aacute;lculo m&aacute;s preciso de los mapas de transiciones de Stoner, en base a modelos m&aacute;s exactos de la estructura electr&oacute;nica de estos materiales, brindar&aacute; informaci&oacute;n precisa para la interpretaci&oacute;n de los resultados experimentales de espectroscop&iacute;a SPEELS. Aqu&iacute; es necesario indicar que la interpretaci&oacute;n final de las observaciones experimentales deber&aacute; tomar en cuenta tambi&eacute;n el peso relativo de las diferentes transiciones <I>W</I><sub><I>nn&rsquo; </I></sub>(ver las ecuaciones (8) y (11)). Como se ha demostrado en un trabajo anterior [1], estos pesos reducen las transiciones importantes a un n&uacute;mero relativamente peque&ntilde;o de pares de bandas. De esta manera se tiene la informaci&oacute;n no s&oacute;lo de cu&aacute;les transiciones son posibles, sino tambi&eacute;n de cu&aacute;les son las m&aacute;s determinantes. Es en este sentido que los mapas de transiciones de Stoner posibles constituyen un paso fundamental en el entendimiento e interpretaci&oacute;n de la espectroscop&iacute;a SPEELS. Podemos a&ntilde;adir que nuestros resultados sugieren que para explotar a fondo la espectroscop&iacute;a SPEELS se requiere de una resoluci&oacute;n experimental bastante fina. Por ejemplo, la resoluci&oacute;n actual de 400 meV de Venus y Kirschner [6] es claramente insuficiente. Lamentablemente, no existen otros resultados experimentales sobre el espectro de Stoner m&aacute;s recientes en el caso del Fe. Kirschner y colaboradores realizaron un trabajo m&aacute;s recientemente en el que utilizan una resoluci&oacute;n de 80 meV, pero s&oacute;lo se concentraron en el estudio de las ondas de spin a baja energ&iacute;a. [9] En el caso del Ni existen los resultados de Abraham y Hopster en los que utilizaron una alta resoluci&oacute;n de 25 meV, aunque la emplearon s&oacute;lo para estudiar una regi&oacute;n reducida del espectro. [8] Ser&iacute;a muy beneficioso si se pudiera emplear esta resoluci&oacute;n de manera sistem&aacute;tica en los experimentos SPEELS, tanto del Ni y el Fe, como del Co, que a&uacute;n no fue estudiado. Los mapas de transiciones de Stoner y la espectroscop&iacute;a SPEELS son instrumentos de investigaci&oacute;n de mucho potencial y que en el futuro podr&aacute;n contribuir a dar un paso m&aacute;s en la comprensi&oacute;n del magnetismo itinerante de los metales de transici&oacute;n. </P >     <P   align="justify" ><B>Agradecimientos</B></P >     <P   align="justify" >El autor desea agradecer al Dr. Suk Joo Youn por discusiones muy &uacute;tiles sobre el tema de este trabajo. De igual modo desea agradecer al Prof. A. Paxton por hacerle llegar literatura sobre las funciones de onda at&oacute;micas. </P >     <P   align="justify" ><B>5. Referencias</P >     <!-- ref --><P   align="justify" >[1] Saniz, R.; Apell, S. P. puesto a consideraci&oacute;n de Phys. Rev. B <B>2000</B>. </P >     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000331&pid=S1683-0789200100000000600001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[2] Griffith, J. S. <I>The Theory of Transition-Metal Ions,</I> Cambridge University Press: Cambridge, 1961. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000332&pid=S1683-0789200100000000600002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[3] Ashcroft, N. W.; Mermin, N. D. <I>Solid State Physics,</I> Saunders College: Philadelphia, 1976. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000333&pid=S1683-0789200100000000600003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[4] Vignale, G.; Singwi, K. S. Phys. Rev. B <B>1985 </B><I>32</I>, 2824. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000334&pid=S1683-0789200100000000600004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[5] Esta es una estimaci&oacute;n del ancho de la banda <I>d </I>de electrones mayoritarios del Fe en el punto <I>H</I> basada en el m&eacute;todo FPLMTO. R. Saniz (no publicado). </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000335&pid=S1683-0789200100000000600005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[6] D. Venus, D.; Kirschner, K. Phys. Rev. B <B>1988 </B><I>37,</I> 2199. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000336&pid=S1683-0789200100000000600006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[7] Saniz, R; Apell, S. P. Phys. Rev. B <B>1993 </B><I>48,</I> 3206. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000337&pid=S1683-0789200100000000600007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[8] Abraham, D. L.; Hopster, H. Phys. Rev. Lett. <B>1989 </B><I>62,</I> 1157. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000338&pid=S1683-0789200100000000600008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><P   align="justify" >[9] Plihal, M.; Mills, D. L.; Kirschner, J. Phys. Rev. Lett. <B>1999 </B><I>82,</I> 2579. </P >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000339&pid=S1683-0789200100000000600009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>[1]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Saniz]]></surname>
+</name>
+<name>
+<surname><![CDATA[Apell]]></surname>
+<given-names><![CDATA[S. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year>2000</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>[2]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Griffith]]></surname>
+<given-names><![CDATA[J. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[The Theory of Transition-Metal Ions]]></source>
+<year>1961</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>[3]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ashcroft]]></surname>
+<given-names><![CDATA[N. W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mermin]]></surname>
+<given-names><![CDATA[N. D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Solid State Physics]]></source>
+<year>1976</year>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>[4]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vignale]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Singwi]]></surname>
+<given-names><![CDATA[K. S.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>[5]</label><nlm-citation citation-type="">
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>[6]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Venus]]></surname>
+</name>
+<name>
+<surname><![CDATA[Kirschner]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>[7]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Saniz]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Apell]]></surname>
+<given-names><![CDATA[S. P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>[8]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Abraham]]></surname>
+<given-names><![CDATA[D. L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Hopster]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>[9]</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Plihal]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mills]]></surname>
+<given-names><![CDATA[D. L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kirschner]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

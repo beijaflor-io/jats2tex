@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1605-2528</journal-id>
+<journal-title><![CDATA[Ecología en Bolivia]]></journal-title>
+<abbrev-journal-title><![CDATA[Ecología en Bolivia]]></abbrev-journal-title>
+<issn>1605-2528</issn>
+<publisher>
+<publisher-name><![CDATA[Plural Editores ]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1605-25282014000300008</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[El uso del método de puntos de intercepción para cuantificar los tipos de vegetación y hábitats abióticos en los bofedales altoandinos]]></article-title>
+<article-title xml:lang="en"><![CDATA[Using line-intercept methods to quantify vegetation types and abiotic habitats in high Andean wetlands]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Naoki]]></surname>
+<given-names><![CDATA[Kazuya]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Meneses]]></surname>
+<given-names><![CDATA[Rosa Isela]]></given-names>
+</name>
+<xref ref-type="aff" rid="A02"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Gómez]]></surname>
+<given-names><![CDATA[M. Isabel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A03"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Landivar]]></surname>
+<given-names><![CDATA[Carlos Miguel]]></given-names>
+</name>
+<xref ref-type="aff" rid="A04"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Mayor de San Andrés Instituto de Ecología Centro de Análisis Espacial]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A02">
+<institution><![CDATA[,Museo Nacional de Historia Natural Herbario Nacional de Bolivia ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A03">
+<institution><![CDATA[,Museo Nacional de Historia Natural Colección Boliviana de Fauna ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<aff id="A04">
+<institution><![CDATA[,Universidad Mayor de San Andrés Carrera de Biología ]]></institution>
+<addr-line><![CDATA[La Paz ]]></addr-line>
+<country>Bolivia</country>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2014</year>
+</pub-date>
+<volume>49</volume>
+<numero>3</numero>
+<fpage>84</fpage>
+<lpage>90</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1605-25282014000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1605-25282014000300008&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1605-25282014000300008&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[Los bofedales son ecosistemas húmedos altoandinos de los Andes centrales con una importancia socioeconómica y ecológica crucial en la región. El objetivo de nuestro estudio es describir el método de puntos de intercepción para cuantificar la disponibilidad y la variabilidad de las asociaciones vegetales, así que la cobertura no vegetativa en los bofedales, datos útiles para categorizarlos. En el contexto de nuestro proyecto, tomado en cuenta como ejemplo, se aplicó el método en 40 bofedales ubicados en la Cordillera Real (Bolivia) donde se establecieron aleatoriamente 10-20 líneas de intercepción de 50 m en cada bofedal. En cada línea de intercepción se registró la cobertura a intervalos de 1 m y se registraron 22 categorías de coberturas reconocibles a simple vista. Discutimos la relevancia del método para realizar evaluaciones rápidas en diferentes estudios en bofedales. Al estar enfocado en tipos de vegetación en lugar de las especies vegetales, permite su aplicación por investigadores que no tienen un conocimiento taxonómico profundo de la flora local.]]></p></abstract>
+<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Bofedales are high Andean wetlands found in the central Andes, which provide crucial socio-economic and ecological resources in this region. The aim of our study is to describe the line-intercept methods to quantify the availability and variability of plant association and non-vegetative cover in high Andean bogs. Within the project BIOTHAW, taken as a methodological example, the method was applied in 40 bogs located in the Cordillera Real (Bolivia). In each bofedal, between 10 and 20 50-m intercept lines were randomly established. Along each intercept line, one of the 22 coverage types recognizable to the naked eye was recorded at 1-m interval. We discuss the relevance of this method for rapid assessments in different studies on highland bogs. Since the method focuses on simple vegetation types rather than on plant species, it can be used by researchers who do not have a deep taxonomic knowledge of the local flora.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[Bofedal altoandino]]></kwd>
+<kwd lng="es"><![CDATA[Cobertura de vegetación]]></kwd>
+<kwd lng="es"><![CDATA[Tipos de vegetación]]></kwd>
+<kwd lng="en"><![CDATA[High Andean wetland]]></kwd>
+<kwd lng="en"><![CDATA[Vegetation cover]]></kwd>
+<kwd lng="en"><![CDATA[Vegetation types]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[ <p align="right"><font size="2"><b><font face="Verdana, Arial, Helvetica, sans-serif">Art&iacute;culo</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="4"><b>El uso del método de puntos de intercepción para cuantificar los tipos de vegetación y hábitats abióticos en los bofedales</b></font> <font size="4"><b><font face="Verdana">altoandinos</font></b></font></p>     <p align="center">&nbsp;</p>     <p align="center"><b><font face="Verdana" size="3">Using line-intercept methods to quantify vegetation types and abiotic habitats</font> <font face="Verdana" size="3">in high Andean wetlands</font></b></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Kazuya Naoki<sup>1</sup>*, Rosa Isela Meneses<sup>2</sup>, M. Isabel Gómez<sup>3</sup> &amp; Carlos Miguel Landivar<sup>4</sup></b></font></p>     <p align="center"><font face="Verdana" size="2"><sup>1</sup>Centro de Análisis Espacial, Instituto de Ecología, Universidad Mayor de San Andrés, Casilla 10077,</font> <font face="Verdana" size="2">Correo Central, La Paz, Bolivia.     <br>     <b>* Autor para correspondencia: </b><a href="mailto:kazuya.naoki@gmail.com">kazuya.naoki@gmail.com</a></font>    ]]></body>
+<body><![CDATA[<br>     <font face="Verdana" size="2"><sup>2</sup>Herbario Nacional de Bolivia - Museo Nacional de Historia Natural, Calle 26 Cota Cota, La Paz, Bolivia</font>     <br>     <font face="Verdana" size="2"><sup>3</sup>Colección Boliviana de Fauna - Museo Nacional de Historia Natural, Calle 26 Cota Cota, La Paz, Bolivia</font>    <br> <font face="Verdana" size="2"><sup>4</sup>Carrera de Biología, Universidad Mayor de San Andrés, Calle 27 Cota Cota, La Paz, Bolivia.</font></p>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Resumen</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales son ecosistemas húmedos altoandinos de los Andes centrales con una importancia socioeconómica y ecológica crucial en la región. El objetivo de nuestro estudio es describir el método de puntos de intercepción para cuantificar la disponibilidad y la variabilidad de las asociaciones vegetales, así que la cobertura no vegetativa en los bofedales, datos útiles para categorizarlos. En el contexto de nuestro proyecto, tomado en cuenta como ejemplo, se aplicó el método en 40 bofedales ubicados en la Cordillera Real (Bolivia) donde se establecieron aleatoriamente 10-20 líneas de intercepción de 50 m en cada bofedal. En cada línea de intercepción se registró la cobertura a intervalos de 1 m y se registraron 22 categorías de coberturas reconocibles a simple vista. Discutimos la relevancia del método para realizar evaluaciones rápidas en diferentes estudios en bofedales. Al estar enfocado en tipos de vegetación en lugar de las especies vegetales, permite su aplicación por investigadores que no tienen un conocimiento taxonómico profundo de la flora local. </font></p>     <p align="justify"><font face="Verdana" size="2"><b>Palabras clave: </b>Bofedal altoandino, Cobertura de vegetación, Tipos de vegetación.</font></p> <hr noshade>     <p align="center"><font face="Verdana" size="2"><b>Abstract</b></font></p>     <p align="justify"><font face="Verdana" size="2">Bofedales are high Andean wetlands found in the central Andes, which provide crucial socio-economic and ecological resources in this region. The aim of our study is to describe the line-intercept methods to quantify the availability and variability of plant association and non-vegetative cover in high Andean bogs. Within the project BIOTHAW, taken as a methodological example, the method was applied in 40 bogs located in the Cordillera Real (Bolivia). In each bofedal, between 10 and 20 50-m intercept lines were randomly established. Along each intercept line, one of the 22 coverage types recognizable to the naked eye was recorded at 1-m interval. We discuss the relevance of this method for rapid assessments in different studies on highland bogs. Since the method focuses on simple vegetation types rather than on plant species, it can be used by researchers who do not have a deep taxonomic knowledge of the local flora. </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2"><b>Keywords:</b> High Andean wetland, Vegetation cover, Vegetation types.</font></p> <hr noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Introducción</b></font></p>     <p align="justify"><font face="Verdana" size="2">Los bofedales corresponden a ecosistemas semi-acuáticos de la zona altoandina de los Andes centrales, que particularmente se encuentran en la puna (Ibisch &amp; Mérida 2003, Squeo <i>et</i> <i>al. </i>2006). Son importantes socioeconómicamente como fuente de alimento para el ganado camélido de la zona y ecológicamente mantienen el microclima y albergan a diferentes especies de vertebrados e invertebrados característicos de la zona, los cuales dependen de los bofedales para alimentarse, reproducirse y como fuente de agua (Stotz <i>et al. </i>1996, Squeo <i>et al. </i>2006, Dangles <i>et al. </i>2014). El clasificarlos según su tipo de vegetación y los hábitats abióticos que albergan es un paso metodológico importante que permite de estimar fácilmente su diversidad, productividad y vulnerabilidad frente a los cambios ambientales.</font></p>     <p align="justify"><font face="Verdana" size="2">Existen diferentes métodos que se pueden utilizar para cuantificar la composición vegetal de los bofedales. Con un enfoque botánico, es relevante utilizar un protocolo con cuadrantes de 1m<sup>2</sup> y identificar todas la plantas presentes (Meneses <i>et al. </i>en este número especial). Para estudiar las relaciones entre la vegetación y el pastoreo se puede monitorear especies palatables vs. no palatables y/o utilizar cajas de exclusión de herbívoros (Garcia <i>et al. </i>en este número especial). Cuando el enfoque es sobre la productividad y capacidad de carga de animales, se puede sacar tepes de vegetación y medir después la materia seca en laboratorio (Cochi <i>et al. </i>en este número especial). Pero cuando se trata de identificar los principales hábitats -bióticos y abióticos- sin ser especialista de la vegetación local se requiere métodos sencillos, fácilmente aplicables. El método de puntos de intercepción es apto para muestrear la vegetación graminoide y arbustiva; y en muchos casos se utiliza para documentar la composición de la vegetación, determinando la cobertura de cada una de las formas de vida en los diferentes estratos (Bonham 1989, Mostacedo &amp; Fredericksen 2000). Otro método </font><font face="Verdana" size="2">es el relevamiento fitosociológico de Braun-Blanquet, lo cual se utiliza para la clasificación de comunidades de plantas, realizando la estimación de cobertura y abundancia agrupada en siete clases en un área mínima (Ellenberg &amp; Mueller-Dombois 1974), pero este método tiende a ser subjetivo y requiere experiencia y conocimiento de la vegetación del evaluador. </font></p>     <p align="justify"><font face="Verdana" size="2">El objetivo de nuestro estudio es describir el método de puntos de intercepción para cuantificar la disponibilidad y la variabilidad de los tipos de vegetación y de los hábitats abióticos en los bofedales altoandinos. El método está enfocado en tipos de vegetación, lo cual permite su aplicación por investigadores que no tienen un conocimiento taxonómico profundo de la flora local. Una aplicación de los datos obtenidos puede ser la cuantificación de la disponibilidad de microhábitats para la fauna, en la evaluación rápida del grado de degradación de bofedales por ganadería, el monitoreo de la salud de bofedales bajo escenarios de cambio climático y el cambio hidrológico entre otros estudios.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Puntos de intersección en los bofedales</b></font></p>     <p align="justify"><font face="Verdana" size="2">Inicialmente sugerimos estimar el tamaño muestral necesario para cuantificar la heterogeneidad de la cobertura (el número de líneas de intercepción en cada bofedal). En nuestro proyecto se escogieron cuatro bofedales de áreas variables (2.7-42.4 ha). En cada uno, se establecieron aleatoriamente entre 25 y 50 puntos de muestreo utilizando ArcGIS 9.3. En campo y desde cada punto, se trazó una línea de intercepción de 50 m con dirección al azar. A intervalos de 1 m y a lo largo de cada línea, se registró la cobertura de 22 categorías que parecían la más representativas de los bofedales de la Cordillera Real: a. cojín de <i>Distichia </i>spp., b. cojín de <i>Oxychloe andina, </i>c. cojín de <i>Phylloscirpus </i>spp., <i>Zameioscirpus </i>spp. y <i>Poa </i>spp., d. cojín de <i>Aciachne </i>sp., e. cojín de <i>Pycnophyllum </i>spp. y <i>Baccharis </i>spp., f. hierbas en roseta de <i>Plantago tubulosa </i>y otros, g. hierbas de <i>Lachemilla </i>spp., h. gramíneas menores a 20 cm de altura <i>(Deyeuxia </i></font><font face="Verdana" size="2">spp. y <i>Festuca </i>spp.), i. gramíneas entre 20-50 cm de altura <i>(Deyeuxia </i>spp. y <i>Festuca </i>spp.), j. gramíneas mayores a 50 cm de altura <i>(Festuca </i>spp.), k. turba (cojín muerto), l. musgo y otras briofitas, m. suelo desnudo, n. barro, o. arena, p. roca, q. pantano (cuerpo de agua con profundidad menor a 20 cm), r. pantano con plantas acuáticas en la superficie del agua, s. quebrada (corriente de agua con profundidad </font><font face="Verdana" size="2">menor a 20 cm o menor a 1 m de ancho), t. ojo de agua (cuerpo de agua con profundidad mayor a 20 cm), u. laguna (cuerpo de agua con profundidad mayor a 20 cm y con un área mayor a 10 m<sup>2</sup>) y v. río (corriente de agua con una profundidad mayor a 20 cm y mayor a 1 m de ancho) (<a href="#t1">Tabla 1</a>, <a href="#f1">Fig. 1</a>). Estas categorías fueron definidas en visitas preliminares con la especialista de vegetación de los bofedales</font> <font face="Verdana" size="2">altoandinos (RIM) y son categorías que se pueden reconocer fácilmente a simple vista.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="t1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a08_tabla_01.gif" width="741" height="752"></p>     <p align="center">&nbsp;</p>     <p align="center"><a name="f1"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a08_figura_01.jpg" width="650" height="964"></p>     <p align="justify"><font face="Verdana" size="2">Estos datos preliminares se utilizaron para elaborar las curvas de esfuerzo de muestreo. Se calculó el índice de heterogeneidad de Simpson inverso, utilizando la muestra parcial desde una hasta todas las muestras en cada bofedal por medio del método de Jackknife. Se aleatorizó el orden de muestreo 1.000 veces para estimar la media y la desviación estándar del índice de heterogeneidad para cada tamaño muestral, utilizando el paquete vegan del software <i>R </i>3.1.1 (script disponible por KN). Los índices de heterogeneidad alcanzaron el 95% del valor final cuando <i>N = </i>8 para el bofedal HP3 (2.7 ha), <i>N = </i>11 para los bofedales HP8 (5.1 ha) y HP2 (17.3 ha) y <i>N = </i>9 para el bofedal PA1 (42.4 ha). Los coeficientes de variación (la desviación</font> <font face="Verdana" size="2">estándar / la media * 100%) se redujeron al menos en un 10% cuando <i>N = 7 </i>para el bofedal HP3 y <i>N = </i>12 para los otros tres (<a href="#f2">Fig. 2</a>).</font></p>     <p align="justify"><a name="f2"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a08_figura_02.gif" width="731" height="553"></p>     <p align="justify"><font face="Verdana" size="2">Posteriormente y para determinar la variación de la heterogeneidad de las coberturas, se evaluaron los 22 tipos de hábitat en 40 bofedales ubicados entre 4.400-4.900 m en cinco valles en la Cordillera de La Paz del departamento de La Paz, Bolivia (ver detalles en Naoki <i>et al. </i>2014). Utilizando los resultados del tamaño muestral obtenidos anteriormente, se establecieron aleatoriamente 10 líneas de intercepción en los bofedales pequeños (menores a 5 ha) y 20 líneas de intercepción en los grandes (mayores a 5 ha). En los 40 bofedales se establecieron en total 540 líneas de intercepción y se evaluó la cobertura en 27.000 puntos de muestreo.</font></p>     <p align="justify"><font face="Verdana" size="2">Los cinco tipos de cojines ocuparon el 41% de la superficie de los bofedales, seguidos por las gramíneas <i>(Deyeuxia </i>spp. y <i>Festuca </i>spp.) con 20%, las hierbas en roseta <i>(Plantago </i>spp., <i>Lachemilla </i>spp. y otros) con 14% y seis tipos de cuerpos de agua con 12% (<a href="#t1">Tabla 1</a>). La heterogeneidad del hábitat de los bofedales no está relacionada con el área que ocupan (<a href="#f3">Fig. 3</a>; b1 = 0.0084 &plusmn; 0.0329, <i>R<sup>2</sup> = </i>0.0017, F<sub>1,38</sub> = 0.065, <i>P</i> = 0.801); el resultado contrario a lo planteado por Williams (1964), quien sugirió que un área extensa puede albergar mayor cantidad de especies porque alberga mayor cantidad de hábitats (heterogeneidad). Se observaron diferencias en las medias de heterogeneidad entre los cinco valles (F<sub>4,35</sub> = 3.39, <i>P</i> = 0.019), aunque la separación no fue evidente (<a href="#f3">Fig. 3</a>).</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><a name="f3"></a></p>     <p align="center"><img src="/img/revistas/reb/v49n3/a08_figura_03.gif" width="706" height="489"></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="3"><b>Validación del método y perspectivas</b></font></p>     <p align="justify"><font face="Verdana" size="2">Para realizar evaluaciones rápidas en áreas con vegetación herbácea y en áreas con </font><font face="Verdana" size="2">vegetación dispersa el método de líneas con puntos de intercepción resulta fácil de aplicar (Canfield 1941, Kent &amp; Coker 1992, Anderson <i>et al. </i>2011, Halloy <i>et al. </i>2011). Además, cada investigador puede realizar adaptaciones a la metodología de acuerdo al tipo de vegetación. Por ejemplo, Halloy <i>et al. </i>(2011) combinaron el muestreo clásico con áreas flexibles aplicable a pastizales, arbustales y humedales. En este caso, para cuantificar la cobertura en bofedales, se aplicaron categorías fisionómico estructurales, como formas de crecimiento (cojines, hierbas, gramíneas) y otras como cuerpos de agua, áreas abiertas y turba. En cada forma de crecimiento se seleccionó la especie dominante para denominar el punto de intercepción excepto en gramíneas donde se agruparon todas las especies tomando en cuenta solo el criterio de altura.</font></p>     <p align="justify"><font face="Verdana" size="2">El hecho de no tomar en cuenta categorías florísticas de manera estricta contribuye a que un investigador no especializado en botánica</font> <font face="Verdana" size="2">pueda cuantificar los microhábitats disponibles y aplicarlo en los estudios que esté realizando. Además, en el caso específico de los bofedales altoandinos se obtiene de manera global una idea del grado de intervención, de acuerdo a la dominancia de las formas de crecimiento y la disponibilidad de agua.</font></p>     <p align="justify">&nbsp;</p>     <p align="center"><font face="Verdana" size="2"><b>Agradecimientos</b></font></p>     <p align="justify"><font face="Verdana" size="2">Agradecemos a F. Anthelme y O. Dangles (IRD) por su apoyo constante durante el estudio y a M. Yapu y N.Ohara por su ayuda en la toma de datos en el campo. Agradecemos también a los revisores quienes nos ayudaron a mejorar el manuscrito. No habría sido posible realizar este estudio sin el apoyo de la gente de las comunidades de Palcoco, Tuni y Condoriri. Este estudio es parte del programa &quot;Modeling BIOdiversity and land use interactions under changing glacial water availability in Tropical High Andean Wetlands&quot; (BIOTHAW,AAP-SCEN-2011-II) financiado por el Fond Français pour l'Environnement Mondial (FFEM) y la Fondation pour la Recherche sur la Biodiversité (FRB).</font></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="center"><font face="Verdana" size="3"><b>Referencias</b></font></p>     <p align="justify"><font face="Verdana" size="2">Anderson, E. P., J. Marengo, R. Villalba, S. Halloy, B. Young, D. Cordero, F. Gast, E. Jaimes &amp;D. Ruiz. 2011. Consequences of climate change for ecosystems and ecosystem services in the tropical Andes. pp. 1-5. En: Herzog, S. K., R. Martinez, P. M. Jorgensen &amp; H. Tiessen (eds.) Climate change and biodiversity in the tropical Andes. Inter-American Institute for Global Change Research and Scientific Committee on Problems of the Environment (SCOPE), Sao José dos Campos. 348 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Bonham, C. D. 1989. Measurements for terrestrial vegetation. Wiley-Interscience, Nueva York. 352 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Canfield, R. 1941. Application of the line interception method in sampling range vegetation. Journal of Forestry 39: 388-394.</font></p>     <p align="justify"><font face="Verdana" size="2">Ellenberg, D. &amp; D. Mueller-Dombois. 1974. Aims and methods of vegetation ecology. John Wiley &amp; Sons, Inc., Nueva York. 547 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Halloy, S., M. Ibáñez &amp; K. Yager. 2011. Puntos y áreas flexibles (PAF) para inventarios rápidos del estado de biodiversidad. Ecología en Bolivia 46: 46-56.</font></p>     <p align="justify"><font face="Verdana" size="2">Ibisch, P. L. &amp; G. Mérida (eds.). 2003. Biodiversidad: la riqueza de Bolivia: estado de conocimiento y conservación. Editorial Fundación Amigos de la Naturaleza, Santa Cruz. 638 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Kent, M. &amp;P. Coker. 1992. Vegetation description and analysis: a practical approach. John Wiley &amp; Sons Ltd, Ontario. 363 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Mostacedo, B. &amp; T. Fredericksen. 2000. Manual de métodos básicos de muestreo y análisis en ecología vegetal. Proyecto de Manejo Forestal Sostenible (BOLFOR), Santa Cruz. 87 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Squeo, F. A., B. G. Warner, R. Aravena &amp; D. Espinoza. 2006. Bofedales: high altitude peatlands of the central Andes. Revista Chilena de Historia Natural 79:245-255.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font face="Verdana" size="2">Stotz, D. F., J. W. Fitzpatrick, T. A. Parker, III &amp; D. K. Moskovits. 1996. Neotropical birds: ecology and conservation. University of Chicago Press, Chicago, Illinois. 478 p.</font></p>     <p align="justify"><font face="Verdana" size="2">Williams, C. B. 1964. Patterns in the balance of nature and related problems of quantitative ecology. Academic Press, Londres. 324 p.</font></p>     <p align="justify">&nbsp;</p>      ]]></body><back>
+<ref-list>
+<ref id="B1">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[E.P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Marengo]]></surname>
+<given-names><![CDATA[J.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Villalba]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Young]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Cordero]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gast]]></surname>
+<given-names><![CDATA[F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jaimes]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ruiz]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Consequences of climate change for ecosystems and ecosystem services in the tropical Andes.]]></article-title>
+<person-group person-group-type="editor">
+<name>
+<surname><![CDATA[Herzog]]></surname>
+<given-names><![CDATA[S.K.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Martinez]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jorgensen]]></surname>
+<given-names><![CDATA[P.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tiessen]]></surname>
+<given-names><![CDATA[H.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Climate change and biodiversity in the tropical Andes]]></source>
+<year>2011</year>
+<month>x</month>
+<page-range>1-5</page-range><page-range>348</page-range><publisher-loc><![CDATA[Sao José dos Campos ]]></publisher-loc>
+<publisher-name><![CDATA[Inter-American Institute for Global Change Research and Scientific Committee on Problems of the Environment (SCOPE)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Bonham]]></surname>
+<given-names><![CDATA[C.D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Measurements for terrestrial vegetation]]></source>
+<year>1989</year>
+<page-range>352</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[Wiley-Interscience]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Canfield]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="en"><![CDATA[Application of the line interception method in sampling range vegetation]]></article-title>
+<source><![CDATA[Journal of Forestry]]></source>
+<year>1941</year>
+<numero>39</numero>
+<issue>39</issue>
+<page-range>388-394</page-range></nlm-citation>
+</ref>
+<ref id="B4">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ellenberg]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mueller-Dombois]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Aims and methods of vegetation ecology]]></source>
+<year>1974</year>
+<page-range>547</page-range><publisher-loc><![CDATA[Nueva York ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons Inc.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Halloy]]></surname>
+<given-names><![CDATA[S.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ibáñez]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Yager]]></surname>
+<given-names><![CDATA[K.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Puntos y áreas flexibles (PAF) para inventarios rápidos del estado de biodiversidad]]></article-title>
+<source><![CDATA[Ecología en Bolivia]]></source>
+<year>2011</year>
+<numero>46</numero>
+<issue>46</issue>
+<page-range>46-56</page-range></nlm-citation>
+</ref>
+<ref id="B6">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Ibisch]]></surname>
+<given-names><![CDATA[P.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mérida]]></surname>
+<given-names><![CDATA[G.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Biodiversidad: la riqueza de Bolivia, estado de conocimiento y conservación]]></source>
+<year>2003</year>
+<page-range>638</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Editorial Fundación Amigos de la Naturaleza]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Kent]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Coker]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Vegetation description and analysis: a practical approach]]></source>
+<year>1992</year>
+<page-range>363</page-range><publisher-loc><![CDATA[Ontario ]]></publisher-loc>
+<publisher-name><![CDATA[John Wiley & Sons Ltd.]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mostacedo]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fredericksen]]></surname>
+<given-names><![CDATA[T.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Manual de métodos básicos de muestreo y análisis en ecología vegetal]]></source>
+<year>2000</year>
+<page-range>87</page-range><publisher-loc><![CDATA[Santa Cruz ]]></publisher-loc>
+<publisher-name><![CDATA[Proyecto de Manejo Forestal Sostenible (BOLFOR)]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Squeo]]></surname>
+<given-names><![CDATA[F.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Warner]]></surname>
+<given-names><![CDATA[B.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Aravena]]></surname>
+<given-names><![CDATA[R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Espinoza]]></surname>
+<given-names><![CDATA[D.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Bofedales: high altitude peatlands of the central Andes]]></article-title>
+<source><![CDATA[Revista Chilena de Historia Natural]]></source>
+<year>2006</year>
+<numero>79</numero>
+<issue>79</issue>
+<page-range>245-255</page-range></nlm-citation>
+</ref>
+<ref id="B10">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Stotz]]></surname>
+<given-names><![CDATA[D.F.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Fitzpatrick]]></surname>
+<given-names><![CDATA[J.W.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Parker III]]></surname>
+<given-names><![CDATA[T.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Moskovits]]></surname>
+<given-names><![CDATA[D.K.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Neotropical birds: ecology and conservation]]></source>
+<year>1996</year>
+<page-range>478</page-range><publisher-loc><![CDATA[Chicago^eIllinois Illinois]]></publisher-loc>
+<publisher-name><![CDATA[University of Chicago Press]]></publisher-name>
+</nlm-citation>
+</ref>
+<ref id="B11">
+<nlm-citation citation-type="book">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Williams]]></surname>
+<given-names><![CDATA[C.B.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[Patterns in the balance of nature and related problems of quantitative ecology]]></source>
+<year>1964</year>
+<page-range>324</page-range><publisher-loc><![CDATA[Londres ]]></publisher-loc>
+<publisher-name><![CDATA[Academic Press]]></publisher-name>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>

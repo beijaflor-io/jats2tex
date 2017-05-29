@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+<journal-meta>
+<journal-id>1683-0789</journal-id>
+<journal-title><![CDATA[Acta Nova]]></journal-title>
+<abbrev-journal-title><![CDATA[RevActaNova.]]></abbrev-journal-title>
+<issn>1683-0789</issn>
+<publisher>
+<publisher-name><![CDATA[Universidad Católica Boliviana]]></publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id>S1683-07892010000200007</article-id>
+<title-group>
+<article-title xml:lang="es"><![CDATA[Aplicabilidad del modelo hidrológico SWAT en cuencas con características extremas - Cuencas de los ríos Taquiña y Tolomosa]]></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname><![CDATA[Zárate Bermúdez]]></surname>
+<given-names><![CDATA[Oscar]]></given-names>
+</name>
+<xref ref-type="aff" rid="A01"/>
+</contrib>
+</contrib-group>
+<aff id="A01">
+<institution><![CDATA[,Universidad Católica Boliviana San Pablo Departamento de Ciencias Exactas e Ingeniería ]]></institution>
+<addr-line><![CDATA[Cochabamba ]]></addr-line>
+</aff>
+<pub-date pub-type="pub">
+<day>00</day>
+<month>12</month>
+<year>2010</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>00</day>
+<month>12</month>
+<year>2010</year>
+</pub-date>
+<volume>4</volume>
+<numero>4</numero>
+<fpage>568</fpage>
+<lpage>577</lpage>
+<copyright-statement/>
+<copyright-year/>
+<self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1683-07892010000200007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_abstract&amp;pid=S1683-07892010000200007&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_pdf&amp;pid=S1683-07892010000200007&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="es"><p><![CDATA[El modelo SWAT predice, a lo largo del tiempo, el impacto de las prácticas de manejo de cultivos en la disponibilidad de agua, generación de sedimentos y químicos agrícolas en cuencas de gran extensión, con distintos tipos de suelo, uso y prácticas de cultivo. El modelo SWAT fue desarrollado por la ARS (USDA) para cuencas agrícolas de Texas, EEUU, y desde su creación ha existido gran interés por evaluar su desempeño en cuencas con características diferentes a las de su diseño. El presente estudio examina la aplicabilidad del modelo en dos cuencas de montaña de Bolivia, la cuenca Taquiña (área de modelación de 11 km², pendiente promedio de 200 m/km) y la cuenca Tolomosa (área de modelación 420 km², pendiente promedio de 77 m/km). Utilizando series históricas de datos hidrometeorológicos, se ha verificado que el modelo es capaz de simular con precisión los diferentes componentes de la generación de flujo, dada la estacionalidad en la distribución de las precipitaciones, consistiendo en un periodo seco de seis meses, un periodo de transición y un periodo lluvioso de 4 meses. Los resultados de la investigación indican que con una adecuada aplicación y procesamiento de datos de entrada, el modelo SWAT es capaz de simular el comportamiento del flujo superficial en ambas cuencas.]]></p></abstract>
+<kwd-group>
+<kwd lng="es"><![CDATA[hidrología]]></kwd>
+<kwd lng="es"><![CDATA[modelación hidrológica]]></kwd>
+<kwd lng="es"><![CDATA[cuencas de montaña]]></kwd>
+<kwd lng="es"><![CDATA[análisis de escenarios]]></kwd>
+<kwd lng="es"><![CDATA[modelo SWAT]]></kwd>
+</kwd-group>
+</article-meta>
+</front><body><![CDATA[  <h1 align="center"><font size="4" face="Verdana"><b>Aplicabilidad del modelo hidrológico    SWAT en cuencas con características extremas &#8211; Cuencas de los ríos Taquiña y    Tolomosa </b></font></h1>     <p align="center">&nbsp;</p>     <p align="center">&nbsp;</p>     <p align="center"><font size="2" face="Verdana"><b>Oscar Zárate Bermúdez </b></font></p>     <p align="center"><font size="2" face="Verdana">Departamento de Ciencias Exactas    e Ingeniería, Universidad Católica Boliviana San Pablo, calle M. Marquez s/n    esq. Parque J. Trigo, Tupuraya, Cochabamba</font></p>     <p align="center"><font size="2" face="Verdana">e-mail:  <a href="mailto:zaros90b@gmail.com">zaros90b@gmail.com</a></font></p>     <p align="left">&nbsp;</p>     <p align="left">&nbsp;</p> <hr align="center" noshade>     <p align="justify"><font size="2" face="Verdana"><b>Resumen</b></font></p>     <p align="justify"><font size="2" face="Verdana">El modelo SWAT predice, a lo    largo del tiempo, el impacto de las prácticas de manejo de cultivos en la disponibilidad    de agua, generación de sedimentos y químicos agrícolas en cuencas de gran extensión,    con distintos tipos de suelo, uso y prácticas de cultivo. El modelo SWAT fue    desarrollado por la ARS (USDA) para cuencas agrícolas de Texas, EEUU, y desde    su creación ha existido gran interés por evaluar su desempeño en cuencas con    características diferentes a las de su diseño. El presente estudio examina la    aplicabilidad del modelo en dos cuencas de montaña de Bolivia, la cuenca Taquiña    (área de modelación de 11 km<sup>2</sup>, pendiente promedio de 200 m/km) y    la cuenca Tolomosa (área de modelación 420 km<sup>2</sup>, pendiente promedio    de 77 m/km). Utilizando series históricas de datos hidrometeorológicos, se ha    verificado que el modelo es capaz de simular con precisión los diferentes componentes    de la generación de flujo, dada la estacionalidad en la distribución de las    precipitaciones, consistiendo en un periodo seco de seis meses, un periodo de    transición y un periodo lluvioso de 4 meses. Los resultados de la investigación    indican que con una adecuada aplicación y procesamiento de datos de entrada,    el modelo SWAT es capaz de simular el comportamiento del flujo superficial en    ambas cuencas.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana"><b>Palabras clave:</b> hidrología,    modelación hidrológica, cuencas de montaña, análisis de escenarios, modelo SWAT    </font></p> <hr align="center" noshade>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>1.&nbsp;&nbsp;Introducción</b></font></h2>     <p align="justify"><font size="2" face="Verdana">El propósito del estudio fue    evaluar el desempeño del modelo AVSWAT 2000 <a href="#ref1">[1]</a> en dos cuencas    de montaña de Bolivia, pertenecientes a distintas zonas climáticas y de comportamiento    hidrológico diferente. </font></p>     <p align="justify"><font size="2" face="Verdana">La importancia de calibrar y    validar un modelo hidrológico se refleja en su aplicabilidad de extrapolar su    desempeño a cuencas con similares características hidrológicas y fisiográficas,    debido principalmente a la escasa información fluviométrica que se tiene en    nuestro medio, referida a datos diarios y series históricas relativamente largas.    </font></p>     <p align="justify"><font size="2" face="Verdana">La primera cuenca seleccionada    es la cuenca Taquiña (11 km<sup>2</sup>; pendiente promedio 200 m/km), localizada    en el valle central Cochabamba, sobre la cordillera Tunari. En el año 1991,    la cuenca fue instrumentada para recolectar datos climáticos y de caudal para    desarrollar distintos estudios y trabajos de investigación como parte del Programa    Manejo Integral de Cuencas, PROMIC <a href="#ref2">[2]</a>, proyecto encargado    de controlar los procesos de erosión en las cuencas de la cordillera y atenuar    los efectos de las crecidas que se originan en ellas y desembocan en el valle    central de Cochabamba, donde existen varios centros poblados y áreas agrícolas,    ocasionando serios problemas de inundación y pérdidas de cultivo.</font></p>     <p align="justify"><font size="2" face="Verdana">La segunda cuenca es la cuenca    de Tolomosa (420 km<sup>2</sup>; pendiente promedio 77 m/km), ubicada al sudeste    de la ciudad de Tarija, perteneciente a las serranías de Sama. Es una cuenca    estratégica para la ciudad de Tarija porque el escurrimiento de la cuenca es    utilizada para riego, agua potable y generación de energía eléctrica a través    del Proyecto Múltiple San Jacinto <a href="#ref3">[3]</a>. En el año 1989 fue    acabada la construcción de la presa de San Jacinto, proyecto que demandó el    levantamiento de datos de precipitación y caudal a la salida de la cuenca Tolomosa    en los años 1976 a 1984, datos que son utilizados para calibrar el modelo AVSWAT    en este periodo.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>2.&nbsp;&nbsp;Metodología</b></font></h2>     <p align="justify"><font size="2" face="Verdana">Para ambas cuencas la metodología    fue la misma y consistió en los siguientes pasos: </font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana">·&nbsp;&nbsp;Localización espacial de las estaciones climatológicas y limnigráficas utilizadas    en cada una de las cuencas. </font></p>     <p align="justify"><font size="2" face="Verdana">·&nbsp;&nbsp;Control de calidad de datos climatológicos (precipitación, temperatura, humedad    relativa, viento, radiación solar) y de datos de caudal a nivel diario, utilizando    métodos simples de correlación entre estaciones, curvas Doble Masa y Curvas    Acumuladas, determinando el periodo de modelación (etapas de calibración y validación).</font></p>     <p align="justify"><font size="2" face="Verdana">·&nbsp;&nbsp;Georeferenciación y procesamiento de los mapas digitales de elevación (DEM),    para definir la red de drenaje de las cuencas (ríos) y en base a ella determinar    el número de subcuencas que serán introducidas en el modelo.</font></p>     <p align="justify"><font size="2" face="Verdana">·&nbsp;&nbsp;Procesamiento de    los mapas de cobertura vegetal, identificando unidades de uso de suelo compatibles    con las unidades que maneja el modelo AVSWAT <a href="#ref4">[4]</a>. </font></p>     <p align="justify"><font size="2" face="Verdana">·&nbsp;&nbsp;Procesamiento de    los mapas de suelos, levantando la información que requiere el modelo en base    a campañas de campo y estudios de suelos disponibles para las cuencas.</font></p>     <p align="justify">&nbsp;</p> <h3 align="justify"><font size="2" face="Verdana">2.1&nbsp;&nbsp;Cuenca Taquiña</font></h3>     <p align="justify"><font size="2" face="Verdana">La información climática proviene    de tres estaciones ubicadas dentro la cuenca y distribuidas estratégicamente    cubriendo la variación altitudinal de la cuenca; las estaciones son Laguna Taquiña,    Jana Mayu y Linkupata.</font></p>     <p align="justify"><font size="2" face="Verdana">El rango de variación altitudinal    de la cuenca va de 3200 m.s.n.m hasta 4300 m.s.n.m. con una altura media de    3960 m.s.n.m., y una pendiente promedio de 30%. El régimen pluviométrico indica    que la época lluviosa es de octubre a marzo, con el mes más lluvioso enero (180    mm) y teniendo entre los meses de junio y julio, la época seca del año. La precipitación    promedio de la cuenca es de 745 mm.</font></p>     <p align="justify"><font size="2" face="Verdana">La información de caudal proviene    de la estación limnigráfica TQA-2 ubicada en la intersección del río Taquiña    con la cota 3200 m.s.n.m. Para la determinación del escurrimiento en el área    de aporte de TQA-2, se requiere los datos de la estación limnigráfica TP-1 que    mide el caudal que sale del embalse Taquiña, ubicado aguas arriba de la cuenca    de estudio.</font></p>     <p align="justify"><font size="2" face="Verdana">La disponibilidad simultánea    de datos en ambas estaciones limitó la serie histórica de datos de caudal en    la cuenca de aporte a TQA-2, especialmente en época de crecidas, donde se presentaron    muchas inconsistencias, reduciéndose a un 60% la disponibilidad de datos a nivel    anual [4]. El procesamiento de la información confiable da un escurrimiento    promedio anual de 110 L/s en la cuenca.</font></p>     ]]></body>
+<body><![CDATA[<p align="justify"><font size="2" face="Verdana">Debido al tamaño de la cuenca    y la uniformidad en cuanto a las características hidromorfológicas, se decidió    modelar la cuenca como un solo elemento con una unidad de respuesta hidrológica    (HRU) dominante, que combina la unidad de uso de suelo; pastizal (<i>pasture</i>),    con tipo de suelo; franco arenoso (<i>sandy loam</i>) y el número de curva CN    en condición normal de 66.</font></p>     <p align="justify"><font size="2" face="Verdana">En la <a href="#figura1">Figura    1</a> se puede observar la localización de la cuenca Taquiña respecto a la ciudad    de Cochabamba y la distribución de las estaciones climatológicas y limnigráficas    en la cuenca.</font></p>     <p align="justify">&nbsp;</p> <h3 align="justify"><font size="2" face="Verdana">2.2&nbsp;&nbsp;Cuenca Tolomosa</font></h3>     <p align="justify"><font size="2" face="Verdana">La información climatológica    proviene de tres estaciones ubicadas dentro de la cuenca (San Andrés, Pino y    Calderillas) y una estación próxima a ella (AASANA Tarija) que cubren la variación    altitudinal de la cuenca. En la <a href="#figura1">Figura 1</a> se presenta    la ubicación de Tolomosa respecto a la ciudad de Tarija y la distribución de    las estaciones climatológicas y limnigráfica, además de las subcuencas que componen    la cuenca.</font></p>     <p align="justify"><font size="2" face="Verdana">La información de caudal proviene    de la estación limnigráfica Tolomosa, ubicada en la intersección del río Tolomosa    con la cota 1860 m.s.n.m. lugar donde actualmente está construida la presa San    Jacinto. El procesamiento de esta información, da un escurrimiento promedio    anual de 600 L/s en la cuenca <a href="#ref5">[5]</a>.</font></p>     <p align="justify"><font size="2" face="Verdana">El rango de variación altitudinal    de la cuenca va de 1860 m.s.n.m hasta 4500 m.s.n.m., con una altura media de    2200 m.s.n.m y una pendiente promedio de 12%. La precipitación promedio de la    cuenca es de 1016 mm, el régimen pluviométrico indica que la época lluviosa    va de octubre a marzo, reportando al mes de enero como el de mayor precipitación    (220 mm) y los meses de junio, julio y agosto como meses de estiaje <a href="#ref6">[6]</a>.    </font></p>     <p align="center"><font size="2" face="Verdana"><a name="figura1"></a><b><img width=504 height=338 src="/img/revistas/ran/v4n4/v4n4a07_01.jpg"></b></font></p>     <p align=center><b><font size="2" face="Verdana">Figura 1: Ubicación de las estaciones    climatológicas y limnigráficas en las cuencas Taquiña y Tolomosa</font></b></p>     <p align="justify"><font size="2" face="Verdana">Debido al tamaño y red de drenaje    de la cuenca, se decidió modelar la misma subdividiéndola en cuatro subcuencas;    Pino, Sola, Mena y Tolomosa A. Cada subcuenca presenta similitud en cuanto a    las características de cobertura vegetal y suelo, razón por la cual se empleó    un HRU dominante para cada una de ellas. En la <a href="#tabla1">Tabla 1</a>    se presenta la cobertura vegetal y el tipo hidrológico de suelo dominante en    las subcuencas, además del porcentaje de área que representa cada una y el número    de curva CN en condición normal.</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="tabla1"></a><img width=469 height=122 src="/img/revistas/ran/v4n4/v4n4a07_t01.gif"></b></font></p>     ]]></body>
+<body><![CDATA[<p align="center"><b><font size="2" face="Verdana">Tabla 1.&nbsp; Cuenca Tolomosa,    uso de suelo y suelo dominante por subcuencas (HRU)</font></b></p> <h3 align="justify">&nbsp;</h3> <h3 align="justify"><font size="2" face="Verdana">2.3&nbsp;&nbsp;Periodos    de modelación, calibración y validación</font></h3>     <p align="justify"><font size="2" face="Verdana">En la cuenca Taquiña, las especificaciones    de control para la simulación continua del proceso precipitación-escurrimiento,    ha tomado el periodo 1 de agosto de 1994 a 31 de julio de 1977 para la calibración,    y los periodos 1º de agosto de 1998 al 31 julio de 1999 y 1º de agosto de 2000    a 31 julio de 2001, para la validación. En la cuenca Tolomosa, el periodo 1º    de agosto de 1977 a 31 de julio de 1981, fue tomado para la calibración y el    periodo 1º de agosto de 1981 al 31 julio de 1984, para la validación.</font></p>     <p align="justify">&nbsp;</p> <h3 align="justify"><font size="2" face="Verdana">2.4&nbsp;&nbsp;Ajuste    y calibración</font></h3>     <p align="justify"><font size="2" face="Verdana">El ajuste y calibración fue realizado    utilizando el método de optimización sucesiva, es decir los valores de los parámetros    del modelo AVSWAT2000 fueron cambiados siguiendo un análisis de prueba y error,    hasta que se alcanzaron buenas respuestas del modelo (comparaciones de caudal    modelado con caudal medido). En la <a href="#tabla2">Tabla 2</a>, se presentan    los parámetros finales del modelo, ajustados como resultado del proceso de calibración,    tanto en la cuenca Taquiña como en las subcuencas de la cuenca Tolomosa. </font></p>     <p align="justify"><font size="2" face="Verdana">También en este proceso se estableció    la sensibilidad del modelo a la variación de los parámetros, así como se identificaron    los parámetros que tienen mayor influencia en los diferentes componentes del    escurrimiento. Por otro lado, los términos estadísticos utilizados para la comparación    de hidrogramas medidos y modelados son: <i>Mean Absolute Error</i> (MAE o Error    Medio Absoluto), Desviación Estándar (STD), <i>Root Mean Squared Error</i> (RMSE    o Raíz Cuadrada del Cuadrado de las Diferencias), <i>Efficiency</i> (EF o Eficiencia    &#8211; Nash &amp; Suitcliffe), Coeficiente de Determinación (CD) y Coeficiente    de Correlación (R<sup>2 </sup>o CC<sup>2</sup>), <a href="#ref7">[7]</a>.</font></p>     <p align=center><font size="2" face="Verdana"><b><a name="tabla2"></a><img width=517 height=528 src="/img/revistas/ran/v4n4/v4n4a07_t02.gif"></b></font></p>     <p align="center"><b><font size="2" face="Verdana">Tabla 2.&nbsp; Valores calibrados    de los parámetros de AVSWAT en a modelación de las cuencas Taquiña y Tolomosa</font></b></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>3.&nbsp;&nbsp;Resultados    y discusión</b></font></h2>     <p align="justify"><font size="2" face="Verdana">Los parámetros finales ajustados    presentados anteriormente, permitieron establecer los parámetros de control    de ajuste en la calibración y validación del modelo que se presentan en la <a href="#tabla3">Tabla    3</a>, donde se puede apreciar que para la cuenca Taquiña, la EF es de 0,67    para la calibración y 0,54 para la validación, valores considerados como aceptables    tomando en cuenta la limitación en la calidad de datos de caudal medidos. En    la cuenca Tolomosa, el coeficiente EF presenta un valor de 0,71 para la calibración    y 0,63 para la validación, valores considerados como de buen desempeño tomando    en cuenta resultados obtenidos en diferentes estudios de modelación con SWAT    [<a href="#ref8">8</a>, <a href="#ref9">9</a>]. Para otros parámetros relevantes    como R<sup>2</sup>, se alcanzaron valores de 0,84 y 0,85, considerados como    muy buenos.</font></p>        ]]></body>
+<body><![CDATA[<p align=center><font size="2" face="Verdana"><b><a name="tabla3"></a><img width=520 height=162 src="/img/revistas/ran/v4n4/v4n4a07_t03.gif"></b></font></p>     <p align="center"><b><font size="2" face="Verdana">Tabla 3.&nbsp; Resultados del    análisis de comparación de hidrogramas medidos y modelados, en las etapas de    calibración y validación del modelo AVSWAT </font></b></p>     <p align="justify"><font size="2" face="Verdana">La sensibilidad de los parámetros    del modelo fue examinado con detalle a través del análisis estadístico realizado    con la planilla electrónica de control de ajuste <a href="#ref10">[10]</a> comparando    los hidrogramas de caudal medido y simulado. Los resultados de este análisis    indican que en las cuatros subcuencas de Tolomosa, los parámetros de mayor incidencia    en la escorrentía son: Conductividad hidráulica saturada (Sol_K), Contenido    disponible de agua en el suelo (Sol_AWC), Retardo del flujo subterráneo (GW_Delay),    Exponente de recesión del flujo base (ALPHA_BF).</font></p>     <p align="justify"><font size="2" face="Verdana">En la cuenca Taquiña, los parámetros    de mayor incidencia son los mismos que se determinaron para Tolomosa, incluyendo    el número de curva CN y el tiempo de viaje lateral del flujo subsuperficial    (LAT_TIME).</font></p>     <p align="justify"><font size="2" face="Verdana">En la cuenca Taquiña, los resultados    del modelo subestiman los caudales picos en época de crecidas y en época de    estiaje existe una buena correspondencia entre la magnitud de los caudales medidos    y modelados. En general, el caudal promedio diario medido es de 110 L/s versus    un caudal modelado de 86 L/s. En la <a href="#figura2">Figura 2</a> se presentan    dos gráficas, la primera muestra el volumen acumulado de caudal medido versus    el volumen acumulado de caudal modelado y la segunda presenta el rango de valores    de caudal medido y modelado.</font></p>     <p align="justify"><font size="2" face="Verdana">En la cuenca Tolomosa, el caudal    diario medido (600 L/s) es muy similar al caudal diario modelado (586 L/s),    existiendo una diferencia de 3% entre los resultados medidos y modelados. En    la <a href="#figura3">Figura 3</a> se presentan las gráficas que muestran el    volumen acumulado de caudal medido versus el volumen acumulado de caudal modelado    y el rango de valores de caudal medido y modelado.</font> </p> <a name="figura2"></a> <table border=0 cellspacing=0 cellpadding=0 width=638 align="center">     <tr>        <td width=319 valign=top>     <p align=right><b><font size="2" face="Verdana"><img width=245 height=230   src="/img/revistas/ran/v4n4/v4n4a07_02.gif"></font></b></p></td>       <td width=319 valign=top>     <p align=left><b><font size="2" face="Verdana"><img width=235 height=231   src="/img/revistas/ran/v4n4/v4n4a07_03.gif"></font></b></p></td>     </tr>   </table>     <p align=center><b><font size="2" face="Verdana">Figura 2: Cuenca Taquiña, volumen    total acumulado de escurrimiento medido y modelado; y clasificación de caudales    medidos y modelados de acuerdo a su magnitud</font></b></p>     <p align="justify"><font size="2" face="Verdana">En las <a href="#figura4">Figuras    4</a> y <a href="#figura5">5</a> se presentan las relaciones de caudal medido    y modelado para las etapas de calibración y validación de la cuenca Taquiña    y Tolomosa respectivamente. En general existe una buena correlación entre estas    variables, con excepción de la estimación de caudales de crecida en la cuenca    Taquiña que presenta una tendencia a subestimar los valores.</font></p> <a name="figura3"></a> <table border=0 cellspacing=0 cellpadding=0 width=639 align="center">     <tr>        <td width=319 valign=top>     ]]></body>
+<body><![CDATA[<p align=right><b><font size="2" face="Verdana"><img width=245 height=225   src="/img/revistas/ran/v4n4/v4n4a07_04.gif"></font></b></p></td>       <td width=320 valign=top>     <p align=left><b><font size="2" face="Verdana"><img width=234 height=223   src="/img/revistas/ran/v4n4/v4n4a07_05.gif"></font></b></p></td>     </tr>   </table>     <p align=center><b><font size="2" face="Verdana">Figura 3: Cuenca Tolomosa, volumen    total acumulado de escurrimiento medido y modelado; y clasificación de caudales    medidos y modelados de acuerdo a su magnitud</font></b></p> <a name="figura4"></a> <table border=0 cellspacing=0 cellpadding=0 width=566 align="center">     <tr>        <td width=293 valign=top>     <p align=center><b><font size="2" face="Verdana"><img width=210 height=207   src="/img/revistas/ran/v4n4/v4n4a07_06.gif"></font></b></p></td>       <td width=273 valign=top>     <p align=center><b><font size="2" face="Verdana"><img width=210 height=207   src="/img/revistas/ran/v4n4/v4n4a07_07.gif"></font></b></p></td>     </tr>   </table>     <p align=center><b><font size="2" face="Verdana">Figura 4:Cuenca Taquiña, relación    de caudales medidos (Q<sub>observado</sub>) y modelados (Q<sub>simulado</sub>)    en la etapa de calibración y validación</font></b></p> <a name="figura5"></a> <table border=0 cellspacing=0 cellpadding=0 align="center">     <tr>        <td width=260 valign=top>     <p><b><font size="2" face="Verdana"><img   width=213 height=203 src="/img/revistas/ran/v4n4/v4n4a07_08.gif"></font></b></p></td>       <td width=257 valign=top>     <p><b><font size="2" face="Verdana"><img   width=210 height=200 src="/img/revistas/ran/v4n4/v4n4a07_09.gif"></font></b></p></td>     </tr>   </table>     <p align=center><b><font size="2" face="Verdana">Figura 5: Cuenca Tolomosa, relación    de caudales medidos (Q<sub>observado</sub>) y modelados (Q<sub>simulado</sub>)    en la etapa de calibración y validación</font></b></p>     <p align="justify">&nbsp;</p>     ]]></body>
+<body><![CDATA[<p align="justify">&nbsp;</p> <h2 align="justify"><font size="3" face="Verdana"><b>4.&nbsp;&nbsp;Conclusiones</b></font></h2>     <p align="justify"><font size="2" face="Verdana">El modelo SWAT tuvo resultados    aceptables en la modelación de la cuenca Taquiña y resultados buenos en la modelación    de la cuenca Tolomosa (Valores de EF mayores 0,60 se consideran buenos), esta    diferencia se debe a la calidad de datos medidos de caudal que se tienen para    ambas cuencas, en la cuenca Taquiña se tuvo muchos problemas en obtener caudales    medidos en época de lluvias.</font></p>     <p align="justify"><font size="2" face="Verdana">El buen desempeño de un modelo    hidrológico está condicionado a la calidad de los datos requeridos como datos    de entrada, éste es el principal problema en los modelos semiditribuidos y distribuidos.    Sin embargo, un buen conocimiento de los procesos de modelación y control de    calidad de los datos disponibles puede ayudar a resolver esta limitación.</font></p>     <p align="justify"><font size="2" face="Verdana">Para finalizar y como se mencionó    anteriormente, la limitación que todavía existe en nuestro medio para disponer    de información fluviométrica medida a nivel diario y con un registro histórico    mínimo de más de cinco años, hace que el calibrar y validar adecuadamente un    modelo hidrológico permita su aplicación en cuencas vecinas o de regiones similares    que guarden características hidrológicas y fisiográficas similares a la de la    cuenca en la que fue calibrada.</font></p>     <p align="justify">&nbsp;</p>     <p align="justify">&nbsp;</p> <hr align="center" noshade> <h2 align="justify"><font size="3"><b><font face="Verdana">Referencias</font></b></font></h2>     <!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref1"></a>[1]&nbsp;&nbsp;S.L.    Neitsch, J.G. Arnold, J.R. Kiniry, J.R.. Williams. Modelo AV-SWAT 2000, USDA,    <i>Servicio de investigación Agrícola, Temple, TX 76502</i>, 2001.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004636&pid=S1683-0789201000020000700001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref2"></a>[2]&nbsp;&nbsp;P.    López, E. Montenegro. Caracterización y uso de variables hidrometeorológicas    medidas en la cuenca Taquiña. <i>LHUMSS-PROMIC, Serie Estudios Hidrológicos,    3</i>, 1994.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004637&pid=S1683-0789201000020000700002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref3"></a>[3]&nbsp;&nbsp;Prefectura    del Departamento de Tarija. Proyecto Múltiple San Jacinto - Objetivos y Alcance.    <i>SIBTA-ARPMSJ-Tarija</i>, 1988.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004638&pid=S1683-0789201000020000700003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref4"></a>[4]&nbsp;&nbsp;O.    Zarate. Análisis de la hidrología de una cuenca de montaña con datos hidrológicos    limitados y de baja calidad. <i>Programa IUPWARE, Universidades K.U. Leuven    y V.U. Bruselas, Bélgica,</i> 2004.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004639&pid=S1683-0789201000020000700004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref5"></a>[5]&nbsp;&nbsp;O.    Zarate. Procesamiento de datos hidrometeorológicos: Cuenca Tolomosa. <i>Programa    INIBREH, Tarija, Bolivia</i>, 2005.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004640&pid=S1683-0789201000020000700005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref6"></a>[6]&nbsp;&nbsp;O.    Zarate. Modelación Hidrológica - Cuenca Tolomosa, AVSWAT 2000. <i>Programa INIBREH,    Tarija, Bolivia</i>, 2005.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004641&pid=S1683-0789201000020000700006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref7"></a>[7]&nbsp;&nbsp;R.F.    Vázquez. Evaluación del desempeño de modelos conceptuales y distribuidos para    sistemas hidrológicos medianos. <i>Tesis de Doctorado No. 556, Facultad de Ingeniaría,    Departamento de Ingeniería Civil, K.U. Leuven</i>, Bélgica., 38-62 pp, 2003.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004642&pid=S1683-0789201000020000700007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref8"></a>[8]&nbsp;&nbsp;B.M.    Watson, M. Ghafouri, S. Selvalingam. Aplicación del modelo SWAT en el balance    hídrico de la cuenca Woady Yaloak, Australia. <i>TWRI Reporte Técnico, 2da Conferencia    Internacional del Modelo SWAT</i>, 103 pp, 2003. </font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004643&pid=S1683-0789201000020000700008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref9"></a>[9]&nbsp;&nbsp;C.A.    Spruill, S.R. Workman, J.L. Taraba. Simulación a nivel diario y mensual de caudales    para una cuenca pequeña usando el modelo SWAT. <i>Sociedad Americana de Ingenieros    Agrícolas, 43(6)</i>, 1431-1439, 2000.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004644&pid=S1683-0789201000020000700009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p align="justify"><font size="2" face="Verdana"><a name="ref10"></a>[10]&nbsp;&nbsp;B.    Biesbrouck. CALIBRA planilla electrónica para analizar resultados de modelación.    <i>Facultad de Ciencias Agrícolas y Biológicas, K.U. Leuven</i>, Bélgica, 2003.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=004645&pid=S1683-0789201000020000700010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --> ]]></body><back>
+<ref-list>
+<ref id="B1">
+<label>1</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Neitsch]]></surname>
+<given-names><![CDATA[S.L.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Arnold]]></surname>
+<given-names><![CDATA[J.G.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Kiniry]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Williams]]></surname>
+<given-names><![CDATA[J.R.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Modelo AV-SWAT 2000, USDA: Servicio de investigación Agrícola]]></article-title>
+<source><![CDATA[]]></source>
+<year>2001</year>
+</nlm-citation>
+</ref>
+<ref id="B2">
+<label>2</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[López]]></surname>
+<given-names><![CDATA[P.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Montenegro]]></surname>
+<given-names><![CDATA[E.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Caracterización y uso de variables hidrometeorológicas medidas en la cuenca Taquiña]]></article-title>
+<source><![CDATA[]]></source>
+<year>1994</year>
+</nlm-citation>
+</ref>
+<ref id="B3">
+<label>3</label><nlm-citation citation-type="">
+<collab>Prefectura del Departamento de Tarija</collab>
+<source><![CDATA[Proyecto Múltiple San Jacinto - Objetivos y Alcance]]></source>
+<year>1988</year>
+<publisher-loc><![CDATA[^eTarija Tarija]]></publisher-loc>
+</nlm-citation>
+</ref>
+<ref id="B4">
+<label>4</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zarate]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Análisis de la hidrología de una cuenca de montaña con datos hidrológicos limitados y de baja calidad: Programa IUPWARE, Universidades K.U. Leuven y V.U. Bruselas]]></article-title>
+<source><![CDATA[]]></source>
+<year>2004</year>
+</nlm-citation>
+</ref>
+<ref id="B5">
+<label>5</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zarate]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Procesamiento de datos hidrometeorológicos: Cuenca Tolomosa: Programa INIBREH, Tarija, Bolivia]]></article-title>
+<source><![CDATA[]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B6">
+<label>6</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Zarate]]></surname>
+<given-names><![CDATA[O.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Modelación Hidrológica - Cuenca Tolomosa, AVSWAT 2000: Programa INIBREH, Tarija, Bolivia]]></article-title>
+<source><![CDATA[]]></source>
+<year>2005</year>
+</nlm-citation>
+</ref>
+<ref id="B7">
+<label>7</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Vázquez]]></surname>
+<given-names><![CDATA[R.F.]]></given-names>
+</name>
+</person-group>
+<source><![CDATA[]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B8">
+<label>8</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Watson]]></surname>
+<given-names><![CDATA[B.M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ghafouri]]></surname>
+<given-names><![CDATA[M.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Selvalingam]]></surname>
+<given-names><![CDATA[S]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Aplicación del modelo SWAT en el balance hídrico de la cuenca Woady Yaloak, Australia: TWRI Reporte Técnico, 2da Conferencia Internacional del Modelo SWAT]]></article-title>
+<source><![CDATA[]]></source>
+<year>2003</year>
+</nlm-citation>
+</ref>
+<ref id="B9">
+<label>9</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Spruill]]></surname>
+<given-names><![CDATA[C.A.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Workman]]></surname>
+<given-names><![CDATA[S.R.]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Taraba]]></surname>
+<given-names><![CDATA[J.L.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[Simulación a nivel diario y mensual de caudales para una cuenca pequeña usando el modelo SWAT: Sociedad Americana de Ingenieros Agrícolas]]></article-title>
+<source><![CDATA[]]></source>
+<year>2000</year>
+</nlm-citation>
+</ref>
+<ref id="B10">
+<label>10</label><nlm-citation citation-type="">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Biesbrouck]]></surname>
+<given-names><![CDATA[B.]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang="es"><![CDATA[CALIBRA planilla electrónica para analizar resultados de modelación]]></article-title>
+<source><![CDATA[]]></source>
+<year>2003</year>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>
