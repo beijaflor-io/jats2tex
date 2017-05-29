@@ -1,6 +1,28 @@
 # jats2tex
 **jats2tex** converte JATS-XML para TeX.
 
+## Instalação
+### De um pacote binário (recomendado)
+https://github.com/beijaflor-io/jats2tex/releases/
+
+## Uso
+```
+$ jats2tex --help
+jats2tex - Customizable JATS to LaTeX Conversion
+
+Usage: jats2tex [--output OUTPUT_FILE] [--template TEMPLATE_FILE] INPUT_FILE
+  Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE
+
+Available options:
+  --output OUTPUT_FILE     LaTeX Output File
+  --template TEMPLATE_FILE Template File
+  INPUT_FILE               XML Input File
+  -h,--help                Show this help text
+
+```
+
+- - -
+
 ## Formato dos templates
 Em aberto, os templates usados pelo Jats2tex terão um formato de fácil escrita por
 humanos e computadores, um mapa de chaves e valores com suporte a nesting
