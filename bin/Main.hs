@@ -2,10 +2,8 @@
 {-# LANGUAGE RecordWildCards #-}
 module Main where
 
-import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Text.IO        as Text (hPutStr)
-import           System.Environment  (getArgs)
 import           System.IO
 
 import           Options.Applicative
@@ -44,6 +42,5 @@ main = do
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do
-    -- hPutStrLn stderr ("Using " <> inputFile <> " writting " <> show outputHandle)
     contents <- readJats inputFile
     Text.hPutStr outputHandle (jatsXmlToLaTeXText contents)

@@ -18,9 +18,6 @@ import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import           Text.XML.Light
 
-import           JATSXML.Class
-import           JATSXML.Types
-
 type JATSDoc = [Content]
 
 type JaTeXT m r = LaTeXT m r
