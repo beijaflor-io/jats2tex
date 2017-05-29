@@ -1,0 +1,30 @@
+%%% Execute with `pdflatex <file.tex>
+
+%%%%% Preamble
+\documentclass[10pt,a4paper]{article}
+
+\usepackage{latex-basic}
+\usepackage{scielostyle}
+
+\definecolor{bl}{rgb}{0.0,0.2,0.6}
+
+
+\begin{document}
+
+\printtitle 
+\printauthor
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+                  % Defined at scielostyle.sty
+                  \renewcommand{\dateincitationstyle}{\itshape\color{bl}\bfseries}
+                  \renewcommand{\dateincitation}[1]{{\dateincitationstyle #1}}
+            
+                  Machado de Assis, \emph{Dom Casmurro}. Sao Paulo: Garnier \dateincitation{(2006 Jul 20)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\input{latex-example-lipsum}
+\end{document}

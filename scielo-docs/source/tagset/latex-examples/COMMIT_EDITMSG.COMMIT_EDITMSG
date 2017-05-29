@@ -1,0 +1,222 @@
+
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/docs/source/tagset/elemento-article-meta.rst b/docs/source/tagset/elemento-article-meta.rst
+index 8a4921b..bd06cb5 100755
+--- a/docs/source/tagset/elemento-article-meta.rst
++++ b/docs/source/tagset/elemento-article-meta.rst
+@@ -38,30 +38,64 @@ Contém os metadados do artigo, cujos elementos básicos são:
+ LaTeX
+ -----
+ 
+-
+-
+   .. code-block:: tex
+ 
+-% Defined at scielostyle.sty
+-\renewcommand{\articleidpubidtypedoi}[1]{#1}
+-\renewcommand{\volume}[1]{#1}
+-\renewcommand{\issue}[1]{#1}
+-\renewcommand{\fpage}[1]{#1}
+-\renewcommand{\lpage}[1]{#1}
+-\renewenvironment{articlemeta}{\begin{tcolorbox}[title=<article-meta>]}{\end{tcolorbox}}
++        % Defined at scielostyle.sty
++        \renewcommand{\articleidpubidtypedoi}[1]{#1}
++        \renewcommand{\volume}[1]{#1}
++        \renewcommand{\issue}[1]{#1}
++        \renewcommand{\fpage}[1]{#1}
++        \renewcommand{\lpage}[1]{#1}
++
++        %      <article-meta> ...
++        \renewenvironment{articlemeta}{\begin{tcolorbox}[title=<article-meta>]}{\end{tcolorbox}}
++        %      <article-categories> ...
++        \renewenvironment{articlecategories}{\begin{tcolorbox}[title=<article-categories>]}{\end{tcolorbox}}
++        %      <title-group> ...
++        \renewenvironment{titlegroup}{\begin{tcolorbox}[title=<title-group>]}{\end{tcolorbox}}
++        %      <contrib-group> ...
++        \renewenvironment{contribgroup}{\begin{tcolorbox}[title=<contrib-group>]}{\end{tcolorbox}}
++        %      <author-notes> ...
++        \renewenvironment{authornotes}{\begin{tcolorbox}[title=<author-notes>]}{\end{tcolorbox}}
++        %      <pub-date> ...
++        \renewenvironment{pubdate}{\begin{tcolorbox}[title=<pub-date>]}{\end{tcolorbox}}
++        %      <history> ...
++        \renewenvironment{history}{\begin{tcolorbox}[title=<history>]}{\end{tcolorbox}}
++        %      <permissions> ...
++        \renewenvironment{permissions}{\begin{tcolorbox}[title=<permissions>]}{\end{tcolorbox}}
++        %      <abstract> ...
++        \renewenvironment{abstract}{\begin{tcolorbox}[title=<absctract>]}{\end{tcolorbox}}
++        %      <kwd-group> ...
++        \renewenvironment{kwdgroup}{\begin{tcolorbox}[title=<kwd-group>]}{\end{tcolorbox}}
++        %      <counts> ...
++        \renewenvironment{counts}{\begin{tcolorbox}[title=<counts>]}{\end{tcolorbox}}
+ 
+-		...
+ 
+         % <article-meta>
+-        \begin{articlemeta}
++       \begin{articlemeta}
+         %      <article-id pub-id-type="doi">
+               \articleidpubidtypedoi{10.1590/1677-3225v14n4a01}
+ 
+         %      <article-categories> ...
++                \begin{articlecategories}
++                ...    
++                \end{articlecategories}
+         %      <title-group> ...
++                \begin{titlegroup}
++                ...
++                \end{titlegroup}
+         %      <contrib-group> ...
++                \begin{contribgroup}
++                ...
++                \end{contribgroup}
+         %      <author-notes> ...
++                \begin{authornotes}
++                ...
++                \end{authornotes}
+         %      <pub-date> ...
++                \begin{pubdate}
++                ...
++                \end{pubdate}
+         %      <volume>
+                 \volume{14}
+ 
+@@ -75,12 +109,26 @@ LaTeX
+                 \lpage{261}
+ 
+         %      <history> ...
++                \begin{history}
++                ...
++                \end{history}
+         %      <permissions> ...
+-        %      <abstract> ...
++                \begin{permissions}
++                ...
++                \end{permissions}
++        %      <abstract> 
++                \begin{abstract}
++                ...
++                \end{abstract}         
+         %      <kwd-group> ...
++                \begin{kwdgroup}
++                ...
++                \end{kwdgroup}
+         %      <counts> ...
++                \begin{counts}
++                ...
++                \end{counts}
+         % </article-meta>
+         \end{articlemeta}
+ 
+-
+-.. {"reviewed_on": "20161224", "by": "jorge@hedra.com.br"}
+\ No newline at end of file
++.. {"reviewed_on": "20161224", "by": "jorge@hedra.com.br"}
+diff --git a/docs/source/tagset/elemento-article.rst b/docs/source/tagset/elemento-article.rst
+index 128eb48..0efdb30 100755
+--- a/docs/source/tagset/elemento-article.rst
++++ b/docs/source/tagset/elemento-article.rst
+@@ -121,100 +121,3 @@ Exemplo (tag completa da `JATS versão 1.0 <http://jats.nlm.nih.gov/publishing/1
+ 
+ .. {"reviewed_on": "20160728", "by": "gandhalf_thewhite@hotmail.com"}
+ 
+-LaTeX
+------
+-
+-  .. code-block:: tex
+-
+-        % Defined at scielostyle.sty
+-        \renewcommand{\articleidpubidtypedoi}[1]{#1}
+-        \renewcommand{\volume}[1]{#1}
+-        \renewcommand{\issue}[1]{#1}
+-        \renewcommand{\fpage}[1]{#1}
+-        \renewcommand{\lpage}[1]{#1}
+-
+-        %      <article-meta> ...
+-        \renewenvironment{articlemeta}{\begin{tcolorbox}[title=<article-meta>]}{\end{tcolorbox}}
+-        %      <article-categories> ...
+-        \renewenvironment{articlecategories}{\begin{tcolorbox}[title=<article-categories>]}{\end{tcolorbox}}
+-        %      <title-group> ...
+-        \renewenvironment{titlegroup}{\begin{tcolorbox}[title=<title-group>]}{\end{tcolorbox}}
+-        %      <contrib-group> ...
+-        \renewenvironment{contribgroup}{\begin{tcolorbox}[title=<contrib-group>]}{\end{tcolorbox}}
+-        %      <author-notes> ...
+-        \renewenvironment{authornotes}{\begin{tcolorbox}[title=<author-notes>]}{\end{tcolorbox}}
+-        %      <pub-date> ...
+-        \renewenvironment{pubdate}{\begin{tcolorbox}[title=<pub-date>]}{\end{tcolorbox}}
+-        %      <history> ...
+-        \renewenvironment{history}{\begin{tcolorbox}[title=<history>]}{\end{tcolorbox}}
+-        %      <permissions> ...
+-        \renewenvironment{permissions}{\begin{tcolorbox}[title=<permissions>]}{\end{tcolorbox}}
+-        %      <abstract> ...
+-        \renewenvironment{abstract}{\begin{tcolorbox}[title=<absctract>]}{\end{tcolorbox}}
+-        %      <kwd-group> ...
+-        \renewenvironment{kwdgroup}{\begin{tcolorbox}[title=<kwd-group>]}{\end{tcolorbox}}
+-        %      <counts> ...
+-        \renewenvironment{counts}{\begin{tcolorbox}[title=<counts>]}{\end{tcolorbox}}
+-
+-
+-        % <article-meta>
+-       \begin{articlemeta}
+-        %      <article-id pub-id-type="doi">
+-              \articleidpubidtypedoi{10.1590/1677-3225v14n4a01}
+-
+-        %      <article-categories> ...
+-                \begin{articlecategories}
+-                ...    
+-                \end{articlecategories}
+-        %      <title-group> ...
+-                \begin{titlegroup}
+-                ...
+-                \end{titlegroup}
+-        %      <contrib-group> ...
+-                \begin{contribgroup}
+-                ...
+-                \end{contribgroup}
+-        %      <author-notes> ...
+-                \begin{authornotes}
+-                ...
+-                \end{authornotes}
+-        %      <pub-date> ...
+-                \begin{pubdate}
+-                ...
+-                \end{pubdate}
+-        %      <volume>
+-                \volume{14}
+-
+-        %      <issue>
+-                \issue{4}
+-
+-        %      <fpage>
+-                \fpage{256}
+-
+-        %      <lpage>
+-                \lpage{261}
+-
+-        %      <history> ...
+-                \begin{history}
+-                ...
+-                \end{history}
+-        %      <permissions> ...
+-                \begin{permissions}
+-                ...
+-                \end{permissions}
+-        %      <abstract> 
+-                \begin{abstract}
+-                ...
+-                \end{abstract}         
+-        %      <kwd-group> ...
+-                \begin{kwdgroup}
+-                ...
+-                \end{kwdgroup}
+-        %      <counts> ...
+-                \begin{counts}
+-                ...
+-                \end{counts}
+-        % </article-meta>
+-        \end{articlemeta}
+-
+-.. {"reviewed_on": "20161224", "by": "jorge@hedra.com.br"}

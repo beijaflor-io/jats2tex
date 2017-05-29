@@ -1,0 +1,44 @@
+%%% Execute with `pdflatex <file.tex>
+
+%%%%% Preamble
+\documentclass[10pt,a4paper]{article}
+
+\usepackage{latex-basic}
+\usepackage{scielostyle}
+\usepackage{graphicx}
+\usepackage{caption}
+
+\definecolor{out}{rgb}{1,0.2,0.6}
+
+\begin{document}
+
+\printtitle 
+\printauthor
+
+
+\lipsum[1]
+
+
+      \captionsetup{margin=10pt,
+                  font=small,
+                  labelfont=bf,
+                  labelsep=endash}
+      \renewcommand{\imagewidthdefault}{1\textwidth}
+      % For a two column image
+      % \renewcommand{\imagewidthdefault}{\maxwidth{\textwidth}}
+
+      \renewcommand{\xmlcaption}[2]{\caption{#2}}         %  <label> <caption>                                    
+      
+      \begin{figure}[h]                                                       % <fig>
+      \label{f01}
+      \includegraphics[width=\imagewidthdefault]{elemento-fig-example.jpg}    % <graphic xlink:href=>
+      \xmlcaption{Figura 1}{Example of 
+                        a parametric plot ($\sin (x), \cos(x), x$)}           % <caption>        
+      \end{figure}
+      
+
+
+
+\lipsum
+%\input{latex-example-lipsum}
+\end{document}

@@ -1,0 +1,35 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or 1
+\or 2
+\or 3
+\or ~
+\or 1
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{Colegiado de Fisioterapia, Universidade de Brasília (UnB), Brasília, DF, Brasil}
+\footnotetext[2]{Programa de Pós-graduação em Ciências da Reabilitação, Escola de Educação Física, Fisioterapia e Terapia Ocupacional, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte}
+\footnotetext[3]{Universidade Federal de Alfenas}
+\footnotetext[4]{Received: June 20, 2014 Revised: Sept. 09, 2014 Accepted: Feb. 04, 2014}
+}
+
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticlePubIdType{DOI}
+\newcommand\scieloArticleType{original article}
+\newcommand{\scieloArticleRef}{2015 May-June; 19(3):217-225}
+\newcommand\scieloArticleTitle{Prospective monitoring and self-report of previous falls among older women at high risk of falls and fractures: a study of comparison and agreement}
+%\newcommand\scieloArticleTitleTranslation{Tradução do título 1\\Tradução do título 2}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/bjpt-rbf.2014.0095}
+\newcommand{\scieloHeaderEven}{Self-report of falls among older women}
+\newcommand{\scieloHeaderOdd}{Garcia PA, Dias JMD, Silva SLA, Dias RC}
+\newcommand\scieloHeaderArticleTitle{Nervous system in flatworms}
+\newcommand{\scieloAuthor}{Patrícia A. Garcia\scieloContributorFn{1}{Colegiado de Fisioterapia, Universidade de Brasília (UnB), Brasília, DF, Brasil}{1}{}, João M. D. Dias\scieloContributorFn{2}{Programa de Pós-graduação em Ciências da Reabilitação, Escola de Educação Física, Fisioterapia e Terapia Ocupacional, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, MG, Brasil}{2}{}, Silvia L. A. Silva\scieloContributorFn{3}{Universidade Federal de Alfenas}{3}{},
+Rosângela C. Dias \scieloContributorFn{2}{xx}{2}{}}
+

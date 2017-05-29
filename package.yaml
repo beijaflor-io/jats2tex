@@ -1,0 +1,58 @@
+name: jatex
+version: '0.1.0.0'
+author: Pedro Tacla Yamada
+maintainer: yamada@beijaflor.io
+license: AllRightsReserved
+extra-source-files:
+- README.md
+
+dependencies:
+- base >=4.8 && <5
+- xml
+- mtl
+- containers
+- HaTeX
+- HaXml
+- text
+- optparse-applicative
+- bytestring
+- text-icu
+
+library:
+  source-dirs:
+  - src
+
+executables:
+  jatex:
+    main: Main.hs
+    source-dirs:
+    - ./bin
+    dependencies:
+    - jatex
+
+  jatex-web:
+    main: JatexWeb.hs
+    source-dirs:
+    - ./bin
+    dependencies:
+    - jatex
+    - Spock
+    - hamlet
+    - http-types
+    - unordered-containers
+    - aeson
+    - shakespeare
+    - blaze-html
+    - here
+    - wai-middleware-static
+
+tests:
+  hspec:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+    - base
+    - hspec
+    - QuickCheck
+    - jatex
+    - here

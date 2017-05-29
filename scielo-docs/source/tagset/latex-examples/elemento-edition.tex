@@ -1,0 +1,52 @@
+%%% Execute with `pdflatex <file.tex>
+
+%%%%% Preamble
+\documentclass[10pt,a4paper]{article}
+
+\usepackage{latex-basic}
+\usepackage{scielostyle}
+
+\definecolor{out}{rgb}{1,0.2,0.6}
+
+\begin{document}
+
+\printtitle 
+\printauthor
+
+
+      \renewcommand{\kwdgroupstyle}{\itshape\color{out}}
+      \renewcommand{\kwdgrouptitle}{Keywords:}
+      \renewcommand{\kwdgrouptitlestyle}{\noindent\bfseries\color{out}}
+      \renewcommand{\kwdgroupbeforeskip}{\medskip}
+      \renewcommand{\kwdgroup}[1]{{\kwdgroupbeforeskip
+                                    \kwdgrouptitlestyle
+                                    \kwdgrouptitle} 
+                                    \kwdgroupstyle #1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+            \renewcommand{\abstractname}{Nome do abstract}
+            
+            \begin{abstract}   
+                  Verificar a sensibilidade e especificidade das curvas de fluxo-volume na
+                  detecção de obstrução da via aérea central (OVAC), e se os critérios
+                  qualitativos e quantitativos da curva se relacionam com a localização, o
+                  tipo e o grau de obstrução. Métodos: Durante quatro meses foram
+                  selecionados, consecutivamente, indivíduos com indicação para
+                  broncoscopia. Todos efetuaram avaliação clínica, preenchimento de escala
+                  de dispneia, curva de fluxo-volume e broncoscopia num intervalo de uma
+                  semana. Quatro revisores classificaram a morfologia da curva sem
+                  conhecimento dos dados quantitativos, clínicos e broncoscopicos. Um
+                  quinto revisor averiguou os critérios morfológicos e quantitativos.
+
+                  \kwdgroup{Chagas disease, Quality of life, Health-related quality of 
+                  life, Cardiomyopathy, Determining factors}
+            \end{abstract}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\lipsum
+%\input{latex-example-lipsum}
+\end{document}

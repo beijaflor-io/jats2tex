@@ -1,0 +1,65 @@
+\RequirePackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
+\RequirePackage[protrusion=true,final]{microtype}
+
+\RequirePackage[T1]{fontenc}
+\RequirePackage[bitstream-charter]{mathdesign}
+
+\RequirePackage[utf8]{inputenc}							% Input encoding
+\RequirePackage{amsmath}									% Math
+\RequirePackage{lipsum}
+\RequirePackage{xcolor}
+\definecolor{bl}{rgb}{0.0,0.2,0.6} 
+
+
+\RequirePackage{sectsty}
+\RequirePackage[compact]{titlesec} 
+\allsectionsfont{\color{bl}\scshape\selectfont}
+
+%%%%% Definitions
+% Define a new command that prints the title only
+\makeatletter							% Begin definition
+\def\printtitle{%						% Define command: \printtitle
+    {\color{bl} \centering \huge \sc \textbf{\@title}\par}}		% Typesetting
+\makeatother							% End definition
+
+\title{Article template \\ 
+		\large \vspace*{-10pt} with colored headings and special fonts\vspace*{10pt}}
+
+% Define a new command that prints the author(s) only
+\makeatletter							% Begin definition
+\def\printauthor{%					% Define command: \printauthor
+    {\centering \small \@author}}				% Typesetting
+\makeatother							% End definition
+
+\author{%
+	Author T. Name \\
+	mail@mail.com \\
+	\vspace{20pt}
+	}
+
+% Custom headers and footers
+\RequirePackage{fancyhdr}
+	\pagestyle{fancy}					% Enabling the custom headers/footers
+\RequirePackage{lastpage}	
+	% Header (empty)
+	\lhead{}
+	\chead{}
+	\rhead{}
+	% Footer (you may change this to your own needs)
+	\lfoot{\footnotesize \texttt{HowToTeX.com} - Template}
+	\cfoot{}
+	\rfoot{\footnotesize page \thepage\ of \pageref{LastPage}}	% "Page 1 of 2"
+	\renewcommand{\headrulewidth}{0.0pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+
+% Change the abstract environment
+\RequirePackage[runin]{abstract}			% runin option for a run-in title
+\setlength\absleftindent{30pt}		% left margin
+\setlength\absrightindent{30pt}		% right margin
+\abslabeldelim{\quad}						% 
+\setlength{\abstitleskip}{-10pt}
+\renewcommand{\abstractname}{}
+\renewcommand{\abstracttextfont}{\color{bl} \small \slshape}	% slanted text
+
+
+%%% Start of the document

@@ -1,62 +1,44 @@
+# jats2tex
+**jats2tex** converte JATS-XML para TeX.
 
-jats2tex
-========
+## Formato dos templates
+Em aberto, os templates usados pelo Jats2tex terão um formato de fácil escrita por
+humanos e computadores, um mapa de chaves e valores com suporte a nesting
+(por exemplo, `conf`, `yml`, `json`, `ini`).
 
-Descrição do projeto
---------------------
+## Implementação
+A partir do formato do template com suporte a customização da renderização de
+elementos e atributos em contextos diferentes, um tipo intermediário e um
+renderizador estilo "Visitor", o programa lerá e executará um parser XML no
+input, conseguindo um tipo 'Artigo' - ou falhando com entrada inválida.
 
-Um conversor de *xml*  para ConTeXt, que 
-segue a documentação do SciELO Publishing Schema.
+O programa usa o template para configurar um renderizador desse tipo para
+LaTeX, usando uma linguagem monádica exposta pelo pacote `HaTeX`.
 
-Trata-se, basicamente, de uma aplicação de linha de comando que pode ser 
-executada via *prompt*, podendo ser usado para 
-a conversão de arquivos em massa, localmente, ou como 
-parte integrada de qualquer aplicação, conforme o exemplo:
+## Tecnologia
+A tecnologia usada para elaborar a solução será a linguagem de programação
+Haskell e pacotes embutidos para:
 
-```
-jats2tex <Arquivo>.xml -o <Arquivo.tex>
-```
+- A construção de parsers
+- Parsing de arquivos XML
+- Renderização de LaTeX/ConText válido
 
-É possível referenciar um template ConTeXt específico:
+## Metodologia
+O trabalho será feito usando a metodologia Agile de desenvolvimento de
+Software. Assim o trabalho será dividido em metas curtas (Sprints) com o
+período de uma semana.
 
-```
-# uso com templates .tex
-jats2tex <Arquivo>.xml -t <template> -o <Arquivo.tex>
-```
+O projeto será disponibilizado online via GitHub, escrito usando código
+aberto. Ao final de cada semana, uma versão será empacotada e publicada com as
+melhorias executadas.
 
+## Interfaces de Uso
+### Web
+Um endpoint `POST` receberá dados em formato JATS-XML e dará o texto convertido
+para LaTeX como resposta. Opcionalmente, recebe também o arquivo/texto de um
+template.
 
-Microservice
-------------
-
-O projeto inclui ainda um *microservice* ou servidor que 
-recebe arquivos *xml* via *post* e devolve arquivos *.tex. 
-
-MultiSchemas
--------
-
-O conversor pode servir ainda para outros esquemas de *xml* (*.xd). 
-A correspondência entre os blocos de *xml* e os comandos *tex*
-pode ser feita em uma aplicação *web*.
-
-Separação de Metatados
----------
-
-Para a integração do xml, os metadados dos livros estará disponível em arquivo separados (Ex: "título", "autor"), em formato Json. O conversor é responsável por ler este metadados e criar um arquivo .tex que disponibiliza as variáveis (Ex: \title, \author) para uso em lugares específicos.  
-
-Tecnologia
-==========
-
-* Ferramentas [xml nativas do ConTeXt](http://wiki.contextgarden.net/XML).
-* xslt
-* Haskell & Pandoc
-
-![Fluxo do uso da apliação.](04.jpg)
-
-Piloto
--------------------
-
-Fizemos uma prova de conceito que pode ser acessada [neste endereço](beijaflor-jatex.herokuapp.com).
-
-
-
-
+### CLI
+Opções serão expostas pela linha de comando usando o `optparse-applicative`, o
+comando recebe um template e uma entrada JATS-XML e escreve o resultado para a
+saída padrão.

@@ -1,0 +1,638 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "█ [ /home/dosto ] ls\n2016-09-18-210139_1366x768_scrot.png\n2016-09-20-002802_1366x768_scrot.png\n2016-09-20-003041_1366x768_scrot.png\n2016-09-20-003042_1366x768_scrot.png\nÁrea de Trabalho\nBOOKWIRE_PRODUTOSCADASTRADOS.csv_1.ods\nDocumentos\nDownloads\nDropbox\nexamples.desktop\nImagens\nLATEX\nMail\nModelos\nMúsica\nob3_theme.c\nProdutos.csv_0.ods\nPúblico\nteste\ntexmf\nVídeos\n\n█ [ /home/dosto ] pwd\n/home/dosto\n\n█ [ /home/dosto/Dropbox ] cd Dropbox\n/home/dosto/Dropbox\n\n█ [ /home/dosto/Dropbox/SCIELO/cursolatex ] cd SCIELO/cursolatex\n/home/dosto/Dropbox/SCIELO/cursolatex\n\n█ [ /home/dosto/Dropbox/SCIELO/cursolatex ] ls\ntools\n\n█ [ /home/dosto/Dropbox/SCIELO/cursolatex ] make\nmake: *** Nenhum alvo indicado e nenhum arquivo make encontrado.  Pare.\n\n\n",
+			"settings":
+			{
+				"buffer_size": 738,
+				"line_ending": "Unix",
+				"name": "terminal.glue"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Glue - Launch"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 568.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-examples/scielostyle.sty",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/elemento-kwd-group.rst",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/elemento-abstract.rst",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-example/latex-example.tex",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-example/latex-example-lipsum.tex",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-example/basic.sty",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/elemento-abstract.tex",
+		"/home/dosto/texmf/tex/tex/tipografia.sty",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-example/latex-example-inputs.tex",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/scielo/docs/source/tagset/latex-example.tex",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/pandoc/teste.tex",
+		"/home/dosto/texmf/tex/tipografia.sty",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/pandoc/teste.docbook",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/docbook/teste.docbook",
+		"/home/dosto/Dropbox/SCIELO/pesquisa/docbook/links.html",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/VILADASARTES5128.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5141.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5140.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5139.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5138.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5137.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5136.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5135.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5134.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5133.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5132.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5131.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TRECHO5130.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TITULODOCAPITULO5141.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/SENTIDO5126.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/1E2DRAMATURGIAS5122.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/AECONOMIADAPROXIMIDADE5113.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/CORPO5123.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DANCADRAMATURGIAEPENSAMENTODRAMATURGICO5120.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DANCAEDRAMATURGIAS5129.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DERIVASDEUMPLANODECOMPOSICAOEMDANCA5121.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DRAMATOLOGIASDADANCA5118.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DRAMATURGIAANSIOSA5117.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/ERRANCIACOMOTRABALHO5111.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/FORMANDOESPACOSCRITICOS5114.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/INPUTS.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/LIVRO.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/MOVIMENTO5124.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/OCRIMECOMPENSAOUOPODERDADRAMATURGIA5110.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/ODRAMATURGISTAIGNORANTE5112.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/OLHAR5125.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/OPROCESSODRAMATURGICO5116.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/PENSAROPENSAMENTODENINGUEM5115.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/REFBIB.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/TESTE.tex",
+		"/home/dosto/Dropbox/LATEX/lc/TD-templates/unesp/aparatos.sty",
+		"/home/dosto/Dropbox/LATEX/lc/TD-templates/unesp/fichatecnica.sty",
+		"/home/dosto/Dropbox/LATEX/lc/TD-templates/unesp/frontunesp.tex",
+		"/home/dosto/Dropbox/LATEX/lc/TD-templates/unesp/Makefile",
+		"/home/dosto/Dropbox/LATEX/lc/TD-templates/unesp/LIVRO.tex",
+		"/home/dosto/Dropbox/EdLAB/DANCADRAMA/DANCADRAMATURGIAEOPENSAMENTODRAMATURGICO5120.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/SEGUNDODIALOGO236.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/TERCEIRODIALOGO237.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/TESTE.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/QUINTODIALOGO239.tex",
+		"/home/dosto/Downloads/regulation-of-food-intake-by-mechanosensory-ion-channels-in-enteric-neurons.xml",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/QUARTODIALOGO238.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/PSICANALISEDAESPERA233.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/PRIMEIRODIALOGO234.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/PRETAS.tex",
+		"/home/dosto/Dropbox/LATEX/git/jaco_dialogos/POSFACIO240.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/VINHETADEABERTURAOUPREFACIO379.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/TELEVISAOEUTOPIA396.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/OUTROPAPOCABECA515.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/OPARAISOPENALDOFERNANDOMEIRELLES.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/OBONIEANTESDETUDOUMPUBLICITARIO444.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/MADONNAFAZXIXINOBANHO399.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/LIVRO.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/ESCOLADOTRUQUE388.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/EBOOK.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/img/AQUEDADEALBERICO385.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/VINHETADEABERTURAOUPREFACIO379.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/TELEVISAOEUTOPIA396.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/OUTROPAPOCABECA515.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/OPARAISOPENALDOFERNANDOMEIRELLES.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/OBONIEANTESDETUDOUMPUBLICITARIO444.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/MADONNAFAZXIXINOBANHO399.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/LIVRO.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/ESCOLADOTRUQUE388.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/EBOOK.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/epub/AQUEDADEALBERICO385.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/VINHETADEABERTURAOUPREFACIO379.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/TRADUZIRGLAUBERROCHA395.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/TOMJOBIMMEDALHAVILLAEAMORTE381.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/TELEVISAOEUTOPIA396.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/TANCREDONAOQUISOMALUFISTA539.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/SEQUISERTEMDOLARTAMBEM542.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/SEOBONIAINDAMANDASSENAGLOBO407.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/SEAMODAPEGA410.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/QUEMMATOUPAULOFRANCIS.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/PELEPREDADOR536.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/PELELINGUAFRANCADOINFERNO400.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OUTROPAPOCABECA515.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OPARAISOPENALDOFERNANDOMEIRELLES.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OMORDOMOEAPRINCESA384.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OMAIORDOSMAMIFEROS401.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OLATUDOBEM404.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OBONIEANTESDETUDOUMPUBLICITARIO444.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/OBASTARDODOPRINCIPE387.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/NOCONGOUMPOUCODEARROZVALETRESFAISOES538.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MAXIMASEMINIMASDEUMMANUALINUTIL391.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDOREPORTER469.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDOENTREVISTADO472.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDOEDITORDEIMAGEM470.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDOCINEGRAFISTA374.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDOAPRESENTADOR471.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MANUALINUTILDEPORTUGUESPARAATELEVISAO380.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/MADONNAFAZXIXINOBANHO399.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/LIVRO.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/INPUTS.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/HEYYOUGUYSFROMRIOFOLLOWUS403.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/GALVAOEGULOSO397.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/FACADANASALIDADESUAMARCA540.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/EVANDROFREGUESDECADERNO541.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/ESCOLADOTRUQUE388.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/ESCOLADOTRUQUE388 (Cópia em conflito de Jorge Sallum 2016-10-15).tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/EBOLABIALEOFILHODOMOTORISTA382.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/DEDICATORIA548.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/COMOPOUPAROCID383.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/COMOCONHECIMERVAL390.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/CHAMADASPARAOJORNALDABAND406.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/BURRICEQUEAGREDIAOESPECTADOR389.tex",
+		"/home/dosto/Dropbox/LATEX/git/PHA_manual/BEETHOVENABREONARCOTUNEL394.tex"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Keyword",
+			"Quality of life",
+			"\\\\allowbreak{}",
+			"\\allowbreak{}",
+			"<article>",
+			"article",
+			"aff id",
+			"(.*)",
+			".*",
+			"article",
+			"\\$",
+			"babe",
+			"usepackage",
+			"xete",
+			"footnote",
+			"Mathurin B",
+			"pageref\\{1e",
+			"moderme",
+			"morderme",
+			"Graal",
+			"discursivos etc",
+			"Shakespeare",
+			"Shaekespear",
+			"Chords",
+			"Broken Chords",
+			"tropos",
+			"2873",
+			"Tecido afetivo",
+			"Bardawil",
+			"Amsterdã",
+			"empuxo",
+			"Hércules",
+			"Examina",
+			"Pavis (1999)",
+			"De acordo com Pavis",
+			"(1999)",
+			"LABU",
+			"Stradda",
+			"na página ??",
+			"Journal v",
+			"STUC e em",
+			"Mas, para argumentar",
+			"prática consciente",
+			"KERKHOEN",
+			"KERKOVEN",
+			"emancipado",
+			"fossilizaria",
+			"mensura e orienta",
+			"Ballet inter",
+			"Bruxelas, Berlim,",
+			"Darcey",
+			"também a evolução",
+			"1960 e 1970",
+			"-situ",
+			">>",
+			"Pitágo",
+			"Palgrav",
+			"Bar",
+			"Consultar ver",
+			",\\{\\}\\w",
+			"DELAHUNTA",
+			"\\bVol\\.",
+			"\\bvol\\.",
+			"vol\\.",
+			"Consultar",
+			"Consultar pa",
+			"Pavi",
+			"Consultar P",
+			"Consultar Pav",
+			"Amsterdã",
+			"Amsterdam",
+			"Para o autor, então, a dramaturgia",
+			"CARDULLO",
+			"as",
+			"\\bv\\.\\b",
+			"\\bv.\\b",
+			"\\bv\\.\\b",
+			"\\bvol\\.\\b",
+			"Calvino",
+			"Ítalo Cal",
+			"[^h]\\{Id",
+			"Op\\.",
+			"[^h]\\{Op",
+			"[^h]\\{Ibid",
+			"\\{Ibid",
+			"Ibid",
+			"Ibid.",
+			"{Ibid.}",
+			"(CoUTO",
+			"(Couto",
+			"Couto)",
+			"não\"-",
+			"não\"-acon",
+			"não\"-",
+			"nota{\\emph{ibid}",
+			"compree",
+			"2007",
+			"Studies",
+			"cit\\.\\}",
+			"cit\\.\\}\\.",
+			"ekko",
+			"22.out",
+			"\\\\textgreater",
+			"disponív",
+			"2003",
+			"\\(apud",
+			"\\{apud",
+			"[^h]\\{apud",
+			"[^h]{apud",
+			"teat",
+			"xx",
+			"situad",
+			"situa",
+			"Situ",
+			"situa",
+			"Otermo",
+			"revistasala",
+			"[0-9]_",
+			"\\w_",
+			"3_",
+			"pelbart_",
+			"&",
+			"Deleuze &",
+			"Deleuze \\&",
+			"Deleuze &",
+			"\\\\FOC",
+			"\\\\FOL",
+			"\\bhet\\b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\<\\1\\>",
+			"<\\1>",
+			"RequirePackage",
+			"V.",
+			"v.",
+			"Amsterdam",
+			"nota{\\emph{Ibid}",
+			"cit\\.\\}",
+			"}",
+			",",
+			"",
+			"n.",
+			"\\\\titidem{}",
+			"{[}s{]}",
+			"}}",
+			"p.\\~\\1",
+			"\\\\versal{\\1}",
+			"\\\\versal{&}",
+			"\\\\versal{\\&}",
+			"nopagebreak[4]",
+			"\\nopagebreak \\hfill",
+			"",
+			"nota{{",
+			"\\\\footnote",
+			"nota"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "elemento-addr-line.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tex",
+				"latex-examples/elemento-abstract.tex"
+			],
+			[
+				"ref",
+				"~/Dropbox/EdLAB/DANCADRAMA/REFBIB.tex"
+			],
+			[
+				"dra",
+				"~/Dropbox/EdLAB/DANCADRAMA/DRAMATURGIAANSIOSA5117.tex"
+			],
+			[
+				"re",
+				"~/Dropbox/EdLAB/DANCADRAMA/REFBIB.tex"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"de",
+				"~/Dropbox/EdLAB/DANCADRAMA/DERIVASDEUMPLANODECOMPOSICAOEMDANCA5121.tex"
+			],
+			[
+				"danca",
+				"~/Dropbox/EdLAB/DANCADRAMA/DANCADRAMATURGIAEPENSAMENTODRAMATURGICO5120.tex"
+			],
+			[
+				"da",
+				"~/Dropbox/EdLAB/DANCADRAMA/DRAMATOLOGIASDADANCA5118.tex"
+			],
+			[
+				"sen",
+				"~/Dropbox/EdLAB/DANCADRAMA/SENTIDO5126.tex"
+			],
+			[
+				"senti",
+				"~/Dropbox/EdLAB/DANCADRAMA/SENTIDO5126.tex"
+			],
+			[
+				"sem",
+				"~/Dropbox/EdLAB/DANCADRAMA/PENSAROPENSAMENTODENINGUEM5115.tex"
+			],
+			[
+				"mo",
+				"~/Dropbox/EdLAB/DANCADRAMA/MOVIMENTO5124.tex"
+			],
+			[
+				"mov",
+				"~/Dropbox/EdLAB/DANCADRAMA/MOVIMENTO5124.tex"
+			],
+			[
+				"ol",
+				"~/Dropbox/EdLAB/DANCADRAMA/OLHAR5125.tex"
+			],
+			[
+				"movi",
+				"~/Dropbox/EdLAB/DANCADRAMA/MOVIMENTO5124.tex"
+			],
+			[
+				"dramatu",
+				"~/Dropbox/EdLAB/DANCADRAMA/ODRAMATURGISTAIGNORANTE5112.tex"
+			],
+			[
+				"li",
+				"~/Dropbox/EdLAB/DANCADRAMA/LIVRO.tex"
+			],
+			[
+				"der",
+				"~/Dropbox/EdLAB/DANCADRAMA/DERIVASDEUMPLANODECOMPOSICAOEMDANCA5121.tex"
+			],
+			[
+				"dramarug",
+				"~/Dropbox/EdLAB/DANCADRAMA/DRAMATURGIAANSIOSA5117.tex"
+			],
+			[
+				"dramatur",
+				"~/Dropbox/EdLAB/DANCADRAMA/1E2DRAMATURGIAS5122.tex"
+			],
+			[
+				"d",
+				"~/Dropbox/EdLAB/DANCADRAMA/DRAMATURGIAANSIOSA5117.tex"
+			],
+			[
+				"vi",
+				"~/Dropbox/EdLAB/DANCADRAMA/VILADASARTES5128.tex"
+			],
+			[
+				"olha",
+				"~/Dropbox/EdLAB/DANCADRAMA/OLHAR5125.tex"
+			],
+			[
+				"1e2",
+				"~/Dropbox/EdLAB/DANCADRAMA/1E2DRAMATURGIAS5122.tex"
+			],
+			[
+				"cor",
+				"~/Dropbox/EdLAB/DANCADRAMA/CORPO5123.tex"
+			],
+			[
+				"for",
+				"~/Dropbox/EdLAB/DANCADRAMA/FORMANDOESPACOSCRITICOS5114.tex"
+			],
+			[
+				"inp",
+				"~/Dropbox/EdLAB/DANCADRAMA/INPUTS.tex"
+			],
+			[
+				"in",
+				"~/Dropbox/EdLAB/DANCADRAMA/INPUTS.tex"
+			],
+			[
+				"dancae",
+				"~/Dropbox/EdLAB/DANCADRAMA/DANCAEDRAMATURGIAS5129.tex"
+			],
+			[
+				"ae",
+				"~/Dropbox/EdLAB/DANCADRAMA/AECONOMIADAPROXIMIDADE5113.tex"
+			],
+			[
+				"v",
+				"~/Dropbox/EdLAB/DANCADRAMA/VILADASARTES5128.tex"
+			],
+			[
+				"un",
+				"untitled"
+			],
+			[
+				"apre",
+				"APRESENTACAO658.tex"
+			],
+			[
+				"int",
+				"INTROX.tex"
+			],
+			[
+				"aprese",
+				"~/Dropbox/LATEX/git/mundoindigena/yvyrupa_guarani/APRESENTACAO658.tex"
+			],
+			[
+				"apr",
+				"~/Dropbox/LATEX/git/mundoindigena/APRES.tex"
+			],
+			[
+				"livr",
+				"~/Dropbox/LATEX/git/mundoindigena/yvyrupa_guarani/LIVRO.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

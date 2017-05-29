@@ -1,0 +1,59 @@
+LaTeX
+-----
+
+  .. code-block:: tex
+ 
+      % Defined at scielostyle.sty
+      \renewcommand{\kwdgroupstyle}{\itshape}
+      \renewcommand{\kwdgrouptitle}{Keywords:}
+      \renewcommand{\kwdgrouptitlestyle}{\noindent\bfseries}
+      \renewcommand{\kwdgroupbeforeskip}{\medskip}
+      \renewcommand{\kwdgroup}[1]{{\kwdgroupbeforeskip
+                                   \kwdgrouptitlestyle
+                                   \kwdgrouptitle} 
+                                   \kwdgroupstyle #1}
+      ...
+      \kwdgroup{Chagas disease, Quality of life, Health-related quality of life, Cardiomyopathy, Determining factors}
+      ...
+
+.. {"reviewed_on": "20161224", "by": "jorge@hedra.com.br"}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Execute with `pdflatex <file.tex>
+%%%%% Preamble
+\documentclass[10pt,a4paper]{article}
+
+\usepackage{latex-basic}
+\usepackage{scielostyle}
+
+\definecolor{out}{rgb}{1,0.2,0.6}
+
+\begin{document}
+
+\printtitle 
+\printauthor
+
+
+       \renewcommand{\xmldatestyle}{\color{out}\bfseries}
+       \RenewDocumentCommand{\xmldate}{ O{} O{} O{} m }{{\xmldatestyle%
+                               \ifx#1\relax\else #1-\fi % <day> (non mandatory)
+                               \ifx#2\relax\else #2-\fi    % <month> (non mandatory)
+                               #4    % <year>
+                               \ifx#3\relax\else (#3)\fi}}  % <date date-type="received"> (non mandatory)
+
+      % \newcommand{\xmldate}[1]{#1}
+      \xmldate{2015}                % year
+
+      \xmldate[12]{2015}            % month-year
+
+      \xmldate[12][25]{2015}        % day-month-year
+
+      \xmldate[][][received]{2015}  % year+@date-type
+
+
+%\input{latex-example-lipsum}
+\end{document}
+
+
+

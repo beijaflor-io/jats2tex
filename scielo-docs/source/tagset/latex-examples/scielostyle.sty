@@ -1,0 +1,326 @@
+\RequirePackage{abstract}   % elemento-abstract
+\RequirePackage{xparse}     % elemento-licence...
+\RequirePackage{caption}    % elemento-fig
+\RequirePackage{graphicx}   % elemento-fig
+
+
+
+%    <article>
+%      ...
+%      <response response-type="reply" xml:lang="en" id="R1">
+%          ...
+%      </response>
+%    </article>
+
+% <journal-meta>
+      \newenvironment{journalmeta}{}{}
+      %     <journal-id journal-id-type="nlm-ta">
+            \newcommand{\journalidtypenlmstyle}{\itshape}
+            \newcommand{\journalidtypenlm}[1]{{\journalidtypenlmstyle #1}}
+      %     <journal-id journal-id-type="publisher-id">
+            \newcommand{\journalidtypeublisheridstyle}{\itshape}
+            \newcommand{\journalidtypeublisherid}[1]{{\journalidtypeublisheridstyle #1}}
+      %     <journal-title-group>
+            \newenvironment{journaltitlegroup}{}{}
+                  %     <journal-title>
+                        \newcommand{\journaltitlestyle}{\itshape}
+                        \newcommand{\journaltitle}[1]{{\journaltitlestyle #1}}
+                  %     <abbrev-journal-title abbrev-type="publisher">
+                         \newcommand{\abbrevjournaltitlepublisherstyle}{\itshape}
+                         \newcommand{\abbrevjournaltitlepublisher}[1]{{\abbrevjournaltitlepublisherstyle #1}}
+      %     <issn pub-type="epub">
+            \newcommand{\issnepubstyle}{\itshape}
+            \newcommand{\issnepub}[1]{{\issnepubstyle #1}}
+      %     <issn pub-type="ppub">
+            \newcommand{\issnppubstyle}{\itshape}
+            \newcommand{\issnppub}[1]{{\issnppubstyle #1}}
+      %     <publisher>
+            \newenvironment{publisher}{}{}
+            %     <publisher-name>
+                  \newcommand{\publishernamestyle}{\itshape}
+                  \newcommand{\publishername}[1]{{\publishernamestyle #1}}
+
+
+
+% <article-meta>
+      \newenvironment{articlemeta}{}{}
+      %      <article-id pub-id-type="doi">
+            \newcommand{\articleidpubidtypedoi}[1]{#1}
+      %      <article-categories> ...
+            \newenvironment{articlecategories}{}{}
+      %      <title-group> ...
+            \newenvironment{titlegroup}{}{}
+      %      <contrib-group> ...
+            \newenvironment{contribgroup}{}{}
+      %     <contrib-group>
+      %         <contrib contrib-type="author">
+      %             <contrib-id contrib-id-type="orcid">0000-0001-8528-2091</contrib-id>
+      %             <contrib-id contrib-id-type="scopus">24771926600</contrib-id>
+      %             <name>
+      %                 <surname>Einstein</surname>
+      %                 <given-names>Albert</given-names>
+      %             </name>
+      %             <xref ref-type="aff" rid="aff02">II</xref>
+      %             <on-behalf-of>Interdisciplinary HTLV Research Group</on-behalf-of>
+      %             ...
+      %         </contrib>
+      %     </contrib-group>
+      %      <author-notes> ...
+            \newenvironment{authornotes}{}{}
+      %      <pub-date> ...
+            \newenvironment{pubdate}{}{}
+            \newcommand{\xmlpubdatestyle}{}
+            \NewDocumentCommand{\xmlpubdate}{ O{} O{} O{} O{} m }{{\xmlpubdatestyle%
+                                     \ifx#1\relax\else (#1)\ \fi  % <season> (non mandatory)
+                                     \ifx#2\relax\else #2--\fi    % <month> (non mandatory)
+                                     \ifx#3\relax\else #3--\fi    % <day> (non mandatory)
+                                     #5                           % <year>
+                                     \ifx#4\relax\else~(#4)\fi}}  % <date pub-type="epub"> (non mandatory)
+      %      <volume>
+            \newcommand{\volume}[1]{#1}
+      %      <issue>
+            \newcommand{\issue}[1]{#1}
+      %      <fpage>
+            \newcommand{\fpage}[1]{#1}
+      %      <lpage>
+      %      <page-range>300-301, 305, 407-420</page-range>
+            \newcommand{\lpage}[1]{#1}
+      %      <history> ...
+            \newenvironment{history}{}{}
+      % REVER -------------------------------------------------------------------------
+      %             <date date-type="received">
+      %                  <day>20</day>
+      %                  <month>10</month>
+      %                  <year>2014</year>
+      %             </date>
+                    % <date>
+                    \newcommand{\xmldatestyle}{}
+                    \NewDocumentCommand{\xmldate}{ O{} O{} O{} m }{{\xmldatestyle%
+                       \ifx#1\relax\else #1-\fi     % <day> (non mandatory)
+                       \ifx#2\relax\else #2-\fi     % <month> (non mandatory)
+                       #4                                       % <year>
+                       \ifx#3\relax\else (#3)\fi}}  % <date date-type="received"> (non mandatory)
+      % REVER -------------------------------------------------------------------------
+      %     <permissions> ...
+            \newenvironment{permissions}{}{}
+      %              <license license-type="open-access"
+      %                       xlink:href="http://creativecommons.org/licenses/by/4.0/"
+      %                       xml:lang="en">
+      %                  <license-p>Th...</license-p>
+      %              </license>
+
+      %     <abstract> ...
+            \setlength\absleftindent{30pt}                                    % left margin
+            \setlength\absrightindent{30pt}                                   % right margin
+            \abslabeldelim{\quad}                                  
+            \setlength{\abstitleskip}{-10pt}
+            \renewcommand{\abstractname}{}
+            \renewcommand{\abstracttextfont}{\color{bl} \small \slshape}      % slanted text
+      %      <kwd-group> ...
+            \newcommand{\kwdstyle}{\itshape}
+            \newcommand{\kwdtitle}{Keywords:}
+            \newcommand{\kwdtitlestyle}{\noindent\bfseries}
+            \newcommand{\kwd}[1]{{\kwdtitlestyle
+                                  \kwdtitle} 
+                                  \kwdstyle #1}
+            \newcommand{\kwdgroupbeforeskip}{\medskip}
+            \newenvironment{kwdgroup}{\kwdgroupbeforeskip}{}
+      %      <counts> ...
+            \newenvironment{counts}{}{}
+      %     <related-article elated-article-type=XX>
+      %     <funding-group>
+      %       <award-group>
+      %         <funding-source>CNPq</funding-source>
+      %         <award-id>1685X6-7</award-id>
+      %       </award-group>
+      %     </funding-group>
+      %     <aff id="aff01">
+      %       <label>1</label>
+      %       <institution content-type="orgname">Fundação Oswaldo Cruz</institution>
+      %       <institution content-type="orgdiv1">Escola Nacional de Saúde Pública Sérgio Arouca</institution>
+      %       <institution content-type="orgdiv2">Centro de ... Ecologia Humana</institution>
+      %       <addr-line>
+      %           <named-content content-type="city">Manguinhos</named-content>
+      %           <named-content content-type="state">RJ</named-content>
+      %       </addr-line>
+      %       <country country="BR">Brasil</country>
+      %       <email>maurosilva@foo.com</email>
+      %       <institution content-type="original">Prof. da Fundação Oswaldo Cruz; ... </institution>
+      %     </aff>
+      %     <product product-type="book">
+      %         <person-group person-group-type="author">
+      %             <name>
+      %                 <surname>ONFRAY</surname>, 
+      %                 <given-names>Michel</given-names>
+      %             </name>
+      %             <role>pesquisador</role
+      %         </person-group>. 
+      %         <source>La comunidad filosófica: manifiesto por una universidad popular</source> Trad. e notas de 
+      %         <person-group person-group-type="translator">
+      %             <name>
+      %                 <surname>Castro</surname> 
+      %                 <given-names>Antonia García</given-names>
+      %             </name>
+      %         </person-group>. 
+      %         <publisher-loc>Barcelona</publisher-loc>: 
+      %         <publisher-name>Gedisa</publisher-name>, 
+      %         <year>2008</year> 
+      %         <size units="pages">155</size>p.
+      %     </product>
+      %     <front-stub>
+      %          <article-categories> ...
+      %              <subj-group subj-group-type="heading">
+      %                  <subject>Editorial</subject>
+      %              </subj-group>
+      %          </article-categories>
+      %          <title-group>
+      %              <article-title>Economia Clínica e Enfermagem</article-title>
+      %          </title-group>
+      %          <contrib-group>
+      %              <contrib contrib-type="author">
+      %                  <name>
+      %                      <surname>Porzsolt</surname>
+      %                      <given-names>Franz</given-names>
+      %                  </name>
+      %                  <xref ref-type="aff" rid="aff4">1</xref>
+      %              </contrib>
+      %              <aff id="aff4">
+      %                  <label>1</label>
+      %                  <institution content-type="original">Health Care...org</institution>
+      %              </aff>
+      %          </contrib-group>
+      %     </front-stub>
+
+
+% <body> ----------------------------------------------------------------
+
+
+% <back>
+%         <ref-list>
+%              <title>References</title>
+%              <ref id="B1">
+%              <mixed-citation>Associação Brasileira ... </mixed-citation>
+%              <element-citation publication-type="book">
+%                   <person-group person-group-type="author">
+%                        <collab>Associação Brasileira das Indústrias Exportadoras de Carnes</collab>
+%                   </person-group>
+%                   <year>2012,</year>
+%                   <source>[Entrevista com o Antônio Camardelli]. Presidente da ABIEC</source>
+%                   <ext-link ext-link-type="uri" xlink:href="http://www.abiec.com.br</ext-link>
+%                   <patent country="US">US 6,980,855</patent>
+%              </element-citation>
+%              </ref>
+%              <ref id="B2">
+%                   <mixed-citation>Blumentritt, T. P. (2003). .doi: 10.1177/0007650303042002003</mixed-citation>
+%                   <element-citation publication-type="journal">
+%                        <person-group person-group-type="author">
+%                             <name>
+%                                 <surname>Blumentritt</surname>
+%                                 <given-names>T. P.</given-names>
+%                                 <prefix>Prof.</prefix>
+%                             </name>
+%                        </person-group>
+%                        <year>2003</year>
+%                        <article-title>Foreign subsidiaries' government affairs activities</article-title>
+%                        <source>Business &amp; Society</source>
+%                        <volume>42</volume>
+%                        <issue>2</issue>
+%                        <fpage>202</fpage>
+%                        <lpage>233</lpage>
+%                        <pub-id pub-id-type="doi">10.1177/0007650303042002003</pub-id>
+%                        <size units="page">434 p</size>
+%                        <isbn>9780071463898</isbn>
+%                   </element-citation>
+%              </ref>
+%            ...
+%         </ref-list>
+%         <app-group>
+%              <app id="app1">
+%                   <label>ANNEX A</label>
+%                   <table-wrap id="t6">
+%                        <label>Table 6</label>
+%                        <caption>
+%                             <title>Multivariate analysis ociated with readmission - Model 2</title>
+%                        </caption>
+%                        <graphic xlink:href="1234-5678-rctb-45-05-0110-gt031.tif"/>
+%                   </table-wrap>
+%              </app>
+%         </app-group>
+%    <glossary id="gl1">
+%   <label>Glossário</label>
+%   <def-list>
+%     <def-item>
+%       <term>PEL</term>
+%       <def>
+%         <p>Passivo Externo Líquido</p>
+%       </def>
+%     </def-item>
+%     <def-item>
+%       <term>PEL1</term>
+%       <def>
+%         <p>Passivo Externo Líquido1</p>
+%       </def>
+%     </def-item>
+%     <def-item>
+%       <term>PEL2</term>
+%       <def>
+%         <p>Passivo Externo Líquido2</p>
+%       </def>
+%     </def-item>
+%     <def-item>
+%       <term>DCCA</term>
+%       <def>
+%         <p>déficit acumulado na conta corrente do balanço de pagamentos</p>
+%       </def>
+%     </def-item>
+%   </def-list>
+% </glossary>
+%    </back>
+
+
+
+
+
+
+% -----------------------------------------------------------------------
+
+%    <fig id="f01">
+%        <label>Fig. 1</label>
+%        <caption>
+%            <title>título da imagem</title>
+%        </caption>
+%        <graphic xlink:href="1234-5678-rctb-45-05-0110-gf01.tif"/>
+%    </fig>
+
+
+% <xref ref-type="bibr"...>
+      \newcommand{\xrefbibrstyle}{}
+      \newcommand{\xrefbibr}[1]{\xrefbibrstyle\#1}
+
+% <date-in-citation>
+      \newcommand{\dateincitationstyle}{\itshape}
+      \newcommand{\dateincitation}[1]{{\dateincitationstyle #1}}
+
+% <licence>
+      \newcommand{\licencestyle}{\tiny\noindent}
+      \DeclareDocumentCommand{\licence}{  O{} O{} m }{{\licencestyle%
+                                          #3     % <licence-p>        
+                                          #1     % @license-type (non mandatory) 
+                                          #2}}   % xml:lang="en" (non mandatory)
+
+
+
+                                 
+% <fig>
+      \captionsetup{margin=10pt,
+                  font=small,
+                  labelfont=bf,
+                  labelsep=endash}
+      \newcommand{\imagewidthdefault}{0.5\textwidth}
+      \newcommand{\xmlcaption}[2]{\caption{#2}}  %  <label>+<caption>
+
+
+
+% Death commands (for not loosing important data) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% <sec>
+      \newcommand{\sectype}[1]{}

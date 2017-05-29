@@ -1,0 +1,54 @@
+%%% Execute with `pdflatex <file.tex>
+
+%%%%% Preamble
+\documentclass[10pt,a4paper]{article}
+
+\usepackage{latex-basic}
+\usepackage{scielostyle}
+
+\definecolor{out}{rgb}{1,0.2,0.6}
+
+\begin{document}
+
+\printtitle 
+\printauthor
+
+      \renewcommand{\kwdgroupbeforeskip}{\medskip}
+      \renewcommand{\kwdstyle}{\itshape\color{out}}
+      \renewcommand{\kwdtitle}{Keywords:}
+      \renewcommand{\kwdtitlestyle}{\noindent\bfseries\color{out}}
+      \renewcommand{\kwd}[1]{{\kwdtitlestyle
+                              \kwdtitle} 
+                              \kwdstyle #1}
+      \renewcommand{\kwdgroupbeforeskip}{\medskip}
+      \renewenvironment{kwdgroup}{\kwdgroupbeforeskip}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+            \renewcommand{\abstractname}{Nome do abstract}
+            
+            \begin{abstract}   
+                  Verificar a sensibilidade e especificidade das curvas de fluxo-volume na
+                  detecção de obstrução da via aérea central (OVAC), e se os critérios
+                  qualitativos e quantitativos da curva se relacionam com a localização, o
+                  tipo e o grau de obstrução. Métodos: Durante quatro meses foram
+                  selecionados, consecutivamente, indivíduos com indicação para
+                  broncoscopia. Todos efetuaram avaliação clínica, preenchimento de escala
+                  de dispneia, curva de fluxo-volume e broncoscopia num intervalo de uma
+                  semana. Quatro revisores classificaram a morfologia da curva sem
+                  conhecimento dos dados quantitativos, clínicos e broncoscopicos. Um
+                  quinto revisor averiguou os critérios morfológicos e quantitativos.
+
+                  \begin{kwdgroup}
+                  \kwd{Chagas disease, Quality of life, Health-related quality of 
+                  life, Cardiomyopathy, Determining factors}
+                  \end{kwdgroup}
+            \end{abstract}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\lipsum
+%\input{latex-example-lipsum}
+\end{document}
