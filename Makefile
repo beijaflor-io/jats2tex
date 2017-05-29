@@ -3,6 +3,11 @@ tag=$(shell git describe --tags)
 build: FORCE
 	stack build
 
+full-release: FORCE
+	make release
+	docker build -t jats2tex:$(tag) .
+	heroku container:push
+
 release: FORCE
 	echo $(tag)
 	./bin/stack-fpm jats2tex $(tag)
