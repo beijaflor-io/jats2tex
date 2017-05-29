@@ -51,7 +51,8 @@ $doctype 5
 <html>
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/dist/app.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
     <title>JaTeX Demo</title>
     <style>
       #app textarea, pre {
