@@ -21,7 +21,7 @@ cp -r "$(stack path --docker --local-install-root)"/* ./.stack-fpm/linux/usr/loc
 cd .stack-fpm/linux
 echo ">>> Building Linux packages..."
 tar -zcvf stack-fpm.tar.gz ./*
-fpm -t deb -s tar --deb-pre-depends libgmp-dev -n "$name" -v "$version" ./stack-fpm.tar.gz
+fpm -t deb -s tar --deb-pre-depends libgmp-dev --deb-pre-depends libicu-dev -n "$name" -v "$version" ./stack-fpm.tar.gz
 fpm -t rpm -s tar --rpm-os linux --rpm-autoreq -n "$name" -v "$version" ./stack-fpm.tar.gz
 fpm -t apk -s tar -n "$name" -v "$version" ./stack-fpm.tar.gz
 mkdir -p ../../dist
