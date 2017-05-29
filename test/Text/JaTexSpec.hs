@@ -30,16 +30,16 @@ spec = do
 </article>
                       |]
             jatsXmlToLaTeXText inp `shouldBe`
-                Text.pack [here|\documentclass{article}
+                Text.pack ([here|\documentclass{article}
   \begin{front}
-    \begin{articlemeta}
-      \begin{titlegroup}
-      \article-title{pt}{A influência do genótipo da ECA sobre a aptidão cardiovascular de jovens do sexo masculino moderadamente ativos}
-      \article-title{en}{The influence of ACE genotype on cardiovascular fitness of moderately active young men}
-      \end{titlegroup}
-    \end{articlemeta}
+    \begin{article-meta}
+      \begin{title-group}
+        \article-title{pt}{A influência do genótipo da ECA sobre a aptidão cardiovascular de jovens do sexo masculino moderadamente ativos}
+        \article-title{en}{The influence of ACE genotype on cardiovascular fitness of moderately active young men}
+      \end{title-group}
+    \end{article-meta}
   \end{front}
-                          |]
+                           |] ++ "\n")
 
         it "translates basic formatting" $ do
             let inp = parseJATS' [here|<bold>Bold</bold> text here<break />

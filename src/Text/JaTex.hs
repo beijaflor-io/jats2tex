@@ -83,23 +83,9 @@ convertElem _el@Element {..} = do
       | n == "article" = do
         documentclass [] article
         convertChildren
-      | n == "body"
-                -- comment "<body>"
-       = document convertChildren
-      | n == "front"
-                -- comment (fromString (show el))
-       = begin "front" convertChildren
-      | n == "articlemeta"
-                -- comment (fromString (show el))
-       = begin "articlemeta" convertChildren
-      | n == "titlegroup"
-                -- comment (fromString (show el))
-       = begin "titlegroup" convertChildren
-            -- Output Nodes
       | n == "article-title" = do
         let lang = forM_ (lookupAttr' "xml:lang") fromString
-        comm2 "articletitle" lang convertChildren
-            -- Inline Formatting
+        comm2 "article-title" lang convertChildren
       | n == "b" || n == "bold" = textbf convertChildren
       | n == "p" = paragraph convertChildren
       | n == "break" = newline
