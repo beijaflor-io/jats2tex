@@ -1,3 +1,6 @@
+build:
+	stack build
+
 build-pdf: FORCE
 	pandoc ./README.md -o ./jats2tex.pdf
 
