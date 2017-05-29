@@ -35,9 +35,9 @@ runJaTeX = runLaTeXT
 readJats :: FilePath -> IO JATSDoc
 readJats inputFile = do
   inp <- ByteString.readFile inputFile
-  print ICU.converterNames
+  -- print ICU.converterNames
   inp' <- decodeLatin inp
-  print (map fromXMLNode (parseJATS inp') :: [Maybe JATSElement])
+  -- print (map fromXMLNode (parseJATS inp') :: [Maybe JATSElement])
   return $ parseJATS inp'
   where
     decodeLatin i = do
