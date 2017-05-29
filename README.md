@@ -1,5 +1,5 @@
 # jats2tex
-**jats2tex** converte JATS-XML para TeX.
+**jats2tex** converte JATS-XML para LaTeX.
 
 ## Instalação
 ### De um pacote binário (recomendado)
