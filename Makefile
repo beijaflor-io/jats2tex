@@ -5,7 +5,8 @@ build: FORCE
 
 release: FORCE
 	echo $(tag)
-	stack fpm
+	./bin/stack-fpm jats2tex $(tag)
+	github-release release -u beijaflor-io -r jats2tex -t $(tag) -n $(tag)
 	for i in dist/*; \
 		do github-release upload -u beijaflor-io -r jats2tex -t $(tag) -n $$i -f $$i -l $$i; \
 	done
