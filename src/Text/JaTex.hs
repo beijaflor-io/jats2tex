@@ -83,14 +83,6 @@ convertElem _el@Element {..} = do
       | n == "article" = do
         documentclass [] article
         convertChildren
-      | True =
-        case elContent of
-          [] ->
-            textell $
-            TeXComm
-              (n <> concatMap (\Attr {attrKey} -> showQName attrKey) elAttribs)
-              []
-          _ -> begin (Text.pack n) convertChildren
       | n == "body"
                 -- comment "<body>"
        = document convertChildren
@@ -112,7 +104,14 @@ convertElem _el@Element {..} = do
       | n == "p" = paragraph convertChildren
       | n == "break" = newline
       | n == "code" || n == "codebold" = texttt convertChildren
-      | otherwise = convertChildren
+      | otherwise =
+        case elContent of
+          [] ->
+            textell $
+            TeXComm
+              (n <> concatMap (\Attr {attrKey} -> showQName attrKey) elAttribs)
+              []
+          _ -> begin (Text.pack n) convertChildren
 
 comm2
   :: LaTeXC l
