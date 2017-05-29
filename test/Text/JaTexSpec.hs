@@ -8,6 +8,8 @@ import           Test.Hspec
 
 import           Text.JaTex
 
+parseJATS' = parseJATS . Text.pack
+
 spec :: Spec
 spec = do
     describe "readJats" $ do
@@ -15,7 +17,7 @@ spec = do
 
     describe "jatsXmlToLaTeXText" $ do
         it "works" $ do
-            let inp = parseJATS [here|
+            let inp = parseJATS' [here|
 <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <front>
     <article-meta>
@@ -40,7 +42,7 @@ spec = do
                           |]
 
         it "translates basic formatting" $ do
-            let inp = parseJATS [here|<bold>Bold</bold> text here<break />
+            let inp = parseJATS' [here|<bold>Bold</bold> text here<break />
 New-line and <code>Some code</code>|]
             jatsXmlToLaTeXText inp `shouldBe`
                 Text.pack [here|\textbf{Bold} text here\newline{}
