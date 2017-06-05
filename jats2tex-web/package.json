@@ -1,0 +1,11 @@
+{
+  "name": "jats2tex-web",
+  "private": true,
+  "main": "frontend/index.js",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "substance-texture": "^1.0.0-alpha.2"
+  }
+}
