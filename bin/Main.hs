@@ -12,6 +12,7 @@ import qualified Text.JaTex.Upgrade  as Upgrade
 
 data Options
   = RunUpgrade
+  | RunVersion
   | Options { optsOutputFile   :: Maybe FilePath
             , optsTemplateFile :: Maybe String
             , optsInputFile    :: FilePath}
@@ -19,7 +20,9 @@ data Options
 options :: Parser Options
 options =
   subparser
-    (command "upgrade" (info (pure RunUpgrade) (progDesc "Upgrade jats2tex"))) <|>
+    (metavar "version" <> command "version" (info (pure RunVersion) (fullDesc <> progDesc "Print the version"))) <|>
+  subparser
+    (metavar "upgrade" <> command "upgrade" (info (pure RunUpgrade) (fullDesc <> progDesc "Upgrade jats2tex"))) <|>
   Options <$>
   optional
     (strOption
@@ -46,6 +49,7 @@ main = do
                 Just f  -> openFile f WriteMode
             run optsInputFile outputFile
         RunUpgrade -> Upgrade.runUpgrade
+        RunVersion -> Upgrade.putVersionInfo
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do
