@@ -9,13 +9,15 @@ import           System.IO
 import           Options.Applicative
 import           Text.JaTex
 
-data Options = Options { optsOutputFile   :: Maybe FilePath
-                       , optsTemplateFile :: Maybe String
-                       , optsInputFile    :: FilePath
-                       }
+data Options
+  = RunUpgrade
+  | Options { optsOutputFile   :: Maybe FilePath
+            , optsTemplateFile :: Maybe String
+            , optsInputFile    :: FilePath}
 
 options :: Parser Options
 options =
+  RunUpgrade <$ switch (long "upgrade" <> help "Upgrade jats2tex") <|>
   Options <$>
   optional
     (strOption
@@ -34,11 +36,14 @@ optionsPI =
 
 main :: IO ()
 main = do
-    Options{..} <- execParser optionsPI
-    outputFile <- case optsOutputFile of
-        Nothing -> return stdout
-        Just f  -> openFile f WriteMode
-    run optsInputFile outputFile
+    opts <- execParser optionsPI
+    case opts of
+        Options{..} -> do
+            outputFile <- case optsOutputFile of
+                Nothing -> return stdout
+                Just f  -> openFile f WriteMode
+            run optsInputFile outputFile
+        RunUpgrade -> putStrLn "Not implemented."
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do
