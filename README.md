@@ -1,6 +1,8 @@
 # jats2tex
 **jats2tex** converte JATS-XML para LaTeX.
 
+![](/04.jpg)
+
 ## Instalação
 ### De um pacote binário (recomendado)
 https://github.com/beijaflor-io/jats2tex/releases/
