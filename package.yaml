@@ -1,5 +1,5 @@
 name: jats2tex
-version: '0.3.1.0'
+version: '0.3.2.0'
 author: Pedro Tacla Yamada
 maintainer: yamada@beijaflor.io
 synopsis: jats2tex converts JATS-XML to LaTeX
