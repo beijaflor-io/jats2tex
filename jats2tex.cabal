@@ -3,7 +3,7 @@
 -- see: https://github.com/sol/hpack
 
 name:           jats2tex
-version:        0.3.0.0
+version:        0.3.1.0
 synopsis:       jats2tex converts JATS-XML to LaTeX
 author:         Pedro Tacla Yamada
 maintainer:     yamada@beijaflor.io
