@@ -29,11 +29,23 @@ library
     , optparse-applicative
     , bytestring
     , text-icu
+    , executable-hash
+    , cabal-file-th
+    , wreq
+    , lens
+    , lens-aeson
+    , vector
+    , aeson
+    , directory
+    , temporary
+    , filepath
+    , open-browser
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
       JATSXML.Types
       Text.JaTex
+      Text.JaTex.Upgrade
   default-language: Haskell2010
 
 executable jats2tex
@@ -51,6 +63,17 @@ executable jats2tex
     , optparse-applicative
     , bytestring
     , text-icu
+    , executable-hash
+    , cabal-file-th
+    , wreq
+    , lens
+    , lens-aeson
+    , vector
+    , aeson
+    , directory
+    , temporary
+    , filepath
+    , open-browser
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -74,7 +97,19 @@ executable jats2tex-web
     , optparse-applicative
     , bytestring
     , text-icu
+    , executable-hash
+    , cabal-file-th
+    , wreq
+    , lens
+    , lens-aeson
+    , vector
+    , aeson
+    , directory
+    , temporary
+    , filepath
+    , open-browser
     , jats2tex
+    , yesod
     , Spock
     , hamlet
     , http-types
@@ -107,6 +142,17 @@ test-suite hspec
     , optparse-applicative
     , bytestring
     , text-icu
+    , executable-hash
+    , cabal-file-th
+    , wreq
+    , lens
+    , lens-aeson
+    , vector
+    , aeson
+    , directory
+    , temporary
+    , filepath
+    , open-browser
     , base
     , hspec
     , QuickCheck

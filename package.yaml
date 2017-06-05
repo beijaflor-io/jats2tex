@@ -18,6 +18,17 @@ dependencies:
 - optparse-applicative
 - bytestring
 - text-icu
+- executable-hash
+- cabal-file-th
+- wreq
+- lens
+- lens-aeson
+- vector
+- aeson
+- directory
+- temporary
+- filepath
+- open-browser
 
 library:
   source-dirs:
@@ -37,6 +48,7 @@ executables:
     - ./bin
     dependencies:
     - jats2tex
+    - yesod
     - Spock
     - hamlet
     - http-types

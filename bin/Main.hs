@@ -8,6 +8,7 @@ import           System.IO
 
 import           Options.Applicative
 import           Text.JaTex
+import qualified Text.JaTex.Upgrade  as Upgrade
 
 data Options
   = RunUpgrade
@@ -43,7 +44,7 @@ main = do
                 Nothing -> return stdout
                 Just f  -> openFile f WriteMode
             run optsInputFile outputFile
-        RunUpgrade -> putStrLn "Not implemented."
+        RunUpgrade -> Upgrade.runUpgrade
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do
