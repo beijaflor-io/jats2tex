@@ -87,7 +87,7 @@ runUpgrade = do
   putStrLn "Checking GitHub for updates..."
   vs <- getVersions
   case find
-         (\(v, _) -> True || v `isHigherVersionThan` Text.pack versionNumber)
+         (\(v, _) -> v `isHigherVersionThan` Text.pack versionNumber)
          vs of
     Just (v, assets) -> do
       Text.putStrLn $ "Found new version " <> v
@@ -122,6 +122,7 @@ runUpgrade = do
       putStrLn "Already running at latest version"
       putVersionInfo
 
+getPackageFormat :: IO PackageFormat
 getPackageFormat =
   case [os, arch] of
     [_, a]
@@ -145,7 +146,7 @@ getPackageFormat =
 askQuestion :: String -> [String] -> IO String
 askQuestion question os = do
   forM_ (zip os ([1 ..] :: [Int])) $ \(option, n) ->
-    putStrLn $ show n <> ") " <> option
+    putStrLn $ "  " <> show n <> ") " <> option
   loop
   where
     lenQs = length os
@@ -177,4 +178,4 @@ packageFormatSuffix DebPackage         = ".deb"
 putVersionInfo :: IO ()
 putVersionInfo = do
   let AppVersion {..} = currentVersion
-  putStrLn $ versionName <> "@" <> versionNumber <> " (" <> fromMaybe "<no-hash>" (ByteString.unpack <$> versionHash) <> ")"
+  putStrLn $ versionName <> "@" <> versionNumber

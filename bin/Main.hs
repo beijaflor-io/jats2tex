@@ -18,7 +18,8 @@ data Options
 
 options :: Parser Options
 options =
-  RunUpgrade <$ switch (long "upgrade" <> help "Upgrade jats2tex") <|>
+  subparser
+    (command "upgrade" (info (pure RunUpgrade) (progDesc "Upgrade jats2tex"))) <|>
   Options <$>
   optional
     (strOption
