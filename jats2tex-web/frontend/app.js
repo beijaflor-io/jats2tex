@@ -1,1 +1,1 @@
-console.log('fuck yes');
+console.log('yes');
