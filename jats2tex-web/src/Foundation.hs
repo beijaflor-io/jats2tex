@@ -134,6 +134,9 @@ instance Yesod App
     pc <-
       widgetToPageContent $ do
         addStylesheet $ StaticR css_bootstrap_css
+        -- $(combineScripts 'StaticR
+        --  [ js_bundle_js
+        --  ])
         $(widgetFile "default-layout")
     withUrlRenderer $(hamletFile "templates/default-layout-wrapper.hamlet")
     -- The page to be redirected to when authentication is required.
