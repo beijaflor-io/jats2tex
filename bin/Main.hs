@@ -20,9 +20,15 @@ data Options
 options :: Parser Options
 options =
   subparser
-    (metavar "version" <> command "version" (info (pure RunVersion) (fullDesc <> progDesc "Print the version"))) <|>
+    (metavar "version" <>
+     command
+       "version"
+       (info (pure RunVersion) (fullDesc <> progDesc "Print the version"))) <|>
   subparser
-    (metavar "upgrade" <> command "upgrade" (info (pure RunUpgrade) (fullDesc <> progDesc "Upgrade jats2tex"))) <|>
+    (metavar "upgrade" <>
+     command
+       "upgrade"
+       (info (pure RunUpgrade) (fullDesc <> progDesc "Upgrade jats2tex"))) <|>
   Options <$>
   optional
     (strOption
@@ -41,15 +47,16 @@ optionsPI =
 
 main :: IO ()
 main = do
-    opts <- execParser optionsPI
-    case opts of
-        Options{..} -> do
-            outputFile <- case optsOutputFile of
-                Nothing -> return stdout
-                Just f  -> openFile f WriteMode
-            run optsInputFile outputFile
-        RunUpgrade -> Upgrade.runUpgrade
-        RunVersion -> Upgrade.putVersionInfo
+  opts <- execParser optionsPI
+  case opts of
+    Options {..} -> do
+      outputFile <-
+        case optsOutputFile of
+          Nothing -> return stdout
+          Just f  -> openFile f WriteMode
+      run optsInputFile outputFile
+    RunUpgrade -> Upgrade.runUpgrade
+    RunVersion -> Upgrade.putVersionInfo
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do

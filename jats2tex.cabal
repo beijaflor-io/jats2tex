@@ -45,6 +45,8 @@ library
       JATSXML.HTMLEntities
       JATSXML.Types
       Text.JaTex
+      Text.JaTex.Parser
+      Text.JaTex.TexWriter
       Text.JaTex.Upgrade
   default-language: Haskell2010
 

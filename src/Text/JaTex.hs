@@ -4,7 +4,10 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE RecordWildCards   #-}
 
-module Text.JaTex where
+module Text.JaTex ( readJats
+                  , parseJATS
+                  , jatsXmlToLaTeXText
+                  ) where
 
 import           Control.Monad
 import           Control.Monad.Identity
@@ -18,31 +21,16 @@ import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import           Text.XML.Light
 
-type JATSDoc = [Content]
+import           Text.JaTex.Parser
+import qualified Text.JaTex.Upgrade     as Upgrade
 
 type JaTeXT m r = LaTeXT m r
-
 type JaTeX m = JaTeXT m ()
 
 runJaTeX
   :: Monad m
   => JaTeXT m a -> m (a, LaTeX)
 runJaTeX = runLaTeXT
-
-readJats :: FilePath -> IO JATSDoc
-readJats inputFile = do
-  inp <- ByteString.readFile inputFile
-  -- print ICU.converterNames
-  inp' <- decodeLatin inp
-  -- print (map fromXMLNode (parseJATS inp') :: [Maybe JATSElement])
-  return $ parseJATS inp'
-  where
-    decodeLatin i = do
-      converter <- ICU.open "latin-1" Nothing
-      return (ICU.toUnicode converter i)
-
-parseJATS :: Text -> JATSDoc
-parseJATS = parseXML . Text.unpack
 
 jatsXmlToLaTeXText :: JATSDoc -> Text
 jatsXmlToLaTeXText cs =
@@ -52,17 +40,27 @@ jatsXmlToLaTeXText cs =
 jatsXmlToLaTeX
   :: Monad m
   => JATSDoc -> LaTeXT m ()
-jatsXmlToLaTeX = mapM_ convertNode
+jatsXmlToLaTeX d = do
+  comment
+    (Text.pack ("jats2tex@" <> Upgrade.versionNumber Upgrade.currentVersion))
+  mapM_ convertNode d
 
 convertNode
   :: Monad m
   => Content -> LaTeXT m ()
-convertNode (Elem e) = convertElem e
-convertNode (Text (CData CDataText str _)) = fromString str
-convertNode (Text (CData _ str _)) =
+convertNode (Elem e) = do
+  comment "recursive elem"
+  convertElem e
+convertNode (Text (CData CDataText str _)) = do
+  comment "cdata (text-like)"
+  fromString str
+convertNode (Text (CData _ str _)) = do
+  comment "cdata (not-text-like)"
   let cs = parseXML str
-  in mapM_ convertNode cs
-convertNode (CRef _) = return ()
+  mapM_ convertNode cs
+convertNode (CRef _) = do
+  comment "cref"
+  return ()
 
 convertElem
   :: Monad m
@@ -75,14 +73,25 @@ convertElem _el@Element {..} = do
       attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
     n = qName elName
     convertChildren = mapM_ convertNode elContent
-    commentEl = return () -- comment (Text.pack (n <> ": " <> show elLine))
+    commentEl =
+      comment (Text.pack ("<" <> n <> "> (" <> maybe "" show elLine <> ")"))
     run
       | n == "article" = do
         documentclass [] article
         convertChildren
+      | n == "contrib-group" -- && lookupAttr' "contrib-type" == Just "author" =
+       = do
+        author $ forM_ (intersperse (comm0 "and") (map convertNode elContent)) id
+      | n == "contrib" = convertChildren
+      | n == "name" = convertChildren
+      | n == "surname" = do
+        convertChildren
+        fromString ","
+      | n == "given-names" = convertChildren
       | n == "article-title" = do
         let lang = forM_ (lookupAttr' "xml:lang") fromString
         comm2 "article-title" lang convertChildren
+        title convertChildren
       | n == "b" || n == "bold" = textbf convertChildren
       | n == "p" = paragraph convertChildren
       | n == "break" = newline
@@ -108,70 +117,3 @@ begin
   => Text -> LaTeXT m () -> LaTeXT m ()
 begin n c =
   between c (raw ("\\begin{" <> n <> "}")) (raw ("\\end{" <> n <> "}"))
-{-
-convertNode :: Content -> [Block]
-convertNode node = case node of
-    Elem e -> jatsXmlToBlocks e
-    Text (CData CDataText str _) -> [Plain [Str str]]
-    Text (CData kind str _) ->
-        let cs = parseXML str
-        in concatMap convertNode cs
-    CRef cref -> []
-
-convertInline :: Content -> Inline
-convertInline node = case node of
-    Elem (Element{..}) -> case qName elName of
-        "bold" ->
-            (Strong $ map convertInline elContent)
-        "b" ->
-            (Strong $ map convertInline elContent)
-        "font" ->
-            (Span nullAttr $ map convertInline elContent)
-        _ -> Span nullAttr (map convertInline elContent)
-    Text (CData CDataText str _) -> Str str
-    Text (CData kind str l) ->
-        let cs = parseXML str
-        in Span nullAttr (map convertInline cs)
-    CRef cref -> Str (fromMaybe ("&" ++ cref ++ ";") (crefToString cref))
-
-jatsXmlToBlocks :: Element -> [Block]
-jatsXmlToBlocks Element{..}
-    = case qName elName of
-    "p" ->
-        [ Para (map convertInline elContent)
-        ]
-
-    "abstract" ->
-        [ RawBlock
-             "latex"
-             ("\\begin{abstract}" ++
-                (writeLaTeX def (Pandoc (Meta Map.empty) (concatMap convertNode elContent))) ++
-                "\\end{abstract}"
-             )
-         ]
-
-    "title" ->
-        [ RawBlock
-             "latex"
-             ( "\\renewcommand{\\abstractname{" ++ (writeLaTeX def (Pandoc (Meta Map.empty) (concatMap convertNode elContent))) ++ "}}"
-             )
-         ]
-
-    "body" ->
-        [ Div
-             ( ""
-             , []
-             , [] -- map (\Attr{..} -> (show attrKey, attrVal)) elAttribs
-             )
-             (concatMap convertNode elContent)
-         ]
-
-    _ ->
-        [ Div
-             ( ""
-             , []
-             , [] -- map (\Attr{..} -> (show attrKey, attrVal)) elAttribs
-             )
-             (concatMap convertNode elContent)
-         ]
- -}

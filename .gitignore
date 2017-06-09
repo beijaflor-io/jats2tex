@@ -22,3 +22,5 @@ cabal.project.local
 dist
 .stack-fpm
 *.pyc
+.tern-port
+.#*
