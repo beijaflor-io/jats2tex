@@ -1,4 +1,7 @@
 # jats2tex
+[![Build Status](https://travis-ci.org/beijaflor-io/jats2tex.svg?branch=master)](https://travis-ci.org/beijaflor-io/jats2tex)
+[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/dgixgy1ep3fp9mlq?svg=true)](https://ci.appveyor.com/project/yamadapc/jats2tex)
+- - -
 **jats2tex** converte JATS-XML para LaTeX.
 
 ![](/04.jpg)
