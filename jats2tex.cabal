@@ -19,7 +19,7 @@ library
   hs-source-dirs:
       src
   build-depends:
-      base >=4.8 && <5
+      base >=4 && <5
     , xml
     , mtl
     , containers
@@ -55,7 +55,7 @@ executable jats2tex
   hs-source-dirs:
       ./bin
   build-depends:
-      base >=4.8 && <5
+      base >=4 && <5
     , xml
     , mtl
     , containers
@@ -89,7 +89,7 @@ executable jats2tex-web
   hs-source-dirs:
       ./bin
   build-depends:
-      base >=4.8 && <5
+      base >=4 && <5
     , xml
     , mtl
     , containers
@@ -134,7 +134,7 @@ test-suite hspec
   hs-source-dirs:
       test
   build-depends:
-      base >=4.8 && <5
+      base >=4 && <5
     , xml
     , mtl
     , containers
