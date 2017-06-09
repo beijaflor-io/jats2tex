@@ -14,14 +14,12 @@ import qualified Data.ByteString.Char8
 import qualified Data.CaseInsensitive          as CI
 import qualified Data.Text.Encoding            as TE
 import qualified Data.Text.Lazy.Encoding       as LTE
-import           Data.Yaml
 import           Database.Persist
 import           Database.Persist.Sql          (ConnectionPool, runSqlPool)
 import           Import.NoFoundation
 import           Network.Mail.Mime
 import           Network.Mail.Mime.SES
 import           System.Environment            (getEnv)
-import           System.Exit                   (ExitCode (..), exitWith)
 import           Text.Blaze.Html.Renderer.Utf8 (renderHtml)
 import           Text.Hamlet                   (hamletFile)
 import           Text.Jasmine                  (minifym)
