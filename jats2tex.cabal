@@ -24,7 +24,6 @@ library
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -60,7 +59,6 @@ executable jats2tex
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -94,7 +92,6 @@ executable jats2tex-web
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -139,7 +136,6 @@ test-suite hspec
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring

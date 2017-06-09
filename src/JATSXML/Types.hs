@@ -5,8 +5,8 @@ module JATSXML.Types where
 
 import           Data.Maybe
 import           JATSXML.Class
-import qualified Text.XML.HaXml.XmlContent as HaXml.XmlContent
-import           Text.XML.Light            hiding (Parser)
+-- import qualified Text.XML.HaXml.XmlContent as HaXml.XmlContent
+import           Text.XML.Light hiding (Parser)
 
 data JatsxmlAbbrev = JatsxmlAbbrev
     { jatsxmlAbbrevElement  :: Element
