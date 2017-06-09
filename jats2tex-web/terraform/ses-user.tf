@@ -15,7 +15,8 @@ resource "aws_iam_user_policy" "edo_ses" {
   "Statement": [
     {
       "Action": [
-        "ses:SendEmail"
+        "ses:SendEmail",
+        "ses:SendRawEmail"
       ],
       "Effect": "Allow",
       "Resource": "*"
