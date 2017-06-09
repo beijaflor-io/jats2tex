@@ -7,11 +7,11 @@ resource "aws_iam_access_key" "edo" {
 }
 
 resource "aws_iam_user_policy" "edo_ses" {
-  name = "Send e-mails for EDO"
+  name = "ses_send_email"
   user = "${aws_iam_user.edo.name}"
   policy = <<EOF
 {
-  "Version": "2012-1017",
+  "Version": "2012-10-17",
   "Statement": [
     {
       "Action": [
