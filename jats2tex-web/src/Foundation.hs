@@ -3,28 +3,35 @@
 {-# LANGUAGE NamedFieldPuns        #-}
 {-# LANGUAGE NoImplicitPrelude     #-}
 {-# LANGUAGE OverloadedStrings     #-}
+{-# LANGUAGE QuasiQuotes           #-}
 {-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE TemplateHaskell       #-}
 {-# LANGUAGE TypeFamilies          #-}
 
 module Foundation where
 
+import qualified Data.ByteString.Char8
+import qualified Data.CaseInsensitive          as CI
+import qualified Data.Text.Encoding            as TE
+import qualified Data.Text.Lazy.Encoding       as LTE
+import           Data.Yaml
 import           Database.Persist
-import           Database.Persist.Sql (ConnectionPool, runSqlPool)
+import           Database.Persist.Sql          (ConnectionPool, runSqlPool)
 import           Import.NoFoundation
-import           Text.Hamlet          (hamletFile)
-import           Text.Jasmine         (minifym)
-
--- Used only when in "auth-dummy-login" setting is enabled.
+import           Network.Mail.Mime
+import           Network.Mail.Mime.SES
+import           System.Environment            (getEnv)
+import           System.Exit                   (ExitCode (..), exitWith)
+import           Text.Blaze.Html.Renderer.Utf8 (renderHtml)
+import           Text.Hamlet                   (hamletFile)
+import           Text.Jasmine                  (minifym)
+import           Text.Shakespeare.Text         (stext)
 import           Yesod.Auth.Dummy
-
-import qualified Data.CaseInsensitive as CI
-import qualified Data.Text.Encoding   as TE
-import           Yesod.Auth.Email     (EmailCreds (..), YesodAuthEmail (..),
-                                       authEmail)
-import           Yesod.Core.Types     (Logger)
-import qualified Yesod.Core.Unsafe    as Unsafe
-import           Yesod.Default.Util   (addStaticContentExternal)
+import           Yesod.Auth.Email              (EmailCreds (..),
+                                                YesodAuthEmail (..), authEmail)
+import           Yesod.Core.Types              (Logger)
+import qualified Yesod.Core.Unsafe             as Unsafe
+import           Yesod.Default.Util            (addStaticContentExternal)
 
 -- | The foundation datatype for your application. This can be a good place to
 -- keep settings and values requiring initialization before your application
@@ -36,6 +43,11 @@ data App = App
   , appConnPool    :: ConnectionPool -- ^ Database connection pool.
   , appHttpManager :: Manager
   , appLogger      :: Logger
+  }
+
+data SesKeys = SesKeys
+  { accessKey :: !Text
+  , secretKey :: !Text
   }
 
 data MenuItem = MenuItem
@@ -239,7 +251,63 @@ instance YesodAuthEmail App where
       , userVerkey = Just k
       , userVerified = False
       }
-  sendVerifyEmail e k u = undefined
+  sendVerifyEmail email _ verurl = do
+    h <- getYesod
+    sesCreds <- liftIO $ getSESCredentials
+    liftIO $
+      renderSendMailSES
+        (getHttpManager h)
+        sesCreds
+        (emptyMail $ Address Nothing "noreply@example.com")
+        { mailTo = [Address Nothing email]
+        , mailHeaders = [("Subject", "Verify your email address")]
+        , mailParts = [[textP, htmlP]]
+        }
+    where
+      getSESCredentials :: IO SES
+      getSESCredentials = do
+        key <- getsesAccessKey
+        return
+          SES
+          { sesTo = [(TE.encodeUtf8 email)]
+          , sesFrom = "noreply@example.com"
+          , sesAccessKey = TE.encodeUtf8 $ accessKey key
+          , sesSecretKey = TE.encodeUtf8 $ secretKey key
+          , sesRegion = usWest2
+          }
+      getsesAccessKey :: IO SesKeys
+      getsesAccessKey = do
+        accessKey <- fromString <$> getEnv "AWS_ACCESS_KEY_ID"
+        secretKey <- fromString <$> getEnv "AWS_SECRET_ACCESS_KEY"
+        return $ SesKeys accessKey secretKey
+      textP =
+        Part
+        { partType = "text/plain; charset=utf-8"
+        , partEncoding = None
+        , partFilename = Nothing
+        , partContent =
+            LTE.encodeUtf8 $
+            [stext|Please confirm your email address by clicking on the link below.
+                   #{verurl}
+                   Thank you
+                   |]
+        , partHeaders = []
+        }
+      htmlP =
+        Part
+        { partType = "text/html; charset=utf-8"
+        , partEncoding = None
+        , partFilename = Nothing
+        , partContent =
+            renderHtml
+              [shamlet|
+                    <p>Please confirm your email address by clicking on the link below.
+                    <p>
+                        <a href=#{verurl}>#{verurl}
+                    <p>Thank you
+                |]
+        , partHeaders = []
+        }
   getVerifyKey userId =
     runDB $ do
       mu <- get userId
@@ -258,7 +326,8 @@ instance YesodAuthEmail App where
     selectFirst [UserEmail ==. e] [] >>= \case
       Nothing -> return Nothing
       Just (Entity userId User {..}) ->
-        return $ Just
+        return $
+        Just
           EmailCreds
           { emailCredsId = userId
           , emailCredsAuthId = Just userId
@@ -267,8 +336,8 @@ instance YesodAuthEmail App where
           , emailCredsEmail = userEmail
           }
   getEmail userId = do
-      mu <- runDB $ get userId
-      return (userEmail <$> mu)
+    mu <- runDB $ get userId
+    return (userEmail <$> mu)
   afterPasswordRoute _ = HomeR
 
 -- | Access function to determine if a user is logged in.
