@@ -31,6 +31,8 @@ import           Yesod.Core.Types              (Logger)
 import qualified Yesod.Core.Unsafe             as Unsafe
 import           Yesod.Default.Util            (addStaticContentExternal)
 
+import           Foundation.Auth
+
 -- | The foundation datatype for your application. This can be a good place to
 -- keep settings and values requiring initialization before your application
 -- starts running, such as database connections. Every handler will have
@@ -236,9 +238,18 @@ instance YesodAuth App where
     where
       extraAuthPlugins = [authDummy | appAuthDummyLogin $ appSettings app]
   authHttpManager = getHttpManager
+  authLayout widget = defaultLayout $
+      [whamlet|<div .container>
+                 ^{widget}
+              |]
 
 instance YesodAuthEmail App where
   type AuthEmailId App = UserId
+  emailLoginHandler = bootstrapEmailLoginHandler
+  registerHandler = bootstrapRegisterHandler
+  forgotPasswordHandler = bootstrapForgotPasswordHandler
+  setPasswordHandler = bootstrapSetPasswordHandler
+
   addUnverified e k =
     runDB $
     insert
@@ -256,7 +267,7 @@ instance YesodAuthEmail App where
       renderSendMailSES
         (getHttpManager h)
         sesCreds
-        (emptyMail $ Address Nothing "noreply@example.com")
+        (emptyMail $ Address Nothing "noreply@beijaflor.io")
         { mailTo = [Address Nothing email]
         , mailHeaders = [("Subject", "Verify your email address")]
         , mailParts = [[textP, htmlP]]
@@ -268,10 +279,10 @@ instance YesodAuthEmail App where
         return
           SES
           { sesTo = [(TE.encodeUtf8 email)]
-          , sesFrom = "noreply@example.com"
+          , sesFrom = "noreply@beijaflor.io"
           , sesAccessKey = TE.encodeUtf8 $ accessKey key
           , sesSecretKey = TE.encodeUtf8 $ secretKey key
-          , sesRegion = usWest2
+          , sesRegion = usEast1
           }
       getsesAccessKey :: IO SesKeys
       getsesAccessKey = do
