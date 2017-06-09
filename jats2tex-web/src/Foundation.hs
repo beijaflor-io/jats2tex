@@ -1,11 +1,15 @@
+{-# LANGUAGE LambdaCase            #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
+{-# LANGUAGE NamedFieldPuns        #-}
 {-# LANGUAGE NoImplicitPrelude     #-}
 {-# LANGUAGE OverloadedStrings     #-}
+{-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE TemplateHaskell       #-}
 {-# LANGUAGE TypeFamilies          #-}
 
 module Foundation where
 
+import           Database.Persist
 import           Database.Persist.Sql (ConnectionPool, runSqlPool)
 import           Import.NoFoundation
 import           Text.Hamlet          (hamletFile)
@@ -16,7 +20,8 @@ import           Yesod.Auth.Dummy
 
 import qualified Data.CaseInsensitive as CI
 import qualified Data.Text.Encoding   as TE
-import           Yesod.Auth.OpenId    (IdentifierType (Claimed), authOpenId)
+import           Yesod.Auth.Email     (EmailCreds (..), YesodAuthEmail (..),
+                                       authEmail)
 import           Yesod.Core.Types     (Logger)
 import qualified Yesod.Core.Unsafe    as Unsafe
 import           Yesod.Default.Util   (addStaticContentExternal)
@@ -209,13 +214,62 @@ instance YesodAuth App where
         Just (Entity uid _) -> return $ Authenticated uid
         Nothing ->
           Authenticated <$>
-          insert User {userIdent = credsIdent creds, userPassword = Nothing}
+          insert User { userIdent = credsIdent creds
+                      , userPassword = Nothing
+                      , userEmail = credsIdent creds
+                      , userVerkey = Nothing
+                      , userVerified = False
+                      }
     -- You can add other plugins like Google Email, email or OAuth here
-  authPlugins app = [authOpenId Claimed []] ++ extraAuthPlugins
+  authPlugins app = [ authEmail ] ++ extraAuthPlugins
         -- Enable authDummy login if enabled.
     where
       extraAuthPlugins = [authDummy | appAuthDummyLogin $ appSettings app]
   authHttpManager = getHttpManager
+
+instance YesodAuthEmail App where
+  type AuthEmailId App = UserId
+  addUnverified e k =
+    runDB $
+    insert
+      User
+      { userIdent = e
+      , userPassword = Nothing
+      , userEmail = e
+      , userVerkey = Just k
+      , userVerified = False
+      }
+  sendVerifyEmail e k u = undefined
+  getVerifyKey userId =
+    runDB $ do
+      mu <- get userId
+      return (join (userVerkey <$> mu))
+  setVerifyKey userId verifyKey =
+    runDB $ update userId [UserVerkey =. Just verifyKey]
+  verifyAccount userId = do
+    runDB $ update userId [UserVerkey =. Nothing, UserVerified =. True]
+    return $ Just userId
+  getPassword uid = do
+    mu <- runDB (get uid)
+    return (join (userPassword <$> mu))
+  setPassword userId pass = runDB $ update userId [UserPassword =. Just pass]
+  getEmailCreds e =
+    runDB $
+    selectFirst [UserEmail ==. e] [] >>= \case
+      Nothing -> return Nothing
+      Just (Entity userId User {..}) ->
+        return $ Just
+          EmailCreds
+          { emailCredsId = userId
+          , emailCredsAuthId = Just userId
+          , emailCredsStatus = userVerified
+          , emailCredsVerkey = userVerkey
+          , emailCredsEmail = userEmail
+          }
+  getEmail userId = do
+      mu <- runDB $ get userId
+      return (userEmail <$> mu)
+  afterPasswordRoute _ = HomeR
 
 -- | Access function to determine if a user is logged in.
 isAuthenticated :: Handler AuthResult

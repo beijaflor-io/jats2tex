@@ -13,10 +13,11 @@
 }
 
 .masthead {
+    padding-bottom: 200px;
     margin-top: -21px;
     color: white;
     text-align: center;
-    min-height: 500px;
+    /* min-height: 500px; */
 }
 
 .masthead .header {
