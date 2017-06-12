@@ -15,7 +15,7 @@ environment:
 
 test_script:
 - stack setup > nul
-- stack exec -- pacman -Sy --force mingw64/mingw-w64-x86_64-icu
+- echo Y | stack exec -- pacman -Sy --force mingw64/mingw-w64-x86_64-icu
 # The ugly echo "" hack is to avoid complaints about 0 being an invalid file
 # descriptor
 - echo "" | stack --no-terminal test
