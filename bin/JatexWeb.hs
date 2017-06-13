@@ -174,7 +174,7 @@ main = do
 
         post "/form" $ do
             pkg <- param' "body"
-            let !etex = jatsXmlToLaTeXText $ parseJATS pkg
+            let !etex = jatsXmlToLaTeXText "none" $ parseJATS pkg
             text etex
 
         post "/" $ do
@@ -183,7 +183,7 @@ main = do
                 Nothing -> resError $ Text.unlines [ "Missing `body` parameter"
                                                    ]
                 Just UploadedFile{..} -> do
-                    !etex <- liftIO (jatsXmlToLaTeXText <$> readJats uf_tempLocation)
+                    !etex <- liftIO (jatsXmlToLaTeXText "none" <$> readJats uf_tempLocation)
                     text etex
   where
     resError e = do

@@ -15,7 +15,7 @@ dependencies:
 - mtl
 - containers
 - HaTeX
-# - HaXml
+- HaXml
 - text
 - optparse-applicative
 - bytestring
@@ -31,6 +31,7 @@ dependencies:
 - temporary
 - filepath
 - open-browser
+- polyparse
 
 library:
   source-dirs:

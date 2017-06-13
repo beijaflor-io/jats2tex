@@ -3,12 +3,16 @@
 module Main where
 
 import           Data.Monoid
+import qualified Data.Text           as Text
 import qualified Data.Text.IO        as Text (hPutStr)
 import           System.IO
 
 import           Options.Applicative
 import           Text.JaTex
+-- import           Text.JaTex.JatsElements
+import           Text.JaTex.Parser
 import qualified Text.JaTex.Upgrade  as Upgrade
+
 
 data Options
   = RunUpgrade
@@ -60,5 +64,11 @@ main = do
 
 run :: FilePath -> Handle -> IO ()
 run inputFile outputHandle = do
-    contents <- readJats inputFile
-    Text.hPutStr outputHandle (jatsXmlToLaTeXText contents)
+  -- inputFileC <- Text.unpack <$> readJatsFile inputFile
+  contents <- readJats inputFile
+  Text.hPutStr outputHandle (jatsXmlToLaTeXText inputFile contents)
+  hFlush outputHandle
+  -- let d@(HaXml.Document _ _ root _) = HaXml.xmlParse inputFile inputFileC
+  -- let (r, _) = PolyParse.runParser elementArticle -- HaXml.emptySTs
+  --                       [HaXml.CElem root HaXml.noPos]
+  -- print r

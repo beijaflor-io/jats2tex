@@ -5,6 +5,8 @@
 name:           jats2tex
 version:        0.3.2.0
 synopsis:       jats2tex converts JATS-XML to LaTeX
+description:    jats2tex converts JATS-XML to LaTeX
+category:       Language
 author:         Pedro Tacla Yamada
 maintainer:     yamada@beijaflor.io
 license:        AllRightsReserved
@@ -24,6 +26,7 @@ library
     , mtl
     , containers
     , HaTeX
+    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -39,11 +42,13 @@ library
     , temporary
     , filepath
     , open-browser
+    , polyparse
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
       JATSXML.Types
       Text.JaTex
+      Text.JaTex.JatsElements
       Text.JaTex.Parser
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
@@ -59,6 +64,7 @@ executable jats2tex
     , mtl
     , containers
     , HaTeX
+    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -74,6 +80,7 @@ executable jats2tex
     , temporary
     , filepath
     , open-browser
+    , polyparse
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -92,6 +99,7 @@ executable jats2tex-web
     , mtl
     , containers
     , HaTeX
+    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -107,6 +115,7 @@ executable jats2tex-web
     , temporary
     , filepath
     , open-browser
+    , polyparse
     , jats2tex
     , yesod
     , Spock
@@ -136,6 +145,7 @@ test-suite hspec
     , mtl
     , containers
     , HaTeX
+    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -151,6 +161,7 @@ test-suite hspec
     , temporary
     , filepath
     , open-browser
+    , polyparse
     , base
     , hspec
     , QuickCheck

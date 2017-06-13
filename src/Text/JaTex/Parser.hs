@@ -9,17 +9,17 @@ import           Text.XML.Light
 
 type JATSDoc = [Content]
 
-readJats :: FilePath -> IO JATSDoc
-readJats inputFile = do
+readJatsFile :: FilePath -> IO Text
+readJatsFile inputFile = do
   inp <- ByteString.readFile inputFile
-  -- print ICU.converterNames
-  inp' <- decodeLatin inp
-  -- print (map fromXMLNode (parseJATS inp') :: [Maybe JATSElement])
-  return $ parseJATS inp'
+  decodeLatin inp
   where
     decodeLatin i = do
       converter <- ICU.open "latin-1" Nothing
       return (ICU.toUnicode converter i)
+
+readJats :: FilePath -> IO JATSDoc
+readJats fp = parseJATS <$> readJatsFile fp
 
 parseJATS :: Text -> JATSDoc
 parseJATS = parseXML . Text.unpack
