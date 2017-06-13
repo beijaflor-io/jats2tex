@@ -176,7 +176,9 @@ convertElem el@Element {..}
       | n == "font" = do
           (h, i) <- convertInlineChildren el
           let prelude = case lookupAttr' "size" of
-                  Just fz -> comm1 "fontsize" (fromString (fz <> "pt"))
+                  Just fz ->do
+                      comm2 "fontsize" (fromString (fz <> "pt")) (fromString (show (read fz * 1.2 :: Double) <> "pt"))
+                      comm0 "selectfont"
                   _       -> return ()
           add $ textell (TeXBraces (runLaTeX (prelude <> h <> i)))
       | n == "contrib" = convertChildren el
@@ -201,7 +203,8 @@ convertElem el@Element {..}
         add $ textbf inline
       | n == "p" = do
         (h, inline) <- convertInlineChildren el
-        add $ paragraph (h <> inline)
+        add $ paragraph ""
+        add (h <> inline)
       | n == "break" = add $ newline
       | n == "code" || n == "codebold" = do
         (h, inline) <- convertInlineChildren el
