@@ -1,0 +1,3 @@
+[submodule "vendor/HaXml"]
+	path = vendor/HaXml
+	url = git@github.com:beijaflor-io/HaXml

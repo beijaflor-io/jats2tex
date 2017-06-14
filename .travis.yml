@@ -158,6 +158,7 @@ before_install:
   fi
 
 install:
+- git submodule update --init --recursive
 - echo "$(ghc --version) [$(ghc --print-project-git-commit-id 2> /dev/null || echo '?')]"
 - if [ -f configure.ac ]; then autoreconf -i; fi
 - |
