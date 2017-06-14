@@ -50,6 +50,7 @@ library
       Text.JaTex
       Text.JaTex.JatsElements
       Text.JaTex.Parser
+      Text.JaTex.Template
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
   default-language: Haskell2010
