@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM heroku/heroku:16
 
 RUN apt-get update
 RUN apt-get install -y libicu-dev libgmp-dev
