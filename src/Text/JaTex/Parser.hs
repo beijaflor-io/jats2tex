@@ -7,6 +7,8 @@ import qualified Data.Text             as Text
 import qualified Data.Text.ICU.Convert as ICU
 import           Text.XML.Light
 
+-- import           Text.XML.HaXml
+
 type JATSDoc = [Content]
 
 readJatsFile :: FilePath -> IO Text

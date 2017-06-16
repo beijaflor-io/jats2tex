@@ -43,12 +43,13 @@ library
     , filepath
     , open-browser
     , polyparse
+    , unordered-containers
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
       JATSXML.Types
       Text.JaTex
-      Text.JaTex.JatsElements
+      Text.JaTex.Cmd.Main
       Text.JaTex.Parser
       Text.JaTex.Template
       Text.JaTex.TexWriter
@@ -82,6 +83,7 @@ executable jats2tex
     , filepath
     , open-browser
     , polyparse
+    , unordered-containers
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -117,6 +119,7 @@ executable jats2tex-web
     , filepath
     , open-browser
     , polyparse
+    , unordered-containers
     , jats2tex
     , yesod
     , Spock
@@ -163,6 +166,7 @@ test-suite hspec
     , filepath
     , open-browser
     , polyparse
+    , unordered-containers
     , base
     , hspec
     , QuickCheck

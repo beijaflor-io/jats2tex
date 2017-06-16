@@ -13,6 +13,7 @@ import           Control.Monad.State
 import           Control.Monad.Writer
 import           Data.Char              (isSpace)
 import           Data.List
+import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Text              as Text
 import           Debug.Trace
@@ -24,12 +25,15 @@ import           Text.XML.Light
 import           Text.JaTex.Parser
 import qualified Text.JaTex.Upgrade     as Upgrade
 
-type MonadTex m = MonadTexState m
-type MonadTexState m = MonadState TexState m
+type MonadTex m = (MonadState TexState m)
 type TexM = StateT TexState Identity
+
+data Template = Template { tPrelude :: Text
+                         }
 
 data TexState = TexState { tsFileName :: FilePath
                          , tsHead     :: LaTeXT Identity ()
+                         , tsTemplate :: Template
                          , tsBody     :: LaTeXT Identity ()
                          }
 
@@ -74,24 +78,33 @@ jatsXmlToLaTeX d = do
 convertNode
   :: MonadTex m
   => Content -> m ()
-convertNode (Elem e) | traceShow "elem" True= do
+convertNode (Elem e) -- | traceShow "elem" True
+    = do
+  add $ comment "elem"
   convertElem e
 convertNode (Text (CData CDataText str _))
     | str == "" || dropWhile isSpace str == ""
-      && traceShow "empty cdata" True
+      -- && traceShow "empty cdata" True
     =
       return ()
 convertNode (Text (CData CDataText str _))
-    | traceShow "cdata" True = do
+    -- | traceShow "cdata" True
+    = do
+  add $ comment "cdata"
   add $ fromString str
 convertNode (Text (CData _ str ml))
-    | traceShow "xml-cdata" True = do
+    -- | traceShow "xml-cdata" True
+    = do
+  add $ comment "xml-cdata"
   let cs = map (\e -> case e of
                        Elem e -> Elem e { elLine = ml
                                         }
                        _ -> e) (parseXML str)
   mapM_ convertNode cs
-convertNode (CRef _) | traceShow "ref" True = return ()
+convertNode (CRef _) -- | traceShow "ref" True
+    = do
+  add $ comment "ref"
+  return ()
 
 addHead m = modify (\ts -> ts { tsHead = tsHead ts <> m
                               })
@@ -134,34 +147,38 @@ convertElem el@Element {..}
         add $ do
           fromString "\n"
           comment " jats2tex requirements"
-          usepackage [] "keycommand"
-          textell $ TeXRaw $ Text.unlines
-            [ "% patch by Joseph Wright (\"bug in the definition of \\ifcommandkey (2010/04/27 v3.1415)\"),"
-            , "% https://tex.stackexchange.com/a/35794/"
-            , "\\begingroup"
-            , "  \\makeatletter"
-            , "  \\catcode`\\/=8 %"
-            , "  \\@firstofone"
-            , "    {"
-            , "      \\endgroup"
-            , "      \\renewcommand{\\ifcommandkey}[1]{%"
-            , "        \\csname @\\expandafter \\expandafter \\expandafter"
-            , "        \\expandafter \\expandafter \\expandafter \\expandafter"
-            , "        \\kcmd@nbk \\commandkey {#1}//{first}{second}//oftwo\\endcsname"
-            , "      }"
-            , "    }"
-            , "%=======================%"
-            , "\\newkeycommand+[\\|]{\\transparentimage}[opacity][origkeys][1]"
-            , "{%"
-            , "  \\begingroup"
-            , "  \\ifcommandkey{opacity}{|\\transparent|{\\commandkey{opacity}}}{}"
-            , "    |\\includegraphics|[\\commandkey{origkeys}]{#1}"
-            , "  \\endgroup%"
-            , "}"
-            ]
+          usepackage ["document"] "ragged2e"
+          -- usepackage [] "keycommand"
+          -- textell $
+          --   TeXRaw $
+          --   Text.unlines
+          --     [ "% patch by Joseph Wright (\"bug in the definition of \\ifcommandkey (2010/04/27 v3.1415)\"),"
+          --     , "% https://tex.stackexchange.com/a/35794/"
+          --     , "\\begingroup"
+          --     , "  \\makeatletter"
+          --     , "  \\catcode`\\/=8 %"
+          --     , "  \\@firstofone"
+          --     , "    {"
+          --     , "      \\endgroup"
+          --     , "      \\renewcommand{\\ifcommandkey}[1]{%"
+          --     , "        \\csname @\\expandafter \\expandafter \\expandafter"
+          --     , "        \\expandafter \\expandafter \\expandafter \\expandafter"
+          --     , "        \\kcmd@nbk \\commandkey {#1}//{first}{second}//oftwo\\endcsname"
+          --     , "      }"
+          --     , "    }"
+          --     , "%=======================%"
+          --     , "\\newkeycommand+[\\|]{\\transparentimage}[opacity][origkeys][1]"
+          --     , "{%"
+          --     , "  \\begingroup"
+          --     , "  \\ifcommandkey{opacity}{|\\transparent|{\\commandkey{opacity}}}{}"
+          --     , "    |\\includegraphics|[\\commandkey{origkeys}]{#1}"
+          --     , "  \\endgroup%"
+          --     , "}"
+          --     ]
           fromString "\n"
         (head, inline) <- convertInlineChildren el
-        add (begin "document" (head >> inline))
+        add (begin "document" (head >> maketitle >> inline))
+      | n == "?xml" = convertChildren el
       | n == "article-title"
         -- let lang = forM_ (lookupAttr' "xml:lang") fromString
        = do
@@ -169,31 +186,77 @@ convertElem el@Element {..}
         addHead $ title (h <> inline)
       | n == "contrib-group" -- && lookupAttr' "contrib-type" == Just "author" =
        = do
-        inline <- mapM (\e -> convertInlineNode e) elContent
+        r <- mapM (\e -> convertInlineChildren e) (elChildren el)
         addHead $
-          author $ forM_ (intercalate [comm0 "and"] (map (: []) inline)) id
+          author $
+          forM_
+            (intercalate
+               [comm0 "and"]
+               (map ((: []) . snd) (filter ((/= "") . runLaTeX . snd) r)))
+            id
       | n == "body" = do convertChildren el
       | n == "font" = do
-          (h, i) <- convertInlineChildren el
-          let prelude = case lookupAttr' "size" of
-                  Just fz ->do
-                      comm2 "fontsize" (fromString (fz <> "pt")) (fromString (show (read fz * 1.2 :: Double) <> "pt"))
-                      comm0 "selectfont"
-                  _       -> return ()
-          add $ textell (TeXBraces (runLaTeX (prelude <> h <> i)))
+        (h, i) <- convertInlineChildren el
+        let prelude =
+              case lookupAttr' "size" of
+                -- Just fz -> do
+                --   let fz' = read fz * 2
+                --   comm2
+                --     "fontsize"
+                --     (fromString (show fz' <> "pt"))
+                --     (fromString (show (fz' * 1.2 :: Double) <> "pt"))
+                --   comm0 "selectfont"
+                _ -> return ()
+        add $ textell (TeXBraces (runLaTeX (prelude <> h <> i)))
       | n == "contrib" = convertChildren el
       | n == "back" = return ()
       | n == "abstract" = do
         inline <- convertInlineNode (head elContent)
-        addHead $ comm1 "abstract" inline
-      | n == "name" = convertChildren el
-      -- | n == "img" =
-      --   add $
-      --   textell $ TeXComm "img" (map (OptArg . fromString) (words humanAttrs))
+        add $ comm1 "abstract" inline
+      | n == "name" = do
+        s <-
+          map snd <$>
+          mapM
+            convertInlineChildren
+            (findChildren (QName "surname" Nothing Nothing) el)
+        g <-
+          map snd <$>
+          mapM
+            convertInlineChildren
+            (findChildren (QName "given-names" Nothing Nothing) el)
+        add $
+          void $ do
+            sequence s
+            fromString ", "
+            sequence g
       | n == "surname" = do
         convertChildren el
-        add $ fromString ","
+        add $ fromString ", "
       | n == "given-names" = convertChildren el
+      | n == "pub-date" = do
+        d <-
+          map snd <$>
+          mapM
+            convertInlineChildren
+            (findChildren (QName "day" Nothing Nothing) el)
+        m <-
+          map snd <$>
+          mapM
+            convertInlineChildren
+            (findChildren (QName "month" Nothing Nothing) el)
+        y <-
+          map snd <$>
+          mapM
+            convertInlineChildren
+            (findChildren (QName "year" Nothing Nothing) el)
+        addHead $
+          date $
+          void $ do
+            sequence m
+            fromString "/"
+            sequence d
+            fromString "/"
+            sequence y
       | n == "kwd" = do
         (_, inline) <- convertInlineChildren el
         add $ textit inline
@@ -202,9 +265,17 @@ convertElem el@Element {..}
         add h
         add $ textbf inline
       | n == "p" = do
+        let align = lookupAttr' "align"
         (h, inline) <- convertInlineChildren el
-        add $ paragraph ""
-        add (h <> inline)
+        add $
+          begin
+            (case (Text.pack (fromMaybe "justify" align)) of
+               "center"  -> "Center"
+               "left"    -> "FlushLeft"
+               "right"   -> "FlushRight"
+               "justify" -> "justify"
+               _         -> "justify")
+            (h <> inline)
       | n == "break" = add $ newline
       | n == "code" || n == "codebold" = do
         (h, inline) <- convertInlineChildren el

@@ -32,6 +32,8 @@ dependencies:
 - filepath
 - open-browser
 - polyparse
+- unordered-containers
+# - wxHaskell
 
 library:
   source-dirs:
