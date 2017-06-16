@@ -198,7 +198,7 @@ convertElem el@Element {..}
       | n == "font" = do
         (h, i) <- convertInlineChildren el
         let prelude =
-              case lookupAttr' "size" of
+              case lookupAttr' "size"
                 -- Just fz -> do
                 --   let fz' = read fz * 2
                 --   comm2
@@ -206,6 +206,7 @@ convertElem el@Element {..}
                 --     (fromString (show fz' <> "pt"))
                 --     (fromString (show (fz' * 1.2 :: Double) <> "pt"))
                 --   comm0 "selectfont"
+                    of
                 _ -> return ()
         add $ textell (TeXBraces (runLaTeX (prelude <> h <> i)))
       | n == "contrib" = convertChildren el
@@ -267,16 +268,18 @@ convertElem el@Element {..}
       | n == "p" = do
         let align = lookupAttr' "align"
         (h, inline) <- convertInlineChildren el
-        add $
-          begin
-            (case (Text.pack (fromMaybe "justify" align)) of
-               "center"  -> "Center"
-               "left"    -> "FlushLeft"
-               "right"   -> "FlushRight"
-               "justify" -> "justify"
-               _         -> "justify")
-            (h <> inline)
-      | n == "break" = add $ newline
+        add $ do
+          let ma :: Maybe Text
+              ma =
+                case fromMaybe "justify" align of
+                  "center" -> Just "Center"
+                  "left"   -> Just "FlushLeft"
+                  "right"  -> Just "FlushRight"
+                  _        -> Nothing
+          case ma of
+            Just a -> begin a (h <> inline)
+            _      -> h <> inline
+      | n == "break" = add newline
       | n == "code" || n == "codebold" = do
         (h, inline) <- convertInlineChildren el
         add $ h <> texttt inline
