@@ -23,7 +23,9 @@ import           Text.LaTeX
 import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import           Text.XML.Light
+import           JATSXML.HTMLEntities
 
+import           System.Environment
 import           System.IO
 
 import           Text.JaTex.Parser
@@ -34,6 +36,7 @@ type MonadTex m = (MonadState TexState m, MonadIO m)
 type TexM = StateT TexState Identity
 
 data TexState = TexState { tsFileName :: FilePath
+                         , tsDebug :: Bool
                          , tsHead     :: LaTeXT Identity ()
                          , tsTemplate :: Template
                          , tsMetadata :: HashMap Text Text
@@ -46,6 +49,7 @@ emptyState = TexState { tsBody = mempty
                       , tsMetadata = mempty
                       , tsTemplate = defaultTemplate
                       , tsFileName = ""
+                      , tsDebug = False
                       }
 
 runLaTeX :: LaTeXT Identity () -> LaTeX
@@ -67,8 +71,10 @@ convert fp tmp i = do
                                       , "Reading: " <> fp
                                       , "Using Template: " <> show tmp
                                       ]
+  debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
   (_, t) <- runTexWriter emptyState { tsFileName = fp
                                     , tsTemplate = tmp
+                                    , tsDebug = debug
                                     } (jatsXmlToLaTeX i)
   return t
 
@@ -76,7 +82,7 @@ jatsXmlToLaTeX
   :: MonadTex m
   => JATSDoc -> m ()
 jatsXmlToLaTeX d = do
-  add $ comment
+  addComment
     (Text.pack ("jats2tex@" <> Upgrade.versionNumber Upgrade.currentVersion))
   mapM_ convertNode (concatMap cleanUp d)
 
@@ -84,15 +90,15 @@ convertNode
   :: MonadTex m
   => Content -> m ()
 convertNode (Elem e) = do
-  add $ comment "elem"
+  addComment "elem"
   convertElem e
 convertNode (Text (CData CDataText str _))
   | str == "" || dropWhile isSpace str == "" = return ()
 convertNode (Text (CData CDataText str _)) = do
-  add $ comment "cdata"
+  addComment "cdata"
   add $ fromString str
 convertNode (Text (CData _ str ml)) = do
-  add $ comment "xml-cdata"
+  addComment "xml-cdata"
   let cs =
         map
           (\e ->
@@ -101,9 +107,9 @@ convertNode (Text (CData _ str ml)) = do
                _      -> e)
           (parseXML str)
   mapM_ convertNode cs
-convertNode (CRef _) = do
-  add $ comment "ref"
-  return ()
+convertNode (CRef r) = do
+  addComment "ref"
+  add $ fromString (fromMaybe r (crefToString r))
 
 addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHead = tsHead ts <> m
@@ -113,31 +119,34 @@ add :: MonadState TexState m => LaTeXT Identity () -> m ()
 add m = modify (\ts -> ts { tsBody = tsBody ts <> m
                           })
 
+addComment c = do
+  isDebug <- tsDebug <$> get
+  when isDebug (add (comment c))
+
 convertElem
   :: MonadTex m
   => Element -> m ()
 convertElem el@Element {..} = do
   liftIO $ hPutStrLn stderr ("Entering: <" <> n <> " " <> humanAttrs <> ">")
-  TexState{tsTemplate} <- get
+  TexState {tsTemplate} <- get
   commentEl
   case runTemplate tsTemplate el of
-      Nothing -> run
-      Just ((c, _), l) -> do
-          liftIO $ Text.hPutStrLn stderr ("Matched " <> templateSelector c)
-          (head, inline) <- convertInlineChildren el
-          addHead head
-          add $ comm2 "renewcommand" "\\children" $ inline
-          add $ textell l
+    Nothing -> run
+    Just ((c, _), l) -> do
+      liftIO $ Text.hPutStrLn stderr ("Matched: " <> templateSelector c)
+      (head, inline) <- convertInlineChildren el
+      addHead head
+      add $ comm2 "renewcommand" (textell (TeXRaw "\\children")) $ inline
+      add $ textell l
   where
     lookupAttr' k =
       attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
     n = qName elName
-    commentEl =
-      add $
-      (comment
-         (Text.pack
-            (" <" <> n <> " " <> humanAttrs <> "> (" <> maybe "" show elLine <>
-             ")")))
+    commentEl = do
+      addComment
+        (Text.pack
+           (" <" <> n <> " " <> humanAttrs <> "> (" <> maybe "" show elLine <>
+            ")"))
     humanAttrs =
       unwords $
       map
@@ -153,6 +162,7 @@ convertElem el@Element {..} = do
           fromString "\n"
           comment " jats2tex requirements"
           usepackage ["document"] "ragged2e"
+          usepackage ["utf8x"] "inputenc"
           -- usepackage [] "keycommand"
           -- textell $
           --   TeXRaw $
@@ -182,7 +192,8 @@ convertElem el@Element {..} = do
           --     ]
           fromString "\n"
         (head, inline) <- convertInlineChildren el
-        add (begin "document" (head >> maketitle >> inline))
+        let prelude = textell $ TeXRaw $ "\\newcommand{\\children}{}"
+        add (begin "document" (prelude >> head >> maketitle >> inline))
       | n == "?xml" = convertChildren el
       | n == "article-title"
         -- let lang = forM_ (lookupAttr' "xml:lang") fromString

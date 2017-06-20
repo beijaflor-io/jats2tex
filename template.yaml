@@ -1,2 +1,2 @@
-"b": |
-  textbf{\children}
+b: |
+  \textbf{\children}
