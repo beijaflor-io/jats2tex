@@ -5,6 +5,7 @@
 build: off
 
 before_test:
+- set PATH=C:\Program Files\Git\mingw64\bin;%PATH%
 - git submodule update --init --recursive
 - curl -sS -ostack.zip -L --insecure http://www.stackage.org/stack/windows-i386
 - 7z x stack.zip stack.exe
