@@ -12,6 +12,9 @@ package: FORCE
 
 full-release: FORCE
 	make release
+	make deploy
+
+deploy: FORCE
 	docker build -t jats2tex:$(tag) .
 	heroku container:push
 
