@@ -3,6 +3,13 @@ tag=$(shell git describe --tags)
 build: FORCE
 	stack build
 
+build-linux: FORCE
+	stack docker pull
+	stack build --docker --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
+
+package: FORCE
+	./bin/stack-fpm jats2tex $(tag)
+
 full-release: FORCE
 	make release
 	docker build -t jats2tex:$(tag) .
@@ -10,7 +17,8 @@ full-release: FORCE
 
 release: FORCE
 	echo $(tag)
-	./bin/stack-fpm jats2tex $(tag)
+	make build-linux
+	make package
 	github-release release -u beijaflor-io -r jats2tex -t $(tag) -n $(tag)
 	make upload
 

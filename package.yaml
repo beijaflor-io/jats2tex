@@ -74,6 +74,19 @@ executables:
     - xml
     - jats2tex
 
+  jats2tex-build-installer:
+    main: Main.hs
+    source-dirs:
+    - ./bin/windows-installer
+    dependencies:
+    - nsis
+    when:
+      condition: 'os(windows)'
+      then:
+        buildable: true
+      else:
+        buildable: false
+
 #tests:
   #hspec:
     #main: Spec.hs
