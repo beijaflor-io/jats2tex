@@ -3,12 +3,14 @@ module Text.JaTex ( readJats
                   , jatsXmlToLaTeXText
                   ) where
 
+import           Control.Monad.IO.Class
 import           Text.LaTeX
 
 import           Text.JaTex.Parser
+import           Text.JaTex.Template
 import           Text.JaTex.TexWriter
 
-jatsXmlToLaTeXText :: FilePath -> JATSDoc -> Text
-jatsXmlToLaTeXText fp cs =
-  let t = convert fp cs
-  in render t
+jatsXmlToLaTeXText :: MonadIO m => FilePath -> Template -> JATSDoc -> m Text
+jatsXmlToLaTeXText fp tmp cs = do
+  t <- convert fp tmp cs
+  return $ render t

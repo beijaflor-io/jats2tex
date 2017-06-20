@@ -23,6 +23,7 @@ import           Web.Spock
 import           Web.Spock.Config
 
 import           Text.JaTex
+import qualified Text.JaTex.Template           as Template
 
 curlExample :: Text -> Text
 curlExample host = "curl " <> host <> " -F \"body=@./`echo ./something.xml`\""
@@ -164,28 +165,31 @@ $doctype 5
 
 main :: IO ()
 main = do
-    port <- (fromMaybe 3000 . fmap read) <$> lookupEnv "PORT"
-    host <- (Text.pack . fromMaybe ("localhost:" <> show port)) <$> lookupEnv "HOST"
-    spockCfg <- defaultSpockCfg () PCNoDatabase ()
-    runSpock port $ spock spockCfg $ do
-        middleware (staticPolicy (addBase "static"))
-
-        get "/" (getHome host)
-
-        post "/form" $ do
-            pkg <- param' "body"
-            let !etex = jatsXmlToLaTeXText "none" $ parseJATS pkg
+  port <- maybe 3000 read <$> lookupEnv "PORT"
+  host <-
+    (Text.pack . fromMaybe ("localhost:" <> show port)) <$> lookupEnv "HOST"
+  spockCfg <- defaultSpockCfg () PCNoDatabase ()
+  runSpock port $
+    spock spockCfg $ do
+      middleware (staticPolicy (addBase "static"))
+      get "/" (getHome host)
+      post "/form" $ do
+        pkg <- param' "body"
+        !etex <-
+          liftIO $
+          jatsXmlToLaTeXText "none" Template.defaultTemplate $ parseJATS pkg
+        text etex
+      post "/" $ do
+        fs <- files
+        case HashMap.lookup "body" fs of
+          Nothing -> resError $ Text.unlines ["Missing `body` parameter"]
+          Just UploadedFile {..} -> do
+            !etex <-
+              liftIO
+                (jatsXmlToLaTeXText "none" Template.defaultTemplate =<<
+                 readJats uf_tempLocation)
             text etex
-
-        post "/" $ do
-            fs <- files
-            case HashMap.lookup "body" fs of
-                Nothing -> resError $ Text.unlines [ "Missing `body` parameter"
-                                                   ]
-                Just UploadedFile{..} -> do
-                    !etex <- liftIO (jatsXmlToLaTeXText "none" <$> readJats uf_tempLocation)
-                    text etex
   where
     resError e = do
-        setStatus status422
-        text e
+      setStatus status422
+      text e

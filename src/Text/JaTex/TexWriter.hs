@@ -10,62 +10,67 @@ module Text.JaTex.TexWriter
 
 import           Control.Monad.Identity
 import           Control.Monad.State
+import           Data.HashMap.Strict (HashMap)
+import qualified Data.HashMap.Strict as HashMap
 import           Control.Monad.Writer
 import           Data.Char              (isSpace)
 import           Data.List
 import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Text              as Text
-import           Debug.Trace
+import qualified Data.Text.IO           as Text
 import           Text.LaTeX
 import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import           Text.XML.Light
 
+import           System.IO
+
 import           Text.JaTex.Parser
+import           Text.JaTex.Template
 import qualified Text.JaTex.Upgrade     as Upgrade
 
-type MonadTex m = (MonadState TexState m)
+type MonadTex m = (MonadState TexState m, MonadIO m)
 type TexM = StateT TexState Identity
-
-data Template = Template { tPrelude :: Text
-                         }
 
 data TexState = TexState { tsFileName :: FilePath
                          , tsHead     :: LaTeXT Identity ()
                          , tsTemplate :: Template
+                         , tsMetadata :: HashMap Text Text
                          , tsBody     :: LaTeXT Identity ()
                          }
 
-data TexWriterCmd = AddHead (LaTeXT Identity ())
-                  | AddBody (LaTeXT Identity ())
-
+emptyState :: TexState
 emptyState = TexState { tsBody = mempty
                       , tsHead = mempty
+                      , tsMetadata = mempty
+                      , tsTemplate = defaultTemplate
                       , tsFileName = ""
                       }
-
-isHead (AddHead {}) = True
-isHead _            = False
-
-isBody (AddBody {}) = True
-isBody _            = False
 
 runLaTeX :: LaTeXT Identity () -> LaTeX
 runLaTeX = snd . runIdentity . runLaTeXT
 
-runTexWriter :: TexState -> TexM a -> (TexState, LaTeX)
-runTexWriter st w =
-    let (_, newState) = runState w st
-        hCmds = tsHead newState
+runTexWriter
+  :: Monad m =>
+     TexState -> StateT TexState m a -> m (TexState, LaTeX)
+runTexWriter st w = do
+    (_, newState) <- runStateT w st
+    let hCmds = tsHead newState
         bCmds = tsBody newState
         (_, r) = runIdentity $ runLaTeXT (hCmds <> bCmds)
-    in (newState, r)
+    return $ (newState, r)
 
-convert :: FilePath -> JATSDoc -> LaTeX
-convert fp i = let (_, t) = (runTexWriter emptyState { tsFileName = fp
-                                                     } (jatsXmlToLaTeX i))
-               in t
+convert :: MonadIO m => String -> Template -> JATSDoc -> m LaTeX
+convert fp tmp i = do
+  liftIO $ hPutStrLn stderr $ unlines [ "jats2tex@" <> (Upgrade.versionName Upgrade.currentVersion)
+                                      , "Reading: " <> fp
+                                      , "Using Template: " <> show tmp
+                                      ]
+  (_, t) <- runTexWriter emptyState { tsFileName = fp
+                                    , tsTemplate = tmp
+                                    } (jatsXmlToLaTeX i)
+  return t
 
 jatsXmlToLaTeX
   :: MonadTex m
@@ -73,63 +78,66 @@ jatsXmlToLaTeX
 jatsXmlToLaTeX d = do
   add $ comment
     (Text.pack ("jats2tex@" <> Upgrade.versionNumber Upgrade.currentVersion))
-  mapM_ convertNode d
+  mapM_ convertNode (concatMap cleanUp d)
 
 convertNode
   :: MonadTex m
   => Content -> m ()
-convertNode (Elem e) -- | traceShow "elem" True
-    = do
+convertNode (Elem e) = do
   add $ comment "elem"
   convertElem e
 convertNode (Text (CData CDataText str _))
-    | str == "" || dropWhile isSpace str == ""
-      -- && traceShow "empty cdata" True
-    =
-      return ()
-convertNode (Text (CData CDataText str _))
-    -- | traceShow "cdata" True
-    = do
+  | str == "" || dropWhile isSpace str == "" = return ()
+convertNode (Text (CData CDataText str _)) = do
   add $ comment "cdata"
   add $ fromString str
-convertNode (Text (CData _ str ml))
-    -- | traceShow "xml-cdata" True
-    = do
+convertNode (Text (CData _ str ml)) = do
   add $ comment "xml-cdata"
-  let cs = map (\e -> case e of
-                       Elem e -> Elem e { elLine = ml
-                                        }
-                       _ -> e) (parseXML str)
+  let cs =
+        map
+          (\e ->
+             case e of
+               Elem e -> Elem e {elLine = ml}
+               _      -> e)
+          (parseXML str)
   mapM_ convertNode cs
-convertNode (CRef _) -- | traceShow "ref" True
-    = do
+convertNode (CRef _) = do
   add $ comment "ref"
   return ()
 
+addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHead = tsHead ts <> m
                               })
 
+add :: MonadState TexState m => LaTeXT Identity () -> m ()
 add m = modify (\ts -> ts { tsBody = tsBody ts <> m
                           })
 
 convertElem
   :: MonadTex m
   => Element -> m ()
-convertElem el@Element {..}
-  | traceShow ("Entering", n) True = do
-    commentEl
-    run
-  -- commentEndEl
+convertElem el@Element {..} = do
+  liftIO $ hPutStrLn stderr ("Entering: <" <> n <> " " <> humanAttrs <> ">")
+  TexState{tsTemplate} <- get
+  commentEl
+  case runTemplate tsTemplate el of
+      Nothing -> run
+      Just ((c, _), l) -> do
+          liftIO $ Text.hPutStrLn stderr ("Matched " <> templateSelector c)
+          (head, inline) <- convertInlineChildren el
+          addHead head
+          add $ comm2 "renewcommand" "\\children" $ inline
+          add $ textell l
   where
     lookupAttr' k =
       attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
     n = qName elName
-    commentEl = do
+    commentEl =
       add $
-        (comment
-           (Text.pack
-              (" <" <> n <> " " <> humanAttrs <> "> (" <> maybe "" show elLine <>
-               ")")))
+      (comment
+         (Text.pack
+            (" <" <> n <> " " <> humanAttrs <> "> (" <> maybe "" show elLine <>
+             ")")))
     humanAttrs =
       unwords $
       map
@@ -138,9 +146,6 @@ convertElem el@Element {..}
     -- commentEndEl =
     --   add $
     --   (comment (Text.pack ("</" <> n <> "> (" <> maybe "" show elLine <> "))")))
-    run
-      :: MonadTex m
-      => m ()
     run
       | n == "article" = do
         add $ documentclass [] article
@@ -273,12 +278,12 @@ convertElem el@Element {..}
               ma =
                 case fromMaybe "justify" align of
                   "center" -> Just "Center"
-                  "left"   -> Just "FlushLeft"
-                  "right"  -> Just "FlushRight"
-                  _        -> Nothing
+                  "left" -> Just "FlushLeft"
+                  "right" -> Just "FlushRight"
+                  _ -> Nothing
           case ma of
             Just a -> begin a (h <> inline)
-            _      -> h <> inline
+            _ -> h <> inline
       | n == "break" = add newline
       | n == "code" || n == "codebold" = do
         (h, inline) <- convertInlineChildren el
@@ -299,25 +304,27 @@ convertElem el@Element {..}
             -- inline <- convertInlineChildren el
             -- add $ begin (Text.pack n) inline
 
-removeSpecial = map (\c -> if c == ':'
-                        then '-'
-                        else c)
+removeSpecial :: [Char] -> [Char]
+removeSpecial =
+  map
+    (\c ->
+       if c == ':'
+         then '-'
+         else c)
 
 convertInlineNode :: MonadTex m => Content -> m (LaTeXT Identity ())
 convertInlineNode c = do
-    st <- get
-    let (newState, _) = runTexWriter (st { tsHead = mempty
-                                         , tsBody = mempty
-                                         }) (convertNode c)
-    return (tsBody newState)
+  st <- get
+  (newState, _) <-
+    runTexWriter (st {tsHead = mempty, tsBody = mempty}) (convertNode c)
+  return (tsBody newState)
 
 convertInlineChildren :: MonadTex m => Element -> m (LaTeXT Identity (), LaTeXT Identity ())
 convertInlineChildren el = do
-    st <- get
-    let (newState, _) = runTexWriter (st { tsHead = mempty
-                                         , tsBody = mempty
-                                         }) (convertChildren el)
-    return (tsHead newState, tsBody newState)
+  st <- get
+  (newState, _) <-
+    runTexWriter (st {tsHead = mempty, tsBody = mempty}) (convertChildren el)
+  return (tsHead newState, tsBody newState)
 
 convertChildren :: MonadTex m => Element -> m ()
 convertChildren Element{elContent} = mapM_ convertNode elContent

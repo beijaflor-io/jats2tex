@@ -33,6 +33,8 @@ dependencies:
 - open-browser
 - polyparse
 - unordered-containers
+- yaml
+- shakespeare
 # - wxHaskell
 
 library:
@@ -63,6 +65,14 @@ executables:
     - blaze-html
     - here
     - wai-middleware-static
+
+  jats2tex-remove-c-data:
+    main: RemoveCData.hs
+    source-dirs:
+    - ./bin
+    dependencies:
+    - xml
+    - jats2tex
 
 #tests:
   #hspec:

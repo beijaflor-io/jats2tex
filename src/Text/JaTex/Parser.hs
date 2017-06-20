@@ -1,12 +1,15 @@
+{-# LANGUAGE RecordWildCards #-}
 module Text.JaTex.Parser
   where
 
 import qualified Data.ByteString       as ByteString
+import           Data.Maybe
 import           Data.Text             (Text)
 import qualified Data.Text             as Text
 import qualified Data.Text.ICU.Convert as ICU
 import           Text.XML.Light
 
+import           JATSXML.HTMLEntities
 -- import           Text.XML.HaXml
 
 type JATSDoc = [Content]
@@ -25,3 +28,13 @@ readJats fp = parseJATS <$> readJatsFile fp
 
 parseJATS :: Text -> JATSDoc
 parseJATS = parseXML . Text.unpack
+
+cleanUp :: Content -> [Content]
+cleanUp t@(Text (CData CDataText _ _)) = [t]
+cleanUp (Text (CData _ str _)) = concatMap cleanUp $ parseXML str
+cleanUp (CRef ref) =
+  [Text (CData CDataText (fromMaybe ref (crefToString ref)) Nothing)]
+cleanUp (Elem e@Element {..})
+  | not (null elContent) =
+    [Elem (e {elContent = concatMap cleanUp elContent})]
+cleanUp c = [c]

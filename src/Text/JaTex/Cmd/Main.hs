@@ -13,6 +13,8 @@ import           System.IO
 import           Options.Applicative
 import           Text.JaTex
 import           Text.JaTex.Parser
+import           Text.JaTex.Template (Template)
+import qualified Text.JaTex.Template as Template
 import qualified Text.JaTex.Upgrade  as Upgrade
 
 
@@ -52,11 +54,12 @@ optionsPI =
     (fullDesc <> progDesc "Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE"
     <> header "jats2tex - Customizable JATS to LaTeX Conversion")
 
-run :: FilePath -> Handle -> Text -> IO ()
+run :: FilePath -> Handle -> Template -> IO ()
 run inputFile outputHandle templateFile = do
   -- inputFileC <- Text.unpack <$> readJatsFile inputFile
   contents <- readJats inputFile
-  Text.hPutStr outputHandle (jatsXmlToLaTeXText inputFile contents)
+  result <- jatsXmlToLaTeXText inputFile templateFile contents
+  Text.hPutStr outputHandle result
   hFlush outputHandle
 
 defaultMain :: IO ()
@@ -70,8 +73,8 @@ defaultMain = do
           Just f  -> openFile f WriteMode
       templateFile <-
         case optsTemplateFile of
-          Nothing -> return ""
-          Just f  -> Text.readFile f
+          Nothing -> return Template.defaultTemplate
+          Just f  -> Template.parseTemplateFile f
       run optsInputFile outputFile templateFile
     RunUpgrade -> Upgrade.runUpgrade
     RunVersion -> Upgrade.putVersionInfo
