@@ -27,6 +27,9 @@ build-osx: FORCE
 	stack build --extra-lib-dirs=/usr/local/opt/icu4c/lib --extra-include-dirs=/usr/local/opt/icu4c/include
 
 example: FORCE
-	stack run -- -- ./example1.xml ./example1.tex && docker run -it -v `pwd`:/tmp latexindent /app/latexindent.pl /tmp/example1.tex 
+	stack run -- -- ./examples/S0250-54602016000400001.xml --output ./example-output.tex
+	./latexindent.sh ./example-output.tex > ./example-output.fmt.tex
+	mv ./example-output.fmt.tex ./example-output.tex
+	latex ./example-output.tex
 
 FORCE:

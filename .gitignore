@@ -24,3 +24,7 @@ dist
 *.pyc
 .tern-port
 .#*
+example-output.pdf
+example-output.log
+example-output.dvi
+indent.log
