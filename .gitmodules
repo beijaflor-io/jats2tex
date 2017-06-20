@@ -4,3 +4,6 @@
 [submodule "vendor/latexindent.pl"]
 	path = vendor/latexindent.pl
 	url = https://github.com/beijaflor-io/latexindent.pl
+[submodule "vendor/text-icu"]
+	path = vendor/text-icu
+	url = https://github.com/beijaflor-io/text-icu
