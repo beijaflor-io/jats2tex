@@ -28,3 +28,8 @@ example-output.pdf
 example-output.log
 example-output.dvi
 indent.log
+jats2tex.exe
+jats2tex-web.exe
+jats2tex-install.exe
+jats2tex-install.nsi
+tmp-local-install-root
