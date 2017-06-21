@@ -46,6 +46,7 @@ library
     , unordered-containers
     , yaml
     , shakespeare
+    , cryptohash
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -88,6 +89,7 @@ executable jats2tex
     , unordered-containers
     , yaml
     , shakespeare
+    , cryptohash
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -127,6 +129,7 @@ executable jats2tex-build-installer
     , unordered-containers
     , yaml
     , shakespeare
+    , cryptohash
     , nsis
   if os(windows)
     buildable: True
@@ -164,6 +167,7 @@ executable jats2tex-remove-c-data
     , unordered-containers
     , yaml
     , shakespeare
+    , cryptohash
     , xml
     , jats2tex
   other-modules:
@@ -204,6 +208,7 @@ executable jats2tex-web
     , unordered-containers
     , yaml
     , shakespeare
+    , cryptohash
     , jats2tex
     , yesod
     , Spock

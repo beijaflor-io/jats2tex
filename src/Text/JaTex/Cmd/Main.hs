@@ -41,10 +41,12 @@ options =
   Options <$>
   optional
     (strOption
-       (long "output" <> metavar "OUTPUT_FILE" <> help "LaTeX Output File")) <*>
+       (short 'o' <> long "output" <> metavar "OUTPUT_FILE" <>
+        help "LaTeX Output File")) <*>
   optional
     (strOption
-       (long "template" <> metavar "TEMPLATE_FILE" <> help "Template File")) <*>
+       (short 't' <> long "template" <> metavar "TEMPLATE_FILE" <>
+        help "Template File")) <*>
   argument str (metavar "INPUT_FILE" <> help "XML Input File")
 
 optionsPI :: ParserInfo Options
