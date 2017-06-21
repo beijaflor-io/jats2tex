@@ -6,11 +6,13 @@ article:
     @@requirements
 
     \begin{document}
+
     @@heads
 
     \maketitle
 
     @@bodies
+
     \end{document}
 
 article-title:
@@ -26,13 +28,13 @@ name: |
   findChildren "surname"
   )@@, @@(
   findChildren "given-names"
-  )@@@@children
+  )@@
 
 contrib-group:
   head: |
     \author{
       @@(
-        intercalate (raw "and") (elements context)
+        intercalate (raw "\\and") =<< elements context
       )@@
     }
 

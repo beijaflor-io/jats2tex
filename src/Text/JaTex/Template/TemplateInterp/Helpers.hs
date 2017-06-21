@@ -32,7 +32,7 @@ elements tc = do
     r <- mapM convertInlineElem (elChildren el)
     let heads = concatMap fst r :: [LaTeXT Identity ()]
         bodies = concatMap snd r
-    return $ heads <> bodies
+    return (filter ((/= "") . render . snd . runIdentity . runLaTeXT) (heads <> bodies))
 
 -- test = do
 --   r <- intercalate (raw "and") [ textbf "1"
