@@ -21,7 +21,7 @@ contrib-group:
   head: |
     \author{
       @@(
-        @@(intercalate "\and" children)
+        intercalate "\and" children
       )
     }
 

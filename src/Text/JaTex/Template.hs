@@ -7,7 +7,7 @@ module Text.JaTex.Template
 
 import           Control.Monad
 import           Control.Monad.Identity
-import           Data.Aeson             (Value (..))
+import           Data.Aeson             (Result (..), Value (..), fromJSON)
 import qualified Data.ByteString
 import           Data.Either
 import qualified Data.HashMap.Strict    as HashMap
@@ -15,6 +15,7 @@ import           Data.Maybe
 import           Data.Text              (Text)
 import qualified Data.Text              as Text
 import qualified Data.Text.IO           as Text
+import           Data.Yaml
 import qualified Data.Yaml              as Yaml
 import           System.Exit
 import           System.IO
@@ -30,6 +31,15 @@ data ConcreteTemplateNode = ConcreteTemplateNode
   , templateHead     :: Text
   , templateContent  :: Text
   } deriving (Show)
+
+instance Yaml.FromJSON ConcreteTemplateNode where
+  parseJSON (String s) = return $ ConcreteTemplateNode "" "" s
+  parseJSON (Object o) = verboseForm
+    where
+      verboseForm =
+        ConcreteTemplateNode "" <$> (fromMaybe "" <$> o .:? "head") <*>
+        (fromMaybe "" <$> o .:? "content")
+  parseJSON _ = fail "Template inválido"
 
 data TemplateNode = TemplateNode
   { templatePredicate :: NodeSelector
@@ -153,34 +163,11 @@ parseCTemplateFromJson :: Value -> Either [Text] [ConcreteTemplateNode]
 parseCTemplateFromJson (Object o) =
   mergeEithers $ HashMap.foldrWithKey parsePair [] o
   where
-    parsePair k (Object o) m =
-      case HashMap.lookup "content" o of
-        Nothing ->
-          Left
-            ("Objeto na chave `" <> k <>
-             "` deve ter no mínimo a propriedade `content`") :
-          m
-        Just (String v) ->
-          Right
-            ConcreteTemplateNode
-            { templateHead =
-                maybe
-                  ""
-                  (\case
-                     String s -> s
-                     _ -> "")
-                  (HashMap.lookup "head" o)
-            , templateSelector = k
-            , templateContent = v
-            } :
-          m
-        Just _ -> Left ("Tipo inválido na chave `" <> k <> ".content`") : m
-    parsePair k (String v) m =
-      Right
-        ConcreteTemplateNode
-        {templateSelector = k, templateHead = "", templateContent = v} :
-      m
-    parsePair k _ m = Left ("Tipo inválido para chave `" <> k <> "`") : m
+    parsePair k v m =
+      let mctn = fromJSON v :: Result ConcreteTemplateNode
+      in case mctn of
+           Error e     -> Left (Text.pack e) : m
+           Success ctn -> Right ctn {templateSelector = k} : m
 parseCTemplateFromJson _ = Left ["Template inválido, o formato esperado é `seletor: 'template'`"]
 
 newtype Template =
