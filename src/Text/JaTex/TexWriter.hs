@@ -1,3 +1,4 @@
+{-# LANGUAGE RankNTypes #-}
 {-# LANGUAGE ConstraintKinds       #-}
 {-# LANGUAGE FlexibleContexts      #-}
 {-# LANGUAGE NamedFieldPuns        #-}
@@ -9,6 +10,8 @@ module Text.JaTex.TexWriter
   where
 
 import qualified Language.Haskell.Interpreter       as Hint
+import qualified Text.LaTeX.Base.Parser             as LaTeX
+import qualified Language.Haskell.Interpreter.Unsafe       as Hint
 import Data.ByteString.Char8 as ByteString (unpack)
 import Crypto.Hash
 import           Control.Monad.Identity
@@ -27,27 +30,41 @@ import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import           Text.XML.Light
 import           JATSXML.HTMLEntities
-
+import Data.Typeable
+import qualified Text.Megaparsec as Megaparsec
+import           Control.Monad.Catch
+import           Control.Monad
+import           Control.Monad.Identity
+import           Control.Monad.IO.Class
+import           Data.Aeson                         (Result (..), Value (..),
+                                                     fromJSON)
+import qualified Data.ByteString
+import           Data.Either
+import qualified Data.HashMap.Strict                as HashMap
+import           Data.Text                          (Text)
+import qualified Data.Text                          as Text
+import qualified Data.Text.IO                       as Text
+import           Data.Yaml                          ()
+import qualified Data.Yaml                          as Yaml
+import qualified Language.Haskell.Interpreter       as Hint
+import           System.Exit
+import           System.IO
+import           System.IO.Unsafe
+import           Text.LaTeX
+import           Text.LaTeX.Base.Class
+import qualified Text.LaTeX.Base.Parser             as LaTeX
+import           Text.LaTeX.Base.Syntax
+import           Text.XML.Light
 import           Debug.Trace
 import           System.Environment
 import           System.IO
-
 import           Text.JaTex.Parser
 import           Text.JaTex.Template
+import           Text.JaTex.Template.TemplateInterp
+import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.Types
 import qualified Text.JaTex.Upgrade     as Upgrade
 import           Text.JaTex.Util
-
-type MonadTex m = (MonadState TexState m, MonadIO m)
-type TexM = StateT TexState Identity
-
-data TexState = TexState { tsFileName :: FilePath
-                         , tsDebug :: Bool
-                         , tsTemplate :: Template
-                         , tsMetadata :: HashMap Text Text
-                         , tsHeadRev     :: [LaTeXT Identity ()]
-                         , tsBodyRev     :: [LaTeXT Identity ()]
-                         }
 
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
@@ -61,24 +78,22 @@ emptyState = TexState { tsBodyRev = mempty
 tsHead = reverse . tsHeadRev
 tsBody = reverse . tsBodyRev
 
-runTexWriter
-  :: Monad m =>
-     TexState -> StateT TexState m a -> m (TexState, LaTeX)
+-- runTexWriter
+--   :: Monad m =>
+--      TexState -> StateT TexState m a -> m (TexState, LaTeX)
 runTexWriter st w = do
-  (_, newState) <- runStateT w st
+  (o, newState) <- runStateT w st
   let hCmds = tsHead newState
       bCmds = tsBody newState
       (_, r) = runIdentity $ runLaTeXT (sequence_ (hCmds <> bCmds))
-  return (newState, r)
+  return (newState, r, o)
 
-convert :: MonadIO m => String -> Template -> JATSDoc -> m LaTeX
 convert fp tmp i = do
   liftIO $ hPutStrLn stderr $ unlines [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
                                       , "Reading: " <> fp
-                                      , "Using Template: " <> show tmp
                                       ]
   debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
-  (_, t) <- runTexWriter emptyState { tsFileName = fp
+  (_, t, _) <- runTexWriter emptyState { tsFileName = fp
                                     , tsTemplate = tmp
                                     , tsDebug = debug
                                     } (jatsXmlToLaTeX i)
@@ -130,15 +145,15 @@ convertNode (CRef r) = do
   addComment "ref"
   add $ fromString (fromMaybe r (crefToString r))
 
-addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
+addHead :: MonadState (TexState) m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHeadRev = m:tsHeadRev ts
                               })
 
-add :: MonadState TexState m => LaTeXT Identity () -> m ()
+add :: MonadState (TexState) m => LaTeXT Identity () -> m ()
 add m = modify (\ts -> ts { tsBodyRev = m:tsBodyRev ts
                           })
 
-addComment :: MonadState TexState m => Text -> m ()
+addComment :: MonadState (TexState) m => Text -> m ()
 addComment c = do
   isDebug <- tsDebug <$> get
   when isDebug (add (comment c))
@@ -153,8 +168,13 @@ convertElem el@Element {..} = do
   case findTemplate tsTemplate templateContext of
     Nothing -> run
     Just (c, t) -> do
-      liftIO $ Text.hPutStrLn stderr ("Matched: " <> templateSelector c)
       (h, b) <- templateApply t templateContext
+      liftIO $ do
+          putStrLn "Template:"
+          print c
+          putStrLn "Ouput:"
+          Text.putStrLn (render (runLaTeX h))
+          Text.putStrLn (render (runLaTeX b))
       addHead h
       add b
   where
@@ -176,38 +196,11 @@ convertElem el@Element {..} = do
     --   (comment (Text.pack ("</" <> n <> "> (" <> maybe "" show elLine <> "))")))
     getTemplateContext = do
       (h, i) <- convertInlineChildren el
-      return TemplateContext {tcHeads = h, tcBodies = i, tcElement = el}
+      st <- get
+      return
+        TemplateContext
+        {tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
     run
-      -- | n == /article" = do
-      --   add $ documentclass [] article >> fromString "\n"
-      --   (h, i) <- convertInlineChildren el
-      --   add $
-      --     begin "document" $ do
-      --       sequence_ h
-      --       maketitle
-      --       sequence_ i
-      -- | n == "?xml" = convertChildren el
-      -- | n == "article-title" = do
-      --   (h, inline) <- convertInlineChildren el
-      --   addHead $ title (sequence_ (h <> inline))
-      -- | n == "contrib-group" -- && lookupAttr' "contrib-type" == Just "author" =
-      --  = do
-      --   r <- mapM convertInlineChildren (elChildren el)
-      --   addHead $
-      --     author $
-      --     forM_
-      --       (intercalate
-      --          [comm0 "and"]
-      --          (map
-      --             ((: []) . snd)
-      --             (filter ((/= "") . runLaTeX . map . snd) r)))
-      --       id
-      -- | n == "body" = convertChildren el
-      -- | n == "font" = do
-      --   (h, i) <- convertInlineChildren el
-      --   add $ textell (TeXBraces (runLaTeX (sequence_ (h <> i))))
-      -- | n == "contrib" = convertChildren el
-      -- | n == "back" = return ()
       -- | n == "abstract" = do
       --   (h, i) <- convertInlineNode (head elContent)
       --   add $ comm1 "abstract" (sequence_ (h <> i))
@@ -284,9 +277,9 @@ convertElem el@Element {..} = do
      =
       case elContent of
         [] -> return ()
-        _ ->
+        _
             -- liftIO $ hPutStrLn stderr ("[warning] Ignoring tag " <> n)
-            convertChildren el
+         -> convertChildren el
 
 removeSpecial :: String -> String
 removeSpecial =
@@ -297,29 +290,29 @@ removeSpecial =
          else c)
 
 convertInlineNode
-  :: (MonadState TexState m, MonadIO m) =>
+  :: MonadTex m =>
      Content -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineNode c
-    | traceShow ("convertInlineNode", c) True = do
-    -- = do
+convertInlineNode c = do
   st <- get
-  (newState, _) <-
+  (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertNode c)
   return (tsHead newState, tsBody newState)
 
 convertInlineChildren :: MonadTex m => Element -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineChildren el
-    | traceShow "convertInlineChildren" True = do
+convertInlineChildren el = do
   st <- get
-  (newState, _) <-
+  (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertChildren el)
   return (tsHead newState, tsBody newState)
 
+convertInlineElem :: MonadTex m => Element -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
+convertInlineElem el = do
+  st <- get
+  (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertElem el)
+  return (tsHead newState, tsBody newState)
+
 convertChildren :: MonadTex m => Element -> m ()
-convertChildren Element{elContent}
-    | traceShow "convertChildren" True = do
-    -- =
-        mapM_ convertNode elContent
+convertChildren Element {elContent} = mapM_ convertNode elContent
 
 comm2
   :: LaTeXC l
@@ -330,3 +323,224 @@ begin
   :: Monad m
   => Text -> LaTeXT m () -> LaTeXT m ()
 begin n c = between c (raw ("\\begin{" <> n <> "}")) (raw ("\\end{" <> n <> "}"))
+
+-- Template Execution
+
+templateApply
+  :: MonadTex m
+  => TemplateNode (StateT TexState IO)
+  -> TemplateContext
+  -> m (LaTeXT Identity (), LaTeXT Identity ())
+templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc =
+    (,) <$> applyTemplateToEl templateLaTeXHead tc <*>
+    applyTemplateToEl templateLaTeX tc
+
+runPredicate :: NodeSelector -> NodeSelector -> Bool
+runPredicate s t = t == s
+
+
+findTemplate :: Template -> TemplateContext -> Maybe (ConcreteTemplateNode, TemplateNode (StateT TexState IO))
+findTemplate ts el = run ts el
+  where
+    run (Template []) _ = Nothing
+    run (Template (p@(_, t@TemplateNode{..}):ps)) el =
+        if runPredicate templatePredicate targetName
+        then Just p
+        else run (Template ps) el
+    targetName = showQName (elName (tcElement el))
+
+runTemplate
+  :: MonadTex m
+  => Template
+  -> TemplateContext
+  -> m (Maybe ((ConcreteTemplateNode, TemplateNode (StateT TexState IO)), (LaTeXT Identity (), LaTeXT Identity ())))
+runTemplate ts el =
+  case findTemplate ts el of
+    Nothing -> return Nothing
+    Just p@(_, t) -> do
+      liftIO $ hPutStrLn stderr "Found template, applying..."
+      r <- templateApply t el
+      return $ Just (p, r)
+
+applyTemplateToEl :: MonadTex m => PreparedTemplate (StateT TexState IO) -> TemplateContext -> m (LaTeXT Identity ())
+applyTemplateToEl l e = do
+  rs <- mapM (evalNode e) l
+  return $ textell $ TeXRaw $ Text.concat rs
+
+evalNode
+  :: MonadTex m
+  => TemplateContext -> PreparedTemplateNode (StateT (TexState) IO) -> m Text
+evalNode _ (PreparedTemplatePlain t) = return t
+evalNode e (PreparedTemplateVar "heads") =
+  return $ render (runLaTeX (sequence_ (tcHeads e)))
+evalNode e (PreparedTemplateVar "bodies") =
+  return $ render (runLaTeX (sequence_ (tcBodies e)))
+evalNode e (PreparedTemplateVar "children") =
+  return $ render (runLaTeX (sequence_ (tcChildren e)))
+evalNode _ (PreparedTemplateVar "requirements") =
+  return $ render (runLaTeX requirements)
+evalNode _ (PreparedTemplateVar _) = return ""
+evalNode e (PreparedTemplateExpr runner) = do
+  let children = traceShow ("children", map (render . runLaTeX) (tcChildren e)) tcChildren e
+      findChildren = mkFindChildren e
+      wtr = runner e children findChildren
+  -- liftIO $ do
+  --     putStrLn "Running stored expression"
+  --     print (tcElement e)
+  (_, _, result) <- liftIO $ runTexWriter (tcState e) wtr
+  -- liftIO $ do
+  --     putStrLn "  Got:"
+  --     print (render (runLaTeX result))
+  return (render (runLaTeX result))
+  where
+    mkFindChildren
+      :: MonadTex m
+      => TemplateContext -> Text -> m (LaTeXT Identity ())
+    mkFindChildren TemplateContext {tcElement} name | traceShow ("findChildren", name, tcElement) True = do
+      inlines <-
+        mapM
+          convertInlineElem
+          (findChildren (QName (Text.unpack name) Nothing Nothing) tcElement)
+      let heads = sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
+          bodies = sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
+      return (heads <> bodies)
+
+prepareInterp :: Text -> IO (PreparedTemplate (StateT TexState IO))
+prepareInterp i =
+  case Megaparsec.parseMaybe interpParser i of
+    Nothing -> return []
+    Just interp -> mapM doPrepare interp
+  where
+    doPrepare :: TemplateInterpNode
+              -> IO (PreparedTemplateNode (StateT TexState IO))
+    doPrepare (TemplateVar t) = return $ PreparedTemplateVar t
+    doPrepare (TemplatePlain t) = return $ PreparedTemplatePlain t
+    doPrepare (TemplateExpr e) = do
+      runner <-
+        do erunner <-
+             do hPutStrLn stderr ("Compiling interpolation (" <> show i <> ")")
+                let args =
+                      [ "-no-user-package-db"
+                      , "-package-db /Users/yamadapc/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
+                      ]
+                Hint.unsafeRunInterpreterWithArgs args $ do
+                  Hint.reset
+                  Hint.set
+                    [ Hint.searchPath Hint.:=
+                      [ "/Users/yamadapc/program/github.com/beijaflor-io/jats2tex"
+                      ]
+                    ]
+                  Hint.set
+                    [Hint.languageExtensions Hint.:= [Hint.OverloadedStrings]]
+                  Hint.setImports
+                    [ "Prelude"
+                    , "Control.Monad.State"
+                    , "Text.JaTex.Template.Types"
+                    , "Text.JaTex.Template.TemplateInterp.Helpers"
+                    ]
+                  let runnerExpr = "\\context children findChildren ->" <> Text.unpack e
+                      runnerExprType = Hint.as :: ExprType (StateT TexState IO)
+                  Hint.interpret runnerExpr runnerExprType
+           case erunner of
+             Left err -> do
+               hPrint stderr err
+               exitWith (ExitFailure 1)
+             Right runner -> return runner
+      return $ PreparedTemplateExpr runner
+
+parseTemplateNode :: ConcreteTemplateNode -> IO (Either Text (TemplateNode (StateT TexState IO)))
+parseTemplateNode ConcreteTemplateNode {..} =
+  case latexContent of
+    Right l ->
+      case templateHead of
+        "" -> do
+          prepared <- liftIO $ prepareInterp (render l)
+          return $ Right
+            TemplateNode
+            { templatePredicate = Text.unpack templateSelector
+            , templateLaTeXHead = mempty
+            , templateLaTeX = prepared
+            }
+        _ ->
+          case LaTeX.parseLaTeX templateHead of
+            Right h -> do
+              preparedH <- liftIO $ prepareInterp (render h)
+              preparedL <- liftIO $ prepareInterp (render l)
+              return $ Right
+                TemplateNode
+                { templatePredicate = Text.unpack templateSelector
+                , templateLaTeXHead = preparedH
+                , templateLaTeX = preparedL
+                }
+            Left _ -> return $ Left "Failed to parse template head"
+    Left _ -> return $ Left "Failed to parse template content"
+  where
+    latexContent = LaTeX.parseLaTeX templateContent
+
+mergeEithers :: [Either a b] -> Either [a] [b]
+mergeEithers [] = Right []
+mergeEithers (Left e:es) = Left (e : lefts es)
+mergeEithers (Right e:es) =
+  case mergeEithers es of
+    lfs@(Left _) -> lfs
+    (Right rs)   -> Right (e : rs)
+
+isTruthy :: Value -> Bool
+isTruthy (Bool b)   = b
+isTruthy (Number n) = n /= 0
+isTruthy (Object o) = o /= mempty
+isTruthy (String s) = s /= mempty
+isTruthy Null       = False
+isTruthy (Array _)  = True
+
+parseCTemplateFromJson :: Value -> Either [Text] [ConcreteTemplateNode]
+parseCTemplateFromJson (Object o) =
+  mergeEithers $ HashMap.foldrWithKey parsePair [] o
+  where
+    parsePair k v m =
+      let mctn = fromJSON v :: Result ConcreteTemplateNode
+      in case mctn of
+           Error e     -> Left (Text.pack e) : m
+           Success ctn -> Right ctn {templateSelector = k} : m
+parseCTemplateFromJson _ = Left ["Template inválido, o formato esperado é `seletor: 'template'`"]
+
+parseTemplateFile :: FilePath -> IO Template
+parseTemplateFile fp = do
+  v <- Yaml.decodeFile fp
+  v' <-
+    case v of
+      Nothing -> error "Couldn't parse fp"
+      Just i  -> return i
+  case parseCTemplateFromJson v' of
+    Left errs -> do
+      forM_ errs $ \err -> Text.hPutStrLn stderr err
+      exitWith (ExitFailure 1)
+    Right cs -> do
+      es <- mapM parseTemplateNode cs
+      case mergeEithers es of
+        Left errs -> do
+          forM_ errs $ \err -> Text.hPutStrLn stderr err
+          exitWith (ExitFailure 1)
+        Right ns -> return $ Template $ zip cs ns
+
+parseTemplate :: Data.ByteString.ByteString -> IO Template
+parseTemplate s = do
+  let mv = Yaml.decode s
+  v <- case mv of
+      Nothing -> error "Couldn't parse fp"
+      Just i  -> return i
+  case parseCTemplateFromJson v of
+    Left errs -> do
+      forM_ errs $ \err -> Text.hPutStrLn stderr err
+      exitWith (ExitFailure 1)
+    Right cs -> do
+      es <- mapM parseTemplateNode cs
+      case mergeEithers es of
+        Left errs -> do
+          forM_ errs $ \err -> Text.hPutStrLn stderr err
+          exitWith (ExitFailure 1)
+        Right ns -> return $ Template $ zip cs ns
+
+defaultTemplate :: Template
+defaultTemplate = unsafePerformIO $ parseTemplateFile "./default.yaml"
+{-# NOINLINE defaultTemplate #-}

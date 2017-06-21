@@ -13,8 +13,6 @@ import           System.IO
 import           Options.Applicative
 import           Text.JaTex
 import           Text.JaTex.Parser
-import           Text.JaTex.Template (Template)
-import qualified Text.JaTex.Template as Template
 import qualified Text.JaTex.Upgrade  as Upgrade
 
 
@@ -75,8 +73,8 @@ defaultMain = do
           Just f  -> openFile f WriteMode
       templateFile <-
         case optsTemplateFile of
-          Nothing -> return Template.defaultTemplate
-          Just f  -> Template.parseTemplateFile f
+          Nothing -> return defaultTemplate
+          Just f  -> parseTemplateFile f
       run optsInputFile outputFile templateFile
     RunUpgrade -> Upgrade.runUpgrade
     RunVersion -> Upgrade.putVersionInfo

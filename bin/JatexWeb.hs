@@ -23,7 +23,6 @@ import           Web.Spock
 import           Web.Spock.Config
 
 import           Text.JaTex
-import qualified Text.JaTex.Template           as Template
 
 curlExample :: Text -> Text
 curlExample host = "curl " <> host <> " -F \"body=@./`echo ./something.xml`\""
@@ -177,7 +176,7 @@ main = do
         pkg <- param' "body"
         !etex <-
           liftIO $
-          jatsXmlToLaTeXText "none" Template.defaultTemplate $ parseJATS pkg
+          jatsXmlToLaTeXText "none" defaultTemplate $ parseJATS pkg
         text etex
       post "/" $ do
         fs <- files
@@ -186,7 +185,7 @@ main = do
           Just UploadedFile {..} -> do
             !etex <-
               liftIO
-                (jatsXmlToLaTeXText "none" Template.defaultTemplate =<<
+                (jatsXmlToLaTeXText "none" defaultTemplate =<<
                  readJats uf_tempLocation)
             text etex
   where

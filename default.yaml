@@ -17,13 +17,37 @@ article-title:
   head: |
     \title{@@children}
 
-# contrib-group:
-#   head: |
-#     \author{
-#       @@(
-#         intercalate "\and" children
-#       )@@
-#     }
+contrib: "@@children"
+
+back: ""
+
+name: |
+  @@(
+  findChildren "surname"
+  )@@, @@(
+  findChildren "given-names"
+  )@@@@children
+
+contrib-group:
+  head: |
+    \author{
+      @@(
+        intercalate (raw "and") (elements context)
+      )@@
+    }
+
+break: "\n"
+
+code: |
+  \code{@@children}
+
+kwd: |
+  \textit{@@children}
+
+# p: |
+#   @@(alignToRagged)@@
+#   @@children
+#   @@(alignToRaggedEnv)@@
 
 b: |
   \textbf{@@children}

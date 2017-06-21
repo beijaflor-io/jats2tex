@@ -1,3 +1,4 @@
+{-# LANGUAGE NamedFieldPuns    #-}
 {-# LANGUAGE OverloadedStrings #-}
 module Text.JaTex.Template.TemplateInterp
   where
@@ -8,43 +9,16 @@ import           Data.Monoid
 import           Data.Text                        (Text)
 import qualified Data.Text                        as Text
 import qualified Language.Haskell.Interpreter     as Hint
+import           System.IO
 import           Text.LaTeX                       (LaTeXT, render)
 import           Text.Megaparsec
 import qualified Text.Megaparsec.Lexer            as Lexer
 import           Text.Megaparsec.Text
+import           Text.XML.Light
 
 import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.Types
 import           Text.JaTex.Util
-
-type TemplateInterp = [TemplateInterpNode]
-data TemplateInterpNode = TemplateVar Text
-                        | TemplateExpr Text
-                        | TemplatePlain Text
-  deriving(Show)
-
-evalNode
-  :: MonadIO m
-  => TemplateContext -> TemplateInterpNode -> m Text
-evalNode _ (TemplatePlain t) = return t
-evalNode e (TemplateVar "heads") =
-  return $ render (runLaTeX (sequence_ (tcHeads e)))
-evalNode e (TemplateVar "bodies") =
-  return $ render (runLaTeX (sequence_ (tcBodies e)))
-evalNode e (TemplateVar "children") =
-  return $ render (runLaTeX (sequence_ (tcChildren e)))
-evalNode _ (TemplateVar "requirements") =
-  return $ render (runLaTeX requirements)
-evalNode _ (TemplateVar _) = return ""
-evalNode e (TemplateExpr s) = do
-  Right runner <-
-    liftIO $
-    Hint.runInterpreter $ do
-      Hint.reset
-      Hint.interpret
-        ("\\children -> do " <> Text.unpack s)
-        (Hint.as :: [LaTeXT Identity ()] -> LaTeXT Identity ())
-  return (render (runLaTeX (runner (tcChildren e))))
 
 parseInterp
   :: String -> Text -> Either (ParseError Char Dec) TemplateInterp
@@ -56,8 +30,7 @@ interpParser =
   choice
     [ label "expr" (try interpExprParser)
     , label "var" (try interpVarParser)
-    , label "plain" (try interpPlainParser)
-    , eol >> return (TemplatePlain "\n")
+    , label "plain" interpPlainParser
     ]) eof
 
 whitespaceConsumer :: Parser ()
@@ -93,7 +66,9 @@ interpPlainParser =
 -- testreal :: IO ()
 -- testreal = do
 --   let input = Text.unlines [ "\\textbf{@@children}"
---                            -- , "here"
+--                            , "@@("
+--                            , "  interpolate \"stuff\" 3"
+--                            , ")@@"
 --                            ]
 --   parseTest interpParser input
 

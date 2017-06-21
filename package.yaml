@@ -38,6 +38,7 @@ dependencies:
 - cryptohash
 - hint
 - megaparsec
+- exceptions
 # - wxHaskell
 
 library:

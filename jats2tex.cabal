@@ -49,6 +49,7 @@ library
     , cryptohash
     , hint
     , megaparsec
+    , exceptions
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -59,6 +60,7 @@ library
       Text.JaTex.Template
       Text.JaTex.Template.Requirements
       Text.JaTex.Template.TemplateInterp
+      Text.JaTex.Template.TemplateInterp.Helpers
       Text.JaTex.Template.Types
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
@@ -98,6 +100,7 @@ executable jats2tex
     , cryptohash
     , hint
     , megaparsec
+    , exceptions
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -140,6 +143,7 @@ executable jats2tex-build-installer
     , cryptohash
     , hint
     , megaparsec
+    , exceptions
     , nsis
   if os(windows)
     buildable: True
@@ -180,6 +184,7 @@ executable jats2tex-remove-c-data
     , cryptohash
     , hint
     , megaparsec
+    , exceptions
     , xml
     , jats2tex
   other-modules:
@@ -223,6 +228,7 @@ executable jats2tex-web
     , cryptohash
     , hint
     , megaparsec
+    , exceptions
     , jats2tex
     , yesod
     , Spock
