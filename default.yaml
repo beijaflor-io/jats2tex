@@ -17,14 +17,13 @@ article-title:
   head: |
     \title{@@children}
 
-contrib-group:
-  head: |
-    \author{
-      @@(
-        intercalate "\and" children
-      )
-    }
-
+# contrib-group:
+#   head: |
+#     \author{
+#       @@(
+#         intercalate "\and" children
+#       )@@
+#     }
 
 b: |
   \textbf{@@children}

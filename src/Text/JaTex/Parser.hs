@@ -31,7 +31,11 @@ parseJATS = parseXML . Text.unpack
 
 cleanUp :: Content -> [Content]
 cleanUp t@(Text (CData CDataText _ _)) = [t]
-cleanUp (Text (CData _ str _)) = concatMap cleanUp $ parseXML str
+cleanUp (Text (CData _ str ml)) = concatMap (cleanUp . helper) $ parseXML str
+  where
+    helper (Elem el) =
+      Elem el {elLine = Just $ fromMaybe 0 (elLine el) + fromMaybe 0 ml}
+    helper c = c
 cleanUp (CRef ref) =
   [Text (CData CDataText (fromMaybe ref (crefToString ref)) Nothing)]
 cleanUp (Elem e@Element {..})

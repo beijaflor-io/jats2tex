@@ -47,6 +47,8 @@ library
     , yaml
     , shakespeare
     , cryptohash
+    , hint
+    , megaparsec
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -55,8 +57,12 @@ library
       Text.JaTex.Cmd.Main
       Text.JaTex.Parser
       Text.JaTex.Template
+      Text.JaTex.Template.Requirements
+      Text.JaTex.Template.TemplateInterp
+      Text.JaTex.Template.Types
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
+      Text.JaTex.Util
   default-language: Haskell2010
 
 executable jats2tex
@@ -90,6 +96,8 @@ executable jats2tex
     , yaml
     , shakespeare
     , cryptohash
+    , hint
+    , megaparsec
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -130,6 +138,8 @@ executable jats2tex-build-installer
     , yaml
     , shakespeare
     , cryptohash
+    , hint
+    , megaparsec
     , nsis
   if os(windows)
     buildable: True
@@ -168,6 +178,8 @@ executable jats2tex-remove-c-data
     , yaml
     , shakespeare
     , cryptohash
+    , hint
+    , megaparsec
     , xml
     , jats2tex
   other-modules:
@@ -209,6 +221,8 @@ executable jats2tex-web
     , yaml
     , shakespeare
     , cryptohash
+    , hint
+    , megaparsec
     , jats2tex
     , yesod
     , Spock

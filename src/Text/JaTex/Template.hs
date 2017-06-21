@@ -1,70 +1,56 @@
-{-# LANGUAGE LambdaCase        #-}
-{-# LANGUAGE NamedFieldPuns    #-}
-{-# LANGUAGE OverloadedStrings #-}
-{-# LANGUAGE RecordWildCards   #-}
+{-# LANGUAGE LambdaCase          #-}
+{-# LANGUAGE NamedFieldPuns      #-}
+{-# LANGUAGE OverloadedStrings   #-}
+{-# LANGUAGE RecordWildCards     #-}
+{-# LANGUAGE ScopedTypeVariables #-}
 module Text.JaTex.Template
   where
 
 import           Control.Monad
 import           Control.Monad.Identity
-import           Data.Aeson             (Result (..), Value (..), fromJSON)
+import           Control.Monad.IO.Class
+import           Data.Aeson                         (Result (..), Value (..),
+                                                     fromJSON)
 import qualified Data.ByteString
 import           Data.Either
-import qualified Data.HashMap.Strict    as HashMap
-import           Data.Maybe
-import           Data.Text              (Text)
-import qualified Data.Text              as Text
-import qualified Data.Text.IO           as Text
-import           Data.Yaml
-import qualified Data.Yaml              as Yaml
+import qualified Data.HashMap.Strict                as HashMap
+import           Data.Text                          (Text)
+import qualified Data.Text                          as Text
+import qualified Data.Text.IO                       as Text
+import           Data.Yaml                          ()
+import qualified Data.Yaml                          as Yaml
+import qualified Language.Haskell.Interpreter       as Hint
 import           System.Exit
 import           System.IO
 import           System.IO.Unsafe
 import           Text.LaTeX
 import           Text.LaTeX.Base.Class
-import           Text.LaTeX.Base.Parser
+import qualified Text.LaTeX.Base.Parser             as LaTeX
 import           Text.LaTeX.Base.Syntax
+import           Text.Megaparsec
 import           Text.XML.Light
 
-data ConcreteTemplateNode = ConcreteTemplateNode
-  { templateSelector :: Text
-  , templateHead     :: Text
-  , templateContent  :: Text
-  } deriving (Show)
+import           Text.JaTex.Template.TemplateInterp
+import           Text.JaTex.Template.Types
+import           Text.JaTex.Util
 
-instance Yaml.FromJSON ConcreteTemplateNode where
-  parseJSON (String s) = return $ ConcreteTemplateNode "" "" s
-  parseJSON (Object o) = verboseForm
-    where
-      verboseForm =
-        ConcreteTemplateNode "" <$> (fromMaybe "" <$> o .:? "head") <*>
-        (fromMaybe "" <$> o .:? "content")
-  parseJSON _ = fail "Template inválido"
+import           Debug.Trace
 
-data TemplateNode = TemplateNode
-  { templatePredicate :: NodeSelector
-  , templateLaTeXHead :: LaTeX
-  , templateLaTeX     :: LaTeX
-  }
+templateApply
+  :: Hint.MonadInterpreter m
+  => TemplateNode
+  -> TemplateContext
+  -> m (LaTeXT Identity (), LaTeXT Identity ())
+templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc
+  | traceShow "templateApply" True =
+    (,) <$> applyTemplateToEl templateLaTeXHead tc <*>
+    applyTemplateToEl templateLaTeX tc
 
-data TemplateContext = TemplateContext
-  { tcHeads   :: LaTeXT Identity ()
-  , tcBodies  :: LaTeXT Identity ()
-  , tcElement :: Element
-  }
+runPredicate :: NodeSelector -> NodeSelector -> Bool
+runPredicate s t
+  | traceShow ("runPredicate") True = t == s
 
-type NodeSelector = Text
-
-templateApply :: TemplateNode -> TemplateContext -> (LaTeXT Identity (), LaTeXT Identity ())
-templateApply TemplateNode{templateLaTeX, templateLaTeXHead} tc =
-    ( applyTemplateToEl templateLaTeXHead tc
-    , applyTemplateToEl templateLaTeX tc
-    )
-
-runPredicate :: NodeSelector -> TemplateContext -> Bool
-runPredicate s TemplateContext{tcElement = e} = showQName (elName e) == Text.unpack s
-
-parseTemplateNode :: ConcreteTemplateNode -> Either ParseError TemplateNode
+parseTemplateNode :: ConcreteTemplateNode -> Either Text TemplateNode
 parseTemplateNode ConcreteTemplateNode {..} =
   case latexContent of
     Right l ->
@@ -72,76 +58,81 @@ parseTemplateNode ConcreteTemplateNode {..} =
         "" ->
           Right
             TemplateNode
-            { templatePredicate = templateSelector
+            { templatePredicate = Text.unpack templateSelector
             , templateLaTeXHead = mempty
             , templateLaTeX = l
             }
         _ ->
-          case parseLaTeX templateHead of
+          case LaTeX.parseLaTeX templateHead of
             Right h ->
               Right
                 TemplateNode
-                { templatePredicate = templateSelector
+                { templatePredicate = Text.unpack templateSelector
                 , templateLaTeXHead = h
                 , templateLaTeX = l
                 }
-            Left e -> Left e
-    Left e -> Left e
+            Left _ -> Left "Failed to parse template head"
+    Left _ -> Left "Failed to parse template content"
   where
-    latexContent = parseLaTeX templateContent
+    latexContent = LaTeX.parseLaTeX templateContent
 
-applyTemplateToEl :: LaTeX -> TemplateContext -> LaTeXT Identity ()
+applyTemplateToEl :: Hint.MonadInterpreter m => LaTeX -> TemplateContext -> m (LaTeXT Identity ())
 applyTemplateToEl l e =
-  case l of
-    TeXLineBreak m b -> fromLaTeX $ TeXLineBreak m b
-    TeXBraces i -> braces (recur i)
-    TeXMath mt i -> liftL (TeXMath mt) (recur i)
-    TeXEnv ev as i ->
-      liftL (TeXEnv (runReplacementsS ev) (recurArgs as)) (recur i)
-    TeXCommS c -> textell $ TeXCommS (runReplacementsS c)
-    TeXComm c as ->
-      fromLaTeX $
-      TeXComm (Text.unpack (runReplacements (Text.pack c))) (recurArgs as)
-    TeXRaw lr -> fromLaTeX $ TeXRaw (runReplacements lr)
-    TeXComment text -> comment (runReplacements text)
-    TeXSeq l1 l2 -> recur l1 <> recur l2
-    TeXEmpty -> fromLaTeX TeXEmpty
+  case traceShow ("applyTemplateToEl", render l) l of
+    TeXLineBreak m b -> return $ fromLaTeX $ TeXLineBreak m b
+    TeXBraces i -> braces <$> recur i
+    TeXMath mt i -> liftL (TeXMath mt) <$> recur i
+    TeXEnv ev as i -> do
+      ev' <- runReplacementsS ev
+      as' <- recurArgs as
+      i' <- recur i
+      return $ liftL (TeXEnv ev' as') i'
+    TeXCommS c -> do
+      c' <- runReplacementsS c
+      return $ textell (TeXCommS c')
+    TeXComm c as -> do
+      c' <- runReplacementsS c
+      as' <- recurArgs as
+      return $ fromLaTeX (TeXComm c' as')
+    TeXRaw lr -> do
+      lr' <- runReplacements lr
+      return $ fromLaTeX $ TeXRaw lr'
+    TeXComment text -> do
+      text' <- runReplacements text
+      return $ comment text'
+    TeXSeq l1 l2 -> do
+      l1' <- recur l1
+      l2' <- recur l2
+      return $ l1' <> l2'
+    TeXEmpty -> return $ fromLaTeX TeXEmpty
   where
     recur child = applyTemplateToEl child e
-    recurArgs = map recurArg
+    recurArgs
+      :: Hint.MonadInterpreter m
+      => [TeXArg] -> m [TeXArg]
+    recurArgs = mapM recurArg
+    recurArg
+      :: Hint.MonadInterpreter m
+      => TeXArg -> m TeXArg
     recurArg arg =
       case arg of
-        FixArg a   -> FixArg (inner a)
-        OptArg a   -> OptArg (inner a)
-        MOptArg as -> MOptArg (map inner as)
-        SymArg a   -> SymArg (inner a)
-        MSymArg as -> MSymArg (map inner as)
-        ParArg a   -> ParArg (inner a)
-        MParArg as -> MParArg (map inner as)
-    runLaTeX = snd . runIdentity . runLaTeXT
-    inner = runLaTeX . recur
-    runReplacementsS = Text.unpack . runReplacements . Text.pack
-    runReplacements :: Text -> Text
-    runReplacements i = foldr (\f m -> f m) i [ replaceChildren
-                                              , replaceHeads
-                                              , replaceBodies
-                                              , replaceRequirements
-                                              ]
-      where
-        replaceHeads = Text.replace "@@heads" (render (runLaTeX (tcHeads e)))
-        replaceBodies = Text.replace "@@bodies" (render (runLaTeX (tcBodies e)))
-        replaceChildren = Text.replace "@@children" (render (runLaTeX (tcChildren e)))
-        replaceRequirements = Text.replace "@@requirements" (render (runLaTeX requirements))
-
-requirements :: LaTeXT Identity ()
-requirements = do
-  usepackage ["document"] "ragged2e"
-  fromString "\n"
-  usepackage ["utf8x"] "inputenc"
-
-
-tcChildren :: TemplateContext -> LaTeXT Identity ()
-tcChildren e = tcHeads e <> tcBodies e
+        FixArg a   -> FixArg <$> inner a
+        OptArg a   -> OptArg <$> inner a
+        MOptArg as -> MOptArg <$> mapM inner as
+        SymArg a   -> SymArg <$> inner a
+        MSymArg as -> MSymArg <$> mapM inner as
+        ParArg a   -> ParArg <$> inner a
+        MParArg as -> MParArg <$> mapM inner as
+    inner i = do
+      o <- recur i
+      return $ runLaTeX o
+    runReplacementsS s = Text.unpack <$> runReplacements (Text.pack s)
+    runReplacements i =
+      case parseMaybe interpParser i of
+        Nothing -> return ""
+        Just interp -> do
+          rs <- mapM (evalNode e) interp
+          return (Text.concat rs)
 
 mergeEithers :: [Either a b] -> Either [a] [b]
 mergeEithers [] = Right []
@@ -190,7 +181,7 @@ parseTemplateFile fp = do
     Right cs ->
       case mergeEithers $ map parseTemplateNode cs of
         Left errs -> do
-          forM_ errs $ \err -> Text.hPutStrLn stderr (Text.pack (show err))
+          forM_ errs $ \err -> Text.hPutStrLn stderr err
           exitWith (ExitFailure 1)
         Right ns -> return $ Template $ zip cs ns
 
@@ -207,7 +198,7 @@ parseTemplate s = do
     Right cs ->
       case mergeEithers $ map parseTemplateNode cs of
         Left errs -> do
-          forM_ errs $ \err -> Text.hPutStrLn stderr (Text.pack (show err))
+          forM_ errs $ \err -> Text.hPutStrLn stderr err
           exitWith (ExitFailure 1)
         Right ns -> return $ Template $ zip cs ns
 
@@ -215,9 +206,25 @@ defaultTemplate :: Template
 defaultTemplate = unsafePerformIO $ parseTemplateFile "./default.yaml"
 {-# NOINLINE defaultTemplate #-}
 
-runTemplate :: Template -> TemplateContext -> Maybe ((ConcreteTemplateNode, TemplateNode), (LaTeXT Identity (), LaTeXT Identity ()))
-runTemplate (Template []) _ = Nothing
-runTemplate (Template (p@(_, t@TemplateNode{..}):ps)) el =
-    if runPredicate templatePredicate el
-       then Just (p, templateApply t el)
-       else runTemplate (Template ps) el
+findTemplate :: Template -> TemplateContext -> Maybe (ConcreteTemplateNode, TemplateNode)
+findTemplate ts el = run ts el
+  where
+    run (Template []) _ = Nothing
+    run (Template (p@(_, t@TemplateNode{..}):ps)) el =
+        if runPredicate templatePredicate targetName
+        then Just p
+        else run (Template ps) el
+    targetName = showQName (elName (tcElement el))
+
+runTemplate
+  :: (MonadIO m, Hint.MonadInterpreter m)
+  => Template
+  -> TemplateContext
+  -> m (Maybe ((ConcreteTemplateNode, TemplateNode), (LaTeXT Identity (), LaTeXT Identity ())))
+runTemplate ts el =
+  case findTemplate ts el of
+    Nothing -> return Nothing
+    Just p@(_, t) -> do
+      liftIO $ hPutStrLn stderr "Found template, applying..."
+      r <- templateApply t el
+      return $ Just (p, r)
