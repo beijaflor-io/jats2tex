@@ -154,12 +154,9 @@ convertElem el@Element {..} = do
     Nothing -> run
     Just (c, t) -> do
       liftIO $ Text.hPutStrLn stderr ("Matched: " <> templateSelector c)
-      r <- liftIO $ Hint.runInterpreter $ templateApply t templateContext
-      case r of
-          Left err -> liftIO (hPrint stderr err) >> run
-          Right (h, b) -> do
-              addHead h
-              add b
+      (h, b) <- templateApply t templateContext
+      addHead h
+      add b
   where
     lookupAttr' k =
       attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs

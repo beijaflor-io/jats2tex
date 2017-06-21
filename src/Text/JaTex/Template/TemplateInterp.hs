@@ -3,6 +3,7 @@ module Text.JaTex.Template.TemplateInterp
   where
 
 import           Control.Monad.Identity
+import           Control.Monad.IO.Class
 import           Data.Monoid
 import           Data.Text                        (Text)
 import qualified Data.Text                        as Text
@@ -23,7 +24,7 @@ data TemplateInterpNode = TemplateVar Text
   deriving(Show)
 
 evalNode
-  :: Hint.MonadInterpreter m
+  :: MonadIO m
   => TemplateContext -> TemplateInterpNode -> m Text
 evalNode _ (TemplatePlain t) = return t
 evalNode e (TemplateVar "heads") =
@@ -36,15 +37,13 @@ evalNode _ (TemplateVar "requirements") =
   return $ render (runLaTeX requirements)
 evalNode _ (TemplateVar _) = return ""
 evalNode e (TemplateExpr s) = do
-  Hint.reset
-  runner
-    -- Hint.interpret
-    --   (
-    --   )
-     <-
-    Hint.interpret
-      ("\\children -> do " <> Text.unpack s)
-      (Hint.as :: [LaTeXT Identity ()] -> LaTeXT Identity ())
+  Right runner <-
+    liftIO $
+    Hint.runInterpreter $ do
+      Hint.reset
+      Hint.interpret
+        ("\\children -> do " <> Text.unpack s)
+        (Hint.as :: [LaTeXT Identity ()] -> LaTeXT Identity ())
   return (render (runLaTeX (runner (tcChildren e))))
 
 parseInterp

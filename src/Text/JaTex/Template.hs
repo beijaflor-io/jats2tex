@@ -37,7 +37,7 @@ import           Text.JaTex.Util
 import           Debug.Trace
 
 templateApply
-  :: Hint.MonadInterpreter m
+  :: MonadIO m
   => TemplateNode
   -> TemplateContext
   -> m (LaTeXT Identity (), LaTeXT Identity ())
@@ -76,7 +76,7 @@ parseTemplateNode ConcreteTemplateNode {..} =
   where
     latexContent = LaTeX.parseLaTeX templateContent
 
-applyTemplateToEl :: Hint.MonadInterpreter m => LaTeX -> TemplateContext -> m (LaTeXT Identity ())
+applyTemplateToEl :: MonadIO m => LaTeX -> TemplateContext -> m (LaTeXT Identity ())
 applyTemplateToEl l e =
   case traceShow ("applyTemplateToEl", render l) l of
     TeXLineBreak m b -> return $ fromLaTeX $ TeXLineBreak m b
@@ -108,11 +108,11 @@ applyTemplateToEl l e =
   where
     recur child = applyTemplateToEl child e
     recurArgs
-      :: Hint.MonadInterpreter m
+      :: MonadIO m
       => [TeXArg] -> m [TeXArg]
     recurArgs = mapM recurArg
     recurArg
-      :: Hint.MonadInterpreter m
+      :: MonadIO m
       => TeXArg -> m TeXArg
     recurArg arg =
       case arg of
@@ -217,7 +217,7 @@ findTemplate ts el = run ts el
     targetName = showQName (elName (tcElement el))
 
 runTemplate
-  :: (MonadIO m, Hint.MonadInterpreter m)
+  :: MonadIO m
   => Template
   -> TemplateContext
   -> m (Maybe ((ConcreteTemplateNode, TemplateNode), (LaTeXT Identity (), LaTeXT Identity ())))
