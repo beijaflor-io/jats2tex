@@ -39,12 +39,34 @@ break: "\n"
 code: |
   \code{@@children}
 
+codebold: |
+  \code{@@children}
+
 kwd: |
   \textit{@@children}
 
 p: |
   @@(return (fromString "\n"))@@
   @@(alignToRagged context)@@
+
+pub-date: |
+  \date{@@(findChildren "year")@@}{@@(findChildren "month")@@}{@@(findChildren "day")@@}
+
+abstract: |
+  \abstract{@@children}
+
+volume: |
+  \newcommand{\volume}{@@children}
+numero: |
+  \newcommand{\numero}{@@children}
+fpage: |
+  \newcommand{\fpage}{@@children}
+lpage: |
+  \newcommand{\lpage}{@@children}
+copyright-statement: |
+  \newcommand{\copyrightstatement}{@@children}
+copyright-year: |
+  \newcommand{\copyrightyear}{@@children}
 
 b: |
   \textbf{@@children}

@@ -63,6 +63,11 @@ emptyState = TexState { tsBodyRev = mempty
                       , tsDebug = False
                       }
 
+logWarning :: (MonadState TexState m, MonadIO m) => String -> m ()
+logWarning w = do
+    TexState{tsDebug} <- get
+    when tsDebug $ liftIO (hPutStrLn stderr ("[warning]" <> w))
+
 tsHead :: TexState -> [LaTeXT Identity ()]
 tsHead = reverse . tsHeadRev
 
@@ -126,8 +131,8 @@ convertNode
 convertNode (Elem e) = do
   addComment "elem"
   ownAdded <- convertElem e
-  when (render (runLaTeX ownAdded) /= mempty ||
-        not (null (elChildren e))) $ add (fromString "\n")
+  -- when (render (runLaTeX ownAdded) /= mempty ||
+  --       not (null (elChildren e))) $ add (fromString "\n")
   addComment "endelem"
   return ownAdded
 convertNode (Text (CData CDataText str _))
@@ -215,84 +220,9 @@ convertElem el@Element {..} = do
     run =
       case elContent of
         [] -> return (textell mempty)
-        _  ->
-            -- do
-            -- liftIO $ hPutStrLn stderr ("[warning] Ignoring tag " <> n)
+        _  -> do
+            logWarning ("Ignoring tag " <> n)
             convertChildren el
-
-      -- | n == "abstract" = do
-      --   (h, i) <- convertInlineNode (head elContent)
-      --   add $ comm1 "abstract" (sequence_ (h <> i))
-      -- | n == "name" = do
-      --   s <-
-      --     map snd <$>
-      --     mapM
-      --       convertInlineChildren
-      --       (findChildren (QName "surname" Nothing Nothing) el)
-      --   g <-
-      --     map snd <$>
-      --     mapM
-      --       convertInlineChildren
-      --       (findChildren (QName "given-names" Nothing Nothing) el)
-      --   add $ do
-      --     sequence_ s
-      --     fromString ", "
-      --     sequence_ g
-      -- | n == "surname" = do
-      --   convertChildren el
-      --   add $ fromString ", "
-      -- | n == "given-names" = convertChildren el
-      -- | n == "pub-date" = do
-      --   d <-
-      --     map snd <$>
-      --     mapM
-      --       convertInlineChildren
-      --       (findChildren (QName "day" Nothing Nothing) el)
-      --   m <-
-      --     map snd <$>
-      --     mapM
-      --       convertInlineChildren
-      --       (findChildren (QName "month" Nothing Nothing) el)
-      --   y <-
-      --     map snd <$>
-      --     mapM
-      --       convertInlineChildren
-      --       (findChildren (QName "year" Nothing Nothing) el)
-      --   addHead $
-      --     date $ do
-      --       sequence_ m
-      --       fromString "/"
-      --       sequence_ d
-      --       fromString "/"
-      --       sequence_ y
-      -- | n == "kwd" = do
-      --   (_, inline) <- convertInlineChildren el
-      --   add $ textit (sequence_ inline)
-      -- | n == "b" || n == "bold" = do
-      --   (h, i) <- convertInlineChildren el
-      --   add (sequence_ h)
-      --   add $ textbf (sequence_ i)
-      -- | n == "p" = do
-      --   let align = lookupAttr' "align"
-      --   (h, inline) <- convertInlineChildren el
-      --   add $ do
-      --     let ma :: Maybe Text
-      --         ma =
-      --           case fromMaybe "justify" align of
-      --             "center" -> Just "Center"
-      --             "left" -> Just "FlushLeft"
-      --             "right" -> Just "FlushRight"
-      --             _ -> Nothing
-      --     case ma of
-      --       Just a -> begin a (sequence_ (h <> inline))
-      --       _ -> sequence_ (h <> inline)
-      -- | n == "break" = add newline
-      -- | n == "code" || n == "codebold" = do
-      --   (h, inline) <- convertInlineChildren el
-      --   add $ sequence_ h <> texttt (sequence_ inline)
-      -- | n == "?xml" = return ()
-      -- | "?" `isPrefixOf` n = return ()
-      -- | otherwise =
 
 removeSpecial :: String -> String
 removeSpecial =
