@@ -40,9 +40,9 @@ wrap maxWidth text | maxWidth <= 0 = error "wrap: maxWidth too small"
         addWord "" word   = word
         addWord line word = line <> " " <>  word
 
-wrapLines :: Int -> Text -> Text
-wrapLines w | w <= 0 = id
-wrapLines w = Text.unlines . concatMap (wrap w) . Text.lines
+wrapLines :: Int -> Text -> [Text]
+wrapLines w | w <= 0 = Text.lines
+wrapLines w = concatMap (wrap w) . Text.lines
 
 data JaTexOptions = JaTexOptions { joInputFilePath :: FilePath
                                  , joTemplate      :: (Template, FilePath)
@@ -57,7 +57,17 @@ instance Default JaTexOptions where
                        , joInputDocument = mempty
                        }
 
+trimConsecutiveEmptyLines :: [Text] -> Text
+trimConsecutiveEmptyLines = Text.unlines . fst . foldr helper ([], True)
+  where
+    helper "" (acc, lastLineWasNewline) =
+      ( if lastLineWasNewline
+          then acc
+          else "" : acc
+      , True)
+    helper t (acc, _) = (t : acc, False)
+
 jatsXmlToLaTeXText :: (MonadIO m, MonadMask m) => JaTexOptions -> m Text
 jatsXmlToLaTeXText JaTexOptions{..} = do
   t <- convert joInputFilePath joTemplate joInputDocument
-  return (wrapLines joMaxWidth (render t))
+  return (trimConsecutiveEmptyLines (wrapLines joMaxWidth (render t)))

@@ -88,7 +88,7 @@ convert fp tmp i = do
     hSetBuffering stderr LineBuffering
     hPutStrLn stderr $
       unlines
-        [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
+        [ "jats2tex@" <> Upgrade.versionNumber Upgrade.currentVersion
         , "Parsed Template:  " <> snd tmp
         , "Converting Input: " <> fp
         ]
@@ -122,15 +122,20 @@ jatsXmlToLaTeX d = do
 
 convertNode
   :: MonadTex m
-  => Content -> m ()
+  => Content -> m (LaTeXT Identity ())
 convertNode (Elem e) = do
   addComment "elem"
-  convertElem e
+  ownAdded <- convertElem e
+  when (runLaTeX ownAdded /= mempty || null (elChildren e)) $ add (fromString "\n")
+  addComment "endelem"
+  return ownAdded
 convertNode (Text (CData CDataText str _))
-  | str == "" || dropWhile isSpace str == "" = return ()
+  | str == "" || dropWhile isSpace str == "" = return mempty
 convertNode (Text (CData CDataText str _)) = do
   addComment "cdata"
-  add $ fromString str
+  let lstr = fromString str
+  add lstr
+  return lstr
 convertNode (Text (CData _ str ml)) = do
   addComment "xml-cdata"
   let cs =
@@ -140,10 +145,12 @@ convertNode (Text (CData _ str ml)) = do
                Elem el -> Elem el {elLine = ml}
                _       -> c)
           (parseXML str)
-  mapM_ convertNode cs
+  mconcat <$> mapM convertNode cs
 convertNode (CRef r) = do
   addComment "ref"
-  add $ fromString (fromMaybe r (crefToString r))
+  let lr = fromString (fromMaybe r (crefToString r))
+  add lr
+  return lr
 
 addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHeadRev = m:tsHeadRev ts
@@ -160,13 +167,15 @@ addComment c = do
 
 convertElem
   :: MonadTex m
-  => Element -> m ()
+  => Element -> m (LaTeXT Identity ())
 convertElem el@Element {..} = do
   TexState {tsTemplate} <- get
   commentEl
   templateContext <- getTemplateContext
-  case findTemplate (fst tsTemplate) templateContext of
-    Nothing -> run
+  added <- case findTemplate (fst tsTemplate) templateContext of
+    Nothing -> do
+        _ <- run
+        return mempty
     Just (_, t) -> do
       (h, b) <- templateApply t templateContext
       -- liftIO $ do
@@ -177,10 +186,11 @@ convertElem el@Element {..} = do
       --     Text.putStrLn (render (runLaTeX b))
       addHead h
       add b
-  add $ fromString "\n"
-  where
+      return (h <> b)
+  return added
     -- lookupAttr' k =
     --   attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
+  where
     n = qName elName
     commentEl =
       addComment
@@ -201,7 +211,14 @@ convertElem el@Element {..} = do
       return
         TemplateContext
         {tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
-    run
+    run =
+      case elContent of
+        [] -> return (textell mempty)
+        _  ->
+            -- do
+            -- liftIO $ hPutStrLn stderr ("[warning] Ignoring tag " <> n)
+            convertChildren el
+
       -- | n == "abstract" = do
       --   (h, i) <- convertInlineNode (head elContent)
       --   add $ comm1 "abstract" (sequence_ (h <> i))
@@ -275,12 +292,6 @@ convertElem el@Element {..} = do
       -- | n == "?xml" = return ()
       -- | "?" `isPrefixOf` n = return ()
       -- | otherwise =
-     =
-      case elContent of
-        [] -> return ()
-        _
-            -- liftIO $ hPutStrLn stderr ("[warning] Ignoring tag " <> n)
-         -> convertChildren el
 
 removeSpecial :: String -> String
 removeSpecial =
@@ -309,11 +320,11 @@ convertInlineChildren el = do
 convertInlineElem :: MonadTex m => Element -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
 convertInlineElem el = do
   st <- get
-  (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertElem el)
+  (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (void (convertElem el))
   return (tsHead newState, tsBody newState)
 
-convertChildren :: MonadTex m => Element -> m ()
-convertChildren Element {elContent} = mapM_ convertNode elContent
+convertChildren :: MonadTex m => Element -> m (LaTeXT Identity ())
+convertChildren Element {elContent} = mconcat <$> mapM convertNode elContent
 
 comm2
   :: LaTeXC l
