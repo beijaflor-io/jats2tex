@@ -49,6 +49,8 @@ import           Text.LaTeX.Base.Syntax
 import qualified Text.Megaparsec                     as Megaparsec
 import           Text.XML.Light
 
+import           Paths_jats2tex
+
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
                       , tsHeadRev = mempty
@@ -409,9 +411,9 @@ prepareInterp i =
                 Hint.unsafeRunInterpreterWithArgs args $ do
                   Hint.reset
                   Hint.set
-                    [ Hint.searchPath Hint.:=
-                      [ "/Users/yamadapc/program/github.com/beijaflor-io/jats2tex"
-                      ]
+                    [ -- Hint.searchPath Hint.:=
+                      -- [ "/Users/yamadapc/program/github.com/beijaflor-io/jats2tex"
+                      -- ]
                     ]
                   Hint.set
                     [Hint.languageExtensions Hint.:= [Hint.OverloadedStrings]]
@@ -525,5 +527,5 @@ parseTemplate s = do
         Right ns -> return $ Template $ zip cs ns
 
 defaultTemplate :: Template
-defaultTemplate = unsafePerformIO $ parseTemplateFile "./default.yaml"
+defaultTemplate = unsafePerformIO $ parseTemplateFile =<< getDataFileName "./default.yaml"
 {-# NOINLINE defaultTemplate #-}

@@ -8,6 +8,8 @@ synopsis: jats2tex converts JATS-XML to LaTeX
 license: AllRightsReserved
 extra-source-files:
 - README.md
+data-files:
+- ./default.yaml
 
 dependencies:
 - base >=4 && <5
@@ -45,6 +47,8 @@ dependencies:
 library:
   source-dirs:
   - src
+  other-modules:
+  - Paths_jats2tex
 
 executables:
   jats2tex:

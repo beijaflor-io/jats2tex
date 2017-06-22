@@ -17,6 +17,9 @@ cabal-version:  >= 1.10
 extra-source-files:
     README.md
 
+data-files:
+    ./default.yaml
+
 library
   hs-source-dirs:
       src
@@ -66,6 +69,8 @@ library
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
       Text.JaTex.Util
+  other-modules:
+      Paths_jats2tex
   default-language: Haskell2010
 
 executable jats2tex

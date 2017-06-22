@@ -5,7 +5,7 @@ build: FORCE
 
 build-linux: FORCE
 	stack docker pull
-	stack build --docker --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
+	stack build --docker --ghc-options="-optc-Os -optl-static -fPIC"
 
 package: FORCE
 	./bin/stack-fpm jats2tex $(tag)
