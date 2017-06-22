@@ -230,6 +230,9 @@ Saída:
 }
 ```
 
+### Man Pages
+![](/docs/gifs/jats2tex-man-pages.gif)
+
 ## Comando `jats2tex-web`
 ![](/docs/gifs/jats2tex-web.gif)
 
