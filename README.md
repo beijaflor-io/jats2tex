@@ -67,12 +67,13 @@ O arquivo mapeia `{nome-da-tag}: "\latexcorrespondente"` e permite a
 interpolação de _variáveis de contexto_ e _expressões de Haskell_ para a
 conversão de nódulos XML para LaTeX.
 
-### Variáveis de contexto disponíveis
+### Sintaxe
+#### Variáveis de contexto disponíveis
 - `@@children` Interpola todos os filhos da tag atual convertidos como LaTeX
 - `@@heads` Interpola todos os filhos da tag atual marcados como 'head'
 - `@@bodies` Interpola todos os filhos da tag atual marcados como 'content'
 
-### Definindo tags
+#### Definindo tags
 Definimos tags com:
 ```yaml
 conteudoxml: |
@@ -90,7 +91,7 @@ conteudoxml-com-head:
     \conteudolatex{@@children e outras varíaveis ou interpolações}
 ```
 
-### Exemplo 1: Mapa simples de tag para saída
+#### Exemplo 1: Mapa simples de tag para saída
 O template `default.yaml` incluso no `jats2tex` define o seguinte mapa para a
 tag `b`, que indica texto em negrito:
 
@@ -110,6 +111,50 @@ O programa irá produzir:
 \textbf{Olá mundo}
 ```
 
+#### Exemplo 2: Usando `@@heads` e `@@bodies` para controlar a estrutura da saída
+Dado um XML:
+```xml
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<front>
+  <article-meta>
+    <title-group>
+      <article-title xml:lang="en">My Title</article-title>
+    </title-group>
+  </article-meta>
+</front>
+<body>Meu texto aqui</body>
+</article>
+```
+
+Queremos a saída:
+```tex
+\documentclass{article}
+\begin{document}
+\title{My Title}
+\maketitle
+Meu texto aqui
+\end{document}
+```
+
+Para isso podemos usaríamos o template:
+```yaml
+article:
+  head: |
+    \documentclass{article}
+    \begin{document}
+    @@heads
+    \maketitle
+    @@bodies
+    \end{document}
+
+article-title:
+  head: |
+    \title{@@children}
+```
+Como `article-title` tem sua saída marcada como `head`, seu conteúdo é
+interpolado como `@@heads`, enquanto o corpo do texto por padrão simplesmente é
+interpolado como visto, se não estiver mapeado por `@@bodies`.
 
 - - -
 
