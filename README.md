@@ -12,8 +12,13 @@
 #### Instalador OSX
 ![](/docs/gifs/jats2tex-osx-installer.png)
 
-#### Instalador Windows (WIP)
+#### Instalador RPM
+- https://github.com/beijaflor-io/jats2tex/releases/
 
+#### Instalador Debian
+- https://github.com/beijaflor-io/jats2tex/releases/
+
+#### Instalador Windows (WIP)
 
 ## Uso básico, convertendo JATS-XML para LaTeX
 ![](/docs/gifs/jats2tex-uso-basico.gif)
