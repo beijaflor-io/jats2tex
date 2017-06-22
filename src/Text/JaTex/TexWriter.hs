@@ -1,3 +1,4 @@
+{-# LANGUAGE BangPatterns          #-}
 {-# LANGUAGE ConstraintKinds       #-}
 {-# LANGUAGE FlexibleContexts      #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
@@ -24,6 +25,7 @@ import           Data.ByteString.Char8               as ByteString (unpack)
 import           Data.Char                           (isSpace)
 import           Data.Either
 import qualified Data.HashMap.Strict                 as HashMap
+import qualified Data.List
 import           Data.Maybe
 import           Data.Text                           (Text)
 import qualified Data.Text                           as Text
@@ -32,6 +34,7 @@ import qualified Data.Yaml                           as Yaml
 import           JATSXML.HTMLEntities
 import qualified Language.Haskell.Interpreter        as Hint
 import qualified Language.Haskell.Interpreter.Unsafe as Hint
+import           System.Directory
 import           System.Environment
 import           System.Exit
 import           System.IO
@@ -86,11 +89,11 @@ convert fp tmp i = do
     hPutStrLn stderr $
       unlines
         [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
-        , "Reading: " <> fp
-        , "Template: " <> snd tmp
+        , "Parsed Template:  " <> snd tmp
+        , "Converting Input: " <> fp
         ]
   debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
-  (_, t, _) <-
+  (_, !t, _) <-
     runTexWriter
       emptyState {tsFileName = fp, tsTemplate = tmp, tsDebug = debug}
       (jatsXmlToLaTeX i)
@@ -410,17 +413,28 @@ prepareInterp i =
       runner <-
         do erunner <-
              do hPutStrLn stderr ("Compiling interpolation (" <> show i <> ")")
+                homeDir <- getHomeDirectory
                 let args =
                       [ "-no-user-package-db"
-                      , "-package-db /Users/yamadapc/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
+                      -- , "-package-db /Users/yamadapc/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
+                      ] <>
+                      [ "-package-db " <> db
+                      | db <-
+                          [ homeDir <>
+                            "/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
+                          , homeDir <>
+                            "/.stack/snapshots/x86_64-osx/lts-8.0/8.0.2/pkgdb"
+                          , homeDir <>
+                            "/.stack/programs/x86_64-osx/ghc-8.0.2/lib/ghc-8.0.2/package.conf.d"
+                          ]
                       ]
                 Hint.unsafeRunInterpreterWithArgs args $ do
                   Hint.reset
                   Hint.set
-                    [ -- Hint.searchPath Hint.:=
+                      -- Hint.searchPath Hint.:=
                       -- [ "/Users/yamadapc/program/github.com/beijaflor-io/jats2tex"
                       -- ]
-                    ]
+                    []
                   Hint.set
                     [Hint.languageExtensions Hint.:= [Hint.OverloadedStrings]]
                   Hint.setImports
@@ -429,7 +443,8 @@ prepareInterp i =
                     , "Text.JaTex.Template.Types"
                     , "Text.JaTex.Template.TemplateInterp.Helpers"
                     ]
-                  let runnerExpr = "\\context children findChildren ->" <> Text.unpack e
+                  let runnerExpr =
+                        "\\context children findChildren ->" <> Text.unpack e
                       runnerExprType = Hint.as :: ExprType (StateT TexState IO)
                   Hint.interpret runnerExpr runnerExprType
            case erunner of
