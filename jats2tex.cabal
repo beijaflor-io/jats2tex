@@ -15,6 +15,7 @@ build-type:     Simple
 cabal-version:  >= 1.10
 
 extra-source-files:
+    ./docs/man/jats2tex.man
     README.md
 
 data-files:
