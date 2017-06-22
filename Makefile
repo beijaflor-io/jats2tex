@@ -3,6 +3,13 @@ tag=$(shell git describe --tags)
 build: FORCE
 	stack build
 
+build-manpages: FORCE
+	for i in ./docs/man/*.md; do \
+		echo $$i; \
+		echo `dirname $$i`; \
+		pandoc -s $$i -t man -o `dirname $$i`/`basename $$i .md`.man; \
+	done
+
 build-linux: FORCE
 	stack docker pull
 	stack build --docker # --ghc-options="-optc-Os -optl-static -fPIC"
