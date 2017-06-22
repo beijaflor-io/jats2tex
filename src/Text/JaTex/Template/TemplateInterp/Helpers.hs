@@ -1,5 +1,6 @@
 {-# LANGUAGE FlexibleContexts  #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE RankNTypes        #-}
 module Text.JaTex.Template.TemplateInterp.Helpers
     ( intercalate
     , elements
@@ -24,7 +25,9 @@ import           Text.XML.Light
 import           Text.JaTex.Template.Types
 import           Text.JaTex.TexWriter
 
-intercalate :: Monad m => LaTeXT Identity () -> [LaTeXT Identity ()] -> m (LaTeXT Identity ())
+type TemplateHelper m = MonadTex m => m (LaTeXT Identity ())
+
+intercalate :: MonadTex m => LaTeXT Identity () -> [LaTeXT Identity ()] -> TemplateHelper m
 intercalate i t =
     return $ foldl (<>) mempty (Data.List.intercalate [i] (map (: []) t))
 
@@ -38,15 +41,9 @@ elements tc = do
     liftIO (print (map (render . snd . runIdentity . runLaTeXT) (heads <> bodies)))
     return (filter ((/= mempty) . snd . runIdentity . runLaTeXT) (heads <> bodies))
 
--- test = do
---   r <- intercalate (raw "and") [ textbf "1"
---                              , textbf "2"
---                              ]
---   print (runIdentity . runLaTeXT $ r)
-
 alignToRagged
   :: MonadTex m
-  => TemplateContext -> m (LaTeXT Identity ())
+  => TemplateContext -> TemplateHelper m
 alignToRagged tc = do
   let el = tcElement tc
       align = lookupAttr (QName "align" Nothing Nothing) (elAttribs el)
