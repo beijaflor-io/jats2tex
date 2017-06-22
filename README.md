@@ -225,6 +225,9 @@ Saída:
 }
 ```
 
+## Comando `jats2tex-web`
+![](/docs/gifs/jats2tex-web.gif)
+
 - - -
 
 ## Formato dos templates
