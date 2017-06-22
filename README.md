@@ -11,6 +11,7 @@
 https://github.com/beijaflor-io/jats2tex/releases/
 
 ## Uso básico, convertendo JATS-XML para LaTeX
+![](/docs/gifs/jats2tex-uso-basico.gif)
 
 - - -
 
