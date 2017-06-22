@@ -42,10 +42,8 @@ code: |
 kwd: |
   \textit{@@children}
 
-# p: |
-#   @@(alignToRagged)@@
-#   @@children
-#   @@(alignToRaggedEnv)@@
+p: |
+  @@(alignToRagged context)@@
 
 b: |
   \textbf{@@children}
