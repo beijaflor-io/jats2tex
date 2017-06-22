@@ -1,8 +1,10 @@
 resolver: lts-8.0
 packages:
-- '.'
-- './vendor/HaXml'
-- './vendor/text-icu'
+- location: '.'
+- location: './vendor/HaXml'
+  extra-dep: true
+- location: './vendor/text-icu'
+  extra-dep: true
 extra-deps:
 - wreq-0.5.0.1
 flags: {}
