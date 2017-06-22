@@ -39,6 +39,7 @@ build-osx: FORCE
 
 example: FORCE
 	stack build # --executable-profiling --library-profiling
+	rm ./example-output.*
 	stack exec jats2tex ./examples/S0250-54602016000400001.xml -- --output ./example-output.tex
 	./latexindent.sh ./example-output.tex > ./example-output.fmt.tex
 	mv ./example-output.fmt.tex ./example-output.tex
