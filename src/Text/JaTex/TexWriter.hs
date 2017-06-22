@@ -177,6 +177,7 @@ convertElem el@Element {..} = do
       --     Text.putStrLn (render (runLaTeX b))
       addHead h
       add b
+  add $ fromString "\n"
   where
     -- lookupAttr' k =
     --   attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs

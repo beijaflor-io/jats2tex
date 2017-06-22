@@ -15,6 +15,7 @@ import           Control.Monad.State
 import           Data.HashMap.Strict    (HashMap)
 import           Data.Maybe
 import           Data.Text              (Text)
+import qualified Data.Text              as Text
 import           Data.Typeable
 import           Data.Yaml
 import qualified Data.Yaml              as Yaml
@@ -44,13 +45,21 @@ data ConcreteTemplateNode = ConcreteTemplateNode
   } deriving (Show)
 
 instance Yaml.FromJSON ConcreteTemplateNode where
-  parseJSON (String s) = return $ ConcreteTemplateNode "" "" s
-  parseJSON (Object o) = verboseForm
+  parseJSON v =
+    case v of
+      String s -> return $ ConcreteTemplateNode "" "" s
+      Object o -> verboseForm o
+      _        -> fail "Template inválido"
     where
-      verboseForm =
-        ConcreteTemplateNode "" <$> (fromMaybe "" <$> o .:? "head") <*>
-        (fromMaybe "" <$> o .:? "content")
-  parseJSON _ = fail "Template inválido"
+      trimTrailingNewline "" = ""
+      trimTrailingNewline i =
+        if Text.last i == '\n'
+          then Text.init i
+          else i
+      verboseForm o =
+        ConcreteTemplateNode "" <$>
+        (trimTrailingNewline . fromMaybe "" <$> o .:? "head") <*>
+        (trimTrailingNewline . fromMaybe "" <$> o .:? "content")
 
 data TemplateContext = TemplateContext
   { tcHeads   :: [LaTeXT Identity ()]
