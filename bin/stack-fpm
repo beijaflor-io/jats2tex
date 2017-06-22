@@ -14,7 +14,7 @@ fi
 
 echo ">>> Building for Linux..."
 stack docker pull
-stack build --docker --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
+stack build --docker # --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
 
 rm -rf .stack-fpm/linux
 mkdir -p .stack-fpm/linux/usr/local
