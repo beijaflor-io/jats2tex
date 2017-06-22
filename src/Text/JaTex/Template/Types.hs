@@ -75,7 +75,7 @@ type TexM = StateT TexState Identity
 data TexState = TexState
   { tsFileName :: FilePath
   , tsDebug    :: Bool
-  , tsTemplate :: Template
+  , tsTemplate :: (Template, FilePath)
   , tsMetadata :: HashMap Text Text
   , tsHeadRev  :: [LaTeXT Identity ()]
   , tsBodyRev  :: [LaTeXT Identity ()]

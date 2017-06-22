@@ -45,7 +45,7 @@ wrapLines w | w <= 0 = id
 wrapLines w = Text.unlines . concatMap (wrap w) . Text.lines
 
 data JaTexOptions = JaTexOptions { joInputFilePath :: FilePath
-                                 , joTemplate      :: Template
+                                 , joTemplate      :: (Template, FilePath)
                                  , joMaxWidth      :: Int
                                  , joInputDocument :: JATSDoc
                                  }

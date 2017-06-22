@@ -60,7 +60,7 @@ optionsPI =
     (fullDesc <> progDesc "Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE"
     <> header "jats2tex - Customizable JATS to LaTeX Conversion")
 
-run :: FilePath -> Handle -> Template -> Int -> IO ()
+run :: FilePath -> Handle -> (Template, FilePath) -> Int -> IO ()
 run inputFile outputHandle templateFile maxWidth = do
   -- inputFileC <- Text.unpack <$> readJatsFile inputFile
   contents <- readJats inputFile
@@ -84,7 +84,9 @@ defaultMain = do
       templateFile <-
         case optsTemplateFile of
           Nothing -> return defaultTemplate
-          Just f  -> parseTemplateFile f
+          Just f -> do
+            t <- parseTemplateFile f
+            return (t, f)
       run optsInputFile outputFile templateFile (fromMaybe 80 optsColumnWidth)
     RunUpgrade -> Upgrade.runUpgrade
     RunVersion -> Upgrade.putVersionInfo

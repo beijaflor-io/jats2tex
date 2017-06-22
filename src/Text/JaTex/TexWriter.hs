@@ -78,16 +78,22 @@ runTexWriter st w = do
 
 convert
   :: (MonadIO m, MonadMask m) =>
-     String -> Template -> JATSDoc -> m LaTeX
+     String -> (Template, FilePath) -> JATSDoc -> m LaTeX
 convert fp tmp i = do
-  liftIO $ hPutStrLn stderr $ unlines [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
-                                      , "Reading: " <> fp
-                                      ]
+  liftIO $ do
+    hSetBuffering stdout LineBuffering
+    hSetBuffering stderr LineBuffering
+    hPutStrLn stderr $
+      unlines
+        [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
+        , "Reading: " <> fp
+        , "Template: " <> snd tmp
+        ]
   debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
-  (_, t, _) <- runTexWriter emptyState { tsFileName = fp
-                                    , tsTemplate = tmp
-                                    , tsDebug = debug
-                                    } (jatsXmlToLaTeX i)
+  (_, t, _) <-
+    runTexWriter
+      emptyState {tsFileName = fp, tsTemplate = tmp, tsDebug = debug}
+      (jatsXmlToLaTeX i)
   return t
 
 jatsXmlToLaTeX
@@ -156,7 +162,7 @@ convertElem el@Element {..} = do
   TexState {tsTemplate} <- get
   commentEl
   templateContext <- getTemplateContext
-  case findTemplate tsTemplate templateContext of
+  case findTemplate (fst tsTemplate) templateContext of
     Nothing -> run
     Just (_, t) -> do
       (h, b) <- templateApply t templateContext
@@ -526,6 +532,9 @@ parseTemplate s = do
           exitWith (ExitFailure 1)
         Right ns -> return $ Template $ zip cs ns
 
-defaultTemplate :: Template
-defaultTemplate = unsafePerformIO $ parseTemplateFile =<< getDataFileName "./default.yaml"
+defaultTemplate :: (Template, FilePath)
+defaultTemplate = unsafePerformIO $ do
+    fp <- getDataFileName "./default.yaml"
+    t <- parseTemplateFile fp
+    return (t, fp)
 {-# NOINLINE defaultTemplate #-}

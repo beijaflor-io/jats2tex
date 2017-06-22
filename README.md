@@ -10,21 +10,7 @@
 ### De um pacote binário (recomendado)
 https://github.com/beijaflor-io/jats2tex/releases/
 
-## Uso
-```
-$ jats2tex --help
-jats2tex - Customizable JATS to LaTeX Conversion
-
-Usage: jats2tex [--output OUTPUT_FILE] [--template TEMPLATE_FILE] INPUT_FILE
-  Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE
-
-Available options:
-  --output OUTPUT_FILE     LaTeX Output File
-  --template TEMPLATE_FILE Template File
-  INPUT_FILE               XML Input File
-  -h,--help                Show this help text
-
-```
+## Uso básico, convertendo JATS-XML para LaTeX
 
 - - -
 
