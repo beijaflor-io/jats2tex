@@ -46,7 +46,7 @@ elements tc = do
 
 alignToRagged
   :: MonadTex m
-  => TemplateContext -> m (LaTeXT Identity [()])
+  => TemplateContext -> m (LaTeXT Identity ())
 alignToRagged tc = do
   let el = tcElement tc
       align = lookupAttr (QName "align" Nothing Nothing) (elAttribs el)
@@ -60,5 +60,5 @@ alignToRagged tc = do
             "right"  -> Just "FlushRight"
             _        -> Nothing
     case ma of
-      Just a -> sequence (h <> inline)
-      _      -> sequence (h <> inline)
+      Just _  -> sequence_ (h <> inline)
+      Nothing -> sequence_ (h <> inline)
