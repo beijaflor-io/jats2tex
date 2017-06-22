@@ -7,8 +7,13 @@
 ![](/04.jpg)
 
 ## Instalação
-### De um pacote binário (recomendado)
-https://github.com/beijaflor-io/jats2tex/releases/
+### De um pacote:
+- https://github.com/beijaflor-io/jats2tex/releases/
+#### Instalador OSX
+![](/docs/gifs/jats2tex-osx-installer.png)
+
+#### Instalador Windows (WIP)
+
 
 ## Uso básico, convertendo JATS-XML para LaTeX
 ![](/docs/gifs/jats2tex-uso-basico.gif)
