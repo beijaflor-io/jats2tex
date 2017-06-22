@@ -23,6 +23,7 @@ data Options
   | Options { optsOutputFile   :: Maybe FilePath
             , optsTemplateFile :: Maybe String
             , optsColumnWidth  :: Maybe Int
+            , optsWarnings     :: Bool
             , optsInputFile    :: FilePath
             }
 
@@ -48,9 +49,11 @@ options =
        (short 't' <> long "template" <> metavar "TEMPLATE_FILE" <>
         help "YAML/JSON Template File")) <*>
   optional
-    (option auto
-      (short 'w' <> long "max-width" <> metavar "MAX_COLUMN_WIDTH" <>
-       help "Maximum Column Width 80 by default, set to 0 to disable")) <*>
+    (option
+       auto
+       (short 'w' <> long "max-width" <> metavar "MAX_COLUMN_WIDTH" <>
+        help "Maximum Column Width 80 by default, set to 0 to disable")) <*>
+  flag False True (short 'W' <> long "warnings" <> help "Enable warnings") <*>
   argument str (metavar "INPUT_FILE" <> help "XML Input File")
 
 optionsPI :: ParserInfo Options
@@ -60,14 +63,15 @@ optionsPI =
     (fullDesc <> progDesc "Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE"
     <> header "jats2tex - Customizable JATS to LaTeX Conversion")
 
-run :: FilePath -> Handle -> (Template, FilePath) -> Int -> IO ()
-run inputFile outputHandle templateFile maxWidth = do
+run :: FilePath -> Handle -> (Template, FilePath) -> Int -> Bool -> IO ()
+run inputFile outputHandle templateFile maxWidth warnings = do
   -- inputFileC <- Text.unpack <$> readJatsFile inputFile
   contents <- readJats inputFile
   result <- jatsXmlToLaTeXText def { joInputFilePath = inputFile
                                    , joTemplate = templateFile
                                    , joMaxWidth = maxWidth
                                    , joInputDocument = contents
+                                   , joWarnings = warnings
                                    }
   Text.hPutStr outputHandle result
   hFlush outputHandle
@@ -87,6 +91,6 @@ defaultMain = do
           Just f -> do
             t <- parseTemplateFile f
             return (t, f)
-      run optsInputFile outputFile templateFile (fromMaybe 80 optsColumnWidth)
+      run optsInputFile outputFile templateFile (fromMaybe 80 optsColumnWidth) optsWarnings
     RunUpgrade -> Upgrade.runUpgrade
     RunVersion -> Upgrade.putVersionInfo

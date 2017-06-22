@@ -88,8 +88,8 @@ data TexState = TexState
   , tsMetadata :: HashMap Text Text
   , tsHeadRev  :: [LaTeXT Identity ()]
   , tsBodyRev  :: [LaTeXT Identity ()]
+  , tsWarnings :: Bool
   } deriving (Typeable)
-
 
 tcChildren :: TemplateContext -> [LaTeXT Identity ()]
 tcChildren e = tcHeads e <> tcBodies e

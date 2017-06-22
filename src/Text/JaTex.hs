@@ -47,11 +47,13 @@ wrapLines w = concatMap (wrap w) . Text.lines
 data JaTexOptions = JaTexOptions { joInputFilePath :: FilePath
                                  , joTemplate      :: (Template, FilePath)
                                  , joMaxWidth      :: Int
+                                 , joWarnings      :: Bool
                                  , joInputDocument :: JATSDoc
                                  }
 
 instance Default JaTexOptions where
     def = JaTexOptions { joInputFilePath = "<unknown>"
+                       , joWarnings = False
                        , joTemplate = defaultTemplate
                        , joMaxWidth = 80
                        , joInputDocument = mempty
@@ -69,5 +71,5 @@ trimConsecutiveEmptyLines = Text.unlines . fst . foldr helper ([], True)
 
 jatsXmlToLaTeXText :: (MonadIO m, MonadMask m) => JaTexOptions -> m Text
 jatsXmlToLaTeXText JaTexOptions{..} = do
-  t <- convert joInputFilePath joTemplate joInputDocument
+  t <- convert joInputFilePath joTemplate joInputDocument joWarnings
   return (trimConsecutiveEmptyLines (wrapLines joMaxWidth (render t)))

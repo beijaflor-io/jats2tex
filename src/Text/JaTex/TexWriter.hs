@@ -60,13 +60,14 @@ emptyState = TexState { tsBodyRev = mempty
                       , tsMetadata = mempty
                       , tsTemplate = defaultTemplate
                       , tsFileName = ""
+                      , tsWarnings = True
                       , tsDebug = False
                       }
 
 logWarning :: (MonadState TexState m, MonadIO m) => String -> m ()
 logWarning w = do
-    TexState{tsDebug} <- get
-    when tsDebug $ liftIO (hPutStrLn stderr ("[warning]" <> w))
+    TexState{tsWarnings} <- get
+    when tsWarnings $ liftIO (hPutStrLn stderr ("[warning]" <> w))
 
 tsHead :: TexState -> [LaTeXT Identity ()]
 tsHead = reverse . tsHeadRev
@@ -86,8 +87,8 @@ runTexWriter st w = do
 
 convert
   :: (MonadIO m, MonadMask m) =>
-     String -> (Template, FilePath) -> JATSDoc -> m LaTeX
-convert fp tmp i = do
+     String -> (Template, FilePath) -> JATSDoc -> Bool -> m LaTeX
+convert fp tmp i w = do
   liftIO $ do
     hSetBuffering stdout LineBuffering
     hSetBuffering stderr LineBuffering
@@ -100,7 +101,7 @@ convert fp tmp i = do
   debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
   (_, !t, _) <-
     runTexWriter
-      emptyState {tsFileName = fp, tsTemplate = tmp, tsDebug = debug}
+      emptyState {tsFileName = fp, tsTemplate = tmp, tsDebug = debug, tsWarnings = w}
       (jatsXmlToLaTeX i)
   return t
 
