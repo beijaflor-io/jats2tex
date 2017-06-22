@@ -189,7 +189,7 @@ main = do
             !etex <-
               liftIO $ do
                 doc <- readJats uf_tempLocation
-                jatsXmlToLaTeXText def { joInputFilePath = uf_name
+                jatsXmlToLaTeXText def { joInputFilePath = Text.unpack uf_name
                                        , joInputDocument = doc
                                        }
             text etex
