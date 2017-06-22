@@ -32,11 +32,9 @@ name: |
 
 contrib-group:
   head: |
-    \author{
-      @@(
-        intercalate (raw "\\and") =<< elements context
-      )@@
-    }
+    \author{@@(
+        intercalate (raw "\\and ") =<< elements context
+      )@@}
 
 break: "\n"
 
