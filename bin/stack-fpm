@@ -9,7 +9,7 @@ fi
 
 if [[ $version = "" ]]; then
   echo "Version not specified, using $(git describe --tags)"
-  version="$(git describe --tags)"
+  version="$(git describe --tags | sed 's/^v//g')"
 fi
 
 echo ">>> Building for Linux..."
