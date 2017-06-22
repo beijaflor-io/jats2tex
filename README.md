@@ -13,7 +13,7 @@ https://github.com/beijaflor-io/jats2tex/releases/
 ## Uso básico, convertendo JATS-XML para LaTeX
 ![](/docs/gifs/jats2tex-uso-basico.gif)
 
-## Opções na linha de comando
+## Comando `jats2tex`
 ```
 jats2tex - Customizable JATS to LaTeX Conversion
 
@@ -63,6 +63,11 @@ jats2tex ./teste.xml --max-width 0
 Para controlar o formato da saída, usamos um arquivo em formato YAML descrevendo
 o mapa de tags para TeX.
 
+**O template é especificado para o comando usando a flag `-t`:**
+```
+jats2tex ./teste.xml -t ./meu-template.yaml
+```
+
 O arquivo mapeia `{nome-da-tag}: "\latexcorrespondente"` e permite a
 interpolação de _variáveis de contexto_ e _expressões de Haskell_ para a
 conversão de nódulos XML para LaTeX.
@@ -91,7 +96,7 @@ conteudoxml-com-head:
     \conteudolatex{@@children e outras varíaveis ou interpolações}
 ```
 
-#### Exemplo 1: Mapa simples de tag para saída
+##### Exemplo 1: Mapa simples de tag para saída
 O template `default.yaml` incluso no `jats2tex` define o seguinte mapa para a
 tag `b`, que indica texto em negrito:
 
@@ -111,7 +116,7 @@ O programa irá produzir:
 \textbf{Olá mundo}
 ```
 
-#### Exemplo 2: Usando `@@heads` e `@@bodies` para controlar a estrutura da saída
+##### Exemplo 2: Usando `@@heads` e `@@bodies` para controlar a estrutura da saída
 Dado um XML:
 ```xml
 <?xml version="1.0" encoding="ISO-8859-1"?>
@@ -155,6 +160,65 @@ article-title:
 Como `article-title` tem sua saída marcada como `head`, seu conteúdo é
 interpolado como `@@heads`, enquanto o corpo do texto por padrão simplesmente é
 interpolado como visto, se não estiver mapeado por `@@bodies`.
+
+#### Interpolação de haskell
+Além das diretrizes acima, o `jats2tex` incluí em seus templates suporte para a
+interpolação de expressões arbitrárias na linguagem de programação Haskell, que
+são executadas em runtime. Outras linguagens ou sintaxes podem ser exploradas no
+futuro.
+
+A sintaxe é:
+```yaml
+p: |
+  \saida{@@(
+    findChildren "font"
+  )@@}
+```
+
+O motivo disso é que em alguns casos a conversão deve executar regras complexas.
+Uma biblioteca de "helpers" está sendo desenvolvida para ser inclusa com o
+pacote. `findChildren n` por exemplo, encontra os filhos do elemento atual cujas
+tags tem o nome `n` as converte e interpola no local indicado.
+
+##### Exemplo 3: Intercalando "\and" entre os autores de um artigo
+Template:
+```yaml
+name: |
+  @@(
+  findChildren "surname"
+  )@@, @@(
+  findChildren "given-names"
+  )@@
+
+contrib-group:
+  head: |
+    \author{@@(
+        intercalate (raw "\\and ") =<< elements context
+      )@@}
+```
+Entrada:
+```xml
+<contrib-group>
+  <contrib contrib-type="author">
+    <name>
+      <surname><![CDATA[Quiroga Selez]]></surname>
+      <given-names><![CDATA[Gabriela]]></given-names>
+    </name>
+  </contrib>
+  <contrib contrib-type="author">
+    <name>
+      <surname><![CDATA[Giménez Turba]]></surname>
+      <given-names><![CDATA[Alberto]]></given-names>
+    </name>
+  </contrib>
+</contrib-group>
+```
+Saída:
+```latex
+\author{Quiroga Selez, Gabriela
+\and Giménez Turba, Alberto
+}
+```
 
 - - -
 
