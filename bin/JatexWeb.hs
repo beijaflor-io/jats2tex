@@ -176,7 +176,10 @@ main = do
         pkg <- param' "body"
         !etex <-
           liftIO $
-          jatsXmlToLaTeXText "none" defaultTemplate $ parseJATS pkg
+            jatsXmlToLaTeXText def { joInputFilePath = "none"
+                                   -- , joTemplate = defaultTemplate
+                                   , joInputDocument = parseJATS pkg
+                                   }
         text etex
       post "/" $ do
         fs <- files
@@ -184,9 +187,11 @@ main = do
           Nothing -> resError $ Text.unlines ["Missing `body` parameter"]
           Just UploadedFile {..} -> do
             !etex <-
-              liftIO
-                (jatsXmlToLaTeXText "none" defaultTemplate =<<
-                 readJats uf_tempLocation)
+              liftIO $ do
+                doc <- readJats uf_tempLocation
+                jatsXmlToLaTeXText def { joInputFilePath = uf_name
+                                       , joInputDocument = doc
+                                       }
             text etex
   where
     resError e = do

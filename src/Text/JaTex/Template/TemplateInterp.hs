@@ -4,21 +4,13 @@ module Text.JaTex.Template.TemplateInterp
   where
 
 import           Control.Monad.Identity
-import           Control.Monad.IO.Class
-import           Data.Monoid
-import           Data.Text                        (Text)
-import qualified Data.Text                        as Text
-import qualified Language.Haskell.Interpreter     as Hint
-import           System.IO
-import           Text.LaTeX                       (LaTeXT, render)
+import           Data.Text                 (Text)
+import qualified Data.Text                 as Text
 import           Text.Megaparsec
-import qualified Text.Megaparsec.Lexer            as Lexer
+import qualified Text.Megaparsec.Lexer     as Lexer
 import           Text.Megaparsec.Text
-import           Text.XML.Light
 
-import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.Types
-import           Text.JaTex.Util
 
 parseInterp
   :: String -> Text -> Either (ParseError Char Dec) TemplateInterp

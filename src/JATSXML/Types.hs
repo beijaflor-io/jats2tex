@@ -4,9 +4,9 @@
 module JATSXML.Types where
 
 import           Data.Maybe
+import           Text.XML.Light
+
 import           JATSXML.Class
--- import qualified Text.XML.HaXml.XmlContent as HaXml.XmlContent
-import           Text.XML.Light hiding (Parser)
 
 data JatsxmlAbbrev = JatsxmlAbbrev
     { jatsxmlAbbrevElement  :: Element
@@ -3171,6 +3171,7 @@ instance FromXMLNode JATSElement where
   fromXMLNode xmlNode =
       headMaybe (catMaybes (map ($ xmlNode) parsers))
 
+headMaybe :: [a] -> Maybe a
 headMaybe []    = Nothing
 headMaybe (x:_) = Just x
 

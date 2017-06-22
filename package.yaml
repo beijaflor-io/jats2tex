@@ -39,6 +39,7 @@ dependencies:
 - hint
 - megaparsec
 - exceptions
+- data-default
 # - wxHaskell
 
 library:

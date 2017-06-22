@@ -9,10 +9,8 @@ import           Control.Monad
 import qualified Data.Aeson                         as Aeson
 import           Data.Aeson.Lens
 import           Data.ByteString                    (ByteString)
-import qualified Data.ByteString.Char8              as ByteString
 import qualified Data.ByteString.Lazy               as ByteStringL
 import           Data.List
-import           Data.Maybe
 import           Data.Monoid
 import           Data.Text                          (Text)
 import qualified Data.Text                          as Text
@@ -24,7 +22,7 @@ import           System.Directory
 import           System.Executable.Hash
 import           System.Exit
 import           System.FilePath
-import           System.Info
+import qualified System.Info
 import           System.IO
 import           System.IO.Temp
 import           System.IO.Unsafe
@@ -32,6 +30,7 @@ import           Web.Browser
 
 currentHash :: Maybe ByteString
 currentHash = unsafePerformIO $(executableHash)
+{-# NOINLINE currentHash #-}
 
 data AppVersion = AppVersion
   { versionName   :: String
@@ -124,7 +123,7 @@ runUpgrade = do
 
 getPackageFormat :: IO PackageFormat
 getPackageFormat =
-  case [os, arch] of
+  case [System.Info.os, System.Info.arch] of
     [_, a]
       | a /= "x86_64" -> do
         hPutStrLn stderr "Only 64-bits platforms are supported at this time."
@@ -142,6 +141,9 @@ getPackageFormat =
             "Download RPM"    -> return RpmPackage
             "Download Binary" -> return LinuxBinaryPackage
             _                 -> error "Impossible"
+    _ -> do
+        hPutStrLn stderr "Your platform does not support automatic upgrade yet."
+        exitWith (ExitFailure 1)
 
 askQuestion :: String -> [String] -> IO String
 askQuestion question os = do
@@ -158,9 +160,9 @@ askQuestion question os = do
         "" -> loop
         _ ->
           let ar = read inp - 1 :: Int
-          in if ar < 0 then hPutStrLn stderr "Invalid choice" >> loop
-             else if ar >= lenQs then hPutStrLn stderr "Invalid choice" >> loop
-             else return (os !! ar)
+          in if ar < 0 || ar >= lenQs
+               then hPutStrLn stderr "Invalid choice" >> loop
+               else return (os !! ar)
 
 
 data PackageFormat = RpmPackage
@@ -169,6 +171,7 @@ data PackageFormat = RpmPackage
                    | OsxBinaryPackage
                    | LinuxBinaryPackage
 
+packageFormatSuffix :: PackageFormat -> Text
 packageFormatSuffix RpmPackage         = ".x86_64.rpm"
 packageFormatSuffix OsxBinaryPackage   = "-darwin.tar.gz"
 packageFormatSuffix LinuxBinaryPackage = "-linux_amd64.tar.gz"

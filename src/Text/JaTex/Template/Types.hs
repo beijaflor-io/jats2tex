@@ -8,18 +8,16 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 module Text.JaTex.Template.Types where
 
-import           Control.Concurrent
 import           Control.Monad.Catch
 import           Control.Monad.Identity
 import           Control.Monad.IO.Class
 import           Control.Monad.State
-import           Data.HashMap.Strict          (HashMap)
+import           Data.HashMap.Strict    (HashMap)
 import           Data.Maybe
-import           Data.Text                    (Text)
+import           Data.Text              (Text)
 import           Data.Typeable
 import           Data.Yaml
-import qualified Data.Yaml                    as Yaml
-import           Language.Haskell.Interpreter (MonadInterpreter)
+import qualified Data.Yaml              as Yaml
 import           Text.LaTeX
 import           Text.XML.Light
 

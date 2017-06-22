@@ -50,6 +50,7 @@ library
     , hint
     , megaparsec
     , exceptions
+    , data-default
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -101,6 +102,7 @@ executable jats2tex
     , hint
     , megaparsec
     , exceptions
+    , data-default
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -144,6 +146,7 @@ executable jats2tex-build-installer
     , hint
     , megaparsec
     , exceptions
+    , data-default
     , nsis
   if os(windows)
     buildable: True
@@ -185,6 +188,7 @@ executable jats2tex-remove-c-data
     , hint
     , megaparsec
     , exceptions
+    , data-default
     , xml
     , jats2tex
   other-modules:
@@ -229,6 +233,7 @@ executable jats2tex-web
     , hint
     , megaparsec
     , exceptions
+    , data-default
     , jats2tex
     , yesod
     , Spock

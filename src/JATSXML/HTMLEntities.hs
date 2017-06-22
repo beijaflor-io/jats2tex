@@ -1,7 +1,6 @@
 module JATSXML.HTMLEntities where
 
-import qualified Data.Map   as Map
-import           Data.Maybe
+import qualified Data.Map as Map
 
 crefToString :: String -> Maybe String
 crefToString k = (:"") <$> Map.lookup k entitiesMap

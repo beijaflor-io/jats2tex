@@ -1,70 +1,53 @@
-{-# LANGUAGE RankNTypes #-}
 {-# LANGUAGE ConstraintKinds       #-}
 {-# LANGUAGE FlexibleContexts      #-}
+{-# LANGUAGE MultiParamTypeClasses #-}
 {-# LANGUAGE NamedFieldPuns        #-}
 {-# LANGUAGE OverloadedStrings     #-}
 {-# LANGUAGE PartialTypeSignatures #-}
+{-# LANGUAGE RankNTypes            #-}
 {-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE ScopedTypeVariables   #-}
 module Text.JaTex.TexWriter
   where
 
-import qualified Language.Haskell.Interpreter       as Hint
-import qualified Text.LaTeX.Base.Parser             as LaTeX
-import qualified Language.Haskell.Interpreter.Unsafe       as Hint
-import Data.ByteString.Char8 as ByteString (unpack)
-import Crypto.Hash
-import           Control.Monad.Identity
-import           Control.Monad.State
-import           Data.HashMap.Strict (HashMap)
-import qualified Data.HashMap.Strict as HashMap
-import           Control.Monad.Writer
-import           Data.Char              (isSpace)
-import           Data.List
-import           Data.Maybe
-import           Data.Monoid
-import qualified Data.Text              as Text
-import qualified Data.Text.IO           as Text
-import           Text.LaTeX
-import           Text.LaTeX.Base.Class
-import           Text.LaTeX.Base.Syntax
-import           Text.XML.Light
-import           JATSXML.HTMLEntities
-import Data.Typeable
-import qualified Text.Megaparsec as Megaparsec
-import           Control.Monad.Catch
 import           Control.Monad
+import           Control.Monad.Catch
 import           Control.Monad.Identity
 import           Control.Monad.IO.Class
-import           Data.Aeson                         (Result (..), Value (..),
-                                                     fromJSON)
+import           Control.Monad.State
+import           Control.Monad.Writer
+import           Crypto.Hash
+import           Data.Aeson                          (Result (..), Value (..),
+                                                      fromJSON)
 import qualified Data.ByteString
+import           Data.ByteString.Char8               as ByteString (unpack)
+import           Data.Char                           (isSpace)
 import           Data.Either
-import qualified Data.HashMap.Strict                as HashMap
-import           Data.Text                          (Text)
-import qualified Data.Text                          as Text
-import qualified Data.Text.IO                       as Text
-import           Data.Yaml                          ()
-import qualified Data.Yaml                          as Yaml
-import qualified Language.Haskell.Interpreter       as Hint
+import qualified Data.HashMap.Strict                 as HashMap
+import           Data.Maybe
+import           Data.Text                           (Text)
+import qualified Data.Text                           as Text
+import qualified Data.Text.IO                        as Text
+import qualified Data.Yaml                           as Yaml
+import           JATSXML.HTMLEntities
+import qualified Language.Haskell.Interpreter        as Hint
+import qualified Language.Haskell.Interpreter.Unsafe as Hint
+import           System.Environment
 import           System.Exit
 import           System.IO
 import           System.IO.Unsafe
+import           Text.JaTex.Parser
+import           Text.JaTex.Template.Requirements
+import           Text.JaTex.Template.TemplateInterp
+import           Text.JaTex.Template.Types
+import qualified Text.JaTex.Upgrade                  as Upgrade
+import           Text.JaTex.Util
 import           Text.LaTeX
 import           Text.LaTeX.Base.Class
-import qualified Text.LaTeX.Base.Parser             as LaTeX
+import qualified Text.LaTeX.Base.Parser              as LaTeX
 import           Text.LaTeX.Base.Syntax
+import qualified Text.Megaparsec                     as Megaparsec
 import           Text.XML.Light
-import           Debug.Trace
-import           System.Environment
-import           System.IO
-import           Text.JaTex.Parser
-import           Text.JaTex.Template
-import           Text.JaTex.Template.TemplateInterp
-import           Text.JaTex.Template.Requirements
-import           Text.JaTex.Template.Types
-import qualified Text.JaTex.Upgrade     as Upgrade
-import           Text.JaTex.Util
 
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
@@ -75,12 +58,15 @@ emptyState = TexState { tsBodyRev = mempty
                       , tsDebug = False
                       }
 
+tsHead :: TexState -> [LaTeXT Identity ()]
 tsHead = reverse . tsHeadRev
+
+tsBody :: TexState -> [LaTeXT Identity ()]
 tsBody = reverse . tsBodyRev
 
--- runTexWriter
---   :: Monad m =>
---      TexState -> StateT TexState m a -> m (TexState, LaTeX)
+runTexWriter
+  :: Monad m
+  => TexState -> StateT TexState m t -> m (TexState, LaTeX, t)
 runTexWriter st w = do
   (o, newState) <- runStateT w st
   let hCmds = tsHead newState
@@ -88,6 +74,9 @@ runTexWriter st w = do
       (_, r) = runIdentity $ runLaTeXT (sequence_ (hCmds <> bCmds))
   return (newState, r, o)
 
+convert
+  :: (MonadIO m, MonadMask m) =>
+     String -> Template -> JATSDoc -> m LaTeX
 convert fp tmp i = do
   liftIO $ hPutStrLn stderr $ unlines [ "jats2tex@" <> Upgrade.versionName Upgrade.currentVersion
                                       , "Reading: " <> fp
@@ -138,22 +127,22 @@ convertNode (Text (CData _ str ml)) = do
           (\c ->
              case c of
                Elem el -> Elem el {elLine = ml}
-               _ -> c)
+               _       -> c)
           (parseXML str)
   mapM_ convertNode cs
 convertNode (CRef r) = do
   addComment "ref"
   add $ fromString (fromMaybe r (crefToString r))
 
-addHead :: MonadState (TexState) m => LaTeXT Identity () -> m ()
+addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHeadRev = m:tsHeadRev ts
                               })
 
-add :: MonadState (TexState) m => LaTeXT Identity () -> m ()
+add :: MonadState TexState m => LaTeXT Identity () -> m ()
 add m = modify (\ts -> ts { tsBodyRev = m:tsBodyRev ts
                           })
 
-addComment :: MonadState (TexState) m => Text -> m ()
+addComment :: MonadState TexState m => Text -> m ()
 addComment c = do
   isDebug <- tsDebug <$> get
   when isDebug (add (comment c))
@@ -167,19 +156,19 @@ convertElem el@Element {..} = do
   templateContext <- getTemplateContext
   case findTemplate tsTemplate templateContext of
     Nothing -> run
-    Just (c, t) -> do
+    Just (_, t) -> do
       (h, b) <- templateApply t templateContext
-      liftIO $ do
-          putStrLn "Template:"
-          print c
-          putStrLn "Ouput:"
-          Text.putStrLn (render (runLaTeX h))
-          Text.putStrLn (render (runLaTeX b))
+      -- liftIO $ do
+      --     putStrLn "Template:"
+      --     print c
+      --     putStrLn "Ouput:"
+      --     Text.putStrLn (render (runLaTeX h))
+      --     Text.putStrLn (render (runLaTeX b))
       addHead h
       add b
   where
-    lookupAttr' k =
-      attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
+    -- lookupAttr' k =
+    --   attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
     n = qName elName
     commentEl =
       addComment
@@ -343,10 +332,10 @@ findTemplate :: Template -> TemplateContext -> Maybe (ConcreteTemplateNode, Temp
 findTemplate ts el = run ts el
   where
     run (Template []) _ = Nothing
-    run (Template (p@(_, t@TemplateNode{..}):ps)) el =
-        if runPredicate templatePredicate targetName
+    run (Template (p@(_, TemplateNode {templatePredicate}):ps)) e =
+      if runPredicate templatePredicate targetName
         then Just p
-        else run (Template ps) el
+        else run (Template ps) e
     targetName = showQName (elName (tcElement el))
 
 runTemplate
@@ -358,7 +347,7 @@ runTemplate ts el =
   case findTemplate ts el of
     Nothing -> return Nothing
     Just p@(_, t) -> do
-      liftIO $ hPutStrLn stderr "Found template, applying..."
+      -- liftIO $ hPutStrLn stderr "Found template, applying..."
       r <- templateApply t el
       return $ Just (p, r)
 
@@ -369,7 +358,7 @@ applyTemplateToEl l e = do
 
 evalNode
   :: MonadTex m
-  => TemplateContext -> PreparedTemplateNode (StateT (TexState) IO) -> m Text
+  => TemplateContext -> PreparedTemplateNode (StateT TexState IO) -> m Text
 evalNode _ (PreparedTemplatePlain t) = return t
 evalNode e (PreparedTemplateVar "heads") =
   return $ render (runLaTeX (sequence_ (tcHeads e)))
@@ -381,22 +370,16 @@ evalNode _ (PreparedTemplateVar "requirements") =
   return $ render (runLaTeX requirements)
 evalNode _ (PreparedTemplateVar _) = return ""
 evalNode e (PreparedTemplateExpr runner) = do
-  let children = traceShow ("children", map (render . runLaTeX) (tcChildren e)) tcChildren e
-      findChildren = mkFindChildren e
-      wtr = runner e children findChildren
-  -- liftIO $ do
-  --     putStrLn "Running stored expression"
-  --     print (tcElement e)
+  let children = tcChildren e
+      runFind = mkFindChildren e
+      wtr = runner e children runFind
   (_, _, result) <- liftIO $ runTexWriter (tcState e) wtr
-  -- liftIO $ do
-  --     putStrLn "  Got:"
-  --     print (render (runLaTeX result))
   return (render (runLaTeX result))
   where
     mkFindChildren
       :: MonadTex m
       => TemplateContext -> Text -> m (LaTeXT Identity ())
-    mkFindChildren TemplateContext {tcElement} name | traceShow ("findChildren", name, tcElement) True = do
+    mkFindChildren TemplateContext {tcElement} name = do
       inlines <-
         mapM
           convertInlineElem
@@ -408,7 +391,7 @@ evalNode e (PreparedTemplateExpr runner) = do
 prepareInterp :: Text -> IO (PreparedTemplate (StateT TexState IO))
 prepareInterp i =
   case Megaparsec.parseMaybe interpParser i of
-    Nothing -> return []
+    Nothing     -> return []
     Just interp -> mapM doPrepare interp
   where
     doPrepare :: TemplateInterpNode
