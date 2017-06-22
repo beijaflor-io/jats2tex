@@ -8,7 +8,7 @@ jats2tex – Customizable JATS to LaTeX conversion.
 
 # SYNOPSIS
 
-**jats2tex** [**-h**] [**--template**␣*TEMPLATE_FILE*] [**--max-width**␣*MAX_COLUMN_WIDTH*] [**--output** *OUTPUT_FILE*] *INPUTFILE*
+**jats2tex** [**-h**] [**--template**␣*TEMPLATE_FILE*] [**--output** *OUTPUT_FILE*] [**--max-width**␣*MAX_COLUMN_WIDTH*] [**--warnings**] *INPUTFILE*
 
 # DESCRIPTION
 
@@ -29,6 +29,9 @@ an embedded Haskell interpreter for arbitrary manipulation when converting.
 
 **-o**, **--output** *OUTPUT_FILE*
 :   Specify the output file, prints to standard output if not provided
+
+**-W**, **--warnings**
+:   Enable outputting warnings
 
 *INPUT_FILE*
 :   Specify the input XML file to process

@@ -29,7 +29,7 @@ jats2tex - Customizable JATS to LaTeX Conversion
 
 Usage: jats2tex (version | upgrade | [-o|--output OUTPUT_FILE]
                 [-t|--template TEMPLATE_FILE] [-w|--max-width MAX_COLUMN_WIDTH]
-                INPUT_FILE)
+                [-W|--warnings] INPUT_FILE)
   Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE
 
 Available options:
@@ -39,6 +39,7 @@ Available options:
   -w,--max-width MAX_COLUMN_WIDTH
                            Maximum Column Width 80 by default, set to 0 to
                            disable
+  -W,--warnings            Enable warnings
   INPUT_FILE               XML Input File
   -h,--help                Show this help text
 
