@@ -6,6 +6,7 @@ module Text.JaTex.Template.TemplateInterp.Helpers
     , elements
     , alignToRagged
     , module Data.Maybe
+    , module Data.Text
     , module Text.JaTex.Template.Types
     , module Control.Monad.Identity
     , module Control.Monad.State
@@ -19,6 +20,7 @@ import           Control.Monad.Identity    (Identity, runIdentity)
 import           Control.Monad.State       (StateT (..))
 import qualified Data.List
 import           Data.Maybe
+import qualified Data.Text
 import           Text.LaTeX
 import           Text.XML.Light
 
@@ -33,13 +35,14 @@ intercalate i t =
 
 elements :: MonadTex m => TemplateContext -> m [LaTeXT Identity ()]
 elements tc = do
-    let el = tcElement tc
-    r <- mapM convertInlineElem (elChildren el)
-    let heads = concatMap fst r :: [LaTeXT Identity ()]
-        bodies = concatMap snd r
-    liftIO (print (elChildren el))
-    liftIO (print (map (render . snd . runIdentity . runLaTeXT) (heads <> bodies)))
-    return (filter ((/= mempty) . snd . runIdentity . runLaTeXT) (heads <> bodies))
+  let el = tcElement tc
+  r <- mapM convertInlineElem (elChildren el)
+  let heads = concatMap fst r :: [LaTeXT Identity ()]
+      bodies = concatMap snd r
+  let ts = heads <> bodies
+      latexs = map (render . snd . runIdentity . runLaTeXT) ts
+      els = filter ((/= mempty) . Data.Text.strip . fst) (zip latexs ts)
+  return (map snd els)
 
 alignToRagged
   :: MonadTex m
@@ -57,5 +60,5 @@ alignToRagged tc = do
             "right"  -> Just "FlushRight"
             _        -> Nothing
     case ma of
-      Just _  -> sequence_ (h <> inline)
-      Nothing -> sequence_ (h <> inline)
+      Just a -> begin a (sequence_ (fromString "\n":h <> inline))
+      _      -> sequence_ (h <> inline)

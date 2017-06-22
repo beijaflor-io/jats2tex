@@ -43,6 +43,7 @@ kwd: |
   \textit{@@children}
 
 p: |
+  @@(return (fromString "\n"))@@
   @@(alignToRagged context)@@
 
 b: |

@@ -126,7 +126,8 @@ convertNode
 convertNode (Elem e) = do
   addComment "elem"
   ownAdded <- convertElem e
-  when (runLaTeX ownAdded /= mempty || null (elChildren e)) $ add (fromString "\n")
+  when (render (runLaTeX ownAdded) /= mempty ||
+        not (null (elChildren e))) $ add (fromString "\n")
   addComment "endelem"
   return ownAdded
 convertNode (Text (CData CDataText str _))
