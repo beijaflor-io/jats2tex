@@ -59,6 +59,9 @@ library
     , hslua
     , luautils
     , file-embed
+  if os(windows)
+    build-depends:
+        Win32
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -117,6 +120,9 @@ executable jats2tex
     , luautils
     , file-embed
     , jats2tex
+  if os(windows)
+    build-depends:
+        Win32
   other-modules:
       DocumentationCompiler
       Extract
@@ -165,6 +171,9 @@ executable jats2tex-build-installer
     , file-embed
     , nsis
   if os(windows)
+    build-depends:
+        Win32
+  if os(windows)
     buildable: True
   else
     buildable: False
@@ -210,6 +219,9 @@ executable jats2tex-remove-c-data
     , file-embed
     , xml
     , jats2tex
+  if os(windows)
+    build-depends:
+        Win32
   other-modules:
       DocumentationCompiler
       Extract
@@ -267,6 +279,9 @@ executable jats2tex-web
     , blaze-html
     , here
     , wai-middleware-static
+  if os(windows)
+    build-depends:
+        Win32
   other-modules:
       DocumentationCompiler
       Extract

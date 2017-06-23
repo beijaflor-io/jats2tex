@@ -1,3 +1,4 @@
+version=$(shell cat ./package.yaml | kv-formats -i yaml -o json | jq '.version')
 tag=$(shell git describe --tags)
 
 build: FORCE
@@ -15,7 +16,7 @@ build-linux: FORCE
 	stack build --docker # --ghc-options="-optc-Os -optl-static -fPIC"
 
 package: FORCE
-	./bin/stack-fpm jats2tex $(tag)
+	./bin/stack-fpm jats2tex $(version)
 
 full-release: FORCE
 	make release

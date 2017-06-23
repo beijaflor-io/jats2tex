@@ -188,7 +188,7 @@ main = do
           Just UploadedFile {..} -> do
             !etex <-
               liftIO $ do
-                doc <- readJats uf_tempLocation
+                doc <- readJats (Just "utf-8") uf_tempLocation
                 jatsXmlToLaTeXText def { joInputFilePath = Text.unpack uf_name
                                        , joInputDocument = doc
                                        }

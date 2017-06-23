@@ -47,7 +47,11 @@ dependencies:
 - hslua
 - luautils
 - file-embed
-# - wxHaskell
+
+when:
+  condition: 'os(windows)'
+  dependencies:
+  - Win32
 
 library:
   source-dirs:

@@ -14,17 +14,17 @@ import           JATSXML.HTMLEntities
 
 type JATSDoc = [Content]
 
-readJatsFile :: FilePath -> IO Text
-readJatsFile inputFile = do
+readJatsFile :: Maybe String -> FilePath -> IO Text
+readJatsFile encoding inputFile = do
   inp <- ByteString.readFile inputFile
   decodeLatin inp
   where
     decodeLatin i = do
-      converter <- ICU.open "latin-1" Nothing
+      converter <- ICU.open (fromMaybe "latin-1" encoding) Nothing
       return (ICU.toUnicode converter i)
 
-readJats :: FilePath -> IO JATSDoc
-readJats fp = parseJATS <$> readJatsFile fp
+readJats :: Maybe String -> FilePath -> IO JATSDoc
+readJats enc fp = parseJATS <$> readJatsFile enc fp
 
 parseJATS :: Text -> JATSDoc
 parseJATS = parseXML . Text.unpack
