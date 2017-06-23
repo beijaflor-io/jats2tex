@@ -1,8 +1,8 @@
 resolver: lts-8.0
 packages:
 - location: '.'
-- location: './vendor/HaXml'
-  extra-dep: true
+#- location: './vendor/HaXml'
+  #extra-dep: true
 - location: './vendor/text-icu'
   extra-dep: true
 extra-deps:

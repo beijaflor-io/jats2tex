@@ -31,7 +31,6 @@ library
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -91,7 +90,6 @@ executable jats2tex
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -141,7 +139,6 @@ executable jats2tex-build-installer
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -189,7 +186,6 @@ executable jats2tex-remove-c-data
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
@@ -240,7 +236,6 @@ executable jats2tex-web
     , mtl
     , containers
     , HaTeX
-    , HaXml
     , text
     , optparse-applicative
     , bytestring
