@@ -67,7 +67,7 @@ main = writeFile "jats2tex-install.nsi" $ nsis $ do
     ] $ do
       setEnvVarRemove HKCU "PATH" "$INSTDIR"
 
-  section "un.jats2tex snapshots and configuration"
+  section "un.jats2tex configuration"
     [ Unselected
     , Description "Remove %APPDATA%/jats2tex"
     ] $ do

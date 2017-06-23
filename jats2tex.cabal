@@ -58,6 +58,7 @@ library
     , data-default
     , hslua
     , luautils
+    , file-embed
   exposed-modules:
       JATSXML.Class
       JATSXML.HTMLEntities
@@ -114,6 +115,7 @@ executable jats2tex
     , data-default
     , hslua
     , luautils
+    , file-embed
     , jats2tex
   other-modules:
       DocumentationCompiler
@@ -160,6 +162,7 @@ executable jats2tex-build-installer
     , data-default
     , hslua
     , luautils
+    , file-embed
     , nsis
   if os(windows)
     buildable: True
@@ -204,6 +207,7 @@ executable jats2tex-remove-c-data
     , data-default
     , hslua
     , luautils
+    , file-embed
     , xml
     , jats2tex
   other-modules:
@@ -251,6 +255,7 @@ executable jats2tex-web
     , data-default
     , hslua
     , luautils
+    , file-embed
     , jats2tex
     , yesod
     , Spock

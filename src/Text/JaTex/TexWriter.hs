@@ -8,6 +8,7 @@
 {-# LANGUAGE RankNTypes            #-}
 {-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE ScopedTypeVariables   #-}
+{-# LANGUAGE TemplateHaskell       #-}
 module Text.JaTex.TexWriter
   where
 
@@ -21,10 +22,12 @@ import           Crypto.Hash
 import           Data.Aeson                          (Result (..), Value (..),
                                                       fromJSON)
 import           Data.ByteString                     (ByteString)
+import qualified Data.ByteString                     as ByteStringS
 import qualified Data.ByteString.Char8               as ByteString (pack,
                                                                     unpack)
 import           Data.Char                           (isSpace)
 import           Data.Either
+import           Data.FileEmbed
 import qualified Data.HashMap.Strict                 as HashMap
 import qualified Data.List
 import           Data.Maybe
@@ -530,11 +533,14 @@ parseCTemplateFromJson (Object o) =
 parseCTemplateFromJson _ = Left ["Template inválido, o formato esperado é `seletor: 'template'`"]
 
 parseTemplateFile :: FilePath -> IO Template
-parseTemplateFile fp = do
-  v <- Yaml.decodeFile fp
+parseTemplateFile fp = parseTemplate fp =<< ByteStringS.readFile fp
+
+parseTemplate :: FilePath -> Data.ByteString.ByteString -> IO Template
+parseTemplate fp s = do
+  let v = Yaml.decode s
   v' <-
     case v of
-      Nothing -> error "Couldn't parse fp"
+      Nothing -> error $ "Couldn't parse " <> fp
       Just i  -> return i
   case parseCTemplateFromJson v' of
     Left errs -> do
@@ -548,27 +554,10 @@ parseTemplateFile fp = do
           exitWith (ExitFailure 1)
         Right ns -> return $ Template $ zip cs ns
 
-parseTemplate :: Data.ByteString.ByteString -> IO Template
-parseTemplate s = do
-  let mv = Yaml.decode s
-  v <- case mv of
-      Nothing -> error "Couldn't parse fp"
-      Just i  -> return i
-  case parseCTemplateFromJson v of
-    Left errs -> do
-      forM_ errs $ \err -> Text.hPutStrLn stderr err
-      exitWith (ExitFailure 1)
-    Right cs -> do
-      es <- mapM parseTemplateNode cs
-      case mergeEithers es of
-        Left errs -> do
-          forM_ errs $ \err -> Text.hPutStrLn stderr err
-          exitWith (ExitFailure 1)
-        Right ns -> return $ Template $ zip cs ns
-
 defaultTemplate :: (Template, FilePath)
 defaultTemplate = unsafePerformIO $ do
-    fp <- getDataFileName "./default.yaml"
-    t <- parseTemplateFile fp
+    let s = $(embedFile "./default.yaml")
+        fp = "default.yaml"
+    t <- parseTemplate fp s
     return (t, fp)
 {-# NOINLINE defaultTemplate #-}

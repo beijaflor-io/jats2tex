@@ -46,6 +46,7 @@ dependencies:
 - data-default
 - hslua
 - luautils
+- file-embed
 # - wxHaskell
 
 library:
