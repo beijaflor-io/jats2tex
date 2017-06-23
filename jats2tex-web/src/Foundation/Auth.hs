@@ -23,7 +23,7 @@ bootstrapRegisterHandler = do
     lift $ authLayout $ do
         setTitleI Msg.RegisterLong
         [whamlet|
-            <p>_{Msg.EnterEmail}
+            <p>__{Msg.EnterEmail}
             <form method="post" action="@{toParentRoute registerR}" enctype=#{enctype}>
                 <div id="registerForm">
                     ^{widget}

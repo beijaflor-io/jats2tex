@@ -24,18 +24,15 @@ contrib: "@@children"
 back: ""
 
 name: |
-  @@lua(
-  s = find "surname"
-  g = find "given-names"
-  return s .. ", " .. g
+  @@(
+  findChildren "surname"
+  )@@, @@(
+  findChildren "given-names"
   )@@
 
 contrib-group:
   head: |
-
-    \author{@@lua(
-    return table.concat(elements(), '\\and ')
-    )@@}
+    \author{@@(intercalate (raw "\\and ") =<< elements context)@@}
 
 break: "\n"
 
@@ -46,60 +43,31 @@ codebold: |
   \code{@@children}
 
 kwd: |
+  @@lua(
+    return "1"
+  )@@
   \textit{@@children}
 
 p: |
-
-  @@lua(
-    align_to_ragged = {
-      ["center"] = "Center",
-      ["left"] = "FlushLeft",
-      ["right"] = "FlushRight",
-    }
-
-    if attr('align') == nil then
-      return children()
-    end
-
-    env = align_to_ragged[attr('align')]
-    if env == nil then
-      return children()
-    end
-
-    return string.format([[
-      \begin{%s}
-      %s
-      \env{%s}
-    ]], env, env, children())
-  )@@
+  @@(return (fromString "\n"))@@
+  @@(alignToRagged context)@@
 
 pub-date: |
-  \date{@@lua(return find "year")@@}{@@lua(return find "month")@@}{@@lua(return find "day")@@}
+  \date{@@(findChildren "year")@@}{@@(findChildren "month")@@}{@@(findChildren "day")@@}
 
 abstract: |
-  @@lua(
-    if attr('lang') == 'en' then
-      return "\abstract{" .. children() .. "}"
-    end
-
-    return ""
-  )@@
+  \abstract{@@children}
 
 volume: |
   \newcommand{\volume}{@@children}
-
 numero: |
   \newcommand{\numero}{@@children}
-
 fpage: |
   \newcommand{\fpage}{@@children}
-
 lpage: |
   \newcommand{\lpage}{@@children}
-
 copyright-statement: |
   \newcommand{\copyrightstatement}{@@children}
-
 copyright-year: |
   \newcommand{\copyrightyear}{@@children}
 

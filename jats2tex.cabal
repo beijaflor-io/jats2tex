@@ -19,6 +19,7 @@ extra-source-files:
     README.md
 
 data-files:
+    ./default-haskell.yaml
     ./default.yaml
 
 library
