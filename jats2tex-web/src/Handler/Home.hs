@@ -31,7 +31,7 @@ getHomeR = do
     defaultLayout $ do
         let (commentFormId, commentTextareaId, commentListId) = commentIds
         aDomId <- newIdent
-        setTitle "Welcome To Yesod!"
+        setTitle "jats2tex - Convert JATS-XML to TeX"
         $(widgetFile "homepage")
 
 postHomeR :: Handler Html

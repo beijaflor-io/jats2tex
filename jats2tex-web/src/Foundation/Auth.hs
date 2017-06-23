@@ -1,15 +1,16 @@
-{-# LANGUAGE FlexibleContexts #-}
+{-# LANGUAGE FlexibleContexts  #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE QuasiQuotes       #-}
 -- | Defines custom (bootstrap) handlers for Yesod.Auth.Email
 module Foundation.Auth where
 
+import           Control.Applicative ((<$>), (<*>))
+import           Data.Text           (Text)
 import           Yesod.Auth
 import           Yesod.Auth.Email
-import qualified Yesod.Auth.Message       as Msg
+import qualified Yesod.Auth.Message  as Msg
 import           Yesod.Core
 import           Yesod.Form
-import           Control.Applicative      ((<$>), (<*>))
-import           Data.Text                (Text)
 
 data ForgotPasswordForm = ForgotPasswordForm { _forgotEmail :: Text }
 data PasswordForm = PasswordForm { _passwordCurrent :: Text, _passwordNew :: Text, _passwordConfirm :: Text }
@@ -23,7 +24,7 @@ bootstrapRegisterHandler = do
     lift $ authLayout $ do
         setTitleI Msg.RegisterLong
         [whamlet|
-            <p> _{Msg.EnterEmail}
+            <p>_{Msg.EnterEmail}
             <form method="post" action="@{toParentRoute registerR}" enctype=#{enctype}>
                 <div id="registerForm">
                     ^{widget}
@@ -42,8 +43,7 @@ bootstrapRegisterHandler = do
             (emailRes, emailView) <- mreq emailField emailSettings Nothing
 
             let userRes = UserForm <$> emailRes
-            let widget = do
-                [whamlet|
+            let widget = do [whamlet|
                     #{extra}
                     <div .form-group>
                       <label> ^{fvLabel emailView}
@@ -78,8 +78,7 @@ bootstrapEmailLoginHandler toParent = do
 
         let userRes = UserLoginForm Control.Applicative.<$> emailRes
                                     Control.Applicative.<*> passwordRes
-        let widget = do
-            [whamlet|
+        let widget = do [whamlet|
                 #{extra}
                 <div .form-group>
                     ^{fvInput emailView}
@@ -130,8 +129,7 @@ bootstrapSetPasswordHandler needOld = do
         (confirmPasswordRes, confirmPasswordView) <- mreq passwordField confirmPasswordSettings Nothing
 
         let passwordFormRes = PasswordForm <$> currentPasswordRes <*> newPasswordRes <*> confirmPasswordRes
-        let widget = do
-            [whamlet|
+        let widget = do [whamlet|
                 #{extra}
 
                 $if needOld
@@ -192,8 +190,7 @@ bootstrapForgotPasswordHandler = do
         (emailRes, emailView) <- mreq emailField emailSettings Nothing
 
         let forgotPasswordRes = ForgotPasswordForm <$> emailRes
-        let widget = do
-            [whamlet|
+        let widget = do [whamlet|
                 #{extra}
                 ^{fvLabel emailView}
                 ^{fvInput emailView}
