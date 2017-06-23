@@ -23,8 +23,13 @@ full-release: FORCE
 	make deploy
 
 deploy: FORCE
-	docker build -t jats2tex:$(tag) .
+	rm -rf dockerworkspace
+	mkdir dockerworkspace
+	cp ./Dockerfile ./dockerworkspace/Dockerfile
+	cp -r ./.stack-fpm ./dockerworkspace/.stack-fpm 
+	cd dockerworkspace && docker build -t jats2tex:$(tag) .
 	heroku container:push
+	rm -rf dockerworkspace
 
 release: FORCE
 	echo $(tag)
@@ -34,7 +39,7 @@ release: FORCE
 	make upload
 
 upload: FORCE
-	for i in dist/*$(tag)*; do \
+	for i in dist/*$(version)*; do \
 		echo $$i; \
 		github-release upload -u beijaflor-io -r jats2tex -t $(tag) -n $$i -f $$i -l $$i; \
 	done
