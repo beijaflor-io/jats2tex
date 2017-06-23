@@ -1,6 +1,7 @@
 resolver: lts-8.0
 packages:
 - location: '.'
+- location: './jats2tex-web'
 #- location: './vendor/HaXml'
   #extra-dep: true
 #- location: './vendor/text-icu'
