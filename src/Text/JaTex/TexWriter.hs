@@ -20,8 +20,9 @@ import           Control.Monad.Writer
 import           Crypto.Hash
 import           Data.Aeson                          (Result (..), Value (..),
                                                       fromJSON)
-import qualified Data.ByteString
-import           Data.ByteString.Char8               as ByteString (unpack)
+import           Data.ByteString                     (ByteString)
+import qualified Data.ByteString.Char8               as ByteString (pack,
+                                                                    unpack)
 import           Data.Char                           (isSpace)
 import           Data.Either
 import qualified Data.HashMap.Strict                 as HashMap
@@ -29,11 +30,15 @@ import qualified Data.List
 import           Data.Maybe
 import           Data.Text                           (Text)
 import qualified Data.Text                           as Text
+import qualified Data.Text.Encoding                  as Text (decodeUtf8,
+                                                              encodeUtf8)
 import qualified Data.Text.IO                        as Text
 import qualified Data.Yaml                           as Yaml
 import           JATSXML.HTMLEntities
 import qualified Language.Haskell.Interpreter        as Hint
 import qualified Language.Haskell.Interpreter.Unsafe as Hint
+import qualified Scripting.Lua                       as Lua
+import qualified Scripting.LuaUtils                  as Lua
 import           System.Directory
 import           System.Environment
 import           System.Exit
@@ -74,6 +79,11 @@ tsHead = reverse . tsHeadRev
 
 tsBody :: TexState -> [LaTeXT Identity ()]
 tsBody = reverse . tsBodyRev
+
+execTexWriter :: Monad m => TexState -> StateT TexState m b -> m b
+execTexWriter s e = do
+    (_, _, r) <- runTexWriter s e
+    return r
 
 runTexWriter
   :: Monad m
@@ -215,9 +225,10 @@ convertElem el@Element {..} = do
     getTemplateContext = do
       (h, i) <- convertInlineChildren el
       st <- get
+      l <- liftIO Lua.newstate
       return
         TemplateContext
-        {tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
+        {tcLuaState = l, tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
     run =
       case elContent of
         [] -> return (textell mempty)
@@ -324,6 +335,9 @@ evalNode e (PreparedTemplateVar "children") =
 evalNode _ (PreparedTemplateVar "requirements") =
   return $ render (runLaTeX requirements)
 evalNode _ (PreparedTemplateVar _) = return ""
+evalNode e (PreparedTemplateLua run) = do
+    (_, _, result) <- liftIO $ runTexWriter (tcState e) (run e)
+    return (render (runLaTeX result))
 evalNode e (PreparedTemplateExpr runner) = do
   let children = tcChildren e
       runFind = mkFindChildren e
@@ -353,6 +367,65 @@ prepareInterp i =
               -> IO (PreparedTemplateNode (StateT TexState IO))
     doPrepare (TemplateVar t) = return $ PreparedTemplateVar t
     doPrepare (TemplatePlain t) = return $ PreparedTemplatePlain t
+    doPrepare (TemplateLua t) = return $ PreparedTemplateLua luaRunner
+      where
+        luaRunner context@TemplateContext {..} =
+          liftIO $
+            -- putStrLn ("Running lua interpolation (" <> show t <> ")")
+           do
+            let l = tcLuaState
+            Lua.openlibs l
+            Lua.registerhsfunction
+              l
+              "children"
+              (return (render (runLaTeX (sequence_ (tcChildren context)))) :: IO Text)
+            Lua.registerhsfunction l "find" luaFindChildren
+            Lua.registerhsfunction l "attr" luaAttr
+            Lua.registerhsfunction l "elements" luaElements
+            Lua.luaDoString
+              l
+              (Text.unpack
+                 (Text.unlines
+                    (["function jats2tex_module_wrapper()"] <>
+                     map ("  " <>) (Text.lines t) <>
+                     ["end"])))
+            result <- Lua.callfunc l "jats2tex_module_wrapper"
+            -- putStrLn "Result:"
+            -- print result
+            return (raw (Text.decodeUtf8 result))
+          where
+            luaAttr :: ByteString -> IO (Maybe ByteString)
+            luaAttr name =
+              return $
+              ByteString.pack <$>
+              lookupAttr (QName sname Nothing Nothing) (elAttribs tcElement)
+              where
+                sname = Text.unpack (Text.decodeUtf8 name)
+            luaElements :: IO [ByteString]
+            luaElements =
+              execTexWriter tcState $ do
+                r <- mapM convertInlineElem (elChildren tcElement)
+                let heads = concatMap fst r :: [LaTeXT Identity ()]
+                    bodies = concatMap snd r
+                let ts = heads <> bodies
+                    latexs = map (render . snd . runIdentity . runLaTeXT) ts
+                    els =
+                      filter ((/= mempty) . Text.strip . fst) (zip latexs ts)
+                return (map (Text.encodeUtf8 . fst) els)
+            luaFindChildren :: ByteString -> IO ByteString
+            luaFindChildren name = do
+              inlines <-
+                execTexWriter tcState $
+                mapM
+                  convertInlineElem
+                  (findChildren
+                     (QName (ByteString.unpack name) Nothing Nothing)
+                     tcElement)
+              let heads =
+                    sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
+                  bodies =
+                    sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
+              return (Text.encodeUtf8 (render (runLaTeX (heads <> bodies))))
     doPrepare (TemplateExpr e) = do
       runner <-
         do erunner <-
@@ -399,33 +472,35 @@ prepareInterp i =
       return $ PreparedTemplateExpr runner
 
 parseTemplateNode :: ConcreteTemplateNode -> IO (Either Text (TemplateNode (StateT TexState IO)))
-parseTemplateNode ConcreteTemplateNode {..} =
-  case latexContent of
-    Right l ->
-      case templateHead of
-        "" -> do
-          prepared <- liftIO $ prepareInterp (render l)
-          return $ Right
-            TemplateNode
-            { templatePredicate = Text.unpack templateSelector
-            , templateLaTeXHead = mempty
-            , templateLaTeX = prepared
-            }
-        _ ->
-          case LaTeX.parseLaTeX templateHead of
-            Right h -> do
-              preparedH <- liftIO $ prepareInterp (render h)
-              preparedL <- liftIO $ prepareInterp (render l)
-              return $ Right
-                TemplateNode
-                { templatePredicate = Text.unpack templateSelector
-                , templateLaTeXHead = preparedH
-                , templateLaTeX = preparedL
-                }
-            Left _ -> return $ Left "Failed to parse template head"
-    Left _ -> return $ Left "Failed to parse template content"
-  where
-    latexContent = LaTeX.parseLaTeX templateContent
+parseTemplateNode ConcreteTemplateNode {..} = do
+  -- case LaTeX.parseLaTeX templateContent of
+  --   Right l -> do
+  --     case templateHead of
+  --       "" -> do
+  --         prepared <- liftIO $ prepareInterp (render l)
+  --         return $
+  --           Right
+  --             TemplateNode
+  --             { templatePredicate = Text.unpack templateSelector
+  --             , templateLaTeXHead = mempty
+  --             , templateLaTeX = prepared
+  --             }
+  --       _ ->
+  --         case LaTeX.parseLaTeX templateHead of
+  --           Right h -> do
+              -- preparedH <- liftIO $ prepareInterp (render h)
+              -- preparedL <- liftIO $ prepareInterp (render l)
+              preparedH <- liftIO $ prepareInterp templateHead
+              preparedL <- liftIO $ prepareInterp templateContent
+              return $
+                Right
+                  TemplateNode
+                  { templatePredicate = Text.unpack templateSelector
+                  , templateLaTeXHead = preparedH
+                  , templateLaTeX = preparedL
+                  }
+    --         Left e -> return $ Left (Text.pack (show e))
+    -- Left e -> return $ Left (Text.pack (show e))
 
 mergeEithers :: [Either a b] -> Either [a] [b]
 mergeEithers [] = Right []

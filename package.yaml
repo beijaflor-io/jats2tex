@@ -43,6 +43,8 @@ dependencies:
 - megaparsec
 - exceptions
 - data-default
+- hslua
+- luautils
 # - wxHaskell
 
 library:

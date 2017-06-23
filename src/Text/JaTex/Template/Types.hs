@@ -19,15 +19,19 @@ import qualified Data.Text              as Text
 import           Data.Typeable
 import           Data.Yaml
 import qualified Data.Yaml              as Yaml
+import qualified Scripting.Lua          as Lua
 import           Text.LaTeX
 import           Text.XML.Light
 
 type ExprType m = MonadTex m =>
                     TemplateContext -> [LaTeXT Identity ()] -> (Text -> m (LaTeXT Identity ())) -> m (LaTeXT Identity ())
 
+type LuaExprType m = MonadTex m => TemplateContext -> m (LaTeXT Identity ())
+
 type TemplateInterp = [TemplateInterpNode]
 data TemplateInterpNode = TemplateVar Text
                         | TemplateExpr Text
+                        | TemplateLua Text
                         | TemplatePlain Text
   deriving(Show)
 
@@ -35,6 +39,7 @@ type PreparedTemplate m = [PreparedTemplateNode m]
 data PreparedTemplateNode m
   = PreparedTemplateVar Text
   | PreparedTemplateExpr (ExprType m)
+  | PreparedTemplateLua (LuaExprType m)
   | PreparedTemplatePlain Text
 
 
@@ -62,10 +67,11 @@ instance Yaml.FromJSON ConcreteTemplateNode where
         (trimTrailingNewline . fromMaybe "" <$> o .:? "content")
 
 data TemplateContext = TemplateContext
-  { tcHeads   :: [LaTeXT Identity ()]
-  , tcBodies  :: [LaTeXT Identity ()]
-  , tcElement :: Element
-  , tcState   :: TexState
+  { tcHeads    :: [LaTeXT Identity ()]
+  , tcBodies   :: [LaTeXT Identity ()]
+  , tcElement  :: Element
+  , tcState    :: TexState
+  , tcLuaState :: Lua.LuaState
   }
 
 data TemplateNode m = TemplateNode

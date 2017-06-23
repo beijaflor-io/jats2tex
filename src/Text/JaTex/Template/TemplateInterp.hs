@@ -21,6 +21,7 @@ interpParser =
   manyTill (
   choice
     [ label "expr" (try interpExprParser)
+    , label "lua" (try luaParser)
     , label "var" (try interpVarParser)
     , label "plain" interpPlainParser
     ]) eof
@@ -42,6 +43,12 @@ interpVarParser =
   TemplateVar . Text.pack <$> do
     _ <- symbol "@@"
     someTill letterChar (lookAhead (notFollowedBy letterChar))
+
+luaParser :: Parser TemplateInterpNode
+luaParser =
+  TemplateLua . Text.pack <$> do
+    _ <- symbol "@@lua("
+    someTill anyChar (symbol ")@@")
 
 interpPlainParser :: Parser TemplateInterpNode
 interpPlainParser =

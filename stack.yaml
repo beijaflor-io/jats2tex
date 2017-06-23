@@ -7,5 +7,6 @@ packages:
   extra-dep: true
 extra-deps:
 - wreq-0.5.0.1
+- luautils-0.1.4
 flags: {}
 extra-package-dbs: []
