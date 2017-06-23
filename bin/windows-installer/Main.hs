@@ -26,6 +26,14 @@ main = writeFile "jats2tex-install.nsi" $ nsis $ do
   section "Install Haskell jats2tex" [Required] $ do
     setOutPath "$INSTDIR"
     file [] "jats2tex.exe"
+    file [] "jats2tex-web.exe"
+    file [] "libs/windows/libgcc_s_seh-1.dll"
+    file [] "libs/windows/libicudt58.dll"
+    file [] "libs/windows/libicuin58.dll"
+    file [] "libs/windows/libicuuc58.dll"
+    file [] "libs/windows/libstdc++-6.dll"
+    file [] "libs/windows/libwinpthread-1.dll"
+
 
     -- Write the installation path into the registry
     writeRegStr HKCU "SOFTWARE/$Name" "Install_Dir" "$INSTDIR"

@@ -1,6 +1,6 @@
 setlocal
 
-stack --install-ghc build --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
+stack --install-ghc build
 @if errorlevel 1 exit /b
 stack exec jats2tex-build-installer
 @if errorlevel 1 exit /b
