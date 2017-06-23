@@ -9,7 +9,10 @@
 ## Instalação
 ### A partir do código fonte
 - [Instale o gerenciador de pacotes Haskell `stack`](https://docs.haskellstack.org/en/stable/README/#how-to-install)
-- Execute `stack install --install-ghc https://github.com/beijaflor-io/jats2tex`
+- `git clone https://github.com/beijaflor-io/jats2tex`
+- `cd jats2tex`
+- `git submodule update --init --recursive`
+- Execute `stack install --install-ghc`
 
 ### De um pacote binário
 - https://github.com/beijaflor-io/jats2tex/releases/
