@@ -75,43 +75,43 @@ optionsPI =
     (fullDesc <> progDesc "Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE"
     <> header "jats2tex - Customizable JATS to LaTeX Conversion")
 
-run :: Maybe String -> FilePath -> Handle -> (Template, FilePath) -> Int -> Bool -> IO ()
-run mencoding inputFile outputHandle templateFile maxWidth warnings = do
-  -- inputFileC <- Text.unpack <$> readJatsFile inputFile
-  contents <- readJats mencoding inputFile
-  result <- jatsXmlToLaTeXText def { joInputFilePath = inputFile
+run Options{..} = do
+  outputFile <-
+    case optsOutputFile of
+      Nothing -> return stdout
+      Just f  -> openFile f WriteMode
+  makeSafe outputFile
+  templateFile <-
+    case optsTemplateFile of
+      Nothing -> return defaultTemplate
+      Just f -> do
+        t <- parseTemplateFile f
+        return (t, f)
+
+  contents <- readJats optsInputEncoding optsInputFile
+  result <- jatsXmlToLaTeXText def { joInputFilePath = optsInputFile
                                    , joTemplate = templateFile
-                                   , joMaxWidth = maxWidth
+                                   , joMaxWidth = fromMaybe 80 optsColumnWidth
                                    , joInputDocument = contents
-                                   , joWarnings = warnings
+                                   , joWarnings = optsWarnings
                                    }
-  Text.hPutStr outputHandle result
-  hFlush outputHandle
+  case optsOutputFile of
+      Nothing -> Text.putStrLn result
+      Just f  -> Text.writeFile f result
 
 makeSafe h = hSetEncoding h utf8
 
 defaultMain :: IO ()
 defaultMain = do
+  print localeEncoding
   setLocaleEncoding utf8
 #ifdef mingw32_HOST_OS
+  print =<< getConsoleCP
   setConsoleCP 65001
 #endif
 
   opts <- execParser optionsPI
   case opts of
-    Options {..} -> do
-      outputFile <-
-        case optsOutputFile of
-          Nothing -> return stdout
-          Just f  -> openFile f WriteMode
-      makeSafe outputFile
-      templateFile <-
-        case optsTemplateFile of
-          Nothing -> return defaultTemplate
-          Just f -> do
-            t <- parseTemplateFile f
-            return (t, f)
-
-      run optsInputEncoding optsInputFile outputFile templateFile (fromMaybe 80 optsColumnWidth) optsWarnings
-    RunUpgrade -> Upgrade.runUpgrade
-    RunVersion -> Upgrade.putVersionInfo
+    o@Options {} -> run o
+    RunUpgrade   -> Upgrade.runUpgrade
+    RunVersion   -> Upgrade.putVersionInfo
