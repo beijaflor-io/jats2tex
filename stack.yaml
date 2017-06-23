@@ -3,8 +3,8 @@ packages:
 - location: '.'
 #- location: './vendor/HaXml'
   #extra-dep: true
-- location: './vendor/text-icu'
-  extra-dep: true
+#- location: './vendor/text-icu'
+  #extra-dep: true
 extra-deps:
 - wreq-0.5.0.1
 - luautils-0.1.4

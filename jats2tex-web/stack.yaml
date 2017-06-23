@@ -4,10 +4,6 @@ packages:
 - '.'
 - location: '..'
   extra-dep: true
-- location: '../vendor/text-icu'
-  extra-dep: true
-- location: '../vendor/HaXml'
-  extra-dep: true
 extra-deps:
 - luautils-0.1.4
 resolver: lts-8.17
