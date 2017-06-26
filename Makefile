@@ -1,8 +1,11 @@
 version=$(shell cat ./package.yaml | kv-formats -i yaml -o json | jq '.version')
 tag=$(shell git describe --tags)
 
-build: FORCE
+build: build-frontend FORCE
 	stack build
+
+build-frontend: FORCE
+	cd ./jats2tex-web && npm run build
 
 build-manpages: FORCE
 	for i in ./docs/man/*.md; do \
@@ -11,7 +14,7 @@ build-manpages: FORCE
 		pandoc -s $$i -t man -o `dirname $$i`/`basename $$i .md`.man; \
 	done
 
-build-linux: FORCE
+build-linux: build-frontend FORCE
 	stack docker pull
 	stack build --docker # --ghc-options="-optc-Os -optl-static -fPIC"
 
@@ -50,7 +53,7 @@ upload: FORCE
 build-pdf: FORCE
 	pandoc ./README.md -o ./jats2tex.pdf
 
-build-osx: FORCE
+build-osx: build-frontend FORCE
 	stack build --extra-lib-dirs=/usr/local/opt/icu4c/lib --extra-include-dirs=/usr/local/opt/icu4c/include
 
 example: FORCE

@@ -18,20 +18,39 @@ stack build --docker # --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
 
 rm -rf .stack-fpm/linux
 mkdir -p .stack-fpm/linux/usr/local
+
+# Static files
+make build-frontend
+mkdir -p .stack-fpm/linux/usr/local/var/jats2tex
+cp -r ./jats2tex-web/static .stack-fpm/linux/usr/local/var/jats2tex/static
+
+# Man Pages
 mkdir -p .stack-fpm/linux/usr/local/share/man/man1
 cp ./docs/man/jats2tex.man .stack-fpm/linux/usr/local/share/man/man1/jats2tex.1
+
+mkdir -p .stack-fpm/linux/usr/local/var/jats2tex/static
+
+# Binaries, docs, din libraries
 cp -r "$(stack path --docker --local-install-root)"/* ./.stack-fpm/linux/usr/local/
+
 cd .stack-fpm/linux
 echo ">>> Building Linux packages..."
+
+# Archives
 tar -zcvf stack-fpm.tar.gz ./*
+
 fpm -t deb -s tar --deb-pre-depends libgmp-dev --deb-pre-depends libicu-dev -n "$name" -v "$version" ./stack-fpm.tar.gz
+
 fpm -t rpm -s tar --rpm-os linux --rpm-autoreq -n "$name" -v "$version" ./stack-fpm.tar.gz
+
+# Moving to distribution directory
 mkdir -p ../../dist
 mv ./*.deb ../../dist/
 mv ./*.rpm ../../dist/
 mv ./stack-fpm.tar.gz ../../dist/"$name-$version-linux_amd64.tar.gz"
 cd ../..
 
+# OSX
 if [ "$(uname)" = "Darwin" ]; then
   echo ">>> Building Darwin..."
   stack build
