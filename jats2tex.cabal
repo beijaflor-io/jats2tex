@@ -126,7 +126,6 @@ executable jats2tex
   other-modules:
       DocumentationCompiler
       Extract
-      JatexWeb
       RemoveCData
       XsdToHaskell
   default-language: Haskell2010
@@ -225,7 +224,6 @@ executable jats2tex-remove-c-data
   other-modules:
       DocumentationCompiler
       Extract
-      JatexWeb
       Main
       XsdToHaskell
   default-language: Haskell2010

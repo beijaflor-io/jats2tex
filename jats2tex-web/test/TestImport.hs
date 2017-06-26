@@ -1,23 +1,25 @@
-{-# LANGUAGE QuasiQuotes #-}
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE QuasiQuotes       #-}
 module TestImport
     ( module TestImport
     , module X
     ) where
 
-import Application           (makeFoundation, makeLogWare)
-import ClassyPrelude         as X hiding (delete, deleteBy, Handler)
-import Database.Persist      as X hiding (get)
-import Database.Persist.Sql  (SqlPersistM, SqlBackend, runSqlPersistMPool, rawExecute, rawSql, unSingle, connEscapeName)
-import Foundation            as X
-import Model                 as X
-import Test.Hspec            as X
-import Text.Shakespeare.Text (st)
-import Yesod.Default.Config2 (useEnv, loadYamlSettings)
-import Yesod.Auth            as X
-import Yesod.Test            as X
-import Yesod.Core.Unsafe     (fakeHandlerGetLogger)
+import           Application           (makeFoundation, makeLogWare)
+import           ClassyPrelude         as X hiding (Handler, delete, deleteBy)
+import           Database.Persist      as X hiding (get)
+import           Database.Persist.Sql  (SqlBackend, SqlPersistM, connEscapeName,
+                                        rawExecute, rawSql, runSqlPersistMPool,
+                                        unSingle)
+import           Foundation            as X
+import           Model                 as X
+import           Test.Hspec            as X
+import           Text.Shakespeare.Text (st)
+import           Yesod.Auth            as X
+import           Yesod.Core.Unsafe     (fakeHandlerGetLogger)
+import           Yesod.Default.Config2 (loadYamlSettings, useEnv)
+import           Yesod.Test            as X
 
 runDB :: SqlPersistM a -> YesodExample App a
 runDB query = do
@@ -81,5 +83,8 @@ createUser :: Text -> YesodExample App (Entity User)
 createUser ident = do
     runDB $ insertEntity User
         { userIdent = ident
+        , userVerkey = Nothing
+        , userVerified = True
+        , userEmail = "test-email@beijaflor.io"
         , userPassword = Nothing
         }
