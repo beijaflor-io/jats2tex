@@ -58,6 +58,7 @@ library
     , hslua
     , luautils
     , file-embed
+    , template-haskell
   if os(windows)
     build-depends:
         Win32
@@ -117,6 +118,7 @@ executable jats2tex
     , hslua
     , luautils
     , file-embed
+    , template-haskell
     , jats2tex
   if os(windows)
     build-depends:
@@ -166,6 +168,7 @@ executable jats2tex-build-installer
     , hslua
     , luautils
     , file-embed
+    , template-haskell
     , nsis
   if os(windows)
     build-depends:
@@ -213,6 +216,7 @@ executable jats2tex-remove-c-data
     , hslua
     , luautils
     , file-embed
+    , template-haskell
     , xml
     , jats2tex
   if os(windows)
@@ -223,64 +227,5 @@ executable jats2tex-remove-c-data
       Extract
       JatexWeb
       Main
-      XsdToHaskell
-  default-language: Haskell2010
-
-executable jats2tex-web
-  main-is: JatexWeb.hs
-  hs-source-dirs:
-      ./bin
-  build-depends:
-      base >=4 && <5
-    , xml
-    , mtl
-    , containers
-    , HaTeX
-    , text
-    , optparse-applicative
-    , bytestring
-    , text-icu
-    , executable-hash
-    , cabal-file-th
-    , wreq
-    , lens
-    , lens-aeson
-    , vector
-    , aeson
-    , directory
-    , temporary
-    , filepath
-    , open-browser
-    , polyparse
-    , unordered-containers
-    , yaml
-    , shakespeare
-    , cryptohash
-    , hint
-    , megaparsec
-    , exceptions
-    , data-default
-    , hslua
-    , luautils
-    , file-embed
-    , jats2tex
-    , yesod
-    , Spock
-    , hamlet
-    , http-types
-    , unordered-containers
-    , aeson
-    , shakespeare
-    , blaze-html
-    , here
-    , wai-middleware-static
-  if os(windows)
-    build-depends:
-        Win32
-  other-modules:
-      DocumentationCompiler
-      Extract
-      Main
-      RemoveCData
       XsdToHaskell
   default-language: Haskell2010

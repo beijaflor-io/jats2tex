@@ -1,4 +1,6 @@
 .stack-work
 scielo-docs
 jats2tex-web/.stack-work
+jats2tex-web/node_modules
 dist
+.git

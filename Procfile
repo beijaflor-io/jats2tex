@@ -1,1 +1,1 @@
-web: echo "Starting" && /app/.local/bin/jatex-web
+web: echo "Starting" && /app/.local/bin/jats2tex-web

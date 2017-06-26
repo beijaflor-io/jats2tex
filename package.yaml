@@ -47,6 +47,7 @@ dependencies:
 - hslua
 - luautils
 - file-embed
+- template-haskell
 
 when:
   condition: 'os(windows)'
@@ -66,23 +67,6 @@ executables:
     - ./bin
     dependencies:
     - jats2tex
-
-  jats2tex-web:
-    main: JatexWeb.hs
-    source-dirs:
-    - ./bin
-    dependencies:
-    - jats2tex
-    - yesod
-    - Spock
-    - hamlet
-    - http-types
-    - unordered-containers
-    - aeson
-    - shakespeare
-    - blaze-html
-    - here
-    - wai-middleware-static
 
   jats2tex-remove-c-data:
     main: RemoveCData.hs

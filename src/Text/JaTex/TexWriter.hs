@@ -40,6 +40,7 @@ import qualified Data.Yaml                           as Yaml
 import           JATSXML.HTMLEntities
 import qualified Language.Haskell.Interpreter        as Hint
 import qualified Language.Haskell.Interpreter.Unsafe as Hint
+import           Language.Haskell.TH
 import qualified Scripting.Lua                       as Lua
 import qualified Scripting.LuaUtils                  as Lua
 import           System.Directory
@@ -556,7 +557,8 @@ parseTemplate fp s = do
 
 defaultTemplate :: (Template, FilePath)
 defaultTemplate = unsafePerformIO $ do
-    let s = $(embedFile "./default.yaml")
+    let s = $(do fp <- runIO $ getDataFileName "./default.yaml"
+                 embedFile fp)
         fp = "default.yaml"
     t <- parseTemplate fp s
     return (t, fp)

@@ -23,12 +23,15 @@ full-release: FORCE
 	make deploy
 
 deploy: FORCE
+	make build-image
+	heroku container:push
+
+build-image: FORCE
 	rm -rf dockerworkspace
 	mkdir dockerworkspace
 	cp ./Dockerfile ./dockerworkspace/Dockerfile
 	cp -r ./.stack-fpm ./dockerworkspace/.stack-fpm 
 	cd dockerworkspace && docker build -t jats2tex:$(tag) .
-	heroku container:push
 	rm -rf dockerworkspace
 
 release: FORCE
