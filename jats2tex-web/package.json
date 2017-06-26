@@ -7,6 +7,13 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "substance-texture": "^1.0.0-alpha.2"
+    "css-loader": "^0.28.4",
+    "react": "^15.6.1",
+    "react-codemirror": "^1.0.0",
+    "react-dom": "^15.6.1",
+    "react-split-pane": "^0.1.63",
+    "style-loader": "^0.18.2",
+    "substance-texture": "^1.0.0-alpha.2",
+    "typescript": "^2.3.4"
   }
 }

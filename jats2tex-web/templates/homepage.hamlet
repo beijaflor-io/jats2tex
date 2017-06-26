@@ -1,9 +1,3 @@
-<div .masthead>
-    <div .container>
-        <div .row>
-            <h1 .header>
-                jats2tex
-            <h2>
-                Converts JATS-XML to TeX
-
-<div .container>
+<div #app>
+    <div .text-center>
+        Loading...

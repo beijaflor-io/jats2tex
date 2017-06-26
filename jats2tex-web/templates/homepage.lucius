@@ -1,13 +1,24 @@
-h2##{aDomId} {
-    color: #990
+textarea, pre {
+  white-space: nowrap;
+  overflow: scroll;
 }
 
-li {
-    line-height: 2em;
-    font-size: 16px
+pre code {
+  white-space: pre;
 }
 
-##{commentTextareaId} {
-    width: 400px;
-    height: 100px;
+.jumbotron h4 {
+  font-size: 20px;
+}
+
+.jumbotron h5 {
+  font-size: 18px;
+}
+
+.jumbotron p {
+  font-size: 16px;
+}
+
+h4 {
+  font-weight: 800;
 }

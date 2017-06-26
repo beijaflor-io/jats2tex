@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "./frontend"
+  ],
+  "exclude": [
+    "./node_modules/typescript/**/*"
+  ]
+}

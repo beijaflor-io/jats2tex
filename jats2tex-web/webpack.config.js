@@ -1,7 +1,13 @@
 const path = require('path');
+
 module.exports = {
   //The entry point for the bundle.
   entry: './frontend/index.js',
+  module: {
+    loaders: [
+      {test: /\.css$/, loader: 'style-loader!css-loader' },
+    ],
+  },
   output: {
     //Name of the artifact produced by webpack.
     filename: 'bundle.js',
