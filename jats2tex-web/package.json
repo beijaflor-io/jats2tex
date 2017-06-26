@@ -3,7 +3,7 @@
   "private": true,
   "main": "frontend/index.js",
   "scripts": {
-    "build": "webpack build -p"
+    "build": "webpack -p"
   },
   "devDependencies": {
     "webpack": "^2.6.1",
