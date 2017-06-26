@@ -24,6 +24,11 @@ make build-frontend
 mkdir -p .stack-fpm/linux/usr/local/var/jats2tex
 cp -r ./jats2tex-web/static .stack-fpm/linux/usr/local/var/jats2tex/static
 
+# Configuration files
+mkdir -p .stack-fpm/linux/usr/local/etc/jats2tex
+cp -r ./jats2tex-web/config .stack-fpm/linux/usr/local/etc/jats2tex/config
+cp -r ./default.yaml .stack-fpm/linux/usr/local/etc/jats2tex/default-template.yaml
+
 # Man Pages
 mkdir -p .stack-fpm/linux/usr/local/share/man/man1
 cp ./docs/man/jats2tex.man .stack-fpm/linux/usr/local/share/man/man1/jats2tex.1
