@@ -33,3 +33,4 @@ jats2tex-web.exe
 jats2tex-install.exe
 jats2tex-install.nsi
 tmp-local-install-root
+/dockerworkspace
