@@ -2,6 +2,9 @@
   "name": "jats2tex-web",
   "private": true,
   "main": "frontend/index.js",
+  "scripts": {
+    "build": "webpack build -p"
+  },
   "devDependencies": {
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
