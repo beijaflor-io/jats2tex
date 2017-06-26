@@ -59,6 +59,7 @@ library
     , luautils
     , file-embed
     , template-haskell
+    , process
   if os(windows)
     build-depends:
         Win32
@@ -119,6 +120,7 @@ executable jats2tex
     , luautils
     , file-embed
     , template-haskell
+    , process
     , jats2tex
   if os(windows)
     build-depends:
@@ -168,6 +170,7 @@ executable jats2tex-build-installer
     , luautils
     , file-embed
     , template-haskell
+    , process
     , nsis
   if os(windows)
     build-depends:
@@ -216,6 +219,7 @@ executable jats2tex-remove-c-data
     , luautils
     , file-embed
     , template-haskell
+    , process
     , xml
     , jats2tex
   if os(windows)

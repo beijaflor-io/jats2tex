@@ -48,6 +48,7 @@ import           System.Environment
 import           System.Exit
 import           System.IO
 import           System.IO.Unsafe
+import           System.Process
 import           Text.JaTex.Parser
 import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.TemplateInterp
@@ -433,22 +434,24 @@ prepareInterp i =
     doPrepare (TemplateExpr e) = do
       runner <-
         do erunner <-
-             do hPutStrLn stderr ("Compiling interpolation (" <> show i <> ")")
-                homeDir <- getHomeDirectory
+             do globalPkgDb <-
+                  readCreateProcess
+                    (shell "stack path --global-pkg-db --resolver lts-8.0")
+                    ""
+                snapshotPkgDb <-
+                  readCreateProcess
+                    (shell "stack path --snapshot-pkg-db --resolver lts-8.0")
+                    ""
+                let pkgDbs = [globalPkgDb, snapshotPkgDb]
+                hPutStrLn
+                  stderr
+                  ("Compiling interpolation (" <> show i <>
+                   " - Package Databases: " <>
+                   show pkgDbs <>
+                   ")")
                 let args =
-                      [ "-no-user-package-db"
-                      -- , "-package-db /Users/yamadapc/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
-                      ] <>
-                      [ "-package-db " <> db
-                      | db <-
-                          [ homeDir <>
-                            "/program/github.com/beijaflor-io/jats2tex/.stack-work/install/x86_64-osx/lts-8.0/8.0.2/pkgdb"
-                          , homeDir <>
-                            "/.stack/snapshots/x86_64-osx/lts-8.0/8.0.2/pkgdb"
-                          , homeDir <>
-                            "/.stack/programs/x86_64-osx/ghc-8.0.2/lib/ghc-8.0.2/package.conf.d"
-                          ]
-                      ]
+                      ["-no-user-package-db"] <>
+                      ["-package-db " <> db | db <- pkgDbs]
                 Hint.unsafeRunInterpreterWithArgs args $ do
                   Hint.reset
                   Hint.set
@@ -555,10 +558,13 @@ parseTemplate fp s = do
           exitWith (ExitFailure 1)
         Right ns -> return $ Template $ zip cs ns
 
+defaultTemplateContents :: ByteString
+defaultTemplateContents = $(do fp <- runIO $ getDataFileName "./default.yaml"
+                               embedFile fp)
+
 defaultTemplate :: (Template, FilePath)
 defaultTemplate = unsafePerformIO $ do
-    let s = $(do fp <- runIO $ getDataFileName "./default.yaml"
-                 embedFile fp)
+    let s = defaultTemplateContents
         fp = "default.yaml"
     t <- parseTemplate fp s
     return (t, fp)

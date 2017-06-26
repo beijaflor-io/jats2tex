@@ -33,7 +33,8 @@ build-image: FORCE
 	rm -rf dockerworkspace
 	mkdir dockerworkspace
 	cp ./Dockerfile ./dockerworkspace/Dockerfile
-	cp -r ./.stack-fpm ./dockerworkspace/.stack-fpm 
+	mkdir -p ./dockerworkspace/.stack-fpm
+	cp -r ./.stack-fpm/linux ./dockerworkspace/.stack-fpm/linux
 	cd dockerworkspace && docker build -t jats2tex:$(tag) .
 	rm -rf dockerworkspace
 

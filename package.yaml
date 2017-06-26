@@ -48,6 +48,7 @@ dependencies:
 - luautils
 - file-embed
 - template-haskell
+- process
 
 when:
   condition: 'os(windows)'

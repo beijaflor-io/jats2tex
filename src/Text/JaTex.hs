@@ -2,6 +2,7 @@
 {-# LANGUAGE RecordWildCards   #-}
 module Text.JaTex ( readJats
                   , parseJATS
+                  , defaultTemplateContents
                   , defaultTemplate
                   , Default(..)
                   , JaTexOptions(..)
