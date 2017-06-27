@@ -681,7 +681,7 @@ class PreviewPdf extends Component {
 
   componentDidUpdate(prevProps) {
     if (this.props.value && this.props.value !== prevProps.value) {
-      fetch('http://localhost:3001', {
+      fetch('https://tex.beijaflor.io', {
         method: 'post',
         headers: {
           'content-type': 'application/json',
