@@ -8,8 +8,8 @@
   border-bottom: 2px solid white;
 }
 
-.navbar-nav {
-  padding-bottom: 1em;
+.navbar-nav a {
+  border-bottom: 2px solid transparent;
 }
 
 .masthead {

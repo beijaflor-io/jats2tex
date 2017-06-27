@@ -651,6 +651,7 @@ b: |
 import * as querystring from 'querystring';
 import * as React from 'react';
 import {Component} from 'react';
+import * as debounce from 'lodash/debounce';
 
 import * as SplitPane from 'react-split-pane';
 import {paneStyle, pane1Style, pane2Style} from 'react-split-pane';
@@ -680,13 +681,13 @@ class PreviewPdf extends Component {
 
   componentDidUpdate(prevProps) {
     if (this.props.value && this.props.value !== prevProps.value) {
-      fetch('http://localhost:3001/', {
+      fetch('http://localhost:3001', {
         method: 'post',
         headers: {
-          'content-type': 'application/x-www-form-urlencoded',
+          'content-type': 'application/json',
         },
         mode: 'cors',
-        body: querystring.stringify({
+        body: JSON.stringify({
           text: this.props.value,
         }),
       }).then(res => {
@@ -747,6 +748,31 @@ export default class App extends Component {
     this.runConvert();
   }
 
+  componentDidUpdate() {
+    this.save();
+  }
+
+  save = debounce(() => {
+    if (!/\/workspaces\/\d+/.test(document.location.pathname)) {
+      return;
+    }
+
+    fetch(document.location.pathname, {
+      method: 'put',
+      credentials: 'include',
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded; charset=utf-8',
+      },
+      body: querystring.stringify({
+        title: this.state.title || '',
+        latex: this.state.conversionResult || null,
+        template: this.state.yamlTemplate || '',
+        xml: this.state.text || '',
+        pdfUrl: this.state.pdfUrl || null,
+      }),
+    });
+  }, 5000);
+
   runConvert = () => {
     fetch('/', {
       method: 'post',
@@ -798,13 +824,14 @@ export default class App extends Component {
                   <SourceEditor
                     mode="xml"
                     defaultValue={this.state.text}
-                    onChange={e => this.setState(e.target.value)}
+                    onChange={e => this.setState({text: e})}
                   />
                 </div>
                 <div style={{...paneStyle, ...pane2Style}}>
                   <SourceEditor
                     mode="yaml"
                     defaultValue={this.state.yamlTemplate}
+                    onChange={e => this.setState({yamlTemplate: e})}
                   />
                 </div>
               </SplitPane>

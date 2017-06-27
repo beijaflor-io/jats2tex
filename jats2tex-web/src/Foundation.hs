@@ -7,7 +7,8 @@
 {-# LANGUAGE RecordWildCards       #-}
 {-# LANGUAGE TemplateHaskell       #-}
 {-# LANGUAGE TypeFamilies          #-}
-
+--
+{-# LANGUAGE ViewPatterns #-}
 module Foundation where
 
 import qualified Data.ByteString.Char8
@@ -105,6 +106,7 @@ instance Yesod App
   yesodMiddleware = defaultYesodMiddleware
   defaultLayout widget = do
     master <- getYesod
+    let isDevelopment = appReloadTemplates (appSettings master)
     mmsg <- getMessage
     muser <- maybeAuthPair
     mcurrentRoute <- getCurrentRoute
@@ -151,21 +153,21 @@ instance Yesod App
     pc <-
       widgetToPageContent $ do
         addStylesheet $ StaticR css_bootstrap_css
-        -- $(combineScripts 'StaticR
-        --  [ js_bundle_js
-        --  ])
+        unless isDevelopment $ $(combineScripts 'StaticR [js_bundle_js])
         $(widgetFile "default-layout")
     withUrlRenderer $(hamletFile "templates/default-layout-wrapper.hamlet")
     -- The page to be redirected to when authentication is required.
   authRoute _ = Just $ AuthR LoginR
     -- Routes not requiring authentication.
-  isAuthorized (AuthR _) _   = return Authorized
-  isAuthorized CommentR _    = return Authorized
-  isAuthorized HomeR _       = return Authorized
-  isAuthorized FaviconR _    = return Authorized
-  isAuthorized RobotsR _     = return Authorized
-  isAuthorized (StaticR _) _ = return Authorized
-  isAuthorized ProfileR _    = isAuthenticated
+  isAuthorized (AuthR _) _             = return Authorized
+  isAuthorized WorkspacesR _           = isAuthenticated
+  isAuthorized (WorkspacesDetailR _) _ = isAuthenticated
+  isAuthorized CommentR _              = return Authorized
+  isAuthorized HomeR _                 = return Authorized
+  isAuthorized FaviconR _              = return Authorized
+  isAuthorized RobotsR _               = return Authorized
+  isAuthorized (StaticR _) _           = return Authorized
+  isAuthorized ProfileR _              = isAuthenticated
     -- This function creates static content files in the static folder
     -- and names them based on a hash of their content. This allows
     -- expiration dates to be set far in the future without worry of

@@ -8,6 +8,14 @@ User
     UniqueEmail email
     deriving Typeable
 
+Workspace json
+    title Text
+    template Text
+    xml Text
+    latex Text Maybe
+    pdfUrl Text Maybe
+    userId UserId Maybe
+
 Comment json -- Adding "json" causes ToJSON and FromJSON instances to be derived.
     message Text
     userId UserId Maybe

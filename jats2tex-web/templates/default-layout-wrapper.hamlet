@@ -56,5 +56,6 @@ $newline never
           })();
         }
 
-    <script src="http://localhost:8080/webpack-dev-server.js">
-    <script src="http://localhost:8080/bundle.js">
+    $if isDevelopment
+      <script src="http://localhost:8080/webpack-dev-server.js">
+      <script src="http://localhost:8080/bundle.js">

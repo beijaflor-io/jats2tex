@@ -5,6 +5,8 @@
 /robots.txt RobotsR GET
 
 / HomeR GET POST
+/workspaces WorkspacesR GET POST
+/workspaces/#WorkspaceId WorkspacesDetailR GET PUT
 
 /comments CommentR POST
 

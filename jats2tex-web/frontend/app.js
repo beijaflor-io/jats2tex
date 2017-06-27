@@ -23,6 +23,7 @@ var yamlTemplate = "\narticle:\n  head: |\n    \\documentclass{article}\n\n    %
 var querystring = require("querystring");
 var React = require("react");
 var react_1 = require("react");
+var debounce = require("lodash/debounce");
 var SplitPane = require("react-split-pane");
 var react_split_pane_1 = require("react-split-pane");
 require("codemirror");
@@ -59,13 +60,13 @@ var PreviewPdf = (function (_super) {
     PreviewPdf.prototype.componentDidUpdate = function (prevProps) {
         var _this = this;
         if (this.props.value && this.props.value !== prevProps.value) {
-            fetch('http://localhost:3001/', {
+            fetch('http://localhost:3001', {
                 method: 'post',
                 headers: {
-                    'content-type': 'application/x-www-form-urlencoded'
+                    'content-type': 'application/json'
                 },
                 mode: 'cors',
-                body: querystring.stringify({
+                body: JSON.stringify({
                     text: this.props.value
                 })
             }).then(function (res) {
@@ -105,6 +106,25 @@ var App = (function (_super) {
             text: xmlExample,
             yamlTemplate: yamlTemplate
         };
+        _this.save = debounce(function () {
+            if (!/\/workspaces\/\d+/.test(document.location.pathname)) {
+                return;
+            }
+            fetch(document.location.pathname, {
+                method: 'put',
+                credentials: 'include',
+                headers: {
+                    'content-type': 'application/x-www-form-urlencoded; charset=utf-8'
+                },
+                body: querystring.stringify({
+                    title: _this.state.title || '',
+                    latex: _this.state.conversionResult || null,
+                    template: _this.state.yamlTemplate || '',
+                    xml: _this.state.text || '',
+                    pdfUrl: _this.state.pdfUrl || null
+                })
+            });
+        }, 5000);
         _this.runConvert = function () {
             fetch('/', {
                 method: 'post',
@@ -129,6 +149,9 @@ var App = (function (_super) {
     App.prototype.componentDidMount = function () {
         this.runConvert();
     };
+    App.prototype.componentDidUpdate = function () {
+        this.save();
+    };
     App.prototype.render = function () {
         var _this = this;
         return (React.createElement("div", null,
@@ -144,9 +167,9 @@ var App = (function (_super) {
                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane1Style) },
                         React.createElement(SplitPane, { split: "horizontal", defaultSize: document.body.offsetHeight * 0.45, minSize: 0.2 },
                             React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane1Style) },
-                                React.createElement(SourceEditor, { mode: "xml", defaultValue: this.state.text, onChange: function (e) { return _this.setState(e.target.value); } })),
+                                React.createElement(SourceEditor, { mode: "xml", defaultValue: this.state.text, onChange: function (e) { return _this.setState({ text: e }); } })),
                             React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
-                                React.createElement(SourceEditor, { mode: "yaml", defaultValue: this.state.yamlTemplate })))),
+                                React.createElement(SourceEditor, { mode: "yaml", defaultValue: this.state.yamlTemplate, onChange: function (e) { return _this.setState({ yamlTemplate: e }); } })))),
                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
                         React.createElement(SplitPane, { split: "horizontal", defaultSize: document.body.offsetHeight * 0.45, minSize: 0.2 },
                             React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane1Style) },

@@ -1,0 +1,12 @@
+<div .container-fluid>
+    <h1> Workspaces
+
+    <form action=@{WorkspacesR} method=POST>
+      <button .btn .btn-primary type=submit> New Workspace
+
+    <hr />
+    <ul .list-group>
+        $forall (Entity workspaceId Workspace{..}) <- workspaces
+          <li .list-group-item>
+            <a href="@{WorkspacesDetailR workspaceId}">
+              #{workspaceTitle}
