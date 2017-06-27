@@ -1,6 +1,7 @@
 name:    jats2tex-web
 version: "0.0.1"
-
+description: Web UI for jats2tex
+synopsis: Web UI for jats2tex
 dependencies:
 
 # Due to a bug in GHC 8.0.1, we block its usage
