@@ -30,13 +30,7 @@ deploy: FORCE
 	heroku container:push
 
 build-image: FORCE
-	rm -rf dockerworkspace
-	mkdir dockerworkspace
-	cp ./Dockerfile ./dockerworkspace/Dockerfile
-	mkdir -p ./dockerworkspace/.stack-fpm
-	cp -r ./.stack-fpm/linux ./dockerworkspace/.stack-fpm/linux
-	cd dockerworkspace && docker build -t jats2tex:$(tag) .
-	rm -rf dockerworkspace
+	docker build -t jats2tex:$(tag) .
 
 release: FORCE
 	echo $(tag)

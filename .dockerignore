@@ -1,6 +1,9 @@
 .stack-work
 scielo-docs
+.stack-fpm/darwin
+vendor
 jats2tex-web/.stack-work
 jats2tex-web/node_modules
 dist
 .git
+libs/windows
