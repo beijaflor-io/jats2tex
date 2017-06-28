@@ -179,12 +179,12 @@ Como `article-title` tem sua saída marcada como `head`, seu conteúdo é
 interpolado como `@@heads`, enquanto o corpo do texto por padrão simplesmente é
 interpolado como visto, se não estiver mapeado por `@@bodies`.
 
-#### Interpolação de haskell
+#### Interpolação de Lua/Haskell
 Além das diretrizes acima, o `jats2tex` incluí em seus templates suporte para a
-interpolação de expressões arbitrárias na linguagem de programação Haskell, que
-são executadas em runtime. Outras linguagens ou sintaxes podem ser exploradas no
-futuro.
+interpolação de expressões arbitrárias nas linguagens de programação Haskell e
+Lua, que são executadas em runtime.
 
+##### Interpolando Haskell
 A sintaxe é:
 ```yaml
 p: |
@@ -193,27 +193,42 @@ p: |
   )@@}
 ```
 
-O motivo disso é que em alguns casos a conversão deve executar regras complexas.
-Uma biblioteca de "helpers" está sendo desenvolvida para ser inclusa com o
-pacote. `findChildren n` por exemplo, encontra os filhos do elemento atual cujas
-tags tem o nome `n` as converte e interpola no local indicado.
+##### Interpolando Lua
+A sintaxe é:
+```yaml
+p: |
+  \saida{@@lua(
+    return find("font")
+  )@@}
+```
+Os helpers disponíveis são:
 
-##### Exemplo 3: Intercalando "\and" entre os autores de um artigo
+- `children()` Retorna os filhos do elemento atual como texto
+- `attr(<attr>)` Retorna o valor do atributo `attr` no elemento atual como texto
+- `find(<tag>)` Encontra os filhos do elemento atual que sejam instâncias da tag
+  `tag` e os retorna como texto
+- `elements()` Encontra apenas os filhos do elemento atual que sejam elementos
+  XML ignorando qualquer texto, quebras de linha e espaços nos filhos diretos do
+  elemento atual
+
+##### Exemplo 3: Intercalando "\and" entre os autores de um artigo (Lua)
 Template:
 ```yaml
 name: |
-  @@(
-  findChildren "surname"
-  )@@, @@(
-  findChildren "given-names"
+  @@lua(
+  s = find "surname"
+  g = find "given-names"
+  return s .. ", " .. g
   )@@
 
 contrib-group:
   head: |
-    \author{@@(
-        intercalate (raw "\\and ") =<< elements context
-      )@@}
+
+    \author{@@lua(
+    return table.concat(elements(), '\\and ')
+    )@@}
 ```
+
 Entrada:
 ```xml
 <contrib-group>
@@ -231,6 +246,7 @@ Entrada:
   </contrib>
 </contrib-group>
 ```
+
 Saída:
 ```latex
 \author{Quiroga Selez, Gabriela
