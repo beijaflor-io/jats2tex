@@ -862,7 +862,7 @@ export default class App extends Component {
         <hr />
 
         <button
-          style={{position: 'absolute', top: 98, right: 15}}
+          style={{position: 'absolute', top: 98, right: 15, zIndex: 10}}
           className="btn btn-primary"
           onClick={this.runConvert}
         >

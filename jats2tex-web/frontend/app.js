@@ -178,7 +178,7 @@ var App = (function (_super) {
                             React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
                                 React.createElement(PreviewPdf, { value: this.state.conversionResult })))))),
             React.createElement("hr", null),
-            React.createElement("button", { style: { position: 'absolute', top: 98, right: 15 }, className: "btn btn-primary", onClick: this.runConvert }, "Run jats2tex")));
+            React.createElement("button", { style: { position: 'absolute', top: 98, right: 15, zIndex: 10 }, className: "btn btn-primary", onClick: this.runConvert }, "Run jats2tex")));
     };
     return App;
 }(react_1.Component));
