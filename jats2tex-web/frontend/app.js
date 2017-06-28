@@ -60,7 +60,7 @@ var PreviewPdf = (function (_super) {
     PreviewPdf.prototype.componentDidUpdate = function (prevProps) {
         var _this = this;
         if (this.props.value && this.props.value !== prevProps.value) {
-            fetch('http://localhost:3001', {
+            fetch('https://tex.beijaflor.io', {
                 method: 'post',
                 headers: {
                     'content-type': 'application/json'
