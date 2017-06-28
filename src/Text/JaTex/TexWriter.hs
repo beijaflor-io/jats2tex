@@ -559,8 +559,7 @@ parseTemplate fp s = do
         Right ns -> return $ Template $ zip cs ns
 
 defaultTemplateContents :: ByteString
-defaultTemplateContents = $(do fp <- runIO $ getDataFileName "./default.yaml"
-                               embedFile fp)
+defaultTemplateContents = $(embedFile "./default.yaml")
 
 defaultTemplate :: (Template, FilePath)
 defaultTemplate = unsafePerformIO $ do
