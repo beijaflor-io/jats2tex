@@ -781,6 +781,7 @@ export default class App extends Component {
       },
       body: querystring.stringify({
         text: this.state.text,
+        template: this.state.yamlTemplate,
       }),
     })
       .then(res => res.text())

@@ -10,6 +10,7 @@ module Handler.Home where
 import           Conduit
 import           Data.FileEmbed
 import qualified Data.Text             as Text
+import qualified Data.Text.Encoding    as Text
 import qualified Data.Text.ICU.Convert as ICU
 import qualified Data.Text.IO          as Text
 import           Import
@@ -54,7 +55,6 @@ getHomeR = do
 
 postHomeR :: Handler Text
 postHomeR = do
-  -- mfile <- lookupPostParam "body"
   mfile <- runInputPost $ iopt fileField "body"
   (filepath, body) <-
     case mfile of
@@ -64,10 +64,21 @@ postHomeR = do
       Nothing -> do
         body <- runInputPost $ ireq textField "text"
         return ("<none>", body)
+  mstemplate <- runInputPost $ iopt textField "template"
+  template <-
+    case mstemplate of
+      Just stemplate -> do
+        template <- liftIO $ parseTemplate "<none>" (Text.encodeUtf8 stemplate)
+        return (template, "<none>")
+      Nothing -> return defaultTemplate
   !etex <-
     liftIO $
     jatsXmlToLaTeXText
-      def {joInputFilePath = "none", joInputDocument = parseJATS body}
+      def
+      { joTemplate = template
+      , joInputFilePath = "none"
+      , joInputDocument = parseJATS body
+      }
   return etex
 
 commentIds :: (Text, Text, Text)

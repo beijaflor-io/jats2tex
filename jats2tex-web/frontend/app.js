@@ -132,7 +132,8 @@ var App = (function (_super) {
                     'content-type': 'application/x-www-form-urlencoded'
                 },
                 body: querystring.stringify({
-                    text: _this.state.text
+                    text: _this.state.text,
+                    template: _this.state.yamlTemplate
                 })
             })
                 .then(function (res) { return res.text(); })

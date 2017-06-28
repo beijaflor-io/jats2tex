@@ -8,6 +8,7 @@ module Text.JaTex ( readJats
                   , JaTexOptions(..)
                   , Template
                   , parseTemplateFile
+                  , parseTemplate
                   , jatsXmlToLaTeXText
                   ) where
 
