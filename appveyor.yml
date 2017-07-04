@@ -5,8 +5,8 @@
 build: off
 
 before_test:
-- set PATH=C:\Program Files\Git\mingw64\bin;%PATH%
-- set PKG_CONFIG_PATH=C:\msys64\mingw64\lib\pkgconfig
+# - set PATH=C:\Program Files\Git\mingw64\bin;%PATH%
+# - set PKG_CONFIG_PATH=C:\msys64\mingw64\lib\pkgconfig
 - git submodule update --init --recursive
 - curl -sS -ostack.zip -L --insecure http://www.stackage.org/stack/windows-i386
 - 7z x stack.zip stack.exe
@@ -19,6 +19,7 @@ environment:
 test_script:
 - stack setup > nul
 - echo Y | stack exec -- pacman -Sy --force mingw64/mingw-w64-x86_64-icu
+# - echo Y | stack exec -- pacman -Sy --force mingw64/mingw-w64-x86_64-icu
 # The ugly echo "" hack is to avoid complaints about 0 being an invalid file
 # descriptor
 - echo "" | stack --no-terminal test
