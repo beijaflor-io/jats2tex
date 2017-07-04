@@ -21,7 +21,8 @@ import           Data.Yaml
 import qualified Data.Yaml              as Yaml
 import qualified Scripting.Lua          as Lua
 import           Text.LaTeX
-import           Text.XML.Light
+-- import           Text.XML.Light
+import           Text.XML.HXT.Core
 
 type ExprType m = MonadTex m =>
                     TemplateContext -> [LaTeXT Identity ()] -> (Text -> m (LaTeXT Identity ())) -> m (LaTeXT Identity ())
@@ -69,7 +70,7 @@ instance Yaml.FromJSON ConcreteTemplateNode where
 data TemplateContext = TemplateContext
   { tcHeads    :: [LaTeXT Identity ()]
   , tcBodies   :: [LaTeXT Identity ()]
-  , tcElement  :: Element
+  , tcElement  :: XmlTree
   , tcState    :: TexState
   , tcLuaState :: Lua.LuaState
   }

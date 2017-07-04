@@ -31,6 +31,7 @@ library
     , mtl
     , containers
     , HaTeX
+    , hxt
     , text
     , optparse-applicative
     , bytestring
@@ -64,9 +65,7 @@ library
     build-depends:
         Win32
   exposed-modules:
-      JATSXML.Class
       JATSXML.HTMLEntities
-      JATSXML.Types
       Text.JaTex
       Text.JaTex.Cmd.Main
       Text.JaTex.Parser
@@ -92,6 +91,7 @@ executable jats2tex
     , mtl
     , containers
     , HaTeX
+    , hxt
     , text
     , optparse-applicative
     , bytestring
@@ -142,6 +142,7 @@ executable jats2tex-build-installer
     , mtl
     , containers
     , HaTeX
+    , hxt
     , text
     , optparse-applicative
     , bytestring
@@ -191,6 +192,7 @@ executable jats2tex-remove-c-data
     , mtl
     , containers
     , HaTeX
+    , hxt
     , text
     , optparse-applicative
     , bytestring

@@ -22,7 +22,7 @@ import qualified Data.List
 import           Data.Maybe
 import qualified Data.Text
 import           Text.LaTeX
-import           Text.XML.Light
+-- import           Text.XML.Light
 
 import           Text.JaTex.Template.Types
 import           Text.JaTex.TexWriter
@@ -49,7 +49,7 @@ alignToRagged
   => TemplateContext -> TemplateHelper m
 alignToRagged tc = do
   let el = tcElement tc
-      align = lookupAttr (QName "align" Nothing Nothing) (elAttribs el)
+      align = lookupAttr "align" (elAttribs el)
   (h, inline) <- convertInlineChildren el
   return $ do
     let ma :: Maybe Text

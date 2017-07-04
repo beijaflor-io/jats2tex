@@ -37,5 +37,5 @@ main =
     ("-h":_) -> help
     [] -> help
     (targetFp:_) -> do
-      inputFile <- parseJATS <$> readJatsFile Nothing targetFp
+      inputFile <- parseXML <$> readJatsFile Nothing targetFp
       putStrLn (concatMap showContent (concatMap cleanUp inputFile))

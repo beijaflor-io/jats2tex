@@ -19,7 +19,7 @@ dependencies:
 - mtl
 - containers
 - HaTeX
-# - HaXml
+- hxt
 - text
 - optparse-applicative
 - bytestring

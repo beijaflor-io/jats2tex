@@ -25,6 +25,7 @@ import           Data.ByteString                     (ByteString)
 import qualified Data.ByteString                     as ByteStringS
 import qualified Data.ByteString.Char8               as ByteString (pack,
                                                                     unpack)
+import qualified Data.ByteString.Lazy.Char8          as ByteStringL
 import           Data.Char                           (isSpace)
 import           Data.Either
 import           Data.FileEmbed
@@ -36,6 +37,7 @@ import qualified Data.Text                           as Text
 import qualified Data.Text.Encoding                  as Text (decodeUtf8,
                                                               encodeUtf8)
 import qualified Data.Text.IO                        as Text
+import qualified Data.Tree.NTree.TypeDefs            as HXT
 import qualified Data.Yaml                           as Yaml
 import           JATSXML.HTMLEntities
 import qualified Language.Haskell.Interpreter        as Hint
@@ -60,7 +62,8 @@ import           Text.LaTeX.Base.Class
 import qualified Text.LaTeX.Base.Parser              as LaTeX
 import           Text.LaTeX.Base.Syntax
 import qualified Text.Megaparsec                     as Megaparsec
-import           Text.XML.Light
+import qualified Text.XML.HXT.Core                   as HXT
+-- import           Text.XML.Light
 
 import           Paths_jats2tex
 
@@ -134,7 +137,7 @@ jatsXmlToLaTeX d = do
              binHash <- Upgrade.versionHash Upgrade.currentVersion
              digHash <- digestFromByteString binHash :: Maybe (Digest SHA1)
              return (ByteString.unpack (digestToHexByteString digHash)))))
-  let contents = concatMap cleanUp d
+  let contents = d -- concatMap cleanUp d
   children <- mapM convertInlineNode contents
   let heads = sequence_ $ concatMap fst children
       bodies = sequence_ $ concatMap snd children
@@ -143,36 +146,63 @@ jatsXmlToLaTeX d = do
 
 convertNode
   :: MonadTex m
-  => Content -> m (LaTeXT Identity ())
-convertNode (Elem e) = do
-  addComment "elem"
-  ownAdded <- convertElem e
-  -- when (render (runLaTeX ownAdded) /= mempty ||
-  --       not (null (elChildren e))) $ add (fromString "\n")
-  addComment "endelem"
-  return ownAdded
-convertNode (Text (CData CDataText str _))
-  | str == "" || dropWhile isSpace str == "" = return mempty
-convertNode (Text (CData CDataText str _)) = do
-  addComment "cdata"
-  let lstr = fromString str
-  add lstr
-  return lstr
-convertNode (Text (CData _ str ml)) = do
-  addComment "xml-cdata"
-  let cs =
-        map
-          (\c ->
-             case c of
-               Elem el -> Elem el {elLine = ml}
-               _       -> c)
-          (parseXML str)
-  mconcat <$> mapM convertNode cs
-convertNode (CRef r) = do
-  addComment "ref"
-  let lr = fromString (fromMaybe r (crefToString r))
-  add lr
-  return lr
+  => HXT.XmlTree -> m (LaTeXT Identity ())
+convertNode fullNode@(HXT.NTree node children) =
+  case node of
+    HXT.XTag name attrs -> do
+      addComment "tag"
+      ownAdded <- convertElem fullNode
+      addComment "endelem"
+      return ownAdded
+    HXT.XText str ->
+      if Text.strip (Text.pack str) == mempty
+        then return mempty
+        else do
+          let lstr = fromString str
+          add lstr
+          return lstr
+    HXT.XBlob blob -> do
+      let lstr = fromString (ByteStringL.unpack blob)
+      add lstr
+      return lstr
+    HXT.XAttr n -> return mempty
+    HXT.XDTD dtdElem attrs -> return mempty
+    HXT.XError level err -> return mempty
+    HXT.XPi name attrs -> return mempty
+    HXT.XCdata i -> return mempty
+    HXT.XCmt cmt -> return mempty
+    HXT.XCharRef i -> return mempty
+    HXT.XEntityRef i -> return mempty
+
+-- convertNode (Elem e) = do
+--   addComment "elem"
+--   ownAdded <- convertElem e
+--   -- when (render (runLaTeX ownAdded) /= mempty ||
+--   --       not (null (elChildren e))) $ add (fromString "\n")
+--   addComment "endelem"
+--   return ownAdded
+-- convertNode (Text (CData CDataText str _))
+--   | str == "" || dropWhile isSpace str == "" = return mempty
+-- convertNode (Text (CData CDataText str _)) = do
+--   addComment "cdata"
+--   let lstr = fromString str
+--   add lstr
+--   return lstr
+-- convertNode (Text (CData _ str ml)) = do
+--   addComment "xml-cdata"
+--   let cs =
+--         map
+--           (\c ->
+--              case c of
+--                Elem el -> Elem el {elLine = ml}
+--                _       -> c)
+--           (parseXML str)
+--   mconcat <$> mapM convertNode cs
+-- convertNode (CRef r) = do
+--   addComment "ref"
+--   let lr = fromString (fromMaybe r (crefToString r))
+--   add lr
+--   return lr
 
 addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHeadRev = m:tsHeadRev ts
@@ -189,8 +219,8 @@ addComment c = do
 
 convertElem
   :: MonadTex m
-  => Element -> m (LaTeXT Identity ())
-convertElem el@Element {..} = do
+  => HXT.XmlTree -> m (LaTeXT Identity ())
+convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
   TexState {tsTemplate} <- get
   commentEl
   templateContext <- getTemplateContext
@@ -213,20 +243,15 @@ convertElem el@Element {..} = do
     -- lookupAttr' k =
     --   attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
   where
-    n = qName elName
     commentEl =
       addComment
         (Text.pack
-           (" <" <> n <> " " <> humanAttrs <> "> (" <> maybe "" show elLine <>
-            ")"))
+           (" <" <> HXT.qualifiedName name <> " " <> humanAttrs <> ">"))
     humanAttrs =
       unwords $
       map
-        (\(Attr attrKey attrValue) -> showQName attrKey <> "=" <> show attrValue)
-        elAttribs
-    -- commentEndEl =
-    --   add $
-    --   (comment (Text.pack ("</" <> n <> "> (" <> maybe "" show elLine <> "))")))
+        (\(HXT.NTree (HXT.XAttr attrKey) [(HXT.NTree (HXT.XText attrValue) _)]) -> HXT.qualifiedName attrKey <> "=" <> show attrValue)
+        attrs
     getTemplateContext = do
       (h, i) <- convertInlineChildren el
       st <- get
@@ -235,11 +260,12 @@ convertElem el@Element {..} = do
         TemplateContext
         {tcLuaState = l, tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
     run =
-      case elContent of
+      case children of
         [] -> return (textell mempty)
         _  -> do
-            logWarning ("Ignoring tag " <> n)
+            logWarning ("Ignoring tag " <> HXT.qualifiedName name)
             convertChildren el
+convertElem e = fail $ "convertElem needs XML elements but got (" <> show e <> ")"
 
 removeSpecial :: String -> String
 removeSpecial =
@@ -249,30 +275,30 @@ removeSpecial =
          then '-'
          else c)
 
-convertInlineNode
-  :: MonadTex m =>
-     Content -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
+-- convertInlineNode
+--   :: MonadTex m =>
+--      JATSDoc -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
 convertInlineNode c = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertNode c)
   return (tsHead newState, tsBody newState)
 
-convertInlineChildren :: MonadTex m => Element -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
+convertInlineChildren :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
 convertInlineChildren el = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertChildren el)
   return (tsHead newState, tsBody newState)
 
-convertInlineElem :: MonadTex m => Element -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
+convertInlineElem :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
 convertInlineElem el = do
   st <- get
   (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (void (convertElem el))
   return (tsHead newState, tsBody newState)
 
-convertChildren :: MonadTex m => Element -> m (LaTeXT Identity ())
-convertChildren Element {elContent} = mconcat <$> mapM convertNode elContent
+convertChildren :: MonadTex m => HXT.XmlTree -> m (LaTeXT Identity ())
+convertChildren (HXT.NTree _ elContent) = mconcat <$> mapM convertNode elContent
 
 comm2
   :: LaTeXC l
@@ -307,7 +333,8 @@ findTemplate ts el = run ts el
       if runPredicate templatePredicate targetName
         then Just p
         else run (Template ps) e
-    targetName = showQName (elName (tcElement el))
+    targetName = let (HXT.NTree (HXT.XTag qname _) _) = (tcElement el)
+                 in HXT.qualifiedName qname
 
 runTemplate
   :: MonadTex m
@@ -321,6 +348,24 @@ runTemplate ts el =
       -- liftIO $ hPutStrLn stderr "Found template, applying..."
       r <- templateApply t el
       return $ Just (p, r)
+
+elChildren :: HXT.XmlTree -> [HXT.XmlTree]
+elChildren (HXT.NTree _ c) = (filter isElem c)
+  where
+    isElem (HXT.NTree (HXT.XTag _ _) _) = True
+    isElem _                            = False
+
+elAttribs :: HXT.XmlTree -> [HXT.XmlTree]
+elAttribs (HXT.NTree (HXT.XTag _ attrs) _) = attrs
+elAttribs _                                = []
+
+lookupAttr :: String -> [HXT.XmlTree] -> Maybe String
+lookupAttr n [] = Nothing
+lookupAttr n (a:as) =
+  case a of
+    HXT.NTree (HXT.XAttr attrKey) ((HXT.NTree (HXT.XText v) _):_)
+      | attrKey == HXT.mkName n -> Just v
+    _ -> lookupAttr n as
 
 applyTemplateToEl :: MonadTex m => PreparedTemplate (StateT TexState IO) -> TemplateContext -> m (LaTeXT Identity ())
 applyTemplateToEl l e = do
@@ -357,10 +402,16 @@ evalNode e (PreparedTemplateExpr runner) = do
       inlines <-
         mapM
           convertInlineElem
-          (findChildren (QName (Text.unpack name) Nothing Nothing) tcElement)
+          (findChildren (HXT.mkName (Text.unpack name)) tcElement)
       let heads = sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
           bodies = sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
       return (heads <> bodies)
+
+findChildren :: HXT.QName -> HXT.XmlTree -> [HXT.XmlTree]
+findChildren n (HXT.NTree _ cs) = filter helper cs
+  where
+    helper (HXT.NTree (HXT.XTag t _) _) = t == n
+    helper _                            = False
 
 prepareInterp :: Text -> IO (PreparedTemplate (StateT TexState IO))
 prepareInterp i =
@@ -403,7 +454,7 @@ prepareInterp i =
             luaAttr name =
               return $
               ByteString.pack <$>
-              lookupAttr (QName sname Nothing Nothing) (elAttribs tcElement)
+              lookupAttr sname (elAttribs tcElement)
               where
                 sname = Text.unpack (Text.decodeUtf8 name)
             luaElements :: IO [ByteString]
@@ -424,7 +475,7 @@ prepareInterp i =
                 mapM
                   convertInlineElem
                   (findChildren
-                     (QName (ByteString.unpack name) Nothing Nothing)
+                     (HXT.mkName (ByteString.unpack name))
                      tcElement)
               let heads =
                     sequence_ (concatMap fst inlines) :: LaTeXT Identity ()

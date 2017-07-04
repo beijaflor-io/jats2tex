@@ -7,12 +7,13 @@ import           Data.Maybe
 import           Data.Text             (Text)
 import qualified Data.Text             as Text
 import qualified Data.Text.ICU.Convert as ICU
+import           Text.XML.HXT.Core
 import           Text.XML.Light
 
 import           JATSXML.HTMLEntities
 -- import           Text.XML.HaXml
 
-type JATSDoc = [Content]
+type JATSDoc = XmlTrees
 
 readJatsFile :: Maybe String -> FilePath -> IO Text
 readJatsFile encoding inputFile = do
@@ -23,11 +24,14 @@ readJatsFile encoding inputFile = do
       converter <- ICU.open (fromMaybe "latin-1" encoding) Nothing
       return (ICU.toUnicode converter i)
 
-readJats :: Maybe String -> FilePath -> IO JATSDoc
-readJats enc fp = parseJATS <$> readJatsFile enc fp
+readJats :: Maybe String -> FilePath -> IO [XmlTree]
+readJats enc fp = parseJATS =<< readFile fp
 
-parseJATS :: Text -> JATSDoc
-parseJATS = parseXML . Text.unpack
+parseJATS :: String -> IO [XmlTree]
+parseJATS = runX . readString [ withValidate no
+                              , withTrace 10
+                              , withInputEncoding utf8
+                              ]
 
 cleanUp :: Content -> [Content]
 cleanUp t@(Text (CData CDataText _ _)) = [t]

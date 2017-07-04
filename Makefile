@@ -51,10 +51,14 @@ build-pdf: FORCE
 build-osx: build-frontend FORCE
 	stack build --extra-lib-dirs=/usr/local/opt/icu4c/lib --extra-include-dirs=/usr/local/opt/icu4c/include
 
-example: FORCE
+example-output.tex: FORCE
 	stack build # --executable-profiling --library-profiling
 	rm ./example-output.*
-	stack exec jats2tex ./examples/S0250-54602016000400001.xml -- --output ./example-output.tex
+	stack exec jats2tex-remove-c-data ./examples/S0250-54602016000400001.xml > ./example-input.xml
+	stack exec jats2tex ./example-input.xml -- --output ./example-output.tex
+
+example: FORCE
+	make exemple-output.tex
 	# ./latexindent.sh ./example-output.tex > ./example-output.fmt.tex
 	# mv ./example-output.fmt.tex ./example-output.tex
 	latex ./example-output.tex

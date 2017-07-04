@@ -35,3 +35,4 @@ jats2tex-install.nsi
 tmp-local-install-root
 /dockerworkspace
 /reports
+example-input.xml
