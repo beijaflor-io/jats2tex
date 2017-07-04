@@ -29,7 +29,7 @@ readJats enc fp = parseJATS =<< readFile fp
 
 parseJATS :: String -> IO [XmlTree]
 parseJATS = runX . readString [ withValidate no
-                              , withTrace 10
+                              -- , withTrace 10
                               , withInputEncoding utf8
                               ]
 

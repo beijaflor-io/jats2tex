@@ -58,7 +58,7 @@ example-output.tex: FORCE
 	stack exec jats2tex ./example-input.xml -- --output ./example-output.tex
 
 example: FORCE
-	make exemple-output.tex
+	make example-output.tex
 	# ./latexindent.sh ./example-output.tex > ./example-output.fmt.tex
 	# mv ./example-output.fmt.tex ./example-output.tex
 	latex ./example-output.tex

@@ -450,11 +450,11 @@ prepareInterp i =
             -- print result
             return (raw (Text.decodeUtf8 result))
           where
-            luaAttr :: ByteString -> IO (Maybe ByteString)
+            luaAttr :: ByteString -> IO ByteString
             luaAttr name =
               return $
-              ByteString.pack <$>
-              lookupAttr sname (elAttribs tcElement)
+              ByteString.pack $
+              fromMaybe "" $ lookupAttr sname (elAttribs tcElement)
               where
                 sname = Text.unpack (Text.decodeUtf8 name)
             luaElements :: IO [ByteString]
@@ -474,9 +474,7 @@ prepareInterp i =
                 execTexWriter tcState $
                 mapM
                   convertInlineElem
-                  (findChildren
-                     (HXT.mkName (ByteString.unpack name))
-                     tcElement)
+                  (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
               let heads =
                     sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
                   bodies =

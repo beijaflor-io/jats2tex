@@ -69,8 +69,8 @@ p: |
     return string.format([[
       \begin{%s}
       %s
-      \env{%s}
-    ]], env, env, children())
+      \end{%s}
+    ]], env, children(), env)
   )@@
 
 pub-date: |
@@ -78,8 +78,8 @@ pub-date: |
 
 abstract: |
   @@lua(
-    if attr('lang') == 'en' then
-      return "\abstract{" .. children() .. "}"
+    if attr('xml:lang') == 'en' then
+      return "\\abstract{" .. children() .. "}"
     end
 
     return ""
