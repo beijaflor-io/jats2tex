@@ -7,8 +7,6 @@ module Text.JaTex.Cmd.Main
 
 import           Data.Maybe
 import           Data.Monoid
-import           Data.Text            (Text)
-import qualified Data.Text            as Text
 import qualified Data.Text.IO         as Text
 import           GHC.IO.Encoding
 import           System.IO
@@ -18,7 +16,6 @@ import           Options.Applicative
 import           System.Win32.Console
 #endif
 import           Text.JaTex
-import           Text.JaTex.Parser
 import qualified Text.JaTex.Upgrade   as Upgrade
 
 
@@ -75,6 +72,7 @@ optionsPI =
     (fullDesc <> progDesc "Convert JATS-XML INPUT_FILE to LaTeX OUTPUT_FILE"
     <> header "jats2tex - Customizable JATS to LaTeX Conversion")
 
+run :: Options -> IO ()
 run Options{..} = do
   outputFile <-
     case optsOutputFile of
@@ -98,20 +96,18 @@ run Options{..} = do
   case optsOutputFile of
       Nothing -> Text.putStrLn result
       Just f  -> Text.writeFile f result
+run RunUpgrade = Upgrade.runUpgrade
+run RunVersion = Upgrade.putVersionInfo
 
+makeSafe :: Handle -> IO ()
 makeSafe h = hSetEncoding h utf8
 
 defaultMain :: IO ()
 defaultMain = do
-  print localeEncoding
   setLocaleEncoding utf8
 #ifdef mingw32_HOST_OS
-  print =<< getConsoleCP
   setConsoleCP 65001
 #endif
 
   opts <- execParser optionsPI
-  case opts of
-    o@Options {} -> run o
-    RunUpgrade   -> Upgrade.runUpgrade
-    RunVersion   -> Upgrade.putVersionInfo
+  run opts

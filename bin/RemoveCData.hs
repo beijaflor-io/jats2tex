@@ -1,12 +1,7 @@
-{-# LANGUAGE LambdaCase      #-}
-{-# LANGUAGE RecordWildCards #-}
+{-# LANGUAGE LambdaCase #-}
 module Main where
 
-import           Control.Monad
-import           Data.Maybe
 import           Data.Monoid
-import qualified Data.Text          as Text
-import qualified Data.Text.IO       as Text
 import           System.Environment
 import           Text.XML.Light
 

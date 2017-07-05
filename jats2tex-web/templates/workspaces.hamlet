@@ -6,7 +6,7 @@
 
     <hr />
     <ul .list-group>
-        $forall (Entity workspaceId Workspace{..}) <- workspaces
+        $forall (Entity workspaceId w) <- workspaces
           <li .list-group-item>
             <a href="@{WorkspacesDetailR workspaceId}">
-              #{workspaceTitle}
+              #{workspaceTitle w}

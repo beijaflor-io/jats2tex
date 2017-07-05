@@ -7,7 +7,6 @@ module Handler.Workspaces where
 
 import qualified Data.Text.Encoding as Text
 import           Import
-import           Model
 import           Text.JaTex
 
 getWorkspacesR :: Handler Html
@@ -35,7 +34,7 @@ postWorkspacesR = do
   redirect (WorkspacesDetailR workspaceId)
 
 getWorkspacesDetailR :: WorkspaceId -> Handler Html
-getWorkspacesDetailR wid = defaultLayout $(widgetFile "homepage")
+getWorkspacesDetailR _ = defaultLayout $(widgetFile "homepage")
 
 putWorkspacesDetailR :: WorkspaceId -> Handler Value
 putWorkspacesDetailR wid = do

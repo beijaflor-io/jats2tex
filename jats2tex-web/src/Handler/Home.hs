@@ -12,14 +12,10 @@ import           Data.FileEmbed
 import qualified Data.Text             as Text
 import qualified Data.Text.Encoding    as Text
 import qualified Data.Text.ICU.Convert as ICU
-import qualified Data.Text.IO          as Text
 import           Import
 import           System.IO.Unsafe
 import           Text.JaTex
-import           Text.Julius           (RawJS (..))
 import           Yesod.Core.Types      (FileInfo (..))
-import           Yesod.Form.Bootstrap3 (BootstrapFormLayout (..),
-                                        renderBootstrap3)
 
 placeholder :: Text
 placeholder = unsafePerformIO $ do
@@ -46,17 +42,15 @@ curlExample = "curl " <> host <> " -F \"body=@./`echo ./something.xml`\""
 -- functions. You can spread them across multiple files if you are so
 -- inclined, or create a single monolithic file.
 getHomeR :: Handler Html
-getHomeR = do
+getHomeR =
     defaultLayout $ do
-        let (commentFormId, commentTextareaId, commentListId) = commentIds
-        formId <- newIdent
         setTitle "jats2tex - Convert JATS-XML to TeX"
         $(widgetFile "homepage")
 
 postHomeR :: Handler Text
 postHomeR = do
   mfile <- runInputPost $ iopt fileField "body"
-  (filepath, body) <-
+  (_filepath, body) <-
     case mfile of
       Just fi@FileInfo {fileName} -> do
         body <- sourceToList $ fileSource fi =$= decodeUtf8C :: Handler [Text]
@@ -71,13 +65,13 @@ postHomeR = do
         template <- liftIO $ parseTemplate "<none>" (Text.encodeUtf8 stemplate)
         return (template, "<none>")
       Nothing -> return defaultTemplate
-  !etex <-
-    liftIO $
+  !etex <- liftIO $ do
+    jats <- parseJATS (Text.unpack body)
     jatsXmlToLaTeXText
       def
       { joTemplate = template
       , joInputFilePath = "none"
-      , joInputDocument = parseJATS body
+      , joInputDocument = jats
       }
   return etex
 

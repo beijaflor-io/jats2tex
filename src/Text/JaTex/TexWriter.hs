@@ -26,11 +26,9 @@ import qualified Data.ByteString                     as ByteStringS
 import qualified Data.ByteString.Char8               as ByteString (pack,
                                                                     unpack)
 import qualified Data.ByteString.Lazy.Char8          as ByteStringL
-import           Data.Char                           (isSpace)
 import           Data.Either
 import           Data.FileEmbed
 import qualified Data.HashMap.Strict                 as HashMap
-import qualified Data.List
 import           Data.Maybe
 import           Data.Text                           (Text)
 import qualified Data.Text                           as Text
@@ -39,13 +37,10 @@ import qualified Data.Text.Encoding                  as Text (decodeUtf8,
 import qualified Data.Text.IO                        as Text
 import qualified Data.Tree.NTree.TypeDefs            as HXT
 import qualified Data.Yaml                           as Yaml
-import           JATSXML.HTMLEntities
 import qualified Language.Haskell.Interpreter        as Hint
 import qualified Language.Haskell.Interpreter.Unsafe as Hint
-import           Language.Haskell.TH
 import qualified Scripting.Lua                       as Lua
 import qualified Scripting.LuaUtils                  as Lua
-import           System.Directory
 import           System.Environment
 import           System.Exit
 import           System.IO
@@ -59,13 +54,11 @@ import qualified Text.JaTex.Upgrade                  as Upgrade
 import           Text.JaTex.Util
 import           Text.LaTeX
 import           Text.LaTeX.Base.Class
-import qualified Text.LaTeX.Base.Parser              as LaTeX
 import           Text.LaTeX.Base.Syntax
 import qualified Text.Megaparsec                     as Megaparsec
 import qualified Text.XML.HXT.Core                   as HXT
 -- import           Text.XML.Light
-
-import           Paths_jats2tex
+import           TH.RelativePaths
 
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
@@ -147,15 +140,15 @@ jatsXmlToLaTeX d = do
 convertNode
   :: MonadTex m
   => HXT.XmlTree -> m (LaTeXT Identity ())
-convertNode fullNode@(HXT.NTree node children) =
+convertNode fullNode@(HXT.NTree node _) =
   case node of
-    HXT.XTag name attrs -> do
+    HXT.XTag _ _ -> do
       addComment "tag"
       ownAdded <- convertElem fullNode
       addComment "endelem"
       return ownAdded
     HXT.XText str ->
-      if Text.strip (Text.pack str) == mempty
+      if HXT.stringTrim str == mempty
         then return mempty
         else do
           let lstr = fromString str
@@ -165,14 +158,14 @@ convertNode fullNode@(HXT.NTree node children) =
       let lstr = fromString (ByteStringL.unpack blob)
       add lstr
       return lstr
-    HXT.XAttr n -> return mempty
-    HXT.XDTD dtdElem attrs -> return mempty
-    HXT.XError level err -> return mempty
-    HXT.XPi name attrs -> return mempty
-    HXT.XCdata i -> return mempty
-    HXT.XCmt cmt -> return mempty
-    HXT.XCharRef i -> return mempty
-    HXT.XEntityRef i -> return mempty
+    HXT.XAttr _n -> return mempty
+    HXT.XDTD _dtdElem _attrs -> return mempty
+    HXT.XError _level _err -> return mempty
+    HXT.XPi _name _attrs -> return mempty
+    HXT.XCdata _i -> return mempty
+    HXT.XCmt _cmt -> return mempty
+    HXT.XCharRef _i -> return mempty
+    HXT.XEntityRef _i -> return mempty
 
 -- convertNode (Elem e) = do
 --   addComment "elem"
@@ -275,9 +268,9 @@ removeSpecial =
          then '-'
          else c)
 
--- convertInlineNode
---   :: MonadTex m =>
---      JATSDoc -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
+convertInlineNode
+  :: MonadTex m
+  => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
 convertInlineNode c = do
   st <- get
   (newState, _, _) <-
@@ -360,12 +353,12 @@ elAttribs (HXT.NTree (HXT.XTag _ attrs) _) = attrs
 elAttribs _                                = []
 
 lookupAttr :: String -> [HXT.XmlTree] -> Maybe String
-lookupAttr n [] = Nothing
 lookupAttr n (a:as) =
   case a of
     HXT.NTree (HXT.XAttr attrKey) ((HXT.NTree (HXT.XText v) _):_)
       | attrKey == HXT.mkName n -> Just v
     _ -> lookupAttr n as
+lookupAttr _ [] = Nothing
 
 applyTemplateToEl :: MonadTex m => PreparedTemplate (StateT TexState IO) -> TemplateContext -> m (LaTeXT Identity ())
 applyTemplateToEl l e = do
@@ -608,7 +601,7 @@ parseTemplate fp s = do
         Right ns -> return $ Template $ zip cs ns
 
 defaultTemplateContents :: ByteString
-defaultTemplateContents = $(embedFile "./default.yaml")
+defaultTemplateContents = $(bsToExp =<< qReadFileBS "./default.yaml")
 
 defaultTemplate :: (Template, FilePath)
 defaultTemplate = unsafePerformIO $ do

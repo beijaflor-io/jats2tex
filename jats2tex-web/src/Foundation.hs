@@ -11,7 +11,6 @@
 {-# LANGUAGE ViewPatterns #-}
 module Foundation where
 
-import qualified Data.ByteString.Char8
 import qualified Data.CaseInsensitive          as CI
 import qualified Data.Text.Encoding            as TE
 import qualified Data.Text.Lazy.Encoding       as LTE
@@ -111,33 +110,32 @@ instance Yesod App
     muser <- maybeAuthPair
     mcurrentRoute <- getCurrentRoute
         -- Get the breadcrumbs, as defined in the YesodBreadcrumbs instance.
-    (title, parents) <- breadcrumbs
         -- Define the menu items of the header.
     let menuItems =
-          [ NavbarLeft $
-            MenuItem
-            { menuItemLabel = "Home"
-            , menuItemRoute = HomeR
-            , menuItemAccessCallback = True
-            }
-          , NavbarLeft $
-            MenuItem
-            { menuItemLabel = "Profile"
-            , menuItemRoute = ProfileR
-            , menuItemAccessCallback = isJust muser
-            }
-          , NavbarRight $
-            MenuItem
-            { menuItemLabel = "Login"
-            , menuItemRoute = AuthR LoginR
-            , menuItemAccessCallback = isNothing muser
-            }
-          , NavbarRight $
-            MenuItem
-            { menuItemLabel = "Logout"
-            , menuItemRoute = AuthR LogoutR
-            , menuItemAccessCallback = isJust muser
-            }
+          [ NavbarLeft
+              MenuItem
+              { menuItemLabel = "Home"
+              , menuItemRoute = HomeR
+              , menuItemAccessCallback = True
+              }
+          , NavbarLeft
+              MenuItem
+              { menuItemLabel = "Profile"
+              , menuItemRoute = ProfileR
+              , menuItemAccessCallback = isJust muser
+              }
+          , NavbarRight
+              MenuItem
+              { menuItemLabel = "Login"
+              , menuItemRoute = AuthR LoginR
+              , menuItemAccessCallback = isNothing muser
+              }
+          , NavbarRight
+              MenuItem
+              { menuItemLabel = "Logout"
+              , menuItemRoute = AuthR LogoutR
+              , menuItemAccessCallback = isJust muser
+              }
           ]
     let navbarLeftMenuItems = [x | NavbarLeft x <- menuItems]
     let navbarRightMenuItems = [x | NavbarRight x <- menuItems]

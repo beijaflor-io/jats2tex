@@ -61,6 +61,7 @@ library
     , file-embed
     , template-haskell
     , process
+    , th-utilities
   if os(windows)
     build-depends:
         Win32
@@ -121,6 +122,7 @@ executable jats2tex
     , file-embed
     , template-haskell
     , process
+    , th-utilities
     , jats2tex
   if os(windows)
     build-depends:
@@ -172,6 +174,7 @@ executable jats2tex-build-installer
     , file-embed
     , template-haskell
     , process
+    , th-utilities
     , nsis
   if os(windows)
     build-depends:
@@ -222,6 +225,7 @@ executable jats2tex-remove-c-data
     , file-embed
     , template-haskell
     , process
+    , th-utilities
     , xml
     , jats2tex
   if os(windows)

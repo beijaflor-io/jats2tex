@@ -49,6 +49,7 @@ dependencies:
 - file-embed
 - template-haskell
 - process
+- th-utilities
 
 when:
   condition: 'os(windows)'

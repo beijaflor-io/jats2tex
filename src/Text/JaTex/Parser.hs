@@ -5,7 +5,6 @@ module Text.JaTex.Parser
 import qualified Data.ByteString       as ByteString
 import           Data.Maybe
 import           Data.Text             (Text)
-import qualified Data.Text             as Text
 import qualified Data.Text.ICU.Convert as ICU
 import           Text.XML.HXT.Core
 import           Text.XML.Light
@@ -25,11 +24,10 @@ readJatsFile encoding inputFile = do
       return (ICU.toUnicode converter i)
 
 readJats :: Maybe String -> FilePath -> IO [XmlTree]
-readJats enc fp = parseJATS =<< readFile fp
+readJats _ fp = parseJATS =<< readFile fp
 
 parseJATS :: String -> IO [XmlTree]
 parseJATS = runX . readString [ withValidate no
-                              -- , withTrace 10
                               , withInputEncoding utf8
                               ]
 
