@@ -8,6 +8,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 module Text.JaTex.Template.Types where
 
+import           Control.Applicative
 import           Control.Monad.Catch
 import           Control.Monad.Identity
 import           Control.Monad.IO.Class
@@ -65,7 +66,7 @@ instance Yaml.FromJSON ConcreteTemplateNode where
       verboseForm o =
         ConcreteTemplateNode "" <$>
         (trimTrailingNewline . fromMaybe "" <$> o .:? "head") <*>
-        (trimTrailingNewline . fromMaybe "" <$> o .:? "content")
+        (trimTrailingNewline . fromMaybe "" <$> (o .:? "body" <|> o .:? "content"))
 
 data TemplateContext = TemplateContext
   { tcHeads    :: [LaTeXT Identity ()]

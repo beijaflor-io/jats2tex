@@ -8,9 +8,10 @@ jats2tex \[en] Customizable JATS to LaTeX conversion.
 .SH SYNOPSIS
 .PP
 \f[B]jats2tex\f[] [\f[B]\-h\f[]]
-[\f[B]\-\-template\f[]␣\f[I]TEMPLATE_FILE\f[]]
-[\f[B]\-\-max\-width\f[]␣\f[I]MAX_COLUMN_WIDTH\f[]] [\f[B]\-\-output\f[]
-\f[I]OUTPUT_FILE\f[]] \f[I]INPUTFILE\f[]
+[\f[B]\-\-template\f[]␣\f[I]TEMPLATE_FILE\f[]] [\f[B]\-\-output\f[]
+\f[I]OUTPUT_FILE\f[]]
+[\f[B]\-\-max\-width\f[]␣\f[I]MAX_COLUMN_WIDTH\f[]]
+[\f[B]\-\-warnings\f[]] \f[I]INPUTFILE\f[]
 .SH DESCRIPTION
 .PP
 \f[B]jats2tex\f[] converts JATS\-XML into LaTeX by using a YAML template
@@ -39,6 +40,11 @@ Specify the output file, prints to standard output if not provided
 .RS
 .RE
 .TP
+.B \f[B]\-W\f[], \f[B]\-\-warnings\f[]
+Enable outputting warnings
+.RS
+.RE
+.TP
 .B \f[I]INPUT_FILE\f[]
 Specify the input XML file to process
 .RS
@@ -55,5 +61,92 @@ Look for a new release of \f[B]jats2tex\f[] and try to automatically
 upgrade
 .RS
 .RE
+.SH CUSTOMIZING THE OUTPUT
+.PP
+\f[I]LaTeX\f[] generation is implemented with a very
+\f[B]lightweight\f[] \f[I]XML\f[] transformation language like
+\f[I]XLST\f[], which is encoded through an \f[I]YAML\f[] template and
+specified through the \f[I]\-t\f[] flag:
+.PP
+\f[B]jats2tex\f[] \-t \f[I]\&./custom\-template\f[]
+.PP
+The full updated documentation for the syntax and it\[aq]s examples is
+available on \f[I]https://github.com/beijaflor\-io/jats2tex\f[].
+.SS TEMPLATE SYNTAX \- INTRODUCTION
+.PP
+Template files map \f[C]{tag\-name}:\ "\\\\correspondingLaTeX"\f[] and
+allows the interpolation of \f[B]context variables\f[] for
+\f[I]applying\f[] child node transformations at a certain point and
+\f[B]interpreted expressions\f[] in the \f[I]Lua\f[] and
+\f[I]Haskell\f[] programming languages.
+.SS TEMPLATE SYNTAX \- CONTEXT VARIABLES
+.IP \[bu] 2
+\f[I]\f[B]\@\@children\f[]\f[] Interpolates the result of converting
+children of the current node
+.IP \[bu] 2
+\f[I]\f[B]\@\@heads\f[]\f[] Interpolates the result of converting
+children of the current node that are marked as \f[B]head\f[]
+.IP \[bu] 2
+\f[I]\f[B]\@\@bodies\f[]\f[] Interpolates the result of converting
+children of the current node that are marked as \f[B]body\f[]
+.SS TEMPLATE SYNTAX \- DEFINING BASIC TAGS
+.PP
+Tags are mapped to \f[I]LaTeX\f[] with:
+.IP
+.nf
+\f[C]
+conteudoxml:\ |
+\ \ \\conteudolatex{\@\@children\ and\ other\ variables}
+\f[]
+.fi
+.PP
+The output can be marked to be interpolated as \f[I]\@\@heads\f[] and
+\f[I]\@\@bodies\f[] by being defined like this (both are optional, a tag
+can have \f[I]head:\f[] or \f[I]body:\f[] only):
+.IP
+.nf
+\f[C]
+conteudoxml\-com\-head:
+\ \ #\ \[aq]\@\@bodies\[aq]\ section\ of\ this\ node
+\ \ body:\ |
+\ \ \ \ ...
+\ \ #\ \[aq]\@\@heads\[aq]\ section\ of\ this\ node
+\ \ head:\ |
+\ \ \ \ \\title{...}
+\f[]
+.fi
+.SS TEMPLATE SYNTAX \- LUA INTERPOLATION
+.PP
+Users can interpolate expressions in the \f[I]Lua\f[] programming
+language that can access and query the XML cursor information and run
+arbitrary transformations on the strings its children generate and that
+it returns.
+.PP
+The syntax for interpolation is \f[I]\@\@lua(... lua code here ...)\@\@*
+and it\[aq]ll interpolate the \f[]return* value of this expression where
+it is on the template:
+.IP
+.nf
+\f[C]
+p:\ |
+\ \ \\saida{\@\@lua(
+\ \ \ \ return\ find("font")
+\ \ )\@\@}
+\f[]
+.fi
+.PP
+The helpers exposed to the \f[I]Lua\f[] interpreter are:
+.IP \[bu] 2
+\f[I]children()\f[] Like \f[I]\@\@children\f[], returns a string of the
+converted children
+.IP \[bu] 2
+\f[I]attr()\f[] Returns the value of \f[I]\f[] in the current tag, or
+the empty string
+.IP \[bu] 2
+\f[I]find()\f[] Returns the result of converting children that match
+\f[I]\f[]
+.IP \[bu] 2
+\f[I]elements()\f[] Returns an array of the strings resulting from
+converting children that are elements, ignoring leaf text nodes
 .SH AUTHORS
 Pedro Tacla Yamada, Beijaflor Software (https://beijaflor.io).

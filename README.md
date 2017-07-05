@@ -94,7 +94,7 @@ conversão de nódulos XML para LaTeX.
 #### Variáveis de contexto disponíveis
 - `@@children` Interpola todos os filhos da tag atual convertidos como LaTeX
 - `@@heads` Interpola todos os filhos da tag atual marcados como 'head'
-- `@@bodies` Interpola todos os filhos da tag atual marcados como 'content'
+- `@@bodies` Interpola todos os filhos da tag atual marcados como 'body'
 
 #### Definindo tags
 Definimos tags com:
@@ -107,7 +107,7 @@ conteudoxml: |
 conteudoxml-com-head:
   # Conteúdo '@@bodies' dessa correspondência
   # (equivale a `conteudoxml-com-head: "\asdfasdf{}"`)
-  content: |
+  body: |
     \asdfadsf{}
   # Conteúdo '@@heads' dessa correspondência
   head: |
