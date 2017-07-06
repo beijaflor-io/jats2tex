@@ -105,3 +105,32 @@ copyright-year: |
 
 b: |
   \textbf{@@children}
+
+table: |
+  \documentclass{article}
+  \begin{document}
+  \begin{tabular}{@@heads}
+  @@bodies
+  \end{tabular}
+  \end{document}
+
+thead:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(elements(), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody: |
+  @@lua(
+    return table.concat(elements(), ' & ') .. '\\\\ \\hline \n'
+  )@@

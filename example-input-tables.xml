@@ -1,0 +1,12 @@
+<table>
+  <thead>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Gender</th>
+  </thead>
+  <tbody>
+    <td>Person</td>
+    <td>30</td>
+    <td>?</td>
+  </tbody>
+</table>

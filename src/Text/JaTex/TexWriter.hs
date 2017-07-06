@@ -73,7 +73,7 @@ emptyState = TexState { tsBodyRev = mempty
 logWarning :: (MonadState TexState m, MonadIO m) => String -> m ()
 logWarning w = do
     TexState{tsWarnings} <- get
-    when tsWarnings $ liftIO (hPutStrLn stderr ("[warning]" <> w))
+    when tsWarnings $ liftIO (hPutStrLn stderr ("[warning] " <> w))
 
 tsHead :: TexState -> [LaTeXT Identity ()]
 tsHead = reverse . tsHeadRev
@@ -429,6 +429,7 @@ prepareInterp i =
               "children"
               (return (render (runLaTeX (sequence_ (tcChildren context)))) :: IO Text)
             Lua.registerhsfunction l "find" luaFindChildren
+            Lua.registerhsfunction l "findAll" luaFindAll
             Lua.registerhsfunction l "attr" luaAttr
             Lua.registerhsfunction l "elements" luaElements
             Lua.luaDoString
@@ -461,6 +462,16 @@ prepareInterp i =
                     els =
                       filter ((/= mempty) . Text.strip . fst) (zip latexs ts)
                 return (map (Text.encodeUtf8 . fst) els)
+            luaFindAll :: ByteString -> IO [ByteString]
+            luaFindAll name = do
+              inlines <-
+                execTexWriter tcState $
+                mapM
+                  convertInlineElem
+                  (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
+              let heads = concatMap fst inlines
+                  bodies = concatMap snd inlines
+              return $ map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
             luaFindChildren :: ByteString -> IO ByteString
             luaFindChildren name = do
               inlines <-
