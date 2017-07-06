@@ -8,6 +8,7 @@
 module Handler.Home where
 
 import           Conduit
+import qualified Data.ByteString.Char8 as ByteString
 import           Data.FileEmbed
 import qualified Data.Text             as Text
 import qualified Data.Text.Encoding    as Text
@@ -15,6 +16,7 @@ import qualified Data.Text.ICU.Convert as ICU
 import           Import
 import           System.IO.Unsafe
 import           Text.JaTex
+import qualified Text.JaTex.CleanUp    as CleanUp
 import           Yesod.Core.Types      (FileInfo (..))
 
 placeholder :: Text
@@ -47,7 +49,7 @@ getHomeR =
         setTitle "jats2tex - Convert JATS-XML to TeX"
         $(widgetFile "homepage")
 
-postHomeR :: Handler Text
+postHomeR :: Handler TypedContent
 postHomeR = do
   mfile <- runInputPost $ iopt fileField "body"
   (_filepath, body) <-
@@ -65,15 +67,19 @@ postHomeR = do
         template <- liftIO $ parseTemplate "<none>" (Text.encodeUtf8 stemplate)
         return (template, "<none>")
       Nothing -> return defaultTemplate
-  !etex <- liftIO $ do
-    jats <- parseJATS (Text.unpack body)
-    jatsXmlToLaTeXText
-      def
-      { joTemplate = template
-      , joInputFilePath = "none"
-      , joInputDocument = jats
-      }
-  return etex
+  !etex <-
+    liftIO $ do
+      jats <-
+        parseJATS =<< CleanUp.cleanUpXML (Just "utf-8") (Text.encodeUtf8 body)
+      jatsXmlToLaTeXText
+        def
+        { joTemplate = template
+        , joInputFilePath = "none"
+        , joInputDocument = jats
+        }
+  selectRep $ do
+    provideRep $ return etex
+    provideRep $ return $ object ["result" .= etex]
 
 commentIds :: (Text, Text, Text)
 commentIds = ("js-commentForm", "js-createCommentTextarea", "js-commentList")

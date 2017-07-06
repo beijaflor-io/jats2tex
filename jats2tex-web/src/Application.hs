@@ -47,8 +47,10 @@ import           System.Log.FastLogger                (defaultBufSize,
 -- Don't forget to add new modules to your cabal file!
 import           Handler.Comment
 import           Handler.Common
+import           Handler.Files
 import           Handler.Home
 import           Handler.Profile
+import           Handler.Templates
 import           Handler.Workspaces
 
 -- This line actually creates our YesodDispatch instance. It is the second half
@@ -153,7 +155,8 @@ appMain = do
     -- Get the settings from all relevant sources
     settings <- loadYamlSettingsArgs
         -- fall back to compile-time values, set to [] to require values at runtime
-        [configSettingsYmlValue]
+        [ -- configSettingsYmlValue
+        ]
 
         -- allow environment variables to override
         useEnv
@@ -173,7 +176,7 @@ appMain = do
 --------------------------------------------------------------
 getApplicationRepl :: IO (Int, App, Application)
 getApplicationRepl = do
-    settings <- getAppSettings
+    settings <- loadYamlSettings ["config/dev-settings.yml"] [] useEnv
     foundation <- makeFoundation settings
     wsettings <- getDevSettings $ warpSettings foundation
     app1 <- makeApplication foundation

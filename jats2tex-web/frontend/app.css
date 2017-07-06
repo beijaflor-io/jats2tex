@@ -12,6 +12,14 @@
   height: calc(100vh - 77px) !important;
 }
 
+.SplitPane .SplitPane {
+  height: calc(100vh - 77px - 35px) !important;
+}
+
+.react-tabs__tab-panel {
+  position: relative;
+}
+
 .ReactCodeMirror, .CodeMirror, .SplitPane {
   height: 100%;
   width: 100%;
@@ -64,9 +72,23 @@ hr {
   border-left: 5px solid rgba(0, 0, 0, 0.5);
   border-right: 5px solid rgba(0, 0, 0, 0.5);
 }
+
 .Resizer.disabled {
   cursor: not-allowed;
 }
+
 .Resizer.disabled:hover {
   border-color: transparent;
+}
+
+.BottomMessage {
+  position: fixed;
+  padding: 15px;
+  background: black;
+  z-index: 999;
+  color: white;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }

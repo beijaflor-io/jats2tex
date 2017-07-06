@@ -55,7 +55,3 @@ $newline never
           \  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
           })();
         }
-
-    $if isDevelopment
-      <script src="http://localhost:8080/webpack-dev-server.js">
-      <script src="http://localhost:8080/bundle.js">

@@ -1,0 +1,7 @@
+<div #app>
+    <.text-center>
+        Loading...
+
+$if isDevelopment
+  <script src="http://localhost:8080/webpack-dev-server.js">
+  <script src="http://localhost:8080/bundle.js">

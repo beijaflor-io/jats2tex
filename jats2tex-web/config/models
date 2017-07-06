@@ -14,7 +14,8 @@ Workspace json
     xml Text
     latex Text Maybe
     pdfUrl Text Maybe
-    userId UserId Maybe
+    isPublic Bool default=False
+    userId UserId
 
 Comment json -- Adding "json" causes ToJSON and FromJSON instances to be derived.
     message Text

@@ -1,0 +1,21 @@
+static-dir:     "_env:STATIC_DIR:static"
+host:           "_env:HOST:*4"
+port:           "_env:PORT:3000"
+ip-from-header: "_env:IP_FROM_HEADER:false"
+
+detailed-logging: true
+should-log-all: true
+reload-templates: true
+mutable-static: true
+skip-combining: true
+auth-dummy-login : true
+
+database:
+  user:     "_env:PGUSER:jats2tex-web_LOWER"
+  password: "_env:PGPASS:jats2tex-web"
+  host:     "_env:PGHOST:localhost"
+  port:     "_env:PGPORT:5432"
+  database: "_env:PGDATABASE:jats2tex-web_LOWER"
+  poolsize: "_env:PGPOOLSIZE:10"
+
+copyright: Copyright (c) 2017 Beijaflor Software

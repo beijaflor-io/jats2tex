@@ -68,6 +68,7 @@ library
   exposed-modules:
       JATSXML.HTMLEntities
       Text.JaTex
+      Text.JaTex.CleanUp
       Text.JaTex.Cmd.Main
       Text.JaTex.Parser
       Text.JaTex.Template

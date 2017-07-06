@@ -5,7 +5,7 @@ import           Data.Monoid
 import           System.Environment
 import           Text.XML.Light
 
-import           Text.JaTex.Parser
+import qualified Text.JaTex.CleanUp as CleanUp
 import qualified Text.JaTex.Upgrade as Upgrade
 
 helpText :: String
@@ -32,5 +32,4 @@ main =
     ("-h":_) -> help
     [] -> help
     (targetFp:_) -> do
-      inputFile <- parseXML <$> readJatsFile Nothing targetFp
-      putStrLn (concatMap showContent (concatMap cleanUp inputFile))
+      putStrLn =<< CleanUp.cleanUpXMLFile Nothing targetFp

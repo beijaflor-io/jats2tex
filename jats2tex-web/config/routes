@@ -8,6 +8,9 @@
 /workspaces WorkspacesR GET POST
 /workspaces/#WorkspaceId WorkspacesDetailR GET PUT
 
+/templates TemplatesR GET POST
+/files FilesR GET POST
+
 /comments CommentR POST
 
 /profile ProfileR GET

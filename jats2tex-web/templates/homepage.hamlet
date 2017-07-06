@@ -1,3 +1,11 @@
-<div #app>
-    <div .text-center>
-        Loading...
+<div .container>
+    <ul .list-group>
+        <li .list-group-item>
+            <form method="post" action=@{WorkspacesR}>
+                <button type=submit className="btn btn-success"> Create new Workspace
+        <li .list-group-item>
+            <a href="@{WorkspacesR}"> See Workspaces
+        <li .list-group-item>
+            <a href="@{AuthR LoginR}"> Login
+        <li .list-group-item>
+            <a href="@{AuthR (PluginR "email" ["register"])}"> Create an account
