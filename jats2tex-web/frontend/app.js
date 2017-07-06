@@ -63,9 +63,9 @@ var PreviewPdf = (function (_super) {
         return _this;
     }
     PreviewPdf.prototype.componentDidUpdate = function (prevProps) {
-        if (this.props.value && this.props.value !== prevProps.value) {
-            this.runLaTeX();
-        }
+        // if (this.props.value && this.props.value !== prevProps.value) {
+        this.runLaTeX();
+        // }
     };
     PreviewPdf.prototype.componentDidMount = function () {
         if (this.props.value) {
@@ -129,8 +129,8 @@ var Workspace = (function (_super) {
             serverData: {}
         };
         _this.autoSave = debounce(function () {
-            if (_this.state.isLoading || _this.state.isConverting || _this.state.isSaving)
-                return;
+            /*if (this.state.isLoading || this.state.isConverting || this.state.isSaving)*/
+            /*return;*/
             if (!_this.isDirty())
                 return;
             _this.save();

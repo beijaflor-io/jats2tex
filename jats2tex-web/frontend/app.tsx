@@ -37,9 +37,9 @@ class PreviewPdf extends Component<{value: string}, {url: string | null}> {
   };
 
   componentDidUpdate(prevProps) {
-    if (this.props.value && this.props.value !== prevProps.value) {
+    // if (this.props.value && this.props.value !== prevProps.value) {
       this.runLaTeX();
-    }
+    // }
   }
 
   componentDidMount() {
@@ -178,8 +178,8 @@ class Workspace extends Component {
   }
 
   autoSave = debounce(() => {
-    if (this.state.isLoading || this.state.isConverting || this.state.isSaving)
-      return;
+    /*if (this.state.isLoading || this.state.isConverting || this.state.isSaving)*/
+      /*return;*/
     if (!this.isDirty()) return;
     this.save();
   }, 5000);
