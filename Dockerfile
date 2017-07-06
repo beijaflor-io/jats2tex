@@ -9,4 +9,4 @@ COPY ./.stack-fpm/linux/usr/local/var /usr/local/var
 COPY ./.stack-fpm/linux/usr/local/etc /usr/local/etc
 
 WORKDIR /usr/local/etc/jats2tex
-CMD jats2tex-web
+CMD jats2tex-web /usr/local/etc/jats2tex/config/settings.yml
