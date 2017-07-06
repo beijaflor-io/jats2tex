@@ -2,11 +2,12 @@ table: |
   \documentclass{article}
   \begin{document}
   \begin{tabular}{@@heads}
+  \hline
   @@bodies
   \end{tabular}
   \end{document}
 
-thead:
+thead/tr:
   head: |
     @@lua(
       local ret = {}
@@ -19,10 +20,10 @@ thead:
 
   body: |
     @@lua(
-      return table.concat(elements(), ' & ') .. '\\\\ \\hline \n'
+      return table.concat(findAll('th'), ' & ') .. '\\\\ \\hline \n'
     )@@
 
-tbody: |
+tbody/tr: |
   @@lua(
-    return table.concat(elements(), ' & ') .. '\\\\ \\hline \n'
+    return table.concat(findAll('td'), ' & ') .. '\\\\ \\hline \n'
   )@@

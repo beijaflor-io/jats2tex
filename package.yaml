@@ -20,6 +20,7 @@ dependencies:
 - containers
 - HaTeX
 - hxt
+- hxt-xpath
 - text
 - optparse-applicative
 - bytestring

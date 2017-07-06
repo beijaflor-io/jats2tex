@@ -1,12 +1,22 @@
 <table>
   <thead>
-    <th>Name</th>
-    <th>Age</th>
-    <th>Gender</th>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Gender</th>
+    </tr>
   </thead>
   <tbody>
-    <td>Person</td>
-    <td>30</td>
-    <td>?</td>
+    <tr>
+      <td>Person 1</td>
+      <td>30</td>
+      <td>M</td>
+    </tr>
+
+    <tr>
+      <td>Person 2</td>
+      <td>35</td>
+      <td>F</td>
+    </tr>
   </tbody>
 </table>

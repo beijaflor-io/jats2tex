@@ -53,13 +53,13 @@ build-osx: build-frontend FORCE
 
 example-output.tex: FORCE
 	stack build # --executable-profiling --library-profiling
-	rm ./example-output.*
+	rm -f ./example-output.*
 	stack exec jats2tex ./examples/S0250-54602016000400001.xml -- --output ./example-output.tex
 
 example-tables: FORCE
 	stack build # --executable-profiling --library-profiling
-	rm ./example-output-tables.*
-	stack exec jats2tex ./example-input-tables.xml -- --output ./example-output-tables.tex
+	rm -f ./example-output-tables.*
+	stack exec jats2tex -- -t ./standalone-tables.yaml --output ./example-output-tables.tex ./example-input-tables.xml --
 	latex ./example-output-tables.tex
 
 example: FORCE
