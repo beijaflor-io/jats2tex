@@ -4,6 +4,7 @@ import 'codemirror/mode/lua/lua';
 import 'codemirror/mode/stex/stex';
 import 'codemirror/mode/xml/xml';
 import 'codemirror/mode/yaml/yaml';
+import 'codemirror/theme/material.css';
 import 'react-tabs/style/react-tabs.css';
 import * as Codemirror from 'react-codemirror';
 import * as React from 'react';
@@ -23,6 +24,7 @@ class SourceEditor extends Component<{mode: string}, {}> {
   render() {
     const options = {
       lineNumbers: true,
+      theme: 'material',
       mode: this.props.mode,
     };
     return <Codemirror options={options} {...this.props} />;
@@ -410,7 +412,9 @@ class Workspace extends Component {
                   />
                 </TabPanel>
                 <TabPanel>
-                  <PreviewPdf value={this.state.conversionResult} />
+                  <div style={{height: '100%'}}>
+                    <PreviewPdf value={this.state.conversionResult} />
+                  </div>
                 </TabPanel>
                 <TabPanel>
                   <SplitPane
@@ -438,7 +442,13 @@ class Workspace extends Component {
         <hr />
 
         <button
-          style={{position: 'absolute', top: 98, right: 15, zIndex: 10}}
+          style={{
+            position: 'absolute',
+            top: 60,
+            borderRadius: 0,
+            right: 0,
+            zIndex: 10,
+          }}
           className="btn btn-primary"
           onClick={this.runConvert}
           disabled={this.state.isLoading || this.state.isSaving}

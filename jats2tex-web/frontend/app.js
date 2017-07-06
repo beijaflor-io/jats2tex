@@ -24,6 +24,7 @@ require("codemirror/mode/lua/lua");
 require("codemirror/mode/stex/stex");
 require("codemirror/mode/xml/xml");
 require("codemirror/mode/yaml/yaml");
+require("codemirror/theme/material.css");
 require("react-tabs/style/react-tabs.css");
 var Codemirror = require("react-codemirror");
 var React = require("react");
@@ -45,6 +46,7 @@ var SourceEditor = (function (_super) {
     SourceEditor.prototype.render = function () {
         var options = {
             lineNumbers: true,
+            theme: 'material',
             mode: this.props.mode
         };
         return React.createElement(Codemirror, __assign({ options: options }, this.props));
@@ -311,7 +313,8 @@ var Workspace = (function (_super) {
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement(SourceEditor, { mode: "stex", key: this.state.conversionResult, autoSave: true, value: this.state.conversionResult })),
                             React.createElement(react_tabs_1.TabPanel, null,
-                                React.createElement(PreviewPdf, { value: this.state.conversionResult })),
+                                React.createElement("div", { style: { height: '100%' } },
+                                    React.createElement(PreviewPdf, { value: this.state.conversionResult }))),
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement(SplitPane, { split: "horizontal", defaultSize: document.body.offsetHeight * 0.45, minSize: 0.2 },
                                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane1Style) },
@@ -319,7 +322,13 @@ var Workspace = (function (_super) {
                                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
                                         React.createElement(PreviewPdf, { value: this.state.conversionResult })))))))),
             React.createElement("hr", null),
-            React.createElement("button", { style: { position: 'absolute', top: 98, right: 15, zIndex: 10 }, className: "btn btn-primary", onClick: this.runConvert, disabled: this.state.isLoading || this.state.isSaving }, "Run jats2tex"),
+            React.createElement("button", { style: {
+                    position: 'absolute',
+                    top: 60,
+                    borderRadius: 0,
+                    right: 0,
+                    zIndex: 10
+                }, className: "btn btn-primary", onClick: this.runConvert, disabled: this.state.isLoading || this.state.isSaving }, "Run jats2tex"),
             this.renderBottomMessage));
     };
     return Workspace;

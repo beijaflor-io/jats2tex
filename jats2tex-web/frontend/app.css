@@ -18,6 +18,11 @@
 
 .react-tabs__tab-panel {
   position: relative;
+  height: 100%;
+}
+
+.react-tabs {
+  height: 100%;
 }
 
 .ReactCodeMirror, .CodeMirror, .SplitPane {
