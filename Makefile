@@ -32,6 +32,12 @@ deploy: FORCE
 build-image: FORCE
 	docker build -t jats2tex:$(tag) .
 
+push-image:
+	docker tag jats2tex:$(tag) beijaflorio/jats2tex:$(tag)
+	docker tag jats2tex:$(tag) beijaflorio/jats2tex:latest
+	docker push beijaflorio/jats2tex:latest
+	docker push beijaflorio/jats2tex:$(tag)
+
 release: FORCE
 	echo $(tag)
 	make build-linux
