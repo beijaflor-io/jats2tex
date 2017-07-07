@@ -27,6 +27,21 @@
 
 #### Instalador Windows (WIP)
 
+### Imagem Docker para versão web
+Ver https://hub.docker.com/r/beijaflorio/jats2tex/
+```
+docker run -it beijaflorio/jats2tex \
+  -e AWS_ACCESS_KEY_ID="" \                      # Chaves no AWS para envio de e-mails pelo SES
+  -e AWS_DEFAULT_REGION="" \
+  -e AWS_SECRET_ACCESS_KEY="" \
+  -e HOST="*4" \                                 # O host para escutar por conexões
+  -e PGDATABASE="" \                             # Nome do banco de dados PostgreSQL
+  -e PGHOST="" \                                 # Host do banco de dados PostgreSQL
+  -e PGPASS="" \                                 # Senha do banco de dados PostgreSQL
+  -e PGUSER="" \                                 # Usuário do banco de dados PostgreSQL
+  -e STATIC_DIR="/usr/local/var/jats2tex/static" # Onde estão os arquivos estáticos (na imagem estão nesse local)
+```
+
 ## Uso básico, convertendo JATS-XML para LaTeX
 ![](/docs/gifs/jats2tex-uso-basico.gif)
 
