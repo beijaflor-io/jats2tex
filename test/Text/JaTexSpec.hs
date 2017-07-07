@@ -8,8 +8,6 @@ import           Test.Hspec
 
 import           Text.JaTex
 
-parseJATS' = parseJATS . Text.pack
-
 spec :: Spec
 spec = do
     describe "readJats" $ do
