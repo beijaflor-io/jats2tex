@@ -242,3 +242,59 @@ executable jats2tex-remove-c-data
       Main
       XsdToHaskell
   default-language: Haskell2010
+
+test-suite hspec
+  type: exitcode-stdio-1.0
+  main-is: Spec.hs
+  hs-source-dirs:
+      test
+  build-depends:
+      base >=4 && <5
+    , xml
+    , mtl
+    , containers
+    , HaTeX
+    , hxt
+    , hxt-xpath
+    , text
+    , optparse-applicative
+    , bytestring
+    , text-icu
+    , executable-hash
+    , cabal-file-th
+    , wreq
+    , lens
+    , lens-aeson
+    , vector
+    , aeson
+    , directory
+    , temporary
+    , filepath
+    , open-browser
+    , polyparse
+    , unordered-containers
+    , yaml
+    , shakespeare
+    , cryptohash
+    , hint
+    , megaparsec
+    , exceptions
+    , data-default
+    , hslua
+    , luautils
+    , file-embed
+    , template-haskell
+    , process
+    , th-utilities
+    , base
+    , hspec
+    , QuickCheck
+    , jats2tex
+    , here
+  if os(windows)
+    build-depends:
+        Win32
+  other-modules:
+      SanitySpec
+      Text.JaTexSpec
+  default-language: Haskell2010

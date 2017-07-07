@@ -92,13 +92,13 @@ executables:
       else:
         buildable: false
 
-#tests:
-  #hspec:
-    #main: Spec.hs
-    #source-dirs: test
-    #dependencies:
-    #- base
-    #- hspec
-    #- QuickCheck
-    #- jats2tex
-    #- here
+tests:
+  hspec:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+    - base
+    - hspec
+    - QuickCheck
+    - jats2tex
+    - here
