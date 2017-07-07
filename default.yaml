@@ -105,3 +105,10 @@ copyright-year: |
 
 b: |
   \textbf{@@children}
+
+sup: |
+  \textsuperscript{th}
+
+sec: |
+  \section{@@lua(return find('title'))@@}
+  @@lua(return find('p'))@@
