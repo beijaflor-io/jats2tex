@@ -57,11 +57,6 @@ build-pdf: FORCE
 build-osx: build-frontend FORCE
 	stack build --extra-lib-dirs=/usr/local/opt/icu4c/lib --extra-include-dirs=/usr/local/opt/icu4c/include
 
-example-output.tex: FORCE
-	stack build # --executable-profiling --library-profiling
-	rm -f ./example-output.*
-	stack exec jats2tex ./examples/S0250-54602016000400001.xml -- --output ./example-output.tex
-
 example-tables: FORCE
 	stack build # --executable-profiling --library-profiling
 	rm -f ./example-output-tables.*
@@ -69,7 +64,9 @@ example-tables: FORCE
 	latex ./example-output-tables.tex
 
 example: FORCE
-	make example-output.tex
-	latex ./example-output.tex
+	stack build # --executable-profiling --library-profiling
+	rm -f ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.{dvi,log,pdf,aux}
+	stack exec jats2tex -- ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml --output ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.tex
+	cd ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/ && lualatex ./*.tex
 
 FORCE:
