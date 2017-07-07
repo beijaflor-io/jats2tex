@@ -61,6 +61,8 @@ import qualified Text.XML.HXT.XPath                  as HXT
 -- import           Text.XML.Light
 import           TH.RelativePaths
 
+import           Debug.Trace
+
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
                       , tsHeadRev = mempty
@@ -187,25 +189,20 @@ convertElem
 convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
   TexState {tsTemplate} <- get
   commentEl
-  templateContext <- getTemplateContext
-  added <-
-    case findTemplate (fst tsTemplate) templateContext of
-      Nothing -> do
-        _ <- run
-        return mempty
-      Just (sub, _, t) -> do
-        rs <-
-          forM sub $ \x -> do
-            (h, b) <- convertInlineChildren x
-            templateApply
-              t
-              templateContext {tcElement = x, tcHeads = h, tcBodies = b}
-        let h = mapM_ fst rs
-            b = mapM_ snd rs
-        addHead h
-        add b
-        return (h <> b)
-  return added
+  liftIO $ hPutStrLn stderr (show $ ("convertElem", HXT.qualifiedName name))
+  case findTemplate (fst tsTemplate) el of
+    Nothing -> do
+      _ <- run
+      return mempty
+    Just (sub, _, t) -> do
+      templateContext <- getTemplateContext
+      liftIO $ print ("findTemplate", elementName el, "found subtree", sub)
+      rs <- forM sub $ \x -> templateApply t templateContext { tcElement = x }
+      let h = mapM_ fst rs
+          b = mapM_ snd rs
+      addHead h
+      add b
+      return (h <> b)
   where
     commentEl =
       addComment
@@ -213,19 +210,16 @@ convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
     humanAttrs =
       unwords $
       map
-        (\(HXT.NTree (HXT.XAttr attrKey) [(HXT.NTree (HXT.XText attrValue) _)]) ->
+        (\(HXT.NTree (HXT.XAttr attrKey) [HXT.NTree (HXT.XText attrValue) _]) ->
            HXT.qualifiedName attrKey <> "=" <> show attrValue)
         attrs
     getTemplateContext = do
-      (h, i) <- convertInlineChildren el
       st <- get
       l <- liftIO Lua.newstate
       return
         TemplateContext
         { tcLuaState = l
         , tcState = st
-        , tcHeads = h
-        , tcBodies = i
         , tcElement = el
         }
     run =
@@ -247,21 +241,21 @@ removeSpecial =
 convertInlineNode
   :: MonadTex m
   => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineNode c = do
+convertInlineNode c | traceShow ("convertInlineNode", elementName c) True = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertNode c)
   return (tsHead newState, tsBody newState)
 
 convertInlineChildren :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineChildren el = do
+convertInlineChildren el | traceShow ("convertInlineChildren", elementName el) True = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertChildren el)
   return (tsHead newState, tsBody newState)
 
 convertInlineElem :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineElem el = do
+convertInlineElem el | traceShow ("convertInlineElem", elementName el) True = do
   st <- get
   (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (void (convertElem el))
   return (tsHead newState, tsBody newState)
@@ -281,45 +275,33 @@ begin n c = between c (raw ("\\begin{" <> n <> "}")) (raw ("\\end{" <> n <> "}")
 
 -- Template Execution
 
+elementName (HXT.NTree (HXT.XTag n _) _) = HXT.qualifiedName n
+elementName _                            = "<none>"
+
 templateApply
   :: MonadTex m
   => TemplateNode (StateT TexState IO)
   -> TemplateContext
   -> m (LaTeXT Identity (), LaTeXT Identity ())
-templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc =
-    (,) <$> applyTemplateToEl templateLaTeXHead tc <*>
-    applyTemplateToEl templateLaTeX tc
+templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc | traceShow ("templateApply", elementName (tcElement tc)) True = do
+    (heads, bodies) <- convertInlineChildren (tcElement tc)
+    hresult <- applyTemplateToEl templateLaTeXHead tc (heads, bodies)
+    bresult <- applyTemplateToEl templateLaTeX tc (heads, bodies)
+    return (hresult, bresult)
 
 runPredicate :: NodeSelector -> NodeSelector -> Bool
 runPredicate s t = t == s
 
 
-findTemplate :: Template -> TemplateContext -> Maybe ([HXT.XmlTree], ConcreteTemplateNode, TemplateNode (StateT TexState IO))
-findTemplate ts tc = run ts
+findTemplate :: Template -> HXT.XmlTree -> Maybe ([HXT.XmlTree], ConcreteTemplateNode, TemplateNode (StateT TexState IO))
+findTemplate ts e = run ts
   where
     run (Template []) = Nothing
     run (Template ((ct, t@TemplateNode {templatePredicate}):ps)) =
-      let xpathR = HXT.getXPathSubTrees templatePredicate (tcElement tc)
+      let xpathR = HXT.getXPathSubTrees templatePredicate e
       in case xpathR of
            []  -> run (Template ps)
            sub -> Just (sub, ct, t)
-
-runTemplate
-  :: MonadTex m
-  => Template
-  -> TemplateContext
-  -> m (Maybe ((ConcreteTemplateNode, TemplateNode (StateT TexState IO)), (LaTeXT Identity (), LaTeXT Identity ())))
-runTemplate ts tc =
-  case findTemplate ts tc of
-    Nothing -> return Nothing
-    Just (sub, ct, t) -> do
-      liftIO $
-        hPutStrLn stderr $
-        "Found template (" <> templatePredicate t <> "), applying..."
-      rs <- mapM (\x -> templateApply t tc {tcElement = x}) sub
-      let heads = mapM_ fst rs
-          bodies = mapM_ snd rs
-      return $ Just ((ct, t), (heads, bodies))
 
 elChildren :: HXT.XmlTree -> [HXT.XmlTree]
 elChildren (HXT.NTree _ c) = filter isElem c
@@ -339,33 +321,30 @@ lookupAttr n (a:as) =
     _ -> lookupAttr n as
 lookupAttr _ [] = Nothing
 
-applyTemplateToEl :: MonadTex m => PreparedTemplate (StateT TexState IO) -> TemplateContext -> m (LaTeXT Identity ())
-applyTemplateToEl l e = do
-  rs <- mapM (evalNode e) l
+applyTemplateToEl l e (heads, bodies) = do
+  rs <- mapM (\i -> evalNode e i (heads, bodies)) l
   return $ textell $ TeXRaw $ Text.concat rs
 
-evalNode
-  :: MonadTex m
-  => TemplateContext -> PreparedTemplateNode (StateT TexState IO) -> m Text
-evalNode _ (PreparedTemplatePlain t) = return t
-evalNode e (PreparedTemplateVar "heads") =
-  return $ render (runLaTeX (sequence_ (tcHeads e)))
-evalNode e (PreparedTemplateVar "bodies") =
-  return $ render (runLaTeX (sequence_ (tcBodies e)))
-evalNode e (PreparedTemplateVar "children") =
-  return $ render (runLaTeX (sequence_ (tcChildren e)))
-evalNode _ (PreparedTemplateVar "requirements") =
-  return $ render (runLaTeX requirements)
-evalNode _ (PreparedTemplateVar _) = return ""
-evalNode e (PreparedTemplateLua run) = do
-    (_, _, result) <- liftIO $ runTexWriter (tcState e) (run e)
-    return (render (runLaTeX result))
-evalNode e (PreparedTemplateExpr runner) = do
-  let children = tcChildren e
-      runFind = mkFindChildren e
-      wtr = runner e children runFind
-  (_, _, result) <- liftIO $ runTexWriter (tcState e) wtr
-  return (render (runLaTeX result))
+-- evalNode
+--   :: MonadTex m
+--   => TemplateContext -> PreparedTemplateNode (StateT TexState IO) -> m Text
+evalNode e ptn (heads, bodies) = do
+  let children = heads <> bodies
+  case ptn of
+    (PreparedTemplatePlain t) -> return t
+    (PreparedTemplateVar "heads") -> return $ render . runLaTeX . sequence_ $ heads
+    (PreparedTemplateVar "bodies") -> return $ render . runLaTeX . sequence_ $ bodies
+    (PreparedTemplateVar "children") -> return $ render . runLaTeX . sequence_ $ children
+    (PreparedTemplateVar "requirements") -> return $ render (runLaTeX requirements)
+    (PreparedTemplateVar _) -> return ""
+    (PreparedTemplateLua run) -> do
+        (_, _, result) <- liftIO $ runTexWriter (tcState e) (run e (heads, bodies))
+        return (render (runLaTeX result))
+    (PreparedTemplateExpr runner) -> do
+        let runFind = mkFindChildren e
+            wtr = runner e children runFind
+        (_, _, result) <- liftIO $ runTexWriter (tcState e) wtr
+        return (render (runLaTeX result))
   where
     mkFindChildren
       :: MonadTex m
@@ -397,16 +376,13 @@ prepareInterp i =
     doPrepare (TemplatePlain t) = return $ PreparedTemplatePlain t
     doPrepare (TemplateLua t) = return $ PreparedTemplateLua luaRunner
       where
-        luaRunner context@TemplateContext {..} =
+        luaRunner context@TemplateContext {..} (heads, bodies) =
           liftIO $
             -- putStrLn ("Running lua interpolation (" <> show t <> ")")
            do
             let l = tcLuaState
             Lua.openlibs l
-            Lua.registerhsfunction
-              l
-              "children"
-              (return (render (runLaTeX (sequence_ (tcChildren context)))) :: IO Text)
+            Lua.registerhsfunction l "children" luaChildren
             Lua.registerhsfunction l "find" luaFindChildren
             Lua.registerhsfunction l "findAll" luaFindAll
             Lua.registerhsfunction l "attr" luaAttr
@@ -423,6 +399,10 @@ prepareInterp i =
             -- print result
             return (raw (Text.decodeUtf8 result))
           where
+            luaChildren :: IO ByteString
+            luaChildren = do
+              -- c <- execTexWriter tcState (sequence (heads <> bodies))
+              return $ Text.encodeUtf8 $ render . runLaTeX . sequence_ $ (heads <> bodies)
             luaAttr :: ByteString -> IO ByteString
             luaAttr name =
               return $
@@ -512,34 +492,15 @@ prepareInterp i =
 
 parseTemplateNode :: ConcreteTemplateNode -> IO (Either Text (TemplateNode (StateT TexState IO)))
 parseTemplateNode ConcreteTemplateNode {..} = do
-  -- case LaTeX.parseLaTeX templateContent of
-  --   Right l -> do
-  --     case templateHead of
-  --       "" -> do
-  --         prepared <- liftIO $ prepareInterp (render l)
-  --         return $
-  --           Right
-  --             TemplateNode
-  --             { templatePredicate = Text.unpack templateSelector
-  --             , templateLaTeXHead = mempty
-  --             , templateLaTeX = prepared
-  --             }
-  --       _ ->
-  --         case LaTeX.parseLaTeX templateHead of
-  --           Right h -> do
-              -- preparedH <- liftIO $ prepareInterp (render h)
-              -- preparedL <- liftIO $ prepareInterp (render l)
-              preparedH <- liftIO $ prepareInterp templateHead
-              preparedL <- liftIO $ prepareInterp templateContent
-              return $
-                Right
-                  TemplateNode
-                  { templatePredicate = Text.unpack templateSelector
-                  , templateLaTeXHead = preparedH
-                  , templateLaTeX = preparedL
-                  }
-    --         Left e -> return $ Left (Text.pack (show e))
-    -- Left e -> return $ Left (Text.pack (show e))
+  preparedH <- liftIO $ prepareInterp templateHead
+  preparedL <- liftIO $ prepareInterp templateContent
+  return $
+    Right
+      TemplateNode
+      { templatePredicate = Text.unpack templateSelector
+      , templateLaTeXHead = preparedH
+      , templateLaTeX = preparedL
+      }
 
 mergeEithers :: [Either a b] -> Either [a] [b]
 mergeEithers [] = Right []

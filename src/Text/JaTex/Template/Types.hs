@@ -28,7 +28,7 @@ import           Text.XML.HXT.Core
 type ExprType m = MonadTex m =>
                     TemplateContext -> [LaTeXT Identity ()] -> (Text -> m (LaTeXT Identity ())) -> m (LaTeXT Identity ())
 
-type LuaExprType m = MonadTex m => TemplateContext -> m (LaTeXT Identity ())
+type LuaExprType m = MonadTex m => TemplateContext -> ([LaTeXT Identity ()], [LaTeXT Identity ()]) -> m (LaTeXT Identity ())
 
 type TemplateInterp = [TemplateInterpNode]
 data TemplateInterpNode = TemplateVar Text
@@ -69,9 +69,7 @@ instance Yaml.FromJSON ConcreteTemplateNode where
         (trimTrailingNewline . fromMaybe "" <$> (o .:? "body" <|> o .:? "content"))
 
 data TemplateContext = TemplateContext
-  { tcHeads    :: [LaTeXT Identity ()]
-  , tcBodies   :: [LaTeXT Identity ()]
-  , tcElement  :: XmlTree
+  { tcElement  :: XmlTree
   , tcState    :: TexState
   , tcLuaState :: Lua.LuaState
   }
@@ -98,8 +96,5 @@ data TexState = TexState
   , tsBodyRev  :: [LaTeXT Identity ()]
   , tsWarnings :: Bool
   } deriving (Typeable)
-
-tcChildren :: TemplateContext -> [LaTeXT Identity ()]
-tcChildren e = tcHeads e <> tcBodies e
 
 type NodeSelector = String
