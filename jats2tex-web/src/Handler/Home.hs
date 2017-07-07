@@ -69,8 +69,7 @@ postHomeR = do
       Nothing -> return defaultTemplate
   !etex <-
     liftIO $ do
-      jats <-
-        parseJATS =<< CleanUp.cleanUpXML (Just "utf-8") (Text.encodeUtf8 body)
+      jats <- parseJATS (Text.unpack body)
       jatsXmlToLaTeXText
         def
         { joTemplate = template
