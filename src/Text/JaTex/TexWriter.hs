@@ -57,6 +57,7 @@ import           Text.LaTeX.Base.Class
 import           Text.LaTeX.Base.Syntax
 import qualified Text.Megaparsec                     as Megaparsec
 import qualified Text.XML.HXT.Core                   as HXT
+import qualified Text.XML.HXT.XPath                  as HXT
 -- import           Text.XML.Light
 import           TH.RelativePaths
 
@@ -73,7 +74,7 @@ emptyState = TexState { tsBodyRev = mempty
 logWarning :: (MonadState TexState m, MonadIO m) => String -> m ()
 logWarning w = do
     TexState{tsWarnings} <- get
-    when tsWarnings $ liftIO (hPutStrLn stderr ("[warning]" <> w))
+    when tsWarnings $ liftIO (hPutStrLn stderr ("[warning] " <> w))
 
 tsHead :: TexState -> [LaTeXT Identity ()]
 tsHead = reverse . tsHeadRev
@@ -167,36 +168,6 @@ convertNode fullNode@(HXT.NTree node _) =
     HXT.XCharRef _i -> return mempty
     HXT.XEntityRef _i -> return mempty
 
--- convertNode (Elem e) = do
---   addComment "elem"
---   ownAdded <- convertElem e
---   -- when (render (runLaTeX ownAdded) /= mempty ||
---   --       not (null (elChildren e))) $ add (fromString "\n")
---   addComment "endelem"
---   return ownAdded
--- convertNode (Text (CData CDataText str _))
---   | str == "" || dropWhile isSpace str == "" = return mempty
--- convertNode (Text (CData CDataText str _)) = do
---   addComment "cdata"
---   let lstr = fromString str
---   add lstr
---   return lstr
--- convertNode (Text (CData _ str ml)) = do
---   addComment "xml-cdata"
---   let cs =
---         map
---           (\c ->
---              case c of
---                Elem el -> Elem el {elLine = ml}
---                _       -> c)
---           (parseXML str)
---   mconcat <$> mapM convertNode cs
--- convertNode (CRef r) = do
---   addComment "ref"
---   let lr = fromString (fromMaybe r (crefToString r))
---   add lr
---   return lr
-
 addHead :: MonadState TexState m => LaTeXT Identity () -> m ()
 addHead m = modify (\ts -> ts { tsHeadRev = m:tsHeadRev ts
                               })
@@ -217,33 +188,33 @@ convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
   TexState {tsTemplate} <- get
   commentEl
   templateContext <- getTemplateContext
-  added <- case findTemplate (fst tsTemplate) templateContext of
-    Nothing -> do
+  added <-
+    case findTemplate (fst tsTemplate) templateContext of
+      Nothing -> do
         _ <- run
         return mempty
-    Just (_, t) -> do
-      (h, b) <- templateApply t templateContext
-      -- liftIO $ do
-      --     putStrLn "Template:"
-      --     print c
-      --     putStrLn "Ouput:"
-      --     Text.putStrLn (render (runLaTeX h))
-      --     Text.putStrLn (render (runLaTeX b))
-      addHead h
-      add b
-      return (h <> b)
+      Just (sub, _, t) -> do
+        rs <-
+          forM sub $ \x -> do
+            (h, b) <- convertInlineChildren x
+            templateApply
+              t
+              templateContext {tcElement = x, tcHeads = h, tcBodies = b}
+        let h = mapM_ fst rs
+            b = mapM_ snd rs
+        addHead h
+        add b
+        return (h <> b)
   return added
-    -- lookupAttr' k =
-    --   attrVal <$> find (\Attr {attrKey} -> showQName attrKey == k) elAttribs
   where
     commentEl =
       addComment
-        (Text.pack
-           (" <" <> HXT.qualifiedName name <> " " <> humanAttrs <> ">"))
+        (Text.pack (" <" <> HXT.qualifiedName name <> " " <> humanAttrs <> ">"))
     humanAttrs =
       unwords $
       map
-        (\(HXT.NTree (HXT.XAttr attrKey) [(HXT.NTree (HXT.XText attrValue) _)]) -> HXT.qualifiedName attrKey <> "=" <> show attrValue)
+        (\(HXT.NTree (HXT.XAttr attrKey) [(HXT.NTree (HXT.XText attrValue) _)]) ->
+           HXT.qualifiedName attrKey <> "=" <> show attrValue)
         attrs
     getTemplateContext = do
       (h, i) <- convertInlineChildren el
@@ -251,13 +222,18 @@ convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
       l <- liftIO Lua.newstate
       return
         TemplateContext
-        {tcLuaState = l, tcState = st, tcHeads = h, tcBodies = i, tcElement = el}
+        { tcLuaState = l
+        , tcState = st
+        , tcHeads = h
+        , tcBodies = i
+        , tcElement = el
+        }
     run =
       case children of
         [] -> return (textell mempty)
-        _  -> do
-            logWarning ("Ignoring tag " <> HXT.qualifiedName name)
-            convertChildren el
+        _ -> do
+          logWarning ("Ignoring tag " <> HXT.qualifiedName name)
+          convertChildren el
 convertElem e = fail $ "convertElem needs XML elements but got (" <> show e <> ")"
 
 removeSpecial :: String -> String
@@ -318,32 +294,35 @@ runPredicate :: NodeSelector -> NodeSelector -> Bool
 runPredicate s t = t == s
 
 
-findTemplate :: Template -> TemplateContext -> Maybe (ConcreteTemplateNode, TemplateNode (StateT TexState IO))
-findTemplate ts el = run ts el
+findTemplate :: Template -> TemplateContext -> Maybe ([HXT.XmlTree], ConcreteTemplateNode, TemplateNode (StateT TexState IO))
+findTemplate ts tc = run ts
   where
-    run (Template []) _ = Nothing
-    run (Template (p@(_, TemplateNode {templatePredicate}):ps)) e =
-      if runPredicate templatePredicate targetName
-        then Just p
-        else run (Template ps) e
-    targetName = let (HXT.NTree (HXT.XTag qname _) _) = (tcElement el)
-                 in HXT.qualifiedName qname
+    run (Template []) = Nothing
+    run (Template ((ct, t@TemplateNode {templatePredicate}):ps)) =
+      let xpathR = HXT.getXPathSubTrees templatePredicate (tcElement tc)
+      in case xpathR of
+           []  -> run (Template ps)
+           sub -> Just (sub, ct, t)
 
 runTemplate
   :: MonadTex m
   => Template
   -> TemplateContext
   -> m (Maybe ((ConcreteTemplateNode, TemplateNode (StateT TexState IO)), (LaTeXT Identity (), LaTeXT Identity ())))
-runTemplate ts el =
-  case findTemplate ts el of
+runTemplate ts tc =
+  case findTemplate ts tc of
     Nothing -> return Nothing
-    Just p@(_, t) -> do
-      -- liftIO $ hPutStrLn stderr "Found template, applying..."
-      r <- templateApply t el
-      return $ Just (p, r)
+    Just (sub, ct, t) -> do
+      liftIO $
+        hPutStrLn stderr $
+        "Found template (" <> templatePredicate t <> "), applying..."
+      rs <- mapM (\x -> templateApply t tc {tcElement = x}) sub
+      let heads = mapM_ fst rs
+          bodies = mapM_ snd rs
+      return $ Just ((ct, t), (heads, bodies))
 
 elChildren :: HXT.XmlTree -> [HXT.XmlTree]
-elChildren (HXT.NTree _ c) = (filter isElem c)
+elChildren (HXT.NTree _ c) = filter isElem c
   where
     isElem (HXT.NTree (HXT.XTag _ _) _) = True
     isElem _                            = False
@@ -355,7 +334,7 @@ elAttribs _                                = []
 lookupAttr :: String -> [HXT.XmlTree] -> Maybe String
 lookupAttr n (a:as) =
   case a of
-    HXT.NTree (HXT.XAttr attrKey) ((HXT.NTree (HXT.XText v) _):_)
+    HXT.NTree (HXT.XAttr attrKey) (HXT.NTree (HXT.XText v) _:_)
       | attrKey == HXT.mkName n -> Just v
     _ -> lookupAttr n as
 lookupAttr _ [] = Nothing
@@ -429,6 +408,7 @@ prepareInterp i =
               "children"
               (return (render (runLaTeX (sequence_ (tcChildren context)))) :: IO Text)
             Lua.registerhsfunction l "find" luaFindChildren
+            Lua.registerhsfunction l "findAll" luaFindAll
             Lua.registerhsfunction l "attr" luaAttr
             Lua.registerhsfunction l "elements" luaElements
             Lua.luaDoString
@@ -461,6 +441,16 @@ prepareInterp i =
                     els =
                       filter ((/= mempty) . Text.strip . fst) (zip latexs ts)
                 return (map (Text.encodeUtf8 . fst) els)
+            luaFindAll :: ByteString -> IO [ByteString]
+            luaFindAll name = do
+              inlines <-
+                execTexWriter tcState $
+                mapM
+                  convertInlineElem
+                  (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
+              let heads = concatMap fst inlines
+                  bodies = concatMap snd inlines
+              return $ map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
             luaFindChildren :: ByteString -> IO ByteString
             luaFindChildren name = do
               inlines <-

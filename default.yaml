@@ -116,3 +116,30 @@ sup: |
 sec: |
   \section{@@lua(return find('title'))@@}
   @@lua(return find('p'))@@
+
+table: |
+  \begin{tabular}{@@heads}
+  \hline
+  @@bodies
+  \end{tabular}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('td'), ' & ') .. '\\\\ \\hline \n'
+  )@@

@@ -36,3 +36,6 @@ tmp-local-install-root
 /dockerworkspace
 /reports
 example-input.xml
+example-output-tables.dvi
+example-output-tables.pdf
+example-output-tables.log

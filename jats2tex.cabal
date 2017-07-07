@@ -32,6 +32,7 @@ library
     , containers
     , HaTeX
     , hxt
+    , hxt-xpath
     , text
     , optparse-applicative
     , bytestring
@@ -94,6 +95,7 @@ executable jats2tex
     , containers
     , HaTeX
     , hxt
+    , hxt-xpath
     , text
     , optparse-applicative
     , bytestring
@@ -146,6 +148,7 @@ executable jats2tex-build-installer
     , containers
     , HaTeX
     , hxt
+    , hxt-xpath
     , text
     , optparse-applicative
     , bytestring
@@ -197,6 +200,7 @@ executable jats2tex-remove-c-data
     , containers
     , HaTeX
     , hxt
+    , hxt-xpath
     , text
     , optparse-applicative
     , bytestring

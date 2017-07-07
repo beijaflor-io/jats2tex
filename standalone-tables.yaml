@@ -1,0 +1,29 @@
+table: |
+  \documentclass{article}
+  \begin{document}
+  \begin{tabular}{@@heads}
+  \hline
+  @@bodies
+  \end{tabular}
+  \end{document}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('td'), ' & ') .. '\\\\ \\hline \n'
+  )@@

@@ -59,14 +59,17 @@ build-osx: build-frontend FORCE
 
 example-output.tex: FORCE
 	stack build # --executable-profiling --library-profiling
-	rm ./example-output.*
-	stack exec jats2tex-remove-c-data ./examples/S0250-54602016000400001.xml > ./example-input.xml
-	stack exec jats2tex ./example-input.xml -- --output ./example-output.tex
+	rm -f ./example-output.*
+	stack exec jats2tex ./examples/S0250-54602016000400001.xml -- --output ./example-output.tex
+
+example-tables: FORCE
+	stack build # --executable-profiling --library-profiling
+	rm -f ./example-output-tables.*
+	stack exec jats2tex -- -t ./standalone-tables.yaml --output ./example-output-tables.tex ./example-input-tables.xml --
+	latex ./example-output-tables.tex
 
 example: FORCE
 	make example-output.tex
-	# ./latexindent.sh ./example-output.tex > ./example-output.fmt.tex
-	# mv ./example-output.fmt.tex ./example-output.tex
 	latex ./example-output.tex
 
 FORCE:
