@@ -19,4 +19,5 @@ parseJATS :: String -> IO [XmlTree]
 parseJATS = runX . readString [ withValidate no
                               -- , withInputEncoding utf8
                               , withSubstDTDEntities no
+                              , withSubstHTMLEntities yes
                               ]

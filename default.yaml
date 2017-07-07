@@ -4,6 +4,10 @@ article:
 
     % jats2tex requirements
     @@requirements
+    \usepackage[T1]{fontenc}
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
 
     \begin{document}
 
@@ -19,8 +23,6 @@ article-title:
   head: |
     \title{@@children}
 
-contrib: "@@children"
-
 back: ""
 
 name: |
@@ -30,11 +32,19 @@ name: |
   return s .. ", " .. g
   )@@
 
-contrib-group:
+contrib:
   head: |
 
-    \author{@@lua(
-    return table.concat(elements(), '\\and ')
+    \author[@@lua(
+      return find('xref')
+    )@@]{@@children}
+
+aff:
+  head: |
+    \affil[@@lua(
+      return attr('id')
+    )@@]{@@lua(
+      return find('institution')
     )@@}
 
 break: "\n"
@@ -77,13 +87,7 @@ pub-date: |
   \date{@@lua(return find "year")@@}{@@lua(return find "month")@@}{@@lua(return find "day")@@}
 
 abstract: |
-  @@lua(
-    if attr('xml:lang') == 'en' then
-      return "\\abstract{" .. children() .. "}"
-    end
-
-    return ""
-  )@@
+  \abstract{@@children}
 
 volume: |
   \newcommand{\volume}{@@children}

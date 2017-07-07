@@ -7,4 +7,4 @@ requirements :: Monad m => LaTeXT m ()
 requirements = do
   usepackage ["document"] "ragged2e"
   fromString "\n"
-  usepackage ["utf8x"] "inputenc"
+  usepackage [] "amssymb"
