@@ -61,8 +61,6 @@ import qualified Text.XML.HXT.XPath                  as HXT
 -- import           Text.XML.Light
 import           TH.RelativePaths
 
-import           Debug.Trace
-
 emptyState :: TexState
 emptyState = TexState { tsBodyRev = mempty
                       , tsHeadRev = mempty
@@ -241,21 +239,21 @@ removeSpecial =
 convertInlineNode
   :: MonadTex m
   => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineNode c | traceShow ("convertInlineNode", elementName c) True = do
+convertInlineNode c = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertNode c)
   return (tsHead newState, tsBody newState)
 
 convertInlineChildren :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineChildren el | traceShow ("convertInlineChildren", elementName el) True = do
+convertInlineChildren el = do
   st <- get
   (newState, _, _) <-
     runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (convertChildren el)
   return (tsHead newState, tsBody newState)
 
 convertInlineElem :: MonadTex m => HXT.XmlTree -> m ([LaTeXT Identity ()], [LaTeXT Identity ()])
-convertInlineElem el | traceShow ("convertInlineElem", elementName el) True = do
+convertInlineElem el = do
   st <- get
   (newState, _, _) <- runTexWriter (st {tsHeadRev = mempty, tsBodyRev = mempty}) (void (convertElem el))
   return (tsHead newState, tsBody newState)
@@ -283,7 +281,7 @@ templateApply
   => TemplateNode (StateT TexState IO)
   -> TemplateContext
   -> m (LaTeXT Identity (), LaTeXT Identity ())
-templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc | traceShow ("templateApply", elementName (tcElement tc)) True = do
+templateApply TemplateNode {templateLaTeX, templateLaTeXHead} tc = do
     (heads, bodies) <- convertInlineChildren (tcElement tc)
     hresult <- applyTemplateToEl templateLaTeXHead tc (heads, bodies)
     bresult <- applyTemplateToEl templateLaTeX tc (heads, bodies)
