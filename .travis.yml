@@ -17,11 +17,6 @@ language: generic
 services:
 - postgresql
 
-before_script:
-- psql -c "create role \"jats2tex-web\" with password 'jats2tex-web';" -U postgres
-- psql -c "create database \"jats2tex-web_LOWER\";" -U postgres
-- psql -c "grant all privileges on database \"jats2tex-web_LOWER\" to \"jats2tex-web\";" -U postgres
-
 # Caching so the next build will be fast too.
 cache:
   directories:
@@ -137,6 +132,10 @@ matrix:
   - env: BUILD=stack ARGS="--resolver nightly"
 
 before_install:
+- psql -c "create role \"jats2tex-web\" with password 'jats2tex-web';" -U postgres
+- psql -c "create database \"jats2tex-web_LOWER\";" -U postgres
+- psql -c "grant all privileges on database \"jats2tex-web_LOWER\" to \"jats2tex-web\";" -U postgres
+
 # Using compiler above sets CC to an invalid value, so unset it
 - unset CC
 
