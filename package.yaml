@@ -51,6 +51,7 @@ dependencies:
 - template-haskell
 - process
 - th-utilities
+- exceptions
 
 when:
   condition: 'os(windows)'
@@ -70,6 +71,7 @@ executables:
     - ./bin
     dependencies:
     - jats2tex
+    - raven-haskell
 
   jats2tex-remove-c-data:
     main: RemoveCData.hs
