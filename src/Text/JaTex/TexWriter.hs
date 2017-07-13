@@ -409,8 +409,8 @@ prepareInterp i =
               return $ Text.encodeUtf8 $ render . runLaTeX . sequence_ $ (heads <> bodies)
             luaAttr :: ByteString -> IO ByteString
             luaAttr name = do
-              print name
-              print (elAttribs tcElement)
+              -- print name
+              -- print (elAttribs tcElement)
               return $ ByteString.pack $ fromMaybe "" $ lookupAttr sname (elAttribs tcElement)
               where
                 sname = Text.unpack (Text.decodeUtf8 name)
