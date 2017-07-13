@@ -1,8 +1,13 @@
 <div .container>
+    <div .jumbotron>
+        <h1> <code>jats2tex</code>
+        <p .lead> Convert JATS-XML to LaTeX
+        <a .btn.btn-primary href=@{AuthR (PluginR "email" ["register"])}> Get Started
+
     <ul .list-group>
         <li .list-group-item>
             <form method="post" action=@{WorkspacesR}>
-                <button type=submit className="btn btn-success"> Create new Workspace
+                <button type=submit .btn.btn-success> Create new Workspace
         <li .list-group-item>
             <a href="@{WorkspacesR}"> See Workspaces
         <li .list-group-item>
