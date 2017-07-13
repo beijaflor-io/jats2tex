@@ -9,7 +9,6 @@ article:
     \usepackage{authblk}
     \usepackage{unicode-math}
     \usepackage{multirow}
-    \usepackage{multicolumn}
 
     \begin{document}
 
