@@ -77,4 +77,7 @@ example-profile: FORCE
 	hp2ps -e8in -c ./jats2tex.hp
 	ps2pdf14 ./jats2tex.ps
 
+run-web: FORCE
+	cd ./jats2tex-web && stack exec jats2tex-web ./config/settings.yml
+
 FORCE:
