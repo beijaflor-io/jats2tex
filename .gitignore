@@ -39,3 +39,8 @@ example-input.xml
 example-output-tables.dvi
 example-output-tables.pdf
 example-output-tables.log
+jats2tex.pdf
+jats2tex.ps
+texput.log
+example-input-tables-colspan.log
+example-input-tables.log
