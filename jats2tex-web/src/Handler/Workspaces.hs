@@ -73,20 +73,20 @@ putWorkspacesDetailR wid = do
       (not workspaceIsPublic && workspaceUserId /= userId)
       (error "Unauthorized")
   latex <- runInputPost $ iopt textField "latex"
-  template <- runInputPost $ ireq textField "template"
-  xml <- runInputPost $ ireq textField "xml"
+  template <- runInputPost $ iopt textField "template"
+  xml <- runInputPost $ iopt textField "xml"
   pdfUrl <- runInputPost $ iopt textField "pdfUrl"
   isPublic <- runInputPost $ iopt boolField "isPublic"
-  title <- runInputPost $ ireq textField "title"
+  title <- runInputPost $ iopt textField "title"
   _ <-
     runDB $
     update
       wid
-      [ WorkspaceTemplate =. template
-      , WorkspaceXml =. xml
+      [ WorkspaceTemplate =. fromMaybe "" template
+      , WorkspaceXml =. fromMaybe "" xml
       , WorkspaceLatex =. latex
       , WorkspacePdfUrl =. pdfUrl
       , WorkspaceIsPublic =. fromMaybe False isPublic
-      , WorkspaceTitle =. title
+      , WorkspaceTitle =. fromMaybe "" title
       ]
   return "ok"

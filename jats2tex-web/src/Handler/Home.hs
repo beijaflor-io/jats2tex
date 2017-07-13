@@ -13,7 +13,9 @@ import           Data.FileEmbed
 import qualified Data.Text             as Text
 import qualified Data.Text.Encoding    as Text
 import qualified Data.Text.ICU.Convert as ICU
+import qualified Data.Text.IO          as Text
 import           Import
+import           System.IO.Temp
 import           System.IO.Unsafe
 import           Text.JaTex
 import qualified Text.JaTex.CleanUp    as CleanUp
@@ -68,8 +70,10 @@ postHomeR = do
         return (template, "<none>")
       Nothing -> return defaultTemplate
   !etex <-
-    liftIO $ do
-      jats <- parseJATS (Text.unpack body)
+    liftIO $ withSystemTempFile "jats2tex" $ \fp h -> do
+      Text.hPutStr h body
+      hClose h
+      jats <- readJats Nothing fp
       jatsXmlToLaTeXText
         def
         { joTemplate = template

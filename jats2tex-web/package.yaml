@@ -24,6 +24,7 @@ dependencies:
 - text-icu
 - persistent >=2.0 && <2.8
 - persistent-postgresql >=2.1.1 && <2.8
+- temporary
 - persistent-template >=2.0 && <2.8
 - template-haskell
 - shakespeare >=2.0 && <2.1
