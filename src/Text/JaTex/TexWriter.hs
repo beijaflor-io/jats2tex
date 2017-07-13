@@ -408,10 +408,10 @@ prepareInterp i =
               -- c <- execTexWriter tcState (sequence (heads <> bodies))
               return $ Text.encodeUtf8 $ render . runLaTeX . sequence_ $ (heads <> bodies)
             luaAttr :: ByteString -> IO ByteString
-            luaAttr name =
-              return $
-              ByteString.pack $
-              fromMaybe "" $ lookupAttr sname (elAttribs tcElement)
+            luaAttr name = do
+              print name
+              print (elAttribs tcElement)
+              return $ ByteString.pack $ fromMaybe "" $ lookupAttr sname (elAttribs tcElement)
               where
                 sname = Text.unpack (Text.decodeUtf8 name)
             luaElements :: IO [ByteString]
@@ -434,7 +434,7 @@ prepareInterp i =
                   (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
               let heads = concatMap fst inlines
                   bodies = concatMap snd inlines
-              return $ map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
+              return $ filter (/= mempty) $ map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
             luaFindChildren :: ByteString -> IO ByteString
             luaFindChildren name = do
               inlines <-

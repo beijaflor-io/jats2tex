@@ -8,6 +8,8 @@ article:
     \usepackage{amstext}
     \usepackage{authblk}
     \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{multicolumn}
 
     \begin{document}
 
@@ -142,4 +144,19 @@ thead/tr:
 tbody/tr: |
   @@lua(
     return table.concat(findAll('td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
   )@@
