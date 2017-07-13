@@ -6,6 +6,8 @@ packages:
 extra-deps:
 - digestive-functors-0.8.2.0
 - digestive-functors-aeson-1.1.21
+- hexpat-0.20.13
+- hxt-expat-9.1.1
 - hxt-xpath-9.1.2.2
 - luautils-0.1.4
 - raven-haskell-0.1.0.1

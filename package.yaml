@@ -20,6 +20,7 @@ dependencies:
 - containers
 - HaTeX
 - hxt
+- hxt-expat
 - hxt-xpath
 - text
 - optparse-applicative
@@ -72,6 +73,7 @@ executables:
     dependencies:
     - jats2tex
     - raven-haskell
+    ghc-options: -O2
 
   jats2tex-remove-c-data:
     main: RemoveCData.hs

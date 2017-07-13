@@ -187,14 +187,14 @@ convertElem
 convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
   TexState {tsTemplate} <- get
   commentEl
-  liftIO $ hPutStrLn stderr (show $ ("convertElem", HXT.qualifiedName name))
+  -- liftIO $ hPutStrLn stderr (show $ ("convertElem", HXT.qualifiedName name))
   case findTemplate (fst tsTemplate) el of
     Nothing -> do
       _ <- run
       return mempty
     Just (sub, _, t) -> do
       templateContext <- getTemplateContext
-      liftIO $ print ("findTemplate", elementName el, "found subtree", sub)
+      -- liftIO $ print ("findTemplate", elementName el, "found subtree", sub)
       rs <- forM sub $ \x -> templateApply t templateContext { tcElement = x }
       let h = mapM_ fst rs
           b = mapM_ snd rs
@@ -319,6 +319,12 @@ lookupAttr n (a:as) =
     _ -> lookupAttr n as
 lookupAttr _ [] = Nothing
 
+applyTemplateToEl
+  :: (Monad m, MonadIO m1) =>
+     [PreparedTemplateNode (StateT TexState IO)]
+     -> TemplateContext
+     -> ([LaTeXT Identity ()], [LaTeXT Identity ()])
+     -> m1 (LaTeXT m ())
 applyTemplateToEl l e (heads, bodies) = do
   rs <- mapM (\i -> evalNode e i (heads, bodies)) l
   return $ textell $ TeXRaw $ Text.concat rs
