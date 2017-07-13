@@ -64,9 +64,17 @@ example-tables: FORCE
 	latex ./example-output-tables.tex
 
 example: FORCE
-	stack build # --executable-profiling --library-profiling
+	stack build
 	rm -f ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.{dvi,log,pdf,aux}
 	stack exec jats2tex -- ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml --output ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.tex
 	cd ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/ && lualatex ./*.tex
+
+example-profile: FORCE
+	stack build --executable-profiling --library-profiling --ghc-options=-rtsopts\ -O2 --verbose
+	rm -f ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.{dvi,log,pdf,aux}
+	stack exec jats2tex -- +RTS -pa -h -RTS ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml --output ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.tex
+	cd ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/ && lualatex ./*.tex
+	hp2ps -e8in -c ./jats2tex.hp
+	ps2pdf14 ./jats2tex.ps
 
 FORCE:
