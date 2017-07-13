@@ -40,7 +40,6 @@ push-image:
 
 release: FORCE
 	echo $(tag)
-	make build-linux
 	make package
 	github-release release -u beijaflor-io -r jats2tex -t $(tag) -n $(tag)
 	make upload
