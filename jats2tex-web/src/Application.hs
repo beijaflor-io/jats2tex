@@ -24,6 +24,7 @@ import           Control.Monad.Logger                 (liftLoc, runLoggingT)
 import           Database.Persist.Postgresql          (createPostgresqlPool,
                                                        pgConnStr, pgPoolSize,
                                                        runSqlPool)
+import           GHC.IO.Encoding
 import           Import
 import           Language.Haskell.TH.Syntax           (qLocation)
 import           Network.Wai                          (Middleware)
@@ -64,6 +65,7 @@ mkYesodDispatch "App" resourcesApp
 -- migrations handled by Yesod.
 makeFoundation :: AppSettings -> IO App
 makeFoundation appSettings = do
+    setLocaleEncoding utf8
     -- Some basic initializations: HTTP connection manager, logger, and static
     -- subsite.
     appHttpManager <- newManager
