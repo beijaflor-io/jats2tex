@@ -374,7 +374,7 @@ class Workspace extends Component {
                             id="isPublic"
                             name="isPublic"
                             type="checkbox"
-                            value={this.state.isPublic}
+                            checked={this.state.isPublic}
                             onChange={e =>
                               this.setState({isPublic: e.target.checked})}
                           />

@@ -14,7 +14,7 @@ fi
 
 echo ">>> Building for Linux..."
 stack docker pull
-stack build --docker # --split-objs --ghc-options="-optc-Os -optl-static -fPIC"
+stack build --docker --ghc-options="-O2"
 
 rm -rf .stack-fpm/linux
 mkdir -p .stack-fpm/linux/usr/local
@@ -46,30 +46,31 @@ tar -zcvf stack-fpm.tar.gz ./*
 
 fpm -t deb -s tar --deb-pre-depends libgmp-dev --deb-pre-depends libicu-dev -n "$name" -v "$version" ./stack-fpm.tar.gz
 
-fpm -t rpm -s tar --rpm-os linux --rpm-autoreq -n "$name" -v "$version" ./stack-fpm.tar.gz
+# fpm -t rpm -s tar --rpm-os linux --rpm-autoreq -n "$name" -v "$version" ./stack-fpm.tar.gz
 
 # Moving to distribution directory
 mkdir -p ../../dist
 mv ./*.deb ../../dist/
-mv ./*.rpm ../../dist/
+# mv ./*.rpm ../../dist/
 mv ./stack-fpm.tar.gz ../../dist/"$name-$version-linux_amd64.tar.gz"
 cd ../..
 
 # OSX
-if [ "$(uname)" = "Darwin" ]; then
-  echo ">>> Building Darwin..."
-  stack build
-  rm -rf .stack-fpm/darwin
-  mkdir -p .stack-fpm/darwin/usr/local/share/man/man1
-  cp ./docs/man/jats2tex.man .stack-fpm/darwin/usr/local/share/man/man1/jats2tex.1
-  mkdir -p .stack-fpm/darwin/usr/local
-  cp -r "$(stack path --local-install-root)"/* ./.stack-fpm/darwin/usr/local/
-  version=$(ggrep -Po "version: '(\K[^']*)" < ./package.yaml)
-  cd .stack-fpm/darwin
-  echo ">>> Building Darwin packages..."
-  tar -zcvf stack-fpm.tar.gz ./*
-  fpm -t osxpkg -s tar -n "$name" -v "$version" ./stack-fpm.tar.gz
-  mkdir -p ../../dist
-  mv ./*.pkg ../../dist/
-  mv ./stack-fpm.tar.gz ../../dist/"$name-$version-darwin.tar.gz"
-fi
+
+#if [ "$(uname)" = "Darwin" ]; then
+  #echo ">>> Building Darwin..."
+  #stack build
+  #rm -rf .stack-fpm/darwin
+  #mkdir -p .stack-fpm/darwin/usr/local/share/man/man1
+  #cp ./docs/man/jats2tex.man .stack-fpm/darwin/usr/local/share/man/man1/jats2tex.1
+  #mkdir -p .stack-fpm/darwin/usr/local
+  #cp -r "$(stack path --local-install-root)"/* ./.stack-fpm/darwin/usr/local/
+  #version=$(ggrep -Po "version: '(\K[^']*)" < ./package.yaml)
+  #cd .stack-fpm/darwin
+  #echo ">>> Building Darwin packages..."
+  #tar -zcvf stack-fpm.tar.gz ./*
+  #fpm -t osxpkg -s tar -n "$name" -v "$version" ./stack-fpm.tar.gz
+  #mkdir -p ../../dist
+  #mv ./*.pkg ../../dist/
+  #mv ./stack-fpm.tar.gz ../../dist/"$name-$version-darwin.tar.gz"
+#fi

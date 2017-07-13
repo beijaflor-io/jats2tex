@@ -297,7 +297,7 @@ var Workspace = (function (_super) {
                                             React.createElement("input", { name: "title", type: "text", className: "form-control", value: this.state.title, onChange: function (e) { return _this.setState({ title: e.target.value }); }, placeholder: "Name this workspace" })),
                                         React.createElement("div", { className: "form-group" },
                                             React.createElement("label", { htmlFor: "isPublic" },
-                                                React.createElement("input", { id: "isPublic", name: "isPublic", type: "checkbox", value: this.state.isPublic, onChange: function (e) {
+                                                React.createElement("input", { id: "isPublic", name: "isPublic", type: "checkbox", checked: this.state.isPublic, onChange: function (e) {
                                                         return _this.setState({ isPublic: e.target.checked });
                                                     } }),
                                                 ' ',

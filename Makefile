@@ -16,7 +16,7 @@ build-manpages: FORCE
 
 build-linux: build-frontend FORCE
 	stack docker pull
-	stack build --docker # --ghc-options="-optc-Os -optl-static -fPIC"
+	stack build --ghc-options=-O2 --docker # --ghc-options="-optc-Os -optl-static -fPIC"
 
 package: FORCE
 	./bin/stack-fpm jats2tex $(version)
