@@ -9,6 +9,7 @@ import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Text.IO         as Text
 import           GHC.IO.Encoding
+import           System.FilePath
 import           System.IO
 
 import           Options.Applicative
@@ -74,11 +75,6 @@ optionsPI =
 
 run :: Options -> IO ()
 run Options{..} = do
-  outputFile <-
-    case optsOutputFile of
-      Nothing -> return stdout
-      Just f  -> openFile f WriteMode
-  makeSafe outputFile
   templateFile <-
     case optsTemplateFile of
       Nothing -> return defaultTemplate
@@ -93,9 +89,10 @@ run Options{..} = do
                                    , joInputDocument = contents
                                    , joWarnings = optsWarnings
                                    }
-  case optsOutputFile of
-      Nothing -> Text.putStrLn result
-      Just f  -> Text.writeFile f result
+
+  let outputFile = fromMaybe (dropExtension optsInputFile <> ".tex") optsOutputFile
+  Text.writeFile outputFile result
+  putStrLn $ "Wrote: " <> outputFile
 run RunUpgrade = Upgrade.runUpgrade
 run RunVersion = Upgrade.putVersionInfo
 
