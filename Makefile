@@ -68,6 +68,12 @@ example: FORCE
 	stack exec jats2tex -- ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml
 	cd ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/ && lualatex ./*.tex
 
+example-images: FORCE
+	stack build
+	rm -f ./examples/JATS/Translation/0718-5073-ric-31-01-0005/0718-5073-ric-31-01-0005.{dvi,log,pdf,aux}
+	stack exec jats2tex -- ./examples/JATS/Translation/0718-5073-ric-31-01-0005/0718-5073-ric-31-01-0005.xml
+	cd ./examples/JATS/Translation/0718-5073-ric-31-01-0005/ && lualatex ./*.tex
+
 example-profile: FORCE
 	stack build --executable-profiling --library-profiling --ghc-options=-rtsopts\ -O2 --verbose
 	rm -f ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.{dvi,log,pdf,aux}

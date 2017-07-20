@@ -9,6 +9,7 @@ article:
     \usepackage{authblk}
     \usepackage{unicode-math}
     \usepackage{multirow}
+    \usepackage{graphicx}
 
     \begin{document}
 
@@ -158,4 +159,20 @@ td: |
     end
 
     return output
+  )@@
+
+fig: |
+  \begin{figure}[h]
+  @@children
+  \end{figure}
+
+label: |
+  \label{@@children}
+
+caption: |
+  \caption{@@children}
+
+graphic: |
+  @@lua(
+    return "\\includegraphics[width=\\textwidth]{" .. attr('xlink:href') .. "}"
   )@@
