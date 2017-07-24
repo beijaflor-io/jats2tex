@@ -351,16 +351,13 @@ evalNode e ptn (heads, bodies) = do
       inlines <-
         mapM
           convertInlineElem
-          (findChildren (HXT.mkName (Text.unpack name)) tcElement)
+          (findChildren (Text.unpack name) tcElement)
       let heads = sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
           bodies = sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
       return (heads <> bodies)
 
-findChildren :: HXT.QName -> HXT.XmlTree -> [HXT.XmlTree]
-findChildren n (HXT.NTree _ cs) = filter helper cs
-  where
-    helper (HXT.NTree (HXT.XTag t _) _) = t == n
-    helper _                            = False
+-- findChildren :: HXT.QName -> HXT.XmlTree -> [HXT.XmlTree]
+findChildren n e = HXT.getXPath n e
 
 prepareInterp :: Text -> IO (PreparedTemplate (StateT TexState IO))
 prepareInterp i =
@@ -425,7 +422,7 @@ prepareInterp i =
                 execTexWriter tcState $
                 mapM
                   convertInlineElem
-                  (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
+                  (findChildren (ByteString.unpack name) tcElement)
               let heads = concatMap fst inlines
                   bodies = concatMap snd inlines
               return $ filter (/= mempty) $ map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
@@ -435,7 +432,7 @@ prepareInterp i =
                 execTexWriter tcState $
                 mapM
                   convertInlineElem
-                  (findChildren (HXT.mkName (ByteString.unpack name)) tcElement)
+                  (findChildren (ByteString.unpack name) tcElement)
               let heads =
                     sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
                   bodies =

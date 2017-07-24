@@ -29,8 +29,8 @@ back: ""
 
 name: |
   @@lua(
-  s = find "surname"
-  g = find "given-names"
+  s = find "//surname"
+  g = find "//given-names"
   return s .. ", " .. g
   )@@
 
@@ -38,7 +38,7 @@ contrib:
   head: |
 
     \author[@@lua(
-      return find('xref')
+      return find('//xref')
     )@@]{@@children}
 
 aff:
@@ -46,7 +46,7 @@ aff:
     \affil[@@lua(
       return attr('id')
     )@@]{@@lua(
-      return find('institution')
+      return find('//institution')
     )@@}
 
 break: "\n"
@@ -86,7 +86,7 @@ p: |
   )@@
 
 pub-date: |
-  \date{@@lua(return find "year")@@}{@@lua(return find "month")@@}{@@lua(return find "day")@@}
+  \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
 
 abstract: |
   \abstract{@@children}
@@ -116,8 +116,8 @@ sup: |
   \textsuperscript{th}
 
 sec: |
-  \section{@@lua(return find('title'))@@}
-  @@lua(return find('p'))@@
+  \section{@@lua(return find('//title'))@@}
+  @@lua(return find('//p'))@@
 
 table: |
   \begin{tabular}{@@heads}
@@ -129,7 +129,7 @@ thead/tr:
   head: |
     @@lua(
       local ret = {}
-      for i, element in ipairs(findAll('th'))
+      for i, element in ipairs(findAll('//th'))
       do
         ret[i] = 'l'
       end
@@ -138,12 +138,12 @@ thead/tr:
 
   body: |
     @@lua(
-      return table.concat(findAll('th'), ' & ') .. '\\\\ \\hline \n'
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
     )@@
 
 tbody/tr: |
   @@lua(
-    return table.concat(findAll('td'), ' & ') .. '\\\\ \\hline \n'
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
   )@@
 
 td: |

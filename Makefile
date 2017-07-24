@@ -65,7 +65,7 @@ example-tables: FORCE
 example: FORCE
 	stack build
 	rm -f ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.{dvi,log,pdf,aux}
-	stack exec jats2tex -- ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml
+	stack exec jats2tex -- -t ./default.yaml ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/0065-1737-azm-31-03-0367.xml
 	cd ./examples/JATS/Original\ article/0065-1737-azm-31-03-0367/ && lualatex ./*.tex
 
 example-images: FORCE
