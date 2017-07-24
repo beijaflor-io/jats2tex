@@ -9,6 +9,8 @@
 ## Instalação
 ### A partir do código fonte
 - [Instale o gerenciador de pacotes Haskell `stack`](https://docs.haskellstack.org/en/stable/README/#how-to-install)
+- Instale as bibliotecas nativas `expat`, `icu`, `gpm` e `stdc++` usando o
+  gerenciador de pacotes do seu sistema
 - `git clone https://github.com/beijaflor-io/jats2tex`
 - `cd jats2tex`
 - `git submodule update --init --recursive`
@@ -16,16 +18,12 @@
 
 ### De um pacote binário
 - https://github.com/beijaflor-io/jats2tex/releases/
-#### Instalador OSX
-![](/docs/gifs/jats2tex-osx-installer.png)
-
-#### Instalador RPM
-- https://github.com/beijaflor-io/jats2tex/releases/
 
 #### Instalador Debian
 - https://github.com/beijaflor-io/jats2tex/releases/
 
-#### Instalador Windows (WIP)
+#### Instalador Windows
+- https://github.com/beijaflor-io/jats2tex/releases/
 
 ### Imagem Docker para versão web
 Ver https://hub.docker.com/r/beijaflorio/jats2tex/
