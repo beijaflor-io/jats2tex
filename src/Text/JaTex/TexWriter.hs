@@ -529,11 +529,11 @@ parseTemplateFile fp = parseTemplate fp =<< ByteStringS.readFile fp
 
 parseTemplate :: FilePath -> Data.ByteString.ByteString -> IO Template
 parseTemplate fp s = do
-  let v = Yaml.decode s
+  let v = Yaml.decodeEither s
   v' <-
     case v of
-      Nothing -> error $ "Couldn't parse " <> fp
-      Just i  -> return i
+      Left err -> error $ "Couldn't parse " <> (show err)
+      Right i  -> return i
   case parseCTemplateFromJson v' of
     Left errs -> do
       forM_ errs $ \err -> Text.hPutStrLn stderr err
