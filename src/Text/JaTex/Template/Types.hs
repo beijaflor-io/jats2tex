@@ -44,6 +44,7 @@ data PreparedTemplateNode m
   | PreparedTemplateLua (LuaExprType m)
   | PreparedTemplatePlain Text
 
+type ConcreteTemplate = [ConcreteTemplateNode]
 
 data ConcreteTemplateNode = ConcreteTemplateNode
   { templateSelector :: Text
@@ -56,7 +57,7 @@ instance Yaml.FromJSON ConcreteTemplateNode where
     case v of
       String s -> return $ ConcreteTemplateNode "" "" s
       Object o -> verboseForm o
-      _        -> fail "Template inválido"
+      _        -> fail "Invalid Template"
     where
       trimTrailingNewline "" = ""
       trimTrailingNewline i =
@@ -85,7 +86,6 @@ newtype Template =
 
 type MonadTex m = (MonadCatch m, MonadState TexState m, MonadIO m, MonadMask m)
 type TexM = StateT TexState Identity
-
 
 data TexState = TexState
   { tsFileName :: FilePath

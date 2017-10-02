@@ -513,7 +513,7 @@ isTruthy (String s) = s /= mempty
 isTruthy Null       = False
 isTruthy (Array _)  = True
 
-parseCTemplateFromJson :: Value -> Either [Text] [ConcreteTemplateNode]
+parseCTemplateFromJson :: Value -> Either [Text] ConcreteTemplate
 parseCTemplateFromJson (Object o) =
   mergeEithers $ HashMap.foldrWithKey parsePair [] o
   where

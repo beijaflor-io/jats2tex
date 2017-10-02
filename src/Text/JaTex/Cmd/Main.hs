@@ -7,7 +7,7 @@ module Text.JaTex.Cmd.Main
 
 import           Data.Maybe
 import           Data.Monoid
-import qualified Data.Text.IO         as Text
+import qualified Data.Text.IO               as Text
 import           GHC.IO.Encoding
 import           System.FilePath
 import           System.IO
@@ -17,11 +17,13 @@ import           Options.Applicative
 import           System.Win32.Console
 #endif
 import           Text.JaTex
-import qualified Text.JaTex.Upgrade   as Upgrade
+import qualified Text.JaTex.Upgrade         as Upgrade
+import qualified Text.JaTex.UpgradeTemplate as UpgradeTemplate
 
 
 data Options
   = RunUpgrade
+  | RunUpgradeTemplate FilePath
   | RunVersion
   | Options { optsOutputFile    :: Maybe FilePath
             , optsTemplateFile  :: Maybe String
@@ -43,6 +45,17 @@ options =
      command
        "upgrade"
        (info (pure RunUpgrade) (fullDesc <> progDesc "Upgrade jats2tex"))) <|>
+  subparser
+    (metavar "upgrade-template" <>
+     command
+       "upgrade-template"
+       (info
+          (RunUpgradeTemplate <$>
+           argument
+             str
+             (metavar "INPUT_TEMPLATE_FILE" <>
+              help "The legacy template to upgrade"))
+          (fullDesc <> progDesc "Upgrade template to version 1"))) <|>
   Options <$>
   optional
     (strOption
@@ -61,9 +74,11 @@ options =
   optional
     (strOption
        (short 'e' <> long "input-encoding" <> metavar "INPUT_ENCODING" <>
-        help (unlines [ "The input file/handle encoding (defaults to latin-1)"
-                      , "Output and FFI with Lua is always with UTF-8"
-                      ]))) <*>
+        help
+          (unlines
+             [ "The input file/handle encoding (defaults to latin-1)"
+             , "Output and FFI with Lua is always with UTF-8"
+             ]))) <*>
   argument str (metavar "INPUT_FILE" <> help "XML Input File")
 
 optionsPI :: ParserInfo Options
@@ -94,6 +109,7 @@ run Options{..} = do
   Text.writeFile outputFile result
   putStrLn $ "Wrote: " <> outputFile
 run RunUpgrade = Upgrade.runUpgrade
+run (RunUpgradeTemplate fp) = UpgradeTemplate.run fp
 run RunVersion = Upgrade.putVersionInfo
 
 makeSafe :: Handle -> IO ()

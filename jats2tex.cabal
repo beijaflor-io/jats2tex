@@ -79,8 +79,10 @@ library
       Text.JaTex.Template.TemplateInterp
       Text.JaTex.Template.TemplateInterp.Helpers
       Text.JaTex.Template.Types
+      Text.JaTex.TemplateWrapper
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
+      Text.JaTex.UpgradeTemplate
       Text.JaTex.Util
   other-modules:
       Paths_jats2tex
