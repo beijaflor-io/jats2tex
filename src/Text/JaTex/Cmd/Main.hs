@@ -94,7 +94,8 @@ run Options{..} = do
     case optsTemplateFile of
       Nothing -> return defaultTemplate
       Just f -> do
-        t <- parseTemplateFile f
+        templateWrapper <- parseTemplateWrapperFile f
+        t <- makeTemplateFromWrapper templateWrapper
         return (t, f)
 
   contents <- readJats optsInputEncoding optsInputFile

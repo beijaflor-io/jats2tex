@@ -1,11 +1,13 @@
-{-# LANGUAGE ConstraintKinds     #-}
-{-# LANGUAGE FlexibleContexts    #-}
-{-# LANGUAGE LambdaCase          #-}
-{-# LANGUAGE NamedFieldPuns      #-}
-{-# LANGUAGE OverloadedStrings   #-}
-{-# LANGUAGE RankNTypes          #-}
-{-# LANGUAGE RecordWildCards     #-}
-{-# LANGUAGE ScopedTypeVariables #-}
+{-# LANGUAGE ConstraintKinds      #-}
+{-# LANGUAGE FlexibleContexts     #-}
+{-# LANGUAGE FlexibleInstances    #-}
+{-# LANGUAGE LambdaCase           #-}
+{-# LANGUAGE NamedFieldPuns       #-}
+{-# LANGUAGE OverloadedStrings    #-}
+{-# LANGUAGE RankNTypes           #-}
+{-# LANGUAGE RecordWildCards      #-}
+{-# LANGUAGE ScopedTypeVariables  #-}
+{-# LANGUAGE TypeSynonymInstances #-}
 module Text.JaTex.Template.Types where
 
 import           Control.Applicative
@@ -14,6 +16,7 @@ import           Control.Monad.Identity
 import           Control.Monad.IO.Class
 import           Control.Monad.State
 import           Data.HashMap.Strict    (HashMap)
+import qualified Data.HashMap.Strict    as HashMap
 import           Data.Maybe
 import           Data.Text              (Text)
 import qualified Data.Text              as Text
@@ -44,7 +47,21 @@ data PreparedTemplateNode m
   | PreparedTemplateLua (LuaExprType m)
   | PreparedTemplatePlain Text
 
-type ConcreteTemplate = [ConcreteTemplateNode]
+newtype ConcreteTemplate = ConcreteTemplate
+  { unConcreteTemplate :: [ConcreteTemplateNode]
+  }
+
+instance Yaml.FromJSON ConcreteTemplate where
+  parseJSON (Object o) =
+      ConcreteTemplate <$> (sequence $ HashMap.foldrWithKey parsePair [] o)
+    where
+      parsePair :: Text -> Value -> [Parser ConcreteTemplateNode] -> [Parser ConcreteTemplateNode]
+      parsePair k v m =
+        (do
+          c <- parseJSON v
+          return $ c {templateSelector = k}
+        ) : m
+  parseJSON _ = fail "Invalid Template, 'rules' must be an object"
 
 data ConcreteTemplateNode = ConcreteTemplateNode
   { templateSelector :: Text

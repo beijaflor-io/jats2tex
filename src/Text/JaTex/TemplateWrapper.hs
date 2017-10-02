@@ -15,5 +15,8 @@ data TemplateWrapper = TemplateWrapper
 
 instance Yaml.FromJSON TemplateWrapper where
   parseJSON (Object o) =
-    TemplateWrapper <$> o .: "version" <*> o .:? "extends" <*> o .: "rules"
+    TemplateWrapper <$>
+    o .: "version" <*>
+    o .:? "extends" <*>
+    o .: "rules"
   parseJSON _ = fail "Invalid Template"

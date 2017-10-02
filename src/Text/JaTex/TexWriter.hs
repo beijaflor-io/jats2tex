@@ -1,6 +1,7 @@
 {-# LANGUAGE BangPatterns          #-}
 {-# LANGUAGE ConstraintKinds       #-}
 {-# LANGUAGE FlexibleContexts      #-}
+{-# LANGUAGE LambdaCase            #-}
 {-# LANGUAGE MultiParamTypeClasses #-}
 {-# LANGUAGE NamedFieldPuns        #-}
 {-# LANGUAGE OverloadedStrings     #-}
@@ -49,6 +50,7 @@ import           Text.JaTex.Parser
 import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.TemplateInterp
 import           Text.JaTex.Template.Types
+import           Text.JaTex.TemplateWrapper
 import qualified Text.JaTex.Upgrade                  as Upgrade
 import           Text.JaTex.Util
 import           Text.LaTeX
@@ -513,7 +515,7 @@ isTruthy (String s) = s /= mempty
 isTruthy Null       = False
 isTruthy (Array _)  = True
 
-parseCTemplateFromJson :: Value -> Either [Text] ConcreteTemplate
+parseCTemplateFromJson :: Value -> Either [Text] [ConcreteTemplateNode]
 parseCTemplateFromJson (Object o) =
   mergeEithers $ HashMap.foldrWithKey parsePair [] o
   where
@@ -526,6 +528,25 @@ parseCTemplateFromJson _ = Left ["Template inválido, o formato esperado é `sel
 
 parseTemplateFile :: FilePath -> IO Template
 parseTemplateFile fp = parseTemplate fp =<< ByteStringS.readFile fp
+
+parseTemplateWrapperFile :: FilePath -> IO (TemplateWrapper)
+parseTemplateWrapperFile fp = Yaml.decodeFileEither fp >>= \case
+  Left err -> error (show err)
+  Right v -> return v
+
+makeTemplateFromWrapper :: TemplateWrapper -> IO Template
+makeTemplateFromWrapper tw@TemplateWrapper{templateWrapperExtends} = do
+    toTemplate tw
+  where
+    fetchExtends Nothing  = return []
+    fetchExtends (Just e) = undefined
+    toTemplate TemplateWrapper{templateWrapperRules} = do
+      es <- mapM parseTemplateNode (unConcreteTemplate templateWrapperRules)
+      case mergeEithers es of
+        Left errs -> do
+          forM_ errs $ \err -> Text.hPutStrLn stderr err
+          exitWith (ExitFailure 1)
+        Right ps  -> return $ Template $ zip (unConcreteTemplate templateWrapperRules) ps
 
 parseTemplate :: FilePath -> Data.ByteString.ByteString -> IO Template
 parseTemplate fp s = do

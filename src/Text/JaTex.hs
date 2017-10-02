@@ -1,16 +1,19 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE RecordWildCards   #-}
-module Text.JaTex ( readJats
-                  , parseJATS
-                  , defaultTemplateContents
-                  , defaultTemplate
-                  , Default(..)
-                  , JaTexOptions(..)
-                  , Template
-                  , parseTemplateFile
-                  , parseTemplate
-                  , jatsXmlToLaTeXText
-                  ) where
+module Text.JaTex
+  ( readJats
+  , parseJATS
+  , defaultTemplateContents
+  , defaultTemplate
+  , Default(..)
+  , JaTexOptions(..)
+  , Template
+  , parseTemplateFile
+  , parseTemplate
+  , parseTemplateWrapperFile
+  , makeTemplateFromWrapper
+  , jatsXmlToLaTeXText
+  ) where
 
 import           Control.Monad.Catch
 import           Control.Monad.IO.Class
