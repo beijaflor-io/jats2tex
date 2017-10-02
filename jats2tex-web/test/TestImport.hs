@@ -85,6 +85,19 @@ createUser ident = do
         { userIdent = ident
         , userVerkey = Nothing
         , userVerified = True
-        , userEmail = "test-email@beijaflor.io"
+        , userEmail = "test-email" <> ident <> "@beijaflor.io"
         , userPassword = Nothing
+        }
+
+-- | Create a workspace.
+createWorkspace :: UserId -> Text -> Bool -> YesodExample App (Entity Workspace)
+createWorkspace userId workspaceTitle isPublic = do
+    runDB $ insertEntity Workspace
+        { workspaceTitle = workspaceTitle
+        , workspaceUserId = userId
+        , workspaceIsPublic = isPublic
+        , workspaceXml = ""
+        , workspaceTemplate = ""
+        , workspaceLatex = Nothing
+        , workspacePdfUrl = Nothing
         }

@@ -2,24 +2,26 @@
     <form action=@{WorkspacesR} method=POST>
       <button .btn .btn-primary type=submit> New Workspace
 
-    <h2> Your Workspaces
+    $if not (null (yourWorkspaces))
+      <h2> Your Workspaces
 
-    <ul .list-group>
-        $forall (Entity workspaceId w) <- yourWorkspaces
-          <li .list-group-item>
-            <a href="@{WorkspacesDetailR workspaceId}">
-              $if not (mempty == workspaceTitle w)
-                #{workspaceTitle w} (#{toPathPiece workspaceId})
-              $else
-                <i> Untitled (#{toPathPiece workspaceId})
+      <ul .list-group>
+          $forall (Entity workspaceId w) <- yourWorkspaces
+            <li .list-group-item>
+              <a href="@{WorkspacesDetailR workspaceId}">
+                $if not (mempty == workspaceTitle w)
+                  #{workspaceTitle w} (#{toPathPiece workspaceId})
+                $else
+                  <i> Untitled (#{toPathPiece workspaceId})
 
-    <h2> Public Workspaces
+    $if not (null publicWorkspaces)
+      <h2> Public Workspaces
 
-    <ul .list-group>
-        $forall (Entity workspaceId w, E.Value workspaceUserEmail) <- publicWorkspaces
-          <li .list-group-item>
-            <a href="@{WorkspacesDetailR workspaceId}">
-              $if not (mempty == workspaceTitle w)
-                #{workspaceTitle w} (#{toPathPiece workspaceId} - by #{workspaceUserEmail})
-              $else
-                <i> Untitled (#{toPathPiece workspaceId})</i> - by #{workspaceUserEmail})
+      <ul .list-group>
+          $forall (Entity workspaceId w, E.Value workspaceUserEmail) <- publicWorkspaces
+            <li .list-group-item>
+              <a href="@{WorkspacesDetailR workspaceId}">
+                $if not (mempty == workspaceTitle w)
+                  #{workspaceTitle w} (#{toPathPiece workspaceId} - by #{workspaceUserEmail})
+                $else
+                  <i> Untitled (#{toPathPiece workspaceId})</i> - by #{workspaceUserEmail})

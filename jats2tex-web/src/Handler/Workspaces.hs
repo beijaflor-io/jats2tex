@@ -13,16 +13,22 @@ import           Text.JaTex
 
 getWorkspacesR :: Handler Html
 getWorkspacesR = do
-  Just (userId, User {..}) <- maybeAuthPair
+  mAuthPair <- maybeAuthPair
   yourWorkspaces <-
-    runDB $ selectList [WorkspaceUserId ==. userId] [] :: Handler [Entity Workspace]
+    case mAuthPair of
+      Just (userId, _) ->
+        runDB $ selectList [WorkspaceUserId ==. userId] [] :: Handler [Entity Workspace]
+      Nothing -> return []
   publicWorkspaces :: [(Entity Workspace, E.Value Text)] <-
     runDB $
     E.select $
     E.from $ \(workspace `E.InnerJoin` user) -> do
       E.on $ workspace E.^. WorkspaceUserId E.==. user E.^. UserId
       E.where_ (workspace E.^. WorkspaceIsPublic E.==. E.val True)
-      E.where_ (workspace E.^. WorkspaceUserId E.!=. E.val userId)
+      case mAuthPair of
+        Just (userId, _) ->
+          E.where_ (workspace E.^. WorkspaceUserId E.!=. E.val userId)
+        Nothing -> return ()
       return (workspace, user E.^. UserEmail)
   defaultLayout $ do
     setTitle "Workspaces - jats2tex - Convert JATS-XML to TeX"
@@ -52,26 +58,24 @@ getWorkspacesDetailR workspaceId = do
     Just Workspace {workspaceUserId, workspaceIsPublic} <- get workspaceId
     when
       (not workspaceIsPublic && workspaceUserId /= userId)
-      (error "Unauthorized")
-  selectRep $ do
-    provideRep $
-      defaultLayout $ do
-        unless isDevelopment $(combineScripts 'StaticR [js_bundle_js])
-        $(widgetFile "workspaces-detail")
-    provideRep $ do
-      mworkspace <- runDB $ get workspaceId
-      case mworkspace of
-        Nothing -> error "Workspace doesn't exist"
-        Just w  -> return $ toJSON w
+      (permissionDenied "Unauthorized")
+  mworkspace <- runDB $ get workspaceId
+  case mworkspace of
+    Nothing -> notFound
+    Just w ->
+      selectRep $ do
+        provideRep $
+          defaultLayout $ do
+            unless isDevelopment $(combineScripts 'StaticR [js_bundle_js])
+            $(widgetFile "workspaces-detail")
+        provideRep $ do return (toJSON w)
 
 putWorkspacesDetailR :: WorkspaceId -> Handler Value
 putWorkspacesDetailR wid = do
-  Just (userId, _) <- maybeAuthPair
-  runDB $ do
-    Just Workspace {workspaceUserId, workspaceIsPublic} <- get wid
-    when
-      (not workspaceIsPublic && workspaceUserId /= userId)
-      (error "Unauthorized")
+  Just Workspace {workspaceUserId, workspaceIsPublic} <- runDB $ get wid
+  when (not workspaceIsPublic) $ do
+    Just (userId, _) <- maybeAuthPair
+    when (userId /= workspaceUserId) (permissionDenied "Unauthorized")
   latex <- runInputPost $ iopt textField "latex"
   template <- runInputPost $ iopt textField "template"
   xml <- runInputPost $ iopt textField "xml"
