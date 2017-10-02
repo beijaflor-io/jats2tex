@@ -1,4 +1,5 @@
-{-# LANGUAGE QuasiQuotes #-}
+{-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE QuasiQuotes       #-}
 module Text.JaTexSpec where
 
 import           Data.String.Here
@@ -11,19 +12,14 @@ import           Text.JaTex
 spec :: Spec
 spec = do
     describe "readJats" $ do
-        it "works" pending
-
-    describe "jatsXmlToLaTeXText" $ do
-        it "works" pending
-
-    describe "jatsXmlToLaTeX" $ do
-        it "works" pending
-
-    describe "convertNode" $ do
-        it "works" pending
-
-    describe "convertInline" $ do
-        it "works" pending
-
-    describe "jatsXmlToBlocks" $ do
-        it "works" pending
+        it "works" $ do
+            doc <- parseJATS [here|
+                                  <strong>Hello</strong>
+                                  |]
+            templ <- parseTemplate "<noname>" [here|
+                                                   strong: "\\textbf{@@children}"
+                                                   |]
+            output <- jatsXmlToLaTeXText def { joInputDocument = doc
+                                             , joTemplate = (templ, "<noname>")
+                                             }
+            output `shouldBe` "\\textbf{Hello}"
