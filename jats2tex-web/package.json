@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "raw-loader": "^0.5.1",
-    "webpack": "^2.6.1",
+    "webpack": "^3.6.0",
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
