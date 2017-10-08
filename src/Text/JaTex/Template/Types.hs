@@ -86,6 +86,20 @@ instance Yaml.FromJSON ConcreteTemplateNode where
         (trimTrailingNewline . fromMaybe "" <$> o .:? "head") <*>
         (trimTrailingNewline . fromMaybe "" <$> (o .:? "body" <|> o .:? "content"))
 
+data ConcreteTemplateWrapper = ConcreteTemplateWrapper
+  { templateWrapperVersion :: Int
+  , templateWrapperExtends :: (Maybe Text)
+  , templateWrapperRules   :: ConcreteTemplate
+  }
+
+instance Yaml.FromJSON ConcreteTemplateWrapper where
+  parseJSON (Object o) =
+    ConcreteTemplateWrapper <$>
+    o .: "version" <*>
+    o .:? "extends" <*>
+    o .: "rules"
+  parseJSON _ = fail "Invalid Template"
+
 data TemplateContext = TemplateContext
   { tcElement  :: XmlTree
   , tcState    :: TexState

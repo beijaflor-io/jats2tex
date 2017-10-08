@@ -73,13 +73,13 @@ library
       Text.JaTex
       Text.JaTex.CleanUp
       Text.JaTex.Cmd.Main
+      Text.JaTex.ConcreteTemplateWrapper
       Text.JaTex.Parser
       Text.JaTex.Template
       Text.JaTex.Template.Requirements
       Text.JaTex.Template.TemplateInterp
       Text.JaTex.Template.TemplateInterp.Helpers
       Text.JaTex.Template.Types
-      Text.JaTex.TemplateWrapper
       Text.JaTex.TexWriter
       Text.JaTex.Upgrade
       Text.JaTex.UpgradeTemplate

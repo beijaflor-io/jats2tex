@@ -50,7 +50,7 @@ import           Text.JaTex.Parser
 import           Text.JaTex.Template.Requirements
 import           Text.JaTex.Template.TemplateInterp
 import           Text.JaTex.Template.Types
-import           Text.JaTex.TemplateWrapper
+import           Text.JaTex.ConcreteTemplateWrapper
 import qualified Text.JaTex.Upgrade                  as Upgrade
 import           Text.JaTex.Util
 import           Text.LaTeX
@@ -490,94 +490,3 @@ prepareInterp i =
                exitWith (ExitFailure 1)
              Right runner -> return runner
       return $ PreparedTemplateExpr runner
-
-parseTemplateNode :: ConcreteTemplateNode -> IO (Either Text (TemplateNode (StateT TexState IO)))
-parseTemplateNode ConcreteTemplateNode {..} = do
-  preparedH <- liftIO $ prepareInterp templateHead
-  preparedL <- liftIO $ prepareInterp templateContent
-  return $
-    Right
-      TemplateNode
-      { templatePredicate = Text.unpack templateSelector
-      , templateLaTeXHead = preparedH
-      , templateLaTeX = preparedL
-      }
-
-mergeEithers :: [Either a b] -> Either [a] [b]
-mergeEithers [] = Right []
-mergeEithers (Left e:es) = Left (e : lefts es)
-mergeEithers (Right e:es) =
-  case mergeEithers es of
-    lfs@(Left _) -> lfs
-    (Right rs)   -> Right (e : rs)
-
-isTruthy :: Value -> Bool
-isTruthy (Bool b)   = b
-isTruthy (Number n) = n /= 0
-isTruthy (Object o) = o /= mempty
-isTruthy (String s) = s /= mempty
-isTruthy Null       = False
-isTruthy (Array _)  = True
-
-parseCTemplateFromJson :: Value -> Either [Text] [ConcreteTemplateNode]
-parseCTemplateFromJson (Object o) =
-  mergeEithers $ HashMap.foldrWithKey parsePair [] o
-  where
-    parsePair k v m =
-      let mctn = fromJSON v :: Result ConcreteTemplateNode
-      in case mctn of
-           Error e     -> Left (Text.pack e) : m
-           Success ctn -> Right ctn {templateSelector = k} : m
-parseCTemplateFromJson _ = Left ["Template inválido, o formato esperado é `seletor: 'template'`"]
-
-parseTemplateFile :: FilePath -> IO Template
-parseTemplateFile fp = parseTemplate fp =<< ByteStringS.readFile fp
-
-parseTemplateWrapperFile :: FilePath -> IO (TemplateWrapper)
-parseTemplateWrapperFile fp = Yaml.decodeFileEither fp >>= \case
-  Left err -> error (show err)
-  Right v -> return v
-
-makeTemplateFromWrapper :: TemplateWrapper -> IO Template
-makeTemplateFromWrapper tw@TemplateWrapper{} = do
-    toTemplate tw
-  where
-    fetchExtends Nothing  = return []
-    fetchExtends (Just e) = error (show e)
-    toTemplate TemplateWrapper{templateWrapperRules} = do
-      es <- mapM parseTemplateNode (unConcreteTemplate templateWrapperRules)
-      case mergeEithers es of
-        Left errs -> do
-          forM_ errs $ \err -> Text.hPutStrLn stderr err
-          exitWith (ExitFailure 1)
-        Right ps  -> return $ Template $ zip (unConcreteTemplate templateWrapperRules) ps
-
-parseTemplate :: FilePath -> Data.ByteString.ByteString -> IO Template
-parseTemplate _ s = do
-  let v = Yaml.decodeEither s
-  v' <-
-    case v of
-      Left err -> error $ "Couldn't parse " <> (show err)
-      Right i  -> return i
-  case parseCTemplateFromJson v' of
-    Left errs -> do
-      forM_ errs $ \err -> Text.hPutStrLn stderr err
-      exitWith (ExitFailure 1)
-    Right cs -> do
-      es <- mapM parseTemplateNode cs
-      case mergeEithers es of
-        Left errs -> do
-          forM_ errs $ \err -> Text.hPutStrLn stderr err
-          exitWith (ExitFailure 1)
-        Right ns -> return $ Template $ zip cs ns
-
-defaultTemplateContents :: ByteString
-defaultTemplateContents = $(bsToExp =<< qReadFileBS "./default.yaml")
-
-defaultTemplate :: (Template, FilePath)
-defaultTemplate = unsafePerformIO $ do
-    let s = defaultTemplateContents
-        fp = "default.yaml"
-    t <- parseTemplate fp s
-    return (t, fp)
-{-# NOINLINE defaultTemplate #-}
