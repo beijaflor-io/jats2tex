@@ -52,10 +52,11 @@ spec = do
             </sec>
           |]
       let doc = trees !! 0
-      let findTemplateResult = findTemplate templ doc
+          findTemplateResult = findTemplate templ doc
       case findTemplateResult of
         Nothing -> expectationFailure "got nothing"
         Just (sub, ct, t) -> do
+          templatePredicate t `shouldBe` "sec"
           templateSelector ct `shouldBe` "sec"
           templateContent ct `shouldBe` "@@children"
           templateHead ct `shouldBe` ""
