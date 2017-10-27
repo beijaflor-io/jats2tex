@@ -36,7 +36,7 @@ spec = do
           "<noname>"
           [here|
             sec: |
-              @@lua(return find("/p"))@@
+              @@lua(return find("*/p"))@@
           |]
       output <-
         jatsXmlToLaTeXText
