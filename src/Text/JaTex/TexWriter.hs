@@ -56,7 +56,6 @@ import qualified Text.Megaparsec as Megaparsec
 import qualified Text.XML.HXT.Core as HXT
 import qualified Text.XML.HXT.XPath as HXT
 
--- import           Text.XML.Light
 import TH.RelativePaths
 
 emptyState :: TexState
@@ -262,6 +261,7 @@ begin n c =
   between c (raw ("\\begin{" <> n <> "}")) (raw ("\\end{" <> n <> "}"))
 
 -- Template Execution
+elementName :: HXT.NTree HXT.XNode -> String
 elementName (HXT.NTree (HXT.XTag n _) _) = HXT.qualifiedName n
 elementName _ = "<none>"
 
@@ -322,9 +322,12 @@ applyTemplateToEl l e (heads, bodies) = do
   rs <- mapM (\i -> evalNode e i (heads, bodies)) l
   return $ textell $ TeXRaw $ Text.concat rs
 
--- evalNode
---   :: MonadTex m
---   => TemplateContext -> PreparedTemplateNode (StateT TexState IO) -> m Text
+evalNode
+  :: MonadIO m =>
+     TemplateContext
+     -> PreparedTemplateNode (StateT TexState IO)
+     -> ([LaTeXT Identity ()], [LaTeXT Identity ()])
+     -> m Text
 evalNode e ptn (heads, bodies) = do
   let children = heads <> bodies
   case ptn of
@@ -353,12 +356,13 @@ evalNode e ptn (heads, bodies) = do
     mkFindChildren TemplateContext {tcElement} name = do
       inlines <-
         mapM convertInlineElem (findChildren (Text.unpack name) tcElement)
-      let heads = sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
-          bodies = sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
-      return (heads <> bodies)
+      let cHeads = sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
+          cBodies = sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
+      return (cHeads <> cBodies)
 
--- findChildren :: HXT.QName -> HXT.XmlTree -> [HXT.XmlTree]
-findChildren n e = HXT.getXPath n e
+findChildren :: String -> HXT.XmlTree -> [HXT.XmlTree]
+findChildren n (HXT.NTree _ children) =
+  flip concatMap children $ \e -> HXT.getXPath n e
 
 prepareInterp :: Text -> IO (PreparedTemplate (StateT TexState IO))
 prepareInterp i =
@@ -372,7 +376,7 @@ prepareInterp i =
     doPrepare (TemplatePlain t) = return $ PreparedTemplatePlain t
     doPrepare (TemplateLua t) = return $ PreparedTemplateLua luaRunner
       where
-        luaRunner context@TemplateContext {..} (heads, bodies) =
+        luaRunner TemplateContext {..} (heads, bodies) =
           liftIO $
             -- putStrLn ("Running lua interpolation (" <> show t <> ")")
            do
@@ -416,9 +420,9 @@ prepareInterp i =
             luaElements =
               execTexWriter tcState $ do
                 r <- mapM convertInlineElem (elChildren tcElement)
-                let heads = concatMap fst r :: [LaTeXT Identity ()]
-                    bodies = concatMap snd r
-                let ts = heads <> bodies
+                let cHeads = concatMap fst r :: [LaTeXT Identity ()]
+                    cBodies = concatMap snd r
+                let ts = cHeads <> cBodies
                     latexs = map (render . snd . runIdentity . runLaTeXT) ts
                     els =
                       filter ((/= mempty) . Text.strip . fst) (zip latexs ts)
@@ -429,12 +433,12 @@ prepareInterp i =
                 execTexWriter tcState $
                 mapM
                   convertInlineElem
-                  (findChildren (ByteString.unpack name) tcElement)
-              let heads = concatMap fst inlines
-                  bodies = concatMap snd inlines
+                  (findChildren (ByteString.unpack name) (tcElement))
+              let cHeads = concatMap fst inlines
+                  cBodies = concatMap snd inlines
               return $
                 filter (/= mempty) $
-                map (Text.encodeUtf8 . render . runLaTeX) (heads <> bodies)
+                map (Text.encodeUtf8 . render . runLaTeX) (cHeads <> cBodies)
             luaFindChildren :: ByteString -> IO ByteString
             luaFindChildren name = do
               inlines <-
@@ -442,11 +446,11 @@ prepareInterp i =
                 mapM
                   convertInlineElem
                   (findChildren (ByteString.unpack name) tcElement)
-              let heads =
+              let cHeads =
                     sequence_ (concatMap fst inlines) :: LaTeXT Identity ()
-                  bodies =
+                  cBodies =
                     sequence_ (concatMap snd inlines) :: LaTeXT Identity ()
-              return (Text.encodeUtf8 (render (runLaTeX (heads <> bodies))))
+              return (Text.encodeUtf8 (render (runLaTeX (cHeads <> cBodies))))
     doPrepare (TemplateExpr e) = do
       runner <-
         do erunner <-
@@ -540,7 +544,7 @@ parseTemplateFile :: FilePath -> IO Template
 parseTemplateFile fp = parseTemplate fp =<< ByteStringS.readFile fp
 
 parseTemplate :: FilePath -> Data.ByteString.ByteString -> IO Template
-parseTemplate fp s = do
+parseTemplate _ s = do
   let v = Yaml.decodeEither s
   v' <-
     case v of
