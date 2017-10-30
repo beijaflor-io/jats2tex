@@ -138,9 +138,9 @@ convertNode :: MonadTex m => HXT.XmlTree -> m (LaTeXT Identity ())
 convertNode fullNode@(HXT.NTree node _) =
   case node of
     HXT.XTag _ _ -> do
-      addComment "tag"
+      addComment (Text.pack $ "startElem " <> (elementName fullNode))
       ownAdded <- convertElem fullNode
-      addComment "endelem"
+      addComment (Text.pack $ "endElem " <> (elementName fullNode))
       return ownAdded
     HXT.XText str ->
       if HXT.stringTrim str == mempty
@@ -177,20 +177,19 @@ convertElem :: MonadTex m => HXT.XmlTree -> m (LaTeXT Identity ())
 convertElem el@(HXT.NTree (HXT.XTag name attrs) children) = do
   TexState {tsTemplate} <- get
   commentEl
-  -- liftIO $ hPutStrLn stderr (show $ ("convertElem", HXT.qualifiedName name))
-  case findTemplate (fst tsTemplate) el of
-    Nothing -> do
+  rets <- case findTemplate (fst tsTemplate) el of
+    [] -> do
       _ <- run
       return mempty
-    Just (sub, _, t) -> do
+    subList -> forM subList $ \(sub, _, t) -> do
       templateContext <- getTemplateContext
-      -- liftIO $ print ("findTemplate", elementName el, "found subtree", sub)
       rs <- forM sub $ \x -> templateApply t templateContext {tcElement = x}
       let h = mapM_ fst rs
           b = mapM_ snd rs
       addHead h
       add b
       return (h <> b)
+  return $ mconcat rets
   where
     commentEl =
       addComment
@@ -282,17 +281,16 @@ runPredicate s t = t == s
 findTemplate ::
      Template
   -> HXT.XmlTree
-  -> Maybe ( [HXT.XmlTree]
-           , ConcreteTemplateNode
-           , TemplateNode (StateT TexState IO))
-findTemplate ts e = run ts
+  -> [( [HXT.XmlTree]
+      , ConcreteTemplateNode
+      , TemplateNode (StateT TexState IO))]
+findTemplate (Template ts) e = concatMap run ts
   where
-    run (Template []) = Nothing
-    run (Template ((ct, t@TemplateNode {templatePredicate}):ps)) =
+    run (ct, t@TemplateNode {templatePredicate}) =
       let xpathR = HXT.getXPathSubTrees templatePredicate e
       in case xpathR of
-           [] -> run (Template ps)
-           sub -> Just (sub, ct, t)
+           [] -> []
+           sub -> [(sub, ct, t)]
 
 elChildren :: HXT.XmlTree -> [HXT.XmlTree]
 elChildren (HXT.NTree _ c) = filter isElem c
