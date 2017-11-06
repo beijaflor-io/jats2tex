@@ -38,7 +38,7 @@ var react_1 = require("react");
 var react_tabs_1 = require("react-tabs");
 var react_split_pane_1 = require("react-split-pane");
 require("./app.css");
-var SourceEditor = (function (_super) {
+var SourceEditor = /** @class */ (function (_super) {
     __extends(SourceEditor, _super);
     function SourceEditor() {
         return _super !== null && _super.apply(this, arguments) || this;
@@ -53,7 +53,7 @@ var SourceEditor = (function (_super) {
     };
     return SourceEditor;
 }(react_1.Component));
-var PreviewPdf = (function (_super) {
+var PreviewPdf = /** @class */ (function (_super) {
     __extends(PreviewPdf, _super);
     function PreviewPdf() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
@@ -115,7 +115,7 @@ var PreviewPdf = (function (_super) {
     };
     return PreviewPdf;
 }(react_1.Component));
-var Workspace = (function (_super) {
+var Workspace = /** @class */ (function (_super) {
     __extends(Workspace, _super);
     function Workspace() {
         var _this = _super !== null && _super.apply(this, arguments) || this;
@@ -333,7 +333,7 @@ var Workspace = (function (_super) {
     };
     return Workspace;
 }(react_1.Component));
-var App = (function (_super) {
+var App = /** @class */ (function (_super) {
     __extends(App, _super);
     function App() {
         return _super !== null && _super.apply(this, arguments) || this;
