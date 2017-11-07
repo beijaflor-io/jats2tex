@@ -469,7 +469,7 @@ class Workspace extends Component {
         <button
           style={{
             position: 'absolute',
-            top: 60,
+            top: 63,
             borderRadius: 0,
             right: 0,
             zIndex: 10,

@@ -345,7 +345,7 @@ var Workspace = /** @class */ (function (_super) {
             React.createElement("hr", null),
             React.createElement("button", { style: {
                     position: 'absolute',
-                    top: 60,
+                    top: 63,
                     borderRadius: 0,
                     right: 0,
                     zIndex: 10
