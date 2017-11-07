@@ -125,6 +125,7 @@ class Workspace extends Component {
     title: '',
     isLoading: true,
     serverData: {},
+    error: null,
   };
 
   componentDidMount() {
@@ -213,6 +214,7 @@ class Workspace extends Component {
   runConvert = () => {
     this.setState({
       isConverting: true,
+      error: null,
     });
 
     fetch('/', {
@@ -225,19 +227,36 @@ class Workspace extends Component {
         template: this.state.yamlTemplate,
       }),
     })
-      .then(res => res.text())
-      .then(
-        t => {
-          this.setState({conversionResult: t, isConverting: false});
-        },
-        err => {
-          console.error(err);
-          alert('Error converting.' + err);
-          this.setState({
-            isConverting: false,
-          });
-        },
-      );
+    .then(
+      res => {
+        console.log(res.status)
+        return res.text()
+        .then(t => {
+          console.log("got text", t);
+          if (res.status === 500) {
+            const errorUnescaped = t.slice(
+              t.indexOf("<pre>") + 5,
+              t.indexOf("</pre>")
+            );
+            const parser = new DOMParser()
+              .parseFromString(errorUnescaped, "text/html");
+            const error = parser.documentElement.textContent;
+            this.setState({isConverting: false, error});
+          } else if (res.status !== 200) {
+            this.setState({isConverting: false, error: "Unknown error"})
+          } else {
+            this.setState({conversionResult: t, isConverting: false});
+          }
+        });
+      }, 
+      err => {
+        console.error(err);
+        alert('Error converting.' + err);
+        this.setState({
+          isConverting: false,
+        });
+      }
+    )
   };
 
   renderSaving() {
@@ -403,6 +422,12 @@ class Workspace extends Component {
                   <Tab>PDF</Tab>
                   <Tab>Split</Tab>
                 </TabList>
+                { this.state.error
+                  ? <pre className="ErrorMessage alert alert-danger">
+                      { this.state.error }
+                    </pre>
+                  : ''
+                }
                 <TabPanel>
                   <SourceEditor
                     mode="stex"

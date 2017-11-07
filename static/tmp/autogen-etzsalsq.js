@@ -1,0 +1,2 @@
+$(main);function main(){var $form=$('.xml-form');attachForm($form)}
+function attachForm($form){$form.submit(function(e){e.preventDefault();$.post('/',{text:$('textarea').val()},function(res){$('.result').text(res)}).fail(function(err){$('.result').text(JSON.stringify(err,null,2))})})}
