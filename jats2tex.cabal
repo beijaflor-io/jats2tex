@@ -258,6 +258,7 @@ test-suite hspec
   main-is: Spec.hs
   hs-source-dirs:
       test
+      src
   build-depends:
       base >=4 && <5
     , xml
@@ -301,7 +302,6 @@ test-suite hspec
     , base
     , hspec
     , QuickCheck
-    , jats2tex
     , here
   if os(windows)
     build-depends:
@@ -309,4 +309,17 @@ test-suite hspec
   other-modules:
       SanitySpec
       Text.JaTexSpec
+      JATSXML.HTMLEntities
+      Text.JaTex
+      Text.JaTex.CleanUp
+      Text.JaTex.Cmd.Main
+      Text.JaTex.Parser
+      Text.JaTex.Template
+      Text.JaTex.Template.Requirements
+      Text.JaTex.Template.TemplateInterp
+      Text.JaTex.Template.TemplateInterp.Helpers
+      Text.JaTex.Template.Types
+      Text.JaTex.TexWriter
+      Text.JaTex.Upgrade
+      Text.JaTex.Util
   default-language: Haskell2010

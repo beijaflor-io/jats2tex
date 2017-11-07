@@ -99,10 +99,11 @@ executables:
 tests:
   hspec:
     main: Spec.hs
-    source-dirs: test
+    source-dirs:
+    - test
+    - src
     dependencies:
     - base
     - hspec
     - QuickCheck
-    - jats2tex
     - here
