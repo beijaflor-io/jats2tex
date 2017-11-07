@@ -1,6 +1,5 @@
 .SplitPane,
 .Pane {
-  overflow: scroll !important;
   height: 100%;
 }
 
@@ -18,11 +17,14 @@
 
 .react-tabs__tab-panel {
   position: relative;
-  height: 100%;
+  flex: 1;
+  overflow: scroll;
 }
 
 .react-tabs {
   height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .ReactCodeMirror, .CodeMirror, .SplitPane {
