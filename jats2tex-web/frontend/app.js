@@ -176,29 +176,27 @@ var Workspace = /** @class */ (function (_super) {
                 })
             })
                 .then(function (res) {
-                console.log(res.status);
                 return res.text()
                     .then(function (t) {
-                    console.log("got text", t);
                     if (res.status === 500) {
                         var errorUnescaped = t.slice(t.indexOf("<pre>") + 5, t.indexOf("</pre>"));
                         var parser = new DOMParser()
                             .parseFromString(errorUnescaped, "text/html");
-                        var error = parser.documentElement.textContent;
+                        var error = (parser.documentElement.textContent || "Failed to convert")
+                            .replace(/\\n/g, ' ');
                         _this.setState({ isConverting: false, error: error });
                     }
                     else if (res.status !== 200) {
-                        _this.setState({ isConverting: false, error: "Unknown error" });
+                        _this.setState({ isConverting: false, error: "Failed to convert" });
                     }
                     else {
                         _this.setState({ conversionResult: t, isConverting: false });
                     }
                 });
             }, function (err) {
-                console.error(err);
-                alert('Error converting.' + err);
                 _this.setState({
-                    isConverting: false
+                    isConverting: false,
+                    error: 'Failed to connect to server'
                 });
             });
         };

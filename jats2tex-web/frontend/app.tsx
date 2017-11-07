@@ -229,10 +229,8 @@ class Workspace extends Component {
     })
     .then(
       res => {
-        console.log(res.status)
         return res.text()
         .then(t => {
-          console.log("got text", t);
           if (res.status === 500) {
             const errorUnescaped = t.slice(
               t.indexOf("<pre>") + 5,
@@ -240,20 +238,20 @@ class Workspace extends Component {
             );
             const parser = new DOMParser()
               .parseFromString(errorUnescaped, "text/html");
-            const error = parser.documentElement.textContent;
+            const error = (parser.documentElement.textContent || "Failed to convert")
+              .replace(/\\n/g, ' ');
             this.setState({isConverting: false, error});
           } else if (res.status !== 200) {
-            this.setState({isConverting: false, error: "Unknown error"})
+            this.setState({isConverting: false, error: "Failed to convert"})
           } else {
             this.setState({conversionResult: t, isConverting: false});
           }
         });
       }, 
       err => {
-        console.error(err);
-        alert('Error converting.' + err);
         this.setState({
           isConverting: false,
+          error: 'Failed to connect to server',
         });
       }
     )
