@@ -27,6 +27,7 @@ data Options
             , optsTemplateFile  :: Maybe String
             , optsColumnWidth   :: Maybe Int
             , optsWarnings      :: Bool
+            , optsDebug         :: Bool
             , optsInputEncoding :: Maybe String
             , optsInputFile     :: FilePath
             }
@@ -58,6 +59,7 @@ options =
        (short 'w' <> long "max-width" <> metavar "MAX_COLUMN_WIDTH" <>
         help "Maximum Column Width 80 by default, set to 0 to disable")) <*>
   flag False True (short 'W' <> long "warnings" <> help "Enable warnings") <*>
+  flag False True (short 'd' <> long "debug" <> help "Enable debug output") <*>
   optional
     (strOption
        (short 'e' <> long "input-encoding" <> metavar "INPUT_ENCODING" <>
@@ -88,6 +90,7 @@ run Options{..} = do
                                    , joMaxWidth = fromMaybe 80 optsColumnWidth
                                    , joInputDocument = contents
                                    , joWarnings = optsWarnings
+                                   , joDebug = optsDebug
                                    }
 
   let outputFile = fromMaybe (dropExtension optsInputFile <> ".tex") optsOutputFile
