@@ -98,8 +98,8 @@ runTexWriter st w = do
 
 convert
   :: (MonadIO m, MonadMask m) =>
-     String -> (Template, FilePath) -> JATSDoc -> Bool -> m LaTeX
-convert fp tmp i w = do
+     String -> (Template, FilePath) -> JATSDoc -> Bool -> Bool -> m LaTeX
+convert fp tmp i w debug = do
   liftIO $ do
     hSetBuffering stdout LineBuffering
     hSetBuffering stderr LineBuffering
@@ -109,7 +109,6 @@ convert fp tmp i w = do
         , "Parsed Template:  " <> snd tmp
         , "Converting Input: " <> fp
         ]
-  debug <- isJust <$> liftIO (lookupEnv "JATS2TEX_DEBUG")
   (_, !t, _) <-
     runTexWriter
       emptyState {tsFileName = fp, tsTemplate = tmp, tsDebug = debug, tsWarnings = w}
