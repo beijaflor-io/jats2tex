@@ -124,8 +124,10 @@ class Workspace extends Component {
     yamlTemplate: '',
     title: '',
     isLoading: true,
+    isSaving: false,
     serverData: {},
     error: null,
+    isDirty: false,
   };
 
   componentDidMount() {
@@ -160,28 +162,12 @@ class Workspace extends Component {
       });
   }
 
-  componentDidUpdate() {
+  onChange() {
+    this.setState({isDirty: true});
     this.autoSave();
   }
 
-  isDirty() {
-    const userKeys = [
-      'conversionResult',
-      'template',
-      'text',
-      'yamlTemplate',
-      'title',
-    ];
-    return isEqual(
-      pick(this.state, userKeys),
-      pick(this.state.serverData, userKeys),
-    );
-  }
-
   autoSave = debounce(() => {
-    /*if (this.state.isLoading || this.state.isConverting || this.state.isSaving)*/
-      /*return;*/
-    if (!this.isDirty()) return;
     this.save();
   }, 5000);
 
@@ -207,6 +193,7 @@ class Workspace extends Component {
     }).then(() => {
       this.setState({
         isSaving: false,
+        isDirty: false,
       });
     });
   };
@@ -285,7 +272,7 @@ class Workspace extends Component {
   }
 
   renderDirty() {
-    if (!this.isDirty()) return null;
+    if (!this.state.isDirty) return null;
     return (
       <div className="BottomMessage">
         Changes detected
@@ -334,8 +321,8 @@ class Workspace extends Component {
                     mode="xml"
                     value={this.state.text}
                     onChange={e => {
-                      console.log('change XML');
                       this.setState({text: e});
+                      this.onChange();
                     }}
                   />
                 </TabPanel>
@@ -343,7 +330,10 @@ class Workspace extends Component {
                   <SourceEditor
                     mode="yaml"
                     value={this.state.yamlTemplate}
-                    onChange={e => this.setState({yamlTemplate: e})}
+                    onChange={e => {
+                      this.setState({yamlTemplate: e});
+                      this.onChange();
+                    }}
                   />
                 </TabPanel>
                 <TabPanel>
@@ -353,7 +343,10 @@ class Workspace extends Component {
                         mode="xml"
                         autoSave
                         value={this.state.text}
-                        onChange={e => this.setState({text: e})}
+                        onChange={e => {
+                          this.setState({text: e});
+                          this.onChange();
+                        }}
                       />
                     </div>
                     <div style={{...paneStyle, ...pane2Style}}>
@@ -361,7 +354,10 @@ class Workspace extends Component {
                         mode="yaml"
                         autoSave
                         value={this.state.yamlTemplate}
-                        onChange={e => this.setState({yamlTemplate: e})}
+                        onChange={e => {
+                          this.setState({yamlTemplate: e});
+                          this.onChange();
+                        }}
                       />
                     </div>
                   </SplitPane>
@@ -381,7 +377,10 @@ class Workspace extends Component {
                           type="text"
                           className="form-control"
                           value={this.state.title}
-                          onChange={e => this.setState({title: e.target.value})}
+                          onChange={e => {
+                            this.setState({title: e.target.value});
+                            this.onChange();
+                          }}
                           placeholder="Name this workspace"
                         />
                       </div>
@@ -432,6 +431,7 @@ class Workspace extends Component {
                     key={this.state.conversionResult}
                     autoSave
                     value={this.state.conversionResult}
+                    onChange={() => this.onChange()}
                   />
                 </TabPanel>
                 <TabPanel>
@@ -463,22 +463,51 @@ class Workspace extends Component {
           </SplitPane>
         </div>
         <hr />
+        
+        <div style={{
+          position: 'absolute',
+          top: 63,
+          right: 0,
+          zIndex: 10,
+          display: 'flex',
+          alignItems: 'flex-start',
+        }}>
+          <div style={{
+            marginRight: 10,
+            paddingTop: 7,
+            fontWeight: 200,
+          }}>
+            { this.state.isSaving 
+                ? "Saving..."
+                : this.state.isDirty
+                  ? "Changes detected"
+                  : "All changes are saved"
+            }
+          </div>
+          <button
+            style={{
+              borderRadius: 0,
+              marginRight: 10,
+            }}
+            className="btn btn-primary"
+            onClick={this.save}
+            disabled={this.state.isLoading || this.state.isSaving}
+          >
+            Save
+          </button>
 
-        <button
-          style={{
-            position: 'absolute',
-            top: 63,
-            borderRadius: 0,
-            right: 0,
-            zIndex: 10,
-          }}
-          className="btn btn-primary"
-          onClick={this.runConvert}
-          disabled={this.state.isLoading || this.state.isSaving}
-        >
-          Run jats2tex
-        </button>
-
+          <button
+            style={{
+              borderRadius: 0,
+            }}
+            className="btn btn-primary"
+            onClick={this.runConvert}
+            disabled={this.state.isLoading || this.state.isSaving}
+          >
+            Run jats2tex
+          </button>
+        </div>
+        
         {this.renderBottomMessage}
       </div>
     );
