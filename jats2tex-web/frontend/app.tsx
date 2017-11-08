@@ -125,6 +125,7 @@ class Workspace extends Component {
     title: '',
     isLoading: true,
     serverData: {},
+    error: null,
   };
 
   componentDidMount() {
@@ -213,6 +214,7 @@ class Workspace extends Component {
   runConvert = () => {
     this.setState({
       isConverting: true,
+      error: null,
     });
 
     fetch('/', {
@@ -225,19 +227,34 @@ class Workspace extends Component {
         template: this.state.yamlTemplate,
       }),
     })
-      .then(res => res.text())
-      .then(
-        t => {
-          this.setState({conversionResult: t, isConverting: false});
-        },
-        err => {
-          console.error(err);
-          alert('Error converting.' + err);
-          this.setState({
-            isConverting: false,
-          });
-        },
-      );
+    .then(
+      res => {
+        return res.text()
+        .then(t => {
+          if (res.status === 500) {
+            const errorUnescaped = t.slice(
+              t.indexOf("<pre>") + 5,
+              t.indexOf("</pre>")
+            );
+            const parser = new DOMParser()
+              .parseFromString(errorUnescaped, "text/html");
+            const error = (parser.documentElement.textContent || "Failed to convert")
+              .replace(/\\n/g, ' ');
+            this.setState({isConverting: false, error});
+          } else if (res.status !== 200) {
+            this.setState({isConverting: false, error: "Failed to convert"})
+          } else {
+            this.setState({conversionResult: t, isConverting: false});
+          }
+        });
+      }, 
+      err => {
+        this.setState({
+          isConverting: false,
+          error: 'Failed to connect to server',
+        });
+      }
+    )
   };
 
   renderSaving() {
@@ -403,6 +420,12 @@ class Workspace extends Component {
                   <Tab>PDF</Tab>
                   <Tab>Split</Tab>
                 </TabList>
+                { this.state.error
+                  ? <pre className="ErrorMessage alert alert-danger">
+                      { this.state.error }
+                    </pre>
+                  : ''
+                }
                 <TabPanel>
                   <SourceEditor
                     mode="stex"
@@ -444,7 +467,7 @@ class Workspace extends Component {
         <button
           style={{
             position: 'absolute',
-            top: 60,
+            top: 63,
             borderRadius: 0,
             right: 0,
             zIndex: 10,
