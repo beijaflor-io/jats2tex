@@ -59,7 +59,7 @@ options =
        (short 'w' <> long "max-width" <> metavar "MAX_COLUMN_WIDTH" <>
         help "Maximum Column Width 80 by default, set to 0 to disable")) <*>
   flag False True (short 'W' <> long "warnings" <> help "Enable warnings") <*>
-  flag False True (short 'd' <> long "debug" <> help "Enable debug") <*>
+  flag False True (short 'd' <> long "debug" <> help "Enable debug output") <*>
   optional
     (strOption
        (short 'e' <> long "input-encoding" <> metavar "INPUT_ENCODING" <>
