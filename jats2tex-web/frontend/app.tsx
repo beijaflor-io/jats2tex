@@ -169,7 +169,7 @@ class Workspace extends Component {
 
   autoSave = debounce(() => {
     this.save();
-  }, 5000);
+  }, 2000);
 
   save = () => {
     this.setState({
@@ -287,6 +287,12 @@ class Workspace extends Component {
       this.renderConverting() ||
       this.renderDirty()
     );
+  }
+
+  getSaveStatus() {
+    return this.state.isSaving && "Saving..."
+      || this.state.isDirty && "Changes detected"
+      || "All changes are saved";
   }
 
   render() {
@@ -472,17 +478,8 @@ class Workspace extends Component {
           display: 'flex',
           alignItems: 'flex-start',
         }}>
-          <div style={{
-            marginRight: 10,
-            paddingTop: 7,
-            fontWeight: 200,
-          }}>
-            { this.state.isSaving 
-                ? "Saving..."
-                : this.state.isDirty
-                  ? "Changes detected"
-                  : "All changes are saved"
-            }
+          <div key={this.getSaveStatus()} className="StatusMessage">
+            { this.getSaveStatus() }
           </div>
           <button
             style={{

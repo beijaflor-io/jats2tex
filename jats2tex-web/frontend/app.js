@@ -131,7 +131,7 @@ var Workspace = /** @class */ (function (_super) {
         };
         _this.autoSave = debounce(function () {
             _this.save();
-        }, 5000);
+        }, 2000);
         _this.save = function () {
             _this.setState({
                 isSaving: true
@@ -256,6 +256,11 @@ var Workspace = /** @class */ (function (_super) {
             this.renderConverting() ||
             this.renderDirty());
     };
+    Workspace.prototype.getSaveStatus = function () {
+        return this.state.isSaving && "Saving..."
+            || this.state.isDirty && "Changes detected"
+            || "All changes are saved";
+    };
     Workspace.prototype.render = function () {
         var _this = this;
         if (this.state.isLoading)
@@ -349,15 +354,7 @@ var Workspace = /** @class */ (function (_super) {
                     display: 'flex',
                     alignItems: 'flex-start'
                 } },
-                React.createElement("div", { style: {
-                        marginRight: 10,
-                        paddingTop: 7,
-                        fontWeight: 200
-                    } }, this.state.isSaving
-                    ? "Saving..."
-                    : this.state.isDirty
-                        ? "Changes detected"
-                        : "All changes are saved"),
+                React.createElement("div", { key: this.getSaveStatus(), className: "StatusMessage" }, this.getSaveStatus()),
                 React.createElement("button", { style: {
                         borderRadius: 0,
                         marginRight: 10
