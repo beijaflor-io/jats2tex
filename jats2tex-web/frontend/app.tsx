@@ -13,6 +13,7 @@ import * as debounce from 'lodash/debounce';
 import * as isEqual from 'lodash/isEqual';
 import * as pick from 'lodash/pick';
 import * as querystring from 'querystring';
+import * as moment from 'moment';
 import {BrowserRouter, Route} from 'react-router-dom';
 import {Component} from 'react';
 import {Tabs, TabList, Tab, TabPanel} from 'react-tabs';
@@ -128,10 +129,14 @@ class Workspace extends Component {
     serverData: {},
     error: null,
     isDirty: false,
+    lastSaveTime: null,
   };
 
   componentDidMount() {
     this.fetchWorkspace();
+    setInterval(() => {
+      this.forceUpdate();
+    }, 60000)
   }
 
   fetchWorkspace() {
@@ -194,6 +199,7 @@ class Workspace extends Component {
       this.setState({
         isSaving: false,
         isDirty: false,
+        lastSaveTime: moment(),
       });
     });
   };
@@ -292,7 +298,8 @@ class Workspace extends Component {
   getSaveStatus() {
     return this.state.isSaving && "Saving..."
       || this.state.isDirty && "Changes detected"
-      || "All changes are saved";
+      || this.state.lastSaveTime && ("Saved " + this.state.lastSaveTime.fromNow())
+      || "";
   }
 
   render() {

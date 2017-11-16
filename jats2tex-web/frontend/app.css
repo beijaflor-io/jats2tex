@@ -115,5 +115,5 @@ hr {
   margin-right: 10px;
   padding: 7px 10px 5px 10px;
   font-weight: 200;
-  animation: flash-background 0.4s cubic-bezier(0.3, 0.76, 0.25, 1.56);
+  animation: flash-background 1s cubic-bezier(0.3, 0.76, 0.25, 1.56);
 }

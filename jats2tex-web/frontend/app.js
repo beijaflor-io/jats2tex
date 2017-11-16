@@ -31,6 +31,7 @@ var React = require("react");
 var SplitPane = require("react-split-pane");
 var debounce = require("lodash/debounce");
 var querystring = require("querystring");
+var moment = require("moment");
 var react_router_dom_1 = require("react-router-dom");
 var react_1 = require("react");
 var react_tabs_1 = require("react-tabs");
@@ -127,7 +128,8 @@ var Workspace = /** @class */ (function (_super) {
             isSaving: false,
             serverData: {},
             error: null,
-            isDirty: false
+            isDirty: false,
+            lastSaveTime: null
         };
         _this.autoSave = debounce(function () {
             _this.save();
@@ -153,7 +155,8 @@ var Workspace = /** @class */ (function (_super) {
             }).then(function () {
                 _this.setState({
                     isSaving: false,
-                    isDirty: false
+                    isDirty: false,
+                    lastSaveTime: moment()
                 });
             });
         };
@@ -200,7 +203,11 @@ var Workspace = /** @class */ (function (_super) {
         return _this;
     }
     Workspace.prototype.componentDidMount = function () {
+        var _this = this;
         this.fetchWorkspace();
+        setInterval(function () {
+            _this.forceUpdate();
+        }, 60000);
     };
     Workspace.prototype.fetchWorkspace = function () {
         var _this = this;
@@ -259,7 +266,8 @@ var Workspace = /** @class */ (function (_super) {
     Workspace.prototype.getSaveStatus = function () {
         return this.state.isSaving && "Saving..."
             || this.state.isDirty && "Changes detected"
-            || "All changes are saved";
+            || this.state.lastSaveTime && ("Saved " + this.state.lastSaveTime.fromNow())
+            || "";
     };
     Workspace.prototype.render = function () {
         var _this = this;
