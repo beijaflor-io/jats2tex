@@ -8,7 +8,6 @@
 module Handler.Home where
 
 import           Conduit
-import qualified Data.ByteString.Char8 as ByteString
 import           Data.FileEmbed
 import qualified Data.Text             as Text
 import qualified Data.Text.Encoding    as Text
@@ -18,7 +17,6 @@ import           Import
 import           System.IO.Temp
 import           System.IO.Unsafe
 import           Text.JaTex
-import qualified Text.JaTex.CleanUp    as CleanUp
 import           Yesod.Core.Types      (FileInfo (..))
 
 placeholder :: Text
