@@ -65,6 +65,7 @@ library
     , process
     , th-utilities
     , exceptions
+    , raven-haskell
   if os(windows)
     build-depends:
         Win32
@@ -131,8 +132,8 @@ executable jats2tex
     , process
     , th-utilities
     , exceptions
-    , jats2tex
     , raven-haskell
+    , jats2tex
   if os(windows)
     build-depends:
         Win32
@@ -187,6 +188,7 @@ executable jats2tex-build-installer
     , process
     , th-utilities
     , exceptions
+    , raven-haskell
     , nsis
   if os(windows)
     build-depends:
@@ -241,6 +243,7 @@ executable jats2tex-remove-c-data
     , process
     , th-utilities
     , exceptions
+    , raven-haskell
     , xml
     , jats2tex
   if os(windows)
@@ -298,6 +301,7 @@ test-suite hspec
     , process
     , th-utilities
     , exceptions
+    , raven-haskell
     , base
     , hspec
     , QuickCheck

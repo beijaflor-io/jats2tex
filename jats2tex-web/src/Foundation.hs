@@ -20,6 +20,9 @@ import           Import.NoFoundation
 import           Network.Mail.Mime
 import           Network.Mail.Mime.SES
 import           System.Environment            (getEnv)
+import           System.Log.Raven
+import           System.Log.Raven.Transport.HttpConduit (sendRecord)
+import           System.Log.Raven.Types        (SentryLevel(Error))
 import           Text.Blaze.Html.Renderer.Utf8 (renderHtml)
 import           Text.Hamlet                   (hamletFile)
 import           Text.Jasmine                  (minifym)
@@ -207,6 +210,18 @@ instance Yesod App
     -- Provide proper Bootstrap styling for default displays, like
     -- error pages
   defaultMessageWidget title body = $(widgetFile "default-message-widget")
+
+  errorHandler (InternalError text) = do
+    liftIO $ do
+      sentry <- initRaven
+        "https://2caf18df27614273885c1c28dd23c549:a534ca2ded3d4416af5862962a37011a@sentry.io/189204"
+        id
+        sendRecord
+        stderrFallback
+      register sentry "haskell web" Error (show text) id
+    defaultErrorHandler (InternalError text)
+    
+  errorHandler other = defaultErrorHandler other
 
 -- Define breadcrumbs.
 instance YesodBreadcrumbs App where

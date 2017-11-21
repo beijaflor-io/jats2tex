@@ -57,6 +57,7 @@ dependencies:
 - jats2tex
 - digestive-functors-aeson
 - esqueleto
+- raven-haskell
 
 # The library contains all of our application code. The executable
 # defined below is just a thin wrapper.
