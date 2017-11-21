@@ -30,9 +30,8 @@ var Codemirror = require("react-codemirror");
 var React = require("react");
 var SplitPane = require("react-split-pane");
 var debounce = require("lodash/debounce");
-var isEqual = require("lodash/isEqual");
-var pick = require("lodash/pick");
 var querystring = require("querystring");
+var moment = require("moment");
 var react_router_dom_1 = require("react-router-dom");
 var react_1 = require("react");
 var react_tabs_1 = require("react-tabs");
@@ -126,16 +125,15 @@ var Workspace = /** @class */ (function (_super) {
             yamlTemplate: '',
             title: '',
             isLoading: true,
+            isSaving: false,
             serverData: {},
-            error: null
+            error: null,
+            isDirty: false,
+            lastSaveTime: null
         };
         _this.autoSave = debounce(function () {
-            /*if (this.state.isLoading || this.state.isConverting || this.state.isSaving)*/
-            /*return;*/
-            if (!_this.isDirty())
-                return;
             _this.save();
-        }, 5000);
+        }, 2000);
         _this.save = function () {
             _this.setState({
                 isSaving: true
@@ -156,7 +154,9 @@ var Workspace = /** @class */ (function (_super) {
                 })
             }).then(function () {
                 _this.setState({
-                    isSaving: false
+                    isSaving: false,
+                    isDirty: false,
+                    lastSaveTime: moment()
                 });
             });
         };
@@ -203,7 +203,11 @@ var Workspace = /** @class */ (function (_super) {
         return _this;
     }
     Workspace.prototype.componentDidMount = function () {
+        var _this = this;
         this.fetchWorkspace();
+        setInterval(function () {
+            _this.forceUpdate();
+        }, 60000);
     };
     Workspace.prototype.fetchWorkspace = function () {
         var _this = this;
@@ -229,18 +233,9 @@ var Workspace = /** @class */ (function (_super) {
             _this.setState(__assign({}, serverData, { isLoading: false, serverData: serverData }));
         });
     };
-    Workspace.prototype.componentDidUpdate = function () {
+    Workspace.prototype.onChange = function () {
+        this.setState({ isDirty: true });
         this.autoSave();
-    };
-    Workspace.prototype.isDirty = function () {
-        var userKeys = [
-            'conversionResult',
-            'template',
-            'text',
-            'yamlTemplate',
-            'title',
-        ];
-        return isEqual(pick(this.state, userKeys), pick(this.state.serverData, userKeys));
     };
     Workspace.prototype.renderSaving = function () {
         if (!this.state.isSaving)
@@ -258,7 +253,7 @@ var Workspace = /** @class */ (function (_super) {
         return (React.createElement("div", { className: "BottomMessage" }, "Fetching workspace..."));
     };
     Workspace.prototype.renderDirty = function () {
-        if (!this.isDirty())
+        if (!this.state.isDirty)
             return null;
         return (React.createElement("div", { className: "BottomMessage" }, "Changes detected"));
     };
@@ -267,6 +262,12 @@ var Workspace = /** @class */ (function (_super) {
             this.renderLoading() ||
             this.renderConverting() ||
             this.renderDirty());
+    };
+    Workspace.prototype.getSaveStatus = function () {
+        return this.state.isSaving && "Saving..."
+            || this.state.isDirty && "Changes detected"
+            || this.state.lastSaveTime && ("Saved " + this.state.lastSaveTime.fromNow())
+            || "";
     };
     Workspace.prototype.render = function () {
         var _this = this;
@@ -291,17 +292,26 @@ var Workspace = /** @class */ (function (_super) {
                                 React.createElement(react_tabs_1.Tab, null, "Workspace Data")),
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement(SourceEditor, { mode: "xml", value: this.state.text, onChange: function (e) {
-                                        console.log('change XML');
                                         _this.setState({ text: e });
+                                        _this.onChange();
                                     } })),
                             React.createElement(react_tabs_1.TabPanel, null,
-                                React.createElement(SourceEditor, { mode: "yaml", value: this.state.yamlTemplate, onChange: function (e) { return _this.setState({ yamlTemplate: e }); } })),
+                                React.createElement(SourceEditor, { mode: "yaml", value: this.state.yamlTemplate, onChange: function (e) {
+                                        _this.setState({ yamlTemplate: e });
+                                        _this.onChange();
+                                    } })),
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement(SplitPane, { split: "horizontal" },
                                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane1Style) },
-                                        React.createElement(SourceEditor, { mode: "xml", autoSave: true, value: this.state.text, onChange: function (e) { return _this.setState({ text: e }); } })),
+                                        React.createElement(SourceEditor, { mode: "xml", autoSave: true, value: this.state.text, onChange: function (e) {
+                                                _this.setState({ text: e });
+                                                _this.onChange();
+                                            } })),
                                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
-                                        React.createElement(SourceEditor, { mode: "yaml", autoSave: true, value: this.state.yamlTemplate, onChange: function (e) { return _this.setState({ yamlTemplate: e }); } })))),
+                                        React.createElement(SourceEditor, { mode: "yaml", autoSave: true, value: this.state.yamlTemplate, onChange: function (e) {
+                                                _this.setState({ yamlTemplate: e });
+                                                _this.onChange();
+                                            } })))),
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement("div", { className: "container-fluid" },
                                     React.createElement("form", { onSubmit: function (e) {
@@ -310,7 +320,10 @@ var Workspace = /** @class */ (function (_super) {
                                         } },
                                         React.createElement("div", { className: "form-group" },
                                             React.createElement("label", { htmlFor: "title" }, "Workspace Title"),
-                                            React.createElement("input", { name: "title", type: "text", className: "form-control", value: this.state.title, onChange: function (e) { return _this.setState({ title: e.target.value }); }, placeholder: "Name this workspace" })),
+                                            React.createElement("input", { name: "title", type: "text", className: "form-control", value: this.state.title, onChange: function (e) {
+                                                    _this.setState({ title: e.target.value });
+                                                    _this.onChange();
+                                                }, placeholder: "Name this workspace" })),
                                         React.createElement("div", { className: "form-group" },
                                             React.createElement("label", { htmlFor: "isPublic" },
                                                 React.createElement("input", { id: "isPublic", name: "isPublic", type: "checkbox", checked: this.state.isPublic, onChange: function (e) {
@@ -330,7 +343,7 @@ var Workspace = /** @class */ (function (_super) {
                                 ? React.createElement("pre", { className: "ErrorMessage alert alert-danger" }, this.state.error)
                                 : '',
                             React.createElement(react_tabs_1.TabPanel, null,
-                                React.createElement(SourceEditor, { mode: "stex", key: this.state.conversionResult, autoSave: true, value: this.state.conversionResult })),
+                                React.createElement(SourceEditor, { mode: "stex", key: this.state.conversionResult, autoSave: true, value: this.state.conversionResult, onChange: function () { return _this.onChange(); } })),
                             React.createElement(react_tabs_1.TabPanel, null,
                                 React.createElement("div", { style: { height: '100%' } },
                                     React.createElement(PreviewPdf, { value: this.state.conversionResult }))),
@@ -341,13 +354,22 @@ var Workspace = /** @class */ (function (_super) {
                                     React.createElement("div", { style: __assign({}, react_split_pane_1.paneStyle, react_split_pane_1.pane2Style) },
                                         React.createElement(PreviewPdf, { value: this.state.conversionResult })))))))),
             React.createElement("hr", null),
-            React.createElement("button", { style: {
+            React.createElement("div", { style: {
                     position: 'absolute',
                     top: 63,
-                    borderRadius: 0,
                     right: 0,
-                    zIndex: 10
-                }, className: "btn btn-primary", onClick: this.runConvert, disabled: this.state.isLoading || this.state.isSaving }, "Run jats2tex"),
+                    zIndex: 10,
+                    display: 'flex',
+                    alignItems: 'flex-start'
+                } },
+                React.createElement("div", { key: this.getSaveStatus(), className: "StatusMessage" }, this.getSaveStatus()),
+                React.createElement("button", { style: {
+                        borderRadius: 0,
+                        marginRight: 10
+                    }, className: "btn btn-primary", onClick: this.save, disabled: this.state.isLoading || this.state.isSaving }, "Save"),
+                React.createElement("button", { style: {
+                        borderRadius: 0
+                    }, className: "btn btn-primary", onClick: this.runConvert, disabled: this.state.isLoading || this.state.isSaving }, "Run jats2tex")),
             this.renderBottomMessage));
     };
     return Workspace;
