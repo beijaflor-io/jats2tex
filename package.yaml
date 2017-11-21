@@ -53,6 +53,7 @@ dependencies:
 - process
 - th-utilities
 - exceptions
+- raven-haskell
 
 when:
   condition: 'os(windows)'
@@ -72,7 +73,6 @@ executables:
     - ./bin
     dependencies:
     - jats2tex
-    - raven-haskell
     ghc-options: -O2
 
   jats2tex-remove-c-data:

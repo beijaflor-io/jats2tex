@@ -5,12 +5,16 @@
 module Text.JaTex.Cmd.Main
   where
 
+import           Control.Exception
 import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Text.IO         as Text
 import           GHC.IO.Encoding
 import           System.FilePath
 import           System.IO
+import           System.Log.Raven
+import           System.Log.Raven.Transport.HttpConduit ( sendRecord )
+import           System.Log.Raven.Types ( SentryLevel( Error ) )
 
 import           Options.Applicative
 #ifdef mingw32_HOST_OS
@@ -108,6 +112,13 @@ defaultMain = do
 #ifdef mingw32_HOST_OS
   setConsoleCP 65001
 #endif
-
+  sentry <- initRaven
+    "https://2caf18df27614273885c1c28dd23c549:a534ca2ded3d4416af5862962a37011a@sentry.io/189204"
+    id
+    sendRecord
+    stderrFallback
   opts <- execParser optionsPI
-  run opts
+  result <- Control.Exception.catch (run opts) $ \e -> do
+    register sentry "haskell" Error (show (e :: SomeException)) id
+    print (e :: SomeException)
+  return result
