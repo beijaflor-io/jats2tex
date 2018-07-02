@@ -1,0 +1,409 @@
+<table-wrap id="t1">
+<label>Table 1</label>
+<caption>
+<title>Access to medicines for non-communicable diseases in adults and seniors (≥ 20 years), according to socioeconomic, demographic, and health-related variables. PNAUM, Brazil, 2014.</title>
+</caption>
+<table frame="hsides" rules="groups">
+<colgroup width="13%">
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="5">Variable</th>
+<th colspan="7">Prevalence of access to medicines for NCD</th>
+</tr>
+<tr>
+<th colspan="7">
+<hr/>
+</th>
+</tr>
+<tr>
+<th colspan="2">Full</th>
+<th colspan="2">Partial</th>
+<th colspan="2">Null</th>
+<th rowspan="3">p<sup>b</sup></th>
+</tr>
+<tr>
+<th colspan="2">
+<hr/>
+</th>
+<th colspan="2">
+<hr/>
+</th>
+<th colspan="2">
+<hr/>
+</th>
+</tr>
+<tr>
+<th>%<sup>a</sup></th>
+<th>95%CI</th>
+<th>%<sup>a</sup></th>
+<th>95%CI</th>
+<th>%<sup>a</sup></th>
+<th>95%CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sex</td>
+<td colspan="6">
+</td>
+<td align="center">0.025</td>
+</tr>
+<tr>
+<td>Male</td>
+<td align="center">95.6</td>
+<td align="center">94.3–96.6</td>
+<td align="center">3.9</td>
+<td align="center">2.9–5.2</td>
+<td align="center">0.5</td>
+<td align="center">0.3–0.9</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Female</td>
+<td align="center">93.6</td>
+<td align="center">92.4–94.6</td>
+<td align="center">5.8</td>
+<td align="center">4.9–7.0</td>
+<td align="center">0.6</td>
+<td align="center">0.4–0.8</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td colspan="7">Age group (years)</td>
+<td align="center">&lt; 0.001</td>
+</tr>
+<tr>
+<td>20-39</td>
+<td align="center">91.2</td>
+<td align="center">87.5–93.8</td>
+<td align="center">7.5</td>
+<td align="center">4.9–11.3</td>
+<td align="center">1.3</td>
+<td align="center">0.8–2.3</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>40-59</td>
+<td align="center">93.5</td>
+<td align="center">92.2–94.6</td>
+<td align="center">5.8</td>
+<td align="center">4.7–7.0</td>
+<td align="center">0.7</td>
+<td align="center">0.5–1.1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>≥ 60</td>
+<td align="center">96.2</td>
+<td align="center">95.3 –96.9</td>
+<td align="center">3.7</td>
+<td align="center">3.0–4.6</td>
+<td align="center">0.1</td>
+<td align="center">0.04–0.1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Educational level<sup>c</sup></td>
+<td colspan="2">
+</td>
+<td colspan="2">
+</td>
+<td colspan="2">
+</td>
+<td align="center">0.032</td>
+</tr>
+<tr>
+<td>0-4</td>
+<td align="center">95.1</td>
+<td align="center">93.9–96.0</td>
+<td align="center">4.4</td>
+<td align="center">3.5–5.5</td>
+<td align="center">0.5</td>
+<td align="center">0.3–0.9</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td align="center">95.1</td>
+<td align="center">93.7–96.3</td>
+<td align="center">4.5</td>
+<td align="center">3.4–5.9</td>
+<td align="center">0.4</td>
+<td align="center">0.2–0.7</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>9-11</td>
+<td align="center">92.6</td>
+<td align="center">90.7–94.2</td>
+<td align="center">6.8</td>
+<td align="center">5.2–8.7</td>
+<td align="center">0.6</td>
+<td align="center">0.3–1.1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>≥ 12</td>
+<td align="center">95.1</td>
+<td align="center">92.7–96.7</td>
+<td align="center">4.3</td>
+<td align="center">2.7–6.6</td>
+<td align="center">0.7</td>
+<td align="center">0.3–1.6</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Region</td>
+<td colspan="6">
+</td>
+<td align="center">&lt; 0.001</td>
+</tr>
+<tr>
+<td>North</td>
+<td align="center">93.6</td>
+<td align="center">91.1–95.4</td>
+<td align="center">4.7</td>
+<td align="center">3.2–6.9</td>
+<td align="center">1.7</td>
+<td align="center">0.9–3.2</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Northeast</td>
+<td align="center">92.0</td>
+<td align="center">90.2–93.5</td>
+<td align="center">6.8</td>
+<td align="center">5.4–8.6</td>
+<td align="center">1.2</td>
+<td align="center">0.8–1.9</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Southeast</td>
+<td align="center">94.9</td>
+<td align="center">93.4–96.1</td>
+<td align="center">4.8</td>
+<td align="center">3.7–6.4</td>
+<td align="center">0.3</td>
+<td align="center">0.1–0.6</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>South</td>
+<td align="center">95.8</td>
+<td align="center">94.4–96.9</td>
+<td align="center">3.9</td>
+<td align="center">2.9–5.2</td>
+<td align="center">0.3</td>
+<td align="center">0.1–0.8</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Midwest</td>
+<td align="center">93.9</td>
+<td align="center">92.2–95.2</td>
+<td align="center">5.8</td>
+<td align="center">4.5–7.3</td>
+<td align="center">0.3</td>
+<td align="center">0.1–0.8</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td colspan="7">CCEB<sup>d</sup></td>
+<td align="center">0.004</td>
+</tr>
+<tr>
+<td>A/B</td>
+<td align="center">96.4</td>
+<td align="center">94.7–97.5</td>
+<td align="center">3.2</td>
+<td align="center">2.1–4.9</td>
+<td align="center">0.4</td>
+<td align="center">0.1–1.0</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>C</td>
+<td align="center">94.1</td>
+<td align="center">93.0–95.1</td>
+<td align="center">5.5</td>
+<td align="center">4.5–6.6</td>
+<td align="center">0.5</td>
+<td align="center">0.3–0.7</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>D</td>
+<td align="center">92.8</td>
+<td align="center">90.5–94.6</td>
+<td align="center">6.1</td>
+<td align="center">4.5–8.3</td>
+<td align="center">1.1</td>
+<td align="center">0.6–2.0</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>E</td>
+<td align="center">90.8</td>
+<td align="center">85.3–94.3</td>
+<td align="center">8.7</td>
+<td align="center">5.2–14.2</td>
+<td align="center">0.5</td>
+<td align="center">0.2–1.4</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td colspan="7">Number of NCD</td>
+<td align="center">&lt; 0.001</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="center">96.7</td>
+<td align="center">95.7–97.5</td>
+<td align="center">2,5</td>
+<td align="center">1.8–3.5</td>
+<td align="center">0,7</td>
+<td align="center">0.5–1.1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="center">93.5</td>
+<td align="center">91.7–94.9</td>
+<td align="center">5,9</td>
+<td align="center">4.6–7.6</td>
+<td align="center">0,6</td>
+<td align="center">0.3–1.1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>≥ 3</td>
+<td align="center">91.3</td>
+<td align="center">89.7–92.8</td>
+<td align="center">8,5</td>
+<td align="center">7.1–10.1</td>
+<td align="center">0,2</td>
+<td align="center">0.1–0.4</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td colspan="7">Number of medicines needed<sup>e</sup></td>
+<td align="center">&lt; 0.001</td>
+</tr>
+<tr>
+<td>1</td>
+<td align="center">97.0</td>
+<td align="center">95.7–98.0</td>
+<td align="center">2.7</td>
+<td align="center">1.8–4.0</td>
+<td align="center">0.3</td>
+<td align="center">0.1–0.6</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td align="center">94.4</td>
+<td align="center">92.7–95.7</td>
+<td align="center">5.5</td>
+<td align="center">4.2–7.2</td>
+<td align="center">0.2</td>
+<td align="center">0.04–0.7</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>3-4</td>
+<td align="center">94.2</td>
+<td align="center">92.4–95.5</td>
+<td align="center">5.8</td>
+<td align="center">4.5–7.6</td>
+<td align="center" colspan="2">-</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>≥ 5</td>
+<td align="center">91.1</td>
+<td align="center">88.4–93.2</td>
+<td align="center">8.9</td>
+<td align="center">6.8–11.6</td>
+<td align="center" colspan="2">-</td>
+<td>
+</td>
+</tr>
+<tr>
+<td colspan="7">Self-assessment of health</td>
+<td align="center">&lt; 0.001</td>
+</tr>
+<tr>
+<td>Very good/Good</td>
+<td align="center">96.5</td>
+<td align="center">95.5–97.3</td>
+<td align="center">3.1</td>
+<td align="center">2.3–4.1</td>
+<td align="center">0.4</td>
+<td align="center">0.2–0.7</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Regular</td>
+<td align="center">93.2</td>
+<td align="center">91.8–94.3</td>
+<td align="center">6.2</td>
+<td align="center">5.1–7.6</td>
+<td align="center">0.6</td>
+<td align="center">0.4–1.0</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>Bad/Very bad</td>
+<td align="center">86.8</td>
+<td align="center">83.6–89.4</td>
+<td align="center">12.4</td>
+<td align="center">9.8–15.5</td>
+<td align="center">0.8</td>
+<td align="center">0.4–1.8</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td>All</td>
+<td align="center">94.3</td>
+<td align="center">93.4–95.1</td>
+<td align="center">5.2</td>
+<td align="center">4.4–6.0</td>
+<td align="center">0.5</td>
+<td align="center">0.4–0.7</td>
+<td align="center">-</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p>NCD: non-communicable diseases</p>
+</fn>
+<fn id="TFN2">
+<p><sup>a</sup> Percentage adjusted by sample weights and by post-stratification according to age and sex.</p>
+</fn>
+<fn id="TFN3">
+<p><sup>b</sup> Pearson’s Chi-squared test.</p>
+</fn>
+<fn id="TFN4">
+<p><sup>c</sup> In completed grades in school.</p>
+</fn>
+<fn id="TFN5">
+<p><sup>d</sup> According to the 2013 Brazil Economic Classification Criterion (CCEB 2013) of the Brazilian Association of Research Companies (ABEP). Available from: <ext-link ext-link-type="uri" xlink:href="http://www.abep.org">http://www.abep.org</ext-link>
+</p>
+</fn>
+<fn id="TFN6">
+<p><sup>e</sup> Medicines prescribed by the physician.</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>

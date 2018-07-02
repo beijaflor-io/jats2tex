@@ -1,0 +1,38 @@
+list-item: |
+  \item @@children
+
+list[@list-type="bullet"]: |
+   \begin{itemize}
+   @@children \end{itemize}
+   
+   
+list[@list-type="order"]: |
+   \begin{enumerate}
+   @@children \end{enumerate}
+   
+list[@list-type="alpha-lower"]: |
+   \begin{enumerate}[a)]
+   @@children \end{enumerate}
+
+list[@list-type="alpha-upper"]: |
+   \begin{enumerate}[(A)]
+   @@children \end{enumerate}
+      
+list[@list-type="roman-lower"]: |
+   \begin{enumerate}[i.]
+   @@children \end{enumerate}
+ 
+list[@list-type="roman-upper"]: |
+   \begin{enumerate}[(I)]
+   @@children \end{enumerate}
+
+p: "\n\n@@children\n\n"
+
+title:
+  head: |
+    @@children
+  bodies: ""
+
+sec: |
+   \section{@@heads}
+   @@bodies

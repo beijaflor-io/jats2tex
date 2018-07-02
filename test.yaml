@@ -1,6 +1,6 @@
 article[@xml:lang="pt"]:
   head: |
-    % template.yaml 2.1.2.2 (sec/p inline-graphic)
+    % template.yaml 2.1.3 (completo para a apresentação do MODELO #1)
     \documentclass{article}
     \usepackage{scielo}
 
@@ -72,9 +72,7 @@ article[@xml:lang="es"]:
     \end{document}
 
 
-
 sub-article: ""
-
 
 alt-title[@alt-title-type="title-running-head"]: 
   head: |
@@ -319,14 +317,14 @@ list[@list-type="roman-upper"]: |
    \begin{enumerate}[(I)]
    @@children \end{enumerate}
 
+sec: |
+   \section{@@heads}
+   @@bodies
+   
 title:
   head: |
     @@children
   bodies: ""
-
-sec: |
-   \section{@@heads}
-   @@bodies
 
 disp-quote: |
 
@@ -624,8 +622,14 @@ trans-abstract[@xml:lang="fr"]: |
   \caption{@@lua(return find "/fig/title")@@}\label{fig:@@lua(return attr('id'))@@}
   \end{figure}
 
+disp-formula: |
+    \begin{center}
+    \begin{figure}[h]
+    \includegraphics[width=.5\textwidth]{0034-8910-rsp-48-3-0451-ee01.jpg}
+    \end{figure}
+    \end{center}
+    
 graphic: "@@lua(return attr 'xlink:href')@@"
-
 
 inline-formula/inline-graphic: "\\includegraphics{@@lua(return attr 'xlink:href')@@}" 
  
@@ -635,17 +639,32 @@ b: |
   \textbf{@@children}
 
 
-caption/title: |
-  \caption{@@children}
+caption/title: ""
 
-table: |
+table-wrap: |
 
-  \begin{table}
-  \begin{xtabular}{@@heads}
-  \hline
-  @@bodies
-  \end{xtabular}
-  \end{table}
+   \begingroup
+    \rowcolors{1}{verde}{verdelimao}
+    
+    \begin{table}
+        \caption{@@lua(return find('//title'))@@}
+    \begin{adjustbox}{width=1\textwidth,center}
+    \begin{threeparttable}
+      \begin{xtabular}{@@heads}\hline
+
+        @@bodies
+     
+      \end{xtabular}
+   \begin{tablenotes}  
+    \item @@lua(
+      return find('//p')
+    )@@
+   \end{tablenotes}
+   \end{threeparttable}
+   \end{adjustbox}
+   \end{table}
+
+table-wrap-foot: ""
 
 thead/tr:
   head: |
@@ -685,3 +704,4 @@ td: |
 
     return output
   )@@
+

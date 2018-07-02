@@ -319,14 +319,9 @@ list[@list-type="roman-upper"]: |
    \begin{enumerate}[(I)]
    @@children \end{enumerate}
 
-title:
-  head: |
-    @@children
-  bodies: ""
-
 sec: |
-   \section{@@heads}
-   @@bodies
+   \section{@@lua(return find('sec/title'))@@}
+   @@children
 
 disp-quote: |
 
@@ -635,17 +630,36 @@ b: |
   \textbf{@@children}
 
 
-caption/title: |
-  \caption{@@children}
+table-wrap: |
 
-table: |
+   \begingroup
+    %\rowcolors{1}{verde}{verdelimao}
+    \begin{table}
+     \caption{@@lua(return find('//label'))@@}
+    \begin{adjustbox}{width=1\textwidth,center}
+     \begin{threeparttable}
+     % COMMENT: rever contagem de colunas! TEM QUE SER 7!
+    \begin{table}
+    \begin{xtabular}{@@heads}\hline
 
-  \begin{table}
-  \begin{xtabular}{@@heads}
-  \hline
-  @@bodies
-  \end{xtabular}
-  \end{table}
+     @@bodies
+     
+   \end{xtabular}
+   \begin{tablenotes}
+   @@lua(return find "//table-wrap-foot/fn")@@
+   %% COMMENT: AQUI VÃO AS NOTAS DE TABELA. EX.
+   %   \item NCD: non-communicable diseases
+   %   \item[a] Percentage adjusted b
+   %   \item[b] Pearson’s Chi-squared test.
+   %   \item[c] In completed grades in school.
+   %   \item[d] According te 
+   %   \item[e] Medicines prescribed by the physician.
+   \end{tablenotes}
+   \end{threeparttable}
+   \end{adjustbox}
+   \end{table}
+
+table-wrap-foot: ""
 
 thead/tr:
   head: |

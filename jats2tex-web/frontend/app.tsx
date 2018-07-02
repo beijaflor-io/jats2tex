@@ -240,7 +240,7 @@ class Workspace extends Component {
             this.setState({conversionResult: t, isConverting: false});
           }
         });
-      }, 
+      },
       err => {
         this.setState({
           isConverting: false,
@@ -429,8 +429,6 @@ class Workspace extends Component {
               <Tabs>
                 <TabList>
                   <Tab>LaTeX</Tab>
-                  <Tab>PDF</Tab>
-                  <Tab>Split</Tab>
                 </TabList>
                 { this.state.error
                   ? <pre className="ErrorMessage alert alert-danger">
@@ -447,36 +445,12 @@ class Workspace extends Component {
                     onChange={() => this.onChange()}
                   />
                 </TabPanel>
-                <TabPanel>
-                  <div style={{height: '100%'}}>
-                    <PreviewPdf value={this.state.conversionResult} />
-                  </div>
-                </TabPanel>
-                <TabPanel>
-                  <SplitPane
-                    split="horizontal"
-                    defaultSize={document.body.offsetHeight * 0.45}
-                    minSize={0.2}
-                  >
-                    <div style={{...paneStyle, ...pane1Style}}>
-                      <SourceEditor
-                        mode="stex"
-                        key={this.state.conversionResult}
-                        autoSave
-                        value={this.state.conversionResult}
-                      />
-                    </div>
-                    <div style={{...paneStyle, ...pane2Style}}>
-                      <PreviewPdf value={this.state.conversionResult} />
-                    </div>
-                  </SplitPane>
-                </TabPanel>
               </Tabs>
             </div>
           </SplitPane>
         </div>
         <hr />
-        
+
         <div style={{
           position: 'absolute',
           top: 63,
@@ -511,7 +485,7 @@ class Workspace extends Component {
             Run jats2tex
           </button>
         </div>
-        
+
         {this.renderBottomMessage}
       </div>
     );
